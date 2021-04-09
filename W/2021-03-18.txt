@@ -1,0 +1,565 @@
+08:01:54:  DRB测试--3.17日
+08:02:09:  DRB测试缺陷--分样机.xlsx
+08:02:19:  缺陷统计.xlsx
+08:02:24:  DRB测试缺陷--分类别.xlsx
+08:11:14:  收取邮件 - 张开发
+08:11:29:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+08:11:44:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+08:11:49:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+08:11:54:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+08:11:59:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+08:12:04:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+08:15:44:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+08:15:49:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+08:16:19:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+08:16:29:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+08:17:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:17:24:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+08:17:29:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:18:39:  本地磁盘 (D:)
+08:18:44:  D:\00-06\DRB\Tools\CreateJK.exe
+08:18:49:  Tools
+08:18:54:  TCR调测工具 V3.36
+08:20:44:  log
+08:20:49:  20210318
+08:20:54:  K64_BTCR-1100200400210043_20210318081912
+08:20:59:  Box_4__BTCR-1100200400210043_20210318081912.log - DRB2.tat* - TextAnalysisTool.NET
+08:21:29:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:21:34:  TCR调测工具 V3.36
+08:21:44:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+08:21:59:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+08:22:04:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+08:22:19:  inc
+08:22:24:  DRB
+08:22:29:  Applications
+08:22:34:  LogHandle
+08:22:39:  D:\00-06\DRB\Applications\LogHandle - 日志信息 - TortoiseSVN
+08:22:44:  LogHandle
+08:22:54:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c - 日志信息 - TortoiseSVN
+08:22:59:  LogHandle.c Revision 4144 - TortoiseMerge
+08:23:09:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c - 日志信息 - TortoiseSVN
+08:23:14:  LogHandle
+08:23:24:  D:\00-06\DRB\Applications\LogHandle - 版本库浏览器 - TortoiseSVN
+08:23:44:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/b.../LogHandle.c - 日志信息 - TortoiseSVN
+08:23:49:  LogHandle.c Revision 3053 - TortoiseMerge
+08:23:54:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/b.../LogHandle.c - 日志信息 - TortoiseSVN
+08:23:59:  LogHandle
+08:24:04:  Applications
+08:24:09:  DRB
+08:24:14:  Log
+08:24:19:  D:\00-06\DRB\Middlewares\Log\Log.c - 日志信息 - TortoiseSVN
+08:24:24:  Log
+08:24:29:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+08:24:49:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/branche.../Log.c - 日志信息 - TortoiseSVN
+08:24:54:  Log.c Revision 3307 - TortoiseMerge
+08:25:04:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/branche.../Log.c - 日志信息 - TortoiseSVN
+08:25:14:  Log.c Revision 3275 - TortoiseMerge
+08:25:19:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/branche.../Log.c - 日志信息 - TortoiseSVN
+08:25:24:  Log.c Revision 3272 - TortoiseMerge
+08:25:44:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+08:26:14:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+08:26:29:  Tools
+08:26:34:  TCR调测工具 V3.36
+08:26:39:  取款
+08:26:44:  TCR调测工具 V3.36
+08:26:59:  20210318
+08:27:19:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:27:24:  Box_4__BTCR-1100200400210043_20210318082640.log - DRB2.tat* - TextAnalysisTool.NET
+08:27:49:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:28:24:  Tools
+08:28:34:  D:\00-06\DRB\Tools\CreateJK.exe
+08:28:39:  Tools
+08:28:54:  DRB
+08:28:59:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+08:29:09:  LogHandle.c - TortoiseMerge
+08:29:29:  文件补丁  
+08:29:34:  Track.c - TortoiseMerge
+08:29:44:  SpiFlashDriver.c - TortoiseMerge
+08:30:04:  DRB
+08:28:24:  Tools
+08:28:34:  D:\00-06\DRB\Tools\CreateJK.exe
+08:28:39:  Tools
+08:28:54:  DRB
+08:28:59:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+08:29:09:  LogHandle.c - TortoiseMerge
+08:29:29:  文件补丁  
+08:29:34:  Track.c - TortoiseMerge
+08:29:44:  SpiFlashDriver.c - TortoiseMerge
+08:30:04:  DRB
+08:31:49:  TCR调测工具 V3.36
+08:33:09:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+08:33:14:  TCR调测工具 V3.36
+08:33:19:  取款
+08:33:24:  TCR调测工具 V3.36
+08:37:59:  取款
+08:38:04:  TCR调测工具 V3.36
+08:39:39:  于斌1
+08:39:59:  20210318
+08:41:29:  于斌1
+08:41:34:  20210318
+08:41:39:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:41:49:  K64_BTCR-1100200400210043_20210318083912
+08:41:54:  Box_4__BTCR-1100200400210043_20210318083912.log - DRB2.tat* - TextAnalysisTool.NET
+08:42:29:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:42:44:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+08:42:49:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+08:42:54:  eSpace
+08:42:59:  DRB
+08:43:04:  Tools
+08:43:14:  TCR调测工具 V3.36
+08:43:19:  丛柏屹
+08:43:29:  eSpace
+08:43:34:  丛柏屹
+08:43:39:  TCR调测工具 V3.36
+08:44:29:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:44:29:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:45:44:  TCR调测工具 V3.36
+08:45:49:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:45:54:  CRS调测工具（研发版）V1.0.2.1
+08:50:04:  丛柏屹
+08:50:24:  BTCR-1100_BOX1T2_KE06_FV1002_EXTFEDU6V13_MAIN_T23 - 写邮件
+08:51:09:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:51:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:51:19:  Tools
+08:51:24:  D:\00-06\DRB\Tools\CreateJK.exe
+08:51:29:  TCR调测工具 V3.36
+08:51:39:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+08:51:44:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:51:54:  发送指令到K06
+08:52:09:  TCR调测工具 V3.36
+08:54:04:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:57:35:  TCR调测工具 V3.36
+08:58:00:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:58:05:  TCR调测工具 V3.36
+08:58:05:  TCR调测工具 V3.36
+09:00:35:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:02:25:  00-06
+09:02:30:  trunk
+09:02:35:  Project
+09:02:40:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+09:02:55:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:06:55:  Toolbox
+09:07:00:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:11:35:  Build Output
+09:11:40:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:11:45:  Build Output
+09:11:50:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:13:25:  μVision
+09:13:30:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:16:00:  TCR调测工具 V3.36
+09:19:35:  0-工作 - 张开发 - 印象笔记
+09:19:45:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:19:50:  TCR调测工具 V3.36
+09:21:10:  取款
+09:21:15:  TCR调测工具 V3.36
+09:21:20:  取款
+09:21:25:  TCR调测工具 V3.36
+09:23:20:  取款
+09:23:25:  TCR调测工具 V3.36
+09:23:50:  计算器
+09:24:10:  TCR调测工具 V3.36
+09:25:10:  取款
+09:25:15:  TCR调测工具 V3.36
+09:26:45:  BTCRTestTool 属性
+09:26:50:  TCRControlCmdDLL
+09:26:55:  20210318
+09:29:30:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:29:30:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:30:05:  Decode
+09:30:10:  LOG
+09:30:15:  Box_4__BTCR-1100200400210043_20210318092513.log - DRB2.tat* - TextAnalysisTool.NET
+09:31:15:  log
+09:31:20:  20210318
+09:31:25:  Decode
+09:31:30:  Box_4__BTCR-1100200400210043_20210318092513.log - DRB2.tat* - TextAnalysisTool.NET
+09:34:50:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+09:34:55:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+09:35:20:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+09:36:35:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+09:36:45:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+09:36:55:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\easyflash\src\ef_log.c (DRB) - Sublime Text (UNREGISTERED)
+09:37:20:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\easyflash\inc\ef_cfg.h (DRB) - Sublime Text (UNREGISTERED)
+09:37:25:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\easyflash\src\ef_log.c (DRB) - Sublime Text (UNREGISTERED)
+09:37:40:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+09:40:00:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+09:40:15:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+09:44:56:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+09:44:56:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+09:45:11:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\easyflash\src\ef_log.c (DRB) - Sublime Text (UNREGISTERED)
+09:45:56:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+09:46:01:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+09:46:06:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+09:47:11:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+09:47:36:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+09:48:01:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+09:48:21:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+09:49:11:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+09:49:41:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:50:31:  00-06
+09:50:36:  D:\00-06\DRB\Tools\CreateJK.exe
+09:50:41:  TCR调测工具 V3.36
+09:51:36:  20210318
+09:51:41:  Decode
+09:51:46:  Box_4__BTCR-1100200400210043_20210318092513.log - DRB2.tat* - TextAnalysisTool.NET
+09:51:51:  Box_4__BTCR-1100200400210043_20210318095057.log - DRB2.tat* - TextAnalysisTool.NET
+09:52:06:  K64_BTCR-1100200400210043_20210318095057
+09:52:11:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:55:46:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+09:56:11:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\easyflash\src\ef_log.c (DRB) - Sublime Text (UNREGISTERED)
+09:56:41:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+09:56:51:   - 版本库浏览器 - TortoiseSVN
+09:57:16:  正在打开 - Word
+09:57:31:  锁屏状态
+09:57:36:  正在打开 - Word
+09:58:01:   - 版本库浏览器 - TortoiseSVN
+09:58:06:  锁屏状态
+09:58:11:  固件模块方案设计-日志存储v1.00 -.docx-revHEAD.svn000.tmp.docx [只读] - Word
+09:58:06:  锁屏状态
+09:58:11:  固件模块方案设计-日志存储v1.00 -.docx-revHEAD.svn000.tmp.docx [只读] - Word
+10:00:06:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+10:00:31:  固件模块方案设计-日志存储v1.00 -.docx-revHEAD.svn000.tmp.docx [只读] - Word
+10:04:11:  锁屏状态
+10:04:16:  固件模块方案设计-日志存储v1.00 -.docx-revHEAD.svn000.tmp.docx [只读] - Word
+10:04:46:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+10:04:51:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+10:05:01:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+10:07:36:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+10:07:41:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+10:08:11:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:08:16:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+10:08:21:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:09:01:  D:\00-06\DRB\Tools\CreateJK.exe
+10:09:06:  Tools
+10:09:11:  TCR调测工具 V3.36
+10:09:31:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:09:36:  TCR调测工具 V3.36
+10:10:21:  20210318
+10:10:26:  Decode
+10:10:31:  Box_4__BTCR-1100200400210043_20210318095057.log - DRB2.tat* - TextAnalysisTool.NET
+10:10:36:  Box_4__BTCR-1100200400210043_20210318100933.log - DRB2.tat* - TextAnalysisTool.NET
+10:11:06:  发送指令到K06
+10:11:16:  TCR调测工具 V3.36
+10:11:31:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+10:11:51:  TCR调测工具 V3.36
+10:11:56:  发送指令到K06
+10:12:01:  TCR调测工具 V3.36
+10:12:06:  K64_BTCR-1100200400210043_20210318100933
+10:12:11:  20210318
+10:12:41:  Decode
+10:12:46:  Box_4__BTCR-1100200400210043_20210318101203.log - DRB2.tat* - TextAnalysisTool.NET
+10:12:56:  K64_BTCR-1100200400210043_20210318101203
+10:13:01:  20210318
+10:13:06:  K64_BTCR-1100200400210043_20210318101203.log - DRB2.tat* - TextAnalysisTool.NET
+10:13:26:  Decode
+10:14:26:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:14:26:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:15:36:  TCR调测工具 V3.36
+10:15:46:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:16:36:  20210318
+10:16:41:  Decode
+10:16:46:  Box_4__BTCR-1100200400210043_20210318101541.log - DRB2.tat* - TextAnalysisTool.NET
+10:16:56:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:17:16:  D:\00-06\DRB\Tools\CreateJK.exe
+10:17:21:  TCR调测工具 V3.36
+10:17:26:  Tools
+10:17:36:  TCR调测工具 V3.36
+10:17:41:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:18:01:  发送指令到K06
+10:18:06:  TCR调测工具 V3.36
+10:18:21:  发送指令到K06
+10:18:26:  TCR调测工具 V3.36
+10:18:31:  Tools
+10:18:36:  20210318
+10:19:06:  LOG
+10:19:11:  K64_BTCR-1100200400210043_20210318101826
+10:19:16:  K64-_BTCR-1100200400210043_20210318101826
+10:19:21:  K64--_BTCR-1100200400210043_20210318101826.log - DRB2.tat* - TextAnalysisTool.NET
+10:19:31:  删除文件夹
+10:19:41:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:20:06:  Decode
+10:20:11:  K64_BTCR-1100200400210043_20210318101933
+10:20:16:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:21:46:  D:\00-06\DRB\Tools\CreateJK.exe
+10:21:51:  打开
+10:21:56:  Tools
+10:22:06:  TCR调测工具 V3.36
+10:22:16:  Tools
+10:22:21:  20210318
+10:22:26:  TCR调测工具 V3.36
+10:22:36:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:22:56:  TCR调测工具 V3.36
+10:23:16:  BTCRTestTool
+10:25:11:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:28:31:  TCR调测工具 V3.36
+10:28:36:  20210318
+10:29:56:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:30:01:  K64--_BTCR-1100200400210043_20210318101826.log - DRB2.tat* - TextAnalysisTool.NET
+10:28:31:  TCR调测工具 V3.36
+10:28:36:  20210318
+10:29:56:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:30:01:  K64--_BTCR-1100200400210043_20210318101826.log - DRB2.tat* - TextAnalysisTool.NET
+10:30:06:  Box_4__BTCR-1100200400210043_20210318102831.log - DRB2.tat* - TextAnalysisTool.NET
+10:31:11:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+10:31:16:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+10:31:26:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+10:31:36:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+10:31:41:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+10:31:46:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+10:31:56:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+10:32:01:  D:\00-06\DRB\Applications\Initial\Initial.c (DRB) - Sublime Text (UNREGISTERED)
+10:32:06:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+10:32:11:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+10:32:16:  D:\00-06\DRB\Applications\Initial\Initial.c (DRB) - Sublime Text (UNREGISTERED)
+10:32:21:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+10:32:26:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+10:33:31:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+10:33:36:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\easyflash\src\ef_log.c (DRB) - Sublime Text (UNREGISTERED)
+10:35:56:  Box_4__BTCR-1100200400210043_20210318102831.log - DRB2.tat* - TextAnalysisTool.NET
+10:36:11:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+10:37:01:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+10:37:36:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+10:37:56:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:38:26:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+10:38:31:  D:\00-06\DRB\Tools\CreateJK.exe
+10:38:36:  打开
+10:38:41:  TCR调测工具 V3.36
+10:39:11:  Decode
+10:39:16:  20210318
+10:39:31:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:39:36:  Box_4__BTCR-1100200400210043_20210318103857.log - DRB2.tat* - TextAnalysisTool.NET
+10:39:56:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+10:40:31:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+10:40:36:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+10:40:46:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:41:06:  D:\00-06\DRB\Tools\CreateJK.exe
+10:41:11:  TCR调测工具 V3.36
+10:41:36:  20210318
+10:42:01:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:42:06:  Box_4__BTCR-1100200400210043_20210318104126.log - DRB2.tat* - TextAnalysisTool.NET
+10:42:11:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:42:26:  D:\00-06\DRB\Tools\CreateJK.exe
+10:42:31:  TCR调测工具 V3.36
+10:42:36:  删除多个项目
+10:42:41:  TCR调测工具 V3.36
+10:42:51:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:43:21:  程明昌
+10:43:46:  K64_BTCR-1100200400210043_20210318104248
+10:43:51:  Box_4__BTCR-1100200400210043_20210318104248.log - DRB2.tat* - TextAnalysisTool.NET
+10:44:26:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:44:51:  程明昌
+10:44:26:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:44:51:  程明昌
+10:45:11:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+10:45:26:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+10:45:36:  锁屏状态
+10:45:41:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+10:48:36:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:49:01:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+10:51:36:  DRB
+10:51:41:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:51:46:  http://192.168.10.9:82/svn/FW_LIB_SHARE - 版本库浏览器 - TortoiseSVN
+10:52:11:   - 版本库浏览器 - TortoiseSVN
+10:52:16:  http://192.168.10.9:82/svn/FW_LIB_SHARE - 版本库浏览器 - TortoiseSVN
+10:52:31:  C:\Users\ZHANGK~1\AppData\Local\Temp\Examples.s...\FlashCircRecord_Examples.c - 更新 - TortoiseSVN
+10:52:36:  FlashCircRecord_Examples.c - 记事本
+10:53:36:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+10:57:46:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+10:57:51:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+10:58:37:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+10:58:42:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+10:59:17:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:59:42:  D:\00-06\DRB\Tools\CreateJK.exe
+10:59:47:  打开
+10:59:52:  TCR调测工具 V3.36
+11:00:02:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+10:58:37:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+10:58:42:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+10:59:17:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:59:42:  D:\00-06\DRB\Tools\CreateJK.exe
+10:59:47:  打开
+10:59:52:  TCR调测工具 V3.36
+11:00:02:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+11:00:12:  TCR调测工具 V3.36
+11:00:17:  20210318
+11:00:47:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+11:00:52:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+11:01:02:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+11:01:12:  Decode
+11:01:17:  K64_BTCR-1100200400210043_20210318110011
+11:01:22:  Box_4__BTCR-1100200400210043_20210318110011.log - DRB2.tat* - TextAnalysisTool.NET
+11:02:02:  发送指令到K06
+11:02:17:  TCR调测工具 V3.36
+11:02:32:  20210318
+11:05:17:  LOG
+11:05:22:  Box_4__BTCR-1100200400210043_20210318110225.log - DRB2.tat* - TextAnalysisTool.NET
+11:05:52:  Add Filter
+11:05:57:  Box_4__BTCR-1100200400210043_20210318110225.log - DRB2.tat* - TextAnalysisTool.NET
+11:06:02:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:09:12:  锁屏状态
+11:09:17:  TCR调测工具 V3.36
+11:09:22:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:09:47:  锁屏状态
+11:09:52:  20210318
+11:09:57:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:10:22:  20210318
+11:10:27:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:10:32:  Box_4__BTCR-1100200400210043_20210318110948.log - DRB2.tat* - TextAnalysisTool.NET
+11:10:57:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:11:22:  TCR调测工具 V3.36
+11:11:32:  20210318
+11:11:37:  Decode
+11:11:42:  K64_BTCR-1100200400210043_20210318111058
+11:11:47:  Box_4__BTCR-1100200400210043_20210318111058.log - DRB2.tat* - TextAnalysisTool.NET
+11:12:12:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:12:22:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+11:12:27:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:12:37:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+11:12:57:  D:\00-06\DRB\Applications\Initial\Initial.c (DRB) - Sublime Text (UNREGISTERED)
+11:13:02:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+11:13:07:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+11:13:42:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+11:13:52:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+11:14:02:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+11:14:07:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+11:14:07:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+11:17:22:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+11:17:27:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+11:17:32:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+11:18:12:  D:\00-06\DRB\Applications\Instruction\InstrHandle.c (DRB) - Sublime Text (UNREGISTERED)
+11:18:17:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+11:18:22:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+11:18:27:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+11:18:57:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+11:19:22:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+11:19:52:  丛柏屹
+11:20:02:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+11:20:12:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+11:20:22:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+11:20:27:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+11:21:17:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+11:21:22:  μVision
+11:21:27:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+11:21:32:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:32:37:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+11:32:42:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:32:57:  Folder Setup
+11:33:02:  浏览文件夹
+11:33:12:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:33:42:  Options for Target 'CashBox_1T2_Debug'
+11:33:47:  Folder Setup
+11:33:52:  浏览文件夹
+11:34:07:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:37:07:  KE06LOG.bat - 快捷方式 (2)
+11:37:12:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103181137.log
+11:37:17:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:37:22:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103181137.log
+11:37:27:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:38:27:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103181137.log
+11:38:37:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:38:47:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103181137.log
+11:38:52:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:39:37:  Toolbox
+11:39:42:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:40:37:  锁屏状态
+13:15:29:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:16:39:  eSpace
+13:16:44:  程明昌
+13:16:49:  Toolbox
+13:16:54:  KE06LOG.bat - 快捷方式 (2)
+13:17:04:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:18:04:  μVision
+13:18:09:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:18:59:  μVision
+13:19:04:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:26:14:  SEGGER J-Link V6.10b - Reprogramming flash
+13:26:19:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:26:54:  SEGGER J-Link V6.10b - Reprogramming flash
+13:27:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:27:29:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision (未响应)
+13:27:44:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:41:44:  Toolbox
+13:41:49:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:50:49:  Toolbox
+13:50:54:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:55:49:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+13:55:59:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+13:56:04:  D:\00-06\DRB\Drivers\SpiFlashDriver\SpiFlashDriver.c (DRB) - Sublime Text (UNREGISTERED)
+13:56:19:  D:\00-06\DRB\Drivers\PeripheralDriver\SpiDriver\SnbcSpiDriver.c (DRB) - Sublime Text (UNREGISTERED)
+13:56:24:  D:\00-06\DRB\Drivers\SpiFlashDriver\SpiFlashDriver.c (DRB) - Sublime Text (UNREGISTERED)
+13:56:29:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+13:57:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:00:49:  μVision
+14:00:54:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:37:45:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+14:37:50:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+14:38:00:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\easyflash\src\ef_log.c (DRB) - Sublime Text (UNREGISTERED)
+14:39:55:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:40:35:  D:\00-06\DRB\Tools\CreateJK.exe
+14:40:50:  Tools
+14:40:55:  TCR调测工具 V3.36
+14:41:00:  打开
+14:41:05:  TCR调测工具 V3.36
+14:42:15:  20210318
+14:42:20:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:42:25:  K64_BTCR-1100200400210043_20210318144120
+14:42:30:  Box_4__BTCR-1100200400210043_20210318144120.log - DRB2.tat* - TextAnalysisTool.NET
+14:43:00:  删除多个项目
+14:43:05:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:43:30:  20210318
+14:43:35:  LOG
+14:43:40:  Box_4__BTCR-1100200400210043_20210318144256.log - DRB2.tat* - TextAnalysisTool.NET
+14:44:10:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:44:50:  Tools
+14:44:55:  TCR调测工具 V3.36
+14:45:00:  打开
+14:44:10:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:44:50:  Tools
+14:44:55:  TCR调测工具 V3.36
+14:45:00:  打开
+14:45:05:  TCR调测工具 V3.36
+14:46:40:  20210318
+14:46:45:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:46:50:  Box_4__BTCR-1100200400210043_20210318144550.log - DRB2.tat* - TextAnalysisTool.NET
+14:47:25:  TCR调测工具 V3.36
+14:47:35:  20210318
+14:47:40:  Box_4__BTCR-1100200400210043_20210318144550.log - DRB2.tat* - TextAnalysisTool.NET
+14:48:00:  20210318
+14:48:05:  Decode
+14:48:15:  Box_4__BTCR-1100200400210043_20210318144728.log - DRB2.tat* - TextAnalysisTool.NET
+14:48:45:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:53:25:  D:\00-06\DRB\Tools\CreateJK.exe
+14:53:35:  TCR调测工具 V3.36
+14:54:15:  锁屏状态
+14:54:25:  K64_BTCR-1100200400210043_20210318144728
+14:54:30:  20210318
+14:54:35:  LOG
+14:54:40:  Box_4__BTCR-1100200400210043_20210318144728.log - DRB2.tat* - TextAnalysisTool.NET
+14:54:45:  Box_4__BTCR-1100200400210043_20210318145351.log - DRB2.tat* - TextAnalysisTool.NET
+14:56:00:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+14:56:05:  D:\00-06\DRB\Drivers\SpiFlashDriver\SpiFlashDriver.c (DRB) - Sublime Text (UNREGISTERED)
+14:56:10:  Box_4__BTCR-1100200400210043_20210318145351.log - DRB2.tat* - TextAnalysisTool.NET
+14:56:45:  K64_BTCR-1100200400210043_20210318145351
+14:56:50:  Decode
+14:56:55:  LOG
+14:57:00:  K64-_BTCR-1100200400210043_20210318145351.log - DRB2.tat* - TextAnalysisTool.NET
+14:57:05:  Box_4__BTCR-1100200400210043_20210318145351.log - DRB2.tat* - TextAnalysisTool.NET
+14:57:15:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:01:40:  TCR调测工具 V3.36
+15:02:10:  Box_4__BTCR-1100200400210043_20210318145351.log - DRB2.tat* - TextAnalysisTool.NET
+15:02:25:  K64_BTCR-1100200400210043_20210318145351
+15:02:30:  Decode
+15:02:35:  Box_4__BTCR-1100200400210043_20210318150137.log - DRB2.tat* - TextAnalysisTool.NET
+15:03:10:  TCR调测工具 V3.36
+15:03:40:  锁屏状态
+15:03:45:  20210318
+15:04:10:  Decode
+15:04:15:  Box_4__BTCR-1100200400210043_20210318150137.log - DRB2.tat* - TextAnalysisTool.NET
+15:04:20:  Box_4__BTCR-1100200400210043_20210318150336.log - DRB2.tat* - TextAnalysisTool.NET
+15:04:55:  锁屏状态
+16:35:21:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:40:51:  KE06LOG.bat - 快捷方式
+16:40:56:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:41:16:  KE06LOG.bat - 快捷方式
+16:41:31:  LogExpert #5 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103181640.log
+16:42:56:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:44:01:  LogExpert #6 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103181640.log

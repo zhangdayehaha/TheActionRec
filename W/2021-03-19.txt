@@ -1,0 +1,1207 @@
+16:44:32:  锁屏状态
+07:55:15:  LogExpert #6 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103181640.log
+07:55:35:  LogExpert #5 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103181640.log
+07:56:20:  新北洋OA信息化平台 - Internet Explorer
+07:57:10:  员工自助 - Internet Explorer
+07:57:15:  新北洋OA信息化平台 - Internet Explorer
+08:00:10:  程明昌
+08:00:15:  新北洋OA信息化平台 - Internet Explorer
+08:00:40:  LogExpert #5 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103181640.log
+08:10:25:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103181137.log
+08:10:30:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:10:50:  D:\00-06\DRB\Applications\Instruction\InstrHandle.c (DRB) - Sublime Text (UNREGISTERED)
+08:11:25:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+08:17:30:  0-工作 - 张开发 - 印象笔记
+08:17:35:  2-财务分配 - 张开发 - 印象笔记
+08:17:40:  0-工作 - 张开发 - 印象笔记
+08:18:50:  锁屏状态
+08:18:55:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+08:19:40:  Box_4__BTCR-1100200400210043_20210318150336.log - DRB2.tat* - TextAnalysisTool.NET
+08:20:05:  Add Filter
+08:20:10:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+08:20:45:  D:\00-06\DRB\FwLib\Config\DebugConfig.h (DRB) - Sublime Text (UNREGISTERED)
+08:20:50:  跳转列表
+08:20:55:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+08:21:25:  计算器
+08:21:35:  Box_4__BTCR-1100200400210043_20210318150336.log - DRB2.tat* - TextAnalysisTool.NET
+08:21:45:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+08:23:05:  D:\00-06\DRB\FwLib\Config\DebugConfig.h (DRB) - Sublime Text (UNREGISTERED)
+08:23:20:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+08:23:40:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:24:00:  eSpace
+08:24:05:  DRB
+08:24:10:  Initial.c - TortoiseMerge
+08:24:15:  InstrExecute.c - TortoiseMerge
+08:24:20:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+08:24:25:  LogHandle.c - TortoiseMerge
+08:24:55:  State.c - TortoiseMerge
+08:25:20:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+08:25:25:  Track.c - TortoiseMerge
+08:25:30:  SpiFlashDriver.c - TortoiseMerge
+08:25:40:  Log.c - TortoiseMerge
+08:26:10:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+08:26:55:  Log.h - TortoiseMerge
+08:27:00:  于斌1
+08:28:10:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+08:28:15:  Initial.c - TortoiseMerge
+08:28:20:  TortoiseMerge
+08:28:25:  State.c - TortoiseMerge
+08:28:55:  锁屏状态
+08:29:00:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+08:29:05:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+08:28:10:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+08:28:15:  Initial.c - TortoiseMerge
+08:28:20:  TortoiseMerge
+08:28:25:  State.c - TortoiseMerge
+08:28:55:  锁屏状态
+08:29:00:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+08:29:05:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+08:36:20:  TCR调测工具 V3.36
+08:37:30:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+08:38:06:  钞箱配置
+08:38:16:  TCR调测工具 V3.36
+08:41:51:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+08:42:21:  TCR调测工具 V3.36
+08:43:56:  钞箱配置
+08:44:01:  TCR调测工具 V3.36
+08:44:36:  BTCRTestTool 属性
+08:44:41:  TCRControlCmdDLL
+08:44:46:  20210319
+08:44:56:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:44:36:  BTCRTestTool 属性
+08:44:41:  TCRControlCmdDLL
+08:44:46:  20210319
+08:44:56:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:45:11:  K64_BTCR-1100200400210043_20210319084358
+08:45:16:  Box_1__BTCR-1100200400210043_20210319084358.log - DRB2.tat* - TextAnalysisTool.NET
+08:45:21:  K64_BTCR-1100200400210043_20210319084358
+08:45:26:  Box_1__BTCR-1100200400210043_20210319084306.log - DRB2.tat* - TextAnalysisTool.NET
+08:45:36:  K64_BTCR-1100200400210043_20210319084215
+08:45:51:  K64_BTCR-1100200400210043_20210319084143
+08:45:56:  LOG
+08:46:06:  Box_1__BTCR-1100200400210043_20210319084306.log - DRB2.tat* - TextAnalysisTool.NET
+08:46:11:  K64_BTCR-1100200400210043_20210319084215
+08:46:16:  Box_1__BTCR-1100200400210043_20210319084215.log - DRB2.tat* - TextAnalysisTool.NET
+08:46:31:  LOG
+08:46:36:  K64_BTCR-1100200400210043_20210319083821
+08:46:41:  Box_1__BTCR-1100200400210043_20210319083821.log - DRB2.tat* - TextAnalysisTool.NET
+08:46:51:  TCR调测工具 V3.36
+08:46:56:  发送指令到K06
+08:47:01:  TCR调测工具 V3.36
+08:47:06:  发送指令到K06
+08:47:11:  TCR调测工具 V3.36
+08:48:56:  BTCRTestTool
+08:49:26:  TCR调测工具 V3.36
+08:49:31:  K64_BTCR-1100200400210043_20210319083821
+08:49:36:  20210319
+08:49:41:  K64_BTCR-1100200400210043_20210319084306
+08:49:46:  K64_BTCR-1100200400210043_20210319084215
+08:49:51:  Box_1__BTCR-1100200400210043_20210319084215.log - DRB2.tat* - TextAnalysisTool.NET
+08:50:51:  Box_1__BTCR-1100200400210043_20210319084143.log - DRB2.tat* - TextAnalysisTool.NET
+08:50:56:  K64_BTCR-1100200400210043_20210319084143
+08:51:01:  Box_1__BTCR-1100200400210043_20210319084215.log - DRB2.tat* - TextAnalysisTool.NET
+08:51:06:  K64_BTCR-1100200400210043_20210319084143
+08:51:11:  Box_1__BTCR-1100200400210043_20210319084143.log - DRB2.tat* - TextAnalysisTool.NET
+08:51:16:  Box_1__BTCR-1100200400210043_20210319084059.log - DRB2.tat* - TextAnalysisTool.NET
+08:53:36:  钞箱配置
+08:53:46:  TCR调测工具 V3.36
+08:58:06:  BTCRTestTool
+08:58:16:  TCR调测工具 V3.36
+08:58:06:  BTCRTestTool
+08:58:16:  TCR调测工具 V3.36
+09:00:21:  BTCRTestTool
+09:00:26:  TCR调测工具 V3.36
+09:05:41:  BTCRTestTool
+09:06:06:  20210319
+09:07:41:  Decode
+09:07:46:  K64_BTCR-1100200400210043_20210319090555.log - DRB2.tat* - TextAnalysisTool.NET
+09:07:51:  Decode
+09:07:56:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+09:08:01:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+09:08:21:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+09:09:11:  锁屏状态
+09:09:16:  TCR调测工具 V3.36
+09:09:21:  20210319
+09:09:26:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:09:31:  TCR调测工具 V3.36
+09:09:36:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:09:41:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+09:10:01:  LOG
+09:10:06:  Box_1__BTCR-1100200400210043_20210319090555.log - DRB2.tat* - TextAnalysisTool.NET
+09:10:41:  TCR调测工具 V3.36
+09:11:16:  Box_1__BTCR-1100200400210043_20210319090555.log - DRB2.tat* - TextAnalysisTool.NET
+09:17:46:  BTCRTestTool
+09:18:01:  Box_1__BTCR-1100200400210043_20210319090555.log - DRB2.tat* - TextAnalysisTool.NET
+09:18:06:  TCR调测工具 V3.36
+09:18:56:  取款
+09:19:01:  TCR调测工具 V3.36
+09:27:31:  20210319
+09:27:36:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:27:56:  Decode
+09:28:06:  LOG
+09:28:11:  Box_1__BTCR-1100200400210043_20210319092356.log - DRB2.tat* - TextAnalysisTool.NET
+09:28:06:  LOG
+09:28:11:  Box_1__BTCR-1100200400210043_20210319092356.log - DRB2.tat* - TextAnalysisTool.NET
+09:33:56:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+09:34:01:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+09:34:11:  Box_1__BTCR-1100200400210043_20210319092356.log - DRB2.tat* - TextAnalysisTool.NET
+09:36:36:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+09:37:41:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c • (DRB) - Sublime Text (UNREGISTERED)
+09:37:46:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+09:37:51:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:37:56:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+09:38:01:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:38:06:  K64_BTCR-1100200400210043_20210319092356
+09:38:11:  Tools
+09:38:16:  D:\00-06\DRB\Tools\CreateJK.exe
+09:38:31:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:38:36:  K64_BTCR-1100200400210043_20210319092356
+09:38:41:  TCR调测工具 V3.36
+09:39:16:  取款
+09:39:21:  TCR调测工具 V3.36
+09:43:56:  BTCRTestTool
+09:44:36:  TCR调测工具 V3.36
+09:44:36:  TCR调测工具 V3.36
+09:47:56:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c • (DRB) - Sublime Text (UNREGISTERED)
+09:48:01:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+09:48:16:  Tools
+09:48:31:  BTCRTestTool
+09:48:51:  Tools
+09:48:56:  TCR调测工具 V3.36
+09:51:01:  计算器
+09:51:11:  TCR调测工具 V3.36
+09:51:21:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+09:51:31:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+09:51:36:  D:\00-06\DRB\Applications\ErrCode\ErrCode.h (DRB) - Sublime Text (UNREGISTERED)
+09:51:41:  0-工作 - 张开发 - 印象笔记
+09:52:06:  TCR调测工具 V3.36
+09:52:36:  钞箱传感器
+09:52:41:  TCR调测工具 V3.36
+09:52:51:  工作副本
+09:52:56:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:53:51:  锁屏状态
+09:53:56:  钞箱传感器
+09:54:01:  TCR调测工具 V3.36
+09:54:41:  钞箱传感器
+09:54:46:  TCR调测工具 V3.36
+09:56:46:  20210319
+09:57:11:  Decode
+09:57:16:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:57:21:  20210319
+09:57:26:  Box_1__BTCR-1100200400210043_20210319095448.log - DRB2.tat* - TextAnalysisTool.NET
+09:57:46:  D:\00-06\DRB\Applications\ErrCode\ErrCode.h (DRB) - Sublime Text (UNREGISTERED)
+09:57:51:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+09:58:01:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+09:58:06:  D:\00-06\DRB\Middlewares\Plate\LowerPlate.c (DRB) - Sublime Text (UNREGISTERED)
+09:58:11:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+09:58:16:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:58:21:  DRB
+09:58:26:  D:\00-06\DRB\Tools\CreateJK.exe
+09:58:31:  Tools
+09:59:36:  BTCRTestTool
+09:59:41:  Tools
+09:59:46:  TCR调测工具 V3.36
+09:58:06:  D:\00-06\DRB\Middlewares\Plate\LowerPlate.c (DRB) - Sublime Text (UNREGISTERED)
+09:58:11:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+09:58:16:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:58:21:  DRB
+09:58:26:  D:\00-06\DRB\Tools\CreateJK.exe
+09:58:31:  Tools
+09:59:36:  BTCRTestTool
+09:59:41:  Tools
+09:59:46:  TCR调测工具 V3.36
+10:04:06:  Tools
+10:04:41:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:04:51:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:05:11:  Tools
+10:05:26:  DRB测试缺陷-3.17.xlsx  [只读] - Excel
+10:06:12:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:06:42:  Tools
+10:07:32:  BTCRTestTool
+10:07:57:  打开
+10:08:02:  TCR调测工具 V3.36
+10:11:02:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:11:17:  Tools
+10:11:22:  BTCRTestTool
+10:11:27:  TCR调测工具 V3.36
+10:21:42:  锁屏状态
+10:21:47:  TCR调测工具 V3.36
+10:25:37:  印象笔记
+10:27:17:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+10:27:22:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c • (DRB) - Sublime Text (UNREGISTERED)
+10:27:27:  μVision
+10:27:32:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:32:02:  D:\00-06\DRB\Tools\CreateJK.exe
+10:32:07:  TCR调测工具 V3.36
+10:37:32:  BTCRTestTool
+10:37:37:  TCR调测工具 V3.36
+10:37:42:  BTCRTestTool
+10:37:47:  Tools
+10:37:52:  TCR调测工具 V3.36
+10:44:17:  BTCRTestTool
+10:44:32:  TCR调测工具 V3.36
+10:44:17:  BTCRTestTool
+10:44:32:  TCR调测工具 V3.36
+10:45:07:  「开始」菜单
+10:45:17:  TCR调测工具 V3.36
+10:45:32:  自动播放
+10:47:17:  「开始」菜单
+10:47:27:  TCR调测工具 V3.36
+10:47:57:  「开始」菜单
+10:48:37:  新标签页 - Google Chrome
+10:48:47:  百度一下，你就知道 - Google Chrome
+10:49:02:  outlook_百度搜索 - Google Chrome
+10:49:07:  https://www.baidu.com/link?url=b1PwOhUSBhwyJee43jUOyZl0Mv60By94tmzsHiy9diC3Q42OQ_lPe74fDScK1Rnv&wd=&eqid=f4e463f90001bc1c0000000260541112 - Google Chrome
+10:49:12:  TCR调测工具 V3.36
+10:51:25:  BTCRTestTool
+10:51:35:  TCR调测工具 V3.36
+10:57:17:  20210319
+11:03:51:  TCR调测工具 V3.36
+11:03:56:  Outlook - 来自 Microsoft 的免费个人电子邮件和日历 - Google Chrome
+11:04:06:  DRB - Everything
+11:04:11:  office - Everything
+11:04:16:  outlook - Everything
+11:04:31:  office - Everything
+11:04:41:  Microsoft Office 2013
+11:04:46:  office - Everything
+11:04:51:  TCR调测工具 V3.36
+11:05:01:  Microsoft Office Standard 2013
+11:05:16:  TCR调测工具 V3.36
+11:05:21:  Microsoft Office Standard 2013
+11:05:31:  TCR调测工具 V3.36
+11:05:46:  Microsoft Office Standard 2013
+11:05:51:  office - Everything
+11:05:56:  Microsoft Office Standard 2013
+11:06:21:  浏览文件夹
+11:06:46:  Microsoft Office Standard 2013
+11:06:51:  icloud - Everything
+11:07:11:  「开始」菜单
+11:07:16:  icloud - Everything
+11:07:21:  iCloud
+11:07:26:  icloud - Everything
+11:07:31:  office 2013
+11:07:36:  「开始」菜单
+11:07:46:  iCloud
+11:07:51:  icloud - Everything
+11:08:06:  TCR调测工具 V3.36
+11:08:46:  iCloud
+11:09:16:  锁屏状态
+11:09:21:  DRB测试缺陷-3.17.xlsx  [只读] - Excel
+11:10:16:  BTCRTestTool
+11:10:26:  打开文件 - 安全警告
+11:10:31:  iCloud
+11:10:46:  BTCRTestTool
+11:10:56:  TCR调测工具 V3.36
+11:11:21:  BTCRTestTool
+11:11:26:  TCR调测工具 V3.36
+11:11:31:  iCloud
+11:12:16:  「开始」菜单
+11:12:26:  iCloud
+11:12:36:  TCR调测工具 V3.36
+11:12:41:  iCloud
+11:12:56:  要将诊断信息发送给 Apple 吗？
+11:13:06:  iCloud
+11:13:56:  TCR调测工具 V3.36
+11:15:26:  照片选项
+11:15:41:  iCloud
+11:15:46:  书签选项
+11:15:51:  iCloud
+11:16:11:  锁屏状态
+11:16:16:  新标签页 - Google Chrome
+11:16:21:  百度一下，你就知道 - Google Chrome
+11:16:31:  提醒事项 windows_百度搜索 - Google Chrome
+11:16:36:  https://www.baidu.com/link?url=0j9kGCTcslGwtGzcUbCkczpApCuC1aLbbYsVxQhXu7R77tPl-BAYS_PvSpd-nJajQEesw6pNoP9COpNbKO_IYqMeg8rV8fpx5szP3dBLEQdfT1oPjE3iT1TVjcAechNeNLpLICOqOO1QCUdNmrSagBbQva52uYLHb0yy_aWcwr6lQDWJJ8QRVUwIGLp7CjXQi-QfBUdldEOVHbRjfpa9EK&wd=&eqid=ec392e620007f001000000026054178b - Google Chrome
+11:16:41:  提醒事项 windows_百度搜索 - Google Chrome
+11:16:46:  苹果系统里的“提醒事项”可否同步到windows系统中_百度知道 - Google Chrome
+11:17:06:  iCloud
+11:21:36:  苹果系统里的“提醒事项”可否同步到windows系统中_百度知道 - Google Chrome
+11:21:41:  outlook_百度搜索 - Google Chrome
+11:21:46:  无标题 - Google Chrome
+11:21:51:  TCR调测工具 V3.36
+11:21:56:  Microsoft 帐户 - Google Chrome
+11:22:31:  创建帐户 - Google Chrome
+11:23:06:  TCR调测工具 V3.36
+11:25:56:  0-工作 - 张开发 - 印象笔记
+11:26:06:  给自己的信 - 张开发 - 印象笔记
+11:26:26:  TCR调测工具 V3.36
+11:26:36:  Tools
+11:26:41:  00-06
+11:26:46:  Project
+11:27:01:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:27:26:  TCR调测工具 V3.36
+11:27:56:  锁屏状态
+11:28:01:  icloud - Everything
+11:28:06:  office - Everything
+11:28:11:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:28:26:  Tools
+11:28:31:  BTCRTestTool
+11:28:36:  TCR调测工具 V3.36
+11:28:41:  打开
+11:28:51:  TCR调测工具 V3.36
+11:29:31:  BTCRTestTool
+11:28:06:  office - Everything
+11:28:11:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:28:26:  Tools
+11:28:31:  BTCRTestTool
+11:28:36:  TCR调测工具 V3.36
+11:28:41:  打开
+11:28:51:  TCR调测工具 V3.36
+11:29:31:  BTCRTestTool
+11:31:06:  office - Everything
+11:31:21:  office 2013
+11:31:26:  Microsoft Office Standard 2013
+11:31:46:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:32:26:  Microsoft Office Standard 2013
+11:33:01:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:33:06:  DRB
+11:33:11:  D:\00-06\DRB\Tools\CreateJK.exe
+11:33:31:  Microsoft Office Standard 2013
+11:34:01:  锁屏状态
+11:34:06:  BTCRTestTool
+11:34:16:  浏览文件夹
+11:36:06:  Microsoft Office Standard 2013
+11:36:11:  TCR调测工具 V3.36
+11:36:16:  打开
+11:36:31:  outlook注册_百度搜索 - Google Chrome
+11:36:36:  outlook 下载_百度搜索 - Google Chrome
+11:36:41:  Microsoft Outlook 2013 | 下载 Outlook 2013 | Microsoft Office - Google Chrome
+11:37:01:  TCR调测工具 V3.36
+11:37:11:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:37:21:  Microsoft Outlook 2013 | 下载 Outlook 2013 | Microsoft Office - Google Chrome
+11:37:36:  印象笔记
+11:37:41:  Tools
+11:37:46:  iCloud 照片
+11:37:51:  下载
+11:37:56:  MicrosoftOffice_InstallationComponent_HJun_Alading
+11:38:01:  Open Directory
+11:38:17:  MicrosoftOffice_InstallationComponent_HJun_Alading
+11:38:22:  跳转列表
+11:38:27:  MicrosoftOffice_InstallationComponent_HJun_Alading
+11:39:42:  「开始」菜单
+11:39:57:  桌面整理
+11:40:02:  Microsoft Office
+11:40:07:  新北洋OA信息化平台 - Internet Explorer
+11:40:12:  This is an unregistered copy
+11:40:22:  本地磁盘 (E:)
+11:40:32:  outlook 下载_百度搜索 - Google Chrome
+11:40:37:  Microsoft Outlook 2013 | 下载 Outlook 2013 | Microsoft Office - Google Chrome
+11:40:47:  锁屏状态
+13:09:23:  Microsoft Outlook 2013 | 下载 Outlook 2013 | Microsoft Office - Google Chrome
+13:09:28:  outlook 下载_百度搜索 - Google Chrome
+13:09:33:  Microsoft Office Outlook 下载_百度搜索 - Google Chrome
+13:09:38:  新建文本文档.exe - 快捷方式
+13:09:43:  创建帐户 - Google Chrome
+13:09:48:  Microsoft Office Outlook2016 免费破解版绿色版_系统之家 - Google Chrome
+13:09:58:  Microsoft Office Outlook 下载_百度搜索 - Google Chrome
+13:10:03:  苹果系统里的“提醒事项”可否同步到windows系统中_百度知道 - Google Chrome
+13:10:08:  Microsoft Office Outlook 下载_百度搜索 - Google Chrome
+13:10:23:  本地磁盘 (E:)
+13:10:28:  192.168.28.2
+13:10:33:  资料共享
+13:11:48:  固件rom中转
+13:11:53:  资料共享
+13:11:58:  Program Manager
+13:12:03:  01-办公软件
+13:12:08:  01-Office
+13:12:18:  office2013
+13:12:28:  Microsoft Office Standard 2013
+13:12:53:  Microsoft Office Outlook 下载_百度搜索 - Google Chrome
+13:13:38:  www.baidu.com - Google Chrome
+13:13:48:  浏览文件夹
+13:14:23:  Microsoft Office Standard 2013
+13:14:28:  office2013
+13:14:33:  Microsoft Office Outlook 下载_百度搜索 - Google Chrome
+13:14:38:  OutLook邮箱官方版下载_Microsoft Office Outlook - Win7旗舰版 - Google Chrome
+13:14:43:  无标题 - Google Chrome
+13:14:48:  OutLook邮箱官方版下载_Microsoft Office Outlook - Win7旗舰版 - Google Chrome
+13:14:58:  苹果系统里的“提醒事项”可否同步到windows系统中_百度知道 - Google Chrome
+13:15:03:  Microsoft Office Outlook 2020_百度搜索 - Google Chrome
+13:14:23:  Microsoft Office Standard 2013
+13:14:28:  office2013
+13:14:33:  Microsoft Office Outlook 下载_百度搜索 - Google Chrome
+13:14:38:  OutLook邮箱官方版下载_Microsoft Office Outlook - Win7旗舰版 - Google Chrome
+13:14:43:  无标题 - Google Chrome
+13:14:48:  OutLook邮箱官方版下载_Microsoft Office Outlook - Win7旗舰版 - Google Chrome
+13:14:58:  苹果系统里的“提醒事项”可否同步到windows系统中_百度知道 - Google Chrome
+13:15:03:  Microsoft Office Outlook 2020_百度搜索 - Google Chrome
+13:15:08:  Microsoft Office Outlook
+13:15:13:  提示
+13:15:18:  Microsoft Office Outlook
+13:15:23:  Microsoft Office Outlook 2020_百度搜索 - Google Chrome
+13:15:28:  Office 安装助手安装程序
+13:15:33:  「开始」菜单
+13:15:43:  程序
+13:15:48:  程序和功能
+13:15:53:  Microsoft Office Outlook 2020_百度搜索 - Google Chrome
+13:15:58:  程序和功能
+13:16:08:  下载 Microsoft Outlook 2010 - Microsoft Office - Google Chrome
+13:16:18:  新北洋OA信息化平台 - Internet Explorer
+13:16:28:  Microsoft Office 2016 | 生产力应用 - Google Chrome
+13:16:33:  比较Microsoft 365企业版Office 365专业增强版, E1,E3,E5-Microsoft 365 - Google Chrome
+13:16:38:  Microsoft Office Outlook 2020_百度搜索 - Google Chrome
+13:16:43:  程序和功能
+13:16:58:  Microsoft Office Outlook 2020_百度搜索 - Google Chrome
+13:17:03:  Outlook下载_Microsoft Outlook 2020 中文破解版 1.0_零度软件园 - Google Chrome
+13:17:28:  Microsoft Office Outlook 2020_百度搜索 - Google Chrome
+13:17:33:  异次元软件世界 - 软件改变生活！ - Google Chrome
+13:17:38:  office 的搜索结果 - 异次元软件世界 - Google Chrome
+13:17:48:  DRB
+13:17:53:  D:\00-06\DRB\Tools\CreateJK.exe
+13:18:08:  office 的搜索结果 - 异次元软件世界 - Google Chrome
+13:18:23:  outlook 的搜索结果 - 异次元软件世界 - Google Chrome
+13:18:33:  TCR调测工具 V3.36
+13:18:43:  Outlook 微软免费邮箱客户端 - 手机版 Android / iOS 与电脑版 (可直接收发Gmail) - 异次元软件下载 - Google Chrome
+13:19:18:  outlook 的搜索结果 - 异次元软件世界 - Google Chrome
+13:20:38:  锁屏状态
+13:20:43:  无标题 - Google Chrome
+13:20:48:  跳转列表
+13:20:53:  Google Chrome 属性
+13:20:58:  1205chh123cskj.baicuoa.com - Google Chrome
+13:21:03:  TCR调测工具 V3.36
+13:21:08:  无标题 - Google Chrome
+13:21:13:  设置 - Google Chrome
+13:21:28:  百度一下，你就知道 - Google Chrome
+13:21:33:  todolist_百度搜索 - Google Chrome
+13:21:38:  todo_百度搜索 - Google Chrome
+13:21:43:  欢迎使用 Microsoft To Do - Google Chrome
+13:22:03:  todo_百度搜索 - Google Chrome
+13:22:13:  mictodo_百度搜索 - Google Chrome
+13:22:18:  欢迎使用 Microsoft To Do - Google Chrome
+13:22:33:  Microsoft To-Do - Download - Google Chrome
+13:22:48:  欢迎使用 Microsoft To Do - Google Chrome
+13:23:13:  已翻译
+13:23:18:  欢迎使用 Microsoft To Do - Google Chrome
+13:23:38:  Microsoft To-Do - Download - Google Chrome
+13:23:43:  mictodo_百度搜索 - Google Chrome
+13:23:48:  「开始」菜单
+13:23:53:  iCloud
+13:24:03:  照片选项
+13:24:08:  欢迎使用 Microsoft To Do - Google Chrome
+13:24:48:  mictodo_百度搜索 - Google Chrome
+13:24:53:  欢迎使用 Microsoft To Do - Google Chrome
+13:24:58:  mictodoft todo_百度搜索 - Google Chrome
+13:25:08:  mictodoft todo win7_百度搜索 - Google Chrome
+13:25:13:  微软todowin7 - Google Chrome
+13:25:18:  mictodoft todo win7_百度搜索 - Google Chrome
+13:25:28:  电脑版win7能下载ToDo吗？ - 知乎 - Google Chrome
+13:25:33:  (20 封私信 / 80 条消息) 电脑版win7能下载ToDo吗？ - 知乎 - Google Chrome
+13:25:38:  无标题 - Google Chrome
+13:25:43:  欢迎使用 Microsoft To Do - Google Chrome
+13:27:13:  mictodoft todo win7_百度搜索 - Google Chrome
+13:27:18:  win7 不能用TO DO吗？怎么只有win10的【微软吧】_百度贴吧 - Google Chrome
+13:28:03:  mictodoft todo win7_百度搜索 - Google Chrome
+13:28:08:  Ao微软To-Do客户端下载-第三方微软To-Do桌面客户端Ao下载v6.8.0 官方版-西西软件下载 - Google Chrome
+13:28:23:  win7 不能用TO DO吗？怎么只有win10的【微软吧】_百度贴吧 - Google Chrome
+13:28:28:  Ao微软To-Do客户端下载-第三方微软To-Do桌面客户端Ao下载v6.8.0 官方版-西西软件下载 - Google Chrome
+13:28:33:  https://www.baidu.com/link?url=p_Qtd5KQHBlEvxGkgEtkMU3n9pRzE0siBjlc6XGIjZtc2McyJjEf5drM6B0QrX25nqvv1BNlj3QUHXN-dPLjQq&wd=&eqid=d9461e610002d55d0000000260543663 - Google Chrome
+13:28:38:  Ao - 第三方开源微软 To-Do 桌面客户端 - 小众软件 - Google Chrome
+13:28:43:  Ao - Elegant Microsoft To-Do desktop app - Google Chrome
+13:28:48:  已翻译
+13:28:53:  github.com - Google Chrome
+13:28:58:  已翻译
+13:29:08:  Ao - Elegant Microsoft To-Do desktop app - Google Chrome
+13:29:18:  github.com - Google Chrome
+13:29:33:  Ao微软To-Do客户端下载-第三方微软To-Do桌面客户端Ao下载v6.8.0 官方版-西西软件下载 - Google Chrome
+13:29:43:  github.com - Google Chrome
+13:29:53:  第三方Microsoft To-do客户端_百度搜索 - Google Chrome
+13:29:58:  第三方Microsoft To-do客户端(Ao)下载 v6.8.0 电脑版 - 比克尔下载 - Google Chrome
+13:28:08:  Ao微软To-Do客户端下载-第三方微软To-Do桌面客户端Ao下载v6.8.0 官方版-西西软件下载 - Google Chrome
+13:28:23:  win7 不能用TO DO吗？怎么只有win10的【微软吧】_百度贴吧 - Google Chrome
+13:28:28:  Ao微软To-Do客户端下载-第三方微软To-Do桌面客户端Ao下载v6.8.0 官方版-西西软件下载 - Google Chrome
+13:28:33:  https://www.baidu.com/link?url=p_Qtd5KQHBlEvxGkgEtkMU3n9pRzE0siBjlc6XGIjZtc2McyJjEf5drM6B0QrX25nqvv1BNlj3QUHXN-dPLjQq&wd=&eqid=d9461e610002d55d0000000260543663 - Google Chrome
+13:28:38:  Ao - 第三方开源微软 To-Do 桌面客户端 - 小众软件 - Google Chrome
+13:28:43:  Ao - Elegant Microsoft To-Do desktop app - Google Chrome
+13:28:48:  已翻译
+13:28:53:  github.com - Google Chrome
+13:28:58:  已翻译
+13:29:08:  Ao - Elegant Microsoft To-Do desktop app - Google Chrome
+13:29:18:  github.com - Google Chrome
+13:29:33:  Ao微软To-Do客户端下载-第三方微软To-Do桌面客户端Ao下载v6.8.0 官方版-西西软件下载 - Google Chrome
+13:29:43:  github.com - Google Chrome
+13:29:53:  第三方Microsoft To-do客户端_百度搜索 - Google Chrome
+13:29:58:  第三方Microsoft To-do客户端(Ao)下载 v6.8.0 电脑版 - 比克尔下载 - Google Chrome
+13:30:08:  欢迎使用 Microsoft To Do - Google Chrome
+13:30:13:  第三方Microsoft To-do客户端_百度搜索 - Google Chrome
+13:30:38:  滴答清单 Siri表盘_百度搜索 - Google Chrome
+13:30:53:  下载
+13:31:08:  ao.bkill.com
+13:31:28:  「开始」菜单
+13:31:38:  程序和功能
+13:32:38:  iCloud
+13:32:43:  Ao
+13:33:13:  Ao - Sign Out Confirmation
+13:33:18:  Ao
+13:33:28:  iCloud
+13:33:33:  Ao
+13:33:38:  Ao - Elegant Microsoft To-Do desktop app - Internet Explorer
+13:33:43:  Ao
+13:33:58:  Ao - Exit Confirmation
+13:34:08:  Ao - Elegant Microsoft To-Do desktop app - Internet Explorer
+13:34:13:  无法显示此页 - Internet Explorer
+13:34:18:  Internet 选项
+13:34:23:  滴答清单 Siri表盘_百度搜索 - Google Chrome
+13:34:28:  github.com - Google Chrome
+13:34:33:  https://www.baidu.com/link?url=VBCefcuDmLcx7lHuU-eo9dgozXRplY37i3CDy3MOjke&wd=&eqid=ef8b47850001e64300000002605437e7 - Google Chrome
+13:34:38:  github.com - Google Chrome
+13:34:43:  github_百度搜索 - Google Chrome
+13:34:53:  第三方Microsoft To-do客户端_百度搜索 - Google Chrome
+13:35:18:  Subversion
+13:35:28:  Ao
+13:35:58:  .ao.json - Visual Studio Code [管理员]
+13:36:03:  程序和功能
+13:36:08:  第三方Microsoft To-do客户端_百度搜索 - Google Chrome
+13:36:18:  第三方Microsoft To-do客户端(Ao)下载 v6.8.0 电脑版 - 比克尔下载 - Google Chrome
+13:36:23:  第三方Microsoft To-do客户端_百度搜索 - Google Chrome
+13:36:33:  Ao微软To-Do客户端下载-第三方微软To-Do桌面客户端Ao下载v6.8.0 官方版-西西软件下载 - Google Chrome
+13:36:43:  第三方Microsoft To-do客户端_百度搜索 - Google Chrome
+13:36:48:  Ao - 第三方开源微软 To-Do 桌面客户端 - 小众软件 - Google Chrome
+13:36:53:  Ao - Elegant Microsoft To-Do desktop app - Google Chrome
+13:36:58:  github.com - Google Chrome
+13:37:03:  Ao - Elegant Microsoft To-Do desktop app - Google Chrome
+13:37:08:  第三方Microsoft To-do客户端_百度搜索 - Google Chrome
+13:37:13:  microsoft to-do客户端_百度搜索 - Google Chrome
+13:37:18:  Ao 下载_百度搜索 - Google Chrome
+13:37:23:  Ao下载_Ao免费下载6.9.0 - 系统之家 - Google Chrome
+13:37:28:  Ao 下载_百度搜索 - Google Chrome
+13:37:33:  Ao 中文版下载_百度搜索 - Google Chrome
+13:37:38:  https://www.baidu.com/link?url=G0ZcBcMCtdGl0N4-pPZ41J8UcC19A6AXb66yicGt_mG5hdoo9cvugf3foGIX410tiwG85-ODOJQbkWPCJXWppa&wd=&eqid=8119b00c0002c9cf0000000260543899 - Google Chrome
+13:37:43:  Ao下载-Ao最新版下载-PC下载网 - Google Chrome
+13:38:28:  程序和功能
+13:38:33:  ao.bkill.com
+13:38:38:  打开文件 - 安全警告
+13:38:43:  Subversion
+13:38:48:  光速下载器
+13:39:03:  本地磁盘 (E:)
+13:39:08:  本地磁盘 (E:) (未响应)
+13:39:28:  3sMsgWnd
+13:39:33:  光速下载器
+13:39:43:  张开发
+13:39:48:  本地磁盘 (E:) (未响应)
+13:39:53:  本地磁盘 (E:)
+13:40:08:  ao690
+13:40:13:  本地磁盘 (E:) (未响应)
+13:40:18:  Sublime Text
+13:40:23:  Ao
+13:40:33:  https://github.com/klaussinani/ao/blob/master/license.md - Internet Explorer
+13:40:38:  Ao
+13:41:13:  Sublime Text
+13:42:34:  Ao
+13:46:34:  新标签页 - Google Chrome
+13:46:49:  www.google.com - Google Chrome
+13:46:59:  百度一下，你就知道 - Google Chrome
+13:47:14:  windows7 使用提醒事项_百度搜索 - Google Chrome
+13:47:24:  windows使用提醒事项_百度搜索 - Google Chrome
+13:47:29:  windows使用ios提醒事项_百度搜索 - Google Chrome
+13:47:59:  为了将 iOS 上的提醒事项同步到微软日历，我做了这些事 - 少数派 - Google Chrome
+13:50:04:  ios怎么跟win10进行联系人、备忘录、提醒事项等内容的同步 - Microsoft Community - Google Chrome
+13:50:09:  windows使用ios提醒事项_百度搜索 - Google Chrome
+13:50:19:  Win系统 - 苹果系统里的“提醒事项”可否同步到 Windows 系统中？_牧码的博客-CSDN博客 - Google Chrome
+13:50:24:  windows使用ios提醒事项_百度搜索 - Google Chrome
+13:50:39:  苹果手机提醒事项如何导入Windows系统电脑端？【敬业签吧】_百度贴吧 - Google Chrome
+13:50:44:  windows使用ios提醒事项_百度搜索 - Google Chrome
+13:50:49:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+13:52:34:  windows使用ios提醒事项_百度搜索 - Google Chrome
+13:52:39:  第三方 todo_百度搜索 - Google Chrome
+13:52:44:  第三方 todo 应用_百度搜索 - Google Chrome
+13:52:49:  第三方 mictodo 应用_百度搜索 - Google Chrome
+13:52:54:  第三方 mic todo 应用_百度搜索 - Google Chrome
+13:53:04:  Microsoft To-Do 第三方非官方 macOS 客户端 - 小众软件 - Google Chrome
+13:53:14:  第三方 mic todo 应用_百度搜索 - Google Chrome
+13:53:19:  第三方Microsoft todo 应用_百度搜索 - Google Chrome
+13:53:39:  (20 封私信 / 80 条消息) 有没有更好的todo软件推荐（android）？ - 知乎 - Google Chrome
+13:54:34:  欢迎使用 Microsoft To Do - Google Chrome
+13:54:39:  (20 封私信 / 80 条消息) 有没有更好的todo软件推荐（android）？ - 知乎 - Google Chrome
+13:54:49:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+13:55:04:  TCR调测工具 V3.36
+13:55:14:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+13:55:19:  (20 封私信 / 80 条消息) 有没有更好的todo软件推荐（android）？ - 知乎 - Google Chrome
+13:55:44:  第三方Microsoft todo 应用_百度搜索 - Google Chrome
+13:55:54:  (20 封私信 / 80 条消息) 有没有更好的todo软件推荐（android）？ - 知乎 - Google Chrome
+13:56:49:  钞箱配置
+13:56:54:  TCR调测工具 V3.36
+13:57:04:  欢迎使用 Microsoft To Do - Google Chrome
+13:57:09:  (20 封私信 / 80 条消息) 有没有更好的todo软件推荐（android）？ - 知乎 - Google Chrome
+13:57:19:  第三方Microsoft todo 应用_百度搜索 - Google Chrome
+13:57:39:  Microsoft todo web 打开不开_百度搜索 - Google Chrome
+13:57:54:  Win 下可有第 3 方支持 Microsoft To Do? Win 企业版不支持应用市场（UWP） - V2EX - Google Chrome
+13:58:14:  Microsoft To-Do 第三方非官方 macOS 客户端 - 小众软件 - Google Chrome
+13:58:19:  microsoft todo 网页版_百度搜索 - Google Chrome
+13:58:29:  Microsoft To-Do电脑版下载_Microsoft To-Do电脑版官方下载「含模拟器」-太平洋下载中心 - Google Chrome
+13:58:34:  microsoft todo 网页版_百度搜索 - Google Chrome
+13:58:54:  microsoft todo 网页版开不_百度搜索 - Google Chrome
+13:59:04:  microsoft todo 网页版_百度搜索 - Google Chrome
+13:59:09:  microsoft todo 网页版无法访问_百度搜索 - Google Chrome
+13:59:14:  eSpace
+13:59:19:  (20 封私信 / 80 条消息) 如何评价 Microsoft To-Do（微软待办）？ - 知乎 - Google Chrome
+13:59:49:  TCR调测工具 V3.36
+13:58:14:  Microsoft To-Do 第三方非官方 macOS 客户端 - 小众软件 - Google Chrome
+13:58:19:  microsoft todo 网页版_百度搜索 - Google Chrome
+13:58:29:  Microsoft To-Do电脑版下载_Microsoft To-Do电脑版官方下载「含模拟器」-太平洋下载中心 - Google Chrome
+13:58:34:  microsoft todo 网页版_百度搜索 - Google Chrome
+13:58:54:  microsoft todo 网页版开不_百度搜索 - Google Chrome
+13:59:04:  microsoft todo 网页版_百度搜索 - Google Chrome
+13:59:09:  microsoft todo 网页版无法访问_百度搜索 - Google Chrome
+13:59:14:  eSpace
+13:59:19:  (20 封私信 / 80 条消息) 如何评价 Microsoft To-Do（微软待办）？ - 知乎 - Google Chrome
+13:59:49:  TCR调测工具 V3.36
+14:00:19:  (20 封私信 / 80 条消息) 如何评价 Microsoft To-Do（微软待办）？ - 知乎 - Google Chrome
+14:00:24:  microsoft Outlook_百度搜索 - Google Chrome
+14:00:34:  下载 Microsoft Outlook 2010 - Microsoft Office - Google Chrome
+14:00:39:  Microsoft Office 2016 | 生产力应用 - Google Chrome
+14:00:49:  microsoft Outlook_百度搜索 - Google Chrome
+14:01:14:  https://www.baidu.com/link?url=hDtbKzX2vCESp3RRHiGp1u4LtsV_mRuc6A4M2KmTgCC&wd=&eqid=be44220600093b3b0000000260543e26 - Google Chrome
+14:01:19:  github.com - Google Chrome
+14:01:24:  GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live. - Google Chrome
+14:01:34:  已翻译
+14:01:39:  github_百度搜索 - Google Chrome
+14:01:44:  直接访问github极其不稳定_github吧_百度贴吧 - Google Chrome
+14:02:04:  GitHub页面| 您和您的项目的网站，直接从您的GitHub存储库托管。 只需编辑，推送，您的更改就会生效。 - Google Chrome
+14:02:09:  github_百度搜索 - Google Chrome
+14:02:14:  GitHub中文社区 - Google Chrome
+14:02:24:  Search · Ao · GitHub - Google Chrome
+14:02:34:  GitHub - klaussinani/ao: Elegant Microsoft To-Do desktop app - Google Chrome
+14:02:44:  Issues · klaussinani/ao · GitHub - Google Chrome
+14:02:54:  锁屏状态
+14:02:59:  WinRAR
+14:03:04:  Issues · klaussinani/ao · GitHub - Google Chrome
+14:03:14:  GitHub - klaussinani/ao: Elegant Microsoft To-Do desktop app - Google Chrome
+14:03:24:  翻译此页？
+14:03:29:  GitHub - klaussinani/ao: Elegant Microsoft To-Do desktop app - Google Chrome
+14:03:34:  ao-优雅的Microsoft To-Do桌面应用程序-GitHub-klaussinani - Google Chrome
+14:03:49:  File Finder · GitHub - Google Chrome
+14:03:59:  GitHub - klaussinani/ao: Elegant Microsoft To-Do desktop app - Google Chrome
+14:04:04:  Release 6.9.0 · klaussinani/ao · GitHub - Google Chrome
+14:04:29:  Resolve Macos start-up crash issue. Fixes #82 (#90) · klaussinani/ao@b1a5171 · GitHub - Google Chrome
+14:04:34:  Release 6.9.0 · klaussinani/ao · GitHub - Google Chrome
+14:04:59:  跳转列表
+14:05:04:  BTCRTestTool V3.36
+14:07:44:  BTCRTestTool
+14:10:14:  BTCRTestTool V3.36
+14:10:19:  TCR调测工具 V3.36
+14:12:54:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+14:13:19:  TCR调测工具 V3.36
+14:14:44:  (20 封私信 / 80 条消息) 如何评价 Microsoft To-Do（微软待办）？ - 知乎 - Google Chrome
+14:14:49:  outlook_百度搜索 - Google Chrome
+14:14:54:  https://www.baidu.com/link?url=k-fTAXSedT8x-C3RZDybp5bNZMpmO8jVs7NnJyhsV3e&wd=&eqid=9350eef7000bf52b0000000260544159 - Google Chrome
+14:14:59:  GitHub中文社区 - Google Chrome
+14:15:04:  Release 6.9.0 · klaussinani/ao · GitHub - Google Chrome
+14:14:44:  (20 封私信 / 80 条消息) 如何评价 Microsoft To-Do（微软待办）？ - 知乎 - Google Chrome
+14:14:49:  outlook_百度搜索 - Google Chrome
+14:14:54:  https://www.baidu.com/link?url=k-fTAXSedT8x-C3RZDybp5bNZMpmO8jVs7NnJyhsV3e&wd=&eqid=9350eef7000bf52b0000000260544159 - Google Chrome
+14:14:59:  GitHub中文社区 - Google Chrome
+14:15:04:  Release 6.9.0 · klaussinani/ao · GitHub - Google Chrome
+14:15:09:  TCR调测工具 V3.36
+14:15:19:  BTCRTestTool V3.36
+14:15:24:  20210319
+14:15:39:  Decode
+14:15:44:  K64_BTCR-1100200400210043_20210319141406
+14:15:49:  Box_1__BTCR-1100200400210043_20210319141406.log - DRB2.tat* - TextAnalysisTool.NET
+14:16:09:  TCR调测工具 V3.36
+14:16:14:  取款
+14:16:19:  TCR调测工具 V3.36
+14:16:29:  Ao
+14:17:39:  谷歌_百度搜索 - Google Chrome
+14:17:44:  Google - Google Chrome
+14:17:54:  www.google.com.hk - Google Chrome
+14:17:59:  谷歌_百度搜索 - Google Chrome
+14:18:04:  Ao
+14:18:49:  本地磁盘 (E:)
+14:18:54:  office 2013
+14:19:04:  Microsoft Office Standard 2013
+14:20:39:  TCR调测工具 V3.36
+14:20:49:  浏览文件夹
+14:21:14:  新北洋OA信息化平台 - Internet Explorer
+14:21:19:  Ao
+14:21:24:  Microsoft Office Standard 2013
+14:22:09:  TCR调测工具 V3.36
+14:22:14:  Microsoft Office Standard 2013
+14:22:19:  Ao
+14:22:24:  新建文本文档.exe - 快捷方式
+14:22:34:  192.168.28.2
+14:22:44:  192.168.28.3
+14:22:49:  TCR调测工具 V3.36
+14:22:54:  01-办公软件
+14:22:59:  01-Office
+14:23:04:  打开文件 - 安全警告
+14:23:09:  Microsoft Office Standard 2013
+14:23:29:  安装
+14:23:34:  安装错误
+14:23:44:  Microsoft Office Standard 2013
+14:23:49:  SW_DVD5_Visio_Pro_2013_64Bit_ChnSimp_MLF_X18-61013
+14:23:54:  01-Office
+14:23:59:  WinRAR
+14:24:04:  OfficeBox离线打包版.zip - WinRAR (非商业个人版)
+14:24:09:  01-Office
+14:24:19:  Microsoft Office Standard 2013
+14:24:24:  TCR调测工具 V3.36
+14:24:29:  office2010
+14:24:34:  Microsoft Office 2010
+14:24:39:  Microsoft Office Standard 2010
+14:25:14:  取款
+14:25:19:  TCR调测工具 V3.36
+14:26:14:  取款
+14:26:19:  TCR调测工具 V3.36
+14:26:24:  「开始」菜单
+14:26:39:  TCR调测工具 V3.36
+14:26:59:  Microsoft Office Standard 2010
+14:27:54:  TCR调测工具 V3.36
+14:27:59:  取款
+14:28:04:  TCR调测工具 V3.36
+14:28:09:  取款
+14:28:19:  Microsoft Office Standard 2010
+14:28:24:  「开始」菜单
+14:28:34:  帐户配置
+14:28:39:  添加新帐户
+14:29:49:  连接 宽带连接
+14:29:54:  添加新帐户
+14:28:09:  取款
+14:28:19:  Microsoft Office Standard 2010
+14:28:24:  「开始」菜单
+14:28:34:  帐户配置
+14:28:39:  添加新帐户
+14:29:49:  连接 宽带连接
+14:29:54:  添加新帐户
+14:32:04:  测试帐户设置
+14:32:09:  添加新帐户
+14:32:14:  系统设置
+14:32:19:  测试帐户设置
+14:32:29:  添加新帐户
+14:32:34:  测试帐户设置
+14:32:39:  系统设置
+14:32:44:  测试帐户设置
+14:32:54:  系统设置
+14:32:59:  添加新帐户
+14:33:04:  测试帐户设置
+14:33:14:  添加新帐户
+14:33:19:  Internet 电子邮件设置
+14:33:34:  系统设置
+14:33:39:  添加新帐户
+14:33:44:  测试帐户设置
+14:34:09:  正在打开 - Microsoft Outlook
+14:34:14:  打开文件夹
+14:34:19:  Microsoft Outlook
+14:34:24:  取款
+14:34:29:  TCR调测工具 V3.36
+14:34:34:  正在打开 - Microsoft Outlook
+14:34:39:  收件箱 - zhangkaifa@bewbeiyang.com - Microsoft Outlook
+14:34:49:  待办事项列表 - zhangkaifa@bewbeiyang.com - Microsoft Outlook
+14:35:14:  帐户设置
+14:35:19:  添加新帐户
+14:35:24:  office2010
+14:35:29:  添加新帐户
+14:37:19:  TCR调测工具 V3.36
+14:37:24:  添加新帐户
+14:37:34:  Windows 安全
+14:37:39:  Microsoft Outlook 凭据
+14:37:44:  Windows 安全
+14:37:59:  添加新帐户
+14:38:14:  TCR调测工具 V3.36
+14:38:49:  Windows 安全
+14:39:19:  添加新帐户
+14:39:24:  Windows 安全
+14:39:29:  添加新帐户
+14:39:34:  Windows 安全
+14:39:39:  添加新帐户
+14:39:49:  Windows 安全
+14:40:54:  添加新帐户
+14:41:49:  TCR调测工具 V3.36
+14:41:54:  新标签页 - Google Chrome
+14:41:59:  百度一下，你就知道 - Google Chrome
+14:42:04:  outlook_百度搜索 - Google Chrome
+14:42:14:  outlook 登录微软_百度搜索 - Google Chrome
+14:42:24:  添加新帐户
+14:42:39:  Microsoft Outlook
+14:42:49:  控制面板
+14:42:54:  用户帐户
+14:42:59:  控制面板
+14:43:09:  邮件设置 --  Outlook
+14:43:14:  帐户设置
+14:43:24:  添加新帐户
+14:43:44:  邮件设置 --  Outlook
+14:43:54:  帐户设置
+14:44:10:  待办事项列表 - zhangkaifa@bewbeiyang.com - Microsoft Outlook
+14:44:15:  outlook怎么登陆microsoft帐号_百度知道 - Google Chrome
+14:44:30:  收件箱 - zhangkaifa@bewbeiyang.com - Microsoft Outlook
+14:44:40:  outlook怎么登陆microsoft帐号_百度知道 - Google Chrome
+14:44:50:  TCR调测工具 V3.36
+14:44:10:  待办事项列表 - zhangkaifa@bewbeiyang.com - Microsoft Outlook
+14:44:15:  outlook怎么登陆microsoft帐号_百度知道 - Google Chrome
+14:44:30:  收件箱 - zhangkaifa@bewbeiyang.com - Microsoft Outlook
+14:44:40:  outlook怎么登陆microsoft帐号_百度知道 - Google Chrome
+14:44:50:  TCR调测工具 V3.36
+14:45:50:  帐户设置
+14:45:55:  添加新帐户
+14:47:05:  TCR调测工具 V3.36
+14:47:15:  收件箱 - zhangkaifa@bewbeiyang.com - Microsoft Outlook
+14:47:20:  「开始」菜单
+14:47:25:  Outlook 发送/接收进度
+14:47:30:  收件箱 - zhangkaifa@bewbeiyang.com - Microsoft Outlook
+14:47:40:  TCR调测工具 V3.36
+14:48:05:  收件箱 - zhangkaifa@bewbeiyang.com - Microsoft Outlook
+14:48:15:  帐户设置
+14:48:20:  TCR调测工具 V3.36
+14:49:40:  取款
+14:49:45:  TCR调测工具 V3.36
+14:50:55:  20210319
+14:51:35:  收件箱 - zhangkaifa@bewbeiyang.com - Microsoft Outlook
+14:51:40:  添加新帐户
+14:52:30:  20210319
+14:52:40:  Windows 安全
+14:53:05:  20210319
+14:53:10:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:53:25:  Decode
+14:53:45:  C:\Windows\py.exe
+14:53:50:  锁屏状态
+14:54:00:  TheDateInfo.xls  [兼容模式] - Excel
+14:54:25:  Windows 安全
+14:54:30:  TheDateInfo.xls  [兼容模式] - Excel
+14:54:40:  添加新帐户
+14:54:45:  TheDateInfo.xls  [兼容模式] - Excel
+14:55:20:  钞箱配置
+14:55:25:  TCR调测工具 V3.36
+14:56:35:  盘点
+14:56:40:  TCR调测工具 V3.36
+14:58:20:  BTCRTestTool
+14:58:25:  TCR调测工具 V3.36
+14:59:20:  盘点
+14:59:40:  TCR调测工具 V3.36
+14:58:20:  BTCRTestTool
+14:58:25:  TCR调测工具 V3.36
+14:59:20:  盘点
+14:59:40:  TCR调测工具 V3.36
+15:00:50:  盘点
+15:01:10:  TCR调测工具 V3.36
+15:01:15:  盘点
+15:01:20:  TCR调测工具 V3.36
+15:02:20:  新标签页 - Google Chrome
+15:02:45:  Microsoft To Do - Google Chrome
+15:03:00:  欢迎使用 To Do - Google Chrome
+15:03:15:  购买 Microsoft To Do: Lists, Tasks & Reminders - Microsoft Store zh-CN - Google Chrome
+15:03:25:  欢迎使用 To Do - Google Chrome
+15:03:30:  购买 Microsoft To Do: Lists, Tasks & Reminders - Microsoft Store zh-CN - Google Chrome
+15:03:40:  TCR调测工具 V3.36
+15:03:50:  登录到您的帐户 - Google Chrome
+15:04:00:  历史记录 - Google Chrome
+15:04:15:  登录 — 极客云 - Google Chrome
+15:04:20:  新标签页 - Google Chrome
+15:04:25:  历史记录 - Google Chrome
+15:04:40:  登录到您的帐户 - Google Chrome
+15:04:45:  新北洋OA信息化平台 - Internet Explorer
+15:04:50:  TCR调测工具 V3.36
+15:04:55:  登录到您的帐户 - Google Chrome
+15:05:00:  登录到您的帐户 - Internet Explorer
+15:05:10:  登录 — 极客云 - Google Chrome
+15:05:20:  登录到您的帐户 - Google Chrome
+15:05:25:  登录到您的帐户 - Internet Explorer
+15:05:35:  登录你的 Microsoft 帐户 - Internet Explorer
+15:05:40:  登录 — 极客云 - Google Chrome
+15:05:45:  TCR调测工具 V3.36
+15:05:50:  盘点
+15:05:55:  TCR调测工具 V3.36
+15:06:00:  登录你的 Microsoft 帐户 - Internet Explorer
+15:06:05:  TCR调测工具 V3.36
+15:06:15:  盘点
+15:06:20:  TCR调测工具 V3.36
+15:06:30:  TheDateInfo.xls  [兼容模式] - Excel
+15:06:35:  登录到您的帐户 - Google Chrome
+15:06:45:  登录你的 Microsoft 帐户 - Google Chrome
+15:06:50:  登录 — 极客云 - Google Chrome
+15:07:00:  登录你的 Microsoft 帐户 - Google Chrome
+15:07:05:  TheDateInfo.xls  [兼容模式] - Excel
+15:07:15:  登录你的 Microsoft 帐户 - Google Chrome
+15:07:20:  登录 — 极客云 - Google Chrome
+15:07:30:  登录你的 Microsoft 帐户 - Google Chrome
+15:07:35:  登录 — 极客云 - Google Chrome
+15:07:40:  TheDateInfo.xls  [兼容模式] - Excel
+15:07:50:  TCR调测工具 V3.36
+15:08:05:  TheDateInfo.xls  [兼容模式] - Excel
+15:08:10:  TCR调测工具 V3.36
+15:08:15:  登录 — 极客云 - Google Chrome
+15:08:20:  TCR调测工具 V3.36
+15:08:30:  登录你的 Microsoft 帐户 - Google Chrome
+15:08:35:  登录 — 极客云 - Google Chrome
+15:08:40:  https://jike138.com/user - Google Chrome
+15:08:55:  「开始」菜单
+15:09:00:  Outlook 今日 - Microsoft Outlook
+15:09:05:  TCR调测工具 V3.36
+15:09:10:  首页 — 极客云 - Google Chrome
+15:09:55:  下载和教程 — 极客云 - Google Chrome
+15:10:10:  登录你的 Microsoft 帐户 - Google Chrome
+15:10:15:  无标题 - Google Chrome
+15:10:20:  ClashForWindows - Google Chrome
+15:10:30:  无标题 - Google Chrome
+15:10:35:  登录你的 Microsoft 帐户 - Google Chrome
+15:10:40:  下载
+15:10:45:  登录你的 Microsoft 帐户 - Google Chrome
+15:10:50:  Windows 使用教程 — 极客云 - Google Chrome
+15:10:55:  首页 — 极客云 - Google Chrome
+15:11:00:  登录你的 Microsoft 帐户 - Google Chrome
+15:11:05:  Microsoft To Do - Google Chrome
+15:11:15:  下载
+15:11:20:  Tasks - To Do - Google Chrome
+15:11:25:  下载
+15:11:30:  Tasks - To Do - Google Chrome
+15:11:50:  下载
+15:11:55:  TCR调测工具 V3.36
+15:12:00:  晚上收拾东西 - To Do - Google Chrome
+15:12:05:  to-do.live.com想要
+15:12:10:  晚上收拾东西 - To Do - Google Chrome
+15:12:30:  TCR调测工具 V3.36
+15:12:35:  首页 — 极客云 - Google Chrome
+15:12:40:  下载
+15:12:50:  正在从 (Windows64位)CFW-0.14.7-amd64-chinese.7z 中提取
+15:12:55:  TCR调测工具 V3.36
+15:13:35:  (Windows64位)CFW-0.14.7-amd64-chinese
+15:13:40:  Windows 安全警报
+15:13:45:  Clash for Windows
+15:13:50:  首页 — 极客云 - Google Chrome
+15:13:55:  Clash for Windows
+15:14:15:  (1) 晚上收拾东西 - To Do - Google Chrome
+15:14:20:  outlook 登录微软_百度搜索 - Google Chrome
+15:14:35:  提示
+15:14:40:  Outlook - Google Chrome
+15:14:45:  Clash for Windows
+15:14:55:  Outlook - Google Chrome
+15:15:00:  Clash for Windows
+15:14:15:  (1) 晚上收拾东西 - To Do - Google Chrome
+15:14:20:  outlook 登录微软_百度搜索 - Google Chrome
+15:14:35:  提示
+15:14:40:  Outlook - Google Chrome
+15:14:45:  Clash for Windows
+15:14:55:  Outlook - Google Chrome
+15:15:00:  Clash for Windows
+15:15:05:  ao.bkill.com
+15:15:10:  本地磁盘 (E:)
+15:15:15:  ao690
+15:15:25:  盘点
+15:15:30:  K64_BTCR-1100200400210043_20210319144944
+15:15:35:  Clash for Windows
+15:15:40:  Ao
+15:15:55:  Ao - No Update Available
+15:16:10:  ao690
+15:16:20:  TCR调测工具 V3.36
+15:16:30:  Ao
+15:16:50:  Ao - Restart Required
+15:16:55:  Ao
+15:17:15:  https://github.com/klaussinani/ao/issues/new - Internet Explorer
+15:17:25:  Ao
+15:17:30:  盘点
+15:17:35:  Ao
+15:17:40:  TCR调测工具 V3.36
+15:17:45:  新标签页 - Google Chrome
+15:17:55:  历史记录 - Google Chrome
+15:18:00:  Outlook - 来自 Microsoft 的免费个人电子邮件和日历 - Google Chrome
+15:18:15:  K64_BTCR-1100200400210043_20210319144944
+15:18:20:  登录你的 Microsoft 帐户 - Google Chrome
+15:18:30:  继续 - Google Chrome
+15:18:35:  邮件 - 张 大爷 - Outlook - Google Chrome
+15:18:50:  无标题 - Google Chrome
+15:18:55:  Microsoft Edge 浏览器功能 | Microsoft - Google Chrome
+15:19:00:  邮件 - 张 大爷 - Outlook - Google Chrome
+15:19:35:  Microsoft To Do - Google Chrome
+15:19:40:  邮件 - 张 大爷 - Outlook - Google Chrome
+15:19:55:  Tasks - To Do - Google Chrome
+15:20:40:  重要 - To Do - Google Chrome
+15:20:45:  Tasks - To Do - Google Chrome
+15:20:50:  邮件 - 张 大爷 - Outlook - Google Chrome
+15:21:25:  「开始」菜单
+15:21:40:  TCR调测工具 V3.36
+15:21:45:  Microsoft Outlook
+15:21:50:  Outlook 今日 - Microsoft Outlook
+15:21:55:  添加新帐户
+15:22:20:  Windows 安全
+15:22:35:  添加新帐户
+15:22:40:  Windows 安全
+15:22:55:  添加新帐户
+15:23:05:  TCR调测工具 V3.36
+15:23:10:  Windows 安全
+15:23:25:  盘点
+15:23:40:  Windows 安全
+15:24:20:  添加新帐户
+15:24:25:  Microsoft Outlook
+15:24:35:  Outlook 今日 - Microsoft Outlook
+15:24:40:  控制面板
+15:24:45:  邮箱 - 控制面板
+15:24:50:  邮件设置 --  Outlook
+15:24:55:  添加新帐户
+15:25:10:  Microsoft Outlook
+15:25:15:  Microsoft Exchange
+15:25:20:  Microsoft Outlook
+15:25:35:  添加新帐户
+15:25:55:  TCR调测工具 V3.36
+15:26:00:  盘点
+15:26:05:  TCR调测工具 V3.36
+15:26:25:  盘点
+15:27:00:  TCR调测工具 V3.36
+15:27:10:  盘点
+15:27:15:  TCR调测工具 V3.36
+15:27:20:  盘点
+15:27:25:  TCR调测工具 V3.36
+15:27:30:  添加新帐户
+15:27:40:  邮件 - 张 大爷 - Outlook - Google Chrome
+15:27:45:  新标签页 - Google Chrome
+15:27:50:  百度一下，你就知道 - Google Chrome
+15:27:55:  outlook_百度搜索 - Google Chrome
+15:28:00:  outlook收件服务器怎么填写_百度搜索 - Google Chrome
+15:28:10:  outlook邮件账户_百度搜索 - Google Chrome
+15:28:15:  如何设置outlook邮箱账户-百度经验 - Google Chrome
+15:28:25:  outlook邮件账户_百度搜索 - Google Chrome
+15:28:40:  outlook登录微软todo_百度搜索 - Google Chrome
+15:28:55:  添加新帐户
+15:29:05:  使用 Microsoft To-Do 搭配 Outlook 工作 - Office 支援 - Google Chrome
+15:29:10:  百度一下，你就知道 - Google Chrome
+15:29:15:  outlook_百度搜索 - Google Chrome
+15:29:20:  帐户设置
+15:29:40:  Microsoft Outlook
+15:29:45:  TCR调测工具 V3.36
+15:29:50:  邮件设置 --  Outlook
+15:28:10:  outlook邮件账户_百度搜索 - Google Chrome
+15:28:15:  如何设置outlook邮箱账户-百度经验 - Google Chrome
+15:28:25:  outlook邮件账户_百度搜索 - Google Chrome
+15:28:40:  outlook登录微软todo_百度搜索 - Google Chrome
+15:28:55:  添加新帐户
+15:29:05:  使用 Microsoft To-Do 搭配 Outlook 工作 - Office 支援 - Google Chrome
+15:29:10:  百度一下，你就知道 - Google Chrome
+15:29:15:  outlook_百度搜索 - Google Chrome
+15:29:20:  帐户设置
+15:29:40:  Microsoft Outlook
+15:29:45:  TCR调测工具 V3.36
+15:29:50:  邮件设置 --  Outlook
+15:30:11:  新建文本文档.exe - 快捷方式
+15:30:16:  邮件设置 --  Outlook
+15:30:41:  邮 - 控制面板
+15:31:01:  新标签页 - Google Chrome
+15:31:16:  (1) 晚上收拾东西 - To Do - Google Chrome
+15:31:21:  新建文本文档.exe - 快捷方式
+15:31:31:  晚上收拾东西 - To Do - Google Chrome
+15:31:41:  我的一天 - To Do - Google Chrome
+15:31:51:  苹果: 782464270@qq.com 3475495aA, - To Do - Google Chrome
+15:32:11:  扫描二维码
+15:32:16:  苹果: 782464270@qq.com 3475495aA, - To Do - Google Chrome
+15:32:26:  Tasks - To Do - Google Chrome
+15:32:31:  已计划日程 - To Do - Google Chrome
+15:32:56:  打吊瓶 - To Do - Google Chrome
+15:33:16:  (1) 打吊瓶 - To Do - Google Chrome
+15:33:36:  邮 - 控制面板
+15:34:11:  TCR调测工具 V3.36
+15:34:16:  打吊瓶 - To Do - Google Chrome
+15:34:36:  已计划日程 - To Do - Google Chrome
+15:34:41:  打吊瓶 - To Do - Google Chrome
+15:34:46:  新建文本文档.exe - 快捷方式
+15:34:51:  打吊瓶 - To Do - Google Chrome
+15:35:11:  (1) 打吊瓶 - To Do - Google Chrome
+15:35:21:  打吊瓶 - To Do - Google Chrome
+15:35:31:  找不到任务 - To Do - Google Chrome
+15:35:36:  已计划日程 - To Do - Google Chrome
+15:35:51:  无标题 - Google Chrome
+15:35:56:  Microsoft To Do 支持 - Google Chrome
+15:36:11:  已计划日程 - To Do - Google Chrome
+15:36:16:  Outlook - Google Chrome
+15:36:21:  TCR调测工具 V3.36
+15:38:06:  新标签页 - Google Chrome
+15:38:11:  windows_百度搜索 - Google Chrome
+15:38:16:  windows 如何使用ios备忘录_百度搜索 - Google Chrome
+15:38:31:  TCR调测工具 V3.36
+15:38:46:  给自己的信 - 张开发 - 印象笔记
+15:39:51:  印象笔记
+15:40:06:  给自己的信 - 张开发 - 印象笔记
+15:40:41:  Update Available
+15:40:46:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:40:51:  TCR调测工具 V3.36
+15:41:01:  20210319
+15:41:11:  Decode
+15:41:16:  文件夹正在使用
+15:41:21:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:41:26:  锁屏状态
+15:41:31:  Box_1__BTCR-1100200400210043_20210319153515.log - DRB2.tat* - TextAnalysisTool.NET
+15:41:36:  LOG
+15:42:56:  本地磁盘 (D:)
+15:46:16:  「开始」菜单
+15:46:26:  本地磁盘 (D:)
+15:46:51:  新建文本文档.exe - 快捷方式
+15:46:56:  新标签页 - Google Chrome
+15:47:01:  本地磁盘 (D:)
+15:47:36:  TCR调测工具 V3.36
+15:59:31:  盘点
+15:59:41:  TCR调测工具 V3.36
+15:59:31:  盘点
+15:59:41:  TCR调测工具 V3.36
+16:01:56:  盘点
+16:02:01:  TCR调测工具 V3.36
+16:04:31:  盘点
+16:04:36:  TCR调测工具 V3.36
+16:07:51:  盘点
+16:08:06:  TCR调测工具 V3.36
+16:10:16:  盘点
+16:10:21:  TCR调测工具 V3.36
+16:11:16:  BTCRTestTool
+16:11:21:  TCR调测工具 V3.36
+16:11:51:  BTCRTestTool
+16:13:06:  TCR调测工具 V3.36
+16:13:41:  BTCRTestTool
+16:13:46:  TCR调测工具 V3.36
+16:16:56:  盘点
+16:17:16:  TCR调测工具 V3.36
+16:18:51:  盘点
+16:18:56:  TCR调测工具 V3.36
+16:19:21:  盘点
+16:19:26:  TCR调测工具 V3.36
+16:24:01:  盘点
+16:24:06:  TCR调测工具 V3.36
+16:29:16:  盘点
+16:29:21:  TCR调测工具 V3.36
+16:29:16:  盘点
+16:29:21:  TCR调测工具 V3.36
+16:32:11:  盘点
+16:32:16:  TCR调测工具 V3.36
+16:34:31:  盘点
+16:34:36:  TCR调测工具 V3.36
+16:39:06:  盘点
+16:39:11:  TCR调测工具 V3.36
+16:41:26:  盘点
+16:41:31:  TCR调测工具 V3.36
+16:56:37:  BTCRTestTool
+16:57:37:  TCR调测工具 V3.36
+17:07:37:  BTCRTestTool
+17:07:42:  TCR调测工具 V3.36
+17:07:52:  钞箱配置
+17:08:02:  TCR调测工具 V3.36
+17:08:07:  钞箱配置
+17:08:22:  TCR调测工具 V3.36
+17:08:42:  钞箱配置
+17:08:52:  TCR调测工具 V3.36
+17:08:57:  钞箱配置
+17:09:02:  TCR调测工具 V3.36
+17:11:32:  盘点
+17:11:37:  TCR调测工具 V3.36
+17:16:22:  盘点
+17:16:37:  TCR调测工具 V3.36
+17:17:57:  盘点
+17:18:02:  TCR调测工具 V3.36
+17:21:27:  BTCRTestTool
+17:22:32:  TCR调测工具 V3.36
+17:27:57:  盘点
+17:28:02:  TCR调测工具 V3.36
+17:29:42:  盘点
+17:29:52:  TCR调测工具 V3.36
+17:29:42:  盘点
+17:29:52:  TCR调测工具 V3.36
+17:39:57:  本地磁盘 (D:)
+17:40:02:  TCR调测工具 V3.36
+17:43:32:  盘点
+17:43:37:  TCR调测工具 V3.36
+17:44:02:  盘点
+17:44:07:  TCR调测工具 V3.36
+17:44:07:  TCR调测工具 V3.36
+17:45:32:  盘点
+17:45:37:  TCR调测工具 V3.36
+17:46:32:  盘点
+17:46:47:  TCR调测工具 V3.36
+17:47:52:  盘点
+17:47:57:  TCR调测工具 V3.36
+17:50:12:  TextAnalysisTool.NET
+17:50:17:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+17:51:37:  TheDateInfo.xls  [兼容模式] - Excel
+17:51:42:  DRB测试缺陷-3.17.xlsx  [只读] - Excel
+20:59:58:  Microsoft Windows
+20:59:58:  Microsoft Windows

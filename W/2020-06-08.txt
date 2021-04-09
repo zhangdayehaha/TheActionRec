@@ -1,0 +1,1023 @@
+08:01:59:  「开始」菜单
+08:02:04:  D:\压钞托板测试\透明壳-50\Decode\LOG\CashboxDatePur-V1.4.py (press2) - Sublime Text (UNREGISTERED)
+08:02:14:  Program Manager
+08:05:24:  D:\压钞托板测试\透明壳-50\Decode\LOG\CashboxDatePur-V1.4.py (press2) - Sublime Text (UNREGISTERED)
+08:09:04:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:11:44:  计算器
+08:11:59:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:12:04:  选择文件夹
+08:12:09:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:12:14:  untitled (1T1-82) - Sublime Text (UNREGISTERED)
+08:12:24:  D:\00-06\1T1-82\Middlewares\Sensor\Sensor.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:12:54:  D:\00-06\1T1-82\Drivers\SensorDriver\SensorDriver.h (1T1-82) - Sublime Text (UNREGISTERED)
+08:12:59:  D:\00-06\1T1-82\Middlewares\Sensor\Sensor.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:13:09:  D:\00-06\1T1-82\Drivers\SensorDriver\SensorDriver.h (1T1-82) - Sublime Text (UNREGISTERED)
+08:13:14:  LOG
+08:13:19:  钞箱集成测试方案-报告
+08:13:29:  5.18 传感器测试v1.1 .xlsx  [受保护的视图] - Excel
+08:13:44:  D:\00-06\1T1-82\Drivers\SensorDriver\SensorDriver.h (1T1-82) - Sublime Text (UNREGISTERED)
+08:13:54:  5.18 传感器测试v1.1 .xlsx  [受保护的视图] - Excel
+08:14:04:  D:\00-06\1T1-82\Applications\PlateCtrl\PlateCtrl.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:14:09:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:14:19:  D:\00-06\1T1-82\Drivers\SensorDriver\SensorDriver.h (1T1-82) - Sublime Text (UNREGISTERED)
+08:14:24:  计算器
+08:14:29:  D:\00-06\1T1-82\Drivers\SensorDriver\SensorDriver.h (1T1-82) - Sublime Text (UNREGISTERED)
+08:14:34:  5.18 传感器测试v1.1 .xlsx  [受保护的视图] - Excel
+08:14:44:  D:\00-06\1T1-82\Drivers\SensorDriver\SensorDriver.h (1T1-82) - Sublime Text (UNREGISTERED)
+08:14:49:  D:\00-06\1T1-82\Middlewares\Sensor\Sensor.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:14:54:  D:\00-06\1T1-82\Middlewares\Track\Track.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:14:09:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:14:19:  D:\00-06\1T1-82\Drivers\SensorDriver\SensorDriver.h (1T1-82) - Sublime Text (UNREGISTERED)
+08:14:24:  计算器
+08:14:29:  D:\00-06\1T1-82\Drivers\SensorDriver\SensorDriver.h (1T1-82) - Sublime Text (UNREGISTERED)
+08:14:34:  5.18 传感器测试v1.1 .xlsx  [受保护的视图] - Excel
+08:14:44:  D:\00-06\1T1-82\Drivers\SensorDriver\SensorDriver.h (1T1-82) - Sublime Text (UNREGISTERED)
+08:14:49:  D:\00-06\1T1-82\Middlewares\Sensor\Sensor.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:14:54:  D:\00-06\1T1-82\Middlewares\Track\Track.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:18:04:  本地磁盘 (D:)
+08:18:19:  Everything
+08:18:24:  钞箱资料
+08:18:29:  TCR原理图
+08:18:34:  04 钞箱控制板 EXTFEDUV2.1.PDF - Adobe Reader
+08:19:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:21:49:  Toolbox
+08:21:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:22:29:  计算器
+08:22:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:22:44:  计算器
+08:23:04:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:24:39:  计算器
+08:24:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:28:39:  00-06
+08:28:49:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:29:04:  JLink - Cortex-M Error
+08:29:14:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:29:24:  eSpace
+08:29:29:  刘茂林
+08:29:49:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:28:39:  00-06
+08:28:49:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:29:04:  JLink - Cortex-M Error
+08:29:14:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:29:24:  eSpace
+08:29:29:  刘茂林
+08:29:49:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:30:19:  Options for Target 'CashBox_Debug'
+08:30:24:  Cortex JLink/JTrace Target Driver Setup
+08:30:29:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:30:59:  Watch 1
+08:31:04:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:33:04:  D:\00-06\1T1-82\Middlewares\Track\Track.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:33:09:  D:\00-06\1T1-82\Middlewares\Sensor\Sensor.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:33:19:  计算器
+08:33:29:  D:\00-06\1T1-82\Middlewares\Sensor\Sensor.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:33:34:  D:\00-06\1T1-82\Drivers\SensorDriver\SensorDriver.h (1T1-82) - Sublime Text (UNREGISTERED)
+08:33:44:  D:\00-06\1T1-82\Middlewares\Track\Track.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:33:54:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:34:44:  5.18 传感器测试v1.1 .xlsx  [受保护的视图] - Excel
+08:34:54:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:35:04:  D:\00-06\1T1-82\Middlewares\Track\Track.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:35:14:  D:\00-06\1T1-82\Middlewares\Sensor\Sensor.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:35:19:  D:\00-06\1T1-82\Middlewares\Track\Track.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:35:24:  Project
+08:37:09:  D:\00-06\1T1-82\Middlewares\Track\Track.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:37:14:  锁屏状态
+08:37:19:  D:\00-06\1T1-82\Middlewares\Track\Track.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:37:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:38:39:  μVision
+08:38:44:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:39:39:  KE06LOG.bat - 快捷方式 (2)
+08:39:44:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:40:04:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202006080839.log
+08:40:09:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:41:04:  KE06LOG.bat - 快捷方式 (2)
+08:41:14:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202006080841.log
+08:41:34:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:44:39:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202006080841.log
+08:45:04:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:44:39:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202006080841.log
+08:45:04:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:08:19:  DRB-PRESS
+09:08:24:  工作副本
+09:08:29:  InstrExecute.c-revBASE.svn001.tmp.c <--> InstrExecute.c - Text Compare - Beyond Compare
+09:08:34:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+09:08:39:  PressurePlateCtrl.c-revBASE.svn001.tmp.c <--> PressurePlateCtrl.c - Text Compare - Beyond Compare
+09:08:44:  Separate.c-revBASE.svn001.tmp.c <--> Separate.c - Text Compare - Beyond Compare
+09:08:49:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+09:09:04:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+09:09:09:  Tools
+09:09:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:13:29:  桌面整理
+09:13:34:  MindMaster
+09:13:39:  MindMaster Pro
+09:14:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:14:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:15:34:  本地磁盘 (D:)
+09:15:39:  1T1-82
+09:15:44:  D:\00-06\1T1-82 - 日志信息 - TortoiseSVN
+09:16:04:  1T1-82
+09:16:09:  00-06
+09:16:14:  1T1-fenchao
+09:17:24:  锁屏状态
+09:17:29:  跳转列表
+09:17:44:  1T1-fenchao
+09:17:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:18:04:  1T1-fenchao
+09:18:14:  D:\00-06\1T1-fenchao - 日志信息 - TortoiseSVN
+09:18:19:  1T1-fenchao
+09:18:24:  PlateCtrl.c-revBASE.svn001.tmp.c <--> PlateCtrl.c - Text Compare - Beyond Compare
+09:18:49:  00-06
+09:18:54:  trunk
+09:18:59:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+09:19:04:  TrackCtrl.c-rev3902.svn000.tmp.c <--> TrackCtrl.c-rev3903.svn000.tmp.c - Text Compare - Beyond Compare
+09:19:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:20:14:  MindMaster Pro
+09:22:44:  锁屏状态
+09:22:49:  MindMaster Pro
+09:22:54:  计算器
+09:23:54:  MindMaster Pro
+09:25:29:  D:\00-06\1T1-82\Middlewares\Track\Track.c (1T1-82) - Sublime Text (UNREGISTERED)
+09:25:34:  选择文件夹
+09:25:39:  D:\00-06\1T1-82\Middlewares\Track\Track.c (1T1-82) - Sublime Text (UNREGISTERED)
+09:25:54:  trunk
+09:25:59:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+09:26:09:  TrackCtrl.c-rev3902.svn000.tmp.c <--> TrackCtrl.c-rev3903.svn000.tmp.c - Text Compare - Beyond Compare
+09:27:49:  D:\00-06\1T1-82\Middlewares\Track\Track.c (1T1-82) - Sublime Text (UNREGISTERED)
+09:28:04:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:24:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:49:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:54:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:24:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:49:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:54:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:30:24:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:30:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:33:14:  trunk
+09:33:19:  Tools
+09:33:29:  Project
+09:33:34:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+09:33:49:  Tools
+09:33:59:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+09:34:04:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:35:34:  MindMaster Pro
+09:36:04:  计算器
+09:36:39:  MindMaster Pro
+09:39:04:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+09:39:09:  MindMaster Pro
+09:39:44:  计算器
+09:39:49:  Tools
+09:45:44:  TCR调测工具 V3.36
+09:45:49:  钞箱传感器
+09:45:54:  TCR调测工具 V3.36
+09:46:04:  BTCRTestTool
+09:46:14:  TCR调测工具 V3.36
+09:46:44:  钞箱传感器
+09:46:49:  TCR调测工具 V3.36
+09:46:54:  打开
+09:46:59:  TCR调测工具 V3.36
+09:47:04:  DRB-PRESS
+09:47:09:  锁屏状态
+09:47:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:47:19:  Project
+09:47:24:  Tools
+09:47:49:  锁屏状态
+09:47:54:  TCR调测工具 V3.36
+09:48:14:  打开
+09:48:24:  TCR调测工具 V3.36
+09:48:44:  BTCRTestTool
+09:48:49:  TCR调测工具 V3.36
+09:49:19:  BTCRTestTool
+09:49:24:  TCR调测工具 V3.36
+09:51:04:  钞箱配置
+09:51:19:  TCR调测工具 V3.36
+09:51:34:  新建Microsoft Excel 工作表.xlsx - Excel
+09:51:59:  TCR调测工具 V3.36
+09:53:34:  取款
+09:53:39:  TCR调测工具 V3.36
+09:57:34:  打开
+09:57:44:  TCR调测工具 V3.36
+09:58:14:  桌面整理
+09:58:19:  ErrCode_list_txt_flg.txt - 记事本
+09:58:24:  TCR调测工具 V3.36
+09:58:34:  取款
+09:58:39:  TCR调测工具 V3.36
+09:58:49:  DRB传感器.txt - 记事本
+09:59:09:  TCR调测工具 V3.36
+09:58:14:  桌面整理
+09:58:19:  ErrCode_list_txt_flg.txt - 记事本
+09:58:24:  TCR调测工具 V3.36
+09:58:34:  取款
+09:58:39:  TCR调测工具 V3.36
+09:58:49:  DRB传感器.txt - 记事本
+09:59:09:  TCR调测工具 V3.36
+10:00:59:  跳转列表
+10:01:04:  TCR调测工具 V3.36
+10:03:09:  BTCRTestTool V3.36
+10:03:14:  20200608
+10:03:24:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:03:29:  TCR调测工具 V3.36
+10:03:34:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:04:45:  钞箱传感器
+10:04:50:  TCR调测工具 V3.36
+10:05:05:  DRB传感器.txt - 记事本
+10:05:15:  TCR调测工具 V3.36
+10:05:25:  Tools
+10:05:30:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+10:05:35:  TCR调测工具 V3.36
+10:05:40:  打开
+10:05:45:  TCR调测工具 V3.36
+10:05:50:  打开
+10:05:55:  TCR调测工具 V3.36
+10:06:05:  DRB传感器.txt - 记事本
+10:06:10:  TCR调测工具 V3.36
+10:06:15:  钞箱传感器
+10:06:20:  TCR调测工具 V3.36
+10:07:00:  钞箱传感器
+10:07:05:  TCR调测工具 V3.36
+10:07:30:  20200608
+10:07:40:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:07:45:  Box_2__0000_20200608100641.log - DRB.tat* - TextAnalysisTool.NET
+10:08:25:  TCR调测工具 V3.36
+10:08:40:  计算器
+10:08:55:  TCR调测工具 V3.36
+10:09:00:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:09:25:  计算器
+10:09:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:09:55:  锁屏状态
+10:10:00:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+10:10:05:  TCR调测工具 V3.36
+10:10:10:  Box_2__0000_20200608100641.log - DRB.tat* - TextAnalysisTool.NET
+10:10:45:  TCR调测工具 V3.36
+10:14:05:  BTCRTestTool
+10:14:10:  打开
+10:14:15:  TCR调测工具 V3.36
+10:14:05:  BTCRTestTool
+10:14:10:  打开
+10:14:15:  TCR调测工具 V3.36
+10:16:40:  Box_2__0000_20200608100641.log - DRB.tat* - TextAnalysisTool.NET
+10:20:50:  K64_0000_20200608100641
+10:20:55:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:25:25:  Box_2__0000_20200608100641.log - DRB.tat* - TextAnalysisTool.NET
+10:26:00:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:26:10:  Edit Filter
+10:26:15:  Box_2__0000_20200608100641.log - DRB.tat* - TextAnalysisTool.NET
+10:26:55:  YoudaoDictStrokeIcon
+10:27:00:  Box_2__0000_20200608100641.log - DRB.tat* - TextAnalysisTool.NET
+10:27:05:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:28:00:  Box_2__0000_20200608100641.log - DRB.tat* - TextAnalysisTool.NET
+10:28:30:  TCR调测工具 V3.36
+10:29:00:  BTCRTestTool
+10:29:05:  TCR调测工具 V3.36
+10:29:25:  Box_2__0000_20200608100641.log - DRB.tat* - TextAnalysisTool.NET
+10:29:45:  TCR调测工具 V3.36
+10:29:55:  锁屏状态
+10:30:00:  TCR调测工具 V3.36
+10:28:30:  TCR调测工具 V3.36
+10:29:00:  BTCRTestTool
+10:29:05:  TCR调测工具 V3.36
+10:29:25:  Box_2__0000_20200608100641.log - DRB.tat* - TextAnalysisTool.NET
+10:29:45:  TCR调测工具 V3.36
+10:29:55:  锁屏状态
+10:30:00:  TCR调测工具 V3.36
+10:30:05:  BTCRTestTool V3.36
+10:30:10:  Box_2__0000_20200608100641.log - DRB.tat* - TextAnalysisTool.NET
+10:30:20:  BTCRTestTool V3.36
+10:30:25:  20200608
+10:30:30:  Decode
+10:30:35:  K64_0000_20200608102958
+10:30:40:  Box_1__0000_20200608102958.log - DRB.tat* - TextAnalysisTool.NET
+10:31:55:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:32:00:  TCR调测工具 V3.36
+10:32:15:  通道电机测试
+10:38:00:  BTCRTestTool
+10:38:05:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:38:10:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:39:00:  Box_1__0000_20200608102958.log - DRB.tat* - TextAnalysisTool.NET
+10:41:30:  TCR调测工具 V3.36
+10:43:20:  20200608
+10:43:25:  锁屏状态
+10:43:30:  Box_2__0000_20200608104300.log - DRB.tat* - TextAnalysisTool.NET
+10:43:45:  TCR调测工具 V3.36
+10:43:50:  DRB传感器.txt - 记事本
+10:44:15:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:44:20:  D:\00-06\DRB-PRESS\Drivers\SensorDriver\SensorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:44:30:  D:\00-06\DRB-PRESS\Drivers\SensorDriver\SensorDriver.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:44:35:  Box_2__0000_20200608104300.log - DRB.tat* - TextAnalysisTool.NET
+10:44:40:  DRB传感器.txt - 记事本
+10:44:50:  TCR调测工具 V3.36
+10:44:15:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:44:20:  D:\00-06\DRB-PRESS\Drivers\SensorDriver\SensorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:44:30:  D:\00-06\DRB-PRESS\Drivers\SensorDriver\SensorDriver.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:44:35:  Box_2__0000_20200608104300.log - DRB.tat* - TextAnalysisTool.NET
+10:44:40:  DRB传感器.txt - 记事本
+10:44:50:  TCR调测工具 V3.36
+10:45:15:  DRB传感器.txt - 记事本
+10:45:20:  Box_2__0000_20200608104300.log - DRB.tat* - TextAnalysisTool.NET
+10:45:25:  TCR调测工具 V3.36
+10:45:45:  20200608
+10:45:50:  Decode
+10:45:55:  Box_2__0000_20200608104534.log - DRB.tat* - TextAnalysisTool.NET
+10:46:20:  D:\00-06\DRB-PRESS\Drivers\SensorDriver\SensorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:46:25:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:46:35:  Box_2__0000_20200608104534.log - DRB.tat* - TextAnalysisTool.NET
+10:46:40:  TCR调测工具 V3.36
+10:46:55:  Box_2__0000_20200608104534.log - DRB.tat* - TextAnalysisTool.NET
+10:47:05:  TCR调测工具 V3.36
+10:56:05:  BTCRTestTool
+10:56:25:  TCR调测工具 V3.36
+10:56:35:  钞箱配置
+10:56:45:  TCR调测工具 V3.36
+10:57:55:  20200608
+10:58:40:  TCR调测工具 V3.36
+10:58:45:  取款
+10:58:50:  TCR调测工具 V3.36
+10:59:15:  BTCRTestTool
+10:58:40:  TCR调测工具 V3.36
+10:58:45:  取款
+10:58:50:  TCR调测工具 V3.36
+10:59:15:  BTCRTestTool
+11:00:25:  TCR调测工具 V3.36
+11:00:30:  读写ERROM
+11:00:35:  TCR调测工具 V3.36
+11:05:40:  BTCRTestTool
+11:05:45:  TCR调测工具 V3.36
+11:05:55:  BTCRTestTool
+11:06:00:  TCR调测工具 V3.36
+11:06:45:  D:\00-KE64\Press\Applications\UsbApp\UsbApp.h (Press) - Sublime Text (UNREGISTERED)
+11:06:50:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+11:07:25:  TCR调测工具 V3.36
+11:09:05:  20200608
+11:09:10:  新建文件夹
+11:09:15:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:09:20:  Box_1__0000_20200608110559.log - DRB.tat* - TextAnalysisTool.NET
+11:09:25:  TCR调测工具 V3.36
+11:09:30:  取款
+11:09:35:  Box_1__0000_20200608110559.log - DRB.tat* - TextAnalysisTool.NET
+11:09:45:  TCR调测工具 V3.36
+11:10:05:  BTCRTestTool
+11:14:05:  TCR调测工具 V3.36
+11:14:25:  优惠方案
+11:14:30:  新北洋团购房政策.pdf
+11:14:40:  TCR调测工具 V3.36
+11:14:45:  BTCRTestTool
+11:14:50:  取款
+11:14:55:  钞箱配置
+11:14:05:  TCR调测工具 V3.36
+11:14:25:  优惠方案
+11:14:30:  新北洋团购房政策.pdf
+11:14:40:  TCR调测工具 V3.36
+11:14:45:  BTCRTestTool
+11:14:50:  取款
+11:14:55:  钞箱配置
+11:15:05:  BTCRTestTool
+11:15:10:  TCR调测工具 V3.36
+11:16:00:  BTCRTestTool
+11:16:05:  TCR调测工具 V3.36
+11:17:00:  BTCRTestTool
+11:17:05:  TCR调测工具 V3.36
+11:17:55:  20200608
+11:18:40:  钞箱配置
+11:18:45:  TCR调测工具 V3.36
+11:19:40:  BTCRTestTool
+11:19:45:  取款
+11:19:50:  TCR调测工具 V3.36
+11:21:00:  BTCRTestTool
+11:22:25:  TCR调测工具 V3.36
+11:24:25:  20200608
+11:25:10:  TCR调测工具 V3.36
+11:25:20:  BTCRTestTool
+11:25:25:  取款
+11:25:30:  TCR调测工具 V3.36
+11:26:45:  BTCRTestTool
+11:27:35:  TCR调测工具 V3.36
+11:28:30:  取款
+11:28:40:  TCR调测工具 V3.36
+11:29:30:  20200608
+11:29:45:  TCR调测工具 V3.36
+11:28:30:  取款
+11:28:40:  TCR调测工具 V3.36
+11:29:30:  20200608
+11:29:45:  TCR调测工具 V3.36
+11:30:25:  自动播放
+11:30:30:  iTunes
+11:30:35:  自动播放
+11:30:40:  取款
+11:30:45:  TCR调测工具 V3.36
+11:32:25:  取款
+11:32:30:  TCR调测工具 V3.36
+11:33:25:  20200608
+11:33:45:  TCR调测工具 V3.36
+11:34:40:  BTCRTestTool
+11:34:45:  取款
+11:34:50:  TCR调测工具 V3.36
+11:35:45:  BTCRTestTool
+11:35:55:  TCR调测工具 V3.36
+11:37:05:  取款
+11:37:10:  TCR调测工具 V3.36
+11:37:40:  桌面整理
+11:37:45:  MindMaster Pro
+11:37:55:  20200608
+11:38:00:  Box_1__0000_20200608110559.log - DRB.tat* - TextAnalysisTool.NET
+11:38:20:  TCR调测工具 V3.36
+11:40:45:  BTCRTestTool
+11:40:50:  TCR调测工具 V3.36
+11:41:10:  BTCRTestTool
+11:41:20:  TCR调测工具 V3.36
+11:41:55:  BTCRTestTool
+11:42:00:  TCR调测工具 V3.36
+13:01:45:  自动播放
+13:08:10:  iTunes
+13:12:00:  TCR调测工具 V3.36
+13:15:20:  取款
+13:15:25:  TCR调测工具 V3.36
+13:16:25:  取款
+13:18:10:  跳转列表
+13:18:20:  TCR调测工具 V3.36
+13:18:30:  取款
+13:18:55:  TCR调测工具 V3.36
+13:21:21:  取款
+13:21:31:  TCR调测工具 V3.36
+13:22:46:  BTCRTestTool
+13:22:56:  TCR调测工具 V3.36
+13:23:01:  新建文本文档.exe - 快捷方式
+13:23:06:  eSpace
+13:23:11:  TCR调测工具 V3.36
+13:23:21:  程明昌
+13:24:21:  TCR调测工具 V3.36
+13:34:36:  锁屏状态
+13:34:41:  选择文件夹
+13:34:51:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+13:34:56:  untitled (TCR-18) - Sublime Text (UNREGISTERED)
+13:35:06:  选择文件夹
+13:35:11:  untitled (00-18) - Sublime Text (UNREGISTERED)
+13:35:21:  选择文件夹
+13:35:31:  untitled (00-18) - Sublime Text (UNREGISTERED)
+13:35:36:  D:\00-18\Middlewares\Plate\Plate.c (00-18) - Sublime Text (UNREGISTERED)
+13:35:41:  选择文件夹
+13:36:26:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+13:36:36:  untitled (00-1) - Sublime Text (UNREGISTERED)
+13:36:41:  选择文件夹
+13:36:56:  20200608
+13:37:01:  00-18
+13:37:06:  CRS
+13:37:11:  检出
+13:37:16:  trunk - 检出 - TortoiseSVN
+13:37:26:  检出 完成！
+13:37:31:  选择文件夹
+13:37:36:  untitled (00-1) - Sublime Text (UNREGISTERED)
+13:37:46:  跳转列表
+13:37:51:  untitled (CRS) - Sublime Text (UNREGISTERED)
+13:38:06:  D:\00-18\CRS\Middlewares\Plate\Plate.c (CRS) - Sublime Text (UNREGISTERED)
+13:38:36:  D:\00-18\CRS\Applications\PPCtrl\PPCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:39:11:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:39:26:  打开
+13:39:31:  TCR调测工具 V3.36
+13:40:21:  打开
+13:40:26:  TCR调测工具 V3.36
+13:41:11:  取款
+13:41:16:  钞箱配置
+13:41:26:  TCR调测工具 V3.36
+13:42:11:  BTCRTestTool V3.36
+13:42:26:  W
+13:42:31:  2020-06-08.txt - 记事本
+13:42:41:  2020-06-07.txt - 记事本
+13:42:46:  2020-06-06.txt - 记事本
+13:42:51:  W
+13:42:56:  TCRControlCmdDLL
+13:43:01:  20200608
+13:43:11:  Decode
+13:43:16:  K64_0000_20200608134125
+13:43:21:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:44:01:  本地磁盘 (D:)
+13:44:06:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:44:31:  DRB-PRESS
+13:44:36:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+13:44:41:  TCR调测工具 V3.36
+13:44:06:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:44:31:  DRB-PRESS
+13:44:36:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+13:44:41:  TCR调测工具 V3.36
+13:45:26:  取款
+13:45:31:  TCR调测工具 V3.36
+13:47:56:  K64_0000_20200608134125
+13:48:01:  TCR调测工具 V3.36
+13:48:11:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+13:49:46:  This is an unregistered copy
+13:49:51:  TCR调测工具 V3.36
+13:50:46:  20200608
+13:50:51:  锁屏状态
+13:50:56:  新建文件夹
+13:51:01:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:51:06:  K64_0000_20200608134530
+13:51:11:  Box_1__0000_20200608134530.log - DRB.tat* - TextAnalysisTool.NET
+13:51:41:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+13:52:11:  D:\00-KE64\Press\Applications\FlowControl\TrackMotor\MotorDriver.c (Press) - Sublime Text (UNREGISTERED)
+13:52:16:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+13:53:21:  K64-_0000_20200608134530.log - DRB.tat* - TextAnalysisTool.NET
+13:53:31:  K64_0000_20200608134530
+13:53:36:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+13:54:36:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (Press) - Sublime Text (UNREGISTERED)
+13:54:56:  K64-_0000_20200608134530.log - DRB.tat* - TextAnalysisTool.NET
+13:56:06:  Edit Filter
+13:56:11:  K64-_0000_20200608134530.log - DRB.tat* - TextAnalysisTool.NET
+13:56:21:  Add Filter
+13:56:31:  桌面整理
+13:56:41:  查找
+13:56:46:  K64-_0000_20200608134530.log - DRB.tat* - TextAnalysisTool.NET
+13:56:56:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (Press) - Sublime Text (UNREGISTERED)
+13:57:11:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\GateModuleApp.h (Press) - Sublime Text (UNREGISTERED)
+13:57:16:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (Press) - Sublime Text (UNREGISTERED)
+13:57:26:  K64-_0000_20200608134530.log - DRB.tat* - TextAnalysisTool.NET
+13:57:41:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (Press) - Sublime Text (UNREGISTERED)
+13:57:51:  K64-_0000_20200608134530.log - DRB.tat* - TextAnalysisTool.NET
+13:57:56:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (Press) - Sublime Text (UNREGISTERED)
+13:58:01:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\GateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+13:58:16:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (Press) - Sublime Text (UNREGISTERED)
+13:58:41:  K64-_0000_20200608134530.log - DRB.tat* - TextAnalysisTool.NET
+13:58:46:  Add Filter
+13:58:51:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (Press) - Sublime Text (UNREGISTERED)
+13:59:16:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+13:59:21:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\GateModule.c (Press) - Sublime Text (UNREGISTERED)
+13:58:16:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (Press) - Sublime Text (UNREGISTERED)
+13:58:41:  K64-_0000_20200608134530.log - DRB.tat* - TextAnalysisTool.NET
+13:58:46:  Add Filter
+13:58:51:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (Press) - Sublime Text (UNREGISTERED)
+13:59:16:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+13:59:21:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\GateModule.c (Press) - Sublime Text (UNREGISTERED)
+14:01:46:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+14:02:11:  K64_0000_20200608134530
+14:02:16:  Press
+14:02:21:  μVision
+14:02:26:  D:\00-KE64\Press\Project\k64_rtt.uvprojx - μVision
+14:02:41:  Project
+14:02:46:  Press
+14:02:51:  D:\00-KE64\Press\Tools\CreateJK.exe
+14:02:56:  打开
+14:03:01:  TCR调测工具 V3.36
+14:05:11:  取款
+14:05:16:  TCR调测工具 V3.36
+14:06:11:  BTCRTestTool V3.36
+14:06:26:  eSpace
+14:06:36:  远程邮箱管理
+14:07:11:  TCRControlCmdDLL
+14:07:16:  20200608
+14:07:21:  新建文件夹
+14:07:26:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:07:31:  K64_0000_20200608140513
+14:07:36:  Box_1__0000_20200608140513.log - DRB.tat* - TextAnalysisTool.NET
+14:07:51:  K64-_0000_20200608140513.log - DRB.tat* - TextAnalysisTool.NET
+14:08:31:  查找
+14:08:41:  K64-_0000_20200608140513.log - DRB.tat* - TextAnalysisTool.NET
+14:08:46:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+14:09:01:  计算器
+14:09:06:  D:\00-KE64\Press\Middlewares\ErrorCode\ErrorCode.h (Press) - Sublime Text (UNREGISTERED)
+14:09:31:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+14:09:46:  D:\00-KE64\Press\Applications\FlowControl\TrackMotor\MotorDriver.c (Press) - Sublime Text (UNREGISTERED)
+14:09:56:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+14:10:01:  K64-_0000_20200608140513.log - DRB.tat* - TextAnalysisTool.NET
+14:10:06:  D:\00-KE64\Press\Middlewares\ErrorCode\ErrorCode.h (Press) - Sublime Text (UNREGISTERED)
+14:10:11:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+14:10:26:  D:\00-KE64\Press\Middlewares\ErrorCode\ErrorCode.h (Press) - Sublime Text (UNREGISTERED)
+14:10:31:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+14:11:11:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (Press) - Sublime Text (UNREGISTERED)
+14:11:26:  D:\00-KE64\Press\Project\k64_rtt.uvprojx - μVision
+14:11:46:  D:\00-KE64\Press\Tools\CreateJK.exe
+14:11:51:  打开
+14:11:56:  TCR调测工具 V3.36
+14:12:11:  BTCRTestTool
+14:12:16:  TCR调测工具 V3.36
+14:15:06:  取款
+14:15:11:  TCR调测工具 V3.36
+14:16:06:  取款
+14:16:11:  TCR调测工具 V3.36
+14:18:06:  二级评审
+14:18:11:  TCR调测工具 V3.36
+14:19:06:  20200608
+14:21:31:  查找
+14:21:36:  20200608
+14:21:41:  新建文件夹
+14:21:46:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:21:51:  K64_0000_20200608141804
+14:21:56:  Box_1__0000_20200608141804.log - DRB.tat* - TextAnalysisTool.NET
+14:22:41:  TCR调测工具 V3.36
+14:22:56:  桌面整理
+14:23:06:  ErrCode_list_txt_flg.txt - 记事本
+14:23:11:  MindMaster Pro
+14:23:56:  计算器
+14:24:06:  MindMaster Pro
+14:24:21:  K64_0000_20200608141804
+14:24:31:  TCR调测工具 V3.36
+14:24:36:  取款
+14:24:41:  TCR调测工具 V3.36
+14:25:36:  取款
+14:25:41:  TCR调测工具 V3.36
+14:26:21:  20200608
+14:27:11:  Decode
+14:27:21:  Box_1__0000_20200608142538.log - DRB.tat* - TextAnalysisTool.NET
+14:33:11:  Add Filter
+14:33:21:  TextAnalysisTool.NET
+14:33:26:  钞箱配置
+14:33:36:  TCR调测工具 V3.36
+14:34:06:  钞箱配置
+14:34:16:  TCR调测工具 V3.36
+14:37:01:  取款
+14:37:06:  TCR调测工具 V3.36
+14:40:41:  新建Microsoft Excel 工作表.xlsx - Excel
+14:40:46:  TCR调测工具 V3.36
+14:41:36:  新建Microsoft Excel 工作表.xlsx - Excel
+14:41:41:  20200608
+14:41:51:  eSpace
+14:42:01:  TCR调测工具 V3.36
+14:42:11:  20200608
+14:42:26:  取款
+14:42:36:  TCR调测工具 V3.36
+14:43:31:  新建Microsoft Excel 工作表.xlsx - Excel
+14:43:41:  20200608
+14:43:46:  新建Microsoft Excel 工作表.xlsx - Excel
+14:43:56:  20200608
+14:44:11:  TCR调测工具 V3.36
+14:44:16:  取款
+14:44:26:  TCR调测工具 V3.36
+14:44:11:  TCR调测工具 V3.36
+14:44:16:  取款
+14:44:26:  TCR调测工具 V3.36
+14:45:06:  20200608
+14:45:11:  TCR调测工具 V3.36
+14:45:21:  eSpace
+14:45:26:  于斌1
+14:45:41:  TCR调测工具 V3.36
+14:46:16:  20200608
+14:47:46:  于斌1
+14:48:56:  MindMaster
+14:49:01:  新建Microsoft Excel 工作表.xlsx - Excel
+14:49:06:  取款
+14:49:11:  MindMaster Pro
+14:49:21:  计算器
+14:52:41:  MindMaster Pro
+14:53:31:  计算器
+14:53:36:  TCR调测工具 V3.36
+14:54:26:  颜晓军
+14:54:36:  桌面整理
+14:54:41:  颜晓军
+14:54:51:  TCR调测工具 V3.36
+14:55:11:  颜晓军
+14:55:16:  钞箱传感器
+14:55:26:  颜晓军
+14:55:51:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:55:56:  颜晓军
+14:56:01:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:56:06:  颜晓军
+14:56:26:  「开始」菜单
+14:56:36:  颜晓军
+14:57:31:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:57:46:  颜晓军
+14:58:31:  TCR调测工具 V3.36
+14:58:41:  Bus Hound
+14:58:46:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+14:58:51:  D:\00-KE64\Press\Applications\InstrExp\InstrGSProcess.c (Press) - Sublime Text (UNREGISTERED)
+14:58:56:  Bus Hound
+14:59:01:  颜晓军
+14:58:31:  TCR调测工具 V3.36
+14:58:41:  Bus Hound
+14:58:46:  D:\00-KE64\Press\Applications\FlowControl\TrackModule\CashGateModuleApp.c (Press) - Sublime Text (UNREGISTERED)
+14:58:51:  D:\00-KE64\Press\Applications\InstrExp\InstrGSProcess.c (Press) - Sublime Text (UNREGISTERED)
+14:58:56:  Bus Hound
+14:59:01:  颜晓军
+15:01:11:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:01:26:  Bus Hound
+15:01:31:  共享文件
+15:01:36:  Excel
+15:01:41:  K64与接口的指令接口20200226.xlsx  [受保护的视图] - Excel
+15:01:46:  K64与接口的指令接口20200226.xlsx  [只读] - Excel
+15:02:11:  新建Microsoft Excel 工作表.xlsx - Excel
+15:02:16:  TCR调测工具 V3.36
+15:02:21:  取款
+15:02:26:  TCR调测工具 V3.36
+15:03:41:  20200608
+15:03:46:  TCR调测工具 V3.36
+15:04:16:  「开始」菜单
+15:04:21:  计算器
+15:04:51:  于斌1
+15:05:01:  TCR调测工具 V3.36
+15:05:11:  于斌1
+15:07:16:  TCR调测工具 V3.36
+15:10:06:  20200608
+15:10:11:  本地磁盘 (D:)
+15:10:16:  压钞托板测试
+15:10:26:  白条-10
+15:10:31:  D:\00-KE64\Press\Applications\InstrExp\InstrGSProcess.c (Press) - Sublime Text (UNREGISTERED)
+15:10:36:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:10:41:  钞箱资料 - Everything
+15:10:51:  Decode
+15:11:01:  LOG
+15:11:06:  本地磁盘 (D:)
+15:11:11:  取款
+15:11:16:  白条-10
+15:11:21:  LOG
+15:11:26:  C:\Windows\py.exe
+15:11:31:  TheOneForExcel.xls  [兼容模式] - Excel
+15:11:56:  TCR调测工具 V3.36
+15:12:26:  本地磁盘 (D:)
+15:12:31:  20200608
+15:12:51:  TCR调测工具 V3.36
+15:13:41:  06 固件日报
+15:13:46:  共享文件
+15:13:51:  K64与接口的指令接口20200226.xlsx  [受保护的视图] - Excel
+15:14:01:  颜晓军
+15:14:36:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:14:51:  颜晓军
+15:14:36:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:14:51:  颜晓军
+15:15:31:  新建Microsoft Excel 工作表.xlsx - Excel
+15:15:36:  指令接口部分
+15:15:41:  TCR调测工具 V3.36
+15:15:51:  取款
+15:15:56:  TCR调测工具 V3.36
+15:19:41:  新建Microsoft Excel 工作表.xlsx - Excel
+15:19:51:  Bus Hound
+15:19:56:  TCR调测工具 V3.36
+15:20:01:  20200608
+15:21:06:  锁屏状态
+15:21:11:  20200608
+15:21:16:  取款
+15:21:21:  TCR调测工具 V3.36
+15:23:31:  颜晓军
+15:23:36:  新建Microsoft Excel 工作表.xlsx - Excel
+15:23:41:  锁屏状态
+15:23:51:  TCR调测工具 V3.36
+15:27:21:  新建Microsoft Excel 工作表.xlsx - Excel
+15:27:26:  TCR调测工具 V3.36
+15:27:36:  取款
+15:27:41:  TCR调测工具 V3.36
+15:28:16:  锁屏状态
+15:28:21:  MindMaster Pro
+15:28:26:  TCR调测工具 V3.36
+15:28:31:  20200608
+15:28:36:  MindMaster Pro
+15:28:51:  计算器
+15:29:11:  MindMaster Pro
+15:29:21:  20200608
+15:29:26:  新建Microsoft Excel 工作表.xlsx - Excel
+15:29:41:  TCR调测工具 V3.36
+15:29:46:  锁屏状态
+15:29:51:  新标签页 - Google Chrome
+15:28:16:  锁屏状态
+15:28:21:  MindMaster Pro
+15:28:26:  TCR调测工具 V3.36
+15:28:31:  20200608
+15:28:36:  MindMaster Pro
+15:28:51:  计算器
+15:29:11:  MindMaster Pro
+15:29:21:  20200608
+15:29:26:  新建Microsoft Excel 工作表.xlsx - Excel
+15:29:41:  TCR调测工具 V3.36
+15:29:46:  锁屏状态
+15:29:51:  新标签页 - Google Chrome
+15:30:11:  https://www.baidu.com/link?url=HioeVM0JGLVSstEYFHiPQDsY02fYWyb-4WmEux3FnfUg7H6fjJoRAMMSHpC7oKU-&wd=&eqid=ada693e30006663e000000025edde909 - Google Chrome
+15:30:17:  支付宝 知托付！ - Google Chrome
+15:30:32:  登录 - 支付宝 - Google Chrome
+15:30:37:  登录中心 － 支付宝 - Google Chrome
+15:30:42:  我的账单 - 支付宝 - Google Chrome
+15:31:02:  TCR调测工具 V3.36
+15:31:07:  取款
+15:31:18:  WinRAR
+15:31:23:  20200608
+15:31:28:  财务分析
+15:31:38:  *TheOneForExcel.py - D:\财务分析\TheOneForExcel.py (3.7.3)*
+15:31:43:  Python 3.7.3 Shell
+15:33:10:  计算器
+15:34:16:  Python 3.7.3 Shell
+15:34:36:  MindMaster Pro
+15:34:41:  TheOneForExcel.py - D:\财务分析\TheOneForExcel.py (3.7.3)
+15:34:46:  alipay_record_20200608_1531_1.csv - Excel
+15:34:51:  新建Microsoft Excel 工作表.xlsx - Excel
+15:35:01:  TCR调测工具 V3.36
+15:35:17:  alipay_record_20200608_1531_1.csv - Excel
+15:36:12:  桌面整理
+15:36:17:  锁屏状态
+15:36:22:  MindMaster Pro
+15:36:37:  alipay_record_20200608_1531_1.csv - Excel
+15:37:07:  MindMaster Pro
+15:37:12:  计算器
+15:37:27:  alipay_record_20200608_1531_1.csv - Excel
+15:37:43:  MindMaster Pro
+15:37:48:  alipay_record_20200608_1531_1.csv - Excel
+15:37:58:  锁屏状态
+15:38:03:  alipay_record_20200608_1531_1.csv - Excel
+15:38:23:  Microsoft Excel
+15:38:33:  锁屏状态
+15:38:43:  MindMaster Pro
+15:38:48:  计算器
+15:39:13:  MindMaster Pro
+15:39:18:  计算器
+15:39:23:  程明昌
+15:45:19:  MindMaster Pro
+15:45:29:  TCR调测工具 V3.36
+15:45:34:  新建Microsoft Excel 工作表.xlsx - Excel
+15:46:29:  20200608
+15:47:04:  新建Microsoft Excel 工作表.xlsx - Excel
+15:47:09:  TCR调测工具 V3.36
+15:48:19:  20200608
+15:48:29:  TCR调测工具 V3.36
+15:48:34:  新建Microsoft Excel 工作表.xlsx - Excel
+15:48:54:  TCR调测工具 V3.36
+15:52:00:  取款
+15:52:05:  TCR调测工具 V3.36
+15:53:35:  20200608
+15:54:00:  TCR调测工具 V3.36
+15:54:05:  取款
+15:54:15:  TCR调测工具 V3.36
+15:56:20:  20200608
+15:56:25:  锁屏状态
+15:56:30:  TCR调测工具 V3.36
+15:56:35:  新建Microsoft Excel 工作表.xlsx - Excel
+15:57:10:  TCR调测工具 V3.36
+16:00:15:  新建Microsoft Excel 工作表.xlsx - Excel
+16:00:20:  20200608
+16:00:25:  TCR调测工具 V3.36
+16:01:35:  新建Microsoft Excel 工作表.xlsx - Excel
+16:03:00:  20200608
+16:03:05:  取款
+16:03:10:  TCR调测工具 V3.36
+16:04:50:  新建Microsoft Excel 工作表.xlsx - Excel
+16:05:20:  TCR调测工具 V3.36
+16:06:35:  新建Microsoft Excel 工作表.xlsx - Excel
+16:07:25:  20200608
+16:07:30:  新建Microsoft Excel 工作表.xlsx - Excel
+16:07:35:  TCR调测工具 V3.36
+16:09:55:  20200608
+16:10:00:  新建Microsoft Excel 工作表.xlsx - Excel
+16:10:05:  TCR调测工具 V3.36
+16:10:10:  新建Microsoft Excel 工作表.xlsx - Excel
+16:11:25:  20200608
+16:11:30:  TCR调测工具 V3.36
+16:12:40:  20200608
+16:13:10:  新建Microsoft Excel 工作表.xlsx - Excel
+16:13:15:  TCR调测工具 V3.36
+16:15:05:  新建Microsoft Excel 工作表.xlsx - Excel
+16:15:10:  TCR调测工具 V3.36
+16:15:20:  取款
+16:15:25:  新建Microsoft Excel 工作表.xlsx - Excel
+16:15:35:  TCR调测工具 V3.36
+16:16:45:  新建Microsoft Excel 工作表.xlsx - Excel
+16:17:05:  eSpace
+16:17:20:  程明昌
+16:17:45:  eSpace
+16:18:00:  程明昌
+16:18:05:  新建Microsoft Excel 工作表.xlsx - Excel
+16:18:10:  取款
+16:18:15:  TCR调测工具 V3.36
+16:19:40:  新建Microsoft Excel 工作表.xlsx - Excel
+16:19:50:  TCR调测工具 V3.36
+16:22:35:  新建Microsoft Excel 工作表.xlsx - Excel
+16:23:30:  于斌1
+16:25:15:  TCR调测工具 V3.36
+16:25:25:  于斌1
+16:26:10:  TCR调测工具 V3.36
+16:26:15:  新建Microsoft Excel 工作表.xlsx - Excel
+16:26:30:  于斌1
+16:27:35:  TCR调测工具 V3.36
+16:28:40:  于斌1
+16:29:30:  untitled (CRS) - Sublime Text (UNREGISTERED)
+16:29:45:  D:\00-18\CRS\Middlewares\Plate\Plate.c (CRS) - Sublime Text (UNREGISTERED)
+16:29:50:  D:\00-18\Middlewares\StepMotor\StepMotor.c (CRS) - Sublime Text (UNREGISTERED)
+16:30:00:  D:\00-18\CRS\Middlewares\Plate\Plate.c (CRS) - Sublime Text (UNREGISTERED)
+16:28:40:  于斌1
+16:29:30:  untitled (CRS) - Sublime Text (UNREGISTERED)
+16:29:45:  D:\00-18\CRS\Middlewares\Plate\Plate.c (CRS) - Sublime Text (UNREGISTERED)
+16:29:50:  D:\00-18\Middlewares\StepMotor\StepMotor.c (CRS) - Sublime Text (UNREGISTERED)
+16:30:00:  D:\00-18\CRS\Middlewares\Plate\Plate.c (CRS) - Sublime Text (UNREGISTERED)
+16:30:10:  D:\00-18\CRS\Drivers\StepMotorDriver\StepMotorDriver.c (CRS) - Sublime Text (UNREGISTERED)
+16:30:20:  D:\00-18\CRS\Middlewares\StepMotor\StepMotor.c (CRS) - Sublime Text (UNREGISTERED)
+16:30:25:  D:\00-18\CRS\Middlewares\Component\Component.c (CRS) - Sublime Text (UNREGISTERED)
+16:30:35:  于斌1
+16:30:40:  D:\00-18\CRS\Middlewares\Component\Component.c (CRS) - Sublime Text (UNREGISTERED)
+16:31:55:  D:\00-18\CRS\Applications\BarCtrl\BarCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:32:20:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:32:35:  D:\00-18\CRS\Applications\PPCtrl\PPCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:32:40:  D:\00-18\CRS\Middlewares\Component\Component.h (CRS) - Sublime Text (UNREGISTERED)
+16:32:45:  D:\00-18\CRS\Applications\ShutterCtrl\ShutterCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:33:00:  D:\00-18\CRS\doc\20200601_KE18从控板部件类设计实现与应用.md (CRS) - Sublime Text (UNREGISTERED)
+16:33:40:  D:\00-18\CRS\Applications\ShutterCtrl\ShutterCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:33:45:  于斌1
+16:34:40:  TCR调测工具 V3.36
+16:34:45:  新建Microsoft Excel 工作表.xlsx - Excel
+16:34:50:  TCR调测工具 V3.36
+16:35:30:  新建Microsoft Excel 工作表.xlsx - Excel
+16:35:45:  TCR调测工具 V3.36
+16:36:35:  于斌1
+16:36:55:  新建Microsoft Excel 工作表.xlsx - Excel
+16:37:05:  于斌1
+16:37:15:  新建Microsoft Excel 工作表.xlsx - Excel
+16:37:20:  于斌1
+16:37:30:  新建Microsoft Excel 工作表.xlsx - Excel
+16:38:15:  今日发布 流程IT部《 SNBC-025-003-V1.0 合理化活动管理办法》、《 自主管理小组管理流程》、 《合理化建议管理流程》
+16:38:20:  新建Microsoft Excel 工作表.xlsx - Excel
+16:39:05:  TCR调测工具 V3.36
+16:39:55:  钞箱配置
+16:40:00:  TCR调测工具 V3.36
+16:41:00:  新建Microsoft Excel 工作表.xlsx - Excel
+16:41:40:  TCR调测工具 V3.36
+16:41:50:  20200608
+16:42:20:  于斌1
+16:42:25:  20200608
+16:42:30:  于斌1
+16:42:35:  20200608
+16:42:45:  TCR调测工具 V3.36
+16:42:55:  取款
+16:43:00:  新建Microsoft Excel 工作表.xlsx - Excel
+16:43:05:  于斌1
+16:44:00:  TCR调测工具 V3.36
+16:44:15:  BTCRTestTool
+16:44:20:  TCR调测工具 V3.36
+16:44:25:  新建Microsoft Excel 工作表.xlsx - Excel
+16:44:30:  TCR调测工具 V3.36
+16:44:35:  新建Microsoft Excel 工作表.xlsx - Excel
+16:44:45:  锁屏状态
+16:44:50:  于斌1
+16:44:15:  BTCRTestTool
+16:44:20:  TCR调测工具 V3.36
+16:44:25:  新建Microsoft Excel 工作表.xlsx - Excel
+16:44:30:  TCR调测工具 V3.36
+16:44:35:  新建Microsoft Excel 工作表.xlsx - Excel
+16:44:45:  锁屏状态
+16:44:50:  于斌1
+16:46:05:  锁屏状态
+16:46:10:  TCR调测工具 V3.36
+16:46:15:  于斌1
+16:46:30:  TCR调测工具 V3.36
+16:53:25:  新建Microsoft Excel 工作表.xlsx - Excel
+16:53:50:  TCR调测工具 V3.36
+16:54:25:  取款
+16:54:35:  TCR调测工具 V3.36
+16:58:05:  「开始」菜单
+16:58:30:  TCR调测工具 V3.36
+16:58:05:  「开始」菜单
+16:58:30:  TCR调测工具 V3.36
+17:03:20:  新建Microsoft Excel 工作表.xlsx - Excel
+17:03:35:  TCR调测工具 V3.36
+17:06:55:  eSpace
+17:07:00:  于斌1
+17:07:05:  TCR调测工具 V3.36
+17:10:35:  锁屏状态
+17:52:06:  TCR调测工具 V3.36
+17:52:16:  取款
+17:52:21:  TCR调测工具 V3.36
+17:53:41:  新建Microsoft Excel 工作表.xlsx - Excel
+17:53:46:  MindMaster Pro
+17:53:56:  程明昌
+17:54:01:  MindMaster Pro
+17:54:51:  程明昌
+17:55:01:  iTunes
+17:55:06:  TCR调测工具 V3.36
+17:55:56:  20200608
+17:56:06:  新建文件夹
+17:56:11:  Decode
+17:56:16:  Box_1__0000_20200608175505.log - DRB.tat* - TextAnalysisTool.NET
+17:56:26:  K64_0000_20200608175505
+17:56:36:  TCR调测工具 V3.36
+17:57:41:  20200608
+17:57:51:  eSpace
+17:58:06:  程明昌
+17:58:26:  TCR调测工具 V3.36
+17:58:31:  eSpace
+17:58:41:  吉哲
+17:58:46:  TCR调测工具 V3.36
+17:59:06:  新建Microsoft Excel 工作表.xlsx - Excel
+17:59:11:  20200608
+17:59:26:  新标签页 - Google Chrome
+17:59:31:  百度网盘_百度搜索 - Google Chrome
+17:59:41:  桌面整理
+17:59:46:  百度网盘-全部文件 - Google Chrome
+17:59:56:  20200608
+18:00:01:  取款
+17:58:06:  程明昌
+17:58:26:  TCR调测工具 V3.36
+17:58:31:  eSpace
+17:58:41:  吉哲
+17:58:46:  TCR调测工具 V3.36
+17:59:06:  新建Microsoft Excel 工作表.xlsx - Excel
+17:59:11:  20200608
+17:59:26:  新标签页 - Google Chrome
+17:59:31:  百度网盘_百度搜索 - Google Chrome
+17:59:41:  桌面整理
+17:59:46:  百度网盘-全部文件 - Google Chrome
+17:59:56:  20200608
+18:00:01:  取款
+18:00:06:  TCR调测工具 V3.36
+18:00:51:  新建Microsoft Excel 工作表.xlsx - Excel
+18:01:01:  20200608
+18:02:41:  TCR调测工具 V3.36
+18:03:21:  取款
+18:03:26:  TCR调测工具 V3.36
+18:03:36:  吉哲
+18:03:41:  TCR调测工具 V3.36
+18:04:31:  20200608
+18:04:36:  「开始」菜单
+18:04:41:  20200608
+18:04:46:  eSpace
+18:04:51:  吉哲
+18:05:26:  20200608
+18:05:31:  锁屏状态

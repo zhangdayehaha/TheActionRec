@@ -1,0 +1,1266 @@
+08:05:13:  「开始」菜单
+08:05:18:  邮储招标DRB样机（2台）发货测试~2020.10.24
+08:05:38:  K64_BTCR-1100190802300007_20201024101325.log - DRB.tat* - TextAnalysisTool.NET
+08:16:13:  00-06
+08:16:18:  trunk
+08:16:23:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+08:17:08:  DRB测试缺陷列表.xlsx
+08:18:53:  trunk
+08:19:03:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+08:19:18:  trunk
+08:19:23:  D:\00-06\1T1-Stop-Length\trunk - 版本库浏览器 - TortoiseSVN
+08:19:28:  新北洋OA信息化平台 - Internet Explorer
+08:19:33:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+08:19:48:  Tools
+08:19:53:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:19:58:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+08:20:03:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:20:23:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:20:33:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:20:43:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:21:34:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:21:54:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:26:56:  DRB测试缺陷列表.xlsx
+08:28:16:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:28:16:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:36:07:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:36:12:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:36:17:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+08:36:22:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:36:27:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:36:32:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:36:52:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:36:57:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:31:58:  eSpace
+09:33:23:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:36:58:  ● LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:39:18:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:42:03:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:42:08:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+09:42:13:  新建文本文档.exe - 快捷方式
+09:42:28:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:42:33:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:48:18:  02固件设计中心
+09:49:03:  DRB测试缺陷列表(1).xlsx  [只读] - Excel
+09:49:13:  20201031固件团建报名表.xlsx  [受保护的视图] - Excel
+09:50:18:  DRB测试缺陷列表(1).xlsx  [只读] - Excel
+09:51:58:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:52:08:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:55:53:  锁屏状态
+09:57:08:  颜晓军
+09:57:28:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:58:33:  trunk
+09:58:38:  1T1-Stop-Length
+09:58:43:  trunk
+09:58:48:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+09:59:03:  Tools
+09:59:08:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:58:33:  trunk
+09:58:38:  1T1-Stop-Length
+09:58:43:  trunk
+09:58:48:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+09:59:03:  Tools
+09:59:08:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:00:19:  吉哲
+10:00:34:  eSpace
+10:01:09:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:01:34:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+10:01:44:  DRB测试缺陷列表(1).xlsx  [只读] - Excel
+10:01:49:  本地磁盘 (E:)
+10:01:54:  E:\深圳出差\44 - 版本库浏览器 - TortoiseSVN
+10:02:09:  深圳出差
+10:02:14:  TOOl
+10:02:19:   - 版本库浏览器 - TortoiseSVN
+10:02:24:  检出
+10:02:29:  检出 失败！
+10:02:34:  D:\00-06\1T1-Stop-Length\trunk - 版本库浏览器 - TortoiseSVN
+10:02:49:  TOOl
+10:03:09:  00-06
+10:03:14:  trunk
+10:03:19:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+10:03:24:  PlateCtrl.c Revision 4116 - TortoiseMerge
+10:03:34:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:03:54:  LogExpert - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\KE18\None_0000_20201023145940.log
+10:04:34:  trunk
+10:04:44:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+10:07:34:  系统登录 - Internet Explorer
+10:07:39:  来自网页的消息
+10:07:44:  员工自助 - Internet Explorer
+10:07:49:  考勤异常 - Internet Explorer
+10:08:09:  员工自助 - Internet Explorer
+10:08:14:  我的薪酬 - Internet Explorer
+10:08:19:  员工自助 - Internet Explorer
+10:08:39:  「开始」菜单
+10:08:44:  计算器
+10:09:04:  eSpace
+10:09:54:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+10:10:59:  trunk
+10:11:09:  运行
+10:11:14:  06 固件日报
+10:11:24:  CRS
+10:11:29:  DRB测试缺陷列表(1).xlsx  [只读] - Excel
+10:11:34:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+10:16:29:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+10:16:34:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+10:25:39:  新北洋OA信息化平台 - Internet Explorer
+10:25:44:  2020年新北洋张村食堂10.19-10.25日菜谱.xlsx  [受保护的视图] - Excel
+10:25:59:  DRB测试缺陷列表(1).xlsx  [只读] - Excel
+10:26:14:  主控板集成测试方案-报告
+10:26:19:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+10:26:34:  Excel
+10:26:39:  6.2.2.5 钞箱测试1T1.xls  [受保护的视图] - Excel
+10:26:49:  Excel
+10:26:54:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+10:33:09:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+10:34:04:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+10:34:19:  Microsoft Excel
+10:34:29:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+10:48:14:  TCR调测工具（研发版）V1.0.0.4
+10:48:24:  「开始」菜单
+10:49:04:  TCR调测工具（研发版）V1.0.0.4
+10:49:14:  通道电机测试
+10:49:24:  「开始」菜单
+10:49:29:  Bus Hound
+10:49:34:  通道电机测试
+10:49:39:  Bus Hound
+10:49:54:  通道电机测试
+10:50:04:  Bus Hound
+10:50:19:  log
+10:50:24:  20201024
+10:50:29:  Decode
+10:50:34:  K64_0000_20201024150518.log - DRB.tat* - TextAnalysisTool.NET
+10:51:19:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+10:51:44:  K64_0000_20201024150518.log - DRB.tat* - TextAnalysisTool.NET
+10:52:14:  Decode
+10:52:19:  TCR调测工具（研发版）V1.0.0.4
+10:52:24:  通道电机测试
+10:52:29:  Decode
+10:52:34:  K64_0000_20201024150518.log - DRB.tat* - TextAnalysisTool.NET
+10:52:54:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+10:53:09:  TCR
+10:53:14:  主控板集成测试方案-报告
+10:53:19:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+10:53:24:  DRB测试缺陷列表(1).xlsx  [只读] - Excel
+10:53:29:  6.2.2.5 钞箱测试1T1.xls  [受保护的视图] - Excel
+10:53:49:  K64_0000_20201024150518.log - DRB.tat* - TextAnalysisTool.NET
+10:54:04:  固件集成测试方案
+10:54:09:  共享文件
+10:54:14:  主控板集成测试方案-报告
+10:54:19:  6.2.2.5 钞箱测试1T1.xls  [受保护的视图] - Excel
+10:54:34:  K64_0000_20201024150518.log - DRB.tat* - TextAnalysisTool.NET
+10:55:04:  6.2.2.5 钞箱测试1T1.xls  [受保护的视图] - Excel
+11:00:04:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:00:04:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:02:39:  K64_0000_20201024150518.log - DRB.tat* - TextAnalysisTool.NET
+11:02:59:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:22:34:  K64_0000_20201024150518.log - DRB.tat* - TextAnalysisTool.NET
+11:22:39:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:23:44:  0-工作 - 张开发 - 印象笔记
+11:23:59:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:24:09:  自动播放
+11:24:59:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:25:04:  BTCRTestTool
+11:25:09:  TCR调测工具（研发版）V1.0.0.4
+11:25:19:  托板控制
+11:25:29:  通道电机测试
+11:29:04:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:29:14:  密码锁
+11:29:19:  新建文本文档.exe - 快捷方式
+11:29:29:  0-工作 - 张开发 - 印象笔记
+11:29:34:  帐户信息
+11:29:44:  0-工作 - 张开发 - 印象笔记
+11:30:04:  印象笔记错误 - Internet Explorer
+11:29:04:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:29:14:  密码锁
+11:29:19:  新建文本文档.exe - 快捷方式
+11:29:29:  0-工作 - 张开发 - 印象笔记
+11:29:34:  帐户信息
+11:29:44:  0-工作 - 张开发 - 印象笔记
+11:30:04:  印象笔记错误 - Internet Explorer
+11:30:09:  0-工作 - 张开发 - 印象笔记
+11:30:14:  印象笔记错误 - Internet Explorer
+11:30:24:  印象笔记 | 工作必备效率应用 - Internet Explorer
+11:30:29:  创建印象笔记帐户 - Internet Explorer
+11:30:34:  欢迎回来 - Internet Explorer
+11:31:24:  https://app.yinxiang.com/Home.action?_sourcePage=30tPrntMsh3iMUD9T65RG_YvRLZ-1eYO3fqfqRu0fynRL_ - Internet Explorer
+11:31:34:  0-工作 - 张开发 - 印象笔记
+11:31:44:  帐户信息
+11:31:54:  笔记 | 印象笔记网页版 - Internet Explorer
+11:32:14:  衣长 | 印象笔记网页版 - Internet Explorer
+11:32:19:  笔记 | 印象笔记网页版 - Internet Explorer
+11:32:34:  个人资料 - Internet Explorer
+11:32:44:  帐户一览 - Internet Explorer
+11:32:54:  0-工作 - 张开发 - 印象笔记
+11:33:39:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:35:54:  正在保存
+11:35:59:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:36:19:  Microsoft Excel
+11:36:29:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:36:44:  通道电机测试
+11:36:59:  20201024
+11:37:09:  K64_0000_20201024150518.log - DRB.tat* - TextAnalysisTool.NET
+11:37:54:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:37:59:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:38:04:  K64_0000_20201024150518.log - DRB.tat* - TextAnalysisTool.NET
+11:40:39:  锁屏状态
+13:17:50:  荆文波
+13:18:05:  本地磁盘 (D:)
+13:18:10:  爆仓问题(1)
+13:18:15:  大额存款第198张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X894602B6
+13:18:20:  Decode
+13:18:30:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:18:55:  Decode
+13:19:00:  K64_BTCR-1100200600510420_20201026111720
+13:19:05:  Box_4__BTCR-1100200600510420_20201026111720.log - DRB.tat* - TextAnalysisTool.NET
+13:20:25:  荆文波
+13:20:35:  Box_4__BTCR-1100200600510420_20201026111720.log - DRB.tat* - TextAnalysisTool.NET
+13:23:00:  荆文波
+13:30:50:  Decode
+13:30:55:  Box_4__BTCR-1100200600510420_20201026111720.log - DRB.tat* - TextAnalysisTool.NET
+13:31:05:  荆文波
+13:37:05:  Decode
+13:37:15:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:37:20:  荆文波
+13:38:25:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:39:20:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:39:30:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+13:39:35:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:40:00:  自动播放
+13:40:05:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+13:40:15:  新建文本文档.exe - 快捷方式
+13:40:30:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+13:40:35:  eSpace
+13:41:20:  荆文波
+13:41:40:  eSpace
+13:41:45:  荆文波
+13:42:10:  eSpace
+13:43:30:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:43:36:  Dialog
+13:43:51:  荆文波
+13:45:01:  密码锁
+13:45:01:  密码锁
+13:45:06:  新建文本文档.exe - 快捷方式
+13:45:11:  0-工作 - 张开发 - 印象笔记
+13:45:16:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:46:11:  密码锁
+13:46:16:  0-工作 - 张开发 - 印象笔记
+13:46:36:  Bus Hound
+13:46:41:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:48:16:  0-工作 - 张开发 - 印象笔记
+13:48:26:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:48:36:  新建文本文档.exe - 快捷方式
+13:48:41:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:49:31:  本地磁盘 (D:)
+13:49:36:  trunk
+13:49:41:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+13:49:46:  trunk
+13:50:01:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:50:06:  Tools
+13:50:11:  D:\00-06\1T1-Stop-Length\trunk\Tools - 日志信息 - TortoiseSVN
+13:50:21:  trunk
+13:50:26:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+13:50:46:  trunk
+13:50:56:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+13:51:01:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:51:11:  Tools
+13:51:16:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+13:51:31:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:51:56:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+13:52:01:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+13:52:11:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+13:52:36:  trunk
+13:52:41:  Update
+13:52:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\Update\Update.c (44) - Sublime Text (UNREGISTERED)
+13:52:51:  Applications
+13:52:56:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+13:53:01:  Middlewares
+13:53:06:  milestone.txt - 记事本
+13:53:21:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+13:53:26:  milestone.txt - TortoiseMerge
+13:53:36:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+13:53:56:  提交 失败！
+13:54:01:  D:\00-06\1T1-Stop-Length\trunk - 更新 - TortoiseSVN
+13:54:06:  milestone.txt - TortoiseMerge
+13:54:26:  D:\00-06\1T1-Stop-Length\trunk\milestone.txt - 提交 - TortoiseSVN
+13:54:31:  trunk
+13:54:36:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:54:56:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+13:55:11:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+13:55:16:  Box_4__BTCR-1100200600510420_20201026111720.log - DRB.tat* - TextAnalysisTool.NET
+13:55:26:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+13:56:26:  trunk
+13:56:31:  Tools
+13:56:36:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:56:51:  Tools
+13:56:56:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+13:57:16:  Tools
+13:57:21:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:57:51:  trunk
+13:58:01:  D:\00-06\1T1-Stop-Length\trunk - 更新 - TortoiseSVN
+13:58:06:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:58:46:  trunk
+13:58:51:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+13:58:56:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:59:21:  trunk
+13:59:26:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:59:31:  00-06
+13:59:41:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:59:56:  00-06
+14:00:01:  Tools
+13:58:06:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:58:46:  trunk
+13:58:51:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+13:58:56:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:59:21:  trunk
+13:59:26:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:59:31:  00-06
+13:59:41:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:59:56:  00-06
+14:00:01:  Tools
+14:00:11:  员工自助 - Internet Explorer
+14:00:16:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:00:21:  fenxi
+14:00:26:  T88
+14:00:31:  milestone.txt - 记事本
+14:00:36:  T88
+14:00:41:  DRB
+14:00:46:  20200717-T94
+14:00:51:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V11_MAIN_T14.JM_2020-08-19_4054 _密钥.txt - 记事本
+14:00:56:  20200717-T94
+14:01:01:  T88
+14:01:21:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T88.JM_密钥.txt - 记事本
+14:01:26:  T88
+14:01:36:  于斌1
+14:01:51:  本地磁盘 (D:)
+14:02:01:  于斌1
+14:02:11:  00-KE64
+14:02:16:  00-06
+14:02:21:  于斌1
+14:02:46:  00-06
+14:02:51:  Windows
+14:02:56:  trunk
+14:03:01:  T88
+14:03:06:  milestone.txt - 记事本
+14:03:16:  20200717-T94
+14:03:36:  WinRAR
+14:03:41:  20201026-CashBox-T88.rar - WinRAR (非商业个人版)
+14:03:46:  20200717-T94
+14:03:51:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:04:11:  选择要上载的文件，通过: oa.byintra.com
+14:04:21:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:04:31:  新北洋OA信息化平台 - Internet Explorer
+14:04:36:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+14:04:41:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:05:36:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T88.JM_密钥.txt - 记事本
+14:05:41:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:05:46:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+14:05:51:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:06:06:  来自网页的消息
+14:06:11:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:06:16:  于斌1
+14:08:26:  新北洋OA信息化平台 - Internet Explorer
+14:08:31:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+14:08:41:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+14:11:11:  托板控制
+14:11:31:  log
+14:11:36:  删除多个项目
+14:11:41:  托板控制
+14:11:46:  20201024
+14:11:51:  K64_0000_20201024150518.log - DRB.tat* - TextAnalysisTool.NET
+14:12:01:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+14:13:31:  荆文波
+14:15:26:  fenxi
+14:15:31:  爆仓问题(1)
+14:15:41:  ID-31-2 大额存款第24张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X894602B6
+14:16:01:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:16:21:  Decode
+14:16:26:  K64_BTCR-1100200600510420_20201026140308
+14:16:31:  Box_4__BTCR-1100200600510420_20201026140308.log - DRB.tat* - TextAnalysisTool.NET
+14:21:06:  Add Filter
+14:21:36:  Box_4__BTCR-1100200600510420_20201026140308.log - DRB.tat* - TextAnalysisTool.NET
+14:23:06:  锁屏状态
+14:23:11:  托板控制
+14:23:31:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+14:27:01:  TCR调测工具（研发版）V1.0.0.4
+14:27:56:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+14:28:01:  TCR调测工具（研发版）V1.0.0.4
+14:29:16:  BTCRTestTool
+14:29:21:  TCR调测工具（研发版）V1.0.0.4
+14:29:31:  BTCRTestTool
+14:29:36:  TCR调测工具（研发版）V1.0.0.4
+14:29:46:  取款
+14:29:51:  可接收
+14:29:56:  TCR调测工具（研发版）V1.0.0.4
+14:29:16:  BTCRTestTool
+14:29:21:  TCR调测工具（研发版）V1.0.0.4
+14:29:31:  BTCRTestTool
+14:29:36:  TCR调测工具（研发版）V1.0.0.4
+14:29:46:  取款
+14:29:51:  可接收
+14:29:56:  TCR调测工具（研发版）V1.0.0.4
+14:31:06:  20201024
+14:32:31:  TCR调测工具（研发版）V1.0.0.4
+14:32:36:  20201024
+14:32:41:  K64_0000_20201024150518.log - DRB.tat* - TextAnalysisTool.NET
+14:33:01:  TCRControlCmdDLL
+14:33:06:  20201026
+14:33:16:  20201023
+14:33:21:  Decode
+14:33:26:  TCRControlCmdDLL
+14:33:31:  Decode
+14:33:36:  KE18
+14:33:41:  None_0000_20201026142956.log - [No filter file] - TextAnalysisTool.NET
+14:33:46:  None_0000_20201026142759.log - [No filter file] - TextAnalysisTool.NET
+14:33:51:  KE18
+14:33:56:  ESC_0000_20201026142956.log - [No filter file] - TextAnalysisTool.NET
+14:34:01:  Decode
+14:34:06:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201026\Decode\ClassLog333.py (3.7.3)
+14:34:56:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201026\Decode\ClassLog333.py (3.7.3)*
+14:35:21:  KE18
+14:35:31:  Decode
+14:35:41:  桌面整理
+14:35:46:  Decode
+14:35:51:  管理员: C:\Windows\system32\cmd.exe
+14:36:06:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F ClassLog333.py
+14:36:16:  「开始」菜单
+14:36:21:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F ClassLog333.py
+14:36:31:  运行
+14:36:36:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F ClassLog333.py
+14:36:46:  本地磁盘 (D:)
+14:36:51:  text
+14:36:56:  管理员: C:\Windows\system32\cmd.exe
+14:37:06:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F ClassLog333.py
+14:37:21:  dist
+14:37:26:  运行
+14:37:31:  「开始」菜单
+14:37:36:  Select a Windows CE Device
+14:37:41:  Windows CE Remote Registry Editor
+14:37:56:  运行
+14:38:06:  Program Manager
+14:38:11:  运行
+14:38:16:  「开始」菜单
+14:38:26:  控制面板
+14:38:31:  「开始」菜单
+14:38:36:  dist
+14:38:51:  计算机管理
+14:39:06:  运行
+14:39:11:  注册表编辑器
+14:39:36:  查找
+14:39:46:  文档
+14:39:56:  查找
+14:40:11:  注册表编辑器
+14:40:51:  本地磁盘 (D:)
+14:40:56:  查找
+14:41:06:  注册表编辑器
+14:41:41:  文档
+14:41:46:  注册表编辑器
+14:41:51:  编辑字符串
+14:41:56:  注册表编辑器
+14:42:36:  HKEY_LOCAL_MACHINESOFTWAREClassesDirectory
+14:42:41:  新建文本文档.txt - 记事本
+14:42:46:  桌面整理
+14:42:51:  锁屏状态
+14:43:01:  00-06
+14:43:06:  20201026
+14:43:11:  Decode
+14:43:36:  KE18
+14:49:46:  TCR调测工具（研发版）V1.0.0.4
+14:50:41:  取款
+14:50:46:  TCR调测工具（研发版）V1.0.0.4
+14:52:16:  Decode
+14:53:01:  KE18
+14:53:06:  K18_0000_20201026142759.log - [No filter file] - TextAnalysisTool.NET
+14:53:16:  KE18
+14:53:21:  CS_0000_20201026142759.log - [No filter file] - TextAnalysisTool.NET
+14:54:01:  Decode
+14:54:06:  K18_0000_20201026142759.log - [No filter file] - TextAnalysisTool.NET
+14:54:31:  Decode
+14:54:51:  本地磁盘 (D:)
+14:54:56:  fenxi
+14:55:01:  ClassLog333.py - D:\fenxi\text\ClassLog333.py (3.7.3)
+14:55:11:  *ClassLog333.py - D:\fenxi\text\ClassLog333.py (3.7.3)*
+14:55:36:  文档
+14:55:41:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+14:55:46:  文档
+14:55:51:  锁屏状态
+14:55:56:  本地磁盘 (D:)
+14:56:01:  管理员: C:\Windows\system32\cmd.exe
+14:56:16:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F ClassLog333.py
+14:56:26:  文档
+14:56:31:  C:\Users\zhangkaifa\Documents\ClassLog333.exe
+14:56:36:  KE18
+14:56:41:  20201026
+14:56:46:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:56:51:  Decode
+14:56:56:  文件夹正在使用
+14:57:06:  Decode
+14:57:11:  20201026
+14:57:21:  Windows 任务管理器
+14:57:46:  20201026
+14:57:51:  Decode
+14:57:56:  None_0000_20201026144947.log - [No filter file] - TextAnalysisTool.NET
+14:58:01:  None_0000_20201026145042.log - [No filter file] - TextAnalysisTool.NET
+14:58:06:  KE18
+14:58:16:  CS_0000_20201026145042.log - [No filter file] - TextAnalysisTool.NET
+14:58:36:  KE18
+14:58:41:  Decode
+14:58:46:  KE18
+14:58:51:  Decode
+14:59:01:  20201026
+14:59:06:  Decode
+14:59:16:  KE18
+14:59:21:  CS_0000_20201026142759.log - [No filter file] - TextAnalysisTool.NET
+14:59:26:  Decode
+14:59:31:  K18_0000_20201026142759.log - [No filter file] - TextAnalysisTool.NET
+14:59:36:  锁屏状态
+14:59:41:  TCR调测工具（研发版）V1.0.0.4
+14:59:46:  运行
+14:59:51:  CRS
+14:59:56:  指令集
+15:00:01:  正在打开 - Word
+14:58:06:  KE18
+14:58:16:  CS_0000_20201026145042.log - [No filter file] - TextAnalysisTool.NET
+14:58:36:  KE18
+14:58:41:  Decode
+14:58:46:  KE18
+14:58:51:  Decode
+14:59:01:  20201026
+14:59:06:  Decode
+14:59:16:  KE18
+14:59:21:  CS_0000_20201026142759.log - [No filter file] - TextAnalysisTool.NET
+14:59:26:  Decode
+14:59:31:  K18_0000_20201026142759.log - [No filter file] - TextAnalysisTool.NET
+14:59:36:  锁屏状态
+14:59:41:  TCR调测工具（研发版）V1.0.0.4
+14:59:46:  运行
+14:59:51:  CRS
+14:59:56:  指令集
+15:00:01:  正在打开 - Word
+15:00:06:  BNE-R1200M_主控(K64)_EEPROM配置表_V100.doc (受保护的视图) - Word
+15:00:16:  指令集
+15:00:21:  CRS
+15:00:26:  固件文档
+15:00:31:  20200908~CRS EEPROM分布.xlsx  [受保护的视图] - Excel
+15:00:41:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+15:00:51:  20200908~CRS EEPROM分布.xlsx  [受保护的视图] - Excel
+15:00:56:  TCR调测工具（研发版）V1.0.0.4
+15:01:01:  读写ERROM
+15:01:11:  TCR调测工具（研发版）V1.0.0.4
+15:02:16:  KE18
+15:02:21:  CS_0000_20201026142956.log - [No filter file] - TextAnalysisTool.NET
+15:02:31:  K64_0000_20201026142956.log - [No filter file] - TextAnalysisTool.NET
+15:02:36:  KE18
+15:02:41:  20201026
+15:02:46:  K18_0000_20201026142956.log - [No filter file] - TextAnalysisTool.NET
+15:02:56:  TCR调测工具（研发版）V1.0.0.4
+15:03:01:  20201026
+15:03:06:  Decode
+15:03:21:  本地磁盘 (D:)
+15:03:26:  text
+15:03:31:  ClassLog333.py - D:\fenxi\text\ClassLog333.py (3.7.3)
+15:03:46:  *ClassLog333.py - D:\fenxi\text\ClassLog333.py (3.7.3)*
+15:03:56:  ClassLog333.py - D:\fenxi\text\ClassLog333.py (3.7.3)
+15:04:01:  text
+15:04:06:  Decode
+15:04:21:  TCR调测工具（研发版）V1.0.0.4
+15:04:26:  文档
+15:04:31:  text
+15:04:41:  管理员: C:\Windows\system32\cmd.exe
+15:04:56:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F ClassLog333.py
+15:05:01:  管理员: C:\Windows\system32\cmd.exe
+15:05:06:  复制文件
+15:05:11:  20201026
+15:05:16:  Decode
+15:05:21:  KE18
+15:05:26:  CS_0000_20201026142759.log - [No filter file] - TextAnalysisTool.NET
+15:05:31:  KE18
+15:05:36:  Decode
+15:05:46:  TCR调测工具（研发版）V1.0.0.4
+15:05:56:  注册表编辑器
+15:06:21:  读写ERROM
+15:06:31:  TCR调测工具（研发版）V1.0.0.4
+15:06:36:  本地磁盘 (E:)
+15:06:41:  fenxi
+15:06:46:  新建文本文档.txt - 记事本
+15:06:56:  text
+15:07:16:  密码锁
+15:07:21:  0-工作 - 张开发 - 印象笔记
+15:07:26:  所有笔记本 - 张开发 - 印象笔记
+15:07:31:  印象笔记
+15:07:36:  HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\Background\shell - 印象笔记
+15:07:51:  Decode
+15:07:56:  KE18
+15:08:01:  None_0000_20201026145042.log - [No filter file] - TextAnalysisTool.NET
+15:08:06:  KE18
+15:08:26:  Decode
+15:08:36:  KE18
+15:09:01:  20201026
+15:09:11:  KE18
+15:09:21:  20201026
+15:09:26:  锁屏状态
+15:09:31:  TCR调测工具（研发版）V1.0.0.4
+15:09:36:  跳转列表
+15:09:46:  TCR调测工具（研发版）V1.0.0.4
+15:09:56:  20201026
+15:10:06:  Decode
+15:10:11:  KE18
+15:10:21:  CS_0000_20201026145042.log - [No filter file] - TextAnalysisTool.NET
+15:10:31:  Decode
+15:11:11:  K18_0000_20201026145042.log - [No filter file] - TextAnalysisTool.NET
+15:11:26:  CS_0000_20201026145042.log - [No filter file] - TextAnalysisTool.NET
+15:11:31:  KE18
+15:11:36:  K18_0000_20201026145042.log - [No filter file] - TextAnalysisTool.NET
+15:16:46:  文档
+15:16:51:  text
+15:16:56:  ClassLog333.py - D:\fenxi\text\ClassLog333.py (3.7.3)
+15:17:31:  None_0000_20201026145042.log - [No filter file] - TextAnalysisTool.NET
+15:18:21:  KE18
+15:18:26:  None_0000_20201026145042.log - [No filter file] - TextAnalysisTool.NET
+15:18:31:  CS_0000_20201026145042.log - [No filter file] - TextAnalysisTool.NET
+15:18:46:  KE18
+15:19:01:  None_0000_20201026145042.log - [No filter file] - TextAnalysisTool.NET
+15:19:06:  KE18
+15:19:11:  None_0000_20201026150630.log - [No filter file] - TextAnalysisTool.NET
+15:19:16:  KE18
+15:19:21:  Decode
+15:19:26:  K18_0000_20201026150630.log - [No filter file] - TextAnalysisTool.NET
+15:25:56:  新北洋OA信息化平台 - Internet Explorer
+15:26:11:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+15:26:16:  新北洋OA信息化平台 - Internet Explorer
+15:26:46:  SVN申请及变更流程 - Internet Explorer
+15:26:51:  本地磁盘 (D:)
+15:27:01:  戚晓东
+15:27:11:  本地磁盘 (D:)
+15:27:16:  00-06
+15:27:26:  SVN申请及变更流程 - Internet Explorer
+15:27:31:  深圳出差
+15:27:36:  戚晓东
+15:27:46:  Tools
+15:28:06:  BNE-R1200M_Master_K64_FV1000_FEDADV10_MAIN_T00 - 写邮件
+15:28:11:  发送邮件
+15:28:16:  戚晓东
+15:28:36:  本地磁盘 (D:)
+15:28:41:  44
+15:28:46:  E:\深圳出差\44 - 版本库浏览器 - TortoiseSVN
+15:29:11:   -- 网页对话框
+15:29:16:  SVN申请及变更流程 - Internet Explorer
+15:28:06:  BNE-R1200M_Master_K64_FV1000_FEDADV10_MAIN_T00 - 写邮件
+15:28:11:  发送邮件
+15:28:16:  戚晓东
+15:28:36:  本地磁盘 (D:)
+15:28:41:  44
+15:28:46:  E:\深圳出差\44 - 版本库浏览器 - TortoiseSVN
+15:29:11:   -- 网页对话框
+15:29:16:  SVN申请及变更流程 - Internet Explorer
+15:30:16:  新北洋OA信息化平台 - Internet Explorer
+15:30:21:  1_需求申请人_SVN申请及变更流程 - Internet Explorer
+15:30:31:  SVN申请及变更流程 - Internet Explorer
+15:30:46:  新北洋OA信息化平台 - Internet Explorer
+15:30:51:  1_需求申请人_SVN申请及变更流程 - Internet Explorer
+15:30:56:  SVN申请及变更流程 - Internet Explorer
+15:31:01:  1_需求申请人_SVN申请及变更流程 - Internet Explorer
+15:31:06:  SVN申请及变更流程 - Internet Explorer
+15:32:01:  eSpace
+15:32:06:  刘雅
+15:32:36:  SVN申请及变更流程 - Internet Explorer
+15:33:06:  ClassLog333.py - D:\fenxi\text\ClassLog333.py (3.7.3)
+15:33:11:  刘雅
+15:33:46:  44
+15:34:01:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+15:34:16:  44
+15:34:21:  E:\深圳出差\44 - 版本库浏览器 - TortoiseSVN
+15:34:31:  http://192.168.10.9:82/svn/BNE-R1200M/FW_TOOLS - 日志信息 - TortoiseSVN
+15:34:36:  E:\深圳出差\44 - 版本库浏览器 - TortoiseSVN
+15:34:41:  SVN申请及变更流程 - Internet Explorer
+15:34:46:  1_需求申请人_SVN申请及变更流程 - Internet Explorer
+15:35:06:  SVN申请及变更流程 - Internet Explorer
+15:35:31:  1_需求申请人_SVN申请及变更流程 - Internet Explorer
+15:35:36:  44
+15:35:41:  Tools
+15:35:51:  新建文本文档.exe - 快捷方式
+15:35:56:  锁屏状态
+15:36:02:  新标签页 - Google Chrome
+15:36:17:  百度一下，你就知道 - Google Chrome
+15:36:27:  python 绑定_百度搜索 - Google Chrome
+15:36:37:  python 绑定EXE_百度搜索 - Google Chrome
+15:36:47:  python 打包两个exe_百度搜索 - Google Chrome
+15:36:57:  将两个exe合并_百度搜索 - Google Chrome
+15:37:02:  如何合并两个EXE程序-百度经验 - Google Chrome
+15:37:37:  Tools
+15:37:57:  ClassLog333.py - D:\fenxi\text\ClassLog333.py (3.7.3)
+15:39:37:  图片
+15:39:42:  文档
+15:40:02:  固件文档
+15:40:07:  Translate.pyw - C:\Users\zhangkaifa\Documents\Translate.pyw (3.7.3)
+15:40:12:  文档
+15:40:47:  网络错误
+15:42:07:  ClassLog333.py - D:\fenxi\text\ClassLog333.py (3.7.3)
+15:42:37:  本地磁盘 (D:)
+15:42:42:  ClassLog333.py - D:\fenxi\text\ClassLog333.py (3.7.3)
+15:42:47:  锁屏状态
+15:42:52:  20201026
+15:42:57:  *ClassLog333.py - D:\fenxi\text\ClassLog333.py (3.7.3)*
+15:43:32:  ClassLog333.py - D:\fenxi\text\ClassLog333.py (3.7.3)
+15:43:37:  text
+15:43:42:  管理员: C:\Windows\system32\cmd.exe
+15:43:52:  将两个exe合并_百度搜索 - Google Chrome
+15:44:07:  合并两个exe_百度搜索 - Google Chrome
+15:44:12:  有没有可以将 2 个 exe 合并/打包的生成工具？ - V2EX - Google Chrome
+15:45:02:  合并两个exe_百度搜索 - Google Chrome
+15:44:07:  合并两个exe_百度搜索 - Google Chrome
+15:44:12:  有没有可以将 2 个 exe 合并/打包的生成工具？ - V2EX - Google Chrome
+15:45:02:  合并两个exe_百度搜索 - Google Chrome
+15:45:07:  text
+15:45:32:  锁屏状态
+15:45:37:  MSN 中国 - Internet Explorer
+15:45:42:  text
+15:46:02:  锁屏状态
+15:46:07:  合并两个exe_百度搜索 - Google Chrome
+15:46:12:  C语言怎么用正则_百度搜索 - Google Chrome
+15:46:17:  C语言怎么用正则表达式_百度知道 - Google Chrome
+15:46:52:  C语言怎么用正则_百度搜索 - Google Chrome
+15:46:57:  c语言支持正则表达式吗_百度搜索 - Google Chrome
+15:47:02:  C语言使用正则表达式_阅微草堂-CSDN博客 - Google Chrome
+15:47:07:  (3条消息) C语言使用正则表达式_阅微草堂-CSDN博客 - Google Chrome
+15:47:57:  新建文本文档.exe - 快捷方式
+15:48:02:  未连接到网络 - Internet Explorer
+15:48:07:  系统登录 - Internet Explorer
+15:49:32:  dist
+15:49:37:  文档
+15:49:47:  dist
+15:49:57:  压缩文件名和参数
+15:50:32:  管理配置
+15:50:37:  压缩文件名和参数
+15:51:17:  dist
+15:51:22:  WinRAR
+15:51:27:  dist.rar - WinRAR (非商业个人版)
+15:51:32:  dist
+15:51:42:  C语言怎么用正则_百度搜索 - Google Chrome
+15:51:52:  新建文本文档.exe - 快捷方式
+15:51:57:  C语言匹配字符串_百度搜索 - Google Chrome
+15:52:02:  C语言字符篇（四）字符串查找函数 - kmist - 博客园 - Google Chrome
+15:52:32:  C语言匹配字符串_百度搜索 - Google Chrome
+15:52:42:  c语言编辑_百度搜索 - Google Chrome
+15:52:47:  C语言下载_百度搜索 - Google Chrome
+15:52:52:  (99+ 封私信 / 80 条消息) 新手入门c语言应该下载那个软件？ - 知乎 - Google Chrome
+15:53:12:  Visual Studio 2019_百度搜索 - Google Chrome
+15:53:17:  开始
+15:53:27:  Visual Studio 2019_百度搜索 - Google Chrome
+15:53:32:  C语言 生成EXE_百度搜索 - Google Chrome
+15:53:37:  如何将C语言生成exe可执行程序-百度经验 - Google Chrome
+15:53:52:  VC6.0_百度搜索 - Google Chrome
+15:53:57:  vc6.0中文版_vc++6.0中文版下载_vc6.0官方下载 - Google Chrome
+15:54:02:  VC++ 6.0绿色完整版下载 -vc++ 6.0中文版下载-pc6下载站 - Google Chrome
+15:54:12:  新建文本文档.exe - 快捷方式
+15:54:17:  下载
+15:54:27:  正在从 VC6.0green.rar 中提取
+15:54:32:  下载
+15:54:37:  VC6.0green
+15:54:42:  下载
+15:55:32:  VC++ 6.0绿色完整版下载 -vc++ 6.0中文版下载-pc6下载站 - Google Chrome
+15:55:37:  下载
+15:55:42:  fenxi
+15:55:52:  正在从 VC6.0green.rar 中提取
+15:56:02:  港币10元居左混合面向大额取款报钞箱口 500ms纸币未进入 返回码0X075E0900
+15:56:12:  「开始」菜单
+15:56:22:  删除快捷方式
+15:56:27:  港币10元居左混合面向大额取款报钞箱口 500ms纸币未进入 返回码0X075E0900
+15:56:37:  正在从 VC6.0green.rar 中提取
+15:56:47:  港币10元居左混合面向大额取款报钞箱口 500ms纸币未进入 返回码0X075E0900
+15:56:57:  管理员: C:\Windows\system32\cmd.exe
+15:57:12:  VC6.0green.rar - WinRAR (非商业个人版)
+15:57:22:  正在从 VC6.0green.rar 中提取
+15:57:32:  运行
+15:57:37:  软件安装文件
+15:57:42:  01固件工具-必须使用目录中的版本
+15:57:57:  04软件工具-必须使用目录中的版本
+15:58:02:  99-其他工具
+15:58:22:  vs
+15:58:27:  99-其他工具
+15:58:32:  05-系统集成
+15:59:07:  刘雅
+15:59:12:  VC++ 6.0绿色完整版下载 -vc++ 6.0中文版下载-pc6下载站 - Google Chrome
+15:59:17:  VC - 05-系统集成
+15:59:22:  VC - “05-系统集成”中的搜索结果
+15:59:37:  RadminViewer3-绿色
+15:59:42:  05-系统集成
+15:59:52:  99-其他工具
+15:59:57:  04-应用工具
+16:00:02:  VC\ - “软件安装文件 (\\192.168.28.3)”中的搜索结果
+15:58:22:  vs
+15:58:27:  99-其他工具
+15:58:32:  05-系统集成
+15:59:07:  刘雅
+15:59:12:  VC++ 6.0绿色完整版下载 -vc++ 6.0中文版下载-pc6下载站 - Google Chrome
+15:59:17:  VC - 05-系统集成
+15:59:22:  VC - “05-系统集成”中的搜索结果
+15:59:37:  RadminViewer3-绿色
+15:59:42:  05-系统集成
+15:59:52:  99-其他工具
+15:59:57:  04-应用工具
+16:00:02:  VC\ - “软件安装文件 (\\192.168.28.3)”中的搜索结果
+16:00:07:  VC - “软件安装文件 (\\192.168.28.3)”中的搜索结果
+16:00:12:  VC++ - “软件安装文件 (\\192.168.28.3)”中的搜索结果
+16:00:37:  锁屏状态
+16:00:42:  VC++ 6.0绿色完整版下载 -vc++ 6.0中文版下载-pc6下载站 - Google Chrome
+16:00:47:  www.pc6.com - Google Chrome
+16:00:52:  vc++6.0(Visual C++)下载 简体中文企业版-c++程序下载-pc6下载站 - Google Chrome
+16:01:02:  VC6.0_百度搜索 - Google Chrome
+16:01:07:  https://www.baidu.com/link?url=CZ7VEbJMEHmmGmLPvYlBHvIHA8YkmcGOcgBN63UuYLKde5H0Xc05uPrDVBhQp-I3afCH1kSn_hRiJtjDruJZNa&wd=&eqid=c492fa5800005f21000000025f968240 - Google Chrome
+16:01:12:  C语言 怎么生成*.EXE文件啊 ？_百度知道 - Google Chrome
+16:01:17:  如何将C语言生成exe可执行程序-百度经验 - Google Chrome
+16:01:22:  c语言bai编辑工具_百度搜索 - Google Chrome
+16:01:37:  vscode如何生成exe_百度搜索 - Google Chrome
+16:01:47:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:02:02:  Untitled-1 - DRB-NearFull - Visual Studio Code [管理员]
+16:02:07:  C语言字符篇（四）字符串查找函数 - kmist - 博客园 - Google Chrome
+16:02:17:  ● int main(int argc, char **argv) { • Untitled-1 - DRB-NearFull - Visual Studio Code [管理员]
+16:02:32:  Visual Studio Code
+16:02:37:  vscode如何生成exe_百度搜索 - Google Chrome
+16:02:42:  如何生成exe_百度搜索 - Google Chrome
+16:02:47:  C语言如何生成exe_百度搜索 - Google Chrome
+16:02:57:  (99+ 封私信 / 80 条消息) C语言小白，如何生成.exe？ - 知乎 - Google Chrome
+16:03:02:  C语言如何生成exe_百度搜索 - Google Chrome
+16:03:12:  新建文本文档.exe - 快捷方式
+16:03:17:  eSpace
+16:03:32:  C语言如何生成exe_百度搜索 - Google Chrome
+16:03:42:  Subversion
+16:03:57:  eSpace
+16:04:02:  刘茂林
+16:04:07:  Subversion
+16:04:27:  Microsoft Visual C++
+16:04:32:  新建
+16:04:37:  Win32 Application - 步骤 1 共 1 步
+16:04:42:  222 - Microsoft Visual C++
+16:04:52:  222 - Microsoft Visual C++ - [222.cpp]
+16:05:07:  新建
+16:05:12:  222 - Microsoft Visual C++
+16:05:17:  新建
+16:05:27:  ATL COM AppWizard - 步骤 1 共 1 步
+16:05:32:  333 - Microsoft Visual C++
+16:05:42:  333 - Microsoft Visual C++ - [333.cpp]
+16:05:47:  333 - Microsoft Visual C++ - [StdAfx.h]
+16:05:57:  333 - Microsoft Visual C++ - [333.cpp]
+16:06:02:  C语言如何生成exe_百度搜索 - Google Chrome
+16:06:22:  VC++怎么新建工程-百度经验 - Google Chrome
+16:06:32:  333 - Microsoft Visual C++ - [333.cpp]
+16:06:37:  Microsoft Visual C++ - [D:\...\MyProjects\333\333.cpp]
+16:06:42:  新建
+16:06:52:  Win32 Console Application - 步骤 1 共 1 步
+16:06:57:  新建工程信息
+16:07:02:  11 - Microsoft Visual C++ - [11.cpp]
+16:07:07:  VC++怎么新建工程-百度经验 - Google Chrome
+16:07:22:  新建
+16:07:37:  11 - Microsoft Visual C++ - [11.cpp]
+16:08:07:  11 - Microsoft Visual C++ - [11.cpp *]
+16:08:12:  11 - Microsoft Visual C++ - [11.cpp]
+16:08:22:  VC++ 如何建工程_百度搜索 - Google Chrome
+16:08:32:  https://www.baidu.com/link?url=RAaVJtbi8QnbrtqjGQ2fXz-wBHnZtIAAbVDYdEUcwPl71LpZ0Co5Xg_3LUw7RVgjGARQz4o1rdQg3wBh1zOswq&wd=&eqid=9eca87650000a83d000000025f9683fc - Google Chrome
+16:08:37:  C语言用VC++编程：输入一个字符，如果是小写字母就输出大写，如果是大写字母就输出小写，其他字符原样输出_百度知道 - Google Chrome
+16:08:52:  本地磁盘 (D:)
+16:08:57:  fenxi
+16:09:02:  ID-31-2 大额存款第24张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X894602B6.rar - WinRAR (非商业个人版)
+16:09:07:  C语言用VC++编程：输入一个字符，如果是小写字母就输出大写，如果是大写字母就输出小写，其他字符原样输出_百度知道 - Google Chrome
+16:09:12:  11 - Microsoft Visual C++ - [11.cpp *]
+16:09:17:  11 - Microsoft Visual C++ - [11.cpp]
+16:09:22:  Microsoft Visual C++
+16:09:27:  11 - Microsoft Visual C++ - [11.cpp]
+16:09:37:  C语言用VC++编程：输入一个字符，如果是小写字母就输出大写，如果是大写字母就输出小写，其他字符原样输出_百度知道 - Google Chrome
+16:09:42:  VC++ C语言输入字符_百度搜索 - Google Chrome
+16:09:47:  c语言输入字符_百度搜索 - Google Chrome
+16:09:57:  c语言读取文件内容并输出_百度搜索 - Google Chrome
+16:10:02:  (3条消息) C语言文件操作（三）读取指定路径txt文件，并输出文件内容_寒泉-CSDN博客 - Google Chrome
+16:10:07:  11 - Microsoft Visual C++ - [11.cpp]
+16:10:12:  11 - Microsoft Visual C++ - [11.cpp *]
+16:10:17:  20201026
+16:10:22:  11 - Microsoft Visual C++ - [11.cpp *]
+16:10:32:  Decode
+16:10:37:  11 - Microsoft Visual C++ - [11.cpp *]
+16:10:42:  Decode
+16:10:47:  11 - Microsoft Visual C++ - [11.cpp *]
+16:10:52:  11 - Microsoft Visual C++ - [11.cpp]
+16:11:27:  11 - Microsoft Visual C++ - [11.cpp *]
+16:11:32:  11 - Microsoft Visual C++ - [11.cpp]
+16:11:37:  (3条消息) C语言文件操作（三）读取指定路径txt文件，并输出文件内容_寒泉-CSDN博客 - Google Chrome
+16:11:42:  11 - Microsoft Visual C++ - [11.cpp]
+16:11:57:  (3条消息) C语言文件操作（三）读取指定路径txt文件，并输出文件内容_寒泉-CSDN博客 - Google Chrome
+16:12:02:  (3条消息) c语言-逐行读取txt文件的内容_weixin_39089680的博客-CSDN博客 - Google Chrome
+16:12:12:  11 - Microsoft Visual C++ - [11.cpp]
+16:12:17:  11 - Microsoft Visual C++ - [11.cpp *]
+16:12:22:  11 - Microsoft Visual C++ - [11.cpp]
+16:12:32:  网易有道词典
+16:12:42:  11 - Microsoft Visual C++ - [11.cpp *]
+16:12:52:  11 - Microsoft Visual C++ - [11.cpp]
+16:12:57:  11 - Microsoft Visual C++ - [11.cpp *]
+16:13:02:  11 - Microsoft Visual C++ - [11.cpp]
+16:13:07:  11 - Microsoft Visual C++ - [11.cpp *]
+16:13:22:  (3条消息) C语言文件操作（三）读取指定路径txt文件，并输出文件内容_寒泉-CSDN博客 - Google Chrome
+16:13:27:  11 - Microsoft Visual C++ - [11.cpp *]
+16:13:32:  11 - Microsoft Visual C++ - [11.cpp]
+16:13:47:  Microsoft Visual C++ Debug Library
+16:13:52:  11 - Microsoft Visual C++ - [11.cpp]
+16:13:57:  Decode
+16:14:02:  11 - Microsoft Visual C++ - [11.cpp *]
+16:14:12:  11 - Microsoft Visual C++ - [11.cpp]
+16:14:17:  Microsoft Visual C++ Debug Library
+16:14:22:  11.exe
+16:14:27:  (3条消息) C语言文件操作（三）读取指定路径txt文件，并输出文件内容_寒泉-CSDN博客 - Google Chrome
+16:14:32:  11 - Microsoft Visual C++ - [11.cpp]
+16:14:42:  Microsoft Visual C++ Debug Library
+16:14:52:  11 - Microsoft Visual C++ - [11.cpp]
+16:15:02:  Microsoft Visual C++ Debug Library
+16:14:12:  11 - Microsoft Visual C++ - [11.cpp]
+16:14:17:  Microsoft Visual C++ Debug Library
+16:14:22:  11.exe
+16:14:27:  (3条消息) C语言文件操作（三）读取指定路径txt文件，并输出文件内容_寒泉-CSDN博客 - Google Chrome
+16:14:32:  11 - Microsoft Visual C++ - [11.cpp]
+16:14:42:  Microsoft Visual C++ Debug Library
+16:14:52:  11 - Microsoft Visual C++ - [11.cpp]
+16:15:02:  Microsoft Visual C++ Debug Library
+16:15:12:  11 - Microsoft Visual C++ - [11.cpp]
+16:15:22:  11 - Microsoft Visual C++ - [11.cpp *]
+16:15:32:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+16:15:37:  11 - Microsoft Visual C++ - [11.cpp]
+16:16:22:  (3条消息) C语言文件操作（三）读取指定路径txt文件，并输出文件内容_寒泉-CSDN博客 - Google Chrome
+16:16:27:  (3条消息) c语言-逐行读取txt文件的内容_weixin_39089680的博客-CSDN博客 - Google Chrome
+16:17:22:  11 - Microsoft Visual C++ - [11.cpp]
+16:17:27:  11 - Microsoft Visual C++ - [11.cpp *]
+16:17:42:  (3条消息) c语言-逐行读取txt文件的内容_weixin_39089680的博客-CSDN博客 - Google Chrome
+16:17:47:  11 - Microsoft Visual C++ - [11.cpp *]
+16:17:57:  Microsoft Visual C++
+16:18:02:  11 - Microsoft Visual C++ - [11.cpp]
+16:18:07:  11 - Microsoft Visual C++ - [11.cpp *]
+16:18:12:  11 - Microsoft Visual C++ - [11.cpp]
+16:18:22:  11 - Microsoft Visual C++ - [11.cpp *]
+16:18:27:  11 - Microsoft Visual C++ - [11.cpp]
+16:18:37:  11 - Microsoft Visual C++ - [11.cpp *]
+16:18:42:  11 - Microsoft Visual C++ - [11.cpp]
+16:18:47:  11 - Microsoft Visual C++ - [11.cpp *]
+16:18:57:  11 - Microsoft Visual C++ - [11.cpp]
+16:19:02:  11 - Microsoft Visual C++ - [11.cpp *]
+16:19:07:  11 - Microsoft Visual C++ - [11.cpp]
+16:19:12:  11 - Microsoft Visual C++ - [11.cpp *]
+16:19:22:  11 - Microsoft Visual C++ - [11.cpp]
+16:19:27:  (3条消息) c语言-逐行读取txt文件的内容_weixin_39089680的博客-CSDN博客 - Google Chrome
+16:19:32:  11 - Microsoft Visual C++ - [11.cpp]
+16:20:02:  (3条消息) c语言-逐行读取txt文件的内容_weixin_39089680的博客-CSDN博客 - Google Chrome
+16:20:07:  11 - Microsoft Visual C++ - [11.cpp]
+16:20:12:  11 - Microsoft Visual C++ - [11.cpp *]
+16:20:17:  11 - Microsoft Visual C++ - [11.cpp]
+16:20:27:  11 - Microsoft Visual C++ - [11.cpp *]
+16:20:32:  (3条消息) c语言-逐行读取txt文件的内容_weixin_39089680的博客-CSDN博客 - Google Chrome
+16:20:37:  11 - Microsoft Visual C++ - [11.cpp *]
+16:20:42:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+16:20:47:  11 - Microsoft Visual C++ - [11.cpp]
+16:20:57:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+16:21:02:  11 - Microsoft Visual C++ - [11.cpp]
+16:21:17:  (3条消息) c语言-逐行读取txt文件的内容_weixin_39089680的博客-CSDN博客 - Google Chrome
+16:21:27:  11 - Microsoft Visual C++ - [11.cpp *]
+16:21:32:  11 - Microsoft Visual C++ - [11.cpp]
+16:21:42:  11 - Microsoft Visual C++ - [11.cpp *]
+16:21:47:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+16:21:52:  11 - Microsoft Visual C++ - [11.cpp]
+16:21:57:  11 - Microsoft Visual C++ - [11.cpp *]
+16:22:02:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+16:22:07:  (3条消息) C语言文件操作（三）读取指定路径txt文件，并输出文件内容_寒泉-CSDN博客 - Google Chrome
+16:22:12:  c语言读取文件内容并输出_百度搜索 - Google Chrome
+16:22:17:  (3条消息) C语言如何将一个文件的内容全部输出-CSDN论坛 - Google Chrome
+16:22:47:  11 - Microsoft Visual C++ - [11.cpp *]
+16:22:52:  11 - Microsoft Visual C++ - [11.cpp]
+16:22:57:  11 - Microsoft Visual C++ - [11.cpp *]
+16:23:12:  (3条消息) C语言如何将一个文件的内容全部输出-CSDN论坛 - Google Chrome
+16:23:17:  11 - Microsoft Visual C++ - [11.cpp *]
+16:23:27:  11 - Microsoft Visual C++ - [11.cpp]
+16:23:42:  11 - Microsoft Visual C++ - [11.cpp *]
+16:23:57:  11 - Microsoft Visual C++ - [11.cpp]
+16:24:02:  (3条消息) C语言如何将一个文件的内容全部输出-CSDN论坛 - Google Chrome
+16:24:07:  11 - Microsoft Visual C++ - [11.cpp]
+16:24:12:  11 - Microsoft Visual C++ - [11.cpp *]
+16:24:17:  C:\Users\zhangkaifa\Downloads\Common\MSDev98\Bin\vcspawn.exe
+16:24:22:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+16:24:27:  11 - Microsoft Visual C++ - [11.cpp]
+16:24:42:  (3条消息) C语言如何将一个文件的内容全部输出-CSDN论坛 - Google Chrome
+16:24:47:  c语言读取文件内容并输出_百度搜索 - Google Chrome
+16:24:52:  11 - Microsoft Visual C++ - [11.cpp]
+16:26:07:  锁屏状态
+16:26:12:  c语言读取文件内容并输出_百度搜索 - Google Chrome
+16:26:17:  C语言fgetc和fputc函数用法详解（以字符形式读写文件） - Google Chrome
+16:28:17:  锁屏状态
+16:28:22:  C语言fgetc和fputc函数用法详解（以字符形式读写文件） - Google Chrome
+16:29:07:  c语言fgetc函数用法_百度搜索 - Google Chrome
+16:29:27:  c语言读取字符串_百度搜索 - Google Chrome
+16:29:32:  (3条消息) C语言字符串的读取_weixin_33755649的博客-CSDN博客 - Google Chrome
+16:29:37:  c语言读取字符串_百度搜索 - Google Chrome
+16:29:47:  C语言如何实现取字符串的一部分-百度经验 - Google Chrome
+16:29:57:  c语言读取字符串_百度搜索 - Google Chrome
+16:30:02:  C语言请问如何 读取一个文件中的字符？ - SegmentFault 思否 - Google Chrome
+16:28:17:  锁屏状态
+16:28:22:  C语言fgetc和fputc函数用法详解（以字符形式读写文件） - Google Chrome
+16:29:07:  c语言fgetc函数用法_百度搜索 - Google Chrome
+16:29:27:  c语言读取字符串_百度搜索 - Google Chrome
+16:29:32:  (3条消息) C语言字符串的读取_weixin_33755649的博客-CSDN博客 - Google Chrome
+16:29:37:  c语言读取字符串_百度搜索 - Google Chrome
+16:29:47:  C语言如何实现取字符串的一部分-百度经验 - Google Chrome
+16:29:57:  c语言读取字符串_百度搜索 - Google Chrome
+16:30:02:  C语言请问如何 读取一个文件中的字符？ - SegmentFault 思否 - Google Chrome
+16:31:07:  c语言 读取字符串_百度搜索 - Google Chrome
+16:31:12:  https://www.baidu.com/link?url=meDanSaolt_mzMtIzLfUUKNozKpTsS1ZtpOyHfutLBwFkbK_6M9zhBMWGWRj1RUHHqqL0jgWtCCMpcD2_Uqv4Yc9UFN2cTs1E9B8I10diYG&wd=&eqid=f8dde22100028983000000025f96894b - Google Chrome
+16:31:17:  怎么用C语言读取 TXT文件中的字符串_百度知道 - Google Chrome
+16:31:42:  11 - Microsoft Visual C++ - [11.cpp]
+16:31:47:  11 - Microsoft Visual C++ - [11.cpp *]
+16:31:57:  11 - Microsoft Visual C++ - [11.cpp]
+16:32:02:  11 - Microsoft Visual C++ - [11.cpp *]
+16:33:12:  11 - Microsoft Visual C++ - [11.cpp]
+16:33:22:  11 - Microsoft Visual C++ - [11.cpp *]
+16:33:27:  11 - Microsoft Visual C++ - [11.cpp]
+16:33:42:  c语言 读取字符串_百度搜索 - Google Chrome
+16:33:52:  c语言 根据文件大小读取字符串_百度搜索 - Google Chrome
+16:34:07:  C语言如何读取TXT全部字符？_百度知道 - Google Chrome
+16:34:12:  c语言 读取全部TXT_百度搜索 - Google Chrome
+16:34:17:  C语言中怎么读取TXT里面所有的数据啊？_百度知道 - Google Chrome
+16:34:27:  c语言怎么读取一个txt文本文档_百度知道 - Google Chrome
+16:34:37:  c语言 读取全部TXT_百度搜索 - Google Chrome
+16:34:52:  11 - Microsoft Visual C++ - [11.cpp]
+16:34:57:  11 - Microsoft Visual C++ - [11.cpp *]
+16:35:12:  11 - Microsoft Visual C++ - [11.cpp]
+16:35:17:  11 - Microsoft Visual C++ - [11.cpp *]
+16:35:22:  11 - Microsoft Visual C++ - [11.cpp]
+16:35:37:  11 - Microsoft Visual C++ - [11.cpp *]
+16:36:02:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+16:36:08:  (3条消息) C语言如何将一个文件的内容全部输出-CSDN论坛 - Google Chrome
+16:36:13:  11 - Microsoft Visual C++ - [11.cpp]
+16:36:18:  11 - Microsoft Visual C++ - [11.cpp *]
+16:36:28:  11 - Microsoft Visual C++ - [11.cpp]
+16:36:33:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+16:36:38:  11 - Microsoft Visual C++ - [11.cpp]
+16:36:43:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+16:36:48:  11 - Microsoft Visual C++ - [11.cpp]
+16:36:58:  11 - Microsoft Visual C++ - [11.cpp *]
+16:37:03:  锁屏状态
+16:37:08:  网易有道词典
+16:37:13:  11 - Microsoft Visual C++ - [11.cpp *]
+16:37:18:  11 - Microsoft Visual C++ - [11.cpp]
+16:37:28:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+16:37:33:  11 - Microsoft Visual C++ - [11.cpp]
+16:37:48:  11 - Microsoft Visual C++ - [11.cpp *]
+16:37:53:  11 - Microsoft Visual C++ - [11.cpp]
+16:38:08:  11 - Microsoft Visual C++ - [11.cpp *]
+16:38:13:  11 - Microsoft Visual C++ - [11.cpp]
+16:38:18:  11 - Microsoft Visual C++ - [11.cpp *]
+16:38:28:  11 - Microsoft Visual C++ - [11.cpp]
+16:38:43:  11 - Microsoft Visual C++ - [11.cpp *]
+16:38:48:  11 - Microsoft Visual C++ - [11.cpp]
+16:38:53:  (3条消息) C语言如何将一个文件的内容全部输出-CSDN论坛 - Google Chrome
+16:38:58:  c语言 读取全部TXT_百度搜索 - Google Chrome
+16:39:03:  c语言 打印数字_百度搜索 - Google Chrome
+16:39:08:  11 - Microsoft Visual C++ - [11.cpp *]
+16:39:13:  11 - Microsoft Visual C++ - [11.cpp]
+16:39:18:  11 - Microsoft Visual C++ - [11.cpp *]
+16:39:23:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+16:39:33:  c语言 打印数字_百度搜索 - Google Chrome
+16:39:38:  c语言输出数字的格式_百度知道 - Google Chrome
+16:40:03:  https://www.baidu.com/link?url=HLw9Pehd-zB5jjr1eAREVWUB2iHq3kOEfMtsLEA8A8hH0i56Y0SdMPVYx7fUbRZG7k_h0GrvHezy0MaBe-1TrFgn-wTlm9NHtXfH9MYxOw_&wd=&eqid=9eca87650001b900000000025f968b22 - Google Chrome
+16:40:08:  如何在c语言里面打印纯数字-百度经验 - Google Chrome
+16:40:33:  11 - Microsoft Visual C++ - [11.cpp *]
+16:40:43:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+16:40:48:  11 - Microsoft Visual C++ - [11.cpp]
+16:40:53:  11 - Microsoft Visual C++ - [11.cpp *]
+16:40:58:  11 - Microsoft Visual C++ - [11.cpp]
+16:41:03:  11 - Microsoft Visual C++ - [11.cpp *]
+16:41:08:  11 - Microsoft Visual C++ - [11.cpp]
+16:41:28:  11 - Microsoft Visual C++ - [11.cpp *]
+16:41:33:  11 - Microsoft Visual C++ - [11.cpp]
+16:41:38:  11 - Microsoft Visual C++ - [11.cpp *]
+16:41:43:  c语言 打印数字_百度搜索 - Google Chrome
+16:41:48:  c语言变量及输入输出 - xxxuanei - 博客园 - Google Chrome
+16:42:03:  Microsoft Visual C++
+16:42:08:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+16:42:13:  11 - Microsoft Visual C++ - [11.cpp]
+16:42:18:  Microsoft Visual C++
+16:42:23:  11 - Microsoft Visual C++ - [11.cpp]
+16:42:33:  欢迎回到我的快乐农场 - Google Chrome
+16:42:38:  c语言 打印变量_百度搜索 - Google Chrome
+16:42:43:  c语言 定义变量数组_百度搜索 - Google Chrome
+16:42:48:  c语言中可不可以用变量定义数组的个数；_百度知道 - Google Chrome
+16:43:08:  11 - Microsoft Visual C++ - [11.cpp *]
+16:43:28:  11 - Microsoft Visual C++ - [11.cpp]
+16:43:53:  c语言中可不可以用变量定义数组的个数；_百度知道 - Google Chrome
+16:44:03:  11 - Microsoft Visual C++ - [11.cpp]
+16:44:48:  c语言 定义变量数组_百度搜索 - Google Chrome
+16:44:53:  【c语言】malloc函数详解_如风逝去-CSDN博客 - Google Chrome
+16:44:58:  (3条消息) 【c语言】malloc函数详解_如风逝去-CSDN博客 - Google Chrome
+16:44:48:  c语言 定义变量数组_百度搜索 - Google Chrome
+16:44:53:  【c语言】malloc函数详解_如风逝去-CSDN博客 - Google Chrome
+16:44:58:  (3条消息) 【c语言】malloc函数详解_如风逝去-CSDN博客 - Google Chrome
+16:46:08:  11 - Microsoft Visual C++ - [11.cpp]
+16:46:13:  11 - Microsoft Visual C++ - [11.cpp *]
+16:46:23:  11 - Microsoft Visual C++ - [11.cpp]
+16:46:33:  系统登录 - Internet Explorer
+16:46:38:  新建文本文档.exe - 快捷方式
+16:46:43:  11 - Microsoft Visual C++ - [11.cpp]
+16:46:48:  11 - Microsoft Visual C++ - [11.cpp *]
+16:46:53:  11 - Microsoft Visual C++ - [11.cpp]
+16:46:58:  11 - Microsoft Visual C++ - [11.cpp *]
+16:47:08:  11 - Microsoft Visual C++ - [11.cpp]
+16:47:13:  Microsoft Visual C++
+16:47:18:  11 - Microsoft Visual C++ - [11.cpp]
+16:47:33:  11 - Microsoft Visual C++ - [11.cpp *]
+16:47:38:  11 - Microsoft Visual C++ - [11.cpp]
+16:48:03:  系统登录 - Internet Explorer
+16:48:08:  新北洋OA信息化平台 - Internet Explorer
+16:48:18:  11 - Microsoft Visual C++ - [11.cpp]
+16:48:33:  11 - Microsoft Visual C++ - [11.cpp *]
+16:48:53:  Microsoft Visual C++
+16:48:58:  11 - Microsoft Visual C++ - [11.cpp]
+16:49:03:  11 - Microsoft Visual C++ - [Script1 - IDR_ACCELERATOR1 (Accelerator)]
+16:49:08:  11 - Microsoft Visual C++ - [Script2 - IDR_ACCELERATOR1 (Accelerator)]
+16:49:13:  11 - Microsoft Visual C++ - [11.cpp *]
+16:49:18:  11 - Microsoft Visual C++ - [11.cpp]
+16:49:23:  11 - Microsoft Visual C++ - [11.cpp *]
+16:49:28:  11 - Microsoft Visual C++ - [11.cpp]
+16:57:58:  11 - Microsoft Visual C++ - [11.cpp *]
+16:58:03:  11 - Microsoft Visual C++ - [11.cpp]
+16:58:28:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+16:58:33:  11 - Microsoft Visual C++ - [11.cpp]
+16:58:38:  11 - Microsoft Visual C++ - [11.cpp *]
+16:58:43:  11 - Microsoft Visual C++ - [11.cpp]
+16:58:48:  11 - Microsoft Visual C++ - [11.cpp *]
+16:58:53:  11 - Microsoft Visual C++ - [11.cpp]
+16:59:18:  11 - Microsoft Visual C++ - [11.cpp *]
+16:59:23:  11 - Microsoft Visual C++ - [11.cpp]
+16:59:28:  11 - Microsoft Visual C++ - [11.cpp *]
+16:59:33:  11 - Microsoft Visual C++ - [11.cpp]
+16:59:38:  网易有道词典
+16:59:43:  11 - Microsoft Visual C++ - [11.cpp]
+17:00:03:  怎么用C语言读取 TXT文件中的字符串_百度知道 - Google Chrome
+16:58:28:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+16:58:33:  11 - Microsoft Visual C++ - [11.cpp]
+16:58:38:  11 - Microsoft Visual C++ - [11.cpp *]
+16:58:43:  11 - Microsoft Visual C++ - [11.cpp]
+16:58:48:  11 - Microsoft Visual C++ - [11.cpp *]
+16:58:53:  11 - Microsoft Visual C++ - [11.cpp]
+16:59:18:  11 - Microsoft Visual C++ - [11.cpp *]
+16:59:23:  11 - Microsoft Visual C++ - [11.cpp]
+16:59:28:  11 - Microsoft Visual C++ - [11.cpp *]
+16:59:33:  11 - Microsoft Visual C++ - [11.cpp]
+16:59:38:  网易有道词典
+16:59:43:  11 - Microsoft Visual C++ - [11.cpp]
+17:00:03:  怎么用C语言读取 TXT文件中的字符串_百度知道 - Google Chrome
+17:00:28:  11 - Microsoft Visual C++ - [11.cpp *]
+17:00:53:  11 - Microsoft Visual C++ - [11.cpp]
+17:01:08:  11 - Microsoft Visual C++ - [11.cpp *]
+17:01:13:  11 - Microsoft Visual C++ - [11.cpp]
+17:01:18:  怎么用C语言读取 TXT文件中的字符串_百度知道 - Google Chrome
+17:05:03:  11 - Microsoft Visual C++ - [11.cpp]
+17:05:08:  11 - Microsoft Visual C++ - [11.cpp *]
+17:05:18:  锁屏状态
+17:33:53:  TCR调测工具（研发版）V1.0.0.4
+17:33:58:  11 - Microsoft Visual C++ - [11.cpp *]
+17:34:18:  11 - Microsoft Visual C++ - [11.cpp]
+17:34:33:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+17:34:38:  11 - Microsoft Visual C++ - [11.cpp]
+17:34:53:  11 - Microsoft Visual C++ - [11.cpp *]
+17:34:58:  11 - Microsoft Visual C++ - [11.cpp]
+17:35:23:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+17:35:28:  11 - Microsoft Visual C++ - [11.cpp]
+17:35:33:  11 - Microsoft Visual C++ - [11.cpp *]
+17:35:53:  11.exe
+17:35:58:  11 - Microsoft Visual C++ - [11.cpp]
+17:36:03:  TCR调测工具（研发版）V1.0.0.4
+17:36:43:  11 - Microsoft Visual C++ - [11.cpp]
+17:37:03:  11 - Microsoft Visual C++ - [11.cpp *]
+17:37:08:  11 - Microsoft Visual C++ - [11.cpp]
+17:37:18:  11.exe
+17:37:23:  11 - Microsoft Visual C++ - [11.cpp *]
+17:37:28:  11 - Microsoft Visual C++ - [11.cpp]
+17:37:38:  11 - Microsoft Visual C++ - [11.cpp *]
+17:37:48:  11.exe
+17:37:53:  11 - Microsoft Visual C++ - [11.cpp]
+17:37:58:  11 - Microsoft Visual C++ - [11.cpp *]
+17:38:03:  11 - Microsoft Visual C++ - [11.cpp]
+17:38:13:  11 - Microsoft Visual C++ - [11.cpp *]
+17:38:48:  TCR调测工具（研发版）V1.0.0.4
+17:38:53:  11 - Microsoft Visual C++ - [11.cpp *]
+17:39:08:  11 - Microsoft Visual C++ - [11.cpp]
+17:39:18:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+17:39:28:  11 - Microsoft Visual C++ - [11.cpp]
+17:39:33:  11 - Microsoft Visual C++ - [11.cpp *]
+17:39:48:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+17:39:53:  11 - Microsoft Visual C++ - [11.cpp *]
+17:39:58:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+17:40:43:  11 - Microsoft Visual C++ - [11.cpp *]
+17:40:48:  11 - Microsoft Visual C++ - [11.cpp]
+17:40:58:  11 - Microsoft Visual C++ - [11.cpp *]
+17:41:13:  11 - Microsoft Visual C++ - [11.cpp]
+17:41:23:  11 - Microsoft Visual C++ - [11.cpp *]
+17:41:28:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+17:41:33:  怎么用C语言读取 TXT文件中的字符串_百度知道 - Google Chrome
+17:41:48:  11 - Microsoft Visual C++ - [11.cpp]
+17:41:53:  11 - Microsoft Visual C++ - [11.cpp *]
+17:42:38:  11.exe
+17:42:43:  11 - Microsoft Visual C++ - [11.cpp]
+17:43:03:  TCR调测工具（研发版）V1.0.0.4
+17:43:08:  欢迎回到我的快乐农场 - Google Chrome
+17:43:13:  怎么用C语言读取 TXT文件中的字符串_百度知道 - Google Chrome
+17:43:23:  11 - Microsoft Visual C++ - [11.cpp]
+17:44:33:  TCR调测工具（研发版）V1.0.0.4
+17:44:43:  11 - Microsoft Visual C++ - [11.cpp]
+17:44:33:  TCR调测工具（研发版）V1.0.0.4
+17:44:43:  11 - Microsoft Visual C++ - [11.cpp]
+17:46:38:  11 - Microsoft Visual C++ - [11.cpp *]
+17:46:43:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+17:46:48:  11 - Microsoft Visual C++ - [11.cpp]
+17:47:13:  11 - Microsoft Visual C++ - [11.cpp *]
+17:47:23:  11 - Microsoft Visual C++ - [11.cpp]
+17:47:28:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+17:47:33:  11 - Microsoft Visual C++ - [11.cpp]
+17:47:38:  11 - Microsoft Visual C++ - [11.cpp *]
+17:47:43:  11 - Microsoft Visual C++ - [11.cpp]
+17:47:58:  11 - Microsoft Visual C++ - [11.cpp *]
+17:48:08:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+17:48:13:  11 - Microsoft Visual C++ - [11.cpp]
+17:48:18:  TCR调测工具（研发版）V1.0.0.4
+17:50:33:  11 - Microsoft Visual C++ - [11.cpp]
+17:54:03:  11 - Microsoft Visual C++ - [11.cpp *]
+17:55:23:  TCR调测工具（研发版）V1.0.0.4
+17:55:53:  11 - Microsoft Visual C++ - [11.cpp *]
+17:58:13:  11 - Microsoft Visual C++ - [11.cpp]
+17:59:13:  11 - Microsoft Visual C++ - [11.cpp *]
+17:59:23:  11 - Microsoft Visual C++ - [11.cpp]
+17:59:43:  11 - Microsoft Visual C++ - [11.cpp *]
+17:59:48:  Microsoft Visual C++
+17:59:53:  11 - Microsoft Visual C++ - [11.cpp]
+17:59:58:  11 - Microsoft Visual C++ - [11.cpp *]
+17:58:13:  11 - Microsoft Visual C++ - [11.cpp]
+17:59:13:  11 - Microsoft Visual C++ - [11.cpp *]
+17:59:23:  11 - Microsoft Visual C++ - [11.cpp]
+17:59:43:  11 - Microsoft Visual C++ - [11.cpp *]
+17:59:48:  Microsoft Visual C++
+17:59:53:  11 - Microsoft Visual C++ - [11.cpp]
+17:59:58:  11 - Microsoft Visual C++ - [11.cpp *]
+18:00:13:  11 - Microsoft Visual C++ - [11.cpp]
+18:00:23:  c语言 malloc_百度搜索 - Google Chrome
+18:00:28:  'int' differs in levels of indirection from 'char [2]'_百度搜索 - Google Chrome
+18:00:33:  11 - Microsoft Visual C++ - [11.cpp *]
+18:00:38:  "D:\00-记录\VC6_DownZa.Cn\MyProjects\11\Debug\11.exe"
+18:02:03:  11 - Microsoft Visual C++ - [11.cpp]
+18:02:53:  11 - Microsoft Visual C++ - [11.cpp *]
+18:04:53:  桌面整理
+18:04:58:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\ClassLog333.py (3.7.3)
+18:05:03:  11 - Microsoft Visual C++ - [11.cpp *]
+18:05:08:  开始
+18:05:13:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\ClassLog333.py (3.7.3)
+18:05:18:  11 - Microsoft Visual C++ - [11.cpp *]
+18:08:38:  11 - Microsoft Visual C++ - [11.cpp]
+18:08:43:  11 - Microsoft Visual C++ - [11.cpp *]
+18:11:18:  11 - Microsoft Visual C++ - [11.cpp]
+18:11:28:  11 - Microsoft Visual C++ - [11.cpp *]
+18:11:38:  11 - Microsoft Visual C++ - [11.cpp]
+18:11:43:  11 - Microsoft Visual C++ - [11.cpp *]
+18:13:58:  11 - Microsoft Visual C++ - [11.cpp]
+18:14:03:  11 - Microsoft Visual C++ - [11.cpp *]
+18:15:53:  11 - Microsoft Visual C++ - [11.cpp]
+18:16:13:  11 - Microsoft Visual C++ - [11.cpp *]
+18:16:18:  网易有道词典
+18:16:28:  11 - Microsoft Visual C++ - [11.cpp *]
+18:17:13:  锁屏状态

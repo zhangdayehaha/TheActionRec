@@ -1,0 +1,515 @@
+08:04:31:  CommonManageTool
+08:04:46:  查看知识共享
+08:04:56:  eSpace Login
+08:05:01:  查看知识共享
+08:06:36:  CommonManageTool
+08:06:41:  eSpace
+08:06:46:  便签条
+08:06:51:  系统
+08:06:56:  「开始」菜单
+08:07:06:  便签条
+08:07:16:  计算机管理
+08:07:31:  创建任务
+08:08:16:  编辑触发器
+08:09:11:  创建任务
+08:09:16:  打开
+08:09:36:  文档
+08:09:46:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:09:51:  本地磁盘 (F:)
+08:09:56:  PostWork
+08:10:06:  本地磁盘 (F:)
+08:10:21:  小程序
+08:10:36:  本地磁盘 (F:)
+08:10:46:  PostWork
+08:10:56:  PostWork.py - F:\PostWork\PostWork.py (3.7.3)
+08:11:06:  
+08:11:11:  PostWork.py - F:\PostWork\PostWork.py (3.7.3)
+08:11:21:  于斌1
+08:11:36:  PostWork
+08:11:46:  本地磁盘 (F:)
+08:12:11:  删除文件夹
+08:12:16:  本地磁盘 (F:)
+08:12:21:  运行
+08:12:26:  01-软件
+08:12:41:  本地磁盘 (F:)
+08:12:51:  PostWork - Everything
+08:13:06:  PostWork
+08:13:11:  PostWork - Everything
+08:13:16:  PostWork
+08:13:21:  dist
+08:13:26:  PostWork
+08:13:36:  dist
+08:13:46:  PostWork
+08:14:01:  dist
+08:14:06:  config.ini - 记事本
+08:14:11:  本地磁盘 (C:)
+08:14:16:  Windows
+08:14:26:  复制文件
+08:14:31:  
+08:14:36:  打开
+08:15:01:  新建操作
+08:15:06:  创建任务
+08:15:11:  计算机管理
+08:15:21:  taskeng.exe
+08:15:41:  
+08:19:57:  System32
+08:24:12:  D:\00-06\DRB-Seclect-New\Middlewares\StepMotor\StepMotorConfig.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+08:28:42:  
+08:28:47:  D:\00-06\DRB-Seclect-New\Middlewares\StepMotor\StepMotorConfig.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+08:28:52:  新标签页 - Google Chrome
+08:28:57:  
+08:29:07:  网络连接
+08:29:22:  自动播放
+08:29:27:  
+08:30:02:  (61 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+08:28:42:  
+08:28:47:  D:\00-06\DRB-Seclect-New\Middlewares\StepMotor\StepMotorConfig.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+08:28:52:  新标签页 - Google Chrome
+08:28:57:  
+08:29:07:  网络连接
+08:29:22:  自动播放
+08:29:27:  
+08:30:02:  (61 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+08:30:27:  D:\00-06\DRB-Seclect-New\Middlewares\StepMotor\StepMotorConfig.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+08:32:48:  回复: 初级助理工程师双月答辩时间安排
+08:33:54:  
+08:33:59:  EXTFEDU6V11.PDF - Adobe Reader
+08:34:19:  回复: 初级助理工程师双月答辩时间安排
+08:34:59:  跳转列表
+08:35:04:  log
+08:35:09:  20200510
+08:35:19:  
+08:35:24:  K64_0000_20200510153031.log - [No filter file] - TextAnalysisTool.NET
+08:35:34:  确认另存为
+08:35:39:  K64_0000_20200510153031.log - [No filter file] - TextAnalysisTool.NET
+08:35:44:  打开
+08:35:49:  K64_0000_20200510153031.log - selector.tat - TextAnalysisTool.NET
+08:36:09:  20200510
+08:36:14:  K64_0000_20200510153031.log - selector.tat - TextAnalysisTool.NET
+08:36:19:  K64_0000_20200510152624.log - selector.tat - TextAnalysisTool.NET
+08:36:24:  计算器
+08:39:40:  Decode
+08:39:45:  TCR调测工具 V3.36
+08:41:35:  钞箱配置
+08:41:45:  TCR调测工具 V3.36
+08:41:55:  
+08:42:00:  TCR调测工具 V3.36
+08:42:05:  发送指令到K06
+08:42:15:  TCR调测工具 V3.36
+08:44:40:  (61 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+08:44:55:  (61 封私信 / 80 条消息) 2020届毕业生找工作找的怎么样了? - 知乎 - Google Chrome
+08:49:40:  TCR调测工具 V3.36
+08:50:00:  Decode
+08:50:05:  新标签页 - Google Chrome
+08:50:10:  百度一下，你就知道 - Google Chrome
+08:50:15:  (61 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+08:52:05:  
+08:52:10:  Decode
+08:52:40:  EXTFEDU6V12
+08:52:45:  EXTFEDU6V12.PDF - Adobe Reader
+08:52:50:  EXTFEDU6V12
+08:52:55:  EXTFEDU6V12.PDF - Adobe Reader
+08:53:05:  EXTFEDU6V12
+08:53:10:  桌面整理
+08:53:15:  
+08:53:20:  桌面整理
+08:53:25:  (61 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:06:31:  
+09:06:36:  远程邮箱管理
+09:06:41:  执行远程管理命令
+09:06:46:  TCR调测工具 V3.36
+09:06:51:  发送指令到K06
+09:06:56:  TCR调测工具 V3.36
+09:07:31:  新标签页 - Google Chrome
+09:07:41:  PostWork - Everything
+09:07:46:  Everything
+09:07:51:  员工能力提升双月测评计划表--固件一室--张开发.xlsx  [只读] - Excel
+09:09:21:  新标签页 - Google Chrome
+09:09:26:  (61 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:13:16:  
+09:13:31:  (61 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:13:36:  员工能力提升双月测评计划表--固件一室--张开发.xlsx  [只读] - Excel
+09:13:41:  (61 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:14:11:  员工能力提升双月测评计划表--固件一室--张开发.xlsx  [只读] - Excel
+09:14:26:  (61 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:16:21:  员工能力提升双月测评计划表--固件一室--张开发.xlsx  [只读] - Excel
+09:17:21:  (61 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:17:36:  员工能力提升双月测评计划表--固件一室--张开发.xlsx  [只读] - Excel
+09:17:51:  (61 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:18:51:  员工能力提升双月测评计划表--固件一室--张开发.xlsx  [只读] - Excel
+09:18:56:  (61 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:20:56:  taskeng.exe
+09:21:01:  (61 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:23:06:  员工能力提升双月测评计划表--固件一室--张开发.xlsx  [只读] - Excel
+09:24:26:  (61 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:25:01:  回复: 回复: DRB钞箱测试问题
+09:25:16:  删除多个项目
+09:25:21:  1元测试日志
+09:25:26:  (61 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:27:41:  (61 封私信 / 80 条消息) 有什么生活小玩意原来没用过，用过之后就停不了的？ - 知乎 - Google Chrome
+09:28:41:  D:\00-06\DRB-Seclect-New\Middlewares\StepMotor\StepMotorConfig.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+09:29:06:  计算器
+09:29:26:  「开始」菜单
+09:29:46:  双月 - Everything
+09:29:51:  mind - Everything
+09:29:56:  MindMaster
+09:28:41:  D:\00-06\DRB-Seclect-New\Middlewares\StepMotor\StepMotorConfig.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+09:29:06:  计算器
+09:29:26:  「开始」菜单
+09:29:46:  双月 - Everything
+09:29:51:  mind - Everything
+09:29:56:  MindMaster
+09:33:06:  回复: 回复: DRB钞箱测试问题
+09:33:16:  MindMaster
+09:33:56:  
+09:37:11:  MindMaster
+09:40:36:  
+09:41:26:  计算机
+09:41:41:  (61 封私信 / 80 条消息) 有什么生活小玩意原来没用过，用过之后就停不了的？ - 知乎 - Google Chrome
+09:41:46:  
+09:41:51:  计算机
+09:41:56:  整改后DRB测试
+09:42:11:  固件设计中心
+09:42:21:  
+09:42:36:  eSpace
+09:42:41:  DRB测试
+09:42:46:  DRB测试缺陷.xlsx  [受保护的视图] - Excel
+09:42:56:  DRB测试
+09:43:01:  DRB-200120600008
+09:43:06:  DRB测试
+09:44:51:  桌面整理
+09:45:11:  42 CRS现金循环模块
+09:45:16:  06 固件日报
+09:45:21:  指令接口部分
+09:45:26:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:45:46:  20180613 TCR内部指令手册_V001.xlsx  [只读] - Excel
+09:47:31:  Microsoft Excel
+09:47:36:  20180613 TCR内部指令手册_V001.xlsx  [只读] - Excel
+09:47:41:  未命名 - 写邮件
+09:48:21:  QQMAIL_CAMERA_DESKVIEW
+09:48:26:  未命名 - 写邮件
+09:48:36:  QQMAIL_CAMERA_DESKVIEW
+09:48:51:  未命名 - 写邮件   09:48:46 已保存
+09:49:06:  D:\00-06\DRB-Seclect-New\Applications\ErrCode\ErrCode.h (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+09:49:21:  D:\00-06\DRB-Seclect-New\Middlewares\Plate\PressurePlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+09:49:26:  D:\00-06\DRB-Seclect-New\Applications\ErrCode\ErrCode.h (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+09:49:31:  未命名 - 写邮件   09:48:46 已保存
+09:49:46:  未命名 - 写邮件   09:49:46 已保存
+09:49:51:  计算器
+09:49:56:  未命名 - 写邮件   09:49:46 已保存
+09:50:46:  未命名 - 写邮件   09:50:46 已保存
+09:50:51:  D:\00-06\DRB-Seclect-New\Middlewares\Plate\PressurePlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+09:51:01:  D:\00-06\DRB-Seclect-New\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+09:51:11:  D:\00-06\DRB-Seclect-New\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+09:51:21:  未命名 - 写邮件   09:50:46 已保存
+09:51:46:  未命名 - 写邮件   09:51:46 已保存
+09:52:51:  未命名 - 写邮件   09:52:46 已保存
+09:52:56:  未命名 - 写邮件   09:52:55 已保存
+09:53:01:  压钞托板指令 - 写邮件   09:52:55 已保存
+09:53:06:  计算器
+09:55:01:  Microsoft Excel
+09:55:06:  20180613 TCR内部指令手册_V001.xlsx  [只读] - Excel
+09:55:36:  Excel 选项
+09:55:41:  20180613 TCR内部指令手册_V001.xlsx  [只读] - Excel
+09:56:01:  Microsoft Excel
+09:56:06:  20180613 TCR内部指令手册_V001.xlsx  [只读] - Excel
+09:56:11:  20180613 TCR内部指令手册_V001.xlsx  [只读] - Excel (未响应)
+09:56:16:  DRB测试
+09:56:21:  荆文波
+09:56:41:  
+09:57:41:  MindMaster
+09:59:01:  删除形状
+09:59:06:  MindMaster
+09:59:11:  MindMaster 专业版功能
+09:59:16:  MindMaster
+09:59:31:  计算器
+09:59:46:  MindMaster
+09:59:01:  删除形状
+09:59:06:  MindMaster
+09:59:11:  MindMaster 专业版功能
+09:59:16:  MindMaster
+09:59:31:  计算器
+09:59:46:  MindMaster
+10:00:06:  固件设计中心
+10:00:11:  
+10:02:56:  mind - Everything
+10:03:01:  员工能力提升双月测评计划表--固件一室--张开发.xlsx  [只读] - Excel
+10:04:26:  
+10:04:31:  新标签页 - Google Chrome
+10:04:36:  员工能力提升双月测评计划表--固件一室--张开发.xlsx  [只读] - Excel
+10:06:21:  网络错误
+10:07:11:  指令接口部分
+10:07:31:  打开文件夹
+10:07:36:  员工能力提升双月测评计划表--固件一室--张开发.xlsx  [只读] - Excel
+10:08:51:  Microsoft Excel
+10:08:56:  
+10:09:01:  跳转列表
+10:09:06:  百度一下，你就知道 - Google Chrome
+10:09:16:  步进电机双四拍_百度搜索 - Google Chrome
+10:09:21:  51单片机驱动步进电机（双四拍和八拍） - Youth.Shouting - 博客园 - Google Chrome
+10:10:11:  D:\00-06\DRB-Seclect-New\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+10:10:16:  D:\00-06\DRB-Seclect-New\Middlewares\StepMotor\StepMotorConfig.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+10:10:21:  D:\00-06\DRB-Seclect-New\Middlewares\StepMotor\StepMotor.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+10:10:36:  计算器
+10:10:51:  新建文本文档.exe - 快捷方式
+10:10:56:  
+10:11:01:  eSpace
+10:11:06:  回复: 回复: DRB钞箱测试问题
+10:11:11:  
+10:11:36:  Decode
+10:11:41:  eSpace
+10:11:46:  06 固件日报
+10:11:51:  钞箱1T2集成测试方案
+10:11:56:  Microsoft Excel
+10:12:01:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx  [受保护的视图] - Excel
+10:12:31:  固件集成测试方案
+10:12:51:  钞箱集成测试方案-报告
+10:12:56:  6.4.1 钞箱中断及线程资源测试V1.1.xlsx  [受保护的视图] - Excel
+10:13:26:  钞箱集成测试方案-报告
+10:13:31:  MindMaster
+10:13:36:  计算器
+10:13:41:  MindMaster
+10:13:56:  
+10:14:01:  MindMaster
+10:15:11:  
+10:15:16:  eSpace
+10:15:21:  于斌1
+10:15:41:  
+10:16:01:  正在打开 - Excel
+10:16:06:  固件中心合理化建议模板V1.0.xlsx  [只读] - Excel
+10:18:31:  于斌1
+10:18:36:  
+10:18:41:  于斌1
+10:19:21:  MindMaster
+10:19:31:  计算器
+10:19:41:  MindMaster
+10:21:36:  计算器
+10:22:06:  MindMaster
+10:26:31:  计算器
+10:26:56:  MindMaster
+10:27:01:  计算器
+10:27:16:  MindMaster
+10:30:36:  于斌1
+10:30:41:  
+10:30:46:  于斌1
+10:30:51:  计算器
+10:30:56:  MindMaster
+10:31:31:  于斌1
+10:31:41:  MindMaster
+10:32:26:  于斌1
+10:32:41:  固件中心合理化建议模板V1.0.xlsx  [只读] - Excel
+10:35:11:  另存为
+10:35:16:  MindMaster
+10:35:21:  
+10:35:26:  新北洋办公室电邮【2020】021号-关于“提升发展质量”的合理化活动倡议书.pdf - Adobe Reader
+10:35:51:  刘雅
+10:35:56:  于斌1
+10:36:06:  MindMaster
+10:36:16:  
+10:36:21:  副本固件中心合理化建议模板V1.0.xlsx - Excel
+10:36:26:  于斌1
+10:36:31:  
+10:36:41:  固件中心合理化建议模板V1.0-张开发 - 写邮件
+10:36:56:  发送邮件
+10:37:01:  于斌1
+10:37:06:  
+10:37:11:  于斌1
+10:38:26:  MindMaster
+10:42:51:  D:\00-06\DRB-Seclect-New\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+10:42:56:  MindMaster
+10:45:16:  
+10:45:21:  桌面整理
+10:45:26:  固件中心合理化建议模板V1.0-张开发.xlsx - Excel
+10:45:31:  
+10:45:36:  回复: 回复: 固件中心合理化建议模板V1.0-张开发 - 写邮件
+10:45:41:  回复: 回复: 固件中心合理化建议模板V1.0-张开发 - 写邮件   10:45:40 已保存
+10:45:46:  开始
+10:45:51:  MindMaster
+10:46:26:  添加多个主题
+10:46:31:  MindMaster
+10:47:11:  计算器
+10:47:26:  MindMaster
+10:49:56:  MindMaster 专业版功能
+10:50:01:  MindMaster
+10:52:51:  D:\00-06\DRB-Seclect-New\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+10:53:21:  MindMaster
+10:53:26:  D:\00-06\DRB-Seclect-New\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+10:54:26:  计算器
+10:58:21:  固件中心合理化建议模板V1.0-张开发.xlsx - Excel
+10:58:36:  荆文波
+10:58:46:  eSpace
+10:58:51:  刘雅
+10:59:01:  
+10:59:11:  刘雅
+10:59:16:  
+10:59:26:  刘雅
+10:59:36:  荆文波
+10:58:21:  固件中心合理化建议模板V1.0-张开发.xlsx - Excel
+10:58:36:  荆文波
+10:58:46:  eSpace
+10:58:51:  刘雅
+10:59:01:  
+10:59:11:  刘雅
+10:59:16:  
+10:59:26:  刘雅
+10:59:36:  荆文波
+11:00:36:  
+11:00:41:  固件中心合理化建议模板V1.0-张开发.xlsx - Excel
+11:00:46:  
+11:01:01:  固件中心合理化建议模板V1.0.xlsx
+11:01:06:  荆文波
+11:01:26:  Microsoft Excel
+11:01:31:  桌面整理
+11:01:36:  固件中心合理化建议模板V1.0-张开发.xlsx - Excel
+11:01:46:  固件中心合理化建议模板V1.0.xlsx  [只读] - Excel
+11:02:06:  
+11:02:11:  固件中心合理化建议模板V1.0.xlsx  [只读] - Excel
+11:02:16:  固件中心合理化建议模板V1.0-张开发.xlsx - Excel
+11:02:31:  固件中心合理化建议模板V1.0.xlsx  [只读] - Excel
+11:02:36:  
+11:02:41:  固件中心合理化建议模板V1.0.xlsx  [只读] - Excel
+11:02:46:  Microsoft Excel
+11:02:51:  另存为
+11:02:56:  Microsoft Excel
+11:03:01:  另存为
+11:03:06:  固件中心合理化建议模板V1.0.xlsx  [只读] - Excel
+11:03:11:  确认另存为
+11:03:16:  固件中心合理化建议模板V1.0-张开发.xlsx - Excel
+11:03:26:  
+11:03:41:  发送邮件
+11:03:46:  刘雅
+11:03:56:  
+11:04:01:  刘雅
+11:04:06:  MindMaster
+11:04:41:  计算器
+11:04:51:  MindMaster
+11:05:16:  计算器
+11:05:21:  MindMaster
+11:06:21:  另存为
+11:06:36:  MindMaster
+11:06:41:  
+11:06:46:  51单片机驱动步进电机（双四拍和八拍） - Youth.Shouting - 博客园 - Google Chrome
+11:06:51:  
+11:08:36:  网络错误
+11:09:01:  钞箱集成测试方案-报告
+11:09:06:  MindMaster
+11:09:36:  步进电机双四拍_百度搜索 - Google Chrome
+11:09:46:  mindmaster破解版_百度搜索 - Google Chrome
+11:09:51:  mindmaster激活码_百度搜索 - Google Chrome
+11:10:06:  MindMaster
+11:10:11:  激活
+11:11:11:  MindMaster
+11:11:26:  mindmaster激活码_百度搜索 - Google Chrome
+11:11:31:  支付宝 知托付！ - Google Chrome
+11:11:51:  我的支付宝 － 支付宝 - Google Chrome
+11:12:01:  财富中心 - Google Chrome
+11:12:11:  我的支付宝 － 支付宝 - Google Chrome
+11:12:26:  无标题 - Google Chrome
+11:12:31:  交易记录 - 支付宝 - Google Chrome
+11:14:31:  安全校验 - 支付宝 - Google Chrome
+11:14:51:  我的账单 - 支付宝 - Google Chrome
+11:15:31:  无标题 - Google Chrome
+11:15:36:  支付宝 - 网上支付 安全快速！ - Google Chrome
+11:15:41:  我的账单 - 支付宝 - Google Chrome
+11:16:41:  alipay_record_20200511_1116.zip - WinRAR (非商业个人版)
+11:16:46:  alipay_record_20200511_1116_1.csv - Excel
+11:17:41:  
+11:17:46:  alipay_record_20200511_1116_1.csv - Excel
+11:18:06:  
+11:18:16:  alipay_record_20200511_1116_1.csv - Excel
+11:18:26:  
+11:18:36:  alipay_record_20200511_1116_1.csv - Excel
+11:18:46:  
+11:19:06:  alipay_record_20200511_1116_1.csv - Excel
+11:19:11:  
+11:19:16:  alipay_record_20200511_1116_1.csv - Excel
+11:19:26:  
+11:19:31:  alipay_record_20200511_1116_1.csv - Excel
+11:20:01:  
+11:20:11:  我的账单 - 支付宝 - Google Chrome
+11:20:36:  下载
+11:20:41:  alipay_record_20200511_1120_1.csv - Excel
+11:20:51:  
+11:21:06:  alipay_record_20200511_1120_1.csv - Excel
+11:21:11:  
+11:21:21:  alipay_record_20200511_1120_1.csv - Excel
+11:21:41:  
+11:21:46:  alipay_record_20200511_1120_1.csv - Excel
+11:22:21:  
+11:22:26:  我的账单 - 支付宝 - Google Chrome
+11:22:51:  alipay_record_20200511_1122_1.csv - Excel
+11:23:01:  
+11:23:06:  alipay_record_20200511_1122_1.csv - Excel
+11:23:36:  alipay_record_20200511_1120_1.csv - Excel
+11:24:51:  计算机管理
+11:24:56:  alipay_record_20200511_1120_1.csv - Excel
+11:25:16:  
+11:25:26:  alipay_record_20200511_1120_1.csv - Excel
+11:25:31:  
+11:26:36:  alipay_record_20200511_1120_1.csv - Excel
+11:26:51:  
+11:27:06:  alipay_record_20200511_1120_1.csv - Excel
+11:28:31:  Decode
+11:28:36:  本地磁盘 (D:)
+11:28:31:  Decode
+11:28:36:  本地磁盘 (D:)
+11:33:51:  要恢复页面吗？
+11:34:06:  自动播放
+11:34:11:  桌面整理
+11:34:16:  TheOneForExcel.py - C:\Users\zhangkaifa\Desktop\TheOneForExcel.py (3.7.3)
+11:34:26:  双月 - Everything
+11:34:31:  CL - Everything
+11:34:36:  CLass - Everything
+11:34:41:  Class-Log-C1 - Everything
+11:34:51:  Class-Log-C1.py - F:\小程序\Class-Log-C1.py (3.7.3)
+11:34:56:  Class-Log-C1 - Everything
+11:35:01:  本地磁盘 (D:)
+11:35:11:  D:\fenxi.py (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:35:16:  D:\fenxi.py • (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:36:11:  本地磁盘 (D:)
+11:36:16:  C:\Users\zhangkaifa\Desktop\TheOneForExcel.py (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:36:21:  DRB测试
+11:36:26:  本地磁盘 (D:)
+11:36:31:  打开方式
+11:36:36:  D:\TheOneForExcel.py (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:36:51:  D:\TheOneForExcel.py • (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:37:41:  Sublime Text
+11:37:46:  D:\TheOneForExcel.py • (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:37:51:  「开始」菜单
+11:37:56:  网易有道词典
+11:38:01:  D:\TheOneForExcel.py • (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:38:26:  TextAnalysisTool.NET
+11:38:36:  程序兼容性助手
+11:38:41:  alipay_record_20200511_1122_1.csv - Excel
+11:38:51:  D:\00-06\DRB-Seclect-New\Project\CashBox_1T2.uvprojx - μVision
+11:38:56:  D:\TheOneForExcel.py • (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:39:27:  alipay_record_20200511_1122_1.csv - Excel
+11:39:32:  D:\TheOneForExcel.py • (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:39:37:  alipay_record_20200511_1122_1.csv - Excel
+11:39:42:  D:\TheOneForExcel.py • (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:39:47:  alipay_record_20200511_1122_1.csv - Excel
+11:39:52:  D:\TheOneForExcel.py • (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:39:57:  alipay_record_20200511_1122_1.csv - Excel
+11:40:07:  D:\TheOneForExcel.py • (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:40:37:  alipay_record_20200511_1122_1.csv - Excel
+11:40:42:  D:\TheOneForExcel.py • (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:40:47:  alipay_record_20200511_1122_1.csv - Excel
+11:40:57:  D:\TheOneForExcel.py • (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:41:02:  alipay_record_20200511_1122_1.csv - Excel
+11:41:12:  D:\TheOneForExcel.py • (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:41:17:  D:\TheOneForExcel.py (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:41:32:  D:\TheOneForExcel.py • (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:42:47:  D:\TheOneForExcel.py (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:43:02:  D:\TheOneForExcel.py • (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:43:12:  D:\TheOneForExcel.py (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+11:43:17:  
+11:43:22:  D:\00-06\DRB-Seclect-New\Project\CashBox_1T2.uvprojx - μVision
+11:43:27:  本地磁盘 (D:)
+11:43:37:  新建文件夹
+11:43:47:  TheOneForExcel.py - D:\新建文件夹\TheOneForExcel.py (3.7.3)
+11:43:57:  *TheOneForExcel.py - D:\新建文件夹\TheOneForExcel.py (3.7.3)*
+11:44:02:  TheOneForExcel.py - D:\新建文件夹\TheOneForExcel.py (3.7.3)
+11:44:07:  Python 3.7.3 Shell
+11:44:42:  TheOneForExcel.py - D:\新建文件夹\TheOneForExcel.py (3.7.3)
+11:44:47:  Python 3.7.3 Shell
+11:44:52:  TheOneForExcel.py - D:\新建文件夹\TheOneForExcel.py (3.7.3)

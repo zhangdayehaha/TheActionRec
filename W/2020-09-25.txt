@@ -1,0 +1,420 @@
+08:10:23:  自动播放
+08:10:28:  K64_0000_20200924164036.log - DRB.tat* - TextAnalysisTool.NET
+08:16:38:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+08:16:43:  00-06
+08:16:58:  跳转列表
+08:17:03:  00-06 (未响应)
+08:17:08:  DRB--
+08:18:18:  μVision
+08:18:28:  JLink - Cortex-M Error
+08:18:33:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:18:38:  JLink - Cortex-M Error
+08:18:43:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:19:03:  JLink - Cortex-M Error
+08:19:08:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:20:03:  「开始」菜单
+08:20:08:  计算器
+08:20:13:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:26:38:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009250826.log
+08:27:13:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:27:48:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009250826.log
+08:27:53:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:30:13:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009250826.log
+08:30:58:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:44:48:  00-KE64
+08:44:53:  CRS-64-1
+08:44:58:  检查更新
+08:45:03:  CashBoxModuleApp.c - TortoiseMerge
+08:44:48:  00-KE64
+08:44:53:  CRS-64-1
+08:44:58:  检查更新
+08:45:03:  CashBoxModuleApp.c - TortoiseMerge
+08:45:08:  GateModule.h - TortoiseMerge
+08:45:13:  E:\深圳出差\CRS-64-1 - 提交 - TortoiseSVN
+08:45:18:  ComponentCtrl.h - TortoiseMerge
+08:45:23:  CashBoxModuleApp.c - TortoiseMerge
+08:45:33:  E:\深圳出差\CRS-64-1 - 提交 - TortoiseSVN
+08:45:53:  GateModule.h - TortoiseMerge
+08:45:58:  E:\深圳出差\CRS-64-1 - 提交 - TortoiseSVN
+08:46:03:  提交
+08:46:08:  新建文本文档.exe - 快捷方式
+08:46:13:  E:\深圳出差\CRS-64-1 - 提交 - TortoiseSVN
+08:46:18:  提交
+08:46:23:  CRS-64-1
+08:46:28:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:46:33:  于斌1
+08:50:08:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:51:38:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:51:48:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:52:03:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:52:08:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:52:23:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:54:03:  设置 - CRS-64-1 - Visual Studio Code [管理员]
+08:54:08:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:02:18:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+09:02:23:  设置 - CRS-64-1 - Visual Studio Code [管理员]
+09:02:28:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:12:09:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+09:12:24:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:18:49:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+09:18:54:  设置 - CRS-64-1 - Visual Studio Code [管理员]
+09:18:59:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:20:54:  taskeng.exe
+09:20:59:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:22:34:  于斌1
+09:22:39:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:28:24:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:28:24:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:39:54:  「开始」菜单
+09:43:09:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:43:19:  2020年中秋节福利发放通知.pdf
+09:44:04:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:44:44:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:44:44:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:49:14:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:49:29:  K64_0000_20200924164036.log - DRB.tat* - TextAnalysisTool.NET
+09:50:14:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:50:29:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:09:24:  于斌1
+10:11:24:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:11:39:  E:\深圳出差\CRS-64-1\Applications\InstrExplain\InstrReturn.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:11:54:  E:\深圳出差\CRS-64-1\Applications\InstrExplain\InstrProc1D.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:11:59:  E:\深圳出差\CRS-64-1\Applications\InstrExplain\InstrProcSys.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:12:14:  E:\深圳出差\CRS-64-1\Applications\InstrExplain\InstrReturn.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:12:29:  于斌1
+10:12:49:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:14:09:  于斌1
+10:14:09:  于斌1
+10:15:09:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:47:05:  于斌1
+10:47:25:  桌面整理
+10:47:30:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+10:47:40:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:47:45:  20180613 TCR内部指令手册_V001.xlsx - Excel (未响应)
+10:47:50:  设置单元格格式
+10:48:00:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:48:05:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:49:50:  于斌1
+10:49:55:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:15:25:  自动播放
+11:21:00:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:22:50:  锁屏状态
+11:23:05:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:28:45:  新建文本文档.exe - 快捷方式
+11:28:50:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:29:15:  新标签页 - Google Chrome
+11:29:25:  百度一下，你就知道 - Google Chrome
+11:29:40:  首页 - 知乎 - Google Chrome
+11:29:45:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:28:45:  新建文本文档.exe - 快捷方式
+11:28:50:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:29:15:  新标签页 - Google Chrome
+11:29:25:  百度一下，你就知道 - Google Chrome
+11:29:40:  首页 - 知乎 - Google Chrome
+11:29:45:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:34:30:  新建文本文档.exe - 快捷方式
+11:34:35:  未连接到网络 - Internet Explorer
+11:34:45:  系统登录 - Internet Explorer
+11:34:50:  新北洋OA信息化平台 - Internet Explorer
+11:34:55:  http://oa.byintra.com/iBPM/BPM/DecryptUlt.aspx?Mode=Apply&TASKID=0923149e6214d9a6465dc9f9217262 - Internet Explorer
+11:35:00:  费用报销流程_新北洋 - Internet Explorer
+11:35:10:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:40:46:  「开始」菜单
+11:40:56:  主页 - Internet Explorer
+11:41:01:  系统登录 - Internet Explorer
+11:41:06:  新北洋OA信息化平台 - Internet Explorer
+11:41:11:  Excel
+11:41:16:  2020年新北洋张村食堂9.21-9.27日菜谱.xlsx  [受保护的视图] - Excel
+11:41:21:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:41:26:  Excel
+11:41:31:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:41:36:  2020年新北洋张村食堂9.21-9.27日菜谱.xlsx  [受保护的视图] - Excel
+11:41:41:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:41:46:  于斌1
+11:41:56:  eSpace
+11:42:01:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:43:21:  姚世龙
+11:45:01:  Everything
+11:45:01:  Everything
+11:45:31:  姚世龙
+11:45:36:  锁屏状态
+13:14:27:  姚世龙
+13:14:27:  姚世龙
+13:21:22:  Everything
+13:21:27:  text.date - Everything
+13:21:32:  text.dat - Everything
+13:21:37:  DRB-NearFull
+13:21:47:  锁屏状态
+13:21:52:  text 属性
+13:21:57:  text.dat - Everything
+13:22:02:  Attach
+13:22:12:  text.dat - Everything
+13:22:17:  DRB-NearFull
+13:22:32:  text.dat - Everything
+13:22:42:  text.date - Everything
+13:22:52:  text.dat - Everything
+13:23:07:  DRB-NearFull
+13:23:17:  本地磁盘 (D:)
+13:23:22:  本地磁盘 (E:)
+13:23:32:  新建文本文档 (2).py - E:\新建文本文档 (2).py (3.7.3)
+13:23:37:  本地磁盘 (E:)
+13:23:52:  IMG_2554.PNG - Windows 照片查看器
+13:24:07:  新建文件夹 (2)
+13:24:17:  本地磁盘 (E:)
+13:24:32:  Untitled-1.txt - 记事本
+13:24:52:  BOE点阵hex.txt" - Everything
+13:24:57:  BOE点阵hex.txt - Everything
+13:25:12:  BOE数据分包.dat" - Everything
+13:25:22:  回收站
+13:25:32:  BOE数据分包 - 回收站
+13:25:52:  text - 回收站
+13:26:12:  fenxi
+13:26:17:  text
+13:26:22:  新建文本文档.py - D:\fenxi\text\新建文本文档.py (3.7.3)
+13:26:27:  姚世龙
+13:26:37:  新建文本文档.py - D:\fenxi\text\新建文本文档.py (3.7.3)
+13:26:42:  姚世龙
+13:26:52:  新建文本文档.py - D:\fenxi\text\新建文本文档.py (3.7.3)
+13:26:57:  姚世龙
+13:27:02:  管理员: C:\Windows\system32\cmd.exe
+13:27:22:  text
+13:27:27:  新建文本文档.exe - 快捷方式
+13:27:32:  新标签页 - Google Chrome
+13:27:37:  百度一下，你就知道 - Google Chrome
+13:27:42:  python 打包成exe_百度搜索 - Google Chrome
+13:27:47:  Python 程序打包成 exe 可执行文件 - 不夜男人 - 博客园 - Google Chrome
+13:27:57:  text
+13:28:02:  管理员: C:\Windows\system32\cmd.exe
+13:28:12:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F 新建文本文档.py
+13:28:27:  text
+13:28:32:  新建文本文档.py - D:\fenxi\text\新建文本文档.py (3.7.3)
+13:28:42:  回复: 回复: text - 写邮件
+13:28:47:  dist
+13:29:02:  回复: 回复: text - 写邮件
+13:29:07:  text
+13:29:12:  新建文本文档.py - D:\fenxi\text\新建文本文档.py (3.7.3)
+13:29:22:  锁屏状态
+13:29:27:  姚世龙
+13:29:57:  新建文本文档.py - D:\fenxi\text\新建文本文档.py (3.7.3)
+13:28:12:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F 新建文本文档.py
+13:28:27:  text
+13:28:32:  新建文本文档.py - D:\fenxi\text\新建文本文档.py (3.7.3)
+13:28:42:  回复: 回复: text - 写邮件
+13:28:47:  dist
+13:29:02:  回复: 回复: text - 写邮件
+13:29:07:  text
+13:29:12:  新建文本文档.py - D:\fenxi\text\新建文本文档.py (3.7.3)
+13:29:22:  锁屏状态
+13:29:27:  姚世龙
+13:29:57:  新建文本文档.py - D:\fenxi\text\新建文本文档.py (3.7.3)
+13:30:12:  姚世龙
+13:31:27:  *新建文本文档.py - D:\fenxi\text\新建文本文档.py (3.7.3)*
+13:31:32:  Save Before Run or Check
+13:31:37:  text
+13:31:42:  打开方式
+13:31:47:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+13:31:57:  新建文本文档.py - D:\fenxi\text\新建文本文档.py (3.7.3)
+13:32:27:  text
+13:32:57:  新建文件夹 (2)
+13:33:07:  小大面额居中放钞，执行上腔入钞第175张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X884602B4
+13:33:12:  Decode
+13:33:22:  K64_BTCR-1100190802300005_20200925130929
+13:33:27:  Box_3__BTCR-1100190802300005_20200925130929.log - DRB.tat* - TextAnalysisTool.NET
+13:34:02:  eSpace
+13:34:07:  荆文波
+13:34:42:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:35:02:  荆文波
+13:38:52:  Windows 任务管理器
+13:39:02:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:56:02:  μVision
+13:56:12:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:56:37:  Toolbox
+13:56:42:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:56:57:  计算器
+13:57:37:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+14:04:27:  版本更改记录.txt
+14:05:32:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+14:07:07:  桌面整理
+14:07:12:  EXTFEDU6V11.PDF - Adobe Reader
+14:07:57:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+14:08:07:  EXTFEDU6V11.PDF - Adobe Reader
+14:08:52:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+14:12:42:  EXTFEDU6V11.PDF - Adobe Reader
+14:13:22:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+14:14:48:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:14:53:  EXTFEDU6V11.PDF - Adobe Reader
+14:14:58:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+14:14:48:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:14:53:  EXTFEDU6V11.PDF - Adobe Reader
+14:14:58:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+14:17:28:  eSpace
+14:17:33:  姚世龙
+14:17:38:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+14:18:38:  eSpace
+14:18:43:  程明昌
+14:18:58:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+14:19:48:  警告
+14:19:53:  03 项目周报
+14:19:58:  正在打开 - Excel
+14:20:03:  CRS 项目周报.xlsx  [受保护的视图] - Excel
+14:20:23:  03 项目周报
+14:20:43:  EXTFEDU6V11.PDF - Adobe Reader
+14:21:03:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+14:25:33:  Toolbox
+14:25:38:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+14:34:58:  CRS-64-1
+14:35:03:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+14:36:03:  00-06
+14:36:08:  DRB-MOSTNEW
+14:36:18:  D:\00-06\DRB-MOSTNEW - 工作副本 - TortoiseSVN
+14:36:28:  Selector.c - TortoiseMerge
+14:37:03:  D:\00-06\DRB-MOSTNEW - 日志信息 - TortoiseSVN
+14:37:23:  Selector.c Revision 3837 - TortoiseMerge
+14:37:58:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+14:42:53:  回复: 小大面额居右放钞，执行上腔入钞第182张报钞箱口 钞口满 返回码0X085E0700，钞箱堆叠正常
+14:42:58:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+14:51:53:  本地磁盘 (D:)
+14:51:58:  新建文件夹 (2)
+14:52:03:  小大面额居右放钞，执行上腔入钞第182张报钞箱口 钞口满 返回码0X085E0700，钞箱堆叠正常
+14:52:08:  Decode
+14:52:18:  跳转列表
+14:52:23:  Box_3__BTCR-1100190802300005_20200925143201.log - [No filter file] - TextAnalysisTool.NET
+14:52:28:  Box_3__BTCR-1100190802300005_20200925143201.log - DRB.tat - TextAnalysisTool.NET
+14:53:53:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+14:53:58:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+14:54:08:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c • (DRB--) - Sublime Text (UNREGISTERED)
+14:54:13:  D:\00-06\DRB--\Applications\PlateCtrl\LowerPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+14:54:23:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+14:54:53:  D:\00-06\DRB--\Applications\PlateCtrl\LowerPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+14:56:33:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+14:57:18:  Box_3__BTCR-1100190802300005_20200925143201.log - DRB.tat - TextAnalysisTool.NET
+15:01:43:  回复: 回复: 小大面额居右放钞，执行上腔入钞第182张报钞箱口 钞口满 返回码0X085E0700，钞箱堆叠正常 - 写邮件
+15:02:03:  Box_3__BTCR-1100190802300005_20200925143201.log - DRB.tat - TextAnalysisTool.NET
+15:02:13:  回复: 回复: 小大面额居右放钞，执行上腔入钞第182张报钞箱口 钞口满 返回码0X085E0700，钞箱堆叠正常 - 写邮件
+15:02:43:  回复: 回复: 小大面额居右放钞，执行上腔入钞第182张报钞箱口 钞口满 返回码0X085E0700，钞箱堆叠正常 - 写邮件   15:02:39 已保存
+15:03:43:  回复: 回复: 小大面额居右放钞，执行上腔入钞第182张报钞箱口 钞口满 返回码0X085E0700，钞箱堆叠正常 - 写邮件   15:03:39 已保存
+15:04:43:  回复: 回复: 小大面额居右放钞，执行上腔入钞第182张报钞箱口 钞口满 返回码0X085E0700，钞箱堆叠正常 - 写邮件   15:04:39 已保存
+15:05:43:  回复: 回复: 小大面额居右放钞，执行上腔入钞第182张报钞箱口 钞口满 返回码0X085E0700，钞箱堆叠正常 - 写邮件   15:05:39 已保存
+15:07:13:  D:\00-06\DRB-MOSTNEW - 工作副本 - TortoiseSVN
+15:07:18:  新标签页 - Google Chrome
+15:07:28:  数据抓取工具 - Google Chrome
+15:11:18:  锁屏状态
+15:11:23:  个人周报-张开发 (49).xlsx - Excel
+15:15:23:  打开
+15:15:38:  于斌1
+15:18:43:  数据抓取工具 - Google Chrome
+15:30:48:  姚世龙
+15:30:58:  eSpace
+15:31:03:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+15:31:18:  D:\00-06\DRB--\Applications\PlateCtrl\LowerPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+15:31:28:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:35:03:  ComponentCtrl.h - CRS-64-1 - Visual Studio Code [管理员]
+15:35:43:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:44:18:  「开始」菜单
+15:44:28:  升级流程 - OneNote
+15:44:33:  1T2集成测试 - OneNote
+15:44:48:  eSpace
+15:44:53:  王亮杰
+15:44:18:  「开始」菜单
+15:44:28:  升级流程 - OneNote
+15:44:33:  1T2集成测试 - OneNote
+15:44:48:  eSpace
+15:44:53:  王亮杰
+15:55:04:  Windows 任务管理器
+15:55:09:  程明昌
+15:56:09:  eSpace
+15:56:14:  于斌1
+15:56:49:  D:\00-06\DRB--\Applications\PlateCtrl\LowerPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+15:56:54:  于斌1
+15:57:24:  D:\00-06\DRB--\Applications\PlateCtrl\LowerPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:04:59:  于斌1
+16:06:09:  TCR调测工具（研发版）V1.0.0.4
+16:07:34:  D:\00-06\DRB--\Applications\PlateCtrl\LowerPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:08:34:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:10:24:  于斌1
+16:10:34:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:14:14:  Box_3__BTCR-1100190802300005_20200925143201.log - DRB.tat - TextAnalysisTool.NET
+16:14:19:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:14:54:  eSpace
+16:15:04:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:14:14:  Box_3__BTCR-1100190802300005_20200925143201.log - DRB.tat - TextAnalysisTool.NET
+16:14:19:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:14:54:  eSpace
+16:15:04:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:20:09:  桌面整理
+16:20:14:  E:\深圳出差\CRS-64-1\Applications\InstrExplain\InstrReturn.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:20:59:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:24:29:  eSpace
+16:24:34:  吉哲
+16:24:44:  eSpace
+16:25:24:  姚世龙
+16:25:29:  eSpace
+16:25:34:  荆文波
+16:25:44:  eSpace
+16:25:49:  姚世龙
+16:26:39:  eSpace
+16:26:49:  程明昌
+16:26:59:  eSpace
+16:27:04:  姚世龙
+16:27:19:  吉哲
+16:28:39:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:29:04:  吉哲
+16:29:14:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:28:39:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:29:04:  吉哲
+16:29:14:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:30:19:  μVision
+16:30:24:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:36:29:  Toolbox
+16:36:34:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:39:44:  TCR调测工具（研发版）V1.0.0.4
+16:40:04:  Bus Hound
+16:40:09:  TCR调测工具（研发版）V1.0.0.4
+16:40:14:  读写ERROM
+16:40:19:  TCR调测工具（研发版）V1.0.0.4
+16:40:24:  读写ERROM
+16:40:34:  Bus Hound
+16:40:39:  读写ERROM
+16:40:49:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:40:54:  Bus Hound
+16:40:59:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:41:19:  TCR调测工具（研发版）V1.0.0.4
+16:41:29:  Bus Hound
+16:41:39:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:42:54:  读写ERROM
+16:43:04:  TCR调测工具（研发版）V1.0.0.4
+16:43:09:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:43:14:  eSpace
+16:43:19:  程明昌
+16:43:29:  eSpace
+16:43:34:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:44:14:  TCR调测工具（研发版）V1.0.0.4
+16:44:34:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:44:39:  TCR调测工具（研发版）V1.0.0.4
+16:44:54:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:44:59:  TCR调测工具（研发版）V1.0.0.4
+16:44:14:  TCR调测工具（研发版）V1.0.0.4
+16:44:34:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:44:39:  TCR调测工具（研发版）V1.0.0.4
+16:44:54:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:44:59:  TCR调测工具（研发版）V1.0.0.4
+16:45:09:  程明昌
+16:45:24:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:45:39:  TCR调测工具（研发版）V1.0.0.4
+16:45:44:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:45:54:  TCR调测工具（研发版）V1.0.0.4
+16:45:59:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:46:04:  TCR调测工具（研发版）V1.0.0.4
+16:46:19:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:48:24:  TCR调测工具（研发版）V1.0.0.4
+16:48:29:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:48:44:  μVision
+16:48:49:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:48:54:  μVision
+16:48:59:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:49:39:  TCR调测工具（研发版）V1.0.0.4
+16:49:49:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+17:01:34:  eSpace
+17:01:39:  程明昌
+17:03:14:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+17:04:25:  锁屏状态

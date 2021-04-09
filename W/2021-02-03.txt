@@ -1,0 +1,1128 @@
+08:03:03:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:03:08:  2021年社保基数签字.xlsx
+08:03:58:  新北洋OA信息化平台 - Internet Explorer
+08:04:53:  【通知】2021年社保基数签字
+08:05:38:  新北洋OA信息化平台 - Internet Explorer
+08:05:48:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:07:53:  D:\00-06\DRB-1.3\Project\CashBox_1T2.uvprojx - μVision
+08:07:58:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:09:38:  Toolbox
+08:09:43:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:10:58:  D:\00-06\DRB-1.3\Project\CashBox_1T2.uvprojx - μVision
+08:11:08:  本地磁盘 (D:)
+08:11:13:  meger
+08:11:18:  SECSplashWnd
+08:11:23:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:13:08:  开始
+08:13:13:  D:\00-06\DRB-1.3\Project\CashBox_1T2.uvprojx - μVision
+08:13:18:  eSpace
+08:13:28:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+08:15:23:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:16:58:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:17:13:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:17:28:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+08:17:43:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+08:17:53:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+08:18:03:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:18:28:  Toolbox
+08:18:33:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:18:48:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c • (meger) - Sublime Text (UNREGISTERED)
+08:19:13:  D:\00-06\meger\Drivers\PeripheralDriver\CanDriver\CanDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:19:38:  D:\00-06\meger\Drivers\PeripheralDriver\IrqDriver\IrqDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:19:48:  D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)
+08:19:53:  D:\00-06\meger\Drivers\PeripheralDriver\IrqDriver\IrqDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:20:13:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c • (meger) - Sublime Text (UNREGISTERED)
+08:20:28:  μVision
+08:20:33:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:22:23:  Toolbox
+08:22:28:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:22:48:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+08:22:53:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c • (meger) - Sublime Text (UNREGISTERED)
+08:22:58:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:25:58:  meger
+08:26:03:  工作副本
+08:26:08:  D:\00-06\meger - 工作副本 - TortoiseSVN
+08:26:28:  adc.c - TortoiseMerge
+08:26:48:  AdcDriver.h - TortoiseMerge
+08:26:53:  AdcDriver.c - TortoiseMerge
+08:27:03:  TortoiseMerge
+08:27:13:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:28:48:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102030828.log
+08:29:03:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:29:08:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102030828.log
+08:29:13:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:29:23:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102030828.log
+08:29:38:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:28:48:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102030828.log
+08:29:03:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:29:08:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102030828.log
+08:29:13:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:29:23:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102030828.log
+08:29:38:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:32:19:  meger
+08:32:24:  D:\00-06\meger - 工作副本 - TortoiseSVN
+08:32:29:  UpperPlateCtrl.c - TortoiseMerge
+08:32:34:  AdcDriver.c - TortoiseMerge
+08:32:54:  D:\00-06\meger - 工作副本 - TortoiseSVN
+08:32:59:  adc.c - TortoiseMerge
+08:33:09:  D:\00-06\meger - 工作副本 - TortoiseSVN
+08:33:14:  meger
+08:33:19:  D:\00-06\DRB-1.3\Project\CashBox_1T2.uvprojx - μVision
+08:33:34:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:37:39:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+08:37:44:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:37:49:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+08:37:54:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:38:04:  锁屏状态
+08:38:09:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:38:19:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+08:38:24:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:38:59:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+08:39:39:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:40:09:  D:\00-06\DRB-1.3\Project\CashBox_1T2.uvprojx - μVision
+08:42:34:  LogExpert #5 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102030842.log
+08:42:44:  KE06LOG.bat - 快捷方式 (2)
+08:42:49:  meger
+08:42:54:  DRB-1.3
+08:42:59:  D:\00-06\DRB-1.3 - 工作副本 - TortoiseSVN
+08:43:09:  DRB-1.3
+08:43:14:  LogExpert #5 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102030842.log
+08:43:24:  D:\00-06\DRB-1.3\Project\CashBox_1T2.uvprojx - μVision
+08:44:04:  DRB-1.3
+08:44:09:  Project
+08:44:19:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:44:09:  Project
+08:44:19:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:45:09:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:46:14:  meger
+08:46:19:  D:\00-06\meger - 工作副本 - TortoiseSVN
+08:46:24:  TortoiseSVN
+08:46:29:  SensorDriver.c - TortoiseMerge
+08:47:19:  D:\00-06\meger - 工作副本 - TortoiseSVN
+08:47:24:  SensorDriver.c - TortoiseMerge
+08:47:29:  Sensor.c - TortoiseMerge
+08:47:39:  D:\00-06\meger - 工作副本 - TortoiseSVN
+08:47:44:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+08:53:59:  00-06
+08:54:19:  DRB
+08:54:24:  检出
+08:54:39:  吉哲
+08:54:44:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:55:14:  锁屏状态
+08:55:24:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:55:44:  锁屏状态
+08:55:49:  吉哲
+08:56:09:  Toolbox
+08:56:14:  吉哲
+08:56:29:  「开始」菜单
+08:56:44:  吉哲
+08:56:59:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:57:19:  吉哲
+08:57:34:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:57:44:  DRB
+08:57:54:  D:\00-06\DRB\Project - 日志信息 - TortoiseSVN
+08:58:09:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+08:58:39:  State.c Revision 4205 - TortoiseMerge
+08:58:44:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+08:58:49:  DRB
+08:58:54:  meger
+08:58:59:  PaperManage.c - TortoiseMerge
+08:59:09:  D:\00-06\meger - 工作副本 - TortoiseSVN
+08:59:14:  State.c - TortoiseMerge
+08:59:19:  D:\00-06\meger - 工作副本 - TortoiseSVN
+08:59:24:  Track.c - TortoiseMerge
+08:59:34:  Update.c - TortoiseMerge
+08:59:39:  PublicDriver.c - TortoiseMerge
+08:59:49:  SensorDriver.c - TortoiseMerge
+08:58:09:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+08:58:39:  State.c Revision 4205 - TortoiseMerge
+08:58:44:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+08:58:49:  DRB
+08:58:54:  meger
+08:58:59:  PaperManage.c - TortoiseMerge
+08:59:09:  D:\00-06\meger - 工作副本 - TortoiseSVN
+08:59:14:  State.c - TortoiseMerge
+08:59:19:  D:\00-06\meger - 工作副本 - TortoiseSVN
+08:59:24:  Track.c - TortoiseMerge
+08:59:34:  Update.c - TortoiseMerge
+08:59:39:  PublicDriver.c - TortoiseMerge
+08:59:49:  SensorDriver.c - TortoiseMerge
+09:01:09:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+09:01:14:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+09:01:49:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+09:02:09:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+09:03:09:  meger
+09:04:34:  关于迅速启用“入鲁返鲁人员疫情防控自主申报和随访登记系统”的通知.pdf
+09:06:49:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:14:59:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:14:59:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:15:09:  SensorDriver.c - TortoiseMerge
+09:15:24:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:15:29:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:15:34:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:15:39:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:15:54:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+09:15:59:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+09:16:09:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:16:14:  SensorDriver.c - TortoiseMerge
+09:16:24:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:16:29:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:17:39:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+09:17:44:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+09:18:04:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.h (meger) - Sublime Text (UNREGISTERED)
+09:18:14:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+09:18:24:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.h (meger) - Sublime Text (UNREGISTERED)
+09:18:39:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+09:18:44:  计算器
+09:18:49:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+09:19:29:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+09:19:34:  μVision
+09:19:39:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:19:54:  锁屏状态
+09:20:59:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:21:24:  SensorDriver.c - TortoiseMerge
+09:21:44:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:21:49:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:22:59:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:23:04:  TortoiseSVN
+09:23:09:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:23:19:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+09:23:24:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:23:29:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:24:54:  Project
+09:24:59:  meger
+09:25:04:  PaperManage.c - TortoiseMerge
+09:25:14:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:25:19:  Track.c - TortoiseMerge
+09:25:29:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:25:34:  PrintService.c - TortoiseMerge
+09:25:39:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:25:49:  PublicDriver.c - TortoiseMerge
+09:25:59:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:26:14:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:28:24:  LogExpert #6 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102030928.log
+09:28:44:  KE06LOG.bat - 快捷方式 (2)
+09:28:49:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:28:59:  State.c - TortoiseMerge
+09:29:24:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:29:44:  PublicDriver.c - TortoiseMerge
+09:29:49:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+09:29:54:  PublicDriver.c - TortoiseMerge
+09:28:24:  LogExpert #6 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102030928.log
+09:28:44:  KE06LOG.bat - 快捷方式 (2)
+09:28:49:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:28:59:  State.c - TortoiseMerge
+09:29:24:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:29:44:  PublicDriver.c - TortoiseMerge
+09:29:49:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+09:29:54:  PublicDriver.c - TortoiseMerge
+09:30:29:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:32:04:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+09:32:14:  00-06
+09:32:19:  SECSplashWnd
+09:32:24:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:34:34:  SEGGER J-Link V6.10b - Reprogramming flash
+09:34:39:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision (未响应)
+09:34:44:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:34:49:  Project
+09:34:54:  meger
+09:34:59:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:35:09:  DRB
+09:35:14:  复制文件
+09:35:19:  DRB
+09:35:24:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:36:50:  DRB
+09:36:55:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:37:00:  锁屏状态
+09:37:05:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:37:55:  DRB
+09:38:00:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:38:10:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:38:55:  Toolbox
+09:39:00:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:39:30:  工作副本
+09:39:35:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:40:00:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:40:20:  DRB
+09:40:25:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:40:35:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:41:40:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:41:50:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:42:35:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:42:50:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:43:30:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:43:35:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+09:43:40:  DRB
+09:43:55:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:44:30:  DRB
+09:44:35:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:44:40:  Project
+09:44:45:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:44:30:  DRB
+09:44:35:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:44:40:  Project
+09:44:45:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:46:15:  Project
+09:46:20:  SECSplashWnd
+09:46:25:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:46:30:  Options for Target 'CashBox_1T2_Debug'
+09:46:35:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:47:35:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+09:47:40:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+09:47:50:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+09:47:55:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:48:05:  Project
+09:48:10:  D:\00-06\meger\Middlewares\Sensor\Sensor.c (meger) - Sublime Text (UNREGISTERED)
+09:48:15:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:48:25:  Project
+09:48:30:  D:\00-06\meger\Middlewares\Sensor\Sensor.c (meger) - Sublime Text (UNREGISTERED)
+09:48:35:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.h (meger) - Sublime Text (UNREGISTERED)
+09:48:40:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:50:10:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.h (meger) - Sublime Text (UNREGISTERED)
+09:50:20:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+09:50:30:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:52:40:  Options for Target 'CashBox_1T2_Debug'
+09:52:45:  μVision
+09:52:50:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+09:52:55:  D:\00-06\meger\Applications\Instruction\InstrHandle.c (meger) - Sublime Text (UNREGISTERED)
+09:53:00:  D:\00-06\meger\Applications\State\State.c (meger) - Sublime Text (UNREGISTERED)
+09:53:10:  D:\00-06\meger\FwLib\Config\DebugConfig.h (meger) - Sublime Text (UNREGISTERED)
+09:53:25:  D:\00-06\meger\FwLib\Config\DebugConfig.h • (meger) - Sublime Text (UNREGISTERED)
+09:53:30:  D:\00-06\meger\FwLib\Config\DebugConfig.h (meger) - Sublime Text (UNREGISTERED)
+09:53:35:  D:\00-06\meger\FwLib\Config\DebugConfig.h • (meger) - Sublime Text (UNREGISTERED)
+09:53:40:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:55:35:  D:\00-06\meger\FwLib\Config\DebugConfig.h • (meger) - Sublime Text (UNREGISTERED)
+09:55:40:  D:\00-06\meger\Applications\State\State.c (meger) - Sublime Text (UNREGISTERED)
+09:55:45:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.c (meger) - Sublime Text (UNREGISTERED)
+09:55:50:  D:\00-06\meger\Applications\State\State.c (meger) - Sublime Text (UNREGISTERED)
+09:55:55:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:56:00:  D:\00-06\meger\FwLib\Config\DebugConfig.h (meger) - Sublime Text (UNREGISTERED)
+09:56:05:  D:\00-06\meger\Applications\Initial\Initial.c (meger) - Sublime Text (UNREGISTERED)
+09:56:10:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:57:05:  D:\00-06\meger\Applications\Initial\Initial.c (meger) - Sublime Text (UNREGISTERED)
+09:57:10:  D:\00-06\meger\Applications\Instruction\InstrReturn.c (meger) - Sublime Text (UNREGISTERED)
+09:57:15:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.c (meger) - Sublime Text (UNREGISTERED)
+09:57:25:  新北洋放假通知【2021】001号：关于2020年农历小年放假安排的通知
+09:57:35:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.c (meger) - Sublime Text (UNREGISTERED)
+09:58:10:  D:\00-06\meger\Applications\State\State.c (meger) - Sublime Text (UNREGISTERED)
+09:58:25:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:58:35:  D:\00-06\meger\Applications\State\State.c (meger) - Sublime Text (UNREGISTERED)
+09:58:40:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:59:40:  D:\00-06\meger\Applications\State\State.c (meger) - Sublime Text (UNREGISTERED)
+09:59:50:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:59:55:  D:\00-06\meger\Applications\Update\Update.c (meger) - Sublime Text (UNREGISTERED)
+10:00:00:  D:\00-06\meger\FwLib\Config\DebugConfig.h (meger) - Sublime Text (UNREGISTERED)
+09:58:10:  D:\00-06\meger\Applications\State\State.c (meger) - Sublime Text (UNREGISTERED)
+09:58:25:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:58:35:  D:\00-06\meger\Applications\State\State.c (meger) - Sublime Text (UNREGISTERED)
+09:58:40:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:59:40:  D:\00-06\meger\Applications\State\State.c (meger) - Sublime Text (UNREGISTERED)
+09:59:50:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:59:55:  D:\00-06\meger\Applications\Update\Update.c (meger) - Sublime Text (UNREGISTERED)
+10:00:00:  D:\00-06\meger\FwLib\Config\DebugConfig.h (meger) - Sublime Text (UNREGISTERED)
+10:00:05:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:00:55:  Toolbox
+10:01:00:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:03:15:  锁屏状态
+10:03:20:  D:\00-06\meger\FwLib\Config\DebugConfig.h (meger) - Sublime Text (UNREGISTERED)
+10:03:25:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+10:03:30:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c • (meger) - Sublime Text (UNREGISTERED)
+10:03:45:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:06:30:  Options for Target 'CashBox_1T2_Debug'
+10:06:50:  Cortex JLink/JTrace Target Driver Setup
+10:06:55:  Options for Target 'CashBox_1T2_Debug'
+10:07:00:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+10:07:10:  D:\00-06\meger\Applications\Initial\Initial.c (meger) - Sublime Text (UNREGISTERED)
+10:07:15:  D:\00-06\meger\Applications\Instruction\InstrHandle.c (meger) - Sublime Text (UNREGISTERED)
+10:07:25:  D:\00-06\meger\Applications\Instruction\InstrReturn.c (meger) - Sublime Text (UNREGISTERED)
+10:07:45:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.c (meger) - Sublime Text (UNREGISTERED)
+10:08:15:  D:\00-06\meger\Applications\State\State.c • (meger) - Sublime Text (UNREGISTERED)
+10:08:30:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+10:08:45:  D:\00-06\meger\Applications\Update\Update.c (meger) - Sublime Text (UNREGISTERED)
+10:08:55:  D:\00-06\meger\Applications\Update\Update.c • (meger) - Sublime Text (UNREGISTERED)
+10:09:00:  D:\00-06\meger\FwLib\Config\DebugConfig.h • (meger) - Sublime Text (UNREGISTERED)
+10:09:05:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:10:56:  D:\00-06\meger\FwLib\Config\DebugConfig.h (meger) - Sublime Text (UNREGISTERED)
+10:11:01:  D:\00-06\meger\FwLib\Config\DebugConfig.h • (meger) - Sublime Text (UNREGISTERED)
+10:11:06:  D:\00-06\meger\Applications\Update\Update.c • (meger) - Sublime Text (UNREGISTERED)
+10:11:11:  D:\00-06\meger\Applications\Update\Update.c (meger) - Sublime Text (UNREGISTERED)
+10:11:16:  D:\00-06\meger\Applications\State\State.c • (meger) - Sublime Text (UNREGISTERED)
+10:11:21:  D:\00-06\meger\Applications\State\State.c (meger) - Sublime Text (UNREGISTERED)
+10:11:26:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.c (meger) - Sublime Text (UNREGISTERED)
+10:11:31:  D:\00-06\meger\Applications\Initial\Initial.c (meger) - Sublime Text (UNREGISTERED)
+10:11:41:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:12:26:  D:\00-06\meger\Applications\Initial\Initial.c • (meger) - Sublime Text (UNREGISTERED)
+10:12:31:  D:\00-06\meger\Applications\Initial\Initial.c (meger) - Sublime Text (UNREGISTERED)
+10:12:41:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:12:46:  Options for Target 'CashBox_1T2'
+10:12:51:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:12:56:  Options for Target 'CashBox_1T2_Debug'
+10:13:21:  Options for Target 'CashBox_1T2'
+10:13:41:  Cortex JLink/JTrace Target Driver Setup
+10:13:51:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:13:56:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+10:14:01:  工作副本
+10:14:06:  meger
+10:14:11:  D:\00-06\meger - 工作副本 - TortoiseSVN
+10:14:16:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:14:21:  D:\00-06\meger - 工作副本 - TortoiseSVN
+10:14:26:  meger
+10:14:31:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:14:06:  meger
+10:14:11:  D:\00-06\meger - 工作副本 - TortoiseSVN
+10:14:16:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:14:21:  D:\00-06\meger - 工作副本 - TortoiseSVN
+10:14:26:  meger
+10:14:31:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:16:36:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+10:16:41:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+10:16:51:  Save Changes?
+10:16:56:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.c (meger) - Sublime Text (UNREGISTERED)
+10:17:01:  D:\00-06\meger\Applications\Update\Update.c (meger) - Sublime Text (UNREGISTERED)
+10:17:06:  D:\00-06\meger\Drivers\PeripheralDriver\IrqDriver\IrqDriver.c (meger) - Sublime Text (UNREGISTERED)
+10:17:11:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+10:17:16:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+10:17:26:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c • (meger) - Sublime Text (UNREGISTERED)
+10:17:31:  μVision
+10:17:36:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:18:51:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+10:19:01:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:20:06:  Toolbox
+10:20:11:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:20:36:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+10:20:41:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c • (meger) - Sublime Text (UNREGISTERED)
+10:20:51:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+10:20:56:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+10:21:01:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+10:21:06:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:21:26:  Toolbox
+10:21:31:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:21:41:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+10:21:51:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:21:56:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+10:22:41:  Adobe Photoshop CS3 Extended
+10:22:46:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:22:56:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+10:23:01:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:23:11:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+10:23:16:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:23:21:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+10:23:26:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c • (meger) - Sublime Text (UNREGISTERED)
+10:24:01:  Adobe Photoshop CS3 Extended
+10:24:16:  网络和共享中心
+10:24:21:  网络连接
+10:24:46:  自动播放
+10:24:51:  Adobe Photoshop CS3 Extended
+10:24:56:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:25:01:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c • (meger) - Sublime Text (UNREGISTERED)
+10:25:11:  NXP MKE06 AD 例程_百度搜索 - Google Chrome
+10:25:21:  NXP_百度搜索 - Google Chrome
+10:25:36:  无标题 - Google Chrome
+10:25:41:  恩智浦半导体 | 汽车电子, 安全互联, 物联网 - Google Chrome
+10:25:51:  搜索_NXP - Google Chrome
+10:26:11:  处理器和微控制器_NXP - Google Chrome
+10:26:26:  MKE06Z64VLK4 产品信息|NXP - Google Chrome
+10:26:31:  Options for Target 'CashBox_1T2_Debug'
+10:26:36:  MKE06Z64VLK4 产品信息|NXP - Google Chrome
+10:26:51:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:26:56:  MKE06Z64VLK4 产品信息|NXP - Google Chrome
+10:27:01:  搜索_NXP - Google Chrome
+10:27:26:  处理器和微控制器_NXP - Google Chrome
+10:27:47:  搜索_NXP - Google Chrome
+10:28:12:  文档_NXP - Google Chrome
+10:28:22:  202003001I:MKE02/MKE04/MKE06 Datasheet Update - Google Chrome
+10:28:27:  已翻译
+10:28:37:  文档_NXP - Google Chrome
+10:28:47:  无标题 - Google Chrome
+10:28:52:  文档_NXP - Google Chrome
+10:29:07:  NXP 官网_百度搜索 - Google Chrome
+10:29:12:  NXP 官网 例程在哪_百度搜索 - Google Chrome
+10:29:27:  请教NXP Kinetis MCU的例程和外设库在哪里下载？ - NXP MCU - 电子工程世界-论坛 - Google Chrome
+10:29:42:  NXP 官网 例程在哪_百度搜索 - Google Chrome
+10:29:47:  Welcome | MCUXpresso SDK Builder - Google Chrome
+10:29:57:  已翻译
+10:30:02:  欢迎光临| MCUXpresso SDK生成器 - Google Chrome
+10:28:12:  文档_NXP - Google Chrome
+10:28:22:  202003001I:MKE02/MKE04/MKE06 Datasheet Update - Google Chrome
+10:28:27:  已翻译
+10:28:37:  文档_NXP - Google Chrome
+10:28:47:  无标题 - Google Chrome
+10:28:52:  文档_NXP - Google Chrome
+10:29:07:  NXP 官网_百度搜索 - Google Chrome
+10:29:12:  NXP 官网 例程在哪_百度搜索 - Google Chrome
+10:29:27:  请教NXP Kinetis MCU的例程和外设库在哪里下载？ - NXP MCU - 电子工程世界-论坛 - Google Chrome
+10:29:42:  NXP 官网 例程在哪_百度搜索 - Google Chrome
+10:29:47:  Welcome | MCUXpresso SDK Builder - Google Chrome
+10:29:57:  已翻译
+10:30:02:  欢迎光临| MCUXpresso SDK生成器 - Google Chrome
+10:30:17:  请教NXP Kinetis MCU的例程和外设库在哪里下载？ - NXP MCU - 电子工程世界-论坛 - Google Chrome
+10:30:42:  Software Forums - NXP Community - Google Chrome
+10:30:47:  已翻译
+10:30:52:  软件论坛-恩智浦社区 - Google Chrome
+10:30:57:  子系列数据手册 - Google Chrome
+10:31:07:  202003001I:MKE02/MKE04/MKE06 Datasheet Update - Google Chrome
+10:31:22:  欢迎光临| MCUXpresso SDK生成器 - Google Chrome
+10:31:27:  NXP Sign In | Register - Google Chrome
+10:31:37:  恩智浦登录| 寄存器 - Google Chrome
+10:31:42:  Create an Account - Google Chrome
+10:31:52:  NXP Sign In | Register - Google Chrome
+10:32:22:  Create an Account - Google Chrome
+10:34:02:  网易有道词典
+10:34:12:  Create an Account - Google Chrome
+10:35:38:  网易有道词典
+10:35:53:  Create an Account - Google Chrome
+10:37:43:  网易有道词典
+10:37:53:  Create an Account - Google Chrome
+10:40:03:  2021年社保基数签字.xlsx
+10:40:13:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:40:33:  Create an Account - Google Chrome
+10:40:53:  Welcome | MCUXpresso SDK Builder - Google Chrome
+10:40:58:  NXP Sign In | Register - Google Chrome
+10:41:23:  NXP Semiconductors | Automotive, Security, IoT - Google Chrome
+10:41:28:  已翻译
+10:42:13:  文档_NXP - Google Chrome
+10:42:18:  恩智浦半导体| 汽车，安全，物联网 - Google Chrome
+10:42:28:  Software | NXP - Google Chrome
+10:42:43:  软件| 恩智浦 - Google Chrome
+10:44:23:  MCUXpresso SDK | Kinetis，LPC和i.MX MCU的软件开发| 恩智浦 - Google Chrome
+10:44:33:  软件| 恩智浦 - Google Chrome
+10:44:38:  翻译此页？
+10:44:43:  软件| 恩智浦 - Google Chrome
+10:44:23:  MCUXpresso SDK | Kinetis，LPC和i.MX MCU的软件开发| 恩智浦 - Google Chrome
+10:44:33:  软件| 恩智浦 - Google Chrome
+10:44:38:  翻译此页？
+10:44:43:  软件| 恩智浦 - Google Chrome
+10:45:28:  Software | NXP - Google Chrome
+10:45:38:  翻译此页？
+10:45:43:  软件| 恩智浦 - Google Chrome
+10:46:38:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:46:43:  Options for Target 'CashBox_1T2_Debug'
+10:46:48:  软件| 恩智浦 - Google Chrome
+10:47:08:  文档_NXP - Google Chrome
+10:47:13:  202003001I:MKE02/MKE04/MKE06 Datasheet Update - Google Chrome
+10:47:18:  百度一下，你就知道 - Google Chrome
+10:47:23:  https://www.baidu.com/link?url=Sqh4NbJ0xRlOsxWNLlrwVJVszfSLQ9aWw7ZHjDV5W-j2S17WDds2E0dmLbdCGgNeKypmP8gnbQvelxMaWxYIYa&wd=&eqid=bfb869f7000060d500000002601a0eb5 - Google Chrome
+10:47:28:  https://www.nxp.com/webapp/Download?colCode= FRDMKE06DP5004-SW&location=null - Google Chrome
+10:47:33:  软件| 恩智浦 - Google Chrome
+10:47:38:  使用Kinetis开发FRDM-KE06Z入门指南 - Freedom开发板 - 一板网电子技术论坛 - Google Chrome
+10:47:48:  FRDM-KE06Z_Freedom开发平台__Kinetis® MCU_NXP - Google Chrome
+10:48:23:  无标题 - Google Chrome
+10:48:28:  OpenSDA - Google Chrome
+10:48:38:  FRDM-KE06Z_Freedom开发平台__Kinetis® MCU_NXP - Google Chrome
+10:48:43:  无标题 - Google Chrome
+10:48:48:  AN4839.pdf - Google Chrome
+10:49:13:  FRDM-KE06Z_Freedom开发平台__Kinetis® MCU_NXP - Google Chrome
+10:49:48:  AN4839.pdf - Google Chrome
+10:50:14:  FRDM-KE06Z_Freedom开发平台__Kinetis® MCU_NXP - Google Chrome
+10:50:24:  恩智浦 登录或注册 - Google Chrome
+10:50:29:  FRDM-KE06Z_Freedom开发平台__Kinetis® MCU_NXP - Google Chrome
+10:50:54:  恩智浦 登录或注册 - Google Chrome
+10:51:14:  创建一个帐户 - Google Chrome
+10:54:29:  软件| 恩智浦 - Google Chrome
+10:54:34:  FRDM-KE06Z快速入门包(REV 0)_百度搜索 - Google Chrome
+10:54:39:  软件| 恩智浦 - Google Chrome
+10:54:49:  创建一个帐户 - Google Chrome
+10:54:59:  https://www.nxp.com.cn/webapp-signup/registeredSuccess?TARGET=https%3A%2F%2Fwww.nxp.com.cn%2Fsecurity%2Flogin%3FTARGET%3Dhttps%253A%252F%252Fwww.nxp.com.cn%252Fwebapp%252Fsecure%252Flogin.SAMLSecuredController.sp%253Faction%253DforwardToDestination - Google Chrome
+10:55:09:  要保存密码吗？
+10:55:14:  https://www.nxp.com.cn/security/public/login.DefaultController.sp - Google Chrome
+10:56:04:  https://www.nxp.com.cn/webapp/sps/download/license.jsp?colCode=FRDM-KEXX-Driver-Library-Package&appType=file2&DOWNLOAD_ID=null - Google Chrome
+10:56:09:  FRDM-KEXX Driver Library Package - Google Chrome
+10:56:19:  Error - Google Chrome
+10:56:34:  https://www.nxp.com.cn/security/public/login.DefaultController.sp - Google Chrome
+10:56:49:  Adobe Photoshop CS3 Extended
+10:56:54:  https://www.nxp.com.cn/security/public/login.DefaultController.sp - Google Chrome
+10:57:09:  应用程序 - Google Chrome
+10:57:14:  FRDM-KEXX Driver Library Package - Google Chrome
+10:57:34:  锁屏状态
+10:57:44:  win32gui - Everything
+10:57:54:  frdm - Everything
+10:58:14:  FRDM-KE06Z
+10:58:39:  FRDM-KE06Z (未响应)
+10:58:54:  FRDM-KEXX Driver Library Package - Google Chrome
+10:58:59:  FRDM-KE06Z (未响应)
+10:59:09:  FRDM-KEXX Driver Library Package - Google Chrome
+10:59:14:  Blinky
+10:59:19:  RTX_Blinky
+10:59:24:  Subversion
+10:59:29:  正在从 FRDM-KEXX-Driver-Library-Package.zip 中提取
+11:00:04:  Subversion
+10:58:14:  FRDM-KE06Z
+10:58:39:  FRDM-KE06Z (未响应)
+10:58:54:  FRDM-KEXX Driver Library Package - Google Chrome
+10:58:59:  FRDM-KE06Z (未响应)
+10:59:09:  FRDM-KEXX Driver Library Package - Google Chrome
+10:59:14:  Blinky
+10:59:19:  RTX_Blinky
+10:59:24:  Subversion
+10:59:29:  正在从 FRDM-KEXX-Driver-Library-Package.zip 中提取
+11:00:04:  Subversion
+11:08:34:  src
+11:08:39:  KE06
+11:08:44:  ADC_Int_demo
+11:08:54:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\src\projects\KE06\ADC_Int_demo\ADC_Int_demo.c (meger) - Sublime Text (UNREGISTERED)
+11:10:04:  ADC_Int_demo
+11:10:09:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\src\projects\KE06\ADC_Int_demo\isr.h (meger) - Sublime Text (UNREGISTERED)
+11:10:14:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c • (meger) - Sublime Text (UNREGISTERED)
+11:10:24:  ADC_Int_demo
+11:10:29:  KE06
+11:10:34:  src
+11:10:39:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\src\drivers\adc\adc.c (meger) - Sublime Text (UNREGISTERED)
+11:10:54:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c • (meger) - Sublime Text (UNREGISTERED)
+11:10:59:  D:\00-06\meger\Rtos\MQXLITE\MQX1.c (meger) - Sublime Text (UNREGISTERED)
+11:11:04:  adc
+11:11:09:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\src\drivers\adc\adc.c (meger) - Sublime Text (UNREGISTERED)
+11:11:29:  adc
+11:11:34:  adc.c - 记事本
+11:11:44:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+11:13:44:  FRDM-KEXX-Driver-Library-Package
+11:13:49:  keil
+11:13:54:  ke06
+11:13:59:  ADC_Int_demo
+11:14:10:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+11:14:10:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+11:16:00:  μVision
+11:16:05:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+11:16:30:  D:\00-06\meger\Rtos\MQXLITE\MQX1.c (meger) - Sublime Text (UNREGISTERED)
+11:17:15:  ADC_Int_demo
+11:17:20:  build
+11:17:25:  drivers
+11:17:30:  projects
+11:17:35:  KE06
+11:17:40:  readme.txt - 记事本
+11:17:50:  D:\00-06\meger\Rtos\MQXLITE\MQX1.c (meger) - Sublime Text (UNREGISTERED)
+11:18:10:  meger
+11:18:15:  isr - meger
+11:18:20:  D:\00-06\meger\Rtos\MQXLITE\MQX1.c (meger) - Sublime Text (UNREGISTERED)
+11:18:30:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+11:18:45:  D:\00-06\meger\Rtos\MQXLITE\MQX1.c (meger) - Sublime Text (UNREGISTERED)
+11:19:00:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+11:19:05:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+11:19:10:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+11:19:15:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+11:19:25:  D:\00-06\meger\Drivers\PeripheralDriver\IrqDriver\IrqDriver.c (meger) - Sublime Text (UNREGISTERED)
+11:19:35:  D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)
+11:19:50:  D:\00-06\meger\Drivers\PeripheralDriver\IrqDriver\IrqDriver.c (meger) - Sublime Text (UNREGISTERED)
+11:20:05:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+11:20:10:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c • (meger) - Sublime Text (UNREGISTERED)
+11:20:15:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+11:20:30:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c • (meger) - Sublime Text (UNREGISTERED)
+11:20:55:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+11:21:10:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c • (meger) - Sublime Text (UNREGISTERED)
+11:21:25:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+11:23:40:  μVision
+11:23:45:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+11:23:50:  FRDM-KEXX Driver Library Package - Google Chrome
+11:24:00:  文档_NXP - Google Chrome
+11:24:05:  百度一下，你就知道 - Google Chrome
+11:24:20:  耳膜鼓起来_百度搜索 - Google Chrome
+11:24:25:  耳膜鼓起来了怎么恢复_百度搜索 - Google Chrome
+11:24:40:  耳膜鼓起来了怎么恢复_有问必答_快速问医生 - Google Chrome
+11:25:00:  耳膜鼓起来了怎么恢复_百度搜索 - Google Chrome
+11:25:20:  耳膜像鼓起来了，怎样恢复原位？_寻医问药网_xywy.com - Google Chrome
+11:25:25:  耳膜鼓起来了怎么恢复_百度搜索 - Google Chrome
+11:25:35:  一个耳膜往外鼓怎么恢复_百度搜索 - Google Chrome
+11:25:55:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+11:27:50:  JLink - Cortex-M Error
+11:27:55:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+11:30:40:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+11:30:50:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+11:32:50:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+11:32:55:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+11:36:15:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+11:36:45:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+11:37:25:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+11:37:50:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+11:38:00:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+11:38:10:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+11:38:15:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+11:38:40:  Toolbox
+11:38:45:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+11:39:50:  eSpace
+11:40:10:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+11:40:25:  锁屏状态
+13:17:47:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:24:17:  固件设计中心
+13:25:12:  新标签页 - Google Chrome
+13:25:27:  百度一下，你就知道 - Google Chrome
+13:25:32:  百度贴吧_IOS14.5 - Google Chrome
+13:26:07:  【21-02-02】已更ios14.5，有啥想问的，想试的可以来_ios14吧_百度贴吧 - Google Chrome
+13:27:57:  固件设计中心
+13:28:02:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:31:12:  Home - NXP Community - Google Chrome
+13:31:17:  meger
+13:31:22:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+13:32:42:  Options for Target 'KE06Z-Flash'
+13:32:47:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+13:33:07:  Options for Target 'KE06Z-Flash'
+13:33:12:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+13:35:17:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:35:52:  00-06
+13:35:57:  SECSplashWnd
+13:36:02:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+13:36:27:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:37:57:  Toolbox
+13:38:02:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:38:47:  meger
+13:38:52:  D:\00-06\meger - 工作副本 - TortoiseSVN
+13:38:57:  PaperManage.c - TortoiseMerge
+13:39:02:  adc.c - TortoiseMerge
+13:41:27:  meger
+13:41:32:  D:\00-06\meger - 工作副本 - TortoiseSVN
+13:41:37:  PrintService.c - TortoiseMerge
+13:41:42:  D:\00-06\meger - 工作副本 - TortoiseSVN
+13:42:07:  adc.c - TortoiseMerge
+13:42:12:  D:\00-06\meger - 工作副本 - TortoiseSVN
+13:42:17:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:45:17:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+13:45:22:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:45:32:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+13:45:42:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:49:42:  吉哲
+13:50:02:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:50:42:  吉哲
+13:53:37:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:56:13:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+13:56:18:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+13:56:28:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:56:53:  吉哲
+13:57:03:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:57:43:  吉哲
+13:57:48:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:59:03:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+13:59:08:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c • (meger) - Sublime Text (UNREGISTERED)
+13:59:18:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+13:59:33:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:59:58:  Toolbox
+14:00:03:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:59:03:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+13:59:08:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c • (meger) - Sublime Text (UNREGISTERED)
+13:59:18:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+13:59:33:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:59:58:  Toolbox
+14:00:03:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:00:33:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:00:38:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:00:58:  eSpace
+14:01:03:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:01:43:  于斌1
+14:01:58:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:02:28:  于斌1
+14:02:33:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:02:53:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+14:03:53:  高逸
+14:04:03:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+14:04:38:  高逸
+14:04:43:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+14:06:08:  eSpace
+14:06:13:  高逸
+14:06:18:  于斌1
+14:06:43:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+14:07:43:  于斌1
+14:07:48:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+14:08:08:  于斌1
+14:08:13:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+14:08:18:  于斌1
+14:08:28:  固件设计中心
+14:08:38:  于斌1
+14:08:43:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+14:08:53:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:09:43:  于斌1
+14:09:53:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:10:43:  高逸
+14:10:58:  eSpace
+14:11:03:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:11:23:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:11:33:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:14:18:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:14:23:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:14:33:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:14:43:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:14:58:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:14:18:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:14:23:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:14:33:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:14:43:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:14:58:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:15:23:  Toolbox
+14:15:28:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:15:58:  D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)
+14:16:08:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:16:18:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:16:23:  D:\00-06\meger\Drivers\PeripheralDriver\CanDriver\CanDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:16:33:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:16:43:  D:\00-06\meger\Drivers\PeripheralDriver\CanDriver\CanDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:16:48:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:16:53:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:17:13:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:17:18:  D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)
+14:17:43:  于斌1
+14:17:53:  D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)
+14:18:23:  于斌1
+14:20:23:  D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)
+14:20:33:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:21:03:  D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)
+14:21:18:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:21:28:  D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)
+14:21:43:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:21:48:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:21:53:  D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)
+14:21:58:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:22:03:  D:\00-06\meger\Rtos\OSLib.c (meger) - Sublime Text (UNREGISTERED)
+14:22:13:  D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)
+14:22:18:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:22:23:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:22:28:  D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)
+14:22:38:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:22:43:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+14:22:53:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:23:03:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+14:23:33:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:23:38:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:23:48:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+14:24:23:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:24:28:  D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)
+14:24:33:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:24:43:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+14:24:48:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:24:53:  D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)
+14:25:08:  D:\00-06\meger\Drivers\PeripheralDriver\CanDriver\CanDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:25:28:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+14:26:08:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:26:13:  D:\00-06\meger\Drivers\PeripheralDriver\CanDriver\CanDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:26:18:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:26:43:  D:\00-06\meger\Drivers\PeripheralDriver\CanDriver\CanDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:26:48:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:26:53:  D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)
+14:26:58:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:27:03:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:27:08:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+14:27:18:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:27:28:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:27:33:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:28:08:  锁屏状态
+14:28:13:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:28:33:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:28:48:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:28:58:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:29:03:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:29:08:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:29:18:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:29:38:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+14:29:58:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:30:03:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+14:28:08:  锁屏状态
+14:28:13:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:28:33:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:28:48:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:28:58:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:29:03:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:29:08:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:29:18:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:29:38:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+14:29:58:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:30:03:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+14:30:28:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:30:33:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c • (meger) - Sublime Text (UNREGISTERED)
+14:30:38:  D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)
+14:30:48:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c • (meger) - Sublime Text (UNREGISTERED)
+14:31:13:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:31:33:  μVision
+14:31:38:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:37:13:  自动播放
+14:37:18:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:37:43:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:37:48:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\common\Core\m0\Nvic.h (meger) - Sublime Text (UNREGISTERED)
+14:37:53:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:38:03:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:42:04:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:42:14:  D:\00-06\meger\Middlewares\Sensor\Sensor.c (meger) - Sublime Text (UNREGISTERED)
+14:42:19:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:42:24:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:45:14:  锁屏状态
+14:45:29:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:45:34:  《新北洋人》3月刊征稿通知 (未响应)
+14:45:39:  《新北洋人》3月刊征稿通知
+14:45:44:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+14:45:49:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:45:59:  自动播放
+14:47:14:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.h (meger) - Sublime Text (UNREGISTERED)
+14:47:24:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.h • (meger) - Sublime Text (UNREGISTERED)
+14:47:29:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.h (meger) - Sublime Text (UNREGISTERED)
+14:47:39:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.h • (meger) - Sublime Text (UNREGISTERED)
+14:47:54:  D:\00-06\meger\Middlewares\Sensor\Sensor.c (meger) - Sublime Text (UNREGISTERED)
+14:48:04:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:48:09:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.h • (meger) - Sublime Text (UNREGISTERED)
+14:48:14:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:48:44:  D:\00-06\meger\Middlewares\Sensor\Sensor.c (meger) - Sublime Text (UNREGISTERED)
+14:48:59:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:49:44:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+14:50:04:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:50:09:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+14:50:14:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:50:24:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+14:50:29:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:50:39:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+14:50:59:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:51:04:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+14:51:14:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:55:34:  meger
+14:55:39:  00-06
+14:55:44:  DRB
+14:55:54:  还原
+14:55:59:  DRB
+14:56:09:  00-06
+14:56:14:  meger
+14:56:19:  确认文件夹替换
+14:56:24:  正在复制 917 个项目(78.5 MB)
+14:56:39:  DRB
+14:56:59:  工作副本
+14:57:04:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+14:57:49:  Initial.c - TortoiseMerge
+14:57:59:  PaperManage.c - TortoiseMerge
+14:58:04:  PaperManage.h - TortoiseMerge
+14:58:09:  文件补丁  
+14:58:14:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:58:09:  文件补丁  
+14:58:14:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:00:54:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+15:00:59:  UpperPlateCtrl.c - TortoiseMerge
+15:04:04:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+15:04:09:  Track.c - TortoiseMerge
+15:04:19:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:05:09:  AdcDriver.c - TortoiseMerge
+15:05:24:  TortoiseMerge
+15:05:29:  adc.c - TortoiseMerge
+15:05:34:  PublicDriver.c - TortoiseMerge
+15:05:39:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+15:05:44:  PublicDriver.c - TortoiseMerge
+15:05:49:  文件补丁  
+15:05:54:  SensorDriver.c - TortoiseMerge
+15:06:19:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+15:09:24:  LowerPlate.c - TortoiseMerge
+15:10:19:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+15:10:24:  SensorDriver.c - TortoiseMerge
+15:10:44:  LowerPlate.c - TortoiseMerge
+15:10:54:  文件补丁  
+15:10:59:  PressurePlate.c - TortoiseMerge
+15:11:19:  PressurePlate.h - TortoiseMerge
+15:11:24:  UpperPlate.c - TortoiseMerge
+15:12:59:  UpperPlate.h - TortoiseMerge
+15:13:04:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+15:13:09:  Sensor.c - TortoiseMerge
+15:13:39:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+15:13:54:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:13:59:  00-06
+15:14:04:  Project
+15:14:09:  μVision
+15:14:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:14:09:  μVision
+15:14:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:15:39:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:15:59:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+15:16:39:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c • (meger) - Sublime Text (UNREGISTERED)
+15:17:39:  Project
+15:17:44:  SECSplashWnd
+15:17:54:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:18:59:  工作副本
+15:19:09:  μVision
+15:19:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:20:04:  DRB
+15:20:09:  PaperManage.c - TortoiseMerge
+15:20:14:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+15:20:19:  AdcDriver.c - TortoiseMerge
+15:20:34:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+15:20:44:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:20:49:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:20:59:  Subversion
+15:21:04:  本地磁盘 (F:)
+15:21:14:  钞箱资料
+15:21:29:  frdm - Everything
+15:21:34:  例程 - Everything
+15:21:54:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:23:44:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+15:24:19:  寻找物料
+15:24:29:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+15:24:34:  新北洋OA信息化平台 - Internet Explorer
+15:24:49:  跳转列表
+15:24:54:  新北洋OA信息化平台 - Internet Explorer
+15:24:59:  存储为
+15:25:14:  Adobe Photoshop CS3 Extended
+15:25:31:  空白页 - Internet Explorer
+15:25:36:  Oracle | PeopleSoft Enterprise 登录 - Internet Explorer
+15:25:41:  我的薪酬 - Internet Explorer
+15:25:46:  新北洋OA信息化平台 - Internet Explorer
+15:25:51:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+15:26:41:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+15:27:11:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+15:27:26:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:27:31:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:27:36:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+15:28:06:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:28:06:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:30:17:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+15:30:22:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageOut.c (gfgd) - Sublime Text (UNREGISTERED)
+15:30:27:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.h (gfgd) - Sublime Text (UNREGISTERED)
+15:30:47:  于斌1
+15:30:52:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageOut.c (gfgd) - Sublime Text (UNREGISTERED)
+15:31:07:  于斌1
+15:31:27:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageOut.c (gfgd) - Sublime Text (UNREGISTERED)
+15:31:37:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:31:42:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.h (meger) - Sublime Text (UNREGISTERED)
+15:31:47:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:32:42:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.h (meger) - Sublime Text (UNREGISTERED)
+15:32:47:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:32:52:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+15:33:02:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:33:07:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:33:22:  于斌1
+15:33:42:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageOut.c (gfgd) - Sublime Text (UNREGISTERED)
+15:33:52:  锁屏状态
+15:33:57:  于斌1
+15:34:02:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageOut.c (gfgd) - Sublime Text (UNREGISTERED)
+15:34:07:  于斌1
+15:34:32:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageOut.c (gfgd) - Sublime Text (UNREGISTERED)
+15:34:42:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:36:22:  于斌1
+15:36:47:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:38:17:  于斌1
+15:38:22:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:38:27:  于斌1
+15:38:32:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:39:37:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+15:40:02:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:40:07:  FRDM-KEXX-Driver-Library-Package
+15:40:12:  projects
+15:40:17:  KE06
+15:40:22:  打开方式
+15:40:27:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\src\projects\KE06\ADC_Poll_demo\ADC_Poll_demo.c (gfgd) - Sublime Text (UNREGISTERED)
+15:40:32:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageOut.c (gfgd) - Sublime Text (UNREGISTERED)
+15:40:37:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:42:57:  于斌1
+15:43:27:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:46:37:  于斌1
+15:46:42:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:46:47:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:46:52:  于斌1
+15:46:57:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:47:02:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:48:02:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+15:48:07:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:48:17:  C:\Users\zhangkaifa\Downloads\FRDM-KEXX-Driver-Library-Package\ke_drv_lib\build\keil\ke06\ADC_Int_demo\ADC_Int_demo.uvprojx - μVision
+15:48:32:  锁屏状态
+15:48:37:  于斌1
+15:49:07:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:55:27:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+15:55:32:  μVision
+15:55:37:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:56:17:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+15:56:22:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:58:42:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+15:58:57:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:58:42:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+15:58:57:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:00:32:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:00:57:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.h (meger) - Sublime Text (UNREGISTERED)
+16:01:02:  D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)
+16:01:07:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+16:01:52:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:02:27:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+16:02:42:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:04:57:  锁屏状态
+16:05:02:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+16:05:17:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:08:52:  于斌1
+16:09:02:  锁屏状态
+16:09:07:  于斌1
+16:09:32:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:11:07:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:11:12:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:11:17:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+16:11:22:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:17:02:  Options for Target 'CashBox_1T2_Debug'
+16:17:07:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:18:17:  Options for Target 'CashBox_1T2_Debug'
+16:18:22:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:20:53:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:20:58:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+16:21:08:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:21:33:  Toolbox
+16:21:38:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:21:58:  Options for Target 'CashBox_1T2_Debug'
+16:22:03:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:23:18:  接收
+16:23:23:  00-06
+16:23:28:  meger
+16:23:33:  D:\00-06\meger - 工作副本 - TortoiseSVN
+16:23:43:  Project
+16:23:58:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:27:58:  Toolbox
+16:28:03:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:31:03:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:31:08:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:31:13:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:31:18:  D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)
+16:31:28:  D:\00-06\meger\Drivers\PeripheralDriver\AdcDriver\AdcDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:31:33:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:31:58:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:33:58:  ADC_Poll_demo
+16:34:03:  DRB
+16:34:08:  锁屏状态
+16:34:13:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:36:18:  Project
+16:36:23:  BOOT
+16:36:28:  锁屏状态
+16:36:33:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+16:36:38:  μVision
+16:36:43:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:38:03:  Toolbox
+16:38:08:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:41:08:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision (未响应)
+16:41:13:  锁屏状态
+16:41:18:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:43:18:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:48:18:  【通知】工具柜蓝牙无法连接时开启定位
+16:48:23:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:48:53:  ADC_Poll_demo
+16:48:58:  meger
+16:49:03:  D:\00-06\meger - 工作副本 - TortoiseSVN
+16:49:08:  adc.c - TortoiseMerge
+16:49:18:  D:\00-06\meger - 工作副本 - TortoiseSVN
+16:49:33:  SensorDriver.c - TortoiseMerge
+16:49:53:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:51:09:  D:\00-06\meger - 工作副本 - TortoiseSVN
+16:51:19:  PrintService.c - TortoiseMerge
+16:51:24:  D:\00-06\meger - 工作副本 - TortoiseSVN
+16:51:29:  00-06
+16:51:34:  meger
+16:51:44:  确认文件夹替换
+16:51:49:  正在复制 917 个项目(78.2 MB)
+16:51:59:  μVision
+16:52:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:54:29:  锁屏状态
+16:54:49:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:54:59:  DRB
+16:55:04:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:55:09:  DRB
+16:55:14:  D:\00-06\DRB - 还原 - TortoiseSVN
+16:55:19:  DRB
+16:55:24:  锁屏状态
+16:55:29:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:55:34:  μVision
+16:55:39:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:56:29:  Project
+16:57:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:57:59:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:59:04:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:59:14:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:59:19:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:59:54:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:59:04:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:59:14:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:59:19:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:59:54:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+17:00:09:  μVision
+17:00:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+17:00:24:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+17:02:09:  Toolbox
+17:02:14:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+17:04:29:  锁屏状态

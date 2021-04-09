@@ -1,0 +1,1039 @@
+08:08:20:  荆文波
+08:10:15:  新结构DRB钞箱测试~06.22
+08:10:50:  新结构DRB钞箱测试
+08:11:00:  DRB-200120600008
+08:11:05:  新结构DRB钞箱测试~06.22
+08:11:10:  DRB测试缺陷.xlsx
+08:11:15:  DRB测试缺陷(1).xlsx  [只读] - Excel
+08:13:15:  K64_0000_20200622160003
+08:13:20:  文档
+08:13:25:  TheActtionRec
+08:13:30:  W
+08:13:35:  2020-06-22.txt - 记事本
+08:16:35:  W
+08:16:40:  DRB测试缺陷(1).xlsx  [只读] - Excel
+08:19:25:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+08:25:45:  荆文波
+08:26:00:  ID-6 8#样机取款过程中出现异常噪音
+08:26:10:  ID-6
+08:26:15:  ID-6 8#样机取款过程中出现异常噪音
+08:26:20:  Decode
+08:26:30:  K64_BTCR-1100190803000001_20200620082844
+08:26:35:  Box_2__BTCR-1100190803000001_20200620082844.log - DRB.tat* - TextAnalysisTool.NET
+08:38:36:  于斌1
+08:38:41:  eSpace
+08:38:46:  荆文波
+08:39:46:  Box_2__BTCR-1100190803000001_20200620082844.log - DRB.tat* - TextAnalysisTool.NET
+08:40:56:  荆文波
+08:41:26:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:41:31:  荆文波
+08:41:36:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:41:41:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:41:51:  D:\00-06\DRB-PRESS\Middlewares\Plate\PlateCommon.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:41:56:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:42:11:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:42:21:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:43:31:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+08:47:56:  荆文波
+08:48:01:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+08:49:46:  符号
+08:50:16:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+08:52:46:  D:\00-18\CRS\Applications\InstrExp\InstrExe.c (CRS) - Sublime Text (UNREGISTERED)
+08:52:56:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+08:53:01:  D:\00-18\CRS\Middlewares\Component\Component.h (CRS) - Sublime Text (UNREGISTERED)
+08:53:06:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+08:53:46:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+08:54:01:  「开始」菜单
+08:54:26:  DRB测试缺陷记录综合分析（评审用）20200622.xlsx
+08:54:41:  Microsoft Visio
+08:54:46:  绘图1 - Microsoft Visio
+08:55:01:  绘图2 - Microsoft Visio
+08:55:11:  绘图3 - Microsoft Visio
+08:55:26:  跳转列表
+08:55:31:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+08:57:41:  绘图3 - Microsoft Visio
+08:57:56:  绘图4 - Microsoft Visio
+08:58:06:  Microsoft Visio
+08:58:11:  绘图3 - Microsoft Visio
+08:58:06:  Microsoft Visio
+08:58:11:  绘图3 - Microsoft Visio
+11:43:08:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+11:43:18:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:43:23:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:43:28:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:43:53:  正在打开 - Excel
+11:43:58:  压板测试.xlsx - Excel
+11:44:13:  绘图3 - Microsoft Visio
+11:44:33:  桌面整理
+11:44:13:  绘图3 - Microsoft Visio
+11:44:33:  桌面整理
+11:45:23:  锁屏状态
+13:17:20:  桌面整理
+13:20:05:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+13:20:10:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:20:25:  D:\00-06\DRB-PRESS\Middlewares\Plate\PlateCommon.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:20:30:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:20:45:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:20:50:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:20:55:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:21:25:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:21:30:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:21:35:  D:\00-06\DRB-PRESS\Middlewares\Plate\PlateCommon.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:21:45:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:22:00:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:22:25:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:23:45:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:23:50:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:23:55:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:24:00:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:24:15:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:24:20:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:24:25:  D:\00-06\DRB-PRESS\Middlewares\Plate\PlateCommon.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:24:30:  D:\00-06\DRB-PRESS\Middlewares\Plate\PlateCommon.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:24:35:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:24:45:  D:\00-06\DRB-PRESS\Middlewares\Plate\PlateCommon.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:24:50:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotor.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:25:00:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:25:05:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:25:15:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:25:40:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:25:45:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:25:50:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:26:15:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:26:20:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:26:30:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:26:35:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:26:40:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:27:05:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:27:15:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:27:25:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:27:30:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:00:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:25:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:30:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:35:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:40:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:45:  D:\00-06\DRB-PRESS\Middlewares\Plate\PlateCommon.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:50:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:55:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:30:00:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:25:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:30:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:35:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:40:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:45:  D:\00-06\DRB-PRESS\Middlewares\Plate\PlateCommon.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:50:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:55:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:30:00:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:30:50:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:32:35:  正在打开 - Excel
+13:32:40:  测试压板数据.xls  [兼容模式] - Excel
+13:34:05:  K64_BTCR-1100190803000001_20200620082844
+13:34:10:  本地磁盘 (D:)
+13:34:20:  压钞托板测试
+13:34:40:  20200618
+13:34:45:  Decode
+13:34:50:  LOG
+13:35:00:  K64_BTCR-1100190803000001_20200618185622
+13:35:05:  K64_BTCR-1100190803000001_20200618185622 (未响应)
+13:35:25:  K64_BTCR-1100190803000001_20200618185622
+13:35:30:  Box_2__BTCR-1100190803000001_20200618185622.log - DRB.tat* - TextAnalysisTool.NET
+13:37:35:  Add Filter
+13:37:40:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:37:50:  Box_2__BTCR-1100190803000001_20200618185622.log - DRB.tat* - TextAnalysisTool.NET
+13:38:25:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:38:40:  Box_2__BTCR-1100190803000001_20200618185622.log - DRB.tat* - TextAnalysisTool.NET
+13:39:10:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:39:30:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:39:35:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:39:45:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:39:50:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:40:40:  测试压板数据.xls  [兼容模式] - Excel
+13:40:50:  Box_2__BTCR-1100190803000001_20200618185622.log - DRB.tat* - TextAnalysisTool.NET
+13:41:10:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:42:20:  Box_2__BTCR-1100190803000001_20200618185622.log - DRB.tat* - TextAnalysisTool.NET
+13:42:45:  于斌1
+13:42:55:  Box_2__BTCR-1100190803000001_20200618185622.log - DRB.tat* - TextAnalysisTool.NET
+13:45:25:  eSpace
+13:45:30:  于斌1
+13:45:35:  eSpace
+13:46:20:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:47:15:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:47:20:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:47:30:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:47:35:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:48:00:  iTunes
+13:48:05:  自动播放
+13:48:15:  百度一下，你就知道 - Google Chrome
+13:48:25:  带符号_百度搜索 - Google Chrome
+13:48:40:  带符号的16位数 最大值_百度搜索 - Google Chrome
+13:48:56:  计算器
+13:49:26:  新建文本文档.exe - 快捷方式
+13:49:31:  带符号的16位数 最大值_百度搜索 - Google Chrome
+13:49:36:  计算器
+13:50:21:  eSpace
+13:50:26:  于斌1
+13:50:41:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:51:06:  于斌1
+13:51:21:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:52:06:  D:\00-06\DRB-PRESS\FwLib\StdSnbc\StdMacro.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:52:21:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:52:37:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:52:52:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:53:07:  带符号的16位数 最大值_百度搜索 - Google Chrome
+13:53:17:  新建文本文档.exe - 快捷方式
+13:53:27:  https://www.baidu.com/link?url=Sh-FADqE2tK-nQD8dUDkiXHrKH9A0raL7nv_6MfxXxch_BZYVzp7Sk9oCMzmxF9MgNWEN_xPZeQ7ok1mr1Z13_&wd=&eqid=fb92eec500033d42000000025ef198d2 - Google Chrome
+13:53:32:  %d,%c,%s,%x各代表什么_百度知道 - Google Chrome
+13:53:42:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:54:27:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:54:42:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:55:02:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:55:12:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:55:17:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:55:47:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:55:52:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:55:57:  D:\00-06\DRB-PRESS\FwLib\StdSnbc\StdMacro.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:57:12:  %d,%c,%s,%x各代表什么_百度知道 - Google Chrome
+13:57:17:  %d %s_百度搜索 - Google Chrome
+13:57:22:  C语言 绝对值_百度搜索 - Google Chrome
+13:57:27:  C语言abs()函数：求整数的绝对值 - Google Chrome
+13:57:37:  D:\00-06\DRB-PRESS\FwLib\StdSnbc\StdMacro.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:57:52:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:58:02:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:58:07:  D:\00-06\DRB-PRESS\Applications\Track\Track.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:58:17:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:58:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:59:12:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:59:22:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:59:37:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:59:42:  D:\00-06\DRB-PRESS\Applications\Track\Track.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:59:47:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:58:07:  D:\00-06\DRB-PRESS\Applications\Track\Track.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:58:17:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:58:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:59:12:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:59:22:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:59:37:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:59:42:  D:\00-06\DRB-PRESS\Applications\Track\Track.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:59:47:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:00:07:  D:\00-06\DRB-PRESS\Applications\Track\Track.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:00:17:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:00:42:  D:\00-06\DRB-PRESS\Applications\Track\Track.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:00:47:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:01:12:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:01:52:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:02:07:  D:\00-06\DRB-PRESS\FwLib\OpticalSensor\OpticalSensor.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:02:12:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:02:17:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotorConfig.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:02:22:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:04:07:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:04:22:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:04:32:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:04:37:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:04:42:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:05:02:  Box_2__BTCR-1100190803000001_20200618185622.log - DRB.tat* - TextAnalysisTool.NET
+14:05:17:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:05:22:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:07:23:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:07:43:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:07:48:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:08:08:  Box_2__BTCR-1100190803000001_20200618185622.log - DRB.tat* - TextAnalysisTool.NET
+14:08:18:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:08:33:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:10:43:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:10:48:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:10:53:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:10:58:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:11:13:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:11:23:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:11:33:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:11:38:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:11:58:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:12:03:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:12:18:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:12:33:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:12:38:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:13:28:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:13:43:  网易有道词典
+14:13:53:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:13:58:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:08:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:18:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:23:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:28:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:43:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:15:03:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:08:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:18:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:23:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:28:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:43:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:15:03:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:15:28:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:15:38:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:15:43:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:15:48:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:15:53:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:15:58:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:16:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:17:33:  00-06
+14:17:38:  D:\00-06\DRB-PRESS - 日志信息 - TortoiseSVN
+14:17:58:  DRB-PRESS
+14:18:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:20:43:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+14:20:53:  TCR调测工具 V3.36
+14:20:58:  打开
+14:21:03:  TCR调测工具 V3.36
+14:21:08:  BTCRTestTool
+14:21:13:  TCR调测工具 V3.36
+14:21:33:  钞箱配置
+14:21:38:  TCR调测工具 V3.36
+14:21:43:  钞箱配置
+14:21:48:  TCR调测工具 V3.36
+14:22:48:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:23:18:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:23:23:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:23:28:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:23:38:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.h • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:23:43:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:24:08:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:24:18:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+14:24:23:  打开
+14:24:28:  TCR调测工具 V3.36
+14:25:23:  取款
+14:25:28:  TCR调测工具 V3.36
+14:25:43:  K64_BTCR-1100190803000001_20200618185622
+14:25:48:  BTCRTestTool 属性
+14:25:53:  TCRControlCmdDLL
+14:26:38:  20200623
+14:26:43:  Decode
+14:26:48:  Box_1__0000_20200623142526.log - DRB.tat* - TextAnalysisTool.NET
+14:27:28:  网易有道词典
+14:27:33:  Box_1__0000_20200623142526.log - DRB.tat* - TextAnalysisTool.NET
+14:27:38:  要离线?
+14:27:43:  跳转列表
+14:27:48:  Box_1__0000_20200623142526.log - DRB.tat* - TextAnalysisTool.NET
+14:29:48:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:29:53:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:29:48:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:29:53:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:30:23:  Box_1__0000_20200623142526.log - DRB.tat* - TextAnalysisTool.NET
+14:30:33:  TCR调测工具 V3.36
+14:30:48:  K64_0000_20200623142526
+14:30:53:  TCR调测工具 V3.36
+14:30:58:  K64_0000_20200623142526
+14:31:03:  20200623
+14:31:08:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:31:13:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:31:28:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:31:33:  20200623
+14:31:38:  Decode
+14:31:43:  Box_1__0000_20200623143033.log - DRB.tat* - TextAnalysisTool.NET
+14:32:08:  TCR调测工具 V3.36
+14:32:13:  Box_1__0000_20200623143033.log - DRB.tat* - TextAnalysisTool.NET
+14:32:23:  TCR调测工具 V3.36
+14:32:28:  20200623
+14:34:03:  TCR调测工具 V3.36
+14:34:58:  取款
+14:35:03:  TCR调测工具 V3.36
+14:35:38:  托板控制
+14:36:43:  TCR调测工具 V3.36
+14:37:18:  钞箱配置
+14:37:28:  取款
+14:37:33:  TCR调测工具 V3.36
+14:37:48:  20200623
+14:38:23:  Decode
+14:38:28:  Box_1__0000_20200623143731.log - DRB.tat* - TextAnalysisTool.NET
+14:39:03:  本地磁盘 (D:)
+14:39:08:  新建文件夹
+14:39:13:  LOG
+14:39:23:  桌面整理
+14:39:28:  LOG
+14:39:33:  0-测试-DRB
+14:39:48:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:40:48:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:41:03:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:41:08:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:41:18:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:41:23:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:41:28:  20200618
+14:41:33:  0-测试-DRB
+14:41:38:  LOG
+14:41:48:  Decode
+14:41:53:  D:\压钞托板测试\0-测试-DRB\20200620\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:41:58:  0-测试-DRB
+14:42:03:  20200620
+14:42:08:  CashboxDatePur - Everything
+14:42:18:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:42:23:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:42:28:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:42:38:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:42:43:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:42:48:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:42:58:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:43:08:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:43:13:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:43:18:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:43:38:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:43:43:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:43:48:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:44:03:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:44:13:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:44:43:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:44:13:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:44:43:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:45:13:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:45:23:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:45:28:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:45:33:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:45:58:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:46:13:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:46:53:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:46:58:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:47:13:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:47:18:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:47:38:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:47:53:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:48:18:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:48:23:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:48:28:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:48:33:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:48:43:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:48:53:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:49:18:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:49:28:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:49:48:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:49:58:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:50:08:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:50:23:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:50:28:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:50:38:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:50:43:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:50:58:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:51:13:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:51:39:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:51:44:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:51:54:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:51:59:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:52:34:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:52:39:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:52:54:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:53:14:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:53:19:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:53:34:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:53:44:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:53:49:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:54:29:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:54:34:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:54:44:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:54:49:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:55:09:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:55:14:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:55:24:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:55:39:  于斌1
+14:55:44:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:56:09:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:56:24:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:56:29:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:56:49:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:56:59:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:57:09:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:57:14:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:57:44:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:01:24:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:01:29:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:01:49:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:01:54:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:02:24:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:02:54:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:02:59:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:03:04:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:03:09:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:03:14:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:03:24:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:03:39:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:04:29:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:04:34:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:05:14:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:05:19:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:05:24:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:05:59:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:06:09:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:06:39:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:06:54:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:07:19:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:07:24:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:08:34:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:08:39:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:08:44:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:08:49:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:09:39:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:10:09:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:10:14:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:10:19:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:11:04:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:11:09:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:11:24:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:11:54:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:12:04:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:12:09:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:12:34:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:12:39:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:12:44:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:12:59:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:13:04:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:13:49:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:14:24:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:14:29:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:14:54:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:14:24:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:14:29:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:14:54:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:15:29:  姚世龙
+15:16:29:  00-06
+15:16:39:  姚世龙
+15:16:54:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:16:59:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:17:09:  姚世龙
+15:17:14:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:17:29:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:17:34:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:17:49:  姚世龙
+15:18:59:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:19:04:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:19:24:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:19:49:  姚世龙
+15:20:04:  输出日志
+15:20:14:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:20:19:  输出日志
+15:20:24:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:20:29:  输出日志
+15:20:34:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:21:04:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:21:09:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:21:54:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:21:59:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:22:14:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:22:19:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:22:44:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:22:54:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:23:14:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:23:24:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:23:34:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:23:44:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:24:29:  00-06
+15:24:34:  锁屏状态
+15:25:04:  DRB-200120600008
+15:25:09:  ID-5-② 50元上腔普通取款295张报钞箱口 500ms纸币未进入 返回码0X075E0900
+15:25:14:  Decode
+15:25:19:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+15:25:39:  K64_BTCR-1100190803000001_20200620095151
+15:25:49:  K64-_BTCR-1100190803000001_20200620095151 - 写邮件
+15:25:59:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:26:34:  姚世龙
+15:27:14:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:27:19:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:28:24:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:28:29:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:28:54:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:29:14:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:29:54:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:29:59:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:28:24:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:28:29:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:28:54:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:29:14:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:29:54:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:29:59:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:30:14:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:30:19:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:30:44:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:30:49:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:31:09:  Decode
+15:31:19:  输出日志
+15:31:24:  change.py - D:\00-06\change.py (3.7.3)
+15:31:29:  *change.py - D:\00-06\change.py (3.7.3)*
+15:31:39:  Python 3.7.3 Shell
+15:31:44:  *change.py - D:\00-06\change.py (3.7.3)*
+15:31:54:  Python 3.7.3 Shell
+15:32:04:  change.py - D:\00-06\change.py (3.7.3)
+15:32:14:  00-06
+15:32:19:  change.py - D:\00-06\change.py (3.7.3)
+15:32:24:  00-06
+15:32:29:  姚世龙
+15:32:44:  C语言 绝对值_百度搜索 - Google Chrome
+15:32:54:  姚世龙
+15:33:09:  python 转为二进制tetx_百度搜索 - Google Chrome
+15:33:14:  python 读取二进制_百度搜索 - Google Chrome
+15:33:19:  姚世龙
+15:33:24:  Save Before Run or Check
+15:33:29:  Python 3.7.3 Shell
+15:33:34:  Save Before Run or Check
+15:33:39:  Python 3.7.3 Shell
+15:33:44:  姚世龙
+15:34:04:  change.py - D:\00-06\change.py (3.7.3)
+15:34:14:  *change.py - D:\00-06\change.py (3.7.3)*
+15:34:24:  change.py - D:\00-06\change.py (3.7.3)
+15:34:29:  Python 3.7.3 Shell
+15:34:39:  change.py - D:\00-06\change.py (3.7.3)
+15:34:44:  *change.py - D:\00-06\change.py (3.7.3)*
+15:35:14:  change.py - D:\00-06\change.py (3.7.3)
+15:35:29:  *change.py - D:\00-06\change.py (3.7.3)*
+15:35:39:  Python 3.7.3 Shell
+15:35:49:  change.py - D:\00-06\change.py (3.7.3)
+15:35:59:  姚世龙
+15:36:14:  LOG
+15:36:19:  锁屏状态
+15:36:24:  00-06
+15:36:34:  Typora
+15:36:39:  Python 3.7.3 Shell
+15:36:44:  姚世龙
+15:36:49:  change.py - D:\00-06\change.py (3.7.3)
+15:37:14:  Python 3.7.3 Shell
+15:37:19:  *change.py - D:\00-06\change.py (3.7.3)*
+15:37:39:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:37:49:  change.py - D:\00-06\change.py (3.7.3)
+15:37:54:  *change.py - D:\00-06\change.py (3.7.3)*
+15:37:59:  change.py - D:\00-06\change.py (3.7.3)
+15:38:14:  *change.py - D:\00-06\change.py (3.7.3)*
+15:38:24:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:38:34:  00-06
+15:38:39:  change.py - D:\00-06\change.py (3.7.3)
+15:43:24:  00-06
+15:43:29:  于斌1
+15:43:34:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+15:45:39:  Python 3.7.3 Shell
+15:48:14:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+15:56:54:  00-06
+15:56:59:  change.py - D:\00-06\change.py (3.7.3)
+15:57:14:  Python 3.7.3 Shell
+15:57:24:  *change.py - D:\00-06\change.py (3.7.3)*
+15:57:29:  Python 3.7.3 Shell
+15:57:34:  change.py - D:\00-06\change.py (3.7.3)
+15:57:39:  *change.py - D:\00-06\change.py (3.7.3)*
+15:57:54:  Python 3.7.3 Shell
+15:58:14:  change.py - D:\00-06\change.py (3.7.3)
+15:58:19:  *Python 3.7.3 Shell*
+15:58:34:  change.py - D:\00-06\change.py (3.7.3)
+15:58:59:  Python 3.7.3 Shell
+15:59:04:  *change.py - D:\00-06\change.py (3.7.3)*
+15:59:24:  Save Before Run or Check
+15:59:29:  change.py - D:\00-06\change.py (3.7.3)
+15:59:44:  *Python 3.7.3 Shell*
+15:58:14:  change.py - D:\00-06\change.py (3.7.3)
+15:58:19:  *Python 3.7.3 Shell*
+15:58:34:  change.py - D:\00-06\change.py (3.7.3)
+15:58:59:  Python 3.7.3 Shell
+15:59:04:  *change.py - D:\00-06\change.py (3.7.3)*
+15:59:24:  Save Before Run or Check
+15:59:29:  change.py - D:\00-06\change.py (3.7.3)
+15:59:44:  *Python 3.7.3 Shell*
+16:00:09:  Kill?
+16:00:14:  锁屏状态
+16:00:19:  本地磁盘 (D:)
+16:00:24:  python 读取二进制_百度搜索 - Google Chrome
+16:00:34:  请问在python中b'\xaa'，如何转换成int - SegmentFault 思否 - Google Chrome
+16:01:14:  change.py - D:\00-06\change.py (3.7.3)
+16:01:19:  *Python 3.7.3 Shell*
+16:01:24:  change.py - D:\00-06\change.py (3.7.3)
+16:01:29:  *Python 3.7.3 Shell*
+16:01:34:  Kill?
+16:01:39:  *change.py - D:\00-06\change.py (3.7.3)*
+16:01:44:  change.py - D:\00-06\change.py (3.7.3)
+16:01:49:  *Python 3.7.3 Shell*
+16:01:54:  *change.py - D:\00-06\change.py (3.7.3)*
+16:01:59:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:02:04:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:02:34:  20200620
+16:02:39:  本地磁盘 (E:)
+16:02:44:  压钞托板测试
+16:02:54:  00-06
+16:02:59:  锁屏状态
+16:03:04:  D:\00-06\change.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:03:14:  00-06
+16:03:19:  change.py - D:\00-06\change.py (3.7.3)
+16:03:24:  Kill?
+16:03:29:  *Python 3.7.3 Shell*
+16:03:39:  *change.py - D:\00-06\change.py (3.7.3)*
+16:03:49:  *Python 3.7.3 Shell*
+16:03:59:  change.py - D:\00-06\change.py (3.7.3)
+16:04:09:  *Python 3.7.3 Shell*
+16:04:19:  *change.py - D:\00-06\change.py (3.7.3)*
+16:04:24:  *Python 3.7.3 Shell*
+16:04:34:  00-06
+16:04:44:  姚世龙
+16:04:59:  change.py - D:\00-06\change.py (3.7.3)
+16:05:04:  *change.py - D:\00-06\change.py (3.7.3)*
+16:05:09:  Python 3.7.3 Shell
+16:05:14:  姚世龙
+16:05:24:  锁屏状态
+16:05:29:  姚世龙
+16:05:39:  Python 3.7.3 Shell
+16:05:44:  Python 3.7.3 Shell (未响应)
+16:05:49:  Python
+16:05:54:  00-06
+16:05:59:  change.py - D:\00-06\change.py (3.7.3)
+16:06:04:  *change.py - D:\00-06\change.py (3.7.3)*
+16:06:14:  change.py - D:\00-06\change.py (3.7.3)
+16:06:19:  *change.py - D:\00-06\change.py (3.7.3)*
+16:06:49:  *Python 3.7.3 Shell*
+16:06:54:  Expand huge output?
+16:06:59:  change.py - D:\00-06\change.py (3.7.3)
+16:07:04:  *Python 3.7.3 Shell*
+16:07:34:  change.py - D:\00-06\change.py (3.7.3)
+16:07:39:  *change.py - D:\00-06\change.py (3.7.3)*
+16:07:54:  *Python 3.7.3 Shell*
+16:07:59:  change.py - D:\00-06\change.py (3.7.3)
+16:08:14:  *change.py - D:\00-06\change.py (3.7.3)*
+16:08:24:  Kill?
+16:08:29:  Python 3.7.3 Shell
+16:08:34:  *change.py - D:\00-06\change.py (3.7.3)*
+16:08:39:  Save Before Run or Check
+16:08:44:  *change.py - D:\00-06\change.py (3.7.3)*
+16:08:49:  *Python 3.7.3 Shell*
+16:08:54:  change.py - D:\00-06\change.py (3.7.3)
+16:09:09:  *Python 3.7.3 Shell*
+16:09:24:  change.py - D:\00-06\change.py (3.7.3)
+16:09:29:  *change.py - D:\00-06\change.py (3.7.3)*
+16:09:34:  *Python 3.7.3 Shell*
+16:09:49:  change.py - D:\00-06\change.py (3.7.3)
+16:09:54:  *change.py - D:\00-06\change.py (3.7.3)*
+16:10:34:  change.py - D:\00-06\change.py (3.7.3)
+16:10:39:  *change.py - D:\00-06\change.py (3.7.3)*
+16:10:44:  Python 3.7.3 Shell
+16:10:49:  change.py - D:\00-06\change.py (3.7.3)
+16:10:54:  00-06
+16:10:59:  TheRust.text - Typora
+16:11:09:  change.py - D:\00-06\change.py (3.7.3)
+16:11:19:  00-06
+16:11:24:  TheRust.text - 记事本
+16:11:44:  change.py - D:\00-06\change.py (3.7.3)
+16:11:49:  00-06
+16:11:54:  管理员: C:\Windows\system32\cmd.exe
+16:12:04:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F  change.py
+16:12:19:  dist
+16:12:24:  change - 写邮件
+16:12:39:  管理员: C:\Windows\system32\cmd.exe
+16:12:44:  change - 写邮件
+16:13:04:  姚世龙
+16:13:29:  00-06
+16:13:35:  本地磁盘 (F:)
+16:13:50:  姚世龙
+16:14:20:  00-06
+16:14:25:  TheRust.text - Typora
+16:14:35:  TheRust.text - 记事本
+16:14:45:  姚世龙
+16:14:55:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:15:00:  姚世龙
+16:14:20:  00-06
+16:14:25:  TheRust.text - Typora
+16:14:35:  TheRust.text - 记事本
+16:14:45:  姚世龙
+16:14:55:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:15:00:  姚世龙
+16:15:40:  00-06
+16:15:50:  打开方式
+16:15:55:  D:\00-06\输出日志.dat (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:16:05:  TheRust.text - 记事本
+16:16:20:  姚世龙
+16:16:50:  TheRust.text - 记事本
+16:17:10:  00-06
+16:17:15:  D:\00-06\输出日志.dat (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:17:50:  00-06
+16:17:55:  change.py - D:\00-06\change.py (3.7.3)
+16:18:25:  *change.py - D:\00-06\change.py (3.7.3)*
+16:18:40:  Save Before Run or Check
+16:18:45:  *Python 3.7.3 Shell*
+16:19:20:  D:\00-06\输出日志.dat (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:19:25:  *Python 3.7.3 Shell*
+16:19:40:  D:\00-06\输出日志.dat (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:19:45:  00-06
+16:19:50:  *Python 3.7.3 Shell*
+16:19:55:  D:\00-06\change.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:20:00:  ID-5-② 50元上腔普通取款295张报钞箱口 500ms纸币未进入 返回码0X075E0900
+16:20:05:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:20:20:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:21:30:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:21:55:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:22:25:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:22:55:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:23:00:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:23:05:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:23:25:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:23:45:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:24:00:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:24:05:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:24:15:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:24:20:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:24:25:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:24:30:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:25:15:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:25:45:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:25:50:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:26:25:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:26:30:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:27:15:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:27:20:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:27:35:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:27:40:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:27:45:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:27:50:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:00:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:05:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:30:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:45:  本地磁盘 (F:)
+16:28:55:  0-测试-DRB
+16:29:00:  Decode
+16:29:05:  LOG
+16:29:10:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+16:29:20:  锁屏状态
+16:29:25:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:29:55:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+16:30:00:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:05:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:30:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:45:  本地磁盘 (F:)
+16:28:55:  0-测试-DRB
+16:29:00:  Decode
+16:29:05:  LOG
+16:29:10:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+16:29:20:  锁屏状态
+16:29:25:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:29:55:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+16:30:00:  D:\压钞托板测试\0-测试-DRB\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:30:10:  LOG
+16:30:15:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:30:20:  LOG
+16:30:25:  *Python 3.7.3 Shell*
+16:30:30:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+16:30:35:  C:\Windows\py.exe
+16:30:40:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+16:30:45:  *Python 3.7.3 Shell*
+16:30:50:  Python 3.7.3 Shell
+16:31:00:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:31:15:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:31:35:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+16:31:40:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:32:25:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+16:32:35:  C:\Windows\py.exe
+16:32:40:  LOG
+16:32:45:  *Python 3.7.3 Shell*
+16:32:50:  Python 3.7.3 Shell
+16:33:25:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:33:30:  Python 3.7.3 Shell
+16:33:35:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:33:40:  *Python 3.7.3 Shell*
+16:33:45:  Python 3.7.3 Shell
+16:34:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:34:25:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:34:30:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:34:35:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:34:45:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:34:50:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:35:05:  Python 3.7.3 Shell
+16:35:10:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:35:25:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:35:35:  *Python 3.7.3 Shell*
+16:35:40:  Python 3.7.3 Shell
+16:35:50:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:00:  Python 3.7.3 Shell
+16:37:15:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:45:  Python 3.7.3 Shell
+16:37:50:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:55:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:38:05:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+16:38:15:  *Python 3.7.3 Shell*
+16:38:25:  姚世龙
+16:38:30:  *Python 3.7.3 Shell*
+16:38:35:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:38:45:  Python 3.7.3 Shell
+16:39:05:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:39:15:  *Python 3.7.3 Shell*
+16:39:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:39:25:  *Python 3.7.3 Shell*
+16:39:30:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:40:05:  *Python 3.7.3 Shell*
+16:40:15:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:40:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:40:30:  *Python 3.7.3 Shell*
+16:40:35:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:40:45:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:40:50:  *Python 3.7.3 Shell*
+16:40:55:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:41:00:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:41:05:  Python 3.7.3 Shell
+16:41:10:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:41:15:  Python 3.7.3 Shell
+16:41:25:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:41:30:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:41:35:  *Python 3.7.3 Shell*
+16:41:40:  Python 3.7.3 Shell
+16:41:50:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:42:05:  00-06
+16:42:10:  change.py - D:\00-06\change.py (3.7.3)
+16:42:15:  *change.py - D:\00-06\change.py (3.7.3)*
+16:42:25:  *Python 3.7.3 Shell*
+16:42:30:  change.py - D:\00-06\change.py (3.7.3)
+16:42:35:  *change.py - D:\00-06\change.py (3.7.3)*
+16:42:40:  *Python 3.7.3 Shell*
+16:42:45:  00-06
+16:42:50:  管理员: C:\Windows\system32\cmd.exe
+16:43:10:  于斌1
+16:43:30:  dist
+16:43:35:  change - 写邮件
+16:43:45:  Python 3.7.3 Shell
+16:43:55:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:44:00:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+16:44:05:  本地磁盘 (D:)
+16:44:10:  Decode
+16:44:15:  20200619
+16:44:20:  LOG
+16:44:25:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:44:40:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:44:45:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:44:55:  LOG
+16:45:00:  *Python 3.7.3 Shell*
+16:44:05:  本地磁盘 (D:)
+16:44:10:  Decode
+16:44:15:  20200619
+16:44:20:  LOG
+16:44:25:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:44:40:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:44:45:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:44:55:  LOG
+16:45:00:  *Python 3.7.3 Shell*
+16:45:05:  LOG
+16:45:10:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:45:15:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:45:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:46:00:  LOG
+16:46:05:  *Python 3.7.3 Shell*
+16:46:10:  Python 3.7.3 Shell
+16:46:20:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+16:46:25:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:46:50:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:46:55:  锁屏状态
+16:47:00:  *Python 3.7.3 Shell*
+16:47:05:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+16:47:10:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:47:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:47:25:  *Python 3.7.3 Shell*
+16:47:30:  Kill?
+16:47:35:  *Python 3.7.3 Shell*
+16:47:40:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:47:55:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:48:00:  *Python 3.7.3 Shell*
+16:48:05:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:48:10:  Python 3.7.3 Shell
+16:48:15:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:48:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:48:25:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:48:30:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:48:40:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+16:48:45:  *Python 3.7.3 Shell*
+16:49:05:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+16:49:10:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:49:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:49:35:  *Python 3.7.3 Shell*
+16:49:45:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:50:05:  *Python 3.7.3 Shell*
+16:50:15:  Python 3.7.3 Shell
+16:50:25:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:50:35:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:51:10:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:51:15:  SyntaxError
+16:51:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:51:25:  Python 3.7.3 Shell
+16:51:35:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:52:00:  打开方式
+16:52:05:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (press2) - Sublime Text (UNREGISTERED)
+16:52:10:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:52:30:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (press2) - Sublime Text (UNREGISTERED)
+16:53:10:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:53:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:53:25:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (press2) - Sublime Text (UNREGISTERED)
+16:53:30:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:53:35:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (press2) - Sublime Text (UNREGISTERED)
+16:53:55:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:54:00:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:54:10:  Python 3.7.3 Shell
+16:54:20:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (press2) - Sublime Text (UNREGISTERED)
+16:54:25:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:54:55:  Python 3.7.3 Shell
+16:55:00:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:55:20:  *Python 3.7.3 Shell*
+16:55:25:  Python 3.7.3 Shell
+16:55:30:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+16:55:35:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:55:50:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:55:55:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:56:15:  *Python 3.7.3 Shell*
+16:56:25:  Python 3.7.3 Shell
+16:56:30:  本地磁盘 (E:)
+16:56:35:  00-06
+16:56:50:  TheRust.text - Typora
+16:56:55:  00-06
+16:57:00:  Python 3.7.3 Shell
+16:57:10:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:57:35:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:57:40:  Python 3.7.3 Shell
+16:57:45:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:58:10:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:58:15:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:58:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:58:25:  *Python 3.7.3 Shell*
+16:58:35:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:58:50:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (press2) - Sublime Text (UNREGISTERED)
+16:59:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:59:30:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:59:35:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:59:40:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:59:45:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+17:00:00:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:58:10:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:58:15:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:58:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:58:25:  *Python 3.7.3 Shell*
+16:58:35:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:58:50:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.9.py (press2) - Sublime Text (UNREGISTERED)
+16:59:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:59:30:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:59:35:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+16:59:40:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+16:59:45:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+17:00:00:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+17:00:25:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+17:00:35:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+17:00:40:  Python 3.7.3 Shell
+17:00:45:  锁屏状态
+17:00:55:  00-06
+17:01:00:  本地磁盘 (D:)
+17:01:05:  LOG
+17:01:10:  Python 3.7.3 Shell
+17:01:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+17:01:35:  锁屏状态
+17:01:40:  Python 3.7.3 Shell
+17:01:45:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+17:01:55:  Python 3.7.3 Shell
+17:02:05:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+17:02:25:  *Python 3.7.3 Shell*
+17:02:55:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+17:03:00:  LOG
+17:03:10:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+17:03:20:  C:\Windows\py.exe
+17:03:25:  新建文本文档.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (3.7.3)
+17:03:30:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+17:04:00:  C:\Windows\py.exe
+17:04:05:  LOG
+17:04:10:  *Python 3.7.3 Shell*
+17:04:15:  Python 3.7.3 Shell
+17:04:25:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+17:04:30:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+17:05:10:  *Python 3.7.3 Shell*
+17:05:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py (press2) - Sublime Text (UNREGISTERED)
+17:05:45:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\新建文本文档.py • (press2) - Sublime Text (UNREGISTERED)
+17:05:50:  *Python 3.7.3 Shell*
+17:06:00:  LOG
+17:06:05:  TheOneForExcel.xls  [兼容模式] - Excel
+17:06:15:  锁屏状态

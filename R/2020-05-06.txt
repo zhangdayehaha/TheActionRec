@@ -1,0 +1,2 @@
+2020-05-06 08:07:56-- 08:30:01     :    一  ：   71/5.91分钟       二  ：Box_1__BTCR-1100200101100016_20200502095459.log - selector.tat - TextAnalysisTool.NET   29/2.41分钟     三  ：Box_2__BTCR-1100200101100016_20200430154409.log - selector.tat* - TextAnalysisTool.NET   27/2.25分钟
+2020-05-06 08:30:01-- 09:00:01     :    一  ：TCR调测工具 V3.36   109/9.08分钟       二  ：DRB-200120600009   27/2.25分钟     三  ：Box_2__BTCR-1100200101100016_20200430154409.log - selector.tat* - TextAnalysisTool.NET   20/1.66分钟

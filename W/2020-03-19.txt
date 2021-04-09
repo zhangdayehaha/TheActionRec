@@ -1,0 +1,2840 @@
+﻿08:07:49:  CommonManageTool
+08:07:59:  Dialog
+08:08:14:  eSpace Login
+08:15:34:  CommonManageTool
+08:22:24:  桌面整理
+08:40:29:  自动播放
+08:40:59:  iTunes
+08:44:44:  eSpace Login
+08:44:49:  桌面整理
+08:46:19:  D:\00-06\1T2-Aging\Applications\State\State.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:48:35:  
+08:48:40:  网络连接
+08:48:45:  「开始」菜单
+08:48:50:  
+08:48:55:  收取邮件 - 张开发
+08:49:00:  
+08:49:10:  D:\00-06\1T2-Aging\Applications\State\State.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:52:10:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-18.txt
+08:55:05:  便签条
+08:55:10:  D:\00-06\1T2-Aging\Applications\State\State.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:55:15:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:57:55:  便签条
+08:59:30:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:59:40:  D:\00-06\1T2-Aging\Applications\State\State.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:00:00:  
+08:59:30:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:59:40:  D:\00-06\1T2-Aging\Applications\State\State.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:00:00:  
+09:00:05:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:02:00:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.h (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:02:05:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:03:15:  
+09:03:20:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:04:30:  「开始」菜单
+09:04:35:  网易有道词典
+09:04:55:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:07:20:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:07:40:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:16:10:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:16:40:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:16:45:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:17:00:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:17:05:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.h (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:17:10:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:17:55:  D:\00-06\1T2-Aging\Middlewares\Plate\LowerPlate.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:18:25:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:19:45:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.h (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:19:50:  D:\00-06\1T2-Aging\Middlewares\Sensor\Sensor.h (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:19:55:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:20:25:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:20:35:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:21:05:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:21:15:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:21:30:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:21:45:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:22:20:  
+09:22:25:  桌面整理
+09:22:30:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+09:22:35:  新建Microsoft Excel 工作表.xlsx - Excel
+09:22:40:  Microsoft Excel
+09:22:45:  库
+09:22:50:  正在打开 - Excel
+09:22:55:  202032103514.xls  [兼容模式] - Excel
+09:23:25:  202032103319.xls  [只读]  [兼容模式] - Excel
+09:23:30:  新建Microsoft Excel 工作表.xlsx - Excel
+09:23:40:  副本202032103319.xls  [兼容模式] - Excel
+09:24:05:  新建Microsoft Excel 工作表.xlsx - Excel
+09:24:10:  一体二箱测试缺陷.xlsx  [只读] - Excel
+09:24:25:  副本202032103319.xls  [兼容模式] - Excel
+09:28:55:  Microsoft Excel
+09:29:00:  
+09:29:05:  副本202032103319.xls  [兼容模式] - Excel
+09:29:10:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+09:29:55:  副本202032103319.xls  [兼容模式] - Excel
+09:28:55:  Microsoft Excel
+09:29:00:  
+09:29:05:  副本202032103319.xls  [兼容模式] - Excel
+09:29:10:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+09:29:55:  副本202032103319.xls  [兼容模式] - Excel
+09:30:30:  
+09:30:35:  副本202032103319.xls  [兼容模式] - Excel
+09:31:50:  
+09:31:55:  副本202032103319.xls  [兼容模式] - Excel
+09:32:05:  一体二箱测试缺陷.xlsx  [只读] - Excel
+09:32:15:  副本202032103319.xls  [兼容模式] - Excel
+09:33:15:  
+09:33:20:  一体二箱测试缺陷.xlsx  [只读] - Excel
+09:33:30:  
+09:33:35:  副本202032103319.xls  [兼容模式] - Excel
+09:34:15:  另存为
+09:34:25:  DRB现有问题总结.xls  [兼容模式] - Excel
+09:34:35:  
+09:34:45:  DRB现有问题总结.xls  [兼容模式] - Excel
+09:34:55:  
+09:35:00:  DRB现有问题总结 - 写邮件
+09:35:15:  
+09:35:20:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:35:25:  DRB现有问题总结 - 写邮件
+09:35:30:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:35:35:  DRB现有问题总结.xls  [只读]  [兼容模式] - Excel
+09:36:00:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+09:36:05:  
+09:37:00:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:38:45:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:38:50:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+09:39:00:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:39:10:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+09:39:20:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:40:05:  便签条
+09:40:10:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:43:10:  D:\00-06\1T2-Aging\Applications\State\State.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:43:20:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:44:25:  便签条
+09:49:45:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:49:55:  便签条
+09:50:05:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:50:15:  00-06
+09:51:15:  检出
+09:51:50:   - 版本库浏览器 - TortoiseSVN
+09:51:55:  检出
+09:52:00:  BR-1-CashBox1T2 - 检出 - TortoiseSVN
+09:52:05:  
+09:52:15:  1T2-Seclect-Aging
+09:52:20:  
+09:52:25:  选择文件夹
+09:52:30:  untitled (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:52:35:  D:\00-06\1T2-Seclect-Aging\Applications\State\State.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:52:45:  D:\00-06\1T2-Seclect-Aging\Applications\State\State.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:52:50:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:53:10:  D:\00-06\1T2-Seclect-Aging\Applications\State\State.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:54:30:  
+09:54:35:  D:\00-06\1T2-Seclect-Aging\Applications\State\State.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:54:40:  便签条
+09:54:45:  于斌1
+09:55:00:  陈忠
+09:55:10:  
+09:55:15:  1T2-Seclect-Aging
+09:55:20:  固件集成测试方案
+09:55:25:  指令接口部分
+09:55:30:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:55:35:  陈忠
+09:56:20:  TCR调测工具 V3.36
+09:56:30:  陈忠
+09:56:35:  TCR调测工具 V3.36
+09:56:50:  陈忠
+09:57:45:  
+09:57:50:  D:\00-06\1T2-Seclect-Aging\Applications\State\State.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:57:55:  TCR调测工具 V3.36
+09:58:00:  Bus Hound
+09:58:10:  TCR调测工具 V3.36
+09:58:15:  
+09:58:20:  选择文件夹
+09:58:30:  陈忠
+09:58:45:  untitled (trunk) - Sublime Text (UNREGISTERED)
+09:58:50:  便签条
+09:58:55:  D:\00-KE64\7\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:59:05:  陈忠
+09:59:10:  
+09:59:15:  陈忠
+09:59:25:  D:\00-KE64\7\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:59:35:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\TrackModule.h (trunk) - Sublime Text (UNREGISTERED)
+09:59:40:  D:\00-KE64\7\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:58:10:  TCR调测工具 V3.36
+09:58:15:  
+09:58:20:  选择文件夹
+09:58:30:  陈忠
+09:58:45:  untitled (trunk) - Sublime Text (UNREGISTERED)
+09:58:50:  便签条
+09:58:55:  D:\00-KE64\7\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:59:05:  陈忠
+09:59:10:  
+09:59:15:  陈忠
+09:59:25:  D:\00-KE64\7\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:59:35:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\TrackModule.h (trunk) - Sublime Text (UNREGISTERED)
+09:59:40:  D:\00-KE64\7\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:00:05:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackSelector\SelModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+10:00:40:  D:\00-KE64\7\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:00:45:  陈忠
+10:01:00:  D:\00-KE64\7\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:01:05:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackSelector\SelModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:01:35:  陈忠
+10:01:40:  
+10:01:45:  陈忠
+10:02:10:  MenuDlg
+10:02:15:  陈忠
+10:04:40:  D:\00-06\1T2-Seclect-Aging\Applications\State\State.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:05:00:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:05:15:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:05:30:  陈忠
+10:11:10:  
+10:11:15:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:11:20:  固件设计中心
+10:13:25:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:14:10:  D:\00-06\1T2-Seclect-Aging\Applications\State\State.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:14:15:  
+10:14:20:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:14:25:  
+10:14:30:  D:\00-06\1T2-Seclect-Aging\Applications\State\State.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:14:35:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:14:45:  D:\00-06\1T2-Seclect-Aging\Applications\State\State.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:15:00:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:15:05:  D:\00-06\1T2-Seclect-Aging\Applications\State\State.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:15:15:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:15:20:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:15:30:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:15:35:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.h • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:15:40:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:16:45:  便签条
+10:17:05:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:17:10:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:17:15:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:17:25:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:17:30:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:17:35:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:18:15:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:18:20:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:18:25:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:18:40:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:18:55:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:19:00:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:19:15:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:19:25:  便签条
+10:19:30:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:20:10:  便签条
+10:20:15:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:20:20:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:20:25:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:20:30:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:20:35:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.h • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:20:50:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:21:00:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:21:30:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:21:40:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:21:45:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:21:55:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:22:20:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:23:15:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:24:10:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:24:50:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:24:55:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:26:50:  指令接口部分
+10:27:35:  传感器电源控制  马鞍 30 00 01 00 00 00 00 00 - OneNote
+10:27:40:  步进电机加速表（拨叉用） ：600, 900, - OneNote
+10:27:50:  INTERVAL_NUM - OneNote
+10:27:55:  
+10:28:00:  1、启动大额存款，拨叉不动作，导致钞票都进入下腔，怀疑是8813芯片保护，后期未复现出此现象 - OneNote
+10:28:05:  xPSR储存着可嵌套中断的优先级 - OneNote
+10:28:10:  1、启动大额存款，拨叉不动作，导致钞票都进入下腔，怀疑是8813芯片保护，后期未复现出此现象 - OneNote
+10:28:25:  1T2集成测试 - OneNote
+10:28:30:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:29:30:  8
+10:29:35:  BR-1-CashBox1T2
+10:29:40:  Track.c - TortoiseMerge
+10:28:05:  xPSR储存着可嵌套中断的优先级 - OneNote
+10:28:10:  1、启动大额存款，拨叉不动作，导致钞票都进入下腔，怀疑是8813芯片保护，后期未复现出此现象 - OneNote
+10:28:25:  1T2集成测试 - OneNote
+10:28:30:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:29:30:  8
+10:29:35:  BR-1-CashBox1T2
+10:29:40:  Track.c - TortoiseMerge
+10:33:05:  BR-1-CashBox1T2
+10:34:20:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:35:10:  D:\00-06\1T2-Seclect-Aging\Drivers\PeripheralDriver\RtcDriver\RtcDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:35:15:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:36:30:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:36:35:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:36:40:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:37:05:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:37:50:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:39:55:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:41:05:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:41:10:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:41:40:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:41:45:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:42:10:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:42:55:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:43:00:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:43:05:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:43:55:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:44:10:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:44:40:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:44:50:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:44:55:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:46:50:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:47:00:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:47:05:  BR-1-CashBox1T2
+10:47:10:  D:\00-06\8\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+10:47:15:  Selector.c - TortoiseMerge
+10:47:20:  BR-1-CashBox1T2
+10:47:35:  D:\00-06\8\branches\BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+10:47:45:  BR-1-CashBox1T2
+10:47:55:  D:\00-06\8\branches\BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+10:48:10:  LowerPlate.c Revision 3308 - TortoiseMerge
+10:48:25:  D:\00-06\8\branches\BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+10:48:30:  Selector.c - TortoiseMerge
+10:48:35:  
+10:48:45:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:48:55:  Selector.c - TortoiseMerge
+10:49:05:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:49:10:  Selector.c - TortoiseMerge
+10:49:15:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:49:20:  Selector.c - TortoiseMerge
+10:49:30:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:49:40:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:49:50:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:49:55:  Selector.c - TortoiseMerge
+10:50:00:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:50:10:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:50:25:  D:\00-06\1T2-Seclect-Aging\Middlewares\StepMotor\StepMotor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:50:35:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:50:40:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:51:15:  D:\00-06\1T2-Seclect-Aging\Middlewares\Plate\LowerPlate.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:51:20:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:52:40:  D:\00-06\1T2-Seclect-Aging\Rtos\OSLib.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:52:45:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:52:55:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:53:00:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:53:05:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:53:15:  
+10:53:30:  DRB检验方案 20200316.xlsx  [只读] - Excel
+10:54:30:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:55:15:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:55:20:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:55:25:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:55:30:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:55:40:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:55:50:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:56:10:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:56:50:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:57:40:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:57:50:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:58:25:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:58:30:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:58:35:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:58:40:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:59:05:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:59:10:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:58:25:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:58:30:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:58:35:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:58:40:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:59:05:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:59:10:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:05:35:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:05:40:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrReturn.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:05:45:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:06:05:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrReturn.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:06:10:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:06:20:  
+11:06:25:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:08:10:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:08:15:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:08:20:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:08:25:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:08:35:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:09:05:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:09:10:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:09:15:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:09:25:  1T2-Seclect-Aging
+11:09:30:  InstrExecute.c - TortoiseMerge
+11:10:00:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+11:10:30:  InstrExecute.c - TortoiseMerge
+11:11:00:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+11:11:05:  D:\00-06\1T2-Aging\Applications\Instruction\InstrHandle.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+11:11:10:  D:\00-06\1T2-Aging\Applications\Instruction\InstrExecute.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+11:11:25:  D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+11:11:30:  选择文件夹
+11:11:35:  untitled (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:11:40:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:11:55:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrReturn.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:12:00:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:12:25:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:13:15:  回复: 回复: 钞箱处理
+11:14:20:  回复: 回复: 钞箱处理 - 写邮件
+11:15:20:  回复: 回复: 钞箱处理 - 写邮件   11:15:20 已保存
+11:15:45:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:15:50:  D:\00-06\8\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+11:15:55:  1T2-Seclect-Aging
+11:16:00:  InstrExecute.c - TortoiseMerge
+11:16:05:  D:\00-06\1T2-Seclect-Aging - 工作副本 - TortoiseSVN
+11:16:10:  InstrHandle.c - TortoiseMerge
+11:16:15:  InstrHandle.h - TortoiseMerge
+11:16:20:  TortoiseMerge
+11:16:25:  State.c - TortoiseMerge
+11:16:35:  D:\00-06\1T2-Seclect-Aging - 工作副本 - TortoiseSVN
+11:16:40:  Selector.c - TortoiseMerge
+11:17:05:  D:\00-06\1T2-Seclect-Aging - 工作副本 - TortoiseSVN
+11:17:10:  
+11:17:15:  便签条
+11:17:25:  选择文件夹
+11:17:35:  untitled (trunk) - Sublime Text (UNREGISTERED)
+11:17:45:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:18:10:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+11:18:15:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+11:18:35:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:18:45:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+11:18:50:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+11:18:55:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.c • (trunk) - Sublime Text (UNREGISTERED)
+11:19:00:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.h (trunk) - Sublime Text (UNREGISTERED)
+11:19:05:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.h • (trunk) - Sublime Text (UNREGISTERED)
+11:19:15:  回复: 回复: 钞箱处理
+11:19:20:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.h • (trunk) - Sublime Text (UNREGISTERED)
+11:20:00:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.h (trunk) - Sublime Text (UNREGISTERED)
+11:20:10:  Save Changes?
+11:20:15:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.h (trunk) - Sublime Text (UNREGISTERED)
+11:20:20:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.c • (trunk) - Sublime Text (UNREGISTERED)
+11:20:25:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+11:20:30:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.c • (trunk) - Sublime Text (UNREGISTERED)
+11:20:35:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:20:40:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:20:45:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:21:10:  回复: 回复: 钞箱处理
+11:21:20:  回复: 回复: 钞箱处理 - 写邮件
+11:21:35:  发送邮件
+11:21:40:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:21:45:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:21:50:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:22:00:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.h • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:22:15:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:22:20:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:22:35:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:22:45:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:23:00:  陈忠
+11:23:05:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:24:10:  
+11:24:15:  便签条
+11:24:20:  1T2-Seclect-Aging
+11:24:25:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-18.txt
+11:24:30:  TheActtionRec
+11:24:35:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-18.txt
+11:24:40:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+11:24:55:  W
+11:25:00:  Log
+11:25:05:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-19.txt
+11:25:10:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+11:25:15:  Log
+11:25:20:  
+11:25:25:  eSpace
+11:25:30:  陈忠
+11:26:00:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:21:47:  Bin
+13:21:52:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:21:57:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:22:02:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:22:07:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:22:12:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:22:17:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:22:22:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:22:27:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:22:32:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:22:37:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:22:42:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:22:52:  Save Changes?
+13:22:57:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:23:02:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:23:07:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:23:12:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:23:17:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:23:22:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:23:27:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:23:32:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:23:37:  D:\00-06\1T2-Seclect-Aging\Drivers\StepMotorDriver\StepMotorDriver.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:23:42:  D:\00-06\1T2-Seclect-Aging\Drivers\StepMotorDriver\StepMotorDriver.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:23:47:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:23:52:  D:\00-06\1T2-Seclect-Aging\Middlewares\StepMotor\StepMotorConfig.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:23:57:  D:\00-06\1T2-Seclect-Aging\Middlewares\StepMotor\StepMotorConfig.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:24:02:  D:\00-06\1T2-Seclect-Aging\Middlewares\StepMotor\StepMotorConfig.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:24:07:  D:\00-06\1T2-Seclect-Aging\Middlewares\StepMotor\StepMotorConfig.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:24:12:  D:\00-06\1T2-Seclect-Aging\Middlewares\StepMotor\StepMotorConfig.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:24:17:  D:\00-06\1T2-Seclect-Aging\Middlewares\StepMotor\StepMotorConfig.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:24:22:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:24:27:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:24:32:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:24:37:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:24:42:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:24:47:  库
+13:24:52:  00-06
+13:24:57:  文档
+13:25:02:  TheActtionRec
+13:25:07:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+13:25:12:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+13:25:17:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+13:25:22:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+13:25:27:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+13:25:32:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+13:25:37:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+13:25:42:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+13:25:47:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+13:25:52:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:25:57:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:26:02:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:26:07:  *Python 3.7.3 Shell*
+13:26:12:  Save Before Run or Check
+13:26:17:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+13:26:22:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:26:27:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:26:32:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:26:37:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:26:42:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:26:47:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:26:52:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:26:57:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:27:02:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:27:07:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:27:12:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:27:17:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:27:22:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:27:27:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:27:32:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:27:37:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:27:42:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:28:12:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:28:17:  D:\00-06\1T2-Seclect-Aging\Middlewares\StepMotor\StepMotorConfig.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:28:22:  D:\00-06\1T2-Seclect-Aging\Middlewares\StepMotor\StepMotorConfig.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:28:27:  D:\00-06\1T2-Seclect-Aging\Middlewares\StepMotor\StepMotorConfig.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:28:32:  D:\00-06\1T2-Seclect-Aging\Middlewares\StepMotor\StepMotorConfig.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:28:37:  Bin
+13:28:42:  R.txt - 记事本
+13:28:47:  R.txt - 记事本
+13:28:52:  R.txt - 记事本
+13:28:57:  Bin
+13:29:02:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:07:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:12:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:17:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:22:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:27:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:32:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:37:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:42:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:47:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:52:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:57:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:30:02:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:28:12:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+13:28:17:  D:\00-06\1T2-Seclect-Aging\Middlewares\StepMotor\StepMotorConfig.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:28:22:  D:\00-06\1T2-Seclect-Aging\Middlewares\StepMotor\StepMotorConfig.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:28:27:  D:\00-06\1T2-Seclect-Aging\Middlewares\StepMotor\StepMotorConfig.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:28:32:  D:\00-06\1T2-Seclect-Aging\Middlewares\StepMotor\StepMotorConfig.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:28:37:  Bin
+13:28:42:  R.txt - 记事本
+13:28:47:  R.txt - 记事本
+13:28:52:  R.txt - 记事本
+13:28:57:  Bin
+13:29:02:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:07:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:12:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:17:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:22:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:27:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:32:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:37:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:42:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:47:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:52:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:29:57:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:30:02:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:30:07:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:30:12:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:30:17:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:30:22:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:30:27:  本地磁盘 (D:)
+13:30:32:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:30:37:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:30:42:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:30:47:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:30:52:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:30:57:  00-06
+13:31:02:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:31:07:  锁屏状态
+13:31:17:  跳转列表
+13:31:32:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:31:37:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:31:42:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:31:47:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:31:52:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:31:57:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:32:02:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:32:07:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:32:12:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:32:17:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:32:22:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:32:27:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:32:32:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:32:37:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:32:42:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:32:47:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:32:52:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:32:57:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:33:02:  计算器
+13:33:07:  计算器
+13:33:12:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:33:17:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:33:22:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:33:27:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:33:32:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:33:37:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:33:42:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:33:47:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:33:52:  一体二箱测试缺陷.xlsx  [只读] - Excel
+13:33:57:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+13:34:37:  运行
+13:34:42:  运行
+13:34:47:  运行
+13:34:52:  运行
+13:34:57:  运行
+13:35:02:  网络错误
+13:35:07:  回复: 回复: 人民币版本DRB钞箱测试汇报0318 - 写邮件
+13:35:12:  运行
+13:35:17:  yf-yuzhenhai
+13:35:22:  6、1元居左D面向卡钞后继续存款，上腔室（1#钞箱）内发现最后8张纸币堆叠异常
+13:35:27:  本地磁盘 (D:)
+13:35:32:  本地磁盘 (D:)
+13:35:37:  本地磁盘 (D:)
+13:35:42:  temp
+13:35:47:  IMG_8872.JPG - Windows 照片查看器
+13:35:57:  temp
+13:36:02:  4、问题记录
+13:36:07:  6、1元居左D面向卡钞后继续存款，上腔室（1#钞箱）内发现最后8张纸币堆叠异常
+13:36:12:  4、问题记录
+13:36:17:  5、1元居左D面向入钞口直接存款入1#钞箱上腔室，入钞口入钞172张报后，通道传输过程中卡钞，超过最大长度持续有钞，打开上腔室发现纸币无异常，查看ET通道发现1张纸币
+13:36:22:  4、问题记录
+13:36:27:  4、问题记录
+13:36:32:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:36:37:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:36:42:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:36:47:  更换钞箱配置后1元居左直接存款66张报通道传输过程中卡钞 超过最大长度持续有钞.jpg - Windows 照片查看器
+13:36:52:  本地磁盘 (D:)
+13:36:57:  temp
+13:37:02:  新建文件夹
+13:37:07:  新建文件夹
+13:37:12:  新建文件夹
+13:37:17:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:37:22:  锁屏状态
+13:37:27:  Add Filter
+13:37:32:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:37:37:  Edit Filter
+13:37:42:  锁屏状态
+13:37:47:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:37:52:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:37:57:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:38:02:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:38:07:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:38:12:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:38:17:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:38:22:  LOG
+13:38:27:  新建文件夹
+13:38:32:  新建文件夹
+13:38:37:  新建文件夹
+13:38:42:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:38:47:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:38:52:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:38:57:  K64_BTCR-1100190803000009_20200318145315
+13:39:02:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:39:07:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:39:12:  K64_BTCR-1100190803000009_20200318145315
+13:39:17:  4、问题记录
+13:39:22:  4、问题记录
+13:39:27:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:39:32:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:39:37:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:39:42:  K64_BTCR-1100190803000009_20200318145315
+13:39:47:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:39:52:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:39:57:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:40:02:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:40:08:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:40:13:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:40:18:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:40:23:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:40:28:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:40:33:  K64_BTCR-1100190803000009_20200318145315
+13:40:38:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:40:43:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:40:48:  K64_BTCR-1100190803000009_20200318145315
+13:40:53:  新建文件夹
+13:40:58:  K64-_BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:41:03:  K64-_BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:41:08:  K64-_BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:41:13:  IMG_8892.JPG - Windows 照片查看器
+13:41:18:  Edit Filter
+13:41:23:  K64-_BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:41:28:  新建文件夹
+13:41:33:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:41:38:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:41:43:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:41:48:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:41:53:  temp
+13:41:58:  K64-_BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:42:03:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:42:08:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:42:13:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:42:18:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:42:23:  K64_BTCR-1100190803000009_20200318145315
+13:42:28:  K64-_BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:42:33:  K64-_BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:42:38:  Add Filter
+13:42:43:  Add Filter
+13:42:48:  K64-_BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:42:58:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:43:03:  K64-_BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:43:08:  K64_BTCR-1100190803000009_20200318145315
+13:43:13:  K64_BTCR-1100190803000009_20200318145315
+13:43:18:  K64_BTCR-1100190803000009_20200318145315
+13:43:23:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:43:28:  6、1元居左D面向卡钞后继续存款，上腔室（1#钞箱）内发现最后8张纸币堆叠异常
+13:43:33:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:43:38:  4、问题记录
+13:43:43:  4、问题记录
+13:43:48:  4、问题记录
+13:43:53:  4、问题记录
+13:43:58:  4、问题记录
+13:44:03:  4、问题记录
+13:44:08:  4、问题记录
+13:44:13:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:44:18:  锁屏状态
+13:44:23:  4、问题记录
+13:44:28:  6、1元居左D面向卡钞后继续存款，上腔室（1#钞箱）内发现最后8张纸币堆叠异常
+13:44:33:  本地磁盘 (D:)
+13:44:38:  新建文件夹 (2)
+13:44:43:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:44:48:  K64_BTCR-1100190803000009_20200318140308
+13:44:53:  K64_BTCR-1100190803000009_20200318140308
+13:44:58:  Box_2__BTCR-1100190803000009_20200318140308.log - [No filter file]* - TextAnalysisTool.NET
+13:45:03:  Box_2__BTCR-1100190803000009_20200318140308.log - [No filter file]* - TextAnalysisTool.NET
+13:44:08:  4、问题记录
+13:44:13:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+13:44:18:  锁屏状态
+13:44:23:  4、问题记录
+13:44:28:  6、1元居左D面向卡钞后继续存款，上腔室（1#钞箱）内发现最后8张纸币堆叠异常
+13:44:33:  本地磁盘 (D:)
+13:44:38:  新建文件夹 (2)
+13:44:43:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:44:48:  K64_BTCR-1100190803000009_20200318140308
+13:44:53:  K64_BTCR-1100190803000009_20200318140308
+13:44:58:  Box_2__BTCR-1100190803000009_20200318140308.log - [No filter file]* - TextAnalysisTool.NET
+13:45:03:  Box_2__BTCR-1100190803000009_20200318140308.log - [No filter file]* - TextAnalysisTool.NET
+13:45:08:  Box_1__BTCR-1100190803000009_20200318140308.log - [No filter file]* - TextAnalysisTool.NET
+13:45:13:  LOG
+13:45:23:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:45:28:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:45:33:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:45:38:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:45:43:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:45:48:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:45:53:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:45:58:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:46:03:  temp
+13:46:13:  4、问题记录
+13:46:18:  4、问题记录
+13:46:23:  4、问题记录
+13:46:28:  更换钞箱配置后1元居左直接存款66张报通道传输过程中卡钞 超过最大长度持续有钞.jpg - Windows 照片查看器
+13:46:33:  本地磁盘 (D:)
+13:46:38:  本地磁盘 (D:)
+13:46:43:  temp
+13:46:48:  新建文件夹 (3)
+13:46:53:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:46:58:  K64_BTCR-1100190803000009_20200318144300
+13:47:03:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+13:47:08:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+13:47:13:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+13:47:18:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+13:47:23:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+13:47:28:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+13:47:33:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+13:47:38:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+13:47:43:  K64_BTCR-1100190803000009_20200318144300
+13:47:48:  本地磁盘 (D:)
+13:47:58:  Program Manager
+13:48:03:  4、问题记录
+13:48:08:  4、问题记录
+13:48:13:  4、问题记录
+13:48:18:  4、问题记录
+13:48:23:  4、问题记录
+13:48:33:  正在复制 38 个项目(110 MB)
+13:48:38:  正在复制 38 个项目(110 MB)
+13:48:43:  5、1元居左D面向入钞口直接存款入1#钞箱上腔室，入钞口入钞172张报后，通道传输过程中卡钞，超过最大长度持续有钞，打开上腔室发现纸币无异常，查看ET通道发现1张纸币
+13:48:48:  5、1元居左D面向入钞口直接存款入1#钞箱上腔室，入钞口入钞172张报后，通道传输过程中卡钞，超过最大长度持续有钞，打开上腔室发现纸币无异常，查看ET通道发现1张纸币
+13:48:53:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:48:58:  K64_BTCR-1100190803000009_20200318134350
+13:49:03:  K64_BTCR-1100190803000009_20200318134350
+13:49:08:  temp
+13:49:13:  删除多个项目
+13:49:18:  删除多个项目
+13:49:23:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:49:28:  K64_BTCR-1100190803000009_20200318140308
+13:49:33:  temp
+13:49:38:  temp
+13:49:43:  K64_BTCR-1100190803000009_20200318140308
+13:49:48:  K64_BTCR-1100190803000009_20200318140308
+13:49:53:  Box_2__BTCR-1100190803000009_20200318140308.log - [No filter file]* - TextAnalysisTool.NET
+13:49:58:  Box_1__BTCR-1100190803000009_20200318140308.log - [No filter file]* - TextAnalysisTool.NET
+13:50:03:  Box_1__BTCR-1100190803000009_20200318140308.log - [No filter file]* - TextAnalysisTool.NET
+13:50:08:  6、1元居左D面向卡钞后继续存款，上腔室（1#钞箱）内发现最后8张纸币堆叠异常
+13:50:13:  7、1元居左A面向入钞口直接存款入2#钞箱上腔室，入钞口入钞66张后报通道传输过程中卡钞 超过最大长度持续有钞，打开上腔室发现纸币无异常，查看ET通道发现1张纸币
+13:50:18:  7、1元居左A面向入钞口直接存款入2#钞箱上腔室，入钞口入钞66张后报通道传输过程中卡钞 超过最大长度持续有钞，打开上腔室发现纸币无异常，查看ET通道发现1张纸币
+13:50:23:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:50:28:  LOG
+13:50:33:  K64_BTCR-1100190803000009_20200318144300
+13:50:38:  7、1元居左A面向入钞口直接存款入2#钞箱上腔室，入钞口入钞66张后报通道传输过程中卡钞 超过最大长度持续有钞，打开上腔室发现纸币无异常，查看ET通道发现1张纸币
+13:50:43:  9、1元居左B面向入钞口直接存款入2#钞箱上腔室，进入2#钞箱上腔室93张后，打开上腔室发现纸币靠近钞箱口位置堆叠散乱
+13:50:48:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:50:53:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:50:58:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:51:03:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:51:08:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:51:13:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:51:18:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:51:23:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:51:28:  K64_BTCR-1100190803000009_20200318145315
+13:51:33:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+13:51:38:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:51:43:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:51:48:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:51:53:  计算器
+13:51:58:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:52:03:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:52:08:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:52:13:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:52:18:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:52:23:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:52:28:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:52:33:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:52:38:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:52:43:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:52:48:  Box_1__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:52:53:  更换钞箱配置后1元居左直接存款66张报通道传输过程中卡钞 超过最大长度持续有钞.jpg - Windows 照片查看器
+13:52:58:  更换钞箱配置后1元居左直接存款66张报通道传输过程中卡钞 超过最大长度持续有钞.jpg - Windows 照片查看器
+13:53:03:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:53:08:  计数不准.jpg - Windows 照片查看器
+13:53:13:  K64_BTCR-1100190803000009_20200318145315
+13:53:18:  K64_BTCR-1100190803000009_20200318145315
+13:53:23:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:53:28:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:53:33:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:53:38:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:53:43:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:53:48:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:53:53:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+13:53:58:  LOG
+13:54:03:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:54:08:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:54:13:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:54:18:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:54:23:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:54:28:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:54:33:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:54:38:  锁屏状态
+13:54:43:  锁屏状态
+13:54:48:  锁屏状态
+13:54:53:  锁屏状态
+13:54:58:  锁屏状态
+13:55:03:  锁屏状态
+13:55:08:  锁屏状态
+13:55:13:  锁屏状态
+13:55:18:  锁屏状态
+13:55:23:  锁屏状态
+13:55:28:  锁屏状态
+13:55:33:  锁屏状态
+13:55:38:  锁屏状态
+13:55:43:  锁屏状态
+13:55:48:  锁屏状态
+13:55:53:  锁屏状态
+13:55:58:  锁屏状态
+13:56:03:  锁屏状态
+13:56:08:  锁屏状态
+13:56:13:  锁屏状态
+13:56:18:  锁屏状态
+13:56:23:  锁屏状态
+13:56:28:  锁屏状态
+13:56:33:  锁屏状态
+13:56:38:  锁屏状态
+13:56:43:  锁屏状态
+13:56:48:  锁屏状态
+13:56:53:  锁屏状态
+13:56:58:  锁屏状态
+13:57:03:  锁屏状态
+13:57:08:  锁屏状态
+13:57:13:  锁屏状态
+13:57:18:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:57:23:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:57:28:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:57:33:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:57:38:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:57:43:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:57:48:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:57:53:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:57:58:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:58:03:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:58:08:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:58:13:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:58:18:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:58:23:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:58:28:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:58:33:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:58:43:  Windows 任务管理器
+13:59:03:  iTunes
+13:59:08:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:59:13:  K64_BTCR-1100190803000009_20200318145315
+13:59:18:  K64_BTCR-1100190803000009_20200318145315
+13:59:23:  K64_BTCR-1100190803000009_20200318145315
+13:59:28:  K64_BTCR-1100190803000009_20200318145315
+13:59:33:  K64_BTCR-1100190803000009_20200318145315
+13:59:38:  K64_BTCR-1100190803000009_20200318145315
+13:59:43:  K64_BTCR-1100190803000009_20200318145315
+14:00:03:  新建文本文档.exe - 快捷方式
+13:58:08:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:58:13:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:58:18:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:58:23:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:58:28:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:58:33:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt
+13:58:43:  Windows 任务管理器
+13:59:03:  iTunes
+13:59:08:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+13:59:13:  K64_BTCR-1100190803000009_20200318145315
+13:59:18:  K64_BTCR-1100190803000009_20200318145315
+13:59:23:  K64_BTCR-1100190803000009_20200318145315
+13:59:28:  K64_BTCR-1100190803000009_20200318145315
+13:59:33:  K64_BTCR-1100190803000009_20200318145315
+13:59:38:  K64_BTCR-1100190803000009_20200318145315
+13:59:43:  K64_BTCR-1100190803000009_20200318145315
+14:00:03:  新建文本文档.exe - 快捷方式
+14:00:08:  新标签页 - Google Chrome
+14:00:13:  新建文本文档.exe - 快捷方式
+14:00:18:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:00:23:  新标签页 - Google Chrome
+14:00:28:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:00:33:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:00:38:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:00:43:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:00:48:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:00:53:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:00:58:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:01:03:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:01:08:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:01:13:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:01:18:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:01:23:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:01:28:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:01:33:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:01:38:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:01:43:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:01:48:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:01:53:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:01:58:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:02:03:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:02:08:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:02:13:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:02:18:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:02:23:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:02:28:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:02:33:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:02:38:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:02:43:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:02:48:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:02:53:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:02:58:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:03:03:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:03:08:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:03:13:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:03:18:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:03:23:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:03:28:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:03:33:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:03:38:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:03:43:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:03:48:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:03:53:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:03:58:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:04:03:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:04:08:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:04:13:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:04:18:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:04:23:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:04:28:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:04:33:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:04:38:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:04:43:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:04:48:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:04:53:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:04:58:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:05:03:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:05:08:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:05:13:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:05:18:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:05:23:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:05:28:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:05:33:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:05:38:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:05:43:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:05:48:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:05:53:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:05:58:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:06:03:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:06:08:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:06:13:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:06:18:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:06:23:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:06:28:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:06:33:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:06:38:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:06:43:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:06:48:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:06:53:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:06:58:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:07:03:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:07:08:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:07:13:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:07:18:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:07:23:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:07:28:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:07:33:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:07:38:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:07:43:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:07:48:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:07:53:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:07:58:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:08:03:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:08:08:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:08:13:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:08:18:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:08:23:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:08:28:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:08:33:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:08:38:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:08:43:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:08:48:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:08:53:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:08:58:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:09:03:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:09:08:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:09:13:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:09:18:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:09:23:  新标签页 - Google Chrome
+14:09:28:  请停用以开发者模式运行的扩展程序
+14:09:33:  www.zhihu.com - Google Chrome
+14:09:38:  www.zhihu.com - Google Chrome
+14:09:43:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:09:48:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:09:53:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:09:58:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:10:03:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:10:08:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:10:13:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:10:18:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:10:23:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:10:28:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:10:33:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:10:38:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:10:43:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:10:48:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:10:53:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:10:58:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:11:03:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:11:08:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:11:13:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:11:18:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:11:23:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:11:28:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:11:33:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:11:38:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:11:43:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:11:48:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:11:53:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:11:58:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:12:03:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:12:08:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:12:13:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:12:18:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:12:23:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:12:28:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:12:33:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:12:38:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:12:43:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:12:48:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:12:53:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:12:58:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:13:03:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:13:08:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:13:13:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:13:18:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:13:23:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:13:28:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:13:33:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:13:38:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:13:43:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:13:48:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:13:53:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:13:58:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:14:03:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:14:08:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:13:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:18:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:23:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:28:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:33:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:38:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:43:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:48:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:53:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:58:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:15:03:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:08:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:13:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:18:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:23:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:28:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:33:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:38:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:43:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:48:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:53:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:14:58:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:15:03:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:15:08:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:15:13:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:15:18:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:15:23:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:15:29:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:15:34:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:15:39:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:15:44:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:15:49:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:15:54:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:15:59:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:16:04:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:16:09:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:16:14:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:16:19:  (39 封私信) 首页 - 知乎 - Google Chrome
+14:17:29:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:17:34:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED) (未响应)
+14:17:39:  eSpace
+14:17:44:  eSpace
+14:17:49:  eSpace
+14:17:54:  eSpace
+14:17:59:  eSpace
+14:18:04:  eSpace
+14:18:09:  eSpace
+14:18:14:  eSpace
+14:18:19:  eSpace
+14:18:29:  D:\00-06\Thespace\trunk\Cpu\CPU_Config.h (trunk) - Sublime Text (UNREGISTERED)
+14:18:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:18:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:18:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:18:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:18:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:18:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:19:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:19:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:19:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:19:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:19:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:19:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:19:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:19:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:19:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:19:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:19:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:19:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:20:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:20:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:20:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:20:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:20:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:20:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:20:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:20:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:20:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:20:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:20:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:20:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:22:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:22:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:22:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:22:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:22:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:22:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:22:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:22:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:22:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:22:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:22:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:22:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:25:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:25:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:25:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:25:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:25:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:25:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:25:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:25:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:25:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:25:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:25:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:25:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:30:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:30:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:30:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:30:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:30:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:30:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:30:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:30:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:30:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:30:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:30:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:30:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:31:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:31:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:31:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:31:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:31:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:31:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:31:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:31:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:31:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:31:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:31:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:31:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:32:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:32:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:32:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:32:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:32:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:32:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:32:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:32:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:32:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:32:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:32:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:32:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:33:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:33:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:33:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:33:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:33:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:33:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:33:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:33:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:33:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:33:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:33:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:33:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:34:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:34:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:34:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:34:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:34:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:34:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:34:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:34:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:34:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:34:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:34:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:34:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:36:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:36:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:36:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:36:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:36:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:36:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:36:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:36:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:36:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:36:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:36:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:36:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:34:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:44:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:54:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:38:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:38:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:38:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:38:19:  TCR调测工具 V3.07
+14:38:24:  TCR调测工具 V3.07
+14:38:29:  TCR调测工具 V3.07
+14:38:34:  TCR调测工具 V3.07
+14:38:39:  TCR调测工具 V3.07
+14:38:44:  TCR调测工具 V3.07
+14:38:49:  TCR调测工具 V3.07
+14:38:54:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+14:38:59:  00-06
+14:39:04:  trunk
+14:39:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:39:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:39:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:39:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:39:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:39:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:39:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:39:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:39:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:39:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:39:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:40:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:40:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:40:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:40:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:40:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:40:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:40:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:40:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:40:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:40:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:40:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:40:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:41:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:41:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:41:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:41:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:41:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:41:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:41:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:41:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:41:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:41:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:41:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:41:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:42:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:42:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:42:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:42:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:42:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:42:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:42:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:42:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:42:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:42:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:42:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:42:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:43:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:43:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:43:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:43:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:43:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:43:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:43:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:43:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:43:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:43:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:43:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:43:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:45:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:45:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:45:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:45:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:45:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:45:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:45:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:45:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:45:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:45:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:45:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:45:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:45:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:46:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:46:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:46:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:46:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:46:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:46:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:46:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:46:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:46:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:46:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:46:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:46:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:47:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:47:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:47:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:47:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:47:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:47:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:47:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:47:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:47:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:47:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:47:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:47:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:48:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:48:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:48:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:48:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:48:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:48:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:48:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:48:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:48:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:48:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:48:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:48:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:49:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:49:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:49:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:49:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:49:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:49:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:49:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:49:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:49:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:49:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:49:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:49:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:50:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:50:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:50:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:50:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:50:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:50:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:50:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:50:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:50:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:50:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:50:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:50:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:51:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:51:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:51:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:51:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:51:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:51:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:51:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:51:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:51:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:51:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:51:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:51:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:52:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:52:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:52:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:52:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:52:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:52:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:52:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:52:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:52:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:52:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:52:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:52:59:  JLink - Cortex-M Error
+14:53:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:53:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:53:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:53:19:  陈忠
+14:53:24:  陈忠
+14:53:29:  陈忠
+14:53:34:  陈忠
+14:53:39:  陈忠
+14:53:44:  陈忠
+14:53:49:  陈忠
+14:53:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:53:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:54:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:54:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:54:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:54:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:54:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:54:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:54:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:54:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:54:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:54:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:55:04:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191454.log
+14:55:09:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191454.log
+14:55:14:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191454.log
+14:55:19:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191454.log
+14:55:24:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191454.log
+14:55:29:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191454.log
+14:55:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:55:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:55:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:55:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:55:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:55:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:56:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:56:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:56:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:56:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:56:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:56:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:56:44:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191456.log
+14:56:49:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191456.log
+14:56:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:56:59:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:57:04:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:57:09:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191456.log
+14:57:14:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191456.log
+14:57:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:57:24:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191456.log
+14:57:29:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191456.log
+14:57:34:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191456.log
+14:57:39:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191456.log
+14:57:49:  untitled (trunk) - Sublime Text (UNREGISTERED)
+14:57:54:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:57:59:  便签条
+14:58:04:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:09:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:14:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:19:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:24:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:29:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:34:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:39:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:44:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:49:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:54:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:59:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:59:04:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:59:09:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:59:14:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:59:19:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191456.log
+14:59:24:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191456.log
+14:59:29:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191456.log
+14:59:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:59:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:59:44:  陈忠
+14:59:49:  陈忠
+14:59:54:  陈忠
+14:59:59:  陈忠
+15:00:04:  陈忠
+14:58:09:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:14:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:19:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:24:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:29:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:34:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:39:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:44:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:49:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:54:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:58:59:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:59:04:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:59:09:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:59:14:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:59:19:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191456.log
+14:59:24:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191456.log
+14:59:29:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191456.log
+14:59:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:59:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:59:44:  陈忠
+14:59:49:  陈忠
+14:59:54:  陈忠
+14:59:59:  陈忠
+15:00:04:  陈忠
+15:00:09:  陈忠
+15:00:14:  陈忠
+15:00:19:  陈忠
+15:00:24:  陈忠
+15:00:29:  陈忠
+15:00:34:  陈忠
+15:00:39:  陈忠
+15:00:44:  陈忠
+15:00:49:  陈忠
+15:00:54:  陈忠
+15:00:59:  陈忠
+15:01:04:  陈忠
+15:01:09:  陈忠
+15:01:14:  陈忠
+15:01:19:  陈忠
+15:01:24:  陈忠
+15:01:29:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191456.log
+15:01:34:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log
+15:01:39:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log
+15:01:44:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log
+15:01:49:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log
+15:01:54:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log
+15:01:59:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log
+15:02:04:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log
+15:02:09:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log
+15:02:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:02:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:02:24:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:02:29:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:02:34:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:02:39:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:02:44:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:02:49:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:02:54:  陈忠
+15:02:59:  陈忠
+15:03:04:  陈忠
+15:03:09:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:03:14:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:03:19:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:03:24:  陈忠
+15:03:29:  陈忠
+15:03:34:  陈忠
+15:03:39:  陈忠
+15:03:44:  陈忠
+15:03:49:  陈忠
+15:03:54:  陈忠
+15:03:59:  陈忠
+15:04:04:  陈忠
+15:04:09:  陈忠
+15:04:14:  陈忠
+15:04:19:  陈忠
+15:04:24:  陈忠
+15:04:29:  陈忠
+15:04:34:  陈忠
+15:04:39:  陈忠
+15:04:44:  陈忠
+15:04:49:  陈忠
+15:04:54:  陈忠
+15:04:59:  陈忠
+15:05:04:  陈忠
+15:05:14:  陈忠
+15:05:19:  陈忠
+15:05:24:  陈忠
+15:05:29:  陈忠
+15:05:34:  陈忠
+15:05:39:  董鲁乾
+15:05:44:  董鲁乾
+15:05:49:  董鲁乾
+15:05:54:  董鲁乾
+15:05:59:  董鲁乾
+15:06:04:  董鲁乾
+15:06:09:  董鲁乾
+15:06:14:  董鲁乾
+15:06:19:  董鲁乾
+15:06:24:  陈忠
+15:06:29:  陈忠
+15:06:34:  YoudaoStrokeWnd
+15:06:39:  陈忠
+15:06:44:  陈忠
+15:06:49:  陈忠
+15:06:54:  陈忠
+15:06:59:  详细信息
+15:07:04:  董鲁乾
+15:07:09:  陈忠
+15:07:14:  陈忠
+15:07:19:  陈忠
+15:07:24:  陈忠
+15:07:29:  陈忠
+15:07:34:  陈忠
+15:07:39:  陈忠
+15:07:44:  董鲁乾
+15:07:49:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log
+15:07:54:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log
+15:07:59:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log
+15:08:04:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log
+15:08:09:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log
+15:08:14:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log
+15:08:19:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log
+15:08:24:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:08:34:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:08:39:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:08:44:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:08:49:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:08:54:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:08:59:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:09:04:  陈忠
+15:09:09:  陈忠
+15:09:14:  陈忠
+15:09:19:  陈忠
+15:09:24:  陈忠
+15:09:29:  陈忠
+15:09:34:  陈忠
+15:09:39:  陈忠
+15:09:44:  陈忠
+15:09:49:  陈忠
+15:09:59:  Project
+15:10:04:  D:\00-06\Thespace\trunk\Project - 工作副本 - TortoiseSVN
+15:10:09:  工作副本
+15:10:14:  TrackCtrl.c - TortoiseMerge
+15:10:19:  TrackCtrl.c - TortoiseMerge
+15:10:24:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:10:29:  D:\00-06\Thespace\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+15:10:34:  D:\00-06\Thespace\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+15:10:39:  D:\00-06\Thespace\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+15:10:44:  锁屏状态
+15:10:49:  D:\00-06\Thespace\trunk - 日志信息 - TortoiseSVN
+15:10:54:  D:\00-06\Thespace\trunk - 日志信息 - TortoiseSVN
+15:10:59:  D:\00-06\Thespace\trunk - 日志信息 - TortoiseSVN
+15:11:04:  D:\00-06\Thespace\trunk - 日志信息 - TortoiseSVN
+15:11:09:  D:\00-06\Thespace\trunk - 日志信息 - TortoiseSVN
+15:11:14:  PlateCtrl.c Revision 3375 - TortoiseMerge
+15:11:19:  PlateCtrl.c Revision 3375 - TortoiseMerge
+15:11:24:  D:\00-06\Thespace\trunk - 日志信息 - TortoiseSVN
+15:11:29:  D:\00-06\Thespace\trunk - 日志信息 - TortoiseSVN
+15:11:34:  D:\00-06\Thespace\trunk - 日志信息 - TortoiseSVN
+15:11:39:  D:\00-06\Thespace\trunk - 日志信息 - TortoiseSVN
+15:11:44:  trunk
+15:11:49:  00-06
+15:11:54:  00-06
+15:11:59:  00-06
+15:12:04:  D:\00-06 - 日志信息 - TortoiseSVN
+15:12:09:  Thespace
+15:12:14:  D:\00-06\Thespace\trunk - 日志信息 - TortoiseSVN
+15:12:19:  文件补丁  
+15:12:24:  PlateCtrl.c Revision 3375 - TortoiseMerge
+15:12:29:  PlateCtrl.c Revision 3375 - TortoiseMerge
+15:12:34:  PlateCtrl.c Revision 3375 - TortoiseMerge
+15:12:39:  D:\00-06\Thespace\trunk - 日志信息 - TortoiseSVN
+15:12:44:  trunk
+15:12:49:  00-06
+15:12:54:  00-06
+15:12:59:  00-06
+15:13:04:  检出
+15:13:09:   - 版本库浏览器 - TortoiseSVN
+15:13:14:  检出
+15:13:19:   - 版本库浏览器 - TortoiseSVN
+15:13:24:  FW_BTCR-1100_K06_MAIN - 检出 - TortoiseSVN
+15:13:29:  trunk - 检出 - TortoiseSVN
+15:13:34:  陈忠
+15:13:39:  陈忠
+15:13:44:  董鲁乾
+15:13:49:  董鲁乾
+15:13:54:  董鲁乾
+15:13:59:  陈忠
+15:14:04:  陈忠
+15:14:09:  陈忠
+15:14:14:  陈忠
+15:14:19:  TCR调测工具 V3.07
+15:14:24:  TCR调测工具 V3.07
+15:14:29:  TCR调测工具 V3.07
+15:14:34:  TCR调测工具 V3.07
+15:14:39:  陈忠
+15:14:44:  陈忠
+15:14:49:  董鲁乾
+15:14:54:  董鲁乾
+15:14:59:  董鲁乾
+15:15:04:  董鲁乾
+15:14:09:  陈忠
+15:14:14:  陈忠
+15:14:19:  TCR调测工具 V3.07
+15:14:24:  TCR调测工具 V3.07
+15:14:29:  TCR调测工具 V3.07
+15:14:34:  TCR调测工具 V3.07
+15:14:39:  陈忠
+15:14:44:  陈忠
+15:14:49:  董鲁乾
+15:14:54:  董鲁乾
+15:14:59:  董鲁乾
+15:15:04:  董鲁乾
+15:15:09:  董鲁乾
+15:15:14:  董鲁乾
+15:15:19:  董鲁乾
+15:15:24:  董鲁乾
+15:15:29:  董鲁乾
+15:15:34:  董鲁乾
+15:15:39:  董鲁乾
+15:15:44:  董鲁乾
+15:15:49:  1T2集成测试 - OneNote
+15:15:54:  1T2集成测试 - OneNote
+15:15:59:  1T2集成测试 - OneNote
+15:16:04:  1T2集成测试 - OneNote
+15:16:09:  董鲁乾
+15:16:14:  1T1Stop
+15:16:19:  trunk
+15:16:24:  trunk
+15:16:29:  D:\00-06\Thespace\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+15:16:34:  untitled (trunk) - Sublime Text (UNREGISTERED)
+15:16:39:  untitled (trunk) - Sublime Text (UNREGISTERED)
+15:16:44:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:16:49:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:16:54:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:16:59:  D:\00-06\Thespace\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+15:17:04:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:17:09:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:17:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:17:19:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:17:24:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:17:29:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:17:34:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:17:39:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:17:44:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:17:49:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:17:59:  trunk
+15:18:04:  D:\00-06\1T1Stop\trunk - 日志信息 - TortoiseSVN
+15:18:09:  TrackCtrl.c - TortoiseMerge
+15:18:14:  TrackCtrl.c - TortoiseMerge
+15:18:19:  TrackCtrl.c - TortoiseMerge
+15:18:24:  TrackCtrl.c - TortoiseMerge
+15:18:29:  TrackCtrl.c - TortoiseMerge
+15:18:34:  TrackCtrl.c - TortoiseMerge
+15:18:39:  TrackCtrl.c - TortoiseMerge
+15:18:44:  TrackCtrl.c - TortoiseMerge
+15:18:49:  trunk
+15:18:54:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:18:59:  Project
+15:19:04:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:19:09:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:19:14:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:19:19:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:19:24:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:19:29:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:19:34:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:19:39:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:19:44:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:19:49:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:19:54:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:19:59:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:20:04:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:20:09:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:20:19:  D:\00-06\Thespace\trunk\Applications\ErrCode\ErrCode.h (trunk) - Sublime Text (UNREGISTERED)
+15:20:24:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:20:29:  D:\00-06\1T1Stop\trunk\Applications\ErrCode\ErrCode.h (trunk) - Sublime Text (UNREGISTERED)
+15:20:34:  D:\00-06\1T1Stop\trunk\Applications\ErrCode\ErrCode.h (trunk) - Sublime Text (UNREGISTERED)
+15:20:39:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:20:44:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:20:49:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:20:54:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:20:59:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:21:04:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:21:09:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:21:14:  董鲁乾
+15:21:19:  董鲁乾
+15:21:24:  董鲁乾
+15:21:29:  董鲁乾
+15:21:34:  董鲁乾
+15:21:39:  董鲁乾
+15:21:44:  董鲁乾
+15:21:49:  董鲁乾
+15:21:54:  董鲁乾
+15:21:59:  董鲁乾
+15:22:04:  董鲁乾
+15:22:09:  董鲁乾
+15:22:14:  董鲁乾
+15:22:19:  董鲁乾
+15:22:24:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+15:22:29:  Project
+15:22:34:  固件集成测试方案
+15:22:39:  董鲁乾
+15:22:44:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+15:22:49:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+15:22:54:  董鲁乾
+15:22:59:  董鲁乾
+15:23:04:  董鲁乾
+15:23:09:  董鲁乾
+15:23:14:  董鲁乾
+15:23:19:  董鲁乾
+15:23:24:  董鲁乾
+15:23:29:  董鲁乾
+15:23:34:  董鲁乾
+15:23:54:  00-06
+15:23:59:  8
+15:24:04:  00-06
+15:24:14:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:24:19:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:24:24:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:24:29:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+15:24:34:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:24:39:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:24:44:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:24:49:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:24:54:  董鲁乾
+15:25:04:  8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室
+15:25:09:  新建文件夹
+15:25:14:  本地磁盘 (D:)
+15:25:24:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:25:29:  回收
+15:25:34:  temp
+15:25:39:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+15:25:44:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:25:54:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:25:59:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:26:04:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:26:09:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:26:14:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+15:26:19:  Box_2__BTCR-1100190803000009_20200318155508.log - [No filter file]* - TextAnalysisTool.NET
+15:26:24:  K64_BTCR-1100190803000009_20200318155348
+15:26:29:  Box_2__BTCR-1100190803000009_20200318155348.log - [No filter file]* - TextAnalysisTool.NET
+15:26:34:  Box_2__BTCR-1100190803000009_20200318155348.log - [No filter file]* - TextAnalysisTool.NET
+15:26:39:  K64_BTCR-1100190803000009_20200318154537
+15:26:44:  K64_BTCR-1100190803000009_20200318154439
+15:26:49:  LOG
+15:26:54:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+15:26:59:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+15:27:04:  K64_BTCR-1100190803000009_20200318144300
+15:27:09:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+15:27:14:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+15:27:19:  K64_BTCR-1100190803000009_20200318144033
+15:27:24:  00-06
+15:27:29:  trunk
+15:27:34:  D:\00-06\1T1Stop\trunk - 工作副本 - TortoiseSVN
+15:27:39:  TrackCtrl.c - TortoiseMerge
+15:27:44:  TrackCtrl.c - TortoiseMerge
+15:27:49:  TrackCtrl.c - TortoiseMerge
+15:27:54:  TrackCtrl.c - TortoiseMerge
+15:27:59:  TrackCtrl.c - TortoiseMerge
+15:28:04:  TrackCtrl.c - TortoiseMerge
+15:28:09:  TrackCtrl.c - TortoiseMerge
+15:28:14:  TrackCtrl.c - TortoiseMerge
+15:28:19:  TrackCtrl.c - TortoiseMerge
+15:28:24:  TrackCtrl.c - TortoiseMerge
+15:28:29:  TrackCtrl.c - TortoiseMerge
+15:28:34:  TrackCtrl.c - TortoiseMerge
+15:28:39:  TrackCtrl.c - TortoiseMerge
+15:28:44:  TrackCtrl.c - TortoiseMerge
+15:28:49:  TrackCtrl.c - TortoiseMerge
+15:28:54:  TrackCtrl.c - TortoiseMerge
+15:28:59:  TrackCtrl.c - TortoiseMerge
+15:29:04:  TrackCtrl.c - TortoiseMerge
+15:29:09:  TrackCtrl.c - TortoiseMerge
+15:29:14:  TrackCtrl.c - TortoiseMerge
+15:29:19:  TrackCtrl.c - TortoiseMerge
+15:29:24:  TrackCtrl.c - TortoiseMerge
+15:29:29:  TrackCtrl.c - TortoiseMerge
+15:29:34:  TrackCtrl.c - TortoiseMerge
+15:29:39:  TrackCtrl.c - TortoiseMerge
+15:29:44:  TrackCtrl.c - TortoiseMerge
+15:29:49:  TrackCtrl.c - TortoiseMerge
+15:29:54:  TrackCtrl.c - TortoiseMerge
+15:29:59:  TrackCtrl.c - TortoiseMerge
+15:30:04:  TrackCtrl.c - TortoiseMerge
+15:28:09:  TrackCtrl.c - TortoiseMerge
+15:28:14:  TrackCtrl.c - TortoiseMerge
+15:28:19:  TrackCtrl.c - TortoiseMerge
+15:28:24:  TrackCtrl.c - TortoiseMerge
+15:28:29:  TrackCtrl.c - TortoiseMerge
+15:28:34:  TrackCtrl.c - TortoiseMerge
+15:28:39:  TrackCtrl.c - TortoiseMerge
+15:28:44:  TrackCtrl.c - TortoiseMerge
+15:28:49:  TrackCtrl.c - TortoiseMerge
+15:28:54:  TrackCtrl.c - TortoiseMerge
+15:28:59:  TrackCtrl.c - TortoiseMerge
+15:29:04:  TrackCtrl.c - TortoiseMerge
+15:29:09:  TrackCtrl.c - TortoiseMerge
+15:29:14:  TrackCtrl.c - TortoiseMerge
+15:29:19:  TrackCtrl.c - TortoiseMerge
+15:29:24:  TrackCtrl.c - TortoiseMerge
+15:29:29:  TrackCtrl.c - TortoiseMerge
+15:29:34:  TrackCtrl.c - TortoiseMerge
+15:29:39:  TrackCtrl.c - TortoiseMerge
+15:29:44:  TrackCtrl.c - TortoiseMerge
+15:29:49:  TrackCtrl.c - TortoiseMerge
+15:29:54:  TrackCtrl.c - TortoiseMerge
+15:29:59:  TrackCtrl.c - TortoiseMerge
+15:30:04:  TrackCtrl.c - TortoiseMerge
+15:30:09:  TrackCtrl.c - TortoiseMerge
+15:30:14:  TrackCtrl.c - TortoiseMerge
+15:30:19:  TrackCtrl.c - TortoiseMerge
+15:30:24:  TrackCtrl.c - TortoiseMerge
+15:30:29:  TrackCtrl.c - TortoiseMerge
+15:30:34:  TrackCtrl.c - TortoiseMerge
+15:30:39:  TrackCtrl.c - TortoiseMerge
+15:30:44:  TrackCtrl.c - TortoiseMerge
+15:30:49:  TrackCtrl.c - TortoiseMerge
+15:30:54:  TrackCtrl.c - TortoiseMerge
+15:30:59:  TrackCtrl.c - TortoiseMerge
+15:31:04:  TrackCtrl.c - TortoiseMerge
+15:31:09:  TrackCtrl.c - TortoiseMerge
+15:31:14:  TrackCtrl.c - TortoiseMerge
+15:31:19:  TrackCtrl.c - TortoiseMerge
+15:31:24:  TrackCtrl.c - TortoiseMerge
+15:31:29:  TrackCtrl.c - TortoiseMerge
+15:31:34:  TrackCtrl.c - TortoiseMerge
+15:31:39:  TrackCtrl.c - TortoiseMerge
+15:31:44:  TrackCtrl.c - TortoiseMerge
+15:31:49:  TrackCtrl.c - TortoiseMerge
+15:31:54:  TrackCtrl.c - TortoiseMerge
+15:31:59:  TrackCtrl.c - TortoiseMerge
+15:32:04:  TrackCtrl.c - TortoiseMerge
+15:32:09:  TrackCtrl.c - TortoiseMerge
+15:32:14:  TrackCtrl.c - TortoiseMerge
+15:32:19:  TrackCtrl.c - TortoiseMerge
+15:32:24:  TrackCtrl.c - TortoiseMerge
+15:32:29:  TrackCtrl.c - TortoiseMerge
+15:32:34:  TrackCtrl.c - TortoiseMerge
+15:32:39:  TrackCtrl.c - TortoiseMerge
+15:32:44:  TrackCtrl.c - TortoiseMerge
+15:32:49:  TrackCtrl.c - TortoiseMerge
+15:32:54:  TrackCtrl.c - TortoiseMerge
+15:32:59:  TrackCtrl.c - TortoiseMerge
+15:33:04:  TrackCtrl.c - TortoiseMerge
+15:33:14:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+15:33:39:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:33:44:  D:\00-06\1T1Stop\trunk - 工作副本 - TortoiseSVN
+15:33:49:  TrackCtrl.c - TortoiseMerge
+15:33:54:  TrackCtrl.c - TortoiseMerge
+15:33:59:  TrackCtrl.c - TortoiseMerge
+15:34:04:  TrackCtrl.c - TortoiseMerge
+15:34:09:  TrackCtrl.c - TortoiseMerge
+15:34:14:  TrackCtrl.c - TortoiseMerge
+15:34:19:  TrackCtrl.c - TortoiseMerge
+15:34:24:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:34:29:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+15:34:34:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+15:34:39:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+15:34:44:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:34:49:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:34:54:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:34:59:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+15:35:04:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:35:09:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:35:14:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:35:19:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:35:24:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:35:29:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:35:34:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+15:35:39:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+15:35:44:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+15:35:49:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:35:54:  TrackCtrl.c - TortoiseMerge
+15:35:59:  TrackCtrl.c - TortoiseMerge
+15:36:04:  TrackCtrl.c - TortoiseMerge
+15:36:09:  TrackCtrl.c - TortoiseMerge
+15:36:14:  TrackCtrl.c - TortoiseMerge
+15:36:19:  D:\00-06\1T1Stop\trunk - 工作副本 - TortoiseSVN
+15:36:24:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:36:29:  D:\00-06\1T1Stop\trunk - 日志信息 - TortoiseSVN
+15:36:34:  D:\00-06\1T1Stop\trunk - 日志信息 - TortoiseSVN
+15:36:39:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:36:44:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:36:49:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:36:54:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:36:59:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:37:04:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:37:09:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:37:14:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:37:19:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:37:24:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:37:29:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:37:34:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:37:39:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:37:44:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:37:49:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:37:54:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:37:59:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:38:04:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:38:09:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:38:14:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:38:19:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:38:24:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:38:29:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:38:34:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:38:39:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:38:44:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:38:49:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:38:54:  trunk
+15:38:59:  D:\00-06\1T1Stop\trunk\milestone.txt (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:39:04:  D:\00-06\1T1Stop\trunk\milestone.txt • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:39:09:  D:\00-06\1T1Stop\trunk\milestone.txt • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:39:14:  D:\00-06\1T1Stop\trunk\milestone.txt (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:39:19:  D:\00-06\1T1Stop\trunk\milestone.txt (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:39:24:  D:\00-06\1T1Stop\trunk\milestone.txt (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:39:29:  D:\00-06\1T1Stop\trunk\milestone.txt (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:39:34:  trunk
+15:39:39:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:39:44:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:39:49:  milestone.txt - TortoiseMerge
+15:39:54:  TrackCtrl.c - TortoiseMerge
+15:39:59:  TrackCtrl.c - TortoiseMerge
+15:40:04:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:40:09:  TrackCtrl.c - TortoiseMerge
+15:40:14:  TrackCtrl.c - TortoiseMerge
+15:40:19:  TrackCtrl.c - TortoiseMerge
+15:40:30:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:40:35:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:40:40:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:40:45:  milestone.txt - TortoiseMerge
+15:40:50:  milestone.txt - TortoiseMerge
+15:40:55:  milestone.txt - TortoiseMerge
+15:41:00:  milestone.txt - TortoiseMerge
+15:41:05:  D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN
+15:41:10:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+15:41:15:  D:\00-06\1T1Stop\trunk\Tools\CreateJK.exe
+15:41:20:  陈忠
+15:41:25:  Tools
+15:41:30:  Windows 资源管理器
+15:41:35:  样机配置履历表
+15:41:40:  K06
+15:41:45:  打开方式
+15:41:50:  \\192.168.28.47\08tcr测试过程记录\样机配置履历表\固件版本\最新固件\K06\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB.EEP (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:41:55:  K06
+15:42:05:  新建文件夹
+15:42:10:  1T2集成测试 - OneNote
+15:42:15:  INTERVAL_NUM - OneNote
+15:42:20:  新建文件夹
+15:42:25:  新建文件夹
+15:42:30:  新建文件夹
+15:42:35:  新建文件夹
+15:42:40:  新建文件夹
+15:42:45:  新建文件夹
+15:42:50:  新建文件夹
+15:42:55:  新建文件夹
+15:43:00:  新建文件夹
+15:43:05:  新建文件夹
+15:43:10:  新建文件夹
+15:43:15:  新建文件夹
+15:43:20:  新建文件夹
+15:43:25:  新建文件夹
+15:43:30:  新建文件夹
+15:43:35:  新建文件夹
+15:43:40:  新建文件夹
+15:43:45:  新建文件夹
+15:43:50:  新建文件夹
+15:43:55:  新建文件夹
+15:44:00:  新建文件夹
+15:44:05:  新建文件夹
+15:44:10:  新建文件夹
+15:44:15:  新建文件夹
+15:44:20:  新建文件夹
+15:44:25:  新建文件夹
+15:44:30:  新建文件夹
+15:44:35:  新建文件夹
+15:44:40:  新建文件夹
+15:44:45:  新建文件夹
+15:44:50:  新建文件夹
+15:44:55:  新建文件夹
+15:45:00:  新建文件夹
+15:44:05:  新建文件夹
+15:44:10:  新建文件夹
+15:44:15:  新建文件夹
+15:44:20:  新建文件夹
+15:44:25:  新建文件夹
+15:44:30:  新建文件夹
+15:44:35:  新建文件夹
+15:44:40:  新建文件夹
+15:44:45:  新建文件夹
+15:44:50:  新建文件夹
+15:44:55:  新建文件夹
+15:45:00:  新建文件夹
+15:45:05:  新建文件夹
+15:45:10:  新建文件夹
+15:45:15:  新建文件夹
+15:45:20:  新建文件夹
+15:45:25:  新建文件夹
+15:45:30:  新建文件夹
+15:45:35:  新建文件夹
+15:45:40:  新建文件夹
+15:45:45:  新建文件夹
+15:45:50:  新建文件夹
+15:45:55:  新建文件夹
+15:46:00:  新建文件夹
+15:46:05:  新建文件夹
+15:46:10:  新建文件夹
+15:46:15:  新建文件夹
+15:46:20:  新建文件夹
+15:46:25:  新建文件夹
+15:46:30:  新建文件夹
+15:46:35:  新建文件夹
+15:46:40:  新建文件夹
+15:46:45:  新建文件夹
+15:46:50:  新建文件夹
+15:46:55:  新建文件夹
+15:47:00:  新建文件夹
+15:47:05:  新建文件夹
+15:47:10:  新建文件夹
+15:47:15:  新建文件夹
+15:47:20:  新建文件夹
+15:47:25:  新建文件夹
+15:47:30:  新建文件夹
+15:47:35:  新建文件夹
+15:47:40:  新建文件夹
+15:47:45:  新建文件夹
+15:47:50:  新建文件夹
+15:47:55:  新建文件夹
+15:48:00:  新建文件夹
+15:48:05:  新建文件夹
+15:48:10:  新建文件夹
+15:48:15:  新建文件夹
+15:48:20:  新建文件夹
+15:48:25:  新建文件夹
+15:48:30:  新建文件夹
+15:48:35:  新建文件夹
+15:48:40:  新建文件夹
+15:48:45:  新建文件夹
+15:48:50:  新建文件夹
+15:48:55:  新建文件夹
+15:49:00:  新建文件夹
+15:49:05:  新建文件夹
+15:49:10:  新建文件夹
+15:49:15:  新建文件夹
+15:49:20:  新建文件夹
+15:49:25:  新建文件夹
+15:49:30:  新建文件夹
+15:49:35:  新建文件夹
+15:49:40:  新建文件夹
+15:49:45:  新建文件夹
+15:49:50:  新建文件夹
+15:49:55:  新建文件夹
+15:50:00:  新建文件夹
+15:50:05:  新建文件夹
+15:50:10:  新建文件夹
+15:50:15:  新建文件夹
+15:50:20:  新建文件夹
+15:50:25:  新建文件夹
+15:50:30:  新建文件夹
+15:50:35:  新建文件夹
+15:50:40:  新建文件夹
+15:50:45:  新建文件夹
+15:50:50:  新建文件夹
+15:50:55:  新建文件夹
+15:51:00:  新建文件夹
+15:51:05:  新建文件夹
+15:51:10:  新建文件夹
+15:51:15:  新建文件夹
+15:51:20:  新建文件夹
+15:51:25:  新建文件夹
+15:51:30:  新建文件夹
+15:51:35:  新建文件夹
+15:51:40:  新建文件夹
+15:51:45:  新建文件夹
+15:51:50:  新建文件夹
+15:51:55:  新建文件夹
+15:52:00:  新建文件夹
+15:52:05:  新建文件夹
+15:52:10:  新建文件夹
+15:52:15:  新建文件夹
+15:52:20:  新建文件夹
+15:52:25:  新建文件夹
+15:52:30:  新建文件夹
+15:52:35:  新建文件夹
+15:52:40:  新建文件夹
+15:52:45:  新建文件夹
+15:52:50:  新建文件夹
+15:52:55:  新建文件夹
+15:53:00:  新建文件夹
+15:53:05:  新建文件夹
+15:53:10:  新建文件夹
+15:53:15:  新建文件夹
+15:53:20:  新建文件夹
+15:53:25:  新建文件夹
+15:53:30:  新建文件夹
+15:53:35:  新建文件夹
+15:53:40:  新建文件夹
+15:53:45:  新建文件夹
+15:53:50:  新建文件夹
+15:53:55:  新建文件夹
+15:54:00:  新建文件夹
+15:54:05:  新建文件夹
+15:54:10:  新建文件夹
+15:54:15:  新建文件夹
+15:54:20:  新建文件夹
+15:54:25:  新建文件夹
+15:54:30:  新建文件夹
+15:54:35:  新建文件夹
+15:54:40:  新建文件夹
+15:54:45:  新建文件夹
+15:54:50:  新建文件夹
+15:54:55:  新建文件夹
+15:55:00:  新建文件夹
+15:55:05:  新建文件夹
+15:55:10:  新建文件夹
+15:55:15:  新建文件夹
+15:55:20:  新建文件夹
+15:55:25:  新建文件夹
+15:55:30:  新建文件夹
+15:55:35:  新建文件夹
+15:55:40:  新建文件夹
+15:55:45:  新建文件夹
+15:55:50:  新建文件夹
+15:55:55:  新建文件夹
+15:56:00:  新建文件夹
+15:56:05:  新建文件夹
+15:56:10:  新建文件夹
+15:56:15:  新建文件夹
+15:56:20:  新建文件夹
+15:56:25:  新建文件夹
+15:56:30:  新建文件夹
+15:56:35:  新建文件夹
+15:56:40:  新建文件夹
+15:56:45:  新建文件夹
+15:56:50:  新建文件夹
+15:56:55:  新建文件夹
+15:57:00:  新建文件夹
+15:57:05:  新建文件夹
+15:57:10:  新建文件夹
+15:57:15:  新建文件夹
+15:57:20:  新建文件夹
+15:57:25:  新建文件夹
+15:57:30:  新建文件夹
+15:57:35:  新建文件夹
+15:57:40:  新建文件夹
+15:57:45:  新建文件夹
+15:57:50:  新建文件夹
+15:57:55:  新建文件夹
+15:58:00:  新建文件夹
+15:58:05:  新建文件夹
+15:58:10:  新建文件夹
+15:58:15:  新建文件夹
+15:58:20:  新建文件夹
+15:58:25:  新建文件夹
+15:58:30:  新建文件夹
+15:58:35:  新建文件夹
+15:58:40:  新建文件夹
+15:58:45:  新建文件夹
+15:58:50:  新建文件夹
+15:58:55:  新建文件夹
+15:59:00:  新建文件夹
+15:59:05:  新建文件夹
+15:59:10:  新建文件夹
+15:59:15:  新建文件夹
+15:59:20:  新建文件夹
+15:59:25:  新建文件夹
+15:59:30:  新建文件夹
+15:59:35:  新建文件夹
+15:59:40:  新建文件夹
+15:59:45:  新建文件夹
+15:59:50:  新建文件夹
+15:59:55:  新建文件夹
+16:00:00:  新建文件夹
+15:58:05:  新建文件夹
+15:58:10:  新建文件夹
+15:58:15:  新建文件夹
+15:58:20:  新建文件夹
+15:58:25:  新建文件夹
+15:58:30:  新建文件夹
+15:58:35:  新建文件夹
+15:58:40:  新建文件夹
+15:58:45:  新建文件夹
+15:58:50:  新建文件夹
+15:58:55:  新建文件夹
+15:59:00:  新建文件夹
+15:59:05:  新建文件夹
+15:59:10:  新建文件夹
+15:59:15:  新建文件夹
+15:59:20:  新建文件夹
+15:59:25:  新建文件夹
+15:59:30:  新建文件夹
+15:59:35:  新建文件夹
+15:59:40:  新建文件夹
+15:59:45:  新建文件夹
+15:59:50:  新建文件夹
+15:59:55:  新建文件夹
+16:00:00:  新建文件夹
+16:00:05:  新建文件夹
+16:00:10:  新建文件夹
+16:00:15:  新建文件夹
+16:00:20:  新建文件夹
+16:00:25:  新建文件夹
+16:00:30:  新建文件夹
+16:00:35:  新建文件夹
+16:00:40:  新建文件夹
+16:00:45:  新建文件夹
+16:00:50:  新建文件夹
+16:00:55:  新建文件夹
+16:01:00:  新建文件夹
+16:01:05:  新建文件夹
+16:01:10:  新建文件夹
+16:01:15:  新建文件夹
+16:01:20:  新建文件夹
+16:01:25:  新建文件夹
+16:01:30:  新建文件夹
+16:01:35:  新建文件夹
+16:01:40:  新建文件夹
+16:01:45:  新建文件夹
+16:01:50:  新建文件夹
+16:01:55:  新建文件夹
+16:02:00:  新建文件夹
+16:02:05:  新建文件夹
+16:02:10:  新建文件夹
+16:02:15:  新建文件夹
+16:02:20:  新建文件夹
+16:02:25:  新建文件夹
+16:02:30:  新建文件夹
+16:02:35:  新建文件夹
+16:02:40:  新建文件夹
+16:02:45:  新建文件夹
+16:02:50:  新建文件夹
+16:02:55:  新建文件夹
+16:03:00:  新建文件夹
+16:03:05:  新建文件夹
+16:03:10:  新建文件夹
+16:03:15:  新建文件夹
+16:03:20:  新建文件夹
+16:03:25:  新建文件夹
+16:03:30:  新建文件夹
+16:03:35:  新建文件夹
+16:03:40:  新建文件夹
+16:03:45:  新建文件夹
+16:03:50:  新建文件夹
+16:03:55:  新建文件夹
+16:04:00:  新建文件夹
+16:04:05:  新建文件夹
+16:04:10:  新建文件夹
+16:04:15:  新建文件夹
+16:04:20:  新建文件夹
+16:04:25:  新建文件夹
+16:04:30:  新建文件夹
+16:04:35:  新建文件夹
+16:04:40:  新建文件夹
+16:04:45:  新建文件夹
+16:04:50:  新建文件夹
+16:04:55:  新建文件夹
+16:05:00:  新建文件夹
+16:05:05:  新建文件夹
+16:05:10:  新建文件夹
+16:05:15:  新建文件夹
+16:05:20:  新建文件夹
+16:05:25:  新建文件夹
+16:05:30:  新建文件夹
+16:05:35:  新建文件夹
+16:05:40:  新建文件夹
+16:05:45:  新建文件夹
+16:05:50:  新建文件夹
+16:05:55:  新建文件夹
+16:06:00:  新建文件夹
+16:06:05:  新建文件夹
+16:06:10:  新建文件夹
+16:06:15:  新建文件夹
+16:06:20:  新建文件夹
+16:06:25:  新建文件夹
+16:06:30:  新建文件夹
+16:06:35:  新建文件夹
+16:06:40:  新建文件夹
+16:06:45:  新建文件夹
+16:06:50:  新建文件夹
+16:06:55:  新建文件夹
+16:07:00:  新建文件夹
+16:07:05:  新建文件夹
+16:07:10:  新建文件夹
+16:07:15:  新建文件夹
+16:07:20:  新建文件夹
+16:07:25:  新建文件夹
+16:07:30:  新建文件夹
+16:07:35:  新建文件夹
+16:07:40:  新建文件夹
+16:07:45:  新建文件夹
+16:07:50:  新建文件夹
+16:07:55:  新建文件夹
+16:08:00:  新建文件夹
+16:08:05:  新建文件夹
+16:08:10:  新建文件夹
+16:08:15:  新建文件夹
+16:08:20:  新建文件夹
+16:08:25:  新建文件夹
+16:08:30:  新建文件夹
+16:08:35:  新建文件夹
+16:08:40:  新建文件夹
+16:08:45:  新建文件夹
+16:08:50:  新建文件夹
+16:08:55:  新建文件夹
+16:09:00:  新建文件夹
+16:09:05:  新建文件夹
+16:09:10:  新建文件夹
+16:09:15:  新建文件夹
+16:09:20:  新建文件夹
+16:09:25:  新建文件夹
+16:09:30:  新建文件夹
+16:09:35:  新建文件夹
+16:09:40:  新建文件夹
+16:09:45:  新建文件夹
+16:09:50:  新建文件夹
+16:09:55:  新建文件夹
+16:10:00:  新建文件夹
+16:10:05:  新建文件夹
+16:10:10:  新建文件夹
+16:10:15:  新建文件夹
+16:10:20:  新建文件夹
+16:10:25:  新建文件夹
+16:10:30:  新建文件夹
+16:10:35:  新建文件夹
+16:10:40:  新建文件夹
+16:10:45:  新建文件夹
+16:10:50:  新建文件夹
+16:10:55:  新建文件夹
+16:11:00:  新建文件夹
+16:11:05:  新建文件夹
+16:11:10:  新建文件夹
+16:11:15:  新建文件夹
+16:11:20:  新建文件夹
+16:11:25:  新建文件夹
+16:11:30:  新建文件夹
+16:11:35:  新建文件夹
+16:11:40:  新建文件夹
+16:11:45:  新建文件夹
+16:11:50:  新建文件夹
+16:11:55:  新建文件夹
+16:12:00:  新建文件夹
+16:12:05:  新建文件夹
+16:12:10:  新建文件夹
+16:12:15:  新建文件夹
+16:12:20:  新建文件夹
+16:12:25:  新建文件夹
+16:12:30:  新建文件夹
+16:12:35:  新建文件夹
+16:12:40:  新建文件夹
+16:12:45:  新建文件夹
+16:12:50:  新建文件夹
+16:12:55:  新建文件夹
+16:13:00:  新建文件夹
+16:13:05:  新建文件夹
+16:13:10:  新建文件夹
+16:13:15:  新建文件夹
+16:13:20:  新建文件夹
+16:13:25:  新建文件夹
+16:13:30:  新建文件夹
+16:13:35:  新建文件夹
+16:13:40:  新建文件夹
+16:13:45:  新建文件夹
+16:13:50:  新建文件夹
+16:13:55:  新建文件夹
+16:14:00:  新建文件夹
+16:14:05:  新建文件夹
+16:14:10:  新建文件夹
+16:14:15:  新建文件夹
+16:14:20:  新建文件夹
+16:14:25:  新建文件夹
+16:14:30:  新建文件夹
+16:14:35:  新建文件夹
+16:14:40:  新建文件夹
+16:14:45:  新建文件夹
+16:14:50:  新建文件夹
+16:14:55:  新建文件夹
+16:15:00:  新建文件夹
+16:14:05:  新建文件夹
+16:14:10:  新建文件夹
+16:14:15:  新建文件夹
+16:14:20:  新建文件夹
+16:14:25:  新建文件夹
+16:14:30:  新建文件夹
+16:14:35:  新建文件夹
+16:14:40:  新建文件夹
+16:14:45:  新建文件夹
+16:14:50:  新建文件夹
+16:14:55:  新建文件夹
+16:15:00:  新建文件夹
+16:15:05:  新建文件夹
+16:15:10:  新建文件夹
+16:15:15:  新建文件夹
+16:15:20:  新建文件夹
+16:15:25:  新建文件夹
+16:15:30:  新建文件夹
+16:15:35:  新建文件夹
+16:15:40:  新建文件夹
+16:15:45:  新建文件夹
+16:15:50:  新建文件夹
+16:15:55:  新建文件夹
+16:16:00:  新建文件夹
+16:16:05:  新建文件夹
+16:16:10:  新建文件夹
+16:16:15:  新建文件夹
+16:16:20:  新建文件夹
+16:16:25:  新建文件夹
+16:16:30:  新建文件夹
+16:16:35:  新建文件夹
+16:16:40:  新建文件夹
+16:16:45:  新建文件夹
+16:16:50:  新建文件夹
+16:16:55:  新建文件夹
+16:17:00:  新建文件夹
+16:17:05:  新建文件夹
+16:17:10:  新建文件夹
+16:17:15:  新建文件夹
+16:17:20:  新建文件夹
+16:17:25:  新建文件夹
+16:17:30:  新建文件夹
+16:17:35:  新建文件夹
+16:17:40:  新建文件夹
+16:17:45:  新建文件夹
+16:17:50:  新建文件夹
+16:17:55:  新建文件夹
+16:18:00:  新建文件夹
+16:18:05:  新建文件夹
+16:18:10:  新建文件夹
+16:18:15:  新建文件夹
+16:18:20:  新建文件夹
+16:18:25:  新建文件夹
+16:18:30:  新建文件夹
+16:18:35:  新建文件夹
+16:18:40:  新建文件夹
+16:18:45:  新建文件夹
+16:18:50:  新建文件夹
+16:18:55:  新建文件夹
+16:19:00:  新建文件夹
+16:19:05:  新建文件夹
+16:19:10:  新建文件夹
+16:19:15:  新建文件夹
+16:19:20:  新建文件夹
+16:19:25:  新建文件夹
+16:19:30:  新建文件夹
+16:19:35:  新建文件夹
+16:19:40:  新建文件夹
+16:19:45:  新建文件夹
+16:19:50:  新建文件夹
+16:19:55:  新建文件夹
+16:20:00:  新建文件夹
+16:20:05:  新建文件夹
+16:20:10:  新建文件夹
+16:20:15:  新建文件夹
+16:20:20:  新建文件夹
+16:20:25:  新建文件夹
+16:20:30:  新建文件夹
+16:20:35:  新建文件夹
+16:20:40:  新建文件夹
+16:20:45:  新建文件夹
+16:20:50:  新建文件夹
+16:20:55:  新建文件夹
+16:21:00:  新建文件夹
+16:21:05:  新建文件夹
+16:21:10:  新建文件夹
+16:21:15:  新建文件夹
+16:21:20:  新建文件夹
+16:21:25:  新建文件夹
+16:21:30:  新建文件夹
+16:21:35:  新建文件夹
+16:21:40:  新建文件夹
+16:21:45:  新建文件夹
+16:21:50:  新建文件夹
+16:21:55:  新建文件夹
+16:22:00:  新建文件夹
+16:22:05:  新建文件夹
+16:22:10:  新建文件夹
+16:22:15:  新建文件夹
+16:22:20:  新建文件夹
+16:22:25:  新建文件夹
+16:22:30:  新建文件夹
+16:22:35:  新建文件夹
+16:22:40:  新建文件夹
+16:22:45:  新建文件夹
+16:22:50:  新建文件夹
+16:22:55:  新建文件夹
+16:23:00:  新建文件夹
+16:23:05:  新建文件夹
+16:23:10:  新建文件夹
+16:23:15:  新建文件夹
+16:23:20:  新建文件夹
+16:23:25:  新建文件夹
+16:23:30:  新建文件夹
+16:23:35:  新建文件夹
+16:23:40:  新建文件夹
+16:23:45:  新建文件夹
+16:23:50:  新建文件夹
+16:23:55:  新建文件夹
+16:24:00:  新建文件夹
+16:24:05:  新建文件夹
+16:24:10:  新建文件夹
+16:24:15:  新建文件夹
+16:24:20:  新建文件夹
+16:24:25:  新建文件夹
+16:24:30:  新建文件夹
+16:24:35:  新建文件夹
+16:24:40:  新建文件夹
+16:24:45:  新建文件夹
+16:24:50:  新建文件夹
+16:24:55:  新建文件夹
+16:25:00:  新建文件夹
+16:25:05:  新建文件夹
+16:25:10:  新建文件夹
+16:25:15:  新建文件夹
+16:25:20:  新建文件夹
+16:25:25:  新建文件夹
+16:25:30:  新建文件夹
+16:25:35:  新建文件夹
+16:25:40:  新建文件夹
+16:25:45:  新建文件夹
+16:25:50:  新建文件夹
+16:25:55:  新建文件夹
+16:26:00:  新建文件夹
+16:26:05:  新建文件夹
+16:26:10:  新建文件夹
+16:26:15:  新建文件夹
+16:26:20:  新建文件夹
+16:26:25:  新建文件夹
+16:26:30:  新建文件夹
+16:26:35:  新建文件夹
+16:26:40:  新建文件夹
+16:26:45:  新建文件夹
+16:26:50:  新建文件夹
+16:26:55:  新建文件夹
+16:27:00:  新建文件夹
+16:27:05:  新建文件夹
+16:27:10:  新建文件夹
+16:27:15:  新建文件夹
+16:27:20:  新建文件夹
+16:27:25:  新建文件夹
+16:27:30:  新建文件夹
+16:27:35:  新建文件夹
+16:27:40:  新建文件夹
+16:27:45:  新建文件夹
+16:27:50:  新建文件夹
+16:27:55:  新建文件夹
+16:28:00:  新建文件夹
+16:28:05:  新建文件夹
+16:28:10:  新建文件夹
+16:28:15:  新建文件夹
+16:28:20:  新建文件夹
+16:28:25:  新建文件夹
+16:28:30:  新建文件夹
+16:28:35:  新建文件夹
+16:28:40:  新建文件夹
+16:28:45:  新建文件夹
+16:28:50:  新建文件夹
+16:28:55:  新建文件夹
+16:29:00:  新建文件夹
+16:29:05:  新建文件夹
+16:29:10:  新建文件夹
+16:29:15:  新建文件夹
+16:29:20:  新建文件夹
+16:29:25:  新建文件夹
+16:29:30:  新建文件夹
+16:29:35:  新建文件夹
+16:29:40:  新建文件夹
+16:29:45:  新建文件夹
+16:29:50:  新建文件夹
+16:29:55:  新建文件夹
+16:30:00:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+16:28:05:  新建文件夹
+16:28:10:  新建文件夹
+16:28:15:  新建文件夹
+16:28:20:  新建文件夹
+16:28:25:  新建文件夹
+16:28:30:  新建文件夹
+16:28:35:  新建文件夹
+16:28:40:  新建文件夹
+16:28:45:  新建文件夹
+16:28:50:  新建文件夹
+16:28:55:  新建文件夹
+16:29:00:  新建文件夹
+16:29:05:  新建文件夹
+16:29:10:  新建文件夹
+16:29:15:  新建文件夹
+16:29:20:  新建文件夹
+16:29:25:  新建文件夹
+16:29:30:  新建文件夹
+16:29:35:  新建文件夹
+16:29:40:  新建文件夹
+16:29:45:  新建文件夹
+16:29:50:  新建文件夹
+16:29:55:  新建文件夹
+

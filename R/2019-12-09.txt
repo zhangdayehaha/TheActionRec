@@ -1,0 +1,9 @@
+2019-12-09 08:04:46-- 08:04:59     :上班    频繁  ：   0
+
+2019-12-09 10:33:09-- 11:06:50     :拨叉集成测试    频繁  ：R   14
+2019-12-09 11:06:50-- 11:30:31     :托板功能集成测试    频繁  ：D:\00-06\1\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision   24
+2019-12-09 11:30:31-- 13:18:43     :下午上班    频繁  ：D:\00-06\1\branches\BR-1-CashBox1T2\Middlewares\Plate\UpperPlate.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   11
+2019-12-09 13:18:43-- 13:30:16     :下午上班    频繁  ：D:\00-06\1\branches\BR-1-CashBox1T2\Middlewares\Plate\UpperPlate.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   7
+2019-12-09 13:30:16-- 14:01:00     :下午上班    频繁  ：TCR调测工具 V3.36   20
+2019-12-09 14:01:00-- 14:32:16     :跑钞箱，托板功能集成测试    频繁  ：TCR调测工具 V3.36   20
+2019-12-09 14:32:16-- 15:00:25     :跑钞箱，    频繁  ：TCR调测工具 V3.36   15

@@ -1,0 +1,584 @@
+08:03:48:  *新建文本文档 (2).py - E:\新建文本文档 (2).py (3.7.3)*
+08:03:53:  本地磁盘 (E:)
+08:04:23:  于斌1
+08:04:28:  本地磁盘 (E:)
+08:05:13:  新建文本文档 (2).py - E:\新建文本文档 (2).py (3.7.3)
+08:05:33:  *新建文本文档 (2).py - E:\新建文本文档 (2).py (3.7.3)*
+08:06:13:  Save Before Run or Check
+08:06:18:  新建文本文档 (2).py - E:\新建文本文档 (2).py (3.7.3)
+08:06:23:  *Python 3.7.3 Shell*
+08:06:28:  Python 3.7.3 Shell
+08:06:33:  新建文本文档 (2).py - E:\新建文本文档 (2).py (3.7.3)
+08:06:43:  本地磁盘 (E:)
+08:07:28:  PaperManage.c - TortoiseMerge
+08:19:53:  0-工作 - 张开发 - 印象笔记
+08:20:03:  PaperManage.c - TortoiseMerge
+08:20:08:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (meger) - Sublime Text (UNREGISTERED)
+08:20:43:  锁屏状态
+08:20:48:  0-工作 - 张开发 - 印象笔记
+08:20:53:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (meger) - Sublime Text (UNREGISTERED)
+08:20:58:  Windows 任务管理器
+08:21:03:  D:\00-06\1T1-Stop-Length\trunk\Applications\ErrCode\ErrCode.h (meger) - Sublime Text (UNREGISTERED)
+08:21:08:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (meger) - Sublime Text (UNREGISTERED)
+08:26:18:  锁屏状态
+08:26:23:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (meger) - Sublime Text (UNREGISTERED)
+08:26:48:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.h (meger) - Sublime Text (UNREGISTERED)
+08:26:58:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (meger) - Sublime Text (UNREGISTERED)
+08:27:13:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.h (meger) - Sublime Text (UNREGISTERED)
+08:27:28:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (meger) - Sublime Text (UNREGISTERED)
+08:30:13:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.h (meger) - Sublime Text (UNREGISTERED)
+08:30:23:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (meger) - Sublime Text (UNREGISTERED)
+08:30:48:  eSpace
+08:30:58:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (meger) - Sublime Text (UNREGISTERED)
+08:36:28:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:36:48:  D:\00-06\meger\Applications\Instruction\InstrReturn.c (meger) - Sublime Text (UNREGISTERED)
+08:37:13:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:37:18:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:37:48:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:37:53:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:40:48:  D:\00-06\meger\Applications\PaperManage\PaperManage.h (meger) - Sublime Text (UNREGISTERED)
+08:40:53:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:41:03:  D:\00-06\meger\Applications\PaperManage\PaperManage.h (meger) - Sublime Text (UNREGISTERED)
+08:41:08:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:41:23:  D:\00-06\meger\Applications\PaperManage\PaperManage.h (meger) - Sublime Text (UNREGISTERED)
+08:41:28:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:42:18:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:43:08:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:43:48:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:44:23:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:44:43:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:44:53:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:44:23:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:44:43:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:44:53:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:45:48:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:45:53:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:46:03:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:46:08:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:46:28:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:46:43:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:47:53:  RTT_SeggerLog_202102041423.log - [No filter file] - TextAnalysisTool.NET
+08:48:03:  RTT_SeggerLog_202102041004.log - [No filter file] - TextAnalysisTool.NET
+08:48:13:  RTT_SeggerLog_202102041129.log - [No filter file] - TextAnalysisTool.NET
+08:48:18:  RTT_SeggerLog_202102050839.log - [No filter file] - TextAnalysisTool.NET
+08:48:28:  新建文件夹 (3)
+08:48:33:  fenxi
+08:48:38:  K64_0000_20210207104234
+08:48:43:  fenxi
+08:48:48:  K64_BTCR-1100200700510494_20201228141034
+08:48:53:  Box_3__BTCR-1100200700510494_20201228141034.log - [No filter file] - TextAnalysisTool.NET
+08:48:58:  Box_3__BTCR-1100200700510494_20201228141034.log - DRB.tat - TextAnalysisTool.NET
+08:49:28:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:49:43:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:49:53:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:50:03:  D:\00-06\meger\Applications\PaperManage\PaperManage.h (meger) - Sublime Text (UNREGISTERED)
+08:50:08:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:50:13:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:50:18:  于斌1
+08:51:33:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:51:43:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:51:48:  D:\00-06\meger\Applications\PaperManage\PaperManage.h (meger) - Sublime Text (UNREGISTERED)
+08:52:03:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:52:13:  D:\00-06\meger\Applications\PaperManage\PaperManage.h (meger) - Sublime Text (UNREGISTERED)
+08:52:18:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:52:33:  于斌1
+08:52:38:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:53:43:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:53:48:  Box_3__BTCR-1100200700510494_20201228141034.log - DRB.tat - TextAnalysisTool.NET
+08:54:28:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+08:54:33:  fenxi
+08:54:43:  Decode
+08:54:48:  fenxi
+08:54:58:  大额存款第3张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B6
+08:55:03:  K64_0000_20210113141857
+08:55:08:  Box_2__0000_20210113141857.log - DRB.tat - TextAnalysisTool.NET
+08:55:18:  fenxi
+08:55:23:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+08:55:28:  apai
+08:55:33:  LOG
+08:55:38:  Box_4__11_20210125134953.log - DRB.tat - TextAnalysisTool.NET
+08:55:48:  爆仓问题(1)
+08:55:53:  倾斜拒钞1张，其他拒钞6张
+08:56:03:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c • (10) - Sublime Text (UNREGISTERED)
+08:57:03:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:57:08:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:43:43:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:43:53:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+09:45:53:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.h (trunk) - Sublime Text (UNREGISTERED)
+09:45:58:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+09:46:43:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+09:46:58:  eSpace
+09:47:03:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+09:49:28:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.h (trunk) - Sublime Text (UNREGISTERED)
+09:49:33:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+09:49:38:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:49:43:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.h (trunk) - Sublime Text (UNREGISTERED)
+09:49:48:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.h (trunk) - Sublime Text (UNREGISTERED)
+09:49:53:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+09:50:58:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+09:51:08:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+09:51:23:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+09:52:24:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:53:14:  新北洋OA信息化平台 - Internet Explorer
+09:53:19:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:53:24:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:53:29:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:57:34:  自动播放
+09:57:39:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:59:29:  D:\00-06\meger\Applications\PaperManage\PaperManage.h (meger) - Sublime Text (UNREGISTERED)
+09:59:34:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:59:39:  程明昌
+09:59:29:  D:\00-06\meger\Applications\PaperManage\PaperManage.h (meger) - Sublime Text (UNREGISTERED)
+09:59:34:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:59:39:  程明昌
+10:01:24:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:01:29:  程明昌
+10:01:54:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:01:59:  于斌1
+10:03:39:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:03:49:  于斌1
+10:07:19:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:09:39:  于斌1
+10:10:29:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:13:04:  于斌1
+10:13:34:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:13:44:  于斌1
+10:14:14:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:14:39:  于斌1
+10:14:49:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:14:14:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:14:39:  于斌1
+10:14:49:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:15:24:  于斌1
+10:16:24:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:16:34:  于斌1
+10:16:44:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:17:19:  于斌1
+10:18:19:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:18:54:  于斌1
+10:19:09:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:20:09:  于斌1
+10:20:39:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:20:44:  于斌1
+10:21:39:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:21:59:  于斌1
+10:22:14:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:23:14:  于斌1
+10:23:49:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:28:09:  于斌1
+10:28:24:  文档
+10:28:39:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+10:29:04:  文档
+10:29:14:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:29:19:  桌面整理
+10:29:24:  CashBoxDareV2.3.py - C:\Users\zhangkaifa\Desktop\CashBoxDareV2.3.py (3.7.3)
+10:30:04:  于斌1
+10:28:09:  于斌1
+10:28:24:  文档
+10:28:39:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+10:29:04:  文档
+10:29:14:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:29:19:  桌面整理
+10:29:24:  CashBoxDareV2.3.py - C:\Users\zhangkaifa\Desktop\CashBoxDareV2.3.py (3.7.3)
+10:30:04:  于斌1
+10:35:59:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:36:09:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+10:36:14:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:38:34:  于斌1
+10:39:14:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:40:54:  于斌1
+10:42:29:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:44:49:  于斌1
+10:44:49:  于斌1
+10:45:24:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:47:19:  于斌1
+10:47:29:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:47:34:  于斌1
+10:48:04:  eSpace
+10:48:09:  于斌1
+10:48:19:  Foxmail
+10:48:49:  于斌1
+10:48:54:  Foxmail
+10:50:59:  于斌1
+10:51:39:  Foxmail
+10:52:09:  于斌1
+10:55:44:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:56:09:  于斌1
+10:57:29:  eSpace
+10:57:34:  于斌1
+10:57:59:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:58:49:  于斌1
+10:58:54:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:59:09:  于斌1
+10:59:19:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:58:49:  于斌1
+10:58:54:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:59:09:  于斌1
+10:59:19:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:03:39:  于斌1
+11:03:44:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:04:34:  锁屏状态
+11:04:44:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:04:54:  文档
+11:04:59:  C:\Users\zhangkaifa\Documents\GIF 2020-3-5 13-21-27.gif - Internet Explorer
+11:06:19:  C:\Users\zhangkaifa\Documents\GIF 2020-3-5 13-16-34.gif - Internet Explorer
+11:06:29:  文档
+11:06:34:  msgerror.txt - 记事本
+11:06:39:  文档
+11:06:59:  Creo View
+11:07:04:  Creo View Express
+11:07:09:  文档
+11:07:34:  weiboping (2).py - C:\Users\zhangkaifa\Documents\weiboping (2).py (3.7.3)
+11:07:39:  于斌1
+11:07:44:  文档
+11:07:54:  截图3.PNG - Windows 照片查看器
+11:08:09:  文档
+11:09:54:  截图.PNG - Windows 照片查看器
+11:10:54:  scope_5.png - Windows 照片查看器
+11:10:59:  截图.PNG - Windows 照片查看器
+11:11:04:  截图3.PNG - Windows 照片查看器
+11:11:09:  未命名图片.png - Windows 照片查看器
+11:11:14:  文档
+11:11:19:  截图3.PNG - Windows 照片查看器
+11:11:24:  图片
+11:13:04:  于斌1
+11:13:39:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:13:49:  于斌1
+11:15:44:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:19:39:  新北洋OA信息化平台 - Internet Explorer
+11:19:44:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:25:29:  Box_4__11_20210125134953.log - DRB.tat - TextAnalysisTool.NET
+11:25:54:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:28:54:  D:\00-06\meger\FwLib\StdSnbc\StdMacro.h (meger) - Sublime Text (UNREGISTERED)
+11:28:59:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:28:54:  D:\00-06\meger\FwLib\StdSnbc\StdMacro.h (meger) - Sublime Text (UNREGISTERED)
+11:28:59:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:33:35:  D:\00-06\meger\Applications\PaperManage\PaperManage.h (meger) - Sublime Text (UNREGISTERED)
+11:33:50:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:34:30:  D:\00-06\meger\Applications\PaperManage\PaperManage.h (meger) - Sublime Text (UNREGISTERED)
+11:34:35:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:40:45:  锁屏状态
+13:19:20:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:20:20:  iTunes
+13:20:25:  自动播放
+13:20:40:  iTunes
+13:20:45:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:21:20:  于斌1
+13:21:45:  锁屏状态
+13:21:50:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:21:55:  员工自助 - Internet Explorer
+13:22:21:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:23:36:  D:\00-06\meger\Applications\Instruction\InstrReturn.c (meger) - Sublime Text (UNREGISTERED)
+13:23:46:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:26:51:  Box_4__11_20210125134953.log - DRB.tat - TextAnalysisTool.NET
+13:26:56:  fenxi
+13:27:06:  K64_BTCR-1100200700510494_20201228141034
+13:27:11:  Box_3__BTCR-1100200700510494_20201228141034.log - DRB.tat - TextAnalysisTool.NET
+13:27:36:  K64_BTCR-1100200700510494_20201228140854
+13:27:41:  Box_3__BTCR-1100200700510494_20201228140854.log - DRB.tat - TextAnalysisTool.NET
+13:28:06:  K64_BTCR-1100200700510494_20201228140854
+13:28:11:  Box_3__BTCR-1100200700510494_20201228140854.log - DRB.tat - TextAnalysisTool.NET
+13:28:16:  Box_3__BTCR-1100200700510494_20201228140756.log - DRB.tat - TextAnalysisTool.NET
+13:28:26:  K64_BTCR-1100200700510494_20201228140627
+13:28:31:  Box_3__BTCR-1100200700510494_20201228140627.log - DRB.tat - TextAnalysisTool.NET
+13:28:56:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:28:06:  K64_BTCR-1100200700510494_20201228140854
+13:28:11:  Box_3__BTCR-1100200700510494_20201228140854.log - DRB.tat - TextAnalysisTool.NET
+13:28:16:  Box_3__BTCR-1100200700510494_20201228140756.log - DRB.tat - TextAnalysisTool.NET
+13:28:26:  K64_BTCR-1100200700510494_20201228140627
+13:28:31:  Box_3__BTCR-1100200700510494_20201228140627.log - DRB.tat - TextAnalysisTool.NET
+13:28:56:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:33:16:  Box_3__BTCR-1100200700510494_20201228140627.log - DRB.tat - TextAnalysisTool.NET
+13:33:21:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:33:41:  Box_3__BTCR-1100200700510494_20201228140627.log - DRB.tat - TextAnalysisTool.NET
+13:34:56:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:35:11:  Box_3__BTCR-1100200700510494_20201228140627.log - DRB.tat - TextAnalysisTool.NET
+13:35:16:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:35:21:  Box_3__BTCR-1100200700510494_20201228140627.log - DRB.tat - TextAnalysisTool.NET
+13:35:56:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:36:01:  D:\00-06\meger\Applications\Instruction\InstrReturn.c (meger) - Sublime Text (UNREGISTERED)
+13:36:16:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+13:37:06:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:37:16:  Box_3__BTCR-1100200700510494_20201228140627.log - DRB.tat - TextAnalysisTool.NET
+13:37:56:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:38:11:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+13:38:31:  D:\00-06\meger\Applications\PaperManage\PaperManage.h (meger) - Sublime Text (UNREGISTERED)
+13:38:36:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+13:39:26:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:40:26:  eSpace
+13:43:01:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:47:56:  0-工作 - 张开发 - 印象笔记
+13:48:01:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:53:01:  锁屏状态
+13:53:06:  要恢复页面吗？
+13:53:11:  班车管理系统 - Google Chrome
+13:53:21:  班车管理系统 [新北洋集团] - Google Chrome
+13:57:31:  百度一下，你就知道 - Google Chrome
+13:57:36:  https://www.baidu.com/link?url=nPd-ZlWs8ufkmY1bapUqL6w55R5tOZOGK16q8RDKrbTyKSJv5xbnbhH5uBE0TfpSLshl_x-77C9B2Ysi8ij7Qq&wd=&eqid=a8f29a76000657b600000002602f534a - Google Chrome
+13:57:41:  班车管理系统 [新北洋集团] - Google Chrome
+13:57:51:  HTML <script> 标签 - Google Chrome
+13:57:56:  班车管理系统 [新北洋集团] - Google Chrome
+13:58:01:  新建文本文档.exe - 快捷方式
+13:58:06:  新标签页 - Google Chrome
+13:58:11:  www.google.com - Google Chrome
+13:58:21:  K64_BTCR-1100200700510494_20201228140627
+13:58:36:  D:\fenxi\港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8\Decode\LOG\K64_BTCR-11002007005104 - Internet Explorer
+13:58:41:  K64_BTCR-1100200700510494_20201228140627
+13:58:46:  D:\fenxi\港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8\Decode\LOG\K64_BTCR-11002007005104 - Internet Explorer
+13:58:56:  K64_BTCR-1100200700510494_20201228140627
+13:59:01:  班车管理系统 [新北洋集团] - Google Chrome
+13:58:06:  新标签页 - Google Chrome
+13:58:11:  www.google.com - Google Chrome
+13:58:21:  K64_BTCR-1100200700510494_20201228140627
+13:58:36:  D:\fenxi\港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8\Decode\LOG\K64_BTCR-11002007005104 - Internet Explorer
+13:58:41:  K64_BTCR-1100200700510494_20201228140627
+13:58:46:  D:\fenxi\港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8\Decode\LOG\K64_BTCR-11002007005104 - Internet Explorer
+13:58:56:  K64_BTCR-1100200700510494_20201228140627
+13:59:01:  班车管理系统 [新北洋集团] - Google Chrome
+14:01:41:  K64_BTCR-1100200700510494_20201228140627
+14:01:46:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+14:04:11:  计算器
+14:11:56:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+14:12:11:  计算器
+14:13:56:  员工自助 - Internet Explorer
+14:14:06:  Employee-facing registry content - Internet Explorer
+14:14:11:  计算器
+14:14:06:  Employee-facing registry content - Internet Explorer
+14:14:11:  计算器
+14:16:01:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+14:22:46:  0-工作 - 张开发 - 印象笔记
+14:22:51:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+14:28:41:  eSpace
+14:28:51:  Box_3__BTCR-1100200700510494_20201228140627.log - DRB.tat - TextAnalysisTool.NET
+14:28:56:  锁屏状态
+14:29:06:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+14:29:21:  锁屏状态
+14:29:26:  文档
+14:29:31:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+14:29:36:  C:\Users\zhangkaifa\Pictures\余幼时即嗜学 (meger) - Sublime Text (UNREGISTERED)
+14:29:56:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+14:30:01:  0-工作 - 张开发 - 印象笔记
+14:28:41:  eSpace
+14:28:51:  Box_3__BTCR-1100200700510494_20201228140627.log - DRB.tat - TextAnalysisTool.NET
+14:28:56:  锁屏状态
+14:29:06:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+14:29:21:  锁屏状态
+14:29:26:  文档
+14:29:31:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+14:29:36:  C:\Users\zhangkaifa\Pictures\余幼时即嗜学 (meger) - Sublime Text (UNREGISTERED)
+14:29:56:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+14:30:01:  0-工作 - 张开发 - 印象笔记
+14:30:06:  给自己的信 - 张开发 - 印象笔记
+14:30:36:  0-工作 - 张开发 - 印象笔记
+14:30:41:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+14:47:41:  eSpace
+14:47:46:  吉哲
+14:51:16:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+14:51:26:  吉哲
+14:51:51:  eSpace
+14:51:56:  吉哲
+14:53:56:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+14:55:11:  吉哲
+14:55:26:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+14:57:17:  eSpace
+14:57:22:  固件设计中心
+14:57:52:  eSpace
+14:57:57:  刘雅
+14:58:57:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+15:00:02:  荆文波
+14:58:57:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+15:00:02:  荆文波
+15:01:07:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+15:05:37:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+15:06:37:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+15:44:42:  eSpace
+15:44:47:  PaperManage.c - TortoiseMerge
+15:44:52:  本地磁盘 (D:)
+15:44:57:  fenxi
+15:44:42:  eSpace
+15:44:47:  PaperManage.c - TortoiseMerge
+15:44:52:  本地磁盘 (D:)
+15:44:57:  fenxi
+15:45:17:  本地磁盘 (D:)
+15:45:27:  00-06
+15:47:12:  Project
+15:47:17:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:48:57:  于斌1
+15:49:07:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:52:42:  0-工作 - 张开发 - 印象笔记
+15:52:47:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:52:52:  eSpace
+15:53:12:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:53:17:  Options for Target 'CashBox_1T2_Debug'
+15:53:22:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:53:27:  Options for Target 'CashBox_1T2_Debug'
+15:53:32:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:53:37:  于斌1
+15:54:22:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:58:02:  荆文波
+15:58:22:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:59:17:  荆文波
+15:59:52:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:58:22:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:59:17:  荆文波
+15:59:52:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:01:12:  荆文波
+16:01:27:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:01:42:  荆文波
+16:02:02:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:02:27:  eSpace
+16:02:32:  荆文波
+16:02:47:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:03:57:  荆文波
+16:04:22:  0-工作 - 张开发 - 印象笔记
+16:04:57:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:05:32:  0-工作 - 张开发 - 印象笔记
+16:05:42:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:05:47:  锁屏状态
+16:05:57:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:08:42:  于斌1
+16:08:57:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:12:53:  计算器
+16:13:03:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:19:33:  计算器
+16:19:43:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:22:33:  0-工作 - 张开发 - 印象笔记
+16:22:38:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:25:28:  Options for Target 'CashBox_1T2_Debug'
+16:25:33:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:26:08:  0-工作 - 张开发 - 印象笔记
+16:26:13:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:26:18:  锁屏状态
+16:26:28:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:27:43:  固件设计中心
+16:28:28:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:28:28:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:30:53:  eSpace
+16:30:58:  于斌1
+16:31:08:  eSpace
+16:31:18:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:31:23:  锁屏状态
+16:31:28:  eSpace
+16:31:48:  TheActtionRec
+16:31:58:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:32:43:  于斌1
+16:38:33:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:43:08:  JLink - Cortex-M Error
+16:43:28:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:43:33:  JLink - Cortex-M Error
+16:43:38:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:45:08:  KE06LOG.bat - 快捷方式 (2)
+16:45:18:  LogExpert
+16:45:23:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191645.log
+16:46:23:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:46:43:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+16:46:48:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:47:03:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191645.log
+16:47:13:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:47:18:  KE06LOG.bat - 快捷方式 (2)
+16:47:23:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191647.log
+16:47:43:  KE06LOG.bat - 快捷方式 (2)
+16:47:48:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:48:13:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191647.log
+16:48:33:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:49:08:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191647.log
+16:49:48:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:55:23:  EXTFEDU6V13.PDF
+16:55:28:  EXTFEDU6V13.PDF - Adobe Reader
+16:56:13:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:56:53:  eSpace
+16:56:58:  王亮杰
+16:57:58:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+17:03:23:  EXTFEDU6V13.PDF - Adobe Reader
+17:03:43:  锁屏状态
+17:26:23:  EXTFEDU6V13.PDF - Adobe Reader
+17:32:48:  DRB连接线线序20201222-改.xlsx
+17:36:08:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+17:43:19:  EXTFEDU6V13.PDF - Adobe Reader
+17:44:54:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+17:44:54:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:00:40:  LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191900.log
+19:00:45:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:01:05:  LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191900.log
+19:01:25:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:01:30:  LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191900.log
+19:01:40:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:04:00:  KE06LOG.bat - 快捷方式 (2)
+19:04:10:  LogExpert #2 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191903.log
+19:04:15:  LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191900.log
+19:04:20:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:10:50:  KE06LOG.bat - 快捷方式 (2)
+19:10:55:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:11:00:  LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191900.log
+19:11:05:  LogExpert #3 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191910.log
+19:11:25:  LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191900.log
+19:11:30:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:20:50:  0-工作 - 张开发 - 印象笔记
+19:21:05:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:24:10:  Toolbox
+19:24:15:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:29:55:  JLink - Cortex-M Error
+19:30:00:  μVision
+19:29:55:  JLink - Cortex-M Error
+19:30:00:  μVision
+19:30:15:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:34:00:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191933.log
+19:34:15:  LogExpert #5 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191933.log
+19:34:35:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:34:40:  LogExpert #5 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191933.log
+19:34:45:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:35:55:  Toolbox
+19:36:05:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:36:10:  LogExpert #6 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191936.log
+19:36:15:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:36:25:  LogExpert #6 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191936.log
+19:36:30:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:36:50:  锁屏状态
+19:36:55:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:37:00:  KE06LOG.bat - 快捷方式 (2)
+19:37:05:  LogExpert #7 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191937.log
+19:37:25:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:39:00:  EXTFEDU6V13.PDF - Adobe Reader
+19:39:10:  0-工作 - 张开发 - 印象笔记
+19:39:15:  EXTFEDU6V13.PDF - Adobe Reader
+19:42:05:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:42:10:  LogExpert #7 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191937.log
+19:42:15:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:42:25:  LogExpert #7 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191937.log
+19:44:05:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:44:05:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:45:45:  LogExpert #7 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102191937.log
+19:47:40:  计算器
+19:48:40:  06 固件日报
+19:48:45:  固件集成测试方案
+19:48:50:  TCR
+19:49:00:  钞箱1T2集成测试方案
+19:49:20:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+19:51:35:  钞箱1T2集成测试方案
+19:51:40:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+19:51:50:  5.12 直流电机测试.pptx [受保护的视图] - Microsoft PowerPoint
+19:51:55:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+19:53:40:  0-工作 - 张开发 - 印象笔记
+19:56:10:  EXTFEDU6V13.PDF - Adobe Reader
+19:56:40:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+19:58:55:  EXTFEDU6V13.PDF - Adobe Reader
+19:58:55:  EXTFEDU6V13.PDF - Adobe Reader
+20:01:25:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+20:22:55:  KE06LOG.bat - 快捷方式 (2)
+20:23:35:  LogExpert #8 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102192022.log
+20:27:25:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+20:28:00:  LogExpert #9 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102192022.log
+20:28:10:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+20:28:15:  LogExpert #9 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102192022.log
+20:28:30:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+20:29:45:  LogExpert #9 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102192022.log
+20:28:10:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+20:28:15:  LogExpert #9 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102192022.log
+20:28:30:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+20:29:45:  LogExpert #9 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102192022.log
+20:30:55:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+20:31:45:  LogExpert #9 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102192022.log
+20:31:50:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+20:34:30:  LogExpert #9 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102192022.log
+20:34:40:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+20:39:00:  锁屏状态

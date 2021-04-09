@@ -1,0 +1,56 @@
+2020-08-08 09:59:58-- 10:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 10:00:03-- 10:15:03     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   68/5.66分钟       二  ：eSpace Login   37/3.08分钟     三  ：Package Control Messages (trunk) - Sublime Text (UNREGISTERED)   19/1.58分钟
+2020-08-08 10:15:03-- 10:30:03     :    一  ：未命名 - 写邮件   96/8.0分钟       二  ：D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)   58/4.83分钟     三  ：发送邮件   25/2.08分钟
+2020-08-08 10:30:03-- 10:45:03     :    一  ：D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)   127/10.5分钟       二  ：6月-7月 员工能力提升双月测评计划表--固件一室--张开发.xlsx  [只读] - Excel   22/1.83分钟     三  ：2020-06-08.txt - 记事本   4/0.33分钟
+2020-08-08 10:45:03-- 11:00:03     :    一  ：6月-7月 员工能力提升双月测评计划表--固件一室--张开发.xlsx  [只读] - Excel   151/12.5分钟       二  ：D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)   13/1.08分钟     三  ：(81 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   7/0.58分钟
+2020-08-08 11:00:03-- 11:15:03     :    一  ：(81 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   99/8.25分钟       二  ：D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)   47/3.91分钟     三  ：「开始」菜单   14/1.16分钟
+2020-08-08 11:15:03-- 11:30:04     :    一  ：D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)   131/10.9分钟       二  ：(81 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   36/3.0分钟     三  ：电波表校时App上线了，帮你快速对时授时 - 知乎 - Google Chrome   6/0.5分钟
+2020-08-08 11:30:04-- 11:45:04     :    一  ：(81 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   77/6.41分钟       二  ：2020-06-08.txt - 记事本   49/4.08分钟     三  ：D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)   43/3.58分钟
+2020-08-08 11:45:04-- 12:00:04     :    一  ：于斌1   179/14.9分钟       二  ：D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)   1/0.08分钟     三  ：   0/0.0分钟
+2020-08-08 12:00:04-- 12:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 12:15:04-- 12:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 12:30:04-- 12:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 12:45:04-- 13:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 13:00:04-- 13:15:04     :    一  ：于斌1   145/12.0分钟       二  ：D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)   35/2.91分钟     三  ：   0/0.0分钟
+2020-08-08 13:15:04-- 13:30:04     :    一  ：(81 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   52/4.33分钟       二  ：D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)   47/3.91分钟     三  ：D:\00-06\DRB-PRESS\Applications\MemoryConfig.h (DRB-PRESS) - Sublime Text (UNREGISTERED)   39/3.25分钟
+2020-08-08 13:30:04-- 13:45:04     :    一  ：(81 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   143/11.9分钟       二  ：(81 封私信 / 99+ 条消息) 首页 - 知乎 - Google Chrome   35/2.91分钟     三  ：首页 - 知乎 - Google Chrome   2/0.16分钟
+2020-08-08 13:45:04-- 14:00:00     :    一  ：(81 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   168/14.0分钟       二  ：(81 封私信 / 80 条消息) 房思琪的初恋乐园里面有两段看不懂？ - 知乎 - Google Chrome   11/0.91分钟     三  ：   0/0.0分钟
+2020-08-08 14:00:00-- 14:15:00     :    一  ：(81 封私信 / 80 条消息) 如果我能生产出假 CPU（i9），国家会处罚我卖假货吗？ - 知乎 - Google Chrome   83/6.91分钟       二  ：(81 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   74/6.16分钟     三  ：(81 封私信 / 80 条消息) https://www.zhihu.com/question/372784869?answer_deleted_redirect=true - 搜索结果 - 知乎 - Google Chrome   7/0.58分钟
+2020-08-08 14:15:00-- 14:30:00     :    一  ：(81 封私信 / 80 条消息) 如果我能生产出假 CPU（i9），国家会处罚我卖假货吗？ - 知乎 - Google Chrome   85/7.08分钟       二  ：6月-7月 员工能力提升双月测评计划表--固件一室--张开发.xlsx - Excel   44/3.66分钟     三  ：D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   22/1.83分钟
+2020-08-08 14:30:00-- 14:45:00     :    一  ：(81 封私信 / 80 条消息) 如果我能生产出假 CPU（i9），国家会处罚我卖假货吗？ - 知乎 - Google Chrome   127/10.5分钟       二  ：D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   53/4.41分钟     三  ：   0/0.0分钟
+2020-08-08 14:45:00-- 15:00:00     :    一  ：(81 封私信 / 80 条消息) 如果我能生产出假 CPU（i9），国家会处罚我卖假货吗？ - 知乎 - Google Chrome   133/11.0分钟       二  ：(81 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   29/2.41分钟     三  ：D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   18/1.5分钟
+2020-08-08 15:00:00-- 15:15:00     :    一  ：(81 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   124/10.3分钟       二  ：(81 封私信 / 80 条消息) 怎么看待《脱口秀大会》第三季李诞对脱口秀演员norah说的：“做喜剧不要让人太有压迫感”? - 知乎 - Google Chrome   56/4.66分钟     三  ：   0/0.0分钟
+2020-08-08 15:15:00-- 15:30:00     :    一  ：(81 封私信 / 80 条消息) 怎么看待《脱口秀大会》第三季李诞对脱口秀演员norah说的：“做喜剧不要让人太有压迫感”? - 知乎 - Google Chrome   75/6.25分钟       二  ：(81 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   52/4.33分钟     三  ：(81 封私信 / 99+ 条消息) 首页 - 知乎 - Google Chrome   35/2.91分钟
+2020-08-08 15:30:00-- 15:45:00     :    一  ：(81 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   100/8.33分钟       二  ：(81 封私信 / 99+ 条消息) 首页 - 知乎 - Google Chrome   68/5.66分钟     三  ：D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   12/1.0分钟
+2020-08-08 15:45:00-- 16:00:00     :    一  ：于斌1   85/7.08分钟       二  ：D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   70/5.83分钟     三  ：(81 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   13/1.08分钟
+2020-08-08 16:00:00-- 16:15:00     :    一  ：D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   179/14.9分钟       二  ：自动播放   1/0.08分钟     三  ：   0/0.0分钟
+2020-08-08 16:15:00-- 16:30:01     :    一  ：D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   78/6.5分钟       二  ：「开始」菜单   64/5.33分钟     三  ：(81 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   36/3.0分钟
+2020-08-08 16:30:01-- 16:45:01     :    一  ：(81 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   158/13.1分钟       二  ：(81 封私信 / 80 条消息) 如何看待《脱口秀大会 第三季》张博洋被淘汰？ - 知乎 - Google Chrome   13/1.08分钟     三  ：D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   9/0.75分钟
+2020-08-08 16:45:01-- 17:00:01     :    一  ：D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   83/6.91分钟       二  ：(81 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   55/4.58分钟     三  ：「开始」菜单   38/3.16分钟
+2020-08-08 17:00:01-- 17:15:01     :    一  ：锁屏状态   167/13.9分钟       二  ：D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   12/1.0分钟     三  ：「开始」菜单   1/0.08分钟
+2020-08-08 17:15:01-- 17:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 17:30:01-- 17:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 17:45:01-- 18:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 18:00:01-- 18:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 18:15:01-- 18:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 18:30:02-- 18:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 18:45:02-- 19:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 19:00:02-- 19:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 19:15:02-- 19:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 19:30:02-- 19:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 19:45:02-- 20:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 20:00:02-- 20:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 20:15:02-- 20:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 20:30:02-- 20:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 20:45:03-- 21:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 21:00:03-- 21:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 21:15:03-- 21:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 21:30:03-- 21:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 21:45:03-- 22:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 22:00:03-- 22:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 22:15:03-- 22:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 22:30:03-- 22:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 22:45:04-- 23:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 23:00:04-- 23:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 23:15:04-- 23:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-08 23:30:04-- 23:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

@@ -1,0 +1,5 @@
+2020-04-30 08:03:01-- 08:30:01     :    一  ：D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)   188/15.6分钟       二  ：TCR调测工具 V3.36   26/2.16分钟     三  ：   23/1.91分钟
+2020-04-30 08:30:01-- 09:00:02     :    一  ：Box_1__BTCR-1100200101100016_20200427095424.log - selector.tat* - TextAnalysisTool.NET   123/10.2分钟       二  ：   75/6.25分钟     三  ：Tools   24/2.0分钟
+2020-04-30 09:00:02-- 09:30:03     :    一  ：TCR调测工具 V3.36   135/11.2分钟       二  ：D:\00-KE64\normol\trunk\Project\k64_rtt.uvprojx - μVision   105/8.75分钟     三  ：Box_2__BTCR-1100200101100016_20200429164530.log - selector.tat* - TextAnalysisTool.NET   44/3.66分钟
+2020-04-30 09:30:03-- 10:00:04     :    一  ：D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)   94/7.83分钟       二  ：荆文波   57/4.75分钟     三  ：TCR调测工具 V3.36   53/4.41分钟
+2020-04-30 10:00:04-- 10:30:04     :    一  ：荆文波   102/8.5分钟       二  ：D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)   67/5.58分钟     三  ：D:\00-06\1T1\Project\CashBox.uvprojx - μVision   20/1.66分钟

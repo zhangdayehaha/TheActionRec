@@ -1,0 +1,898 @@
+08:10:11:  iTunes
+08:10:31:  Dialog
+08:10:41:  
+08:10:51:  iTunes
+08:11:11:  新建文本文档.exe - 快捷方式
+08:11:16:  
+08:11:21:  新建文本文档.exe - 快捷方式
+08:11:26:  PostWork.py - 快捷方式
+08:11:36:  
+08:12:01:  要恢复页面吗？
+08:12:06:  班车管理系统 - Google Chrome
+08:12:16:  班车管理系统 [新北洋集团] - Google Chrome
+08:12:31:  本地磁盘 (D:)
+08:12:36:  00-KE64
+08:12:46:  Project
+08:12:56:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:17:57:  变幻线
+08:18:13:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:22:18:  Project
+08:23:13:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:23:18:  Project
+08:23:23:  本地磁盘 (F:)
+08:23:28:  班车管理系统 [新北洋集团] - Google Chrome
+08:23:38:  新建文本文档.exe - 快捷方式
+08:23:43:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:23:53:  D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\Plate\UpperPlate.c (8) - Sublime Text (UNREGISTERED)
+08:24:03:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:24:08:  TCR调测工具 V3.36
+08:24:53:  BTCRTestTool (2) 属性
+08:24:58:  TCRControlCmdDLL
+08:25:03:  Decode
+08:25:08:  K64_44444_20200313082423.log - [No filter file] - TextAnalysisTool.NET
+08:25:28:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:25:33:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+08:25:38:  K64-_44444_20200313082423.log - [No filter file] - TextAnalysisTool.NET
+08:26:53:  branches
+08:26:58:  K64-_44444_20200313082423.log - [No filter file] - TextAnalysisTool.NET
+08:27:03:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:28:08:  
+08:28:13:  Tools
+08:28:23:  打开
+08:28:33:  TCR调测工具 V3.36
+08:30:03:  
+08:28:08:  
+08:28:13:  Tools
+08:28:23:  打开
+08:28:33:  TCR调测工具 V3.36
+08:30:03:  
+08:30:38:  TCR调测工具 V3.36
+08:38:59:  变幻线
+08:40:14:  TCR调测工具 V3.36
+08:40:19:  
+08:40:24:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:40:34:  D:\00-06\8\branches\BR-1-CashBox1T2\Tools\CreateJK.exe
+08:40:39:  TCR调测工具 V3.36
+08:40:44:  打开
+08:40:49:  TCR调测工具 V3.36
+08:40:59:  
+08:41:04:  TCR调测工具 V3.36
+08:41:14:  Tools
+08:41:19:  K64_44444_20200313082423
+08:41:24:  TCR调测工具 V3.36
+08:41:29:  20200313
+08:41:34:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:41:39:  Decode
+08:41:54:  LOG
+08:42:04:  Box_1__44444_20200313084124.log - [No filter file] - TextAnalysisTool.NET
+08:42:09:  K64-_44444_20200313084124.log - [No filter file] - TextAnalysisTool.NET
+08:42:14:  Decode
+08:42:19:  20200313
+08:42:24:  Decode
+08:42:29:  K64-_44444_20200313084124.log - [No filter file] - TextAnalysisTool.NET
+08:44:09:  K64_44444_20200313084124
+08:44:14:  TCR调测工具 V3.36
+08:44:24:  
+08:44:29:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:45:34:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:45:39:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:45:59:  TCR调测工具 V3.36
+08:46:04:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:47:14:  20200313
+08:47:19:  LOG
+08:47:24:  K64-_44444_20200313084602.log - [No filter file] - TextAnalysisTool.NET
+08:47:29:  Box_1__44444_20200313084602.log - [No filter file] - TextAnalysisTool.NET
+08:47:49:  K64_44444_20200313084602
+08:47:54:  
+08:47:59:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:49:09:  
+08:49:19:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:50:09:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:50:14:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:50:19:  BTCRTestTool
+08:50:24:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:51:04:  20200313
+08:51:09:  TCR调测工具 V3.36
+08:51:14:  20200313
+08:51:19:  LOG
+08:51:24:  K64-_44444_20200313084602.log - [No filter file] - TextAnalysisTool.NET
+08:51:29:  K64-_44444_20200313085021.log - [No filter file] - TextAnalysisTool.NET
+08:51:44:  Box_1__44444_20200313085021.log - [No filter file] - TextAnalysisTool.NET
+08:52:14:  TCR调测工具 V3.36
+08:52:19:  
+08:52:24:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:52:44:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:53:29:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:53:34:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:53:49:  TCR调测工具 V3.36
+08:53:59:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:54:24:  TCR调测工具 V3.36
+08:54:29:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:55:59:  TCR调测工具 V3.36
+08:56:04:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:57:09:  
+08:57:14:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:57:19:  K64LOG.bat - 快捷方式
+08:57:34:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:57:39:  20200313
+08:57:44:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:58:04:  20200313
+08:58:09:  Decode
+08:58:14:  Box_1__44444_20200313085021.log - [No filter file] - TextAnalysisTool.NET
+08:58:19:  K64-_44444_20200313085747.log - [No filter file] - TextAnalysisTool.NET
+08:58:59:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:29:  K64-_44444_20200313085747.log - [No filter file] - TextAnalysisTool.NET
+08:59:34:  Box_1__44444_20200313085747.log - [No filter file] - TextAnalysisTool.NET
+08:59:49:  
+08:59:54:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:09:  Decode
+08:58:14:  Box_1__44444_20200313085021.log - [No filter file] - TextAnalysisTool.NET
+08:58:19:  K64-_44444_20200313085747.log - [No filter file] - TextAnalysisTool.NET
+08:58:59:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:29:  K64-_44444_20200313085747.log - [No filter file] - TextAnalysisTool.NET
+08:59:34:  Box_1__44444_20200313085747.log - [No filter file] - TextAnalysisTool.NET
+08:59:49:  
+08:59:54:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:01:04:  20200313
+09:01:09:  TCR调测工具 V3.36
+09:01:14:  20200313
+09:01:19:  LOG
+09:01:24:  Box_1__44444_20200313085747.log - [No filter file] - TextAnalysisTool.NET
+09:01:39:  
+09:01:44:  D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\Plate\UpperPlate.c (8) - Sublime Text (UNREGISTERED)
+09:01:49:  
+09:01:54:  Box_1__44444_20200313085747.log - [No filter file] - TextAnalysisTool.NET
+09:01:59:  D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\Plate\UpperPlate.c (8) - Sublime Text (UNREGISTERED)
+09:02:09:  
+09:02:19:  Box_1__44444_20200313085747.log - [No filter file] - TextAnalysisTool.NET
+09:02:34:  D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\Plate\UpperPlate.c (8) - Sublime Text (UNREGISTERED)
+09:02:39:  
+09:02:44:  Box_1__44444_20200313085747.log - [No filter file] - TextAnalysisTool.NET
+09:02:49:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:03:14:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:03:49:  TCR调测工具 V3.36
+09:03:54:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:05:24:  TCR调测工具 V3.36
+09:05:29:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:05:44:  
+09:05:54:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:06:14:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:06:19:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:06:54:  TCR调测工具 V3.36
+09:06:59:  钞箱传感器
+09:07:09:  TCR调测工具 V3.36
+09:07:24:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:08:04:  
+09:08:14:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:08:34:  
+09:08:39:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:09:09:  
+09:09:14:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:10:39:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:10:44:  TCR调测工具 V3.36
+09:10:49:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:13:19:  Options for Target 'release'
+09:13:29:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:13:39:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:13:49:  D:\00-KE64\7\trunk\Applications\FlowControl\Plate\PlateModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+09:13:54:  D:\00-KE64\7\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+09:14:04:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:15:44:  Toolbox
+09:15:49:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:15:59:  TCR调测工具 V3.36
+09:16:04:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:18:29:  D:\00-KE64\7\branches\BR-4-India\Applications\Update\Update.c (BR-4-India) - Sublime Text (UNREGISTERED)
+09:18:34:  D:\00-KE64\7\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+09:18:39:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:20:55:  Box_1__44444_20200313085747.log - [No filter file] - TextAnalysisTool.NET
+09:21:00:  K64_44444_20200313085747
+09:21:05:  K64-_44444_20200313085747.log - [No filter file] - TextAnalysisTool.NET
+09:21:35:  K64_44444_20200313085747
+09:21:45:  K64-_44444_20200313085747.log - [No filter file] - TextAnalysisTool.NET
+09:22:05:  Add Filter
+09:22:10:  K64-_44444_20200313085747.log - [No filter file]* - TextAnalysisTool.NET
+09:22:15:  Add Filter
+09:22:20:  K64-_44444_20200313085747.log - [No filter file]* - TextAnalysisTool.NET
+09:22:45:  
+09:22:50:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:22:55:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:23:00:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:23:05:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:23:10:  TCR调测工具 V3.36
+09:23:25:  K64_44444_20200313085747
+09:23:30:  TCR调测工具 V3.36
+09:23:35:  20200313
+09:23:45:  iTunes
+09:23:50:  Decode
+09:24:00:  K64_44444_20200313092319.log - [No filter file]* - TextAnalysisTool.NET
+09:24:05:  Add Filter
+09:24:10:  K64_44444_20200313092319.log - [No filter file]* - TextAnalysisTool.NET
+09:24:25:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:25:00:  K64_44444_20200313092319.log - [No filter file]* - TextAnalysisTool.NET
+09:25:15:  D:\00-KE64\7\trunk\Applications\FlowControl\Plate\PlateModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+09:25:35:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:26:35:  
+09:26:40:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:26:50:  
+09:26:55:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:20:  K64_44444_20200313092319.log - [No filter file]* - TextAnalysisTool.NET
+09:28:30:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:40:  K64_44444_20200313092319.log - [No filter file]* - TextAnalysisTool.NET
+09:29:00:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:29:20:  TCR调测工具 V3.36
+09:29:30:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:28:20:  K64_44444_20200313092319.log - [No filter file]* - TextAnalysisTool.NET
+09:28:30:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:40:  K64_44444_20200313092319.log - [No filter file]* - TextAnalysisTool.NET
+09:29:00:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:29:20:  TCR调测工具 V3.36
+09:29:30:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:31:50:  TCR调测工具 V3.36
+09:31:55:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:37:05:  
+09:37:10:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:37:40:  D:\00-KE64\7\trunk\Applications\FlowControl\Plate\PlateModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+09:37:45:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:38:35:  μVision
+09:38:40:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:39:05:  Toolbox
+09:39:10:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:39:20:  TCR调测工具 V3.36
+09:39:35:  
+09:39:40:  20200313
+09:39:50:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:39:55:  K18_44444_20200313090348.log - 记事本
+09:40:00:  Decode
+09:40:05:  K64_44444_20200313092319.log - [No filter file]* - TextAnalysisTool.NET
+09:40:10:  K64_44444_20200313093928.log - [No filter file]* - TextAnalysisTool.NET
+09:40:40:  Decode
+09:40:50:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+10:07:30:  TCR调测工具 V3.36
+10:07:45:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:07:55:  8
+10:08:00:  Project
+10:08:05:  D:\00-06\8\branches\BR-1-CashBox1T2\Tools\CreateJK.exe
+10:08:10:  TCR调测工具 V3.36
+10:09:10:  TCR调测工具 V3.07
+10:09:15:  Tools
+10:09:20:  取款
+10:09:25:  TCR调测工具 V3.36
+10:09:45:  
+10:10:05:  TCR调测工具 V3.36
+10:12:35:  
+10:12:40:  TCR调测工具 V3.36
+10:16:30:  
+10:17:00:  TCR调测工具 V3.36
+10:17:05:  模块使能
+10:18:05:  取款
+10:18:10:  TCR调测工具 V3.36
+10:18:25:  
+10:20:10:  TCR调测工具 V3.36
+10:20:45:  取款
+10:20:50:  TCR调测工具 V3.36
+10:23:45:  
+10:23:50:  TCR调测工具 V3.36
+10:23:55:  计算器
+10:27:00:  TCR调测工具 V3.36
+10:27:35:  取款
+10:27:40:  TCR调测工具 V3.36
+10:32:05:  取款
+10:32:10:  TCR调测工具 V3.36
+10:32:25:  
+10:32:45:  TCR调测工具 V3.36
+10:35:50:  取款
+10:35:55:  TCR调测工具 V3.36
+10:36:10:  
+10:38:30:  TCR调测工具 V3.36
+10:38:55:  取款
+10:39:00:  TCR调测工具 V3.36
+10:39:10:  
+10:39:20:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+10:39:50:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:40:00:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackSensor\SensorApp.h (trunk) - Sublime Text (UNREGISTERED)
+10:40:10:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackSensor\SensorApp.h • (trunk) - Sublime Text (UNREGISTERED)
+10:40:15:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+10:41:11:  JLink - Cortex-M Error
+10:41:16:  
+10:41:21:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+10:41:26:  JLink - Cortex-M Error
+10:41:31:  μVision
+10:41:36:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+10:42:06:  
+10:42:11:  TCR调测工具 V3.36
+10:42:56:  可接收
+10:43:01:  TCR调测工具 V3.36
+10:44:26:  取款
+10:44:36:  TCR调测工具 V3.36
+10:44:46:  取款
+10:44:56:  TCR调测工具 V3.36
+10:45:32:  取款
+10:45:37:  TCR调测工具 V3.36
+10:49:32:  取款
+10:49:37:  TCR调测工具 V3.36
+10:57:08:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+11:01:18:  
+11:01:28:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+11:01:33:  Tools
+11:01:38:  固件集成测试方案
+11:01:48:  正在打开 - Excel
+11:01:53:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+11:01:58:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+11:02:03:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:02:08:  Excel
+11:02:13:  6.2.2.5 钞箱测试1T1.xls  [受保护的视图] - Excel
+11:02:18:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:02:43:  
+11:02:48:  自动播放
+11:02:58:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:03:08:  网络错误
+11:04:43:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:05:13:  
+11:05:18:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:06:14:  新建文本文档.exe - 快捷方式
+11:06:19:  「开始」菜单
+11:06:24:  
+11:06:29:  收取邮件 - 张开发
+11:06:34:  
+11:06:59:  统计文件
+11:07:09:  
+11:08:44:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:09:09:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:09:14:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:09:19:  分析镜头
+11:09:24:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:09:29:  文档
+11:09:34:  C:\Users\zhangkaifa\Documents\GIF 2020-3-5 13-21-27.gif - Internet Explorer
+11:09:49:  
+11:09:54:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:10:14:  新建文件夹 (3)
+11:10:19:  移动监测.py - F:\新建文件夹 (3)\移动监测.py (3.7.3)
+11:10:24:  新建文件夹 (3)
+11:14:49:  跳转列表
+11:14:54:  新建文件夹 (3)
+11:14:59:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:15:04:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+11:15:19:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:15:49:  文档
+11:15:54:  本地磁盘 (F:)
+11:15:59:  TheActtionRec
+11:16:04:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-12.txt
+11:16:09:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-13.txt
+11:16:54:  
+11:16:59:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-13.txt
+11:17:19:  Windows 任务管理器
+11:19:34:  pythonw.exe 属性
+11:19:49:  Windows 任务管理器
+11:19:59:  W
+11:20:04:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-13.txt
+11:20:14:  
+11:20:19:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+11:20:24:  
+11:21:09:  W
+11:21:19:  本地磁盘 (D:)
+11:21:24:  文档
+11:21:29:  图片
+11:21:34:  
+11:21:49:  T - Everything
+11:21:54:  T.*?. - Everything
+11:21:59:  T.*?.py - Everything
+11:22:04:  T.*?py - Everything
+11:22:14:  zipstream.py - C:\Users\zhangkaifa\AppData\Local\Programs\Python\Python37\Lib\site-packages\twisted\python\zipstream.py (3.7.3)
+11:22:34:  T.*?py - Everything
+11:22:54:  writers.py - C:\Users\zhangkaifa\AppData\Local\Programs\Python\Python37\Lib\site-packages\tensorflow\python\data\experimental\ops\writers.py (3.7.3)
+11:22:59:  
+11:23:04:  图片
+11:23:09:  T.*?py - Everything
+11:23:14:  WorkTime.py - C:\Users\zhangkaifa\Documents\WorkTime.py (3.7.3)
+11:23:19:  T.*?py - Everything
+11:23:24:  
+11:23:34:  eSpace
+11:23:39:  固件设计中心
+11:24:04:  
+11:24:34:  固件设计中心
+11:24:54:  图片
+11:24:59:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:25:44:  
+11:25:49:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackSensor\SensorApp.h (trunk) - Sublime Text (UNREGISTERED)
+11:25:54:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+11:25:59:  图片
+11:26:09:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+11:26:24:  
+11:26:29:  图片
+11:26:34:  示例图片
+11:26:39:  新建文本文档.bat - 记事本
+11:26:59:  示例图片
+11:27:09:  C:\Windows\system32\cmd.exe
+11:27:14:  本地磁盘 (C:)
+11:27:19:  「开始」菜单
+11:27:24:  计算机管理
+11:27:39:  本地磁盘 (C:)
+11:27:44:  
+13:29:39:  Windows 任务管理器
+13:29:49:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-13.txt
+13:30:34:  Windows 任务管理器
+13:30:44:  GTD.pyw 属性
+13:30:54:  GTD.pyw 的高级安全设置
+13:30:59:  GTD.pyw 属性
+13:31:04:  GTD.pyw - 快捷方式 属性
+13:31:14:  高级属性 
+13:31:24:  GTD.pyw 的高级安全设置
+13:31:29:  GTD.pyw 属性
+13:31:39:  新标签页 - Google Chrome
+13:31:44:  (36 封私信) 首页 - 知乎 - Google Chrome
+13:36:09:  Bin
+13:36:29:  (36 封私信) 首页 - 知乎 - Google Chrome
+13:41:54:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+13:41:59:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+13:42:14:  TCR调测工具 V3.36
+13:42:24:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+13:42:29:  TCR调测工具 V3.36
+13:43:04:  可接收
+13:43:09:  TCR调测工具 V3.36
+13:43:24:  BTCRTestTool V3.36
+13:43:29:  新标签页 - Google Chrome
+13:43:34:  (36 封私信) 首页 - 知乎 - Google Chrome
+13:44:29:  BTCRTestTool V3.36
+13:44:34:  (36 封私信) 首页 - 知乎 - Google Chrome
+13:44:29:  BTCRTestTool V3.36
+13:44:34:  (36 封私信) 首页 - 知乎 - Google Chrome
+13:45:37:  BTCRTestTool V3.36
+13:45:57:  新建文本文档.exe - 快捷方式
+13:46:02:  TCRControlCmdDLL
+13:46:07:  20200313
+13:46:17:  Decode
+13:46:22:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-13.txt
+13:46:27:  K64_44444_20200313134305
+13:46:32:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20200313\Decode\LOG\K64_44444_20200313134305\K64-_44444_20200313134305.log
+13:46:37:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+13:46:42:  K64-_44444_20200313134305.log - [No filter file] - TextAnalysisTool.NET
+13:46:47:  K64-_44444_20200313134305.log - K64状态机分析.tat - TextAnalysisTool.NET
+13:46:52:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+13:47:12:  K64-_44444_20200313134305.log - K64状态机分析.tat - TextAnalysisTool.NET
+13:47:22:  K64-_44444_20200313134305.log - K64状态机分析.tat* - TextAnalysisTool.NET
+13:47:42:  计算器
+13:47:52:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+13:47:57:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+13:48:02:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+13:48:12:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+13:48:27:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+13:48:42:  TCR调测工具 V3.36
+13:48:47:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+13:48:52:  K64-_44444_20200313134305.log - K64状态机分析.tat* - TextAnalysisTool.NET
+13:48:57:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+13:49:22:  K64-_44444_20200313134305.log - K64状态机分析.tat* - TextAnalysisTool.NET
+13:49:42:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+13:50:27:  D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\Plate\UpperPlate.c (8) - Sublime Text (UNREGISTERED)
+13:50:32:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+13:51:12:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c (8) - Sublime Text (UNREGISTERED)
+13:52:22:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c • (8) - Sublime Text (UNREGISTERED)
+13:52:32:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c (8) - Sublime Text (UNREGISTERED)
+13:52:37:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c • (8) - Sublime Text (UNREGISTERED)
+13:52:47:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.h (8) - Sublime Text (UNREGISTERED)
+13:53:02:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c • (8) - Sublime Text (UNREGISTERED)
+13:53:12:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+13:53:22:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c • (8) - Sublime Text (UNREGISTERED)
+13:53:52:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c (8) - Sublime Text (UNREGISTERED)
+13:53:57:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+13:54:07:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c • (8) - Sublime Text (UNREGISTERED)
+13:54:12:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+13:54:17:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c • (8) - Sublime Text (UNREGISTERED)
+13:54:37:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+13:54:57:  00-06
+13:55:02:  Tools
+13:55:07:  TCR调测工具 V3.36
+13:55:12:  打开
+13:55:17:  TCR调测工具 V3.36
+13:55:42:  新标签页 - Google Chrome
+13:55:47:  TCR调测工具 V3.36
+13:55:52:  www.zhihu.com - Google Chrome
+13:55:57:  (36 封私信) 首页 - 知乎 - Google Chrome
+13:56:07:  (36 封私信) 干净的人 - 搜索结果 - 知乎 - Google Chrome
+13:56:57:  干净的人 - 搜索结果 - 知乎 - Google Chrome
+13:57:02:  TCR调测工具 V3.36
+13:57:07:  TCR调测工具 V3.07
+13:57:27:  锁屏状态
+13:57:32:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+13:59:52:  K64-_44444_20200313134305.log - K64状态机分析.tat* - TextAnalysisTool.NET
+13:59:57:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c (8) - Sublime Text (UNREGISTERED)
+13:59:52:  K64-_44444_20200313134305.log - K64状态机分析.tat* - TextAnalysisTool.NET
+13:59:57:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c (8) - Sublime Text (UNREGISTERED)
+14:00:20:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+14:00:25:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:00:35:  TCR调测工具 V3.07
+14:01:20:  20200313
+14:02:00:  TCR调测工具 V3.07
+14:02:15:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:02:20:  D:\00-06\8\branches\BR-1-CashBox1T2\Tools\CreateJK.exe
+14:02:25:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+14:02:35:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c (8) - Sublime Text (UNREGISTERED)
+14:02:45:  20200313
+14:02:50:  TCR调测工具 V3.07
+14:03:40:  Tools
+14:03:50:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+14:04:10:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:04:15:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\Track\Track.c (8) - Sublime Text (UNREGISTERED)
+14:04:20:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+14:04:35:  μVision
+14:04:40:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:05:15:  Tools
+14:05:20:  D:\00-06\8\branches\BR-1-CashBox1T2\Tools\CreateJK.exe
+14:05:25:  Tools
+14:05:30:  TCR调测工具 V3.07
+14:06:45:  20200313
+14:06:50:  TCR调测工具 V3.07
+14:08:30:  BTCRTestTool V3.07
+14:08:35:  BTCRTestTool V3.07 (未响应)
+14:09:10:  便签条
+14:09:25:  TCRControlCmdDLL
+14:09:30:  20200313
+14:09:35:  Decode
+14:09:40:  锁屏状态
+14:09:45:  FirmLog_44444_20200313140605.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:09:55:  计算器
+14:10:00:  Decode
+14:10:05:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+14:10:10:  Decode
+14:10:20:  FirmLog_44444_20200313140605
+14:10:25:  FirmLog_44444_20200313140605.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:10:30:  20200313
+14:10:45:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:10:50:  FirmLog_44444_20200313140605
+14:10:55:  FirmLog_44444_20200313140605.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:11:00:  K64-FirmLog_44444_20200313140605.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:11:15:  Box_1_FirmLog_44444_20200313140605.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:11:25:  K64-FirmLog_44444_20200313140605.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:12:20:  Decode
+14:12:25:  TCR调测工具 V3.07
+14:14:20:  20200313
+14:14:35:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:14:40:  锁屏状态
+14:14:45:  Box_1_FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:14:20:  20200313
+14:14:35:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:14:40:  锁屏状态
+14:14:45:  Box_1_FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:20:47:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:12:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:17:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:37:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:57:  Box_1_FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:25:22:  Add Filter
+14:25:27:  Box_1_FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:27:17:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+14:27:22:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+14:27:32:  D:\00-KE64\7\trunk\Applications\FlowControl\FlowControl.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:37:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:47:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:47:  Box_1_FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:28:52:  K64-FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:29:02:  Add Filter
+14:29:12:  K64-FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:28:47:  Box_1_FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:28:52:  K64-FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:29:02:  Add Filter
+14:29:12:  K64-FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:30:15:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+14:30:25:  K64-FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:33:15:  FirmLog_44444_20200313141411
+14:33:20:  K64-FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:33:25:  Box_1_FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:37:30:  FirmLog_44444_20200313141411
+14:37:35:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+14:38:35:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:39:40:  Box_1_FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:39:45:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:40:00:  K64-FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:40:35:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:42:30:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+14:42:40:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:42:55:  D:\00-KE64\7\trunk\Applications\FlowControl\PageManage\PageManageOut.c (trunk) - Sublime Text (UNREGISTERED)
+14:43:00:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:43:10:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackMotor\MotorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+14:43:15:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:44:50:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackMotor\MotorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+14:44:55:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:44:50:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackMotor\MotorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+14:44:55:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:46:37:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackSelector\SelModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+14:46:47:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:47:02:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+14:47:07:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:47:52:  K64-FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:48:18:  Add Filter
+14:48:23:  K64-FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:48:28:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:48:33:  K64-FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:49:08:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+14:49:53:  FirmLog_44444_20200313141411
+14:49:58:  Box_1_FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:50:28:  Add Filter
+14:50:33:  Box_1_FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:51:23:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+14:52:18:  Box_1_FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:52:33:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+14:53:18:  Box_1_FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:53:43:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:54:08:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+14:54:28:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+14:54:38:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+14:55:18:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+14:56:33:  YoudaoDictStrokeIcon
+14:56:38:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+14:56:43:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.h (8) - Sublime Text (UNREGISTERED)
+14:56:48:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+14:58:03:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c • (8) - Sublime Text (UNREGISTERED)
+14:58:28:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:58:28:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+15:01:14:  D:\00-06\8\branches\BR-1-CashBox1T2\Tools\CreateJK.exe
+15:01:24:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+15:01:54:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:02:44:  Box_1_FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:02:54:  K64-FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:03:04:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+15:03:09:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:05:04:  D:\00-KE64\7\trunk\Middlewares\ErrorCode\ErrorCode.h (trunk) - Sublime Text (UNREGISTERED)
+15:05:09:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:06:49:  K64-FirmLog_44444_20200313141411.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:06:54:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:07:04:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+15:07:09:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+15:07:14:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+15:07:24:  D:\00-KE64\7\trunk\Applications\CanComm\CanComm.c (trunk) - Sublime Text (UNREGISTERED)
+15:07:34:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+15:07:39:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+15:07:54:  Tools
+15:07:59:  TCR调测工具 V3.07
+15:08:24:  Tools
+15:08:29:  20200313
+15:08:39:  TCR调测工具 V3.07
+15:08:44:  BTCRTestTool
+15:09:09:  TCR调测工具 V3.07
+15:09:44:  20200313
+15:09:49:  TCR调测工具 V3.07
+15:10:04:  20200313
+15:10:09:  Decode
+15:10:14:  FirmLog_44444_20200313150942
+15:10:19:  Box_1_FirmLog_44444_20200313150942.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:11:09:  FirmLog_44444_20200313150942
+15:11:14:  K64-FirmLog_44444_20200313150942.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:12:49:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+15:12:54:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:12:59:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+15:13:04:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:13:54:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+15:13:59:  D:\00-KE64\7\trunk\Middlewares\ErrorCode\ErrorCode.h (trunk) - Sublime Text (UNREGISTERED)
+15:14:04:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:15:17:  K64-FirmLog_44444_20200313150942.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:15:22:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:16:32:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+15:16:47:  TCR调测工具 V3.07
+15:16:52:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+15:16:57:  TCR调测工具 V3.07
+15:17:12:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+15:17:22:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision (未响应)
+15:17:27:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+15:17:42:  TCR调测工具 V3.07
+15:18:17:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+15:18:42:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:19:12:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+15:20:57:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:22:17:  锁屏状态
+15:22:22:  K64-FirmLog_44444_20200313150942.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:23:07:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:28:17:  K64-FirmLog_44444_20200313150942.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:28:32:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:29:17:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+15:29:22:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+15:29:27:  K64-FirmLog_44444_20200313150942.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:29:42:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:29:47:  K64-FirmLog_44444_20200313150942.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:29:52:  Box_1_FirmLog_44444_20200313150942.log - 记事本
+15:29:57:  Box_1_FirmLog_44444_20200313150942.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:28:17:  K64-FirmLog_44444_20200313150942.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:28:32:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:29:17:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+15:29:22:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+15:29:27:  K64-FirmLog_44444_20200313150942.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:29:42:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:29:47:  K64-FirmLog_44444_20200313150942.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:29:52:  Box_1_FirmLog_44444_20200313150942.log - 记事本
+15:29:57:  Box_1_FirmLog_44444_20200313150942.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:30:49:  TextAnalysisTool.NET
+15:30:54:  LOG
+15:31:09:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+15:32:29:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+15:33:54:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:35:24:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+15:35:49:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+15:36:14:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:37:09:  D:\00-KE64\7\trunk\Middlewares\ErrorCode\ErrorCode.h (trunk) - Sublime Text (UNREGISTERED)
+15:37:14:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:37:34:  D:\00-KE64\7\trunk\Applications\Initialization\Initial.h (trunk) - Sublime Text (UNREGISTERED)
+15:37:39:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:39:24:  D:\00-KE64\7\trunk\Middlewares\ErrorCode\ErrorCode.h (trunk) - Sublime Text (UNREGISTERED)
+15:39:34:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:40:34:  20200313
+15:40:39:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+15:40:54:  TCR调测工具 V3.07
+15:41:09:  TCR调测工具 V3.36
+15:41:14:  跳转列表
+15:41:19:  新标签页 - Google Chrome
+15:41:24:  TCR调测工具 V3.36
+15:41:34:  新建文本文档.exe - 快捷方式
+15:41:39:  TCRControlCmdDLL
+15:41:44:  TCR调测工具 V3.36
+15:41:49:  新标签页 - Google Chrome
+15:41:54:  (36 封私信) 首页 - 知乎 - Google Chrome
+15:42:34:  TCR调测工具 V3.36
+15:42:49:  取款
+15:42:54:  TCR调测工具 V3.36
+15:43:24:  20200313
+15:43:34:  (36 封私信) 首页 - 知乎 - Google Chrome
+15:44:14:  (36 封私信) 怎样才能洗一个干净的澡？ - 知乎 - Google Chrome
+15:44:14:  (36 封私信) 怎样才能洗一个干净的澡？ - 知乎 - Google Chrome
+15:46:38:  20200313
+15:47:08:  Decode
+15:47:13:  Box_1_FirmLog_44444_20200313150942.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:47:18:  K64_44444_20200313154249
+15:47:23:  新标签页 - Google Chrome
+15:47:28:  (36 封私信) 首页 - 知乎 - Google Chrome
+15:48:28:  K64_44444_20200313154249
+15:48:38:  K64_44444_20200313154249 (未响应)
+15:48:48:  (36 封私信) 首页 - 知乎 - Google Chrome
+15:48:58:  Box_1__44444_20200313154249.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:49:38:  (36 封私信) 首页 - 知乎 - Google Chrome
+15:50:53:  Box_1__44444_20200313154249.log - K64状态机分析.tat* - TextAnalysisTool.NET
+15:51:33:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+15:51:43:  (36 封私信) 首页 - 知乎 - Google Chrome
+15:52:18:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+15:52:23:  D:\00-06\8\branches\BR-1-CashBox1T2\Tools\CreateJK.exe
+15:52:28:  TCR调测工具 V3.36
+15:52:33:  取款
+15:52:38:  TCR调测工具 V3.36
+15:53:03:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+15:53:23:  TCR调测工具 V3.36
+15:53:28:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+15:53:38:  TCR调测工具 V3.36
+15:53:43:  打开
+15:53:48:  TCR调测工具 V3.36
+15:54:33:  20200313
+15:54:43:  TCR调测工具 V3.36
+15:54:53:  取款
+15:54:58:  TCR调测工具 V3.36
+16:05:18:  变幻线
+16:10:18:  TCR调测工具 V3.36
+16:13:43:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20200313\Decode\LOG\K64_44444_20200313134305\K64-_44444_20200313134305.log
+16:13:48:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-13.txt
+16:13:53:  Box_1__44444_20200313154249.log - K64状态机分析.tat* - TextAnalysisTool.NET
+16:13:58:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+16:14:08:  Box_1__44444_20200313154249.log - K64状态机分析.tat* - TextAnalysisTool.NET
+16:14:23:  TCR调测工具 V3.36
+16:14:08:  Box_1__44444_20200313154249.log - K64状态机分析.tat* - TextAnalysisTool.NET
+16:14:23:  TCR调测工具 V3.36
+16:15:29:  首页 - 知乎 - Google Chrome
+16:15:34:  (36 封私信) 首页 - 知乎 - Google Chrome
+16:16:19:  TCR调测工具 V3.36
+16:16:24:  TCRControlCmdDLL
+16:16:29:  TCR调测工具 V3.36
+16:16:34:  取款
+16:16:39:  可接收
+16:16:44:  TCR调测工具 V3.36
+16:17:29:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+16:17:39:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+16:21:49:  TCR调测工具 V3.36
+16:22:04:  TCR调测工具 V3.07
+16:22:19:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:23:09:  TCR调测工具 V3.07
+16:25:04:  锁屏状态
+16:25:09:  TCR调测工具 V3.36
+16:25:19:  取款
+16:25:34:  TCR调测工具 V3.36
+16:25:59:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+16:26:09:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:26:14:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+16:26:19:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c (8) - Sublime Text (UNREGISTERED)
+16:26:34:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:26:39:  TCR调测工具 V3.36
+16:26:49:  取款
+16:26:54:  TCR调测工具 V3.36
+16:27:19:  (36 封私信) 首页 - 知乎 - Google Chrome
+16:27:29:  TCR调测工具 V3.36
+16:27:34:  (36 封私信) 首页 - 知乎 - Google Chrome
+16:32:11:  TCR调测工具 V3.36
+16:33:16:  取款
+16:33:31:  TCR调测工具 V3.36
+16:33:56:  取款
+16:34:16:  TCR调测工具 V3.36
+16:34:21:  新标签页 - Google Chrome
+16:34:26:  (36 封私信) 首页 - 知乎 - Google Chrome
+16:35:26:  取款
+16:35:41:  TCR调测工具 V3.36
+16:36:01:  20200313
+16:36:16:  LOG
+16:36:21:  Box_1__44444_20200313163538.log - K64状态机分析.tat* - TextAnalysisTool.NET
+16:36:51:  TCR调测工具 V3.36
+16:37:11:  (36 封私信) 首页 - 知乎 - Google Chrome
+16:37:36:  (36 封私信 / 99+ 条消息) 首页 - 知乎 - Google Chrome
+16:38:41:  TCR调测工具 V3.36
+16:38:46:  取款
+16:38:51:  可接收
+16:38:56:  TCR调测工具 V3.36
+16:39:01:  (36 封私信 / 99+ 条消息) 首页 - 知乎 - Google Chrome
+16:39:11:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+16:42:31:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:43:01:  Tools
+16:43:06:  打开
+16:43:11:  TCR调测工具 V3.36
+16:44:11:  取款
+16:44:16:  TCR调测工具 V3.36
+16:44:26:  回收
+16:44:31:  文件夹访问被拒绝
+16:44:36:  删除文件夹
+16:44:41:  LOG 属性
+16:44:46:  TextAnalysisTool.NET
+16:44:51:  20200313
+16:44:56:  TCR调测工具 V3.36
+16:45:01:  取款
+16:44:11:  取款
+16:44:16:  TCR调测工具 V3.36
+16:44:26:  回收
+16:44:31:  文件夹访问被拒绝
+16:44:36:  删除文件夹
+16:44:41:  LOG 属性
+16:44:46:  TextAnalysisTool.NET
+16:44:51:  20200313
+16:44:56:  TCR调测工具 V3.36
+16:45:01:  取款
+16:45:09:  TCR调测工具 V3.36
+16:45:29:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+16:45:49:  TCR调测工具 V3.36
+16:46:54:  (36 封私信 / 99+ 条消息) 首页 - 知乎 - Google Chrome
+16:48:24:  TCR调测工具 V3.36
+16:48:29:  取款
+16:48:34:  TCR调测工具 V3.36
+16:48:59:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c (8) - Sublime Text (UNREGISTERED)
+16:49:04:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (8) - Sublime Text (UNREGISTERED)
+16:49:09:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+16:49:19:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.h (8) - Sublime Text (UNREGISTERED)
+16:49:24:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+16:49:39:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:49:49:  LOG
+16:49:54:  20200313
+16:49:59:  Decode
+16:50:04:  K64_44444_20200313164838
+16:50:09:  Box_1__44444_20200313164838.log - K64状态机分析.tat* - TextAnalysisTool.NET
+16:51:24:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+16:53:54:  锁屏状态
+16:53:59:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (8) - Sublime Text (UNREGISTERED)
+16:54:14:  LOG
+16:54:29:  TCR调测工具 V3.36
+16:54:34:  Tools
+16:54:39:  打开
+16:54:44:  TCR调测工具 V3.36
+16:56:14:  取款
+16:56:19:  可接收
+16:56:24:  TCR调测工具 V3.36
+16:57:09:  20200313
+16:57:29:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:57:34:  Box_1__44444_20200313164838.log - K64状态机分析.tat* - TextAnalysisTool.NET
+16:57:39:  Box_1__44444_20200313165623.log - K64状态机分析.tat* - TextAnalysisTool.NET
+16:58:19:  Edit Filter
+16:58:24:  Box_1__44444_20200313165623.log - K64状态机分析.tat* - TextAnalysisTool.NET
+16:59:09:  K64_44444_20200313165623
+16:59:14:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+17:00:04:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:58:19:  Edit Filter
+16:58:24:  Box_1__44444_20200313165623.log - K64状态机分析.tat* - TextAnalysisTool.NET
+16:59:09:  K64_44444_20200313165623
+16:59:14:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+17:00:04:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+17:00:42:  (36 封私信) 首页 - 知乎 - Google Chrome
+17:01:07:  TCR调测工具 V3.36
+17:03:07:  取款
+17:03:12:  TCR调测工具 V3.36
+17:03:27:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+17:03:37:  Microsoft Excel
+17:03:42:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+17:03:47:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+17:03:57:  TextAnalysisTool.NET

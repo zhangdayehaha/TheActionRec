@@ -1,0 +1,411 @@
+2020-03-04 08:08:49:  Write W One 
+
+2020-03-04 08:10:04:  Write W One 
+
+2020-03-04 08:12:12:  Write W One 
+
+2020-03-04 08:14:03:  Write W One 
+
+2020-03-04 08:16:03:  Write W One 
+
+2020-03-04 08:18:04:  Write W One 
+
+2020-03-04 08:20:04:  Write W One 
+
+2020-03-04 08:22:04:  Write W One 
+
+2020-03-04 08:24:04:  Write W One 
+
+2020-03-04 08:26:04:  Write W One 
+
+2020-03-04 08:28:04:  Write W One 
+
+2020-03-04 08:30:04:  Write R One 
+
+2020-03-04 08:30:04:  Write W One 
+
+2020-03-04 08:32:00:  Write W One 
+
+2020-03-04 08:34:00:  Write W One 
+
+2020-03-04 08:36:00:  Write W One 
+
+2020-03-04 08:38:00:  Write W One 
+
+2020-03-04 08:40:00:  Write W One 
+
+2020-03-04 08:42:00:  Write W One 
+
+2020-03-04 08:44:00:  Write W One 
+
+2020-03-04 08:46:00:  Write W One 
+
+2020-03-04 08:48:00:  Write W One 
+
+2020-03-04 08:50:00:  Write W One 
+
+2020-03-04 08:52:00:  Write W One 
+
+2020-03-04 08:54:00:  Write W One 
+
+2020-03-04 08:56:00:  Write W One 
+
+2020-03-04 08:58:00:  Write W One 
+
+2020-03-04 09:00:00:  Write R One 
+
+2020-03-04 09:00:00:  Write W One 
+
+2020-03-04 09:02:00:  Write W One 
+
+2020-03-04 09:04:00:  Write W One 
+
+2020-03-04 09:06:00:  Write W One 
+
+2020-03-04 09:08:00:  Write W One 
+
+2020-03-04 09:10:00:  Write W One 
+
+2020-03-04 09:12:00:  Write W One 
+
+2020-03-04 09:14:00:  Write W One 
+
+2020-03-04 09:16:00:  Write W One 
+
+2020-03-04 09:18:00:  Write W One 
+
+2020-03-04 09:20:00:  Write W One 
+
+2020-03-04 09:22:00:  Write W One 
+
+2020-03-04 09:24:00:  Write W One 
+
+2020-03-04 09:26:00:  Write W One 
+
+2020-03-04 09:28:00:  Write W One 
+
+2020-03-04 09:30:00:  Write R One 
+
+2020-03-04 09:30:00:  Write W One 
+
+2020-03-04 09:32:00:  Write W One 
+
+2020-03-04 09:34:00:  Write W One 
+
+2020-03-04 09:36:00:  Write W One 
+
+2020-03-04 09:38:00:  Write W One 
+
+2020-03-04 09:40:00:  Write W One 
+
+2020-03-04 09:42:00:  Write W One 
+
+2020-03-04 09:44:00:  Write W One 
+
+2020-03-04 09:46:00:  Write W One 
+
+2020-03-04 09:48:00:  Write W One 
+
+2020-03-04 09:50:00:  Write W One 
+
+2020-03-04 09:52:00:  Write W One 
+
+2020-03-04 09:54:00:  Write W One 
+
+2020-03-04 09:56:00:  Write W One 
+
+2020-03-04 09:58:00:  Write W One 
+
+2020-03-04 10:00:00:  Write R One 
+
+2020-03-04 10:00:00:  Write W One 
+
+2020-03-04 10:02:00:  Write W One 
+
+2020-03-04 10:04:00:  Write W One 
+
+2020-03-04 10:06:00:  Write W One 
+
+2020-03-04 10:08:00:  Write W One 
+
+2020-03-04 10:10:00:  Write W One 
+
+2020-03-04 10:12:00:  Write W One 
+
+2020-03-04 10:14:00:  Write W One 
+
+2020-03-04 10:16:00:  Write W One 
+
+2020-03-04 10:18:00:  Write W One 
+
+2020-03-04 10:20:00:  Write W One 
+
+2020-03-04 10:22:00:  Write W One 
+
+2020-03-04 10:24:00:  Write W One 
+
+2020-03-04 10:26:00:  Write W One 
+
+2020-03-04 10:28:00:  Write W One 
+
+2020-03-04 10:30:00:  Write R One 
+
+2020-03-04 10:30:00:  Write W One 
+
+2020-03-04 10:32:00:  Write W One 
+
+2020-03-04 10:34:00:  Write W One 
+
+2020-03-04 10:36:00:  Write W One 
+
+2020-03-04 10:38:00:  Write W One 
+
+2020-03-04 10:40:00:  Write W One 
+
+2020-03-04 10:42:00:  Write W One 
+
+2020-03-04 10:44:00:  Write W One 
+
+2020-03-04 10:46:01:  Write W One 
+
+2020-03-04 10:48:01:  Write W One 
+
+2020-03-04 10:50:01:  Write W One 
+
+2020-03-04 10:52:01:  Write W One 
+
+2020-03-04 10:54:01:  Write W One 
+
+2020-03-04 10:56:01:  Write W One 
+
+2020-03-04 10:58:01:  Write W One 
+
+2020-03-04 11:00:01:  Write R One 
+
+2020-03-04 11:00:01:  Write W One 
+
+2020-03-04 11:02:01:  Write W One 
+
+2020-03-04 11:04:01:  Write W One 
+
+2020-03-04 11:06:01:  Write W One 
+
+2020-03-04 11:08:01:  Write W One 
+
+2020-03-04 11:10:01:  Write W One 
+
+2020-03-04 11:12:01:  Write W One 
+
+2020-03-04 11:14:01:  Write W One 
+
+2020-03-04 11:16:01:  Write W One 
+
+2020-03-04 11:18:01:  Write W One 
+
+2020-03-04 11:20:01:  Write W One 
+
+2020-03-04 11:22:01:  Write W One 
+
+2020-03-04 11:24:01:  Write W One 
+
+2020-03-04 11:26:01:  Write W One 
+
+2020-03-04 11:28:01:  Write W One 
+
+2020-03-04 11:30:01:  Write R One 
+
+2020-03-04 11:30:01:  Write W One 
+
+2020-03-04 11:32:01:  Write W One 
+
+2020-03-04 11:34:01:  Write W One 
+
+2020-03-04 11:36:01:  Write W One 
+
+2020-03-04 11:38:01:  Write W One 
+
+2020-03-04 11:40:01:  Write W One 
+
+2020-03-04 11:42:01:  Write W One 
+
+2020-03-04 11:44:01:  Write W One 
+
+2020-03-04 11:46:01:  Write W One 
+
+2020-03-04 11:48:01:  Write W One 
+
+2020-03-04 11:50:01:  Write W One 
+
+2020-03-04 11:52:02:  Write W One 
+
+2020-03-04 11:54:02:  Write W One 
+
+2020-03-04 11:56:02:  Write W One 
+
+2020-03-04 11:58:02:  Write W One 
+
+2020-03-04 13:22:04:  Write W One 
+2020-03-04 13:24:04:  Write W One 
+2020-03-04 13:26:04:  Write W One 
+2020-03-04 13:28:04:  Write W One 
+2020-03-04 13:30:04:  Write R One 
+TclError('can\'t invoke "update" command: application has been destroyed')
+2020-03-04 13:30:04:  Write W One 
+2020-03-04 13:32:01:  Write W One 
+2020-03-04 13:34:01:  Write W One 
+2020-03-04 13:36:01:  Write W One 
+2020-03-04 13:38:01:  Write W One 
+2020-03-04 13:40:01:  Write W One 
+2020-03-04 13:42:01:  Write W One 
+2020-03-04 13:44:01:  Write W One 
+2020-03-04 13:46:01:  Write W One 
+2020-03-04 13:48:01:  Write W One 
+2020-03-04 13:50:01:  Write W One 
+2020-03-04 13:52:01:  Write W One 
+2020-03-04 13:54:01:  Write W One 
+2020-03-04 13:56:01:  Write W One 
+2020-03-04 13:58:01:  Write W One 
+2020-03-04 14:00:01:  Write R One 
+TclError('can\'t invoke "update" command: application has been destroyed')
+2020-03-04 14:00:01:  Write W One 
+2020-03-04 14:02:04:  Write W One 
+2020-03-04 14:04:04:  Write W One 
+2020-03-04 14:06:04:  Write W One 
+2020-03-04 14:08:04:  Write W One 
+2020-03-04 14:10:04:  Write W One 
+2020-03-04 14:12:04:  Write W One 
+2020-03-04 14:14:04:  Write W One 
+2020-03-04 14:16:04:  Write W One 
+2020-03-04 14:18:04:  Write W One 
+2020-03-04 14:20:04:  Write W One 
+2020-03-04 14:22:04:  Write W One 
+2020-03-04 14:24:04:  Write W One 
+2020-03-04 14:26:04:  Write W One 
+2020-03-04 14:28:04:  Write W One 
+2020-03-04 14:30:04:  Write R One 
+2020-03-04 14:30:04:  Write W One 
+2020-03-04 14:32:00:  Write W One 
+2020-03-04 14:34:00:  Write W One 
+2020-03-04 14:36:00:  Write W One 
+2020-03-04 14:38:00:  Write W One 
+2020-03-04 14:40:00:  Write W One 
+2020-03-04 14:42:00:  Write W One 
+2020-03-04 14:44:00:  Write W One 
+2020-03-04 14:46:00:  Write W One 
+2020-03-04 14:48:00:  Write W One 
+2020-03-04 14:50:00:  Write W One 
+2020-03-04 14:52:00:  Write W One 
+2020-03-04 14:54:00:  Write W One 
+2020-03-04 14:56:00:  Write W One 
+2020-03-04 14:58:00:  Write W One 
+2020-03-04 15:00:00:  Write R One 
+TclError('can\'t invoke "update" command: application has been destroyed')
+2020-03-04 15:00:00:  Write W One 
+2020-03-04 15:02:03:  Write W One 
+2020-03-04 15:04:03:  Write W One 
+2020-03-04 15:06:03:  Write W One 
+2020-03-04 15:08:03:  Write W One 
+2020-03-04 15:10:03:  Write W One 
+2020-03-04 15:12:03:  Write W One 
+2020-03-04 15:14:03:  Write W One 
+2020-03-04 15:16:03:  Write W One 
+2020-03-04 15:18:03:  Write W One 
+2020-03-04 15:20:03:  Write W One 
+2020-03-04 15:22:03:  Write W One 
+2020-03-04 15:24:03:  Write W One 
+2020-03-04 15:26:03:  Write W One 
+2020-03-04 15:28:03:  Write W One 
+2020-03-04 15:30:03:  Write R One 
+TclError('can\'t invoke "update" command: application has been destroyed')
+2020-03-04 15:30:03:  Write W One 
+2020-03-04 15:32:00:  Write W One 
+2020-03-04 15:34:00:  Write W One 
+2020-03-04 15:36:00:  Write W One 
+2020-03-04 15:38:00:  Write W One 
+2020-03-04 15:40:00:  Write W One 
+2020-03-04 15:42:00:  Write W One 
+2020-03-04 15:44:00:  Write W One 
+2020-03-04 15:46:00:  Write W One 
+2020-03-04 15:48:00:  Write W One 
+2020-03-04 15:50:00:  Write W One 
+2020-03-04 15:52:00:  Write W One 
+2020-03-04 15:54:00:  Write W One 
+2020-03-04 15:56:00:  Write W One 
+2020-03-04 15:58:00:  Write W One 
+2020-03-04 16:00:00:  Write R One 
+2020-03-04 16:00:00:  Write W One 
+2020-03-04 16:02:01:  Write W One 
+2020-03-04 16:04:01:  Write W One 
+2020-03-04 16:06:01:  Write W One 
+2020-03-04 16:08:01:  Write W One 
+2020-03-04 16:10:01:  Write W One 
+2020-03-04 16:12:01:  Write W One 
+2020-03-04 16:14:01:  Write W One 
+2020-03-04 16:16:01:  Write W One 
+2020-03-04 16:18:01:  Write W One 
+2020-03-04 16:20:01:  Write W One 
+2020-03-04 16:22:01:  Write W One 
+2020-03-04 16:24:01:  Write W One 
+2020-03-04 16:26:01:  Write W One 
+2020-03-04 16:28:01:  Write W One 
+2020-03-04 16:30:01:  Write R One 
+TclError('can\'t invoke "update" command: application has been destroyed')
+2020-03-04 16:30:01:  Write W One 
+2020-03-04 16:32:03:  Write W One 
+2020-03-04 16:34:03:  Write W One 
+2020-03-04 16:36:03:  Write W One 
+2020-03-04 16:38:03:  Write W One 
+2020-03-04 16:40:03:  Write W One 
+2020-03-04 16:42:03:  Write W One 
+2020-03-04 16:44:03:  Write W One 
+2020-03-04 16:46:03:  Write W One 
+2020-03-04 16:48:03:  Write W One 
+2020-03-04 16:50:03:  Write W One 
+2020-03-04 16:52:03:  Write W One 
+2020-03-04 16:54:03:  Write W One 
+2020-03-04 16:56:03:  Write W One 
+2020-03-04 16:58:03:  Write W One 
+2020-03-04 17:00:03:  Write R One 
+2020-03-04 17:00:03:  Write W One 
+2020-03-04 17:02:03:  Write W One 
+2020-03-04 17:04:03:  Write W One 
+2020-03-04 17:06:03:  Write W One 
+2020-03-04 17:08:03:  Write W One 
+2020-03-04 17:10:03:  Write W One 
+2020-03-04 17:12:03:  Write W One 
+2020-03-04 17:14:03:  Write W One 
+2020-03-04 17:16:03:  Write W One 
+2020-03-04 17:18:03:  Write W One 
+2020-03-04 17:20:04:  Write W One 
+2020-03-04 17:22:04:  Write W One 
+2020-03-04 17:24:04:  Write W One 
+2020-03-04 17:34:03:  Write W One 
+
+2020-03-04 17:36:04:  Write W One 
+
+2020-03-04 17:38:04:  Write W One 
+
+2020-03-04 17:40:04:  Write W One 
+
+2020-03-04 17:42:04:  Write W One 
+
+2020-03-04 17:44:04:  Write W One 
+
+2020-03-04 17:46:04:  Write W One 
+
+2020-03-04 17:48:04:  Write W One 
+
+2020-03-04 17:50:04:  Write W One 
+
+2020-03-04 17:52:04:  Write W One 
+
+2020-03-04 17:54:04:  Write W One 
+
+2020-03-04 17:56:00:  Write W One 
+
+2020-03-04 17:58:00:  Write W One 
+
+2020-03-04 18:00:00:  Write R One 
+
+2020-03-04 18:00:00:  Write W One 
+

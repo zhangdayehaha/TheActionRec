@@ -1,0 +1,307 @@
+09:19:55:  锁屏状态
+15:15:41:  锁屏状态
+15:15:41:  锁屏状态
+15:16:39:  TCR调测工具 V3.36
+15:17:44:  W
+15:18:09:  2020-06-01.txt - 记事本
+15:18:29:  Subversion
+15:18:34:  scrapy
+15:18:39:  letgo
+15:18:44:  有哪些温柔干净且无关爱情的句子？.txt - 记事本
+15:19:04:  TCRControlCmdDLL
+15:19:09:  20200601
+15:21:24:  TCR调测工具 V3.36
+15:21:29:  发送指令到K06
+15:21:59:  TCR调测工具 V3.36
+15:22:04:  发送指令到K06
+15:22:09:  正在打开 - Excel
+15:22:14:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:22:19:  发送指令到K06
+15:22:29:  TCR调测工具 V3.36
+15:22:34:  打开
+15:22:39:  TCR调测工具 V3.36
+15:22:54:  发送指令到K06
+15:22:59:  TCR调测工具 V3.36
+15:23:04:  发送指令到K06
+15:23:09:  TCR调测工具 V3.36
+15:23:14:  发送指令到K06
+15:23:19:  TCR调测工具 V3.36
+15:23:29:  发送指令到K06
+15:23:39:  TCR调测工具 V3.36
+15:26:54:  可接收
+15:26:59:  TCR调测工具 V3.36
+15:27:19:  桌面整理
+15:27:24:  TCR调测工具 V3.36
+15:30:34:  20200601
+15:31:24:  TCR调测工具 V3.36
+15:37:10:  20200601
+15:38:10:  本地磁盘 (F:)
+15:38:15:  PostWork
+15:38:20:  dist
+15:38:30:  PostWork
+15:39:30:  本地磁盘 (F:)
+15:39:35:  PostWork 属性
+15:39:40:  文件共享
+15:39:45:  运行
+15:39:50:  yf-zhangkaifa
+15:47:00:  TCR调测工具 V3.36
+15:47:10:  警告
+15:47:35:  TCR调测工具 V3.36
+15:47:40:  挡板控制
+15:48:25:  TCR调测工具 V3.36
+15:49:25:  本地磁盘 (D:)
+15:49:30:  00-18
+15:49:35:  TCR-18
+15:49:40:  托板控制
+15:49:45:  TCR调测工具 V3.36
+15:50:10:  模块使能
+15:50:55:  TCR调测工具 V3.36
+15:51:10:  检出
+15:51:25:   - 版本库浏览器 - TortoiseSVN
+15:51:35:  检出
+15:51:40:  BR-4-TCR - 检出 - TortoiseSVN
+15:51:50:  检出 完成！
+15:52:20:  选择文件夹
+15:52:30:  D:\00-KE64\Press\Applications\FlowControl\FlowControl.c (Press) - Sublime Text (UNREGISTERED)
+15:52:35:  untitled (TCR-18) - Sublime Text (UNREGISTERED)
+15:52:40:  D:\00-18\TCR-18\Applications\LimitPoleCtrl\LimitPoleCtrl.c (TCR-18) - Sublime Text (UNREGISTERED)
+15:52:55:  传感器AD值测试
+15:54:15:  D:\00-18\TCR-18\Applications\LimitPoleCtrl\LimitPoleCtrl.c (TCR-18) - Sublime Text (UNREGISTERED)
+15:54:25:  D:\00-18\Drivers\StepMotorDriver\StepMotorDriver.h (TCR-18) - Sublime Text (UNREGISTERED)
+15:55:00:  TCR调测工具 V3.36
+15:56:10:  锁屏状态
+15:56:15:  BTCRTestTool V3.36
+15:56:20:  20200601
+15:56:25:  本地磁盘 (F:)
+15:56:30:  新建文件夹
+15:56:40:  20200601
+15:56:50:  新建文件夹
+15:57:00:  Decode
+15:57:10:  锁屏状态
+15:57:15:  K18_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+15:57:25:  D:\00-18\TCR-18\Applications\LimitPoleCtrl\LimitPoleCtrl.c (TCR-18) - Sublime Text (UNREGISTERED)
+15:57:35:  K18_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+15:57:40:  Find
+15:57:45:  K18_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+15:57:55:  Add Filter
+15:58:00:  K18_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+15:58:05:  Edit Filter
+15:58:10:  D:\00-18\TCR-18\Applications\LimitPoleCtrl\LimitPoleCtrl.c (TCR-18) - Sublime Text (UNREGISTERED)
+15:58:40:  D:\00-18\Drivers\StepMotorDriver\StepMotorDriver.h (TCR-18) - Sublime Text (UNREGISTERED)
+15:58:45:  K18_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+15:59:20:  D:\00-18\TCR-18\Applications\LimitPoleCtrl\LimitPoleCtrl.c (TCR-18) - Sublime Text (UNREGISTERED)
+15:58:05:  Edit Filter
+15:58:10:  D:\00-18\TCR-18\Applications\LimitPoleCtrl\LimitPoleCtrl.c (TCR-18) - Sublime Text (UNREGISTERED)
+15:58:40:  D:\00-18\Drivers\StepMotorDriver\StepMotorDriver.h (TCR-18) - Sublime Text (UNREGISTERED)
+15:58:45:  K18_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+15:59:20:  D:\00-18\TCR-18\Applications\LimitPoleCtrl\LimitPoleCtrl.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:00:40:  K18_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+16:00:45:  D:\00-18\TCR-18\Applications\LimitPoleCtrl\LimitPoleCtrl.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:01:25:  TCR调测工具 V3.36
+16:01:50:  挡板控制
+16:02:10:  D:\00-KE64\Press\Applications\FlowControl\FlowControl.c (Press) - Sublime Text (UNREGISTERED)
+16:02:15:  D:\00-KE64\Press\Applications\MemoryConfig.h (Press) - Sublime Text (UNREGISTERED)
+16:02:25:  D:\00-KE64\Press\Applications\FunctionApp\EepHisApp\EepromConfig.h (Press) - Sublime Text (UNREGISTERED)
+16:02:50:  「开始」菜单
+16:02:55:  Bus Hound
+16:03:05:  挡板控制
+16:03:10:  K18_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+16:03:25:  TCRControlCmdDLL
+16:03:30:  20200601
+16:03:35:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+16:03:40:  20200601
+16:03:45:  新建文件夹
+16:03:50:  Decode
+16:03:55:  锁屏状态
+16:04:00:  K64_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+16:04:20:  Decode
+16:04:35:  20200601
+16:04:40:  挡板控制
+16:04:50:  新建文件夹
+16:04:55:  K64_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+16:05:05:  正在打开 - Excel
+16:05:10:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:05:55:  K64_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+16:06:00:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:06:05:  K64_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+16:06:10:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:06:20:  K64_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+16:06:45:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:06:50:  D:\00-18\TCR-18\Applications\LimitPoleCtrl\LimitPoleCtrl.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:06:55:  D:\00-18\TCR-18\Applications\InstrExp\InstrExe.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:07:00:  D:\00-18\TCR-18\Applications\InstrExp\InstrExp.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:07:15:  D:\00-18\Applications\InstrExp\InstrExp.h (TCR-18) - Sublime Text (UNREGISTERED)
+16:07:35:  D:\00-18\TCR-18\Applications\InstrExp\InstrExp.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:07:40:  D:\00-18\TCR-18\Applications\InstrExp\InstrExe.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:07:45:  D:\00-18\TCR-18\Applications\InstrExp\InstrExp.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:08:05:  D:\00-18\TCR-18\Applications\InstrExp\InstrExe.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:08:30:  K64_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+16:08:35:  D:\00-18\TCR-18\Applications\InstrExp\InstrExe.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:08:40:  K64_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+16:08:45:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:08:50:  K64_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+16:08:55:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:09:00:  K64_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+16:09:35:  挡板控制
+16:09:55:  运行
+16:10:10:  192.168.28.47
+16:10:15:  192.168.28.47 (未响应)
+16:10:30:  192.168.28.47
+16:10:40:  08tcr测试过程记录
+16:10:45:  最新固件
+16:10:50:  K18
+16:10:55:  TCR调测工具 V3.36
+16:11:00:  打开
+16:11:35:  TCR调测工具 V3.36
+16:12:10:  挡板控制
+16:12:20:  TCR调测工具 V3.36
+16:12:30:  20200601
+16:12:35:  新建文件夹
+16:12:45:  Decode
+16:12:50:  K64_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+16:13:35:  Decode
+16:13:45:  20200601
+16:14:00:  新建文件夹
+16:14:20:  K64_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+16:14:25:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+16:14:30:  K18_12121212_20200601155544.log - [No filter file] - TextAnalysisTool.NET
+16:15:00:  Add Filter
+16:14:20:  K64_12121212_20200601155544.log - DRB.tat* - TextAnalysisTool.NET
+16:14:25:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+16:14:30:  K18_12121212_20200601155544.log - [No filter file] - TextAnalysisTool.NET
+16:15:00:  Add Filter
+16:15:05:  D:\00-18\TCR-18\Applications\InstrExp\InstrExe.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:15:15:  D:\00-18\TCR-18\Applications\LimitPoleCtrl\LimitPoleCtrl.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:15:30:  TCR调测工具 V3.36
+16:15:35:  挡板控制
+16:15:45:  TCR调测工具 V3.36
+16:19:05:  K18_12121212_20200601155544.log - [No filter file] - TextAnalysisTool.NET
+16:19:10:  桌面整理
+16:19:20:  Decode
+16:19:30:  TCR调测工具 V3.36
+16:19:35:  20200601
+16:20:10:  警告
+16:20:15:  运行
+16:20:20:  http://192.168.28.228:7100/ - Internet Explorer
+16:20:25:  一卡通平台系统 [] - Internet Explorer
+16:20:50:  实时考勤管理系统 - Internet Explorer
+16:21:00:  实时考勤管理系统 [新北洋集团] - Internet Explorer
+16:21:20:  网络错误
+16:21:25:  实时考勤管理系统 [新北洋集团] - Internet Explorer
+16:22:00:  运行
+16:22:15:  实时考勤管理系统 [新北洋集团] - Internet Explorer
+16:22:30:  运行
+16:22:35:  Program Manager
+16:23:15:  网络错误
+16:28:00:  实时考勤管理系统 [新北洋集团] - Internet Explorer
+16:28:05:  TCR调测工具 V3.36
+16:28:25:  跳转列表
+16:28:30:  有哪些温柔干净且无关爱情的句子？.txt - 记事本
+16:28:45:  TCR调测工具 V3.36
+16:28:05:  TCR调测工具 V3.36
+16:28:25:  跳转列表
+16:28:30:  有哪些温柔干净且无关爱情的句子？.txt - 记事本
+16:28:45:  TCR调测工具 V3.36
+16:32:00:  20200601
+16:32:45:  TCR调测工具 V3.36
+16:33:15:  20200601
+16:33:45:  取款
+16:33:50:  TCR调测工具 V3.36
+16:39:10:  20200601
+16:41:45:  TCR调测工具 V3.36
+16:44:35:  20200601
+16:44:45:  TCR调测工具 V3.36
+16:44:35:  20200601
+16:44:45:  TCR调测工具 V3.36
+16:46:00:  20200601
+16:47:05:  TCR调测工具 V3.36
+16:48:15:  20200601
+16:50:25:  TCR调测工具 V3.36
+16:52:00:  20200601
+16:53:35:  TCR调测工具 V3.36
+16:55:30:  压钞托板测试
+16:55:40:  入钞-50
+16:55:45:  Decode
+16:55:50:  本地磁盘 (D:)
+16:55:55:  TCR调测工具 V3.36
+16:56:25:  BTCRTestTool V3.36
+16:56:30:  新建文本文档.exe - 快捷方式
+16:56:35:  log
+16:56:40:  20200601
+16:57:45:  本地磁盘 (D:)
+16:57:50:  入钞-50
+16:58:00:  桌面整理
+16:58:05:  Decode
+16:58:10:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:58:20:  TCR调测工具 V3.36
+16:58:30:  取款
+16:58:40:  TCR调测工具 V3.36
+16:59:10:  Decode
+16:59:15:  C:\Windows\py.exe
+16:59:20:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:59:25:  TheOneForExcel.xls  [兼容模式] - Excel
+16:59:30:  TCR调测工具 V3.36
+16:59:35:  TheOneForExcel.xls  [兼容模式] - Excel
+16:58:05:  Decode
+16:58:10:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:58:20:  TCR调测工具 V3.36
+16:58:30:  取款
+16:58:40:  TCR调测工具 V3.36
+16:59:10:  Decode
+16:59:15:  C:\Windows\py.exe
+16:59:20:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:59:25:  TheOneForExcel.xls  [兼容模式] - Excel
+16:59:30:  TCR调测工具 V3.36
+16:59:35:  TheOneForExcel.xls  [兼容模式] - Excel
+17:00:05:  20180613 TCR内部指令手册_V001.xlsx - Excel
+17:00:10:  LOG
+17:00:15:  CashboxDatePur-V1.1.py - D:\压钞托板测试\入钞-50\Decode\LOG\CashboxDatePur-V1.1.py (3.7.3)
+17:01:00:  Search Dialog
+17:01:10:  CashboxDatePur-V1.1.py - D:\压钞托板测试\入钞-50\Decode\LOG\CashboxDatePur-V1.1.py (3.7.3)
+17:01:20:  Search Dialog
+17:01:45:  CashboxDatePur-V1.1.py - D:\压钞托板测试\入钞-50\Decode\LOG\CashboxDatePur-V1.1.py (3.7.3)
+17:02:35:  *CashboxDatePur-V1.1.py - D:\压钞托板测试\入钞-50\Decode\LOG\CashboxDatePur-V1.1.py (3.7.3)*
+17:02:40:  SyntaxError
+17:02:45:  CashboxDatePur-V1.1.py - D:\压钞托板测试\入钞-50\Decode\LOG\CashboxDatePur-V1.1.py (3.7.3)
+17:02:50:  *Python 3.7.3 Shell*
+17:02:55:  CashboxDatePur-V1.1.py - D:\压钞托板测试\入钞-50\Decode\LOG\CashboxDatePur-V1.1.py (3.7.3)
+17:03:10:  *CashboxDatePur-V1.1.py - D:\压钞托板测试\入钞-50\Decode\LOG\CashboxDatePur-V1.1.py (3.7.3)*
+17:03:50:  Save Before Run or Check
+17:03:55:  CashboxDatePur-V1.1.py - D:\压钞托板测试\入钞-50\Decode\LOG\CashboxDatePur-V1.1.py (3.7.3)
+17:04:00:  *CashboxDatePur-V1.1.py - D:\压钞托板测试\入钞-50\Decode\LOG\CashboxDatePur-V1.1.py (3.7.3)*
+17:04:05:  Python 3.7.3 Shell
+17:04:10:  CashboxDatePur-V1.1.py - D:\压钞托板测试\入钞-50\Decode\LOG\CashboxDatePur-V1.1.py (3.7.3)
+17:04:20:  Python 3.7.3 Shell
+17:04:25:  CashboxDatePur-V1.1.py - D:\压钞托板测试\入钞-50\Decode\LOG\CashboxDatePur-V1.1.py (3.7.3)
+17:04:35:  *CashboxDatePur-V1.1.py - D:\压钞托板测试\入钞-50\Decode\LOG\CashboxDatePur-V1.1.py (3.7.3)*
+17:05:00:  *Python 3.7.3 Shell*
+17:05:05:  LOG
+17:05:10:  TheOneForExcel.xls  [兼容模式] - Excel
+17:07:50:  20180613 TCR内部指令手册_V001.xlsx - Excel
+17:09:55:  CashboxDatePur-V1.1.py - D:\压钞托板测试\入钞-50\Decode\LOG\CashboxDatePur-V1.1.py (3.7.3)
+17:10:10:  *CashboxDatePur-V1.1.py - D:\压钞托板测试\入钞-50\Decode\LOG\CashboxDatePur-V1.1.py (3.7.3)*
+17:10:15:  CashboxDatePur-V1.1.py - D:\压钞托板测试\入钞-50\Decode\LOG\CashboxDatePur-V1.1.py (3.7.3)
+17:11:10:  20180613 TCR内部指令手册_V001.xlsx - Excel
+17:11:15:  LOG
+17:11:20:  TheOneForExcel.xls  [兼容模式] - Excel
+17:12:25:  Excel
+17:12:30:  压板测试.xlsx - Excel
+17:12:40:  自动播放
+17:12:45:  iTunes
+17:12:50:  压板测试.xlsx - Excel
+17:13:50:  20180613 TCR内部指令手册_V001.xlsx - Excel
+17:13:55:  本地磁盘 (C:)
+17:14:00:  2020-06-01.txt - 记事本
+17:14:05:  eSpace
+17:14:10:  桌面整理
+17:14:30:  TCR调测工具 V3.36
+17:15:00:  于斌1
+17:14:05:  eSpace
+17:14:10:  桌面整理
+17:14:30:  TCR调测工具 V3.36
+17:15:00:  于斌1
+17:15:30:  TCR调测工具 V3.36
+17:15:35:  发送指令到K06
+17:15:40:  发送指令到K18
+17:15:50:  TCR调测工具 V3.36
+17:16:05:  锁屏状态

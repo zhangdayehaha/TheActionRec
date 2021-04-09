@@ -1,0 +1,992 @@
+08:10:40:  CommonManageTool
+08:10:45:  TCR调测工具 V3.36
+08:10:50:  Dialog
+08:11:15:  eSpace Login
+08:11:20:  TCR调测工具 V3.36
+08:11:25:  跳转列表
+08:11:30:  Windows 资源管理器
+08:11:35:  TCRControlCmdDLL
+08:11:40:  20200907
+08:11:45:  Decode
+08:11:50:  K64_0000_20200907081043
+08:12:00:  Box_2__0000_20200907081043.log - [No filter file] - TextAnalysisTool.NET
+08:12:15:  打开
+08:12:20:  Box_2__0000_20200907081043.log - DRB.tat - TextAnalysisTool.NET
+08:13:55:  TCR调测工具 V3.36
+08:15:25:  K64_0000_20200907081043
+08:15:30:  荆文波
+08:15:40:  桌面整理
+08:15:45:  DRB传感器.txt - 记事本
+08:15:55:  TCR调测工具 V3.36
+08:24:10:  于斌1
+08:24:15:  K64_0000_20200907081043
+08:24:20:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+08:24:30:  D:\00-06\2\Drivers\PeripheralDriver\SpiDriver\SnbcSpiDriver.h (2) - Sublime Text (UNREGISTERED)
+08:24:40:  选择文件夹
+08:24:45:  untitled (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+08:24:50:  戚晓东
+08:24:55:  untitled (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+08:25:05:  D:\00-06\DRB-MOSTNEW\Middlewares\Plate\UpperPlate.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+08:25:15:  戚晓东
+08:25:20:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+08:27:25:  戚晓东
+08:28:00:  DRB传感器.txt - 记事本
+08:28:10:  戚晓东
+08:28:35:  TCR调测工具 V3.36
+08:28:40:  戚晓东
+08:29:05:  TCR调测工具 V3.36
+08:29:20:  戚晓东
+08:29:25:  TCR调测工具 V3.36
+08:29:30:  DRB传感器.txt - 记事本
+08:29:35:  TCR调测工具 V3.36
+08:29:40:  DRB传感器.txt - 记事本
+08:29:50:  TCR调测工具 V3.36
+08:28:10:  戚晓东
+08:28:35:  TCR调测工具 V3.36
+08:28:40:  戚晓东
+08:29:05:  TCR调测工具 V3.36
+08:29:20:  戚晓东
+08:29:25:  TCR调测工具 V3.36
+08:29:30:  DRB传感器.txt - 记事本
+08:29:35:  TCR调测工具 V3.36
+08:29:40:  DRB传感器.txt - 记事本
+08:29:50:  TCR调测工具 V3.36
+08:31:55:  eSpace
+08:32:00:  荆文波
+08:32:10:  TCR调测工具 V3.36
+08:32:30:  本地磁盘 (D:)
+08:32:35:  CRS-TRNK
+08:32:40:  D:\00-18\CRS-TRNK - 日志信息 - TortoiseSVN
+08:33:05:  TCR调测工具 V3.36
+08:38:20:  发送指令到K06
+08:39:00:  TCR调测工具 V3.36
+08:39:20:  发送指令到K06
+08:39:35:  TCR调测工具 V3.36
+08:40:05:  发送指令到K06
+08:40:25:  TCR调测工具 V3.36
+08:40:50:  发送指令到K06
+08:40:55:  TCR调测工具 V3.36
+08:41:00:  发送指令到K06
+08:41:05:  TCR调测工具 V3.36
+08:41:15:  发送指令到K06
+08:41:20:  TCR调测工具 V3.36
+08:41:25:  发送指令到K06
+08:41:40:  TCR调测工具 V3.36
+08:42:30:  荆文波
+08:42:35:  TCR调测工具 V3.36
+08:43:30:  发送指令到K06
+08:43:50:  TCR调测工具 V3.36
+08:44:10:  D:\00-18\CRS-TRNK - 日志信息 - TortoiseSVN
+08:44:35:  TCR调测工具 V3.36
+08:44:40:  钞箱配置
+08:44:50:  TCR调测工具 V3.36
+08:44:10:  D:\00-18\CRS-TRNK - 日志信息 - TortoiseSVN
+08:44:35:  TCR调测工具 V3.36
+08:44:40:  钞箱配置
+08:44:50:  TCR调测工具 V3.36
+08:45:25:  取款
+08:45:30:  TCR调测工具 V3.36
+08:46:40:  钞箱配置
+08:46:45:  TCR调测工具 V3.36
+08:46:50:  BTCRTestTool
+08:46:55:  TCR调测工具 V3.36
+08:47:40:  警告
+08:47:45:  库
+08:49:05:  TCR调测工具 V3.36
+08:49:35:  取款
+08:49:40:  TCR调测工具 V3.36
+08:51:15:  戚晓东
+08:51:30:  警告
+08:51:55:  03 项目周报
+08:52:00:  正在打开 - Excel
+08:52:05:  TCR（DRB）项目周报.xlsx  [受保护的视图] - Excel
+08:52:10:  TCR（DRB）项目周报.xlsx  [共享] - Excel
+08:53:05:  孙颖
+08:53:30:  TCR调测工具 V3.36
+08:53:35:  钞箱配置
+08:53:45:  TCR调测工具 V3.36
+08:57:10:  取款
+08:57:15:  TCR调测工具 V3.36
+08:57:35:  03 项目周报
+08:57:45:  BTCRTestTool V3.36
+08:57:50:  20200907
+08:57:55:  回收
+08:58:00:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:58:05:  K64_0000_20200907085711
+08:58:10:  Box_2__0000_20200907085711.log - DRB.tat - TextAnalysisTool.NET
+08:58:40:  Add Filter
+08:58:45:  Box_2__0000_20200907085711.log - DRB.tat* - TextAnalysisTool.NET
+08:59:00:  打开
+08:59:05:  Box_2__0000_20200907085711.log - DRB.tat - TextAnalysisTool.NET
+08:58:05:  K64_0000_20200907085711
+08:58:10:  Box_2__0000_20200907085711.log - DRB.tat - TextAnalysisTool.NET
+08:58:40:  Add Filter
+08:58:45:  Box_2__0000_20200907085711.log - DRB.tat* - TextAnalysisTool.NET
+08:59:00:  打开
+08:59:05:  Box_2__0000_20200907085711.log - DRB.tat - TextAnalysisTool.NET
+09:02:00:  TCR调测工具 V3.36
+09:04:40:  取款
+09:04:45:  TCR调测工具 V3.36
+09:08:15:  托板控制
+09:08:50:  TCR调测工具 V3.36
+09:08:55:  托板控制
+09:11:41:  自动播放
+09:11:46:  iTunes
+09:12:46:  托板控制
+09:15:36:  新建文本文档.exe - 快捷方式
+09:15:46:  密码锁
+09:15:51:  所有笔记本 - 569336451@qq.com - 印象笔记
+09:16:01:  所有笔记本 - 张开发 - 印象笔记
+09:17:18:  印象笔记
+09:17:28:  Box_2__0000_20200907085711.log - DRB.tat - TextAnalysisTool.NET
+09:19:26:  打开文件夹
+09:19:52:  Box_2__0000_20200907085711.log - DRB.tat - TextAnalysisTool.NET
+09:19:57:  D:\00-06\DRB-MOSTNEW\Middlewares\Plate\UpperPlate.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+09:20:02:  Box_2__0000_20200907085711.log - DRB.tat - TextAnalysisTool.NET
+09:21:49:  新建文本文档.exe - 快捷方式
+09:21:54:  taskeng.exe
+09:22:04:  Box_2__0000_20200907085711.log - DRB.tat - TextAnalysisTool.NET
+09:23:30:  新标签页 - Google Chrome
+09:23:45:  班车管理系统 - Google Chrome
+09:23:50:  班车管理系统 [新北洋集团] - Google Chrome
+09:24:31:  桌面整理
+09:24:36:  Visual Studio Code
+09:24:41:  所有笔记本 - 张开发 - 印象笔记
+09:25:01:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+09:25:51:  设置 - CRS-TRNK - Visual Studio Code [管理员]
+09:26:01:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:28:02:  ● CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:28:07:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:28:22:  launch.json - CRS-TRNK - Visual Studio Code [管理员]
+09:28:27:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:28:47:  Visual Studio Code
+09:28:57:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:29:02:  SeparatorCtrl.h - CRS-TRNK - Visual Studio Code [管理员]
+09:29:32:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:29:37:  「开始」菜单
+09:29:42:  桌面整理
+09:29:47:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:28:07:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:28:22:  launch.json - CRS-TRNK - Visual Studio Code [管理员]
+09:28:27:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:28:47:  Visual Studio Code
+09:28:57:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:29:02:  SeparatorCtrl.h - CRS-TRNK - Visual Studio Code [管理员]
+09:29:32:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:29:37:  「开始」菜单
+09:29:42:  桌面整理
+09:29:47:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:30:07:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+09:34:38:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:35:13:  扩展: Python - CRS-TRNK - Visual Studio Code [管理员]
+09:35:23:  自动播放
+09:35:28:  扩展: Python - CRS-TRNK - Visual Studio Code [管理员]
+09:35:43:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+09:36:38:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:36:58:  Visual Studio Code
+09:37:03:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:37:38:  桌面整理
+09:37:53:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:38:08:  设置 - CRS-TRNK - Visual Studio Code [管理员]
+09:38:18:  TheBo.txt - 记事本
+09:38:23:  设置 - CRS-TRNK - Visual Studio Code [管理员]
+09:38:28:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:38:43:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+09:38:53:  设置 - CRS-TRNK - Visual Studio Code [管理员]
+09:38:58:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+09:41:48:  ● SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+09:48:43:  密码锁
+09:48:48:  所有笔记本 - 张开发 - 印象笔记
+09:49:18:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+09:50:03:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:50:08:  ● CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:50:18:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:50:28:  设置 - CRS-TRNK - Visual Studio Code [管理员]
+09:52:43:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+09:52:48:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:52:58:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+09:57:03:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+09:57:13:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+09:59:18:  ● SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+09:59:18:  ● SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+10:02:03:  CheckTheBookTital.py - CRS-TRNK - Visual Studio Code [管理员]
+10:02:13:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+10:07:23:  eSpace
+10:08:08:  新建文本文档.exe - 快捷方式
+10:08:13:  MSN 中国 - Internet Explorer
+10:08:18:  系统登录 - Internet Explorer
+10:08:23:  新北洋OA信息化平台 - Internet Explorer
+10:09:23:  Box_2__0000_20200907085711.log - DRB.tat - TextAnalysisTool.NET
+10:10:03:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+10:10:13:  D:\00-06\1T1-Stop-Length\trunk\Applications\State\State.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+10:10:58:  D:\00-06\1T1-Stop-Length\trunk\Applications\State\State.c • (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+10:11:08:  D:\00-06\1T1-Stop-Length\trunk\Applications\State\State.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+10:11:13:  D:\00-06\1T1-Stop-Length\trunk\Applications\State\State.c • (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+10:11:38:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\ElectroMagnet\ElectroMagnet.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+10:11:43:  D:\00-06\1T1-Stop-Length\trunk\Applications\State\State.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+10:11:53:  本地磁盘 (D:)
+10:11:58:  Project
+10:12:03:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:12:38:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+10:13:53:  锁屏状态
+10:14:33:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+10:14:33:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+10:15:23:  Tools
+10:15:33:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+10:15:38:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:15:48:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+10:15:53:  03 项目周报
+10:15:58:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+10:16:03:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:16:08:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+10:16:13:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:16:23:  Tools
+10:16:28:  未命名 - 写邮件
+10:16:33:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T99 - 写邮件
+10:16:58:  发送邮件
+10:17:03:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+10:19:58:  TCR调测工具 V3.36
+10:20:03:  打开
+10:20:13:  TCR调测工具 V3.36
+10:24:03:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:24:13:  Tools
+10:24:18:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:26:08:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+10:40:03:  Tools
+10:40:13:  iTunes
+10:40:18:  D:\00-06\DRB-MOSTNEW\Middlewares\Plate\UpperPlate.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+10:40:58:  桌面整理
+10:41:03:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code
+10:41:08:  00-18
+10:41:13:  CRS-TRNK
+10:41:18:  D:\00-18\CRS-TRNK - 更新 - TortoiseSVN
+10:41:23:  更新 完成！
+10:41:38:  TortoiseSVN
+10:41:48:  CRS-TRNK
+10:41:53:  SeparatorCtrl.c - TortoiseMerge
+10:41:58:  00-18
+10:42:03:  回收
+10:42:08:  新北洋OA信息化平台 - Internet Explorer
+10:42:28:  2020年新北洋张村食堂9.7-9.13日菜谱.xlsx  [受保护的视图] - Excel
+10:42:38:  新北洋OA信息化平台 - Internet Explorer
+10:42:43:  桌面整理
+10:42:48:  eSpace Login
+10:42:53:  00-18
+10:42:58:  CRS-TRNK
+10:43:08:  SeparatorCtrl.c - CRS-TRNK - Visual Studio Code [管理员]
+10:43:13:  CRS-TRNK
+10:43:18:  00-18
+10:43:23:   - 版本库浏览器 - TortoiseSVN
+10:43:39:  http://192.168.10.9:82/svn/BNE-R1200M - 版本库浏览器 - TortoiseSVN
+10:43:44:  trunk - 检出 - TortoiseSVN
+10:43:59:  Visual Studio Code
+10:44:04:  欢迎使用 - Visual Studio Code [管理员]
+10:44:09:  欢迎使用 - 00-18 - Visual Studio Code [管理员]
+10:44:34:  SeparatorCtrl.c - 00-18 - Visual Studio Code [管理员]
+10:44:09:  欢迎使用 - 00-18 - Visual Studio Code [管理员]
+10:44:34:  SeparatorCtrl.c - 00-18 - Visual Studio Code [管理员]
+10:45:29:  ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+10:45:34:  班车管理系统 [新北洋集团] - Google Chrome
+10:45:39:  荆文波
+10:46:19:  eSpace
+10:47:04:  荆文波
+10:51:14:  eSpace
+10:52:14:  荆文波
+10:53:24:  ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+10:55:14:  ● ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+10:58:59:  网易有道词典
+10:59:19:  ● ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+10:59:39:  ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+10:59:59:  ● ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+11:00:04:  ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+10:58:59:  网易有道词典
+10:59:19:  ● ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+10:59:39:  ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+10:59:59:  ● ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+11:00:04:  ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+11:00:24:  ● ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+11:00:29:  ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+11:05:04:  问题日志
+11:05:09:  正在打开 - Excel
+11:05:14:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+11:05:24:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+11:05:54:  Subversion
+11:05:59:  TheActtionRec
+11:06:04:  无标题 - 记事本
+11:06:09:  2020-08-28.txt - 记事本
+11:06:34:  2020-08-27.txt - 记事本
+11:06:39:  W
+11:06:44:  2020-08-24.txt - 记事本
+11:06:49:  W
+11:06:54:  2020-08-20.txt - 记事本
+11:07:04:  W
+11:07:09:  2020-08-28.txt - 记事本
+11:07:59:  2020-08-13.txt - 记事本
+11:08:14:  Box_2__0000_20200907085711.log - DRB.tat - TextAnalysisTool.NET
+11:08:24:  ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+11:20:04:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+11:31:14:  锁屏状态
+11:31:54:  桌面整理
+11:31:59:  MindMaster
+11:32:09:  MindMaster Pro
+11:32:34:  开始
+11:32:39:  新标签页 - Google Chrome
+11:32:49:  百度一下，你就知道 - Google Chrome
+11:32:54:  支付宝 知托付！ - Google Chrome
+11:33:14:  我的账单 - 支付宝 - Google Chrome
+11:33:34:  下载
+11:33:39:  下载 (未响应)
+11:33:44:  MindMaster 发现新版本。
+11:33:49:  MindMaster Pro
+11:34:09:  下载
+11:34:14:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+11:34:19:  alipay_record_20200907_1133_1.csv - Excel
+11:36:09:  MindMaster Pro
+11:36:24:  alipay_record_20200907_1133_1.csv - Excel
+11:36:44:  MindMaster Pro
+11:36:54:  alipay_record_20200907_1133_1.csv - Excel
+11:37:14:  MindMaster Pro
+11:37:24:  alipay_record_20200907_1133_1.csv - Excel
+11:38:14:  MindMaster Pro
+11:38:39:  ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+11:39:24:  TCR调测工具 V3.36
+11:39:34:  托板控制
+11:39:49:  锁屏状态
+11:39:54:  alipay_record_20200907_1133_1.csv - Excel
+11:39:59:  MindMaster Pro
+11:40:14:  ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+11:40:49:  alipay_record_20200907_1133_1.csv - Excel
+11:40:59:  MindMaster Pro
+11:41:24:  alipay_record_20200907_1133_1.csv - Excel
+11:41:44:  「开始」菜单
+11:41:49:  计算器
+11:42:09:  MindMaster Pro
+11:42:19:  计算器
+11:42:29:  MindMaster Pro
+11:42:54:  alipay_record_20200907_1133_1.csv - Excel
+11:43:19:  MindMaster Pro
+11:43:29:  alipay_record_20200907_1133_1.csv - Excel
+11:43:39:  MindMaster Pro
+11:44:04:  alipay_record_20200907_1133_1.csv - Excel
+11:44:54:  MindMaster Pro
+11:44:59:  alipay_record_20200907_1133_1.csv - Excel
+11:44:54:  MindMaster Pro
+11:44:59:  alipay_record_20200907_1133_1.csv - Excel
+11:45:34:  MindMaster Pro
+11:45:39:  锁屏状态
+13:14:10:  ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+13:14:15:  MindMaster Pro
+13:14:25:  alipay_record_20200907_1133_1.csv - Excel
+13:14:40:  计算器
+13:14:50:  alipay_record_20200907_1133_1.csv - Excel
+13:14:10:  ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+13:14:15:  MindMaster Pro
+13:14:25:  alipay_record_20200907_1133_1.csv - Excel
+13:14:40:  计算器
+13:14:50:  alipay_record_20200907_1133_1.csv - Excel
+13:15:30:  MindMaster Pro
+13:15:40:  alipay_record_20200907_1133_1.csv - Excel
+13:16:20:  锁屏状态
+13:16:25:  alipay_record_20200907_1133_1.csv - Excel
+13:16:40:  计算器
+13:16:45:  alipay_record_20200907_1133_1.csv - Excel
+13:16:55:  计算器
+13:17:00:  alipay_record_20200907_1133_1.csv - Excel
+13:17:05:  MindMaster Pro
+13:17:10:  alipay_record_20200907_1133_1.csv - Excel
+13:17:35:  计算器
+13:17:45:  alipay_record_20200907_1133_1.csv - Excel
+13:17:50:  计算器
+13:18:05:  alipay_record_20200907_1133_1.csv - Excel
+13:18:10:  计算器
+13:18:15:  alipay_record_20200907_1133_1.csv - Excel
+13:18:30:  MindMaster Pro
+13:18:40:  alipay_record_20200907_1133_1.csv - Excel
+13:19:40:  计算器
+13:19:45:  alipay_record_20200907_1133_1.csv - Excel
+13:19:50:  计算器
+13:19:55:  MindMaster Pro
+13:20:10:  alipay_record_20200907_1133_1.csv - Excel
+13:20:25:  MindMaster Pro
+13:20:35:  alipay_record_20200907_1133_1.csv - Excel
+13:21:05:  MindMaster Pro
+13:21:25:  alipay_record_20200907_1133_1.csv - Excel
+13:21:45:  MindMaster Pro
+13:21:55:  alipay_record_20200907_1133_1.csv - Excel
+13:22:05:  MindMaster Pro
+13:22:20:  ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+13:23:50:  MindMaster Pro
+13:24:00:  alipay_record_20200907_1133_1.csv - Excel
+13:24:10:  ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+13:31:50:  alipay_record_20200907_1133_1.csv - Excel
+13:32:05:  计算器
+13:32:10:  alipay_record_20200907_1133_1.csv - Excel
+13:32:30:  计算器
+13:32:40:  MindMaster Pro
+13:33:05:  计算器
+13:33:10:  MindMaster Pro
+13:33:35:  计算器
+13:34:30:  MindMaster Pro
+13:36:05:  D:\00-06\2\Drivers\SpiFlashDriver\SpiFlashDriver.c • (2) - Sublime Text (UNREGISTERED)
+13:42:50:  W
+13:46:35:  2020-08-17.txt - 记事本
+13:46:40:  MindMaster Pro
+13:47:40:  计算器
+13:48:30:  MindMaster Pro
+13:48:35:  计算器
+13:48:40:  MindMaster Pro
+13:49:15:  计算器
+13:49:25:  MindMaster Pro
+13:50:05:  计算器
+13:50:25:  MindMaster Pro
+13:50:45:  计算器
+13:51:05:  MindMaster Pro
+13:51:15:  计算器
+13:51:30:  我的账单 - 支付宝 - Google Chrome
+13:51:40:  登录 - 支付宝 - Google Chrome
+13:51:50:  我的支付宝 － 支付宝 - Google Chrome
+13:52:00:  我的账单 - 支付宝 - Google Chrome
+13:52:25:  alipay_record_20200907_1352.zip - WinRAR (非商业个人版)
+13:52:30:  alipay_record_20200907_1352_1.csv - Excel
+13:53:55:  MindMaster Pro
+13:54:45:  alipay_record_20200907_1352_1.csv - Excel
+13:54:55:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+13:55:00:  alipay_record_20200907_1133_1.csv - Excel
+13:56:05:  alipay_record_20200907_1133.zip - WinRAR (非商业个人版)
+13:56:10:  MindMaster Pro
+13:58:00:  alipay_record_20200907_1133.zip - WinRAR (非商业个人版)
+13:59:00:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+13:59:05:  MindMaster Pro
+13:59:00:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+13:59:05:  MindMaster Pro
+14:02:40:  alipay_record_20200907_1133_1.csv - Excel
+14:03:45:  MindMaster Pro
+14:03:50:  计算器
+14:03:55:  MindMaster Pro
+14:05:45:  MindMaster
+14:05:50:  计算器
+14:05:55:  alipay_record_20200907_1133_1.csv - Excel
+14:08:15:  设置单元格格式
+14:08:20:  alipay_record_20200907_1133_1.csv - Excel
+14:08:25:  设置单元格格式
+14:08:30:  alipay_record_20200907_1133_1.csv - Excel
+14:11:15:  MindMaster Pro
+14:11:25:  alipay_record_20200907_1133_1.csv - Excel
+14:11:30:  MindMaster Pro
+14:11:40:  锁屏状态
+14:11:45:  alipay_record_20200907_1133_1.csv - Excel
+14:11:50:  MindMaster Pro
+14:11:55:  alipay_record_20200907_1133_1.csv - Excel
+14:12:15:  MindMaster Pro
+14:12:20:  alipay_record_20200907_1133_1.csv - Excel
+14:12:25:  MindMaster Pro
+14:12:30:  alipay_record_20200907_1133_1.csv - Excel
+14:12:55:  MindMaster Pro
+14:13:00:  alipay_record_20200907_1133_1.csv - Excel
+14:13:10:  MindMaster Pro
+14:13:25:  alipay_record_20200907_1133_1.csv - Excel
+14:13:30:  MindMaster Pro
+14:13:35:  锁屏状态
+14:13:40:  alipay_record_20200907_1133_1.csv - Excel
+14:14:35:  MindMaster Pro
+14:14:40:  alipay_record_20200907_1133_1.csv - Excel
+14:14:45:  MindMaster Pro
+14:14:50:  alipay_record_20200907_1133_1.csv - Excel
+14:15:00:  MindMaster Pro
+14:14:35:  MindMaster Pro
+14:14:40:  alipay_record_20200907_1133_1.csv - Excel
+14:14:45:  MindMaster Pro
+14:14:50:  alipay_record_20200907_1133_1.csv - Excel
+14:15:00:  MindMaster Pro
+14:15:15:  alipay_record_20200907_1133_1.csv - Excel
+14:16:30:  设置单元格格式
+14:16:45:  alipay_record_20200907_1133_1.csv - Excel
+14:17:30:  MindMaster Pro
+14:17:35:  alipay_record_20200907_1133_1.csv - Excel
+14:17:45:  设置单元格格式
+14:17:55:  alipay_record_20200907_1133_1.csv - Excel
+14:18:00:  设置单元格格式
+14:18:05:  alipay_record_20200907_1133_1.csv - Excel
+14:18:20:  设置单元格格式
+14:18:25:  alipay_record_20200907_1133_1.csv - Excel
+14:18:45:  设置单元格格式
+14:18:50:  alipay_record_20200907_1133_1.csv - Excel
+14:18:55:  设置单元格格式
+14:19:05:  alipay_record_20200907_1133_1.csv - Excel
+14:19:15:  设置单元格格式
+14:19:20:  alipay_record_20200907_1133_1.csv - Excel
+14:20:35:  MindMaster Pro
+14:20:40:  alipay_record_20200907_1133_1.csv - Excel
+14:20:50:  MindMaster Pro
+14:20:55:  alipay_record_20200907_1133_1.csv - Excel
+14:21:00:  MindMaster Pro
+14:21:05:  alipay_record_20200907_1133_1.csv - Excel
+14:21:45:  MindMaster Pro
+14:21:50:  alipay_record_20200907_1133_1.csv - Excel
+14:21:55:  MindMaster Pro
+14:22:00:  alipay_record_20200907_1133_1.csv - Excel
+14:22:05:  MindMaster Pro
+14:22:20:  alipay_record_20200907_1133_1.csv - Excel
+14:22:35:  MindMaster Pro
+14:22:40:  alipay_record_20200907_1133_1.csv - Excel
+14:22:50:  MindMaster Pro
+14:22:55:  alipay_record_20200907_1133_1.csv - Excel
+14:24:50:  设置单元格格式
+14:24:55:  alipay_record_20200907_1133_1.csv - Excel
+14:25:05:  设置单元格格式
+14:25:10:  alipay_record_20200907_1133_1.csv - Excel
+14:25:15:  设置单元格格式
+14:25:20:  alipay_record_20200907_1133_1.csv - Excel
+14:26:10:  锁屏状态
+14:26:15:  alipay_record_20200907_1133_1.csv - Excel
+14:26:20:  密码锁
+14:26:25:  alipay_record_20200907_1133_1.csv - Excel
+14:26:30:  另存为
+14:26:50:  财务管理.xlsx - Excel
+14:34:25:  eSpace
+14:34:30:  密码锁
+14:34:55:  所有笔记本 - 张开发 - 印象笔记
+14:35:00:  印象笔记
+14:35:20:  MindMaster Pro
+14:35:25:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+14:35:40:  TCR调测工具 V3.36
+14:35:45:  Box_2__0000_20200907085711.log - DRB.tat - TextAnalysisTool.NET
+14:36:10:  桌面整理
+14:36:15:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+14:36:25:  Box_2__0000_20200907085711.log - DRB.tat - TextAnalysisTool.NET
+14:36:35:  eSpace
+14:37:00:  Box_2__0000_20200907085711.log - DRB.tat - TextAnalysisTool.NET
+14:37:05:  MindMaster Pro
+14:37:10:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+14:37:25:  财务管理.xlsx - Excel
+14:37:45:  移动或复制工作表
+14:37:50:  财务管理.xlsx - Excel
+14:38:00:  移动或复制工作表
+14:38:15:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+14:44:51:  D:\00-06\DRB-MOSTNEW\Applications\State\State.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+14:44:51:  D:\00-06\DRB-MOSTNEW\Applications\State\State.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+14:46:01:  D:\00-06\DRB-MOSTNEW\Applications\Instruction\InstrHandle.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+14:46:11:  D:\00-06\DRB-MOSTNEW\Applications\Instruction\InstrExecute.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+14:46:16:  D:\00-06\DRB-MOSTNEW\Applications\Instruction\InstrHandle.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+14:46:21:  选择文件夹
+14:46:26:  untitled (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:46:31:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrHandle.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:46:36:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:46:46:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:47:51:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:47:56:  W
+14:48:01:  DRB-PRESS
+14:48:06:  我的账单 - 支付宝 - Google Chrome
+14:48:11:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision (未响应)
+14:48:16:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:48:56:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:49:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:49:21:  Cortex JLink/JTrace Target Driver Setup
+14:49:36:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:54:56:  KE06LOG.bat - 快捷方式 (2)
+14:55:21:  LogExpert
+14:55:26:  J-Link V6.10b Device Selection
+14:55:31:  JLink - Cortex-M Error
+14:55:36:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:55:41:  SEGGER J-Link V6.10b - Target device settings
+14:55:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:56:31:  SEGGER J-Link V6.10b - Target device settings
+14:56:41:  锁屏状态
+14:56:46:  Project
+14:56:56:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+14:57:06:  BOOT
+14:57:11:  LogExpert
+14:57:16:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071454.log
+14:57:21:  BOOT
+14:57:41:  DRB-PRESS
+14:57:51:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:57:56:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+14:58:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:59:51:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071454.log
+14:59:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071459.log
+14:59:51:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071454.log
+14:59:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071459.log
+15:00:41:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:02:46:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071502.log
+15:02:56:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:04:06:  Toolbox
+15:04:16:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:04:46:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071504.log
+15:04:56:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:05:41:  程明昌
+15:05:51:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:06:26:  本地磁盘 (D:)
+15:06:31:  新建文件夹 (2)
+15:06:36:  本地磁盘 (D:)
+15:06:41:  本地磁盘 (E:)
+15:06:46:  钞箱1T2集成测试方案
+15:06:56:  程明昌
+15:07:01:  未命名 - 写邮件
+15:07:06:  5.16.17 Can总线测试V1.0 - 写邮件
+15:07:11:  程明昌
+15:07:16:  钞箱1T2集成测试方案
+15:07:21:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:09:36:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071504.log
+15:10:06:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:10:16:  锁屏状态
+15:10:21:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:12:06:  00-06
+15:12:11:  锁屏状态
+15:12:16:  Microsoft Excel
+15:12:21:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:14:11:  KE06LOG.bat - 快捷方式 (2)
+15:14:16:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:14:21:  Box_2__0000_20200907085711.log - DRB.tat - TextAnalysisTool.NET
+15:14:31:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071514.log
+15:14:56:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:14:11:  KE06LOG.bat - 快捷方式 (2)
+15:14:16:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:14:21:  Box_2__0000_20200907085711.log - DRB.tat - TextAnalysisTool.NET
+15:14:31:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071514.log
+15:14:56:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:15:51:  Box_2__0000_20200907085711.log - DRB.tat - TextAnalysisTool.NET
+15:16:01:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071515.log
+15:16:31:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:16:36:  Project
+15:16:41:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:20:11:  桌面整理
+15:20:16:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+15:20:31:  Adobe Reader
+15:20:36:  桌面整理
+15:20:41:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+15:21:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:23:01:  Project
+15:23:11:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+15:23:41:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:29:41:  DRB传感器.txt - 记事本
+15:29:46:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+15:29:41:  DRB传感器.txt - 记事本
+15:29:46:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+15:30:31:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:34:26:  KE06LOG.bat - 快捷方式 (2)
+15:34:31:  DRB传感器.txt - 记事本
+15:34:41:  RTT_SeggerLog_202009071534.log - DRB.tat - TextAnalysisTool.NET
+15:35:26:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:36:36:  Toolbox
+15:36:41:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:37:11:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071536.log
+15:38:01:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:39:11:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071536.log
+15:39:16:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071539.log
+15:39:41:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:39:46:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:39:51:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:40:26:  KE06LOG.bat - 快捷方式 (2)
+15:40:36:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:41:31:  锁屏状态
+15:41:36:  00-06
+15:41:41:  μVision
+15:41:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:42:36:  Toolbox
+15:42:41:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:46:56:  Project
+15:47:01:  μVision
+15:47:06:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:47:51:  KE06LOG.bat - 快捷方式 (2)
+15:47:56:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:48:26:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071547.log
+15:48:36:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:49:01:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071547.log
+15:49:31:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:50:11:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071547.log
+15:50:21:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:50:41:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071547.log
+15:51:06:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:52:41:  KE06LOG.bat - 快捷方式 (2)
+15:52:46:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:53:01:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071547.log
+15:53:06:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071552.log
+15:53:26:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:53:41:  DRB传感器.txt - 记事本
+15:53:46:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:54:41:  DRB-MOSTNEW
+15:54:46:  D:\00-06\DRB-MOSTNEW - 工作副本 - TortoiseSVN
+15:54:51:  StepMotor.c - TortoiseMerge
+15:55:06:  D:\00-06\DRB-MOSTNEW - 工作副本 - TortoiseSVN
+15:55:26:  Project
+15:55:41:  DRB-PRESS
+15:55:46:  工作副本
+15:55:51:  Initial.c - TortoiseMerge
+15:55:56:  文件补丁  
+15:56:01:  00-06
+15:56:11:  D:\00-06\DRB-MOSTNEW - 工作副本 - TortoiseSVN
+15:56:16:  Initial.c - TortoiseMerge
+15:56:21:  DRB-PRESS
+15:56:26:  StepMotorDriver.c - TortoiseMerge
+15:56:31:  LowerPlate.c - TortoiseMerge
+15:56:36:  StepMotor.c - TortoiseMerge
+15:56:41:  State.c - TortoiseMerge
+15:57:11:  DRB-PRESS
+15:57:16:  D:\00-06\DRB-PRESS - 日志信息 - TortoiseSVN
+15:57:31:  D:\00-06\DRB-PRESS - 更新 - TortoiseSVN
+15:57:36:  StepMotor.h - TortoiseMerge
+15:57:41:  更新 完成！
+15:57:46:  BR-1-CashBox1T2-Press.txt.mine - TortoiseMerge
+15:57:51:  TortoiseSVN
+15:57:56:  State.c.mine - TortoiseMerge
+15:58:06:  TortoiseSVN
+15:58:11:  更新 完成！
+15:58:16:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:58:31:  00-06
+15:58:36:  μVision
+15:58:41:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:59:26:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+15:59:31:  网易有道词典
+15:59:36:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:58:06:  TortoiseSVN
+15:58:11:  更新 完成！
+15:58:16:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:58:31:  00-06
+15:58:36:  μVision
+15:58:41:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+15:59:26:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+15:59:31:  网易有道词典
+15:59:36:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+16:01:41:  RTT_SeggerLog_202009071601.log - DRB.tat - TextAnalysisTool.NET
+16:02:36:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+16:03:56:  RTT_SeggerLog_202009071601.log - DRB.tat - TextAnalysisTool.NET
+16:04:16:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+16:04:26:  锁屏状态
+16:04:31:  RTT_SeggerLog_202009071601.log - DRB.tat - TextAnalysisTool.NET
+16:06:21:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+16:06:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071552.log
+16:07:01:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+16:07:06:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071552.log
+16:07:11:  Toolbox
+16:07:16:  KE06LOG.bat - 快捷方式 (2)
+16:07:21:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+16:07:26:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071552.log
+16:07:31:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071607.log
+16:07:41:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+16:08:01:  锁屏状态
+16:08:06:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071607.log
+16:08:21:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+16:08:36:  RTT_SeggerLog_202009071601.log - DRB.tat - TextAnalysisTool.NET
+16:08:46:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+16:09:51:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009071607.log
+16:16:26:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+16:22:51:  ImpellerCtrl.c - 00-18 - Visual Studio Code [管理员]
+16:23:06:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:23:41:  D:\00-06\DRB-PRESS\Applications\MemoryConfig.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:23:46:  D:\00-06\DRB-PRESS\Middlewares\Sensor\Sensor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:23:51:  D:\00-06\DRB-PRESS\Middlewares\Sensor\Sensor.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:24:01:  锁屏状态
+16:24:06:  untitled (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+16:24:21:  D:\00-06\DRB-MOSTNEW\Applications\MemoryConfig.h (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+16:24:26:  D:\00-06\DRB-MOSTNEW\Middlewares\Sensor\Sensor.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+16:26:36:  D:\00-06\DRB-MOSTNEW\Applications\MotorCtrl\MotorCtrl.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+16:27:31:  untitled (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:27:36:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:27:46:  D:\00-06\DRB-MOSTNEW\Applications\MotorCtrl\MotorCtrl.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+16:27:51:  D:\00-06\DRB-MOSTNEW\Applications\State\State.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+16:28:01:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:11:  DRB-PRESS
+16:28:16:  D:\00-06\DRB-MOSTNEW\Applications\State\State.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+16:29:36:  D:\00-06\DRB-MOSTNEW\Applications\MotorCtrl\MotorCtrl.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+16:28:11:  DRB-PRESS
+16:28:16:  D:\00-06\DRB-MOSTNEW\Applications\State\State.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+16:29:36:  D:\00-06\DRB-MOSTNEW\Applications\MotorCtrl\MotorCtrl.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+16:30:21:  D:\00-06\DRB-MOSTNEW\Applications\State\State.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+16:30:46:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+16:30:51:  D:\00-06\2\Drivers\SpiFlashDriver\SpiFlashDriver.c • (2) - Sublime Text (UNREGISTERED)
+16:30:56:  D:\00-06\DRB-MOSTNEW\Applications\State\State.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+16:31:01:  DRB-PRESS
+16:31:06:  本地磁盘 (D:)
+16:31:11:  本地磁盘 (E:)
+16:31:16:  Sublime Text Backups
+16:31:21:  DRB-PRESS
+16:31:26:  State
+16:31:31:  E:\Sublime Text Backups\2020-09-07\D\00-06\DRB-PRESS\Applications\State\State_162733.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+16:31:36:  打开方式
+16:31:41:  E:\Sublime Text Backups\2020-09-07\D\00-06\DRB-PRESS\Applications\State\State_144644.c (DRB-MOSTNEW) - Sublime Text (UNREGISTERED)
+16:36:07:  锁屏状态
+16:36:12:  财务管理.xlsx - Excel
+16:36:42:  新标签页 - Google Chrome
+16:36:47:  密码锁
+16:36:52:  印象笔记
+16:37:27:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+16:37:42:  State
+16:38:37:  百度一下，你就知道 - Google Chrome
+16:38:42:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+16:38:47:  百度一下，你就知道 - Google Chrome
+16:38:52:  python 支付宝支付 无效根证书_百度搜索 - Google Chrome
+16:39:07:  python 支付宝登录_百度搜索 - Google Chrome
+16:39:12:  python adb 实现对支付宝登录及后台监控_sinat_32651363的博客-CSDN博客 - Google Chrome
+16:39:17:  python 支付宝登录_百度搜索 - Google Chrome
+16:39:32:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+16:39:42:  WinRAR
+16:39:47:  alipay_record_20200907_1352_1.csv - Excel
+16:40:02:  alipay_record_20200907_1352.zip - WinRAR (非商业个人版)
+16:40:07:  下载
+16:40:22:  alipay_record_20200604_0847
+16:40:27:  alipay_record_20200720_1626
+16:40:37:  Python 3.7.3 Shell
+16:40:42:  alipay_record_20200720_1626
+16:40:47:  CashBoxDareV2.3.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200720_1626\CashBoxDareV2.3.py (3.7.3)
+16:40:52:  下载
+16:40:57:  TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)
+16:41:02:  Python 3.7.3 Shell
+16:41:07:  alipay_record_20200810_0855
+16:41:12:  TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)
+16:41:27:  下载
+16:41:32:  解压路径和选项
+16:41:47:  下载
+16:41:52:  alipay_record_20200810_0855
+16:41:57:  TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)
+16:42:07:  Python 3.7.3 Shell
+16:42:32:  TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)
+16:42:37:  Python 3.7.3 Shell
+16:43:02:  TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)
+16:44:02:  alipay_record_20200907_1352_1.csv - Excel
+16:44:42:  TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)
+16:44:47:  alipay_record_20200907_1352_1.csv - Excel
+16:45:02:  TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)
+16:44:42:  TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)
+16:44:47:  alipay_record_20200907_1352_1.csv - Excel
+16:45:02:  TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)
+16:45:42:  alipay_record_20200907_1352_1.csv - Excel
+16:46:17:  TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)
+16:46:22:  alipay_record_20200907_1352_1.csv - Excel
+16:46:32:  TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)
+16:46:52:  alipay_record_20200907_1352_1.csv - Excel
+16:47:37:  TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)
+16:47:47:  Python 3.7.3 Shell
+16:47:52:  查找和替换
+16:47:57:  alipay_record_20200907_1352_1.csv - Excel
+16:48:57:  Python 3.7.3 Shell
+16:49:07:  alipay_record_20200907_1352_1.csv - Excel
+16:49:12:  锁屏状态
+16:49:17:  Python 3.7.3 Shell
+16:49:22:  alipay_record_20200907_1352_1.csv - Excel
+16:49:32:  Python 3.7.3 Shell
+16:49:37:  TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)
+16:49:57:  alipay_record_20200907_1352_1.csv - Excel
+16:50:32:  Python 3.7.3 Shell
+16:50:42:  TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)
+16:50:52:  *TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)*
+16:50:57:  Python 3.7.3 Shell
+16:51:12:  alipay_record_20200907_1352_1.csv - Excel
+16:51:27:  Python 3.7.3 Shell
+16:51:32:  TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)
+16:52:17:  *TheOneForExcel.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel.py (3.7.3)*
+16:52:37:  alipay_record_20200810_0855
+16:52:42:  密码锁
+16:52:47:  印象笔记
+16:52:52:  alipay_record_20200810_0855
+16:52:57:  TheOneForExcel - 副本.py - 印象笔记
+16:53:02:  桌面整理
+16:53:07:  印象笔记：文档搜索
+16:53:17:  所有笔记本 - 张开发 - 印象笔记
+16:53:27:  D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision
+16:53:32:  打开方式
+16:53:37:  Visual Studio Code
+16:53:47:  发行说明: 1.48.0 - Visual Studio Code [管理员]
+16:53:57:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+16:54:12:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+16:54:27:  桌面整理
+16:54:32:  CashBoxDareV2.3.py - C:\Users\zhangkaifa\Desktop\CashBoxDareV2.3.py (3.7.3)
+16:54:37:  桌面整理
+16:54:42:  密码锁
+16:54:47:  所有笔记本 - 张开发 - 印象笔记
+16:54:52:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+16:55:32:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+16:55:47:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+16:56:23:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+16:56:53:  桌面整理
+16:56:58:  CashBoxDareV2.3.py - C:\Users\zhangkaifa\Desktop\CashBoxDareV2.3.py (3.7.3)
+16:57:23:  桌面整理
+16:57:28:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+16:57:53:  桌面整理
+16:57:58:  CashBoxDareV2.3.py - C:\Users\zhangkaifa\Desktop\CashBoxDareV2.3.py (3.7.3)
+16:58:08:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+16:58:48:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+16:58:08:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+16:58:48:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+17:00:13:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+17:00:18:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+17:00:28:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+17:00:33:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+17:00:38:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+17:00:43:  CashBoxDareV2.3.py - C:\Users\zhangkaifa\Desktop\CashBoxDareV2.3.py (3.7.3)
+17:01:43:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+17:02:13:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+17:02:28:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+17:03:58:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+17:04:13:  开始
+17:04:18:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)
+17:04:23:  Python 3.7.3 Shell
+17:04:28:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)
+17:04:48:  Python 3.7.3 Shell
+17:04:53:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)
+17:04:58:  *TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)*
+17:05:03:  Python 3.7.3 Shell
+17:05:08:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)
+17:05:13:  *TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)*
+17:05:23:  Python 3.7.3 Shell
+17:05:28:  *TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)*
+17:05:33:  Python 3.7.3 Shell
+17:05:48:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)
+17:06:33:  *TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)*
+17:07:08:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)
+17:09:03:  Python 3.7.3 Shell
+17:09:13:  *TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)*
+17:09:18:  Python 3.7.3 Shell
+17:09:28:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)
+17:09:38:  *TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)*
+17:09:43:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)
+17:09:58:  *TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)*
+17:10:03:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)
+17:10:08:  Python 3.7.3 Shell
+17:10:13:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)
+17:10:18:  *TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)*
+17:10:43:  Python 3.7.3 Shell
+17:11:03:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)
+17:11:08:  Python 3.7.3 Shell
+17:11:58:  *TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)*
+17:12:03:  Python 3.7.3 Shell
+17:12:38:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)
+17:12:43:  密码锁
+17:12:48:  所有笔记本 - 张开发 - 印象笔记
+17:13:13:  锁屏状态
+17:47:59:  alipay_record_20200810_0855
+17:50:39:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+17:51:09:  alipay_record_20200810_0855
+17:51:24:  Python 3.7.3 Shell
+17:51:34:  alipay_record_20200810_0855
+17:51:54:  自动播放
+17:51:59:  iTunes
+17:52:04:  alipay_record_20200810_0855
+18:02:39:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+18:03:49:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+18:03:59:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+18:04:19:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+18:04:29:  alipay_record_20200907_1352_1.csv - Excel
+18:04:44:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+18:04:49:  alipay_record_20200907_1352_1.csv - Excel
+18:04:59:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+18:05:09:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+18:05:54:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+18:05:59:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+18:06:04:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+18:06:09:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+18:06:19:  alipay_record_20200907_1352_1.csv - Excel
+18:06:24:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+18:06:29:  TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+18:06:34:  ● TheOneForExcel - 副本.py - Visual Studio Code [管理员]
+18:06:44:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)
+18:06:49:  Python 3.7.3 Shell
+18:06:54:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)
+18:07:04:  Python 3.7.3 Shell
+18:07:24:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)
+18:07:44:  荆文波
+18:07:54:  alipay_record_20200810_0855
+18:08:04:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200810_0855\TheOneForExcel - 副本.py (3.7.3)
+18:08:14:  所有笔记本 - 张开发 - 印象笔记
+18:10:09:  eSpace
+18:10:14:  方俊杰
+18:10:19:  锁屏状态

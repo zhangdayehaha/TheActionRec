@@ -1,0 +1,96 @@
+2020-12-23 23:45:01-- 00:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 00:00:01-- 00:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 00:15:01-- 00:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 00:30:01-- 00:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 00:45:01-- 01:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 01:00:02-- 01:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 01:15:02-- 01:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 01:30:02-- 01:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 01:45:02-- 02:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 02:00:03-- 02:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 02:15:04-- 02:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 02:30:04-- 02:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 02:45:04-- 03:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 03:00:04-- 03:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 03:15:04-- 03:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 03:30:04-- 03:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 03:45:04-- 04:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 04:00:00-- 04:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 04:15:00-- 04:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 04:30:00-- 04:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 04:45:00-- 05:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 05:00:00-- 05:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 05:15:00-- 05:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 05:30:01-- 05:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 05:45:01-- 06:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 06:00:01-- 06:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 06:15:01-- 06:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 06:30:01-- 06:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 06:45:01-- 07:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 07:00:02-- 07:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 07:15:02-- 07:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 07:30:02-- 07:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 07:45:02-- 08:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 08:00:02-- 08:15:03     :    一  ：CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]   40/3.33分钟       二  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   39/3.25分钟     三  ：锁屏状态   33/2.75分钟
+2020-12-24 08:15:03-- 08:30:03     :    一  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   53/4.41分钟       二  ：Adobe Photoshop CS3 Extended   42/3.5分钟     三  ：D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)   11/0.91分钟
+2020-12-24 08:30:03-- 08:45:03     :    一  ：绩效申请 - Internet Explorer   140/11.6分钟       二  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   21/1.75分钟     三  ：谭佳武   6/0.5分钟
+2020-12-24 08:45:03-- 09:00:03     :    一  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   77/6.41分钟       二  ：CRS调测工具（研发版）V1.0.2.1   23/1.91分钟     三  ：Adobe Photoshop CS3 Extended   18/1.5分钟
+2020-12-24 09:00:03-- 09:15:04     :    一  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)   46/3.83分钟       二  ：CRS调测工具（研发版）V1.0.2.1   35/2.91分钟     三  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)   34/2.83分钟
+2020-12-24 09:15:04-- 09:30:04     :    一  ：CRS调测工具（研发版）V1.0.2.1   132/11.0分钟       二  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)   13/1.08分钟     三  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   9/0.75分钟
+2020-12-24 09:30:04-- 09:45:04     :    一  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)   76/6.33分钟       二  ：This is an unregistered copy   38/3.16分钟     三  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   29/2.41分钟
+2020-12-24 09:45:04-- 10:00:04     :    一  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   81/6.75分钟       二  ：CS_0000_20201224094903.log - DRB.tat* - TextAnalysisTool.NET   72/6.0分钟     三  ：CRS调测工具（研发版）V1.0.2.1   8/0.66分钟
+2020-12-24 10:00:04-- 10:15:04     :    一  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   61/5.08分钟       二  ：CRS调测工具（研发版）V1.0.2.1   33/2.75分钟     三  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)   31/2.58分钟
+2020-12-24 10:15:04-- 10:30:00     :    一  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   85/7.08分钟       二  ：CRS调测工具（研发版）V1.0.2.1   40/3.33分钟     三  ：发送指令到K18   35/2.91分钟
+2020-12-24 10:30:00-- 10:45:00     :    一  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   73/6.08分钟       二  ：发送指令到K18   27/2.25分钟     三  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)   26/2.16分钟
+2020-12-24 10:45:00-- 11:00:00     :    一  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   111/9.25分钟       二  ：发送指令到K18   23/1.91分钟     三  ：CRS调测工具（研发版）V1.0.2.1   22/1.83分钟
+2020-12-24 11:00:00-- 11:15:00     :    一  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   63/5.25分钟       二  ：CRS调测工具（研发版）V1.0.2.1   44/3.66分钟     三  ：CS_0000_20201224101854.log - DRB.tat* - TextAnalysisTool.NET   26/2.16分钟
+2020-12-24 11:15:00-- 11:30:01     :    一  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   103/8.58分钟       二  ：发送指令到K18   23/1.91分钟     三  ：E:\深圳出差\gfgd\Applications\FlowControl\CashSlot\CashSlot.c (gfgd) - Sublime Text (UNREGISTERED)   19/1.58分钟
+2020-12-24 11:30:01-- 11:45:01     :    一  ：锁屏状态   62/5.16分钟       二  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   38/3.16分钟     三  ：CRS调测工具（研发版）V1.0.2.1   24/2.0分钟
+2020-12-24 11:45:01-- 12:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 12:00:01-- 12:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 12:15:01-- 12:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 12:30:02-- 12:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 12:45:02-- 13:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 13:00:02-- 13:15:02     :    一  ：锁屏状态   160/13.3分钟       二  ：CRS   18/1.5分钟     三  ：WinRAR   2/0.16分钟
+2020-12-24 13:15:02-- 13:30:02     :    一  ：CS_0000_20201224110503.log - DRB.tat* - TextAnalysisTool.NET   88/7.33分钟       二  ：D:\CRS\KE18-VERSION1 - 提交 - TortoiseSVN   42/3.5分钟     三  ：0-工作 - 张开发 - 印象笔记   16/1.33分钟
+2020-12-24 13:30:02-- 13:45:03     :    一  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   126/10.5分钟       二  ：SeparatorCtrl.c - TortoiseMerge   25/2.08分钟     三  ：CRS调测工具（研发版）V1.0.2.1   10/0.83分钟
+2020-12-24 13:45:03-- 14:00:03     :    一  ：CRS调测工具（研发版）V1.0.2.1   48/4.0分钟       二  ：E:\深圳出差\gfgd\Applications\FlowControl\CashSlot\CashSlot.c (gfgd) - Sublime Text (UNREGISTERED)   45/3.75分钟     三  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   19/1.58分钟
+2020-12-24 14:00:03-- 14:15:04     :    一  ：E:\深圳出差\gfgd\Applications\FlowControl\CashSlot\CashSlot.c (gfgd) - Sublime Text (UNREGISTERED)   45/3.75分钟       二  ：CRS调测工具（研发版）V1.0.2.1   45/3.75分钟     三  ：E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision   26/2.16分钟
+2020-12-24 14:15:04-- 14:30:01     :    一  ：E:\深圳出差\gfgd\Applications\FlowControl\CashSlot\CashSlot.c • (gfgd) - Sublime Text (UNREGISTERED)   44/3.66分钟       二  ：CRS调测工具（研发版）V1.0.2.1   29/2.41分钟     三  ：E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)   28/2.33分钟
+2020-12-24 14:30:01-- 14:45:01     :    一  ：E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModuleApp.c • (gfgd) - Sublime Text (UNREGISTERED)   38/3.16分钟       二  ：K64_0000_20201224142927.log - DRB.tat* - TextAnalysisTool.NET   36/3.0分钟     三  ：CRS调测工具（研发版）V1.0.2.1   36/3.0分钟
+2020-12-24 14:45:01-- 15:00:02     :    一  ：CRS调测工具（研发版）V1.0.2.1   63/5.25分钟       二  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   40/3.33分钟     三  ：CS_0000_20201224145358.log - DRB.tat* - TextAnalysisTool.NET   17/1.41分钟
+2020-12-24 15:00:02-- 15:15:02     :    一  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   127/10.5分钟       二  ：SeparatorCtrl.c - TortoiseMerge   23/1.91分钟     三  ：计算器   14/1.16分钟
+2020-12-24 15:15:02-- 15:30:02     :    一  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   102/8.5分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   38/3.16分钟     三  ：绩效申请 - Internet Explorer   10/0.83分钟
+2020-12-24 15:30:02-- 15:45:03     :    一  ：SeparatorCtrl.c - TortoiseMerge   56/4.66分钟       二  ：3-日常 - 张开发 - 印象笔记   53/4.41分钟     三  ：给自己的信 - 张开发 - 印象笔记   15/1.25分钟
+2020-12-24 15:45:03-- 16:00:03     :    一  ：SeparatorCtrl.c - TortoiseMerge   62/5.16分钟       二  ：随笔 - 张开发 - 印象笔记   51/4.25分钟     三  ：E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModuleApp.c • (gfgd) - Sublime Text (UNREGISTERED)   24/2.0分钟
+2020-12-24 16:00:03-- 16:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 16:15:03-- 16:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 16:30:03-- 16:45:03     :    一  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   141/11.7分钟       二  ：SeparatorCtrl.c - TortoiseMerge   17/1.41分钟     三  ：D:\CRS\KE18-VERSION1 - 提交 - TortoiseSVN   5/0.41分钟
+2020-12-24 16:45:03-- 17:00:04     :    一  ：绩效申请 - Internet Explorer   98/8.16分钟       二  ：KE18-VERSION1   42/3.5分钟     三  ：D:\CRS\KE18-VERSION1 - 提交 - TortoiseSVN   16/1.33分钟
+2020-12-24 17:00:04-- 17:15:04     :    一  ：绩效申请 - Internet Explorer   147/12.2分钟       二  ：锁屏状态   32/2.66分钟     三  ：KE18-VERSION1   1/0.08分钟
+2020-12-24 17:15:04-- 17:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 17:30:04-- 17:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 17:45:04-- 18:00:04     :    一  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)   92/7.66分钟       二  ：锁屏状态   46/3.83分钟     三  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   22/1.83分钟
+2020-12-24 18:00:04-- 18:15:00     :    一  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)   83/6.91分钟       二  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)   70/5.83分钟     三  ：20200909_CRS内部指令手册_V0.1.xlsx  [受保护的视图] - Excel   7/0.58分钟
+2020-12-24 18:15:00-- 18:30:00     :    一  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)   46/3.83分钟       二  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   45/3.75分钟     三  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)   30/2.5分钟
+2020-12-24 18:30:00-- 18:45:00     :    一  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   133/11.0分钟       二  ：CS_0000_20201224145358.log - DRB.tat* - TextAnalysisTool.NET   23/1.91分钟     三  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)   16/1.33分钟
+2020-12-24 18:45:00-- 19:00:00     :    一  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   37/3.08分钟       二  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)   35/2.91分钟     三  ：CS_0000_20201224145358.log - DRB.tat* - TextAnalysisTool.NET   28/2.33分钟
+2020-12-24 19:00:00-- 19:15:01     :    一  ：锁屏状态   154/12.8分钟       二  ：SeparatorCtrl.c - TortoiseMerge   13/1.08分钟     三  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)   5/0.41分钟
+2020-12-24 19:15:01-- 19:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 19:30:01-- 19:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 19:45:01-- 20:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 20:00:01-- 20:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 20:15:01-- 20:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 20:30:02-- 20:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 20:45:02-- 21:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 21:00:02-- 21:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 21:15:03-- 21:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 21:30:03-- 21:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 21:45:03-- 22:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 22:00:03-- 22:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 22:15:03-- 22:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 22:30:04-- 22:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 22:45:04-- 23:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 23:00:04-- 23:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 23:15:04-- 23:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-24 23:30:04-- 23:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

@@ -1,0 +1,990 @@
+08:02:42:  TCR调测工具 V3.36
+08:19:07:  【统计】尽快填写
+08:19:12:  Excel
+08:19:17:  PLM系统产品库权限统计表——技术中心.xlsx  [受保护的视图] - Excel
+08:19:32:  PLM系统产品库权限统计表——技术中心.xlsx  [共享] - Excel
+08:19:37:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:25:52:  PLM产品库权限
+08:26:02:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:26:32:  锁屏状态
+08:26:37:  新标签页 - Google Chrome
+08:26:52:  百度一下，你就知道 - Google Chrome
+08:27:12:  适马30.4 跟 索尼35_百度搜索 - Google Chrome
+08:27:22:  适马30 1.4和索尼35 1.8到底选那个好啊～【索尼微单吧】_百度贴吧 - Google Chrome
+08:27:27:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:27:37:  适马30 1.4和索尼35 1.8到底选那个好啊～【索尼微单吧】_百度贴吧 - Google Chrome
+08:27:47:  适马30 1.4和索尼35 1.8怎么选？主拍视频是不是35比较好？_微单吧_百度贴吧 - Google Chrome
+08:28:07:  新建文本文档.exe - 快捷方式
+08:28:12:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:28:47:  颜晓军
+08:28:52:  eSpace
+08:29:22:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+08:29:27:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+08:28:07:  新建文本文档.exe - 快捷方式
+08:28:12:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:28:47:  颜晓军
+08:28:52:  eSpace
+08:29:22:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+08:29:27:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+08:34:33:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+08:34:38:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c • (10) - Sublime Text (UNREGISTERED)
+08:35:33:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+08:36:28:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c • (10) - Sublime Text (UNREGISTERED)
+08:36:43:  K64_0000_20210303174950.log - DRB.tat* - TextAnalysisTool.NET
+08:37:58:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c • (10) - Sublime Text (UNREGISTERED)
+08:39:43:  D:\00-KE64\10\Applications\FlowControl\Plate\PlateDriver.c (10) - Sublime Text (UNREGISTERED)
+08:39:53:  D:\00-KE64\10\Applications\FlowControl\Shutter\ShutModuleIF.c (10) - Sublime Text (UNREGISTERED)
+08:40:13:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c • (10) - Sublime Text (UNREGISTERED)
+08:40:28:  D:\00-KE64\10\Applications\FlowControl\Plate\PlateDriver.c (10) - Sublime Text (UNREGISTERED)
+08:40:38:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c • (10) - Sublime Text (UNREGISTERED)
+08:40:48:  D:\00-KE64\10\Applications\FlowControl\Plate\PlateDriver.c (10) - Sublime Text (UNREGISTERED)
+08:40:53:  D:\00-KE64\10\Applications\FlowControl\Shutter\ShutModuleIF.c (10) - Sublime Text (UNREGISTERED)
+08:41:28:  K64_0000_20210303174950.log - DRB.tat* - TextAnalysisTool.NET
+08:41:38:  D:\00-KE64\10\Applications\FlowControl\Shutter\ShutModuleIF.c (10) - Sublime Text (UNREGISTERED)
+08:41:43:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c • (10) - Sublime Text (UNREGISTERED)
+08:42:08:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+08:43:18:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c • (10) - Sublime Text (UNREGISTERED)
+08:43:23:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+08:44:08:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+08:44:13:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+08:44:18:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+08:44:23:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+08:44:43:  D:\00-KE64\10\Applications\CanComm\CanComm.h (10) - Sublime Text (UNREGISTERED)
+08:44:53:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+08:44:08:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+08:44:13:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+08:44:18:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+08:44:23:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+08:44:43:  D:\00-KE64\10\Applications\CanComm\CanComm.h (10) - Sublime Text (UNREGISTERED)
+08:44:53:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+08:45:23:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+08:49:58:  发送指令到K06
+08:50:08:  TCR调测工具 V3.36
+08:50:18:  发送指令到K06
+08:50:28:  TCR调测工具 V3.36
+08:50:33:  发送指令到K06
+08:50:43:  TCR调测工具 V3.36
+08:51:08:  计算器
+08:51:43:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+08:52:03:  TCR调测工具 V3.36
+08:52:08:  发送指令到K06
+08:52:13:  TCR调测工具 V3.36
+08:52:18:  发送指令到K06
+08:52:28:  TCR调测工具 V3.36
+08:52:33:  发送指令到K06
+08:52:43:  计算器
+08:52:53:  发送指令到K06
+08:53:08:  TCR调测工具 V3.36
+08:53:13:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+08:53:33:  计算器
+08:56:23:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+08:56:43:  TCR调测工具 V3.36
+08:56:48:  10
+08:56:53:  计算器
+08:58:13:  TCR调测工具 V3.36
+08:58:18:  打开
+08:58:23:  TCR调测工具 V3.36
+08:58:43:  BTCRTestTool
+08:58:48:  TCR调测工具 V3.36
+08:58:58:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+08:59:03:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+08:59:08:  TCR调测工具 V3.36
+08:59:13:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+08:58:13:  TCR调测工具 V3.36
+08:58:18:  打开
+08:58:23:  TCR调测工具 V3.36
+08:58:43:  BTCRTestTool
+08:58:48:  TCR调测工具 V3.36
+08:58:58:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+08:59:03:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+08:59:08:  TCR调测工具 V3.36
+08:59:13:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:00:18:  TCR调测工具 V3.36
+09:00:28:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:00:48:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:00:58:  K64_0000_20210303174950.log - DRB.tat* - TextAnalysisTool.NET
+09:01:18:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:01:23:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+09:01:38:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c • (10) - Sublime Text (UNREGISTERED)
+09:01:53:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:01:58:  BTCRTestTool 属性
+09:02:03:  于斌1
+09:02:28:  log
+09:02:33:  20210304
+09:02:38:  Decode
+09:02:48:  K64_0000_20210304090019.log - DRB.tat* - TextAnalysisTool.NET
+09:02:58:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:03:38:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:03:43:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:03:48:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:03:53:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:04:03:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:04:08:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:04:13:  μVision
+09:04:18:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:04:23:  于斌1
+09:04:33:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:04:48:  于斌1
+09:05:29:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:05:54:  TCR调测工具 V3.36
+09:06:09:  于斌1
+09:06:39:  TCR调测工具 V3.36
+09:06:44:  20210304
+09:06:54:  K64_0000_20210304090600.log - DRB.tat* - TextAnalysisTool.NET
+09:07:44:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+09:07:54:  K64_0000_20210304090600.log - DRB.tat* - TextAnalysisTool.NET
+09:07:59:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:08:04:  K64_0000_20210304090600.log - DRB.tat* - TextAnalysisTool.NET
+09:08:19:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:08:49:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c • (10) - Sublime Text (UNREGISTERED)
+09:08:59:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:09:04:  K64_0000_20210304090600.log - DRB.tat* - TextAnalysisTool.NET
+09:09:29:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:09:39:  K64_0000_20210304090600.log - DRB.tat* - TextAnalysisTool.NET
+09:10:09:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:10:14:  eSpace
+09:10:24:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:11:14:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+09:12:19:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+09:12:24:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:12:29:  TCR调测工具 V3.36
+09:12:49:  20210304
+09:12:54:  K64_0000_20210304091238.log - DRB.tat* - TextAnalysisTool.NET
+09:13:29:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:13:39:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:13:54:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:13:59:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:15:59:  K64_0000_20210304091238.log - DRB.tat* - TextAnalysisTool.NET
+09:16:29:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:17:39:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:18:14:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:18:29:  μVision
+09:18:34:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:18:54:  TCR调测工具 V3.36
+09:19:04:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:21:19:  D:\00-KE64\10\Applications\CanComm\CanComm.h (10) - Sublime Text (UNREGISTERED)
+09:21:34:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:21:39:  D:\00-KE64\10\Applications\CanComm\CanComm.h (10) - Sublime Text (UNREGISTERED)
+09:21:54:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:22:59:  TCR调测工具 V3.36
+09:23:14:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:23:49:  D:\00-KE64\10\Applications\CanComm\CanComm.h (10) - Sublime Text (UNREGISTERED)
+09:24:09:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.h (10) - Sublime Text (UNREGISTERED)
+09:24:19:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:26:09:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.h (10) - Sublime Text (UNREGISTERED)
+09:26:19:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:26:34:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.h (10) - Sublime Text (UNREGISTERED)
+09:26:39:  D:\00-KE64\10\Applications\CanComm\CanComm.h (10) - Sublime Text (UNREGISTERED)
+09:26:44:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:26:49:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.h (10) - Sublime Text (UNREGISTERED)
+09:26:59:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c • (10) - Sublime Text (UNREGISTERED)
+09:27:19:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:27:54:  TCR调测工具 V3.36
+09:28:19:  20210304
+09:28:24:  K64_0000_20210304091238.log - DRB.tat* - TextAnalysisTool.NET
+09:28:29:  K64_0000_20210304092756.log - DRB.tat* - TextAnalysisTool.NET
+09:30:04:  Add Filter
+09:28:19:  20210304
+09:28:24:  K64_0000_20210304091238.log - DRB.tat* - TextAnalysisTool.NET
+09:28:29:  K64_0000_20210304092756.log - DRB.tat* - TextAnalysisTool.NET
+09:30:04:  Add Filter
+09:30:14:  K64_0000_20210304092756.log - DRB.tat* - TextAnalysisTool.NET
+09:30:44:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:30:54:  K64_0000_20210304092756.log - DRB.tat* - TextAnalysisTool.NET
+09:31:24:  姚世龙
+09:32:39:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:33:14:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+09:33:44:  姚世龙
+09:34:19:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+09:35:04:  姚世龙
+09:37:04:  自动播放
+09:37:09:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+09:38:04:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:39:04:  TCR调测工具 V3.36
+09:39:19:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+09:39:34:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:39:40:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+09:39:45:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c • (10) - Sublime Text (UNREGISTERED)
+09:39:50:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+09:40:30:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:41:15:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.h (10) - Sublime Text (UNREGISTERED)
+09:41:20:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c • (10) - Sublime Text (UNREGISTERED)
+09:41:35:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:41:40:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:46:35:  TCR调测工具 V3.36
+09:46:50:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:47:00:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.h (10) - Sublime Text (UNREGISTERED)
+09:47:05:  D:\00-KE64\10\Applications\FlowControl\Shutter\ShutModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:47:10:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:47:15:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+09:47:20:  D:\00-KE64\10\FwLib\Config\DebugConfig.h (10) - Sublime Text (UNREGISTERED)
+09:47:25:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+09:47:35:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c • (10) - Sublime Text (UNREGISTERED)
+09:47:40:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:48:15:  TCR调测工具 V3.36
+09:48:20:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:48:50:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+09:49:00:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:49:05:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:49:10:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:50:10:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:50:15:  D:\00-KE64\10\Applications\CanComm\CanComm.c (10) - Sublime Text (UNREGISTERED)
+09:50:25:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:50:30:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.h (10) - Sublime Text (UNREGISTERED)
+09:50:35:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:50:55:  D:\00-KE64\10\Applications\CanComm\CanComm.c (10) - Sublime Text (UNREGISTERED)
+09:51:00:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:51:05:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:52:00:  锁屏状态
+09:52:05:  TCR调测工具 V3.36
+09:52:10:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:52:15:  TCR调测工具 V3.36
+09:52:30:  Tools
+09:52:35:  00-06
+09:52:45:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:53:10:  D:\00-KE64\10\Applications\CanComm\CanComm.c (10) - Sublime Text (UNREGISTERED)
+09:53:15:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+09:55:30:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:55:35:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:55:40:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:56:05:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:56:10:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:56:30:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+09:56:40:  D:\00-KE64\10\Applications\CanComm\CanComm.c (10) - Sublime Text (UNREGISTERED)
+09:56:45:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+09:56:55:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:57:30:  TCR调测工具 V3.36
+09:58:10:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:58:55:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+09:59:10:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:59:15:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+09:59:20:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:59:25:  D:\00-KE64\10\Middlewares\Can\Can.h (10) - Sublime Text (UNREGISTERED)
+09:59:30:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:58:10:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:58:55:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+09:59:10:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:59:15:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+09:59:20:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:59:25:  D:\00-KE64\10\Middlewares\Can\Can.h (10) - Sublime Text (UNREGISTERED)
+09:59:30:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+10:02:00:  fenxi
+10:02:05:  Decode
+10:02:30:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+10:02:35:  K64_0000_20210303105713.log - DRB.tat* - TextAnalysisTool.NET
+10:04:10:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+10:04:15:  Decode
+10:04:20:  10
+10:04:25:  CashBoxCmd.c - TortoiseMerge
+10:04:30:  CashBoxComm.c - TortoiseMerge
+10:04:35:  10
+10:04:40:  D:\00-KE64\10 - 工作副本 - TortoiseSVN
+10:04:45:  CashBoxComm.h - TortoiseMerge
+10:04:50:  PressModuleIF.c - TortoiseMerge
+10:05:05:  D:\00-KE64\10 - 工作副本 - TortoiseSVN
+10:05:10:  PressModuleIF.c - TortoiseMerge
+10:05:20:  PressModuleIF.h - TortoiseMerge
+10:05:30:  D:\00-KE64\10 - 工作副本 - TortoiseSVN
+10:05:45:  InstrGSProcess.c - TortoiseMerge
+10:06:10:  D:\00-KE64\10 - 工作副本 - TortoiseSVN
+10:06:20:  D:\00-KE64\10 - 提交 - TortoiseSVN
+10:06:25:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+10:06:30:  D:\00-KE64\10 - 提交 - TortoiseSVN
+10:07:15:  CashBoxCmd.c - TortoiseMerge
+10:07:20:  PressModuleIF.c - TortoiseMerge
+10:07:25:  PressModuleIF.h - TortoiseMerge
+10:07:30:  文件补丁  
+10:07:35:  D:\00-KE64\10 - 提交 - TortoiseSVN
+10:07:40:  InstrGSProcess.c - TortoiseMerge
+10:07:45:  D:\00-KE64\10 - 提交 - TortoiseSVN
+10:07:55:  InstrGSProcess.c - TortoiseMerge
+10:08:05:  D:\00-KE64\10 - 提交 - TortoiseSVN
+10:08:10:  10
+10:08:15:  D:\00-KE64\10\milestone.txt (10) - Sublime Text (UNREGISTERED)
+10:08:20:  D:\00-KE64\10\milestone.txt • (10) - Sublime Text (UNREGISTERED)
+10:08:35:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+10:08:40:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+10:08:50:  10
+10:09:00:  D:\00-KE64\10 - 更新 - TortoiseSVN
+10:09:05:  D:\00-KE64\10 - 提交 - TortoiseSVN
+10:09:10:  CashBoxComm.h - TortoiseMerge
+10:09:15:  InstrGSProcess.c - TortoiseMerge
+10:09:20:  SensorModuleIF.c - TortoiseMerge
+10:09:25:  10
+10:09:30:  D:\00-KE64\10\milestone.txt (10) - Sublime Text (UNREGISTERED)
+10:09:40:  D:\00-KE64\10\milestone.txt • (10) - Sublime Text (UNREGISTERED)
+10:09:45:  D:\00-KE64\10\milestone.txt (10) - Sublime Text (UNREGISTERED)
+10:09:55:  D:\00-KE64\10 - 提交 - TortoiseSVN
+10:10:10:  PressModuleIF.c - TortoiseMerge
+10:10:15:  CashBoxCmd.c - TortoiseMerge
+10:10:20:  提交
+10:10:25:  μVision
+10:10:30:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:10:46:  10
+10:10:52:  D:\00-KE64\10 - 工作副本 - TortoiseSVN
+10:10:57:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:11:34:  于斌1
+10:11:54:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:12:14:  于斌1
+10:12:24:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+10:12:29:  D:\00-06\DRB\Applications\PlateCtrl\PlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+10:12:34:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+10:12:39:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+10:12:44:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:12:59:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+10:13:04:  D:\00-KE64\10\Applications\CanComm\CanComm.c (10) - Sublime Text (UNREGISTERED)
+10:13:09:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+10:13:14:  D:\00-KE64\10\Applications\CanComm\CanInstrManage.c (10) - Sublime Text (UNREGISTERED)
+10:13:19:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+10:13:44:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:14:04:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+10:14:14:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:14:39:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:14:54:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:15:04:  D:\00-06\DRB\Applications\Instruction\InstrHandle.c (DRB) - Sublime Text (UNREGISTERED)
+10:14:14:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:14:39:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:14:54:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:15:04:  D:\00-06\DRB\Applications\Instruction\InstrHandle.c (DRB) - Sublime Text (UNREGISTERED)
+10:15:09:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:15:19:  D:\00-06\DRB\Applications\Instruction\InstrHandle.c (DRB) - Sublime Text (UNREGISTERED)
+10:15:24:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:16:04:  D:\00-06\DRB\Middlewares\UserMemory\UserMemory.c (DRB) - Sublime Text (UNREGISTERED)
+10:16:19:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:16:24:  D:\00-06\DRB\Applications\Instruction\InstrHandle.c (DRB) - Sublime Text (UNREGISTERED)
+10:16:29:  TCR调测工具 V3.36
+10:16:34:  发送指令到K06
+10:16:39:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:16:44:  发送指令到K06
+10:16:54:  D:\00-06\DRB\Applications\PlateCtrl\PlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+10:16:59:  00 00 00 00 00 00 00 00 0 • (DRB) - Sublime Text (UNREGISTERED)
+10:17:04:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 • (DRB) - Sublime Text (UNREGISTERED)
+10:17:19:  发送指令到K06
+10:17:24:  TCR调测工具 V3.36
+10:17:29:  发送指令到K06
+10:17:59:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 • (DRB) - Sublime Text (UNREGISTERED)
+10:18:04:  发送指令到K06
+10:18:14:  TCR调测工具 V3.36
+10:18:19:  发送指令到K06
+10:18:24:  TCR调测工具 V3.36
+10:19:04:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:19:09:  TCR调测工具 V3.36
+10:19:29:  20210304
+10:19:39:  K64_0000_20210303105713.log - DRB.tat* - TextAnalysisTool.NET
+10:19:44:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:20:09:  20210304
+10:20:14:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:20:29:  20210304
+10:20:34:  TCR调测工具 V3.36
+10:20:44:  钞箱配置
+10:20:49:  TCR调测工具 V3.36
+10:20:54:  发送指令到K06
+10:21:14:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:21:24:  D:\00-06\DRB\Applications\Instruction\InstrHandle.c (DRB) - Sublime Text (UNREGISTERED)
+10:21:29:  D:\00-06\DRB\Drivers\EepromDriver\EepromDriver.c (DRB) - Sublime Text (UNREGISTERED)
+10:21:34:  D:\00-06\DRB\Middlewares\UserMemory\UserMemory.c (DRB) - Sublime Text (UNREGISTERED)
+10:21:44:  FF FF FFF • (DRB) - Sublime Text (UNREGISTERED)
+10:21:49:  FF FF FF FF FF FF • (DRB) - Sublime Text (UNREGISTERED)
+10:21:54:  FF FF FF FF FF FF FF FF FF FF • (DRB) - Sublime Text (UNREGISTERED)
+10:21:59:  FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF • (DRB) - Sublime Text (UNREGISTERED)
+10:22:09:  发送指令到K06
+10:22:14:  TCR调测工具 V3.36
+10:22:44:  发送指令到K06
+10:22:49:  TCR调测工具 V3.36
+10:22:59:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:23:04:  TCR调测工具 V3.36
+10:23:14:  Decode
+10:23:19:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:23:24:  K18_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:23:39:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:23:54:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:23:59:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:24:04:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:25:34:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:27:29:  D:\00-06\DRB\Applications\PlateCtrl\PlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+10:27:34:  D:\00-06\DRB\Middlewares\EepromArea\EepromArea.c (DRB) - Sublime Text (UNREGISTERED)
+10:27:44:  D:\00-06\DRB\Drivers\EepromAreaDriver\EepromAreaDriver.c (DRB) - Sublime Text (UNREGISTERED)
+10:27:54:  D:\00-06\DRB\Middlewares\EepromArea\EepromArea.c (DRB) - Sublime Text (UNREGISTERED)
+10:28:09:  D:\00-06\DRB\Middlewares\UserMemory\UserMemory.c (DRB) - Sublime Text (UNREGISTERED)
+10:28:14:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:28:34:  D:\00-06\DRB\Applications\Instruction\InstrHandle.c (DRB) - Sublime Text (UNREGISTERED)
+10:28:39:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:28:59:  TCR调测工具 V3.36
+10:29:14:  发送指令到K06
+10:29:19:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:29:24:  发送指令到K06
+10:29:29:  计算器
+10:29:39:  发送指令到K06
+10:29:49:  TCR调测工具 V3.36
+10:29:54:  FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF • (DRB) - Sublime Text (UNREGISTERED)
+10:29:59:  D:\00-06\DRB\Applications\Instruction\InstrHandle.h (DRB) - Sublime Text (UNREGISTERED)
+10:30:04:  D:\00-06\DRB\Middlewares\Plate\PressurePlate.c (DRB) - Sublime Text (UNREGISTERED)
+10:28:09:  D:\00-06\DRB\Middlewares\UserMemory\UserMemory.c (DRB) - Sublime Text (UNREGISTERED)
+10:28:14:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:28:34:  D:\00-06\DRB\Applications\Instruction\InstrHandle.c (DRB) - Sublime Text (UNREGISTERED)
+10:28:39:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:28:59:  TCR调测工具 V3.36
+10:29:14:  发送指令到K06
+10:29:19:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:29:24:  发送指令到K06
+10:29:29:  计算器
+10:29:39:  发送指令到K06
+10:29:49:  TCR调测工具 V3.36
+10:29:54:  FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF • (DRB) - Sublime Text (UNREGISTERED)
+10:29:59:  D:\00-06\DRB\Applications\Instruction\InstrHandle.h (DRB) - Sublime Text (UNREGISTERED)
+10:30:04:  D:\00-06\DRB\Middlewares\Plate\PressurePlate.c (DRB) - Sublime Text (UNREGISTERED)
+10:30:09:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:30:24:  发送指令到K06
+10:30:49:  TCR调测工具 V3.36
+10:30:54:  D:\00-06\DRB\Applications\ErrCode\ErrCode.h (DRB) - Sublime Text (UNREGISTERED)
+10:30:59:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:31:19:  发送指令到K06
+10:31:24:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:31:39:  D:\00-06\DRB\Applications\Instruction\InstrHandle.c (DRB) - Sublime Text (UNREGISTERED)
+10:31:44:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:31:49:  锁屏状态
+10:31:54:  发送指令到K06
+10:31:59:  TCR调测工具 V3.36
+10:32:04:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:32:29:  发送指令到K06
+10:32:34:  D:\00-06\DRB\Middlewares\UserMemory\UserMemory.c (DRB) - Sublime Text (UNREGISTERED)
+10:32:39:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:32:49:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c • (DRB) - Sublime Text (UNREGISTERED)
+10:33:04:  D:\00-06\DRB\Middlewares\UserMemory\UserMemory.c (DRB) - Sublime Text (UNREGISTERED)
+10:33:09:  D:\00-06\DRB\Drivers\EepromAreaDriver\EepromAreaDriver.c (DRB) - Sublime Text (UNREGISTERED)
+10:33:19:  D:\00-06\DRB\Drivers\EepromDriver\EepromDriver.c (DRB) - Sublime Text (UNREGISTERED)
+10:33:24:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c • (DRB) - Sublime Text (UNREGISTERED)
+10:33:39:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+10:33:44:  锁屏状态
+10:33:49:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:34:14:  DRB
+10:34:19:  D:\00-06\DRB\Tools\CreateJK.exe
+10:34:24:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:34:34:  eSpace
+10:34:49:  锁屏状态
+10:34:54:  Tools
+10:34:59:  TCR调测工具 V3.36
+10:35:04:  打开
+10:35:09:  TCR调测工具 V3.36
+10:36:09:  发送指令到K06
+10:36:29:  TCR调测工具 V3.36
+10:36:39:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:37:19:  发送指令到K06
+10:37:24:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:37:29:  发送指令到K06
+10:37:54:  TCR调测工具 V3.36
+10:37:59:  发送指令到K06
+10:38:04:  TCR调测工具 V3.36
+10:38:09:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:38:29:  D:\00-06\DRB\Tools\CreateJK.exe
+10:38:34:  TCR调测工具 V3.36
+10:39:09:  发送指令到K06
+10:39:29:  TCR调测工具 V3.36
+10:39:34:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:39:39:  TCR调测工具 V3.36
+10:39:49:  Decode
+10:39:54:  TCR调测工具 V3.36
+10:39:59:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:40:04:  20210304
+10:40:20:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:40:25:  TCR调测工具 V3.36
+10:40:30:  Decode
+10:40:40:  TCR调测工具 V3.36
+10:40:45:  锁屏状态
+10:40:50:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:40:55:  锁屏状态
+10:41:00:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:41:10:  计算器
+10:41:15:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:41:40:  20210304
+10:41:45:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:41:55:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:42:50:  20210304
+10:42:55:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:43:05:  20210304
+10:43:10:  TCR调测工具 V3.36
+10:43:20:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:43:25:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:43:30:  TCR调测工具 V3.36
+10:43:35:  20210304
+10:43:40:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:44:20:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:44:25:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+10:44:30:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:44:45:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.h (10) - Sublime Text (UNREGISTERED)
+10:44:50:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:44:55:  计算器
+10:45:00:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.h (10) - Sublime Text (UNREGISTERED)
+10:44:20:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:44:25:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+10:44:30:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:44:45:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.h (10) - Sublime Text (UNREGISTERED)
+10:44:50:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:44:55:  计算器
+10:45:00:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.h (10) - Sublime Text (UNREGISTERED)
+10:45:05:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:45:20:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.h (10) - Sublime Text (UNREGISTERED)
+10:45:25:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:45:30:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:45:45:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:46:35:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:49:10:  TCR调测工具 V3.36
+10:49:20:  20210304
+10:49:25:  Decode
+10:49:30:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:49:50:  20210304
+10:50:05:  TCR调测工具 V3.36
+10:50:10:  Decode
+10:50:15:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:50:30:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:50:40:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+10:50:45:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:51:10:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:51:20:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:51:45:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:53:50:  μVision
+10:53:55:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:55:25:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:55:35:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+10:55:40:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:56:30:  TCR调测工具 V3.36
+10:56:40:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:57:55:  Decode
+10:58:00:  20210304
+10:58:10:  TCR调测工具 V3.36
+10:58:25:  20210304
+10:58:30:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:58:45:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+11:00:00:  TCR调测工具 V3.36
+10:58:10:  TCR调测工具 V3.36
+10:58:25:  20210304
+10:58:30:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+10:58:45:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+11:00:00:  TCR调测工具 V3.36
+11:00:05:  20210304
+11:00:30:  于斌1
+11:01:05:  Decode
+11:01:10:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+11:01:20:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+11:02:20:  TCR调测工具 V3.36
+11:02:25:  Tools
+11:02:30:  20210304
+11:02:35:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+11:02:55:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+11:03:30:  「开始」菜单
+11:03:35:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+11:07:55:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+11:08:55:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+11:09:05:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+11:09:10:  D:\00-06\DRB\Applications\Instruction\InstrHandle.c (DRB) - Sublime Text (UNREGISTERED)
+11:09:15:  D:\00-06\DRB\Applications\Instruction\InstrHandle.h (DRB) - Sublime Text (UNREGISTERED)
+11:09:20:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+11:09:25:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+11:09:30:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+11:10:40:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+11:11:00:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+11:11:05:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+11:11:10:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+11:12:20:  锁屏状态
+11:12:25:  TCR调测工具 V3.36
+11:12:35:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+11:14:30:  eSpace
+11:14:45:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+11:15:00:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+11:14:30:  eSpace
+11:14:45:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+11:15:00:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+11:16:25:  新建 Microsoft Word 文档.docx - Word
+11:19:10:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+11:23:45:  新建 Microsoft Word 文档.docx - Word
+11:24:00:  锁屏状态
+11:24:05:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+11:25:35:  新建 Microsoft Word 文档.docx - Word
+11:26:30:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+11:29:45:  新建 Microsoft Word 文档.docx - Word
+11:29:45:  新建 Microsoft Word 文档.docx - Word
+11:30:20:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+11:34:36:  新建 Microsoft Word 文档.docx - Word
+11:34:46:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+11:35:16:  新建 Microsoft Word 文档.docx - Word
+11:37:46:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+11:40:16:  锁屏状态
+13:17:02:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+13:25:33:  自动播放
+13:28:48:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+13:29:13:  Windows 任务管理器
+13:29:18:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+13:28:48:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+13:29:13:  Windows 任务管理器
+13:29:18:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+13:32:33:  锁屏状态
+13:32:38:  eSpace
+13:32:48:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+13:38:08:  eSpace
+13:38:23:  新标签页 - Google Chrome
+13:38:38:  192.168.28.228:7108/default.asp - Google Chrome
+13:38:43:  班车管理系统 - Google Chrome
+13:38:48:  班车管理系统 [新北洋集团] - Google Chrome
+13:38:53:  锁屏状态
+13:39:33:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+13:40:03:  TCR调测工具 V3.36
+13:40:18:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+13:40:28:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+13:41:58:  TCR调测工具 V3.36
+13:43:23:  于斌1
+13:43:28:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+13:43:33:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+13:43:38:  新建 Microsoft Word 文档.docx - Word
+13:45:23:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+13:46:18:  于斌1
+13:47:03:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+13:47:48:  TCR调测工具 V3.36
+13:47:53:  钞箱配置
+13:48:08:  TCR调测工具 V3.36
+13:48:18:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+13:51:13:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+13:51:33:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+13:52:38:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+13:53:28:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+13:53:58:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+13:54:13:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+13:54:18:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+13:55:28:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+13:56:03:  TCR调测工具 V3.36
+13:56:18:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+13:56:28:  eSpace
+13:56:33:  于斌1
+13:56:38:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+14:02:33:  Tools
+14:02:38:  06- 刘建生
+14:02:43:  固件集成测试方案
+14:02:48:  钞箱1T2集成测试方案
+14:03:03:  Excel
+14:03:08:  5.22 钞箱托板功能测试V1.0.xls  [受保护的视图] - Excel
+14:03:58:  5.22 钞箱托板功能测试V1.0.xls  [兼容模式] - Excel
+14:04:09:  钞箱1T2集成测试方案
+14:04:19:  桌面整理
+14:04:34:  本地磁盘 (D:)
+14:04:39:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:04:44:  桌面整理
+14:04:54:  5.22 钞箱托板功能测试V1.0 (1).xls  [兼容模式] - Excel
+14:09:00:  新建 Microsoft Word 文档.docx - Word
+14:09:05:  5.22 钞箱托板功能测试V1.0 (1).xls  [兼容模式] - Excel
+14:12:45:  新建 Microsoft Word 文档.docx - Word
+14:13:10:  5.22 钞箱托板功能测试V1.0 (1).xls  [兼容模式] - Excel
+14:15:25:  D:\00-06\DRB\Applications\Instruction\InstrReturn.c (DRB) - Sublime Text (UNREGISTERED)
+14:16:05:  D:\00-06\DRB\Applications\ErrCode\ErrCode.h (DRB) - Sublime Text (UNREGISTERED)
+14:16:25:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+14:19:20:  D:\00-06\DRB\Rtos\OSLib.c (DRB) - Sublime Text (UNREGISTERED)
+14:19:25:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+14:19:55:  D:\00-06\DRB\Rtos\MQXLITE\kernel\lwsem.c (DRB) - Sublime Text (UNREGISTERED)
+14:20:25:  D:\00-06\DRB\Rtos\OSLib.c (DRB) - Sublime Text (UNREGISTERED)
+14:21:10:  D:\00-06\DRB\Rtos\MQXLITE\kernel\lwsem.c (DRB) - Sublime Text (UNREGISTERED)
+14:21:15:  D:\00-06\DRB\Rtos\OSLib.c (DRB) - Sublime Text (UNREGISTERED)
+14:21:20:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+14:23:20:  本地磁盘 (D:)
+14:23:25:  本地磁盘 (F:)
+14:23:30:  「开始」菜单
+14:23:40:  新北洋安全助手
+14:23:50:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+14:24:15:  视频
+14:24:20:  Subversion
+14:24:25:  图片
+14:24:30:  文档
+14:24:40:  2021-03-04.txt - 记事本
+14:25:00:  W
+14:25:05:  2021-03-03.txt - 记事本
+14:25:20:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+14:25:25:  主页 - Internet Explorer
+14:25:30:  导航已取消 - Internet Explorer
+14:25:35:  新北洋OA信息化平台 - Internet Explorer
+14:25:50:  考勤异常 - Internet Explorer
+14:25:55:  员工自助 - Internet Explorer
+14:26:00:  新北洋OA信息化平台 - Internet Explorer
+14:26:10:  费用报销流程_新北洋 - Internet Explorer
+14:26:15:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+14:33:20:  W
+14:33:25:  10
+14:33:30:  D:\00-KE64\10 - 工作副本 - TortoiseSVN
+14:33:35:  GateModule.c - TortoiseMerge
+14:34:00:  10
+14:34:05:  GateModule.c - TortoiseMerge
+14:34:10:  D:\00-KE64\10 - 提交 - TortoiseSVN
+14:34:15:  milestone.txt - 记事本
+14:35:25:  提交
+14:35:30:  GateModule.c - TortoiseMerge
+14:35:40:  milestone.txt - TortoiseMerge
+14:35:50:  D:\00-KE64\10 - 提交 - TortoiseSVN
+14:35:55:  提交 完成！
+14:36:00:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+14:36:25:  深圳出差
+14:36:30:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+14:36:35:  untitled (gfgd) - Sublime Text (UNREGISTERED)
+14:36:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+14:37:15:  本地磁盘 (D:)
+14:37:20:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+14:37:25:  CashBoxCmd.c Revision 4243 - TortoiseMerge
+14:37:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+14:37:35:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+14:37:45:  CashBoxCmd.c Revision 4243 - TortoiseMerge
+14:37:50:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+14:37:55:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+14:38:00:  跳转列表
+14:38:05:  PressModuleIF.c Revision 4243 - TortoiseMerge
+14:38:10:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.h (gfgd) - Sublime Text (UNREGISTERED)
+14:38:20:  PressModuleIF.c Revision 4243 - TortoiseMerge
+14:38:25:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.h (gfgd) - Sublime Text (UNREGISTERED)
+14:38:30:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+14:38:35:  D:\00-KE64\10 - 提交 - TortoiseSVN
+14:38:40:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.h (gfgd) - Sublime Text (UNREGISTERED)
+14:38:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+14:39:05:  锁屏状态
+14:39:10:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+14:39:25:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (gfgd) - Sublime Text (UNREGISTERED)
+14:39:30:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+14:39:40:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (gfgd) - Sublime Text (UNREGISTERED)
+14:40:10:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.c (gfgd) - Sublime Text (UNREGISTERED)
+14:40:40:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (gfgd) - Sublime Text (UNREGISTERED)
+14:40:45:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (gfgd) - Sublime Text (UNREGISTERED)
+14:40:50:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.c (gfgd) - Sublime Text (UNREGISTERED)
+14:41:25:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+14:41:35:  10
+14:41:40:  gfgd
+14:42:00:  信息提示
+14:42:05:  更新 完成！
+14:42:10:  gfgd
+14:42:15:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+14:42:20:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+14:42:25:  CashBoxCmd.c - TortoiseMerge
+14:42:35:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (gfgd) - Sublime Text (UNREGISTERED)
+14:42:50:  E:\深圳出差\gfgd\Applications\CanComm\CanComm.c (gfgd) - Sublime Text (UNREGISTERED)
+14:42:55:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (gfgd) - Sublime Text (UNREGISTERED)
+14:43:00:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+14:43:05:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (gfgd) - Sublime Text (UNREGISTERED)
+14:43:10:  E:\深圳出差\gfgd\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+14:43:20:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+14:43:35:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (gfgd) - Sublime Text (UNREGISTERED)
+14:43:40:  CashBoxCmd.c - TortoiseMerge
+14:43:55:  CashBoxComm.h - TortoiseMerge
+14:44:00:  eSpace
+14:44:05:  于斌1
+14:44:40:  eSpace
+14:44:55:  于斌1
+14:44:05:  于斌1
+14:44:40:  eSpace
+14:44:55:  于斌1
+14:45:05:  eSpace
+14:45:10:  本地磁盘 (D:)
+14:45:15:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+14:45:20:  Initial.c - TortoiseMerge
+14:45:25:  InstrExecute.c - TortoiseMerge
+14:45:30:  MemoryConfig.h - TortoiseMerge
+14:45:35:  SpiFlashDriver.c - TortoiseMerge
+14:45:40:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+14:45:45:  于斌1
+14:46:45:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+14:46:55:  于斌1
+14:47:05:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+14:47:10:  于斌1
+14:47:15:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+14:47:25:  于斌1
+14:47:40:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+14:47:55:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+14:48:00:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+14:48:05:  本地磁盘 (E:)
+14:48:10:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+14:48:15:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+14:48:30:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+14:49:30:  10
+14:49:35:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+14:50:00:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+14:50:05:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+14:50:20:  GateModule.c - TortoiseMerge
+14:50:25:  ComponentCtrl.c - TortoiseMerge
+14:50:30:  CashBoxCmd.c - TortoiseMerge
+14:50:35:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+14:50:50:  于斌1
+14:51:10:  10
+14:51:20:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+14:51:30:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+14:52:15:  于斌1
+14:53:35:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+14:53:51:  于斌1
+14:54:01:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+14:54:21:  新建 Microsoft Word 文档.docx - Word
+14:55:11:  于斌1
+14:55:26:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.h (gfgd) - Sublime Text (UNREGISTERED)
+14:55:31:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+14:55:41:  于斌1
+14:56:01:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+14:56:26:  10
+14:56:36:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+14:58:51:  于斌1
+14:59:31:  确认另存为
+14:59:41:  打开
+14:59:46:  MenuDlg
+14:59:51:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+14:58:51:  于斌1
+14:59:31:  确认另存为
+14:59:41:  打开
+14:59:46:  MenuDlg
+14:59:51:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+15:03:26:  新建 Microsoft Word 文档.docx - Word
+15:04:06:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+15:04:56:  DCIM
+15:05:01:  104APPLE
+15:05:11:  正在复制...
+15:05:16:  图片
+15:05:26:  IMG_4183.JPG - Windows 照片查看器
+15:05:31:  IMG_4185.JPG - Windows 照片查看器
+15:05:46:  图片
+15:05:51:  IMG_4181.JPG - Windows 照片查看器
+15:06:01:  图片
+15:06:06:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+15:08:51:  新标签页 - Google Chrome
+15:08:56:  百度一下，你就知道 - Google Chrome
+15:09:06:  无标题 - Google Chrome
+15:09:11:  在线伪原创工具,一键式AI智能写作辅助创作平台 - 极智写作社 - Google Chrome
+15:09:16:  Ai智能写作 - Google Chrome
+15:09:31:  Ai智能写作-让写作更简单! - Google Chrome
+15:10:41:  计算器
+15:10:46:  新建 Microsoft Word 文档.docx - Word
+15:11:01:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+15:16:11:  Ai智能写作-让写作更简单! - Google Chrome
+15:16:16:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+15:16:21:  跳转列表
+15:16:26:  新标签页 - Google Chrome
+15:16:31:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+15:16:36:  eSpace
+15:16:46:  吉哲
+15:16:51:  吉哲 (未响应)
+15:16:56:  吉哲
+15:19:51:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+15:20:16:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+15:20:46:  新建文本文档.exe - 快捷方式
+15:20:51:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+15:21:06:  www.baidu.com - Google Chrome
+15:21:11:  百度一下，你就知道 - Google Chrome
+15:21:31:  摩根碎盖失败_百度搜索 - Google Chrome
+15:21:41:  摩根烫男生有烫了后悔的吗? - 知乎 - Google Chrome
+15:21:46:  (22 封私信 / 80 条消息) 摩根烫男生有烫了后悔的吗? - 知乎 - Google Chrome
+15:22:21:  新标签页 - Google Chrome
+15:22:26:  百度一下，你就知道 - Google Chrome
+15:22:31:  https://www.baidu.com/link?url=T_Vvj7CZsDZjp-K6_3c6zIAyV5ZDEdxwuNWTxxfarzQYqaz7FBRGTp3W2eDTenPU&wd=&eqid=edec310e000034850000000260408aac - Google Chrome
+15:22:36:  适马30MM F1.4还是索尼35MM F1.8？【微单吧】_百度贴吧 - Google Chrome
+15:22:51:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+15:23:06:  适马30MM F1.4还是索尼35MM F1.8？【微单吧】_百度贴吧 - Google Chrome
+15:23:16:  https://www.baidu.com/link?url=rp_luGHYO3BWAoWL9qr4tJvvC3VvLg_fI4uzEAFYW2XcWEIWa3ZQ_38WlBusQyRS7Ctq_XQ11t21pmeEDktjZtgx8s9TKGN1QhsBROwTsRi&wd=&eqid=edec310e000034850000000260408aac - Google Chrome
+15:23:21:  适马30.4 跟 索尼35_百度搜索 - Google Chrome
+15:23:31:  https://www.baidu.com/link?url=t94YWpXdE1dfvazssO7YGcI6UBXGVch8T0_VXk6WrzE7VrG3vf_4KIiUKsmPJW9yZNWCBZnhAooGAK_3TXRPro2aHxMD1IyJxMhMylALzAm&wd=&eqid=edec310e000034850000000260408aac - Google Chrome
+15:23:36:  想入定焦...适马30 1.4还是索尼35 1.8好..??_百度知道 - Google Chrome
+15:23:46:  适马30.4 跟 索尼35_百度搜索 - Google Chrome
+15:23:51:  【中字】适马30mm真的值得买嘛？| Sony35mm 1.8 VS 适马30mm 1.4_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Google Chrome
+15:23:56:  适马30.4 跟 索尼35_百度搜索 - Google Chrome
+15:24:06:  E35，30微还是适马30 1.4？-蜂鸟网 - Google Chrome
+15:24:51:  Sony a6000 套机 想入镜头 极度纠结 适马 30 1.4 Sony 35 1.8 主要拍娃 拍家人 扫街 糖水 旅行 求各位指点 | 数字尾巴 分享美好数字生活 - Google Chrome
+15:25:11:  适马30.4 跟 索尼35_百度搜索 - Google Chrome
+15:25:31:  适马30 1.4搭配索尼6300的成像质量如何？白天光圈开到多少才有最佳的锐度啊？【微单吧】_百度贴吧 - Google Chrome
+15:26:56:  eSpace
+15:27:11:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+15:27:31:  图片
+15:28:06:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+15:29:01:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+15:29:36:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+15:29:41:  本地磁盘 (F:)
+15:29:46:  深圳出差
+15:29:51:  gfgd
+15:29:56:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+15:28:06:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+15:29:01:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+15:29:36:  K64_0000_20210304095201.log - DRB.tat* - TextAnalysisTool.NET
+15:29:41:  本地磁盘 (F:)
+15:29:46:  深圳出差
+15:29:51:  gfgd
+15:29:56:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+15:30:21:  GateModule.c Revision 918 - TortoiseMerge
+15:30:31:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+15:30:41:  图片
+15:31:31:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+15:33:41:  于斌1
+15:33:46:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+15:36:51:  于斌1
+15:38:31:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+15:38:36:  0-工作 - 张开发 - 印象笔记
+15:38:41:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+15:41:36:  于斌1
+15:41:46:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\Aging.h (gfgd) - Sublime Text (UNREGISTERED)
+15:41:51:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+15:42:01:  于斌1
+15:42:42:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+15:51:32:  库
+15:51:37:  图片
+15:51:47:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+15:54:27:  新北洋OA信息化平台 - Internet Explorer
+15:54:37:  新标签页 - Google Chrome
+15:54:42:  班车管理系统 - Google Chrome
+15:54:47:  班车管理系统 [新北洋集团] - Google Chrome
+15:54:57:  192.168.28.228:7102/yy_erro/yy_no_url.asp - Google Chrome
+15:55:02:  实时考勤管理系统 - Google Chrome
+15:55:07:  实时考勤管理系统 [新北洋集团] - Google Chrome
+15:55:17:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+15:55:27:  于斌1
+15:55:52:  eSpace
+15:55:57:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+15:59:37:  吉哲
+15:59:52:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+15:59:37:  吉哲
+15:59:52:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:00:07:  图片
+16:00:32:  「开始」菜单
+16:00:37:  Adobe Photoshop CS3
+16:00:42:  Adobe Photoshop CS3 Extended
+16:00:47:  打开
+16:00:52:  Adobe Photoshop CS3 Extended
+16:01:12:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:02:42:  吉哲
+16:02:52:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:04:27:  库
+16:04:32:  图片
+16:07:12:  TCR调测工具 V3.36
+16:07:17:  本地磁盘 (C:)
+16:07:22:  Hotfix
+16:07:32:  本地磁盘 (D:)
+16:07:37:  查看滑块控件
+16:07:42:  图片
+16:07:47:  查看滑块控件
+16:07:52:  IMG_4181.JPG - Windows 照片查看器
+16:07:57:  IMG_4182.JPG - Windows 照片查看器
+16:08:02:  IMG_4183.JPG - Windows 照片查看器
+16:08:07:  IMG_4185.JPG - Windows 照片查看器
+16:08:12:  图片
+16:08:22:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:09:27:  eSpace
+16:09:42:  详细信息
+16:09:52:  eSpace
+16:10:02:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:10:07:  吉哲
+16:10:37:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:13:02:  吉哲
+16:13:12:  0-工作 - 张开发 - 印象笔记
+16:13:17:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:13:22:  库
+16:13:27:  2019.5.11
+16:13:37:  张开发的IPhone 
+16:13:42:  104APPLE
+16:13:57:  图片
+16:14:27:  IMG_4169.JPG - Windows 照片查看器
+16:14:32:  图片
+16:14:37:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:14:27:  IMG_4169.JPG - Windows 照片查看器
+16:14:32:  图片
+16:14:37:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:16:57:  锁屏状态
+16:18:27:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:18:37:  「开始」菜单
+16:19:07:  本地磁盘 (D:)
+16:19:17:  本地磁盘 (E:)
+16:19:52:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:57:58:  库
+17:01:03:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+17:02:58:  锁屏状态

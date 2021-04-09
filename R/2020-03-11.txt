@@ -1,0 +1,7 @@
+2020-03-11 08:06:05-- 08:30:00     :    一  ：iTunes   46/3.83分钟       二  ：Progress Telerik Fiddler Web Debugger   45/3.75分钟     三  ：6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel   39/3.25分钟
+2020-03-11 08:30:00-- 09:00:00     :    一  ：PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)   61/5.08分钟       二  ：Bus Hound   53/4.41分钟     三  ：Progress Telerik Fiddler Web Debugger   52/4.33分钟
+2020-03-11 09:00:00-- 09:30:01     :    一  ：Bus Hound   74/6.16分钟       二  ：6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel   68/5.66分钟     三  ：K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET   43/3.58分钟
+2020-03-11 09:30:01-- 10:00:03     :    一  ：6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel   101/8.41分钟       二  ：K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET   64/5.33分钟     三  ：计算器   38/3.16分钟
+2020-03-11 10:00:03-- 10:30:03     :    一  ：于斌1   102/8.5分钟       二  ：计算器   39/3.25分钟     三  ：便签条   38/3.16分钟
+2020-03-11 10:30:03-- 11:00:04     :    一  ：D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   87/7.25分钟       二  ：托板控制   70/5.83分钟     三  ：变幻线   68/5.66分钟
+2020-03-11 11:00:04-- 11:30:04     :    一  ：于斌1   63/5.25分钟       二  ：D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   52/4.33分钟     三  ：D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (trunk) - Sublime Text (UNREGISTERED)   43/3.58分钟

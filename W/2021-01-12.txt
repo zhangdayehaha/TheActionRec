@@ -1,0 +1,1420 @@
+07:59:59:  「开始」菜单
+07:59:59:  「开始」菜单
+08:09:24:  锁屏状态
+08:09:39:  主页 - Internet Explorer
+08:09:44:  员工自助 - Internet Explorer
+08:09:49:  Employee-facing registry content - Internet Explorer
+08:09:54:  绩效申请 - Internet Explorer
+08:11:19:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:11:49:  TCR调测工具 V3.36
+08:12:39:  BTCRTestTool
+08:12:44:  TCR调测工具 V3.36
+08:12:49:  BTCRTestTool
+08:12:54:  TCR调测工具 V3.36
+08:12:59:  钞箱使能
+08:13:04:  TCR调测工具 V3.36
+08:13:14:  TCRControlCmdDLL
+08:13:19:  Decode
+08:13:24:  K64_BTCR-1100190803000_20210111153722.log - DRB.tat* - TextAnalysisTool.NET
+08:14:04:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+08:15:39:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+08:15:44:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+08:16:14:  李娜
+08:16:19:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+08:18:29:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+08:18:34:  选择文件夹
+08:18:44:  untitled (10) - Sublime Text (UNREGISTERED)
+08:18:54:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+08:19:09:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.h (10) - Sublime Text (UNREGISTERED)
+08:19:19:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+08:19:24:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+08:19:59:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+08:20:39:  D:\00-KE64\10\Applications\InstrExp\InstrSUBProcess.c (10) - Sublime Text (UNREGISTERED)
+08:21:04:  D:\00-KE64\10\Applications\InstrExp\InstrSUBProcess.c • (10) - Sublime Text (UNREGISTERED)
+08:21:09:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c • (10) - Sublime Text (UNREGISTERED)
+08:21:14:  D:\00-KE64\10\Applications\InstrExp\InstrSUBProcess.c (10) - Sublime Text (UNREGISTERED)
+08:21:19:  untitled (94d) - Sublime Text (UNREGISTERED)
+08:21:24:  D:\00-KE64\94d\Applications\CanComm\CashBoxComm\CashBoxComm.h (94d) - Sublime Text (UNREGISTERED)
+08:21:29:  D:\00-KE64\94d\Applications\CanComm\CashBoxComm\CashBoxCmd.c (94d) - Sublime Text (UNREGISTERED)
+08:21:34:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+08:21:49:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c • (94d) - Sublime Text (UNREGISTERED)
+08:22:49:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+08:23:19:  00-KE64
+08:23:24:  TortoiseMerge
+08:23:29:  GateModule.c - TortoiseMerge
+08:23:49:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+08:24:19:  D:\00-KE64\94d\Tools\CreateJK.exe
+08:24:29:  TCR调测工具 V3.36
+08:24:34:  打开
+08:24:39:  TCR调测工具 V3.36
+08:24:54:  BTCRTestTool V3.36
+08:24:59:  20210111
+08:25:04:  TCR调测工具 V3.36
+08:25:09:  20210112
+08:25:19:  自动播放
+08:25:24:  「开始」菜单
+08:25:39:  1T2集成测试 - OneNote
+08:25:49:  2020 - OneNote
+08:26:04:  印象笔记
+08:26:59:  0-工作 - 张开发 - 印象笔记
+08:27:04:  TCR调测工具 V3.36
+08:27:14:  Decode
+08:27:19:  K64_BTCR-1100190803000_20210112082502.log - DRB.tat* - TextAnalysisTool.NET
+08:27:24:  20210112
+08:27:29:  TCR调测工具 V3.36
+08:27:44:  20210112
+08:27:49:  Decode
+08:27:54:  20210112
+08:28:04:  K64_BTCR-1100190803000_20210112082502.log - DRB.tat* - TextAnalysisTool.NET
+08:28:09:  20210112
+08:28:19:  TCR调测工具 V3.36
+08:28:29:  20210112
+08:28:34:  Decode
+08:28:39:  K64_BTCR-1100190803000_20210112082502.log - DRB.tat* - TextAnalysisTool.NET
+08:28:49:  20210112
+08:28:54:  K64_BTCR-1100190803000_20210112082502.log - DRB.tat* - TextAnalysisTool.NET
+08:28:59:  20210112
+08:29:04:  K64_BTCR-1100190803000_20210112082502.log - DRB.tat* - TextAnalysisTool.NET
+08:29:09:  TCR调测工具 V3.36
+08:28:09:  20210112
+08:28:19:  TCR调测工具 V3.36
+08:28:29:  20210112
+08:28:34:  Decode
+08:28:39:  K64_BTCR-1100190803000_20210112082502.log - DRB.tat* - TextAnalysisTool.NET
+08:28:49:  20210112
+08:28:54:  K64_BTCR-1100190803000_20210112082502.log - DRB.tat* - TextAnalysisTool.NET
+08:28:59:  20210112
+08:29:04:  K64_BTCR-1100190803000_20210112082502.log - DRB.tat* - TextAnalysisTool.NET
+08:29:09:  TCR调测工具 V3.36
+08:30:24:  20210112
+08:30:39:  Decode
+08:30:44:  K64_BTCR-1100190803000_20210112083023.log - DRB.tat* - TextAnalysisTool.NET
+08:31:24:  Edit Filter
+08:31:34:  K64_BTCR-1100190803000_20210112083023.log - DRB.tat* - TextAnalysisTool.NET
+08:31:39:  K64_BTCR-1100190803000_20210112082920.log - DRB.tat* - TextAnalysisTool.NET
+08:31:54:  Decode
+08:31:59:  K18_BTCR-1100190803000_20210112083023.log - DRB.tat* - TextAnalysisTool.NET
+08:32:09:  K64_BTCR-1100190803000_20210112082502.log - DRB.tat* - TextAnalysisTool.NET
+08:32:14:  Add Filter
+08:32:24:  K64_BTCR-1100190803000_20210112082502.log - DRB.tat* - TextAnalysisTool.NET
+08:32:29:  20210112
+08:32:44:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+08:33:04:  K64_BTCR-1100190803000_20210112082502.log - DRB.tat* - TextAnalysisTool.NET
+08:33:09:  TCR调测工具 V3.36
+08:33:14:  20210112
+08:33:19:  Decode
+08:33:24:  K64_BTCR-1100190803000_20210112083032.log - DRB.tat* - TextAnalysisTool.NET
+08:33:29:  TCR调测工具 V3.36
+08:33:34:  发送指令到K06
+08:33:39:  TCR调测工具 V3.36
+08:33:54:  Decode
+08:34:04:  K64_BTCR-1100190803000_20210112083032.log - DRB.tat* - TextAnalysisTool.NET
+08:34:59:  Decode
+08:35:24:  K64_BTCR-1100190803000_20210112083032.log - DRB.tat* - TextAnalysisTool.NET
+08:35:39:  TCR调测工具 V3.36
+08:35:44:  K64_BTCR-1100190803000_20210112083032.log - DRB.tat* - TextAnalysisTool.NET
+08:35:54:  TCR调测工具 V3.36
+08:37:19:  20210112
+08:37:45:  Decode
+08:37:50:  K64_BTCR-1100190803000_20210112083731.log - DRB.tat* - TextAnalysisTool.NET
+08:38:30:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+08:38:50:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:38:55:  D:\00-06\1T1-Stop-Length\trunk\Drivers\EepromAreaDriver\EepromAreaDriver.c (trunk) - Sublime Text (UNREGISTERED)
+08:39:15:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+08:39:30:  BTCRTestTool
+08:40:15:  TCR调测工具 V3.36
+08:40:50:  Decode
+08:41:00:  K64_BTCR-1100190803000_20210112084015.log - DRB.tat* - TextAnalysisTool.NET
+08:41:40:  Decode
+08:41:45:  20210112
+08:41:50:  Decode
+08:42:00:  20210112
+08:42:10:  TCR调测工具 V3.36
+08:42:25:  20210112
+08:42:30:  Decode
+08:42:35:  K64_BTCR-1100190803000_20210112084214.log - DRB.tat* - TextAnalysisTool.NET
+08:42:55:  Decode
+08:43:15:  K64_BTCR-1100190803000_20210112084214.log - DRB.tat* - TextAnalysisTool.NET
+08:43:20:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+08:43:30:  K64_BTCR-1100190803000_20210112084214.log - DRB.tat* - TextAnalysisTool.NET
+08:43:35:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+08:45:30:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.h (94d) - Sublime Text (UNREGISTERED)
+08:45:35:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+08:45:55:  K64_BTCR-1100190803000_20210112084214.log - DRB.tat* - TextAnalysisTool.NET
+08:46:10:  20210112
+08:46:15:  TCR调测工具 V3.36
+08:46:25:  20210112
+08:46:30:  K64_BTCR-1100190803000_20210112084223.log - DRB.tat* - TextAnalysisTool.NET
+08:46:35:  20210112
+08:46:40:  K64_BTCR-1100190803000_20210112084223.log - DRB.tat* - TextAnalysisTool.NET
+08:46:45:  Decode
+08:46:50:  20210112
+08:47:00:  K64_BTCR-1100190803000_20210112084223.log - DRB.tat* - TextAnalysisTool.NET
+08:47:05:  Decode
+08:47:10:  20210112
+08:47:45:  K64_BTCR-1100190803000_20210112084706.log - DRB.tat* - TextAnalysisTool.NET
+08:48:00:  TCR调测工具 V3.36
+08:48:05:  Decode
+08:48:10:  20210112
+08:48:15:  Decode
+08:48:20:  K64_BTCR-1100190803000_20210112084800.log - DRB.tat* - TextAnalysisTool.NET
+08:48:50:  K18_BTCR-1100190803000_20210112084214.log - DRB.tat* - TextAnalysisTool.NET
+08:48:55:  K64_BTCR-1100190803000_20210112084214-更新入钞张数.log - DRB.tat* - TextAnalysisTool.NET
+08:49:05:  K64_BTCR-1100190803000_20210112084800.log - DRB.tat* - TextAnalysisTool.NET
+08:49:45:  K64_BTCR-1100190803000_20210112083032-上电CRC错误.log - DRB.tat* - TextAnalysisTool.NET
+08:49:55:  TCR调测工具 V3.36
+08:50:00:  发送指令到K06
+08:50:20:  TCR调测工具 V3.36
+08:50:30:  K64_BTCR-1100190803000_20210112083032-上电CRC错误.log - DRB.tat* - TextAnalysisTool.NET
+08:50:35:  发送指令到K06
+08:50:40:  TCR调测工具 V3.36
+08:50:55:  Decode
+08:51:00:  K64_BTCR-1100190803000_20210112084809.log - DRB.tat* - TextAnalysisTool.NET
+08:52:50:  20210112
+08:53:00:  TCR调测工具 V3.36
+08:53:05:  20210112
+08:53:10:  TCR调测工具 V3.36
+08:53:15:  Decode
+08:53:20:  K64_BTCR-1100190803000_20210112084223.log - DRB.tat* - TextAnalysisTool.NET
+08:53:25:  Decode
+08:53:35:  K64_BTCR-1100190803000_20210112084809.log - DRB.tat* - TextAnalysisTool.NET
+08:54:15:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+08:54:45:  K64_BTCR-1100190803000_20210112084809.log - DRB.tat* - TextAnalysisTool.NET
+08:55:00:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+08:55:05:  K64_BTCR-1100190803000_20210112084809.log - DRB.tat* - TextAnalysisTool.NET
+08:55:10:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+08:55:15:  K64_BTCR-1100190803000_20210112084809.log - DRB.tat* - TextAnalysisTool.NET
+08:55:20:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+08:55:30:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.h (94d) - Sublime Text (UNREGISTERED)
+08:55:35:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+08:57:55:  K64_BTCR-1100190803000_20210112084809.log - DRB.tat* - TextAnalysisTool.NET
+08:58:40:  K64_BTCR-1100190803000_20210112083032-上电CRC错误.log - DRB.tat* - TextAnalysisTool.NET
+08:59:10:  Decode
+08:59:20:  K64_BTCR-1100190803000_20210112084809.log - DRB.tat* - TextAnalysisTool.NET
+08:59:30:  K64_BTCR-1100190803000_20210112084800.log - DRB.tat* - TextAnalysisTool.NET
+08:59:35:  Decode
+08:59:40:  K64_BTCR-1100190803000_20210112084214-更新入钞张数.log - DRB.tat* - TextAnalysisTool.NET
+09:00:00:  Decode
+08:58:40:  K64_BTCR-1100190803000_20210112083032-上电CRC错误.log - DRB.tat* - TextAnalysisTool.NET
+08:59:10:  Decode
+08:59:20:  K64_BTCR-1100190803000_20210112084809.log - DRB.tat* - TextAnalysisTool.NET
+08:59:30:  K64_BTCR-1100190803000_20210112084800.log - DRB.tat* - TextAnalysisTool.NET
+08:59:35:  Decode
+08:59:40:  K64_BTCR-1100190803000_20210112084214-更新入钞张数.log - DRB.tat* - TextAnalysisTool.NET
+09:00:00:  Decode
+09:00:05:  K64_BTCR-1100190803000_20210112084800.log - DRB.tat* - TextAnalysisTool.NET
+09:00:10:  Decode
+09:00:15:  K64_BTCR-1100190803000_20210112084809.log - DRB.tat* - TextAnalysisTool.NET
+09:01:00:  无标题 - 记事本
+09:01:05:  DRB传感器.txt - 记事本
+09:04:05:  K64_BTCR-1100190803000_20210112084809.log - DRB.tat* - TextAnalysisTool.NET
+09:04:10:  锁屏状态
+09:04:15:  绩效申请 - Internet Explorer
+09:04:25:  发送至 OneNote
+09:05:00:  桌面整理
+09:05:10:  MindMaster
+09:05:20:  MindMaster Pro
+09:05:35:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+09:05:40:  MindMaster.exe
+09:05:45:  0-工作 - 张开发 - 印象笔记
+09:05:50:  3-日常 - 张开发 - 印象笔记
+09:06:00:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+09:09:10:  3-日常 - 张开发 - 印象笔记
+09:09:15:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+09:09:55:  3-日常 - 张开发 - 印象笔记
+09:10:00:  2-财务分配 - 张开发 - 印象笔记
+09:10:05:  大学工作日常 - 张开发 - 印象笔记
+09:10:10:  3-日常 - 张开发 - 印象笔记
+09:10:15:  0-工作 - 张开发 - 印象笔记
+09:10:55:  3-日常 - 张开发 - 印象笔记
+09:11:10:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+09:11:20:  3-日常 - 张开发 - 印象笔记
+09:11:25:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+09:13:25:  K64_BTCR-1100190803000_20210112084809.log - DRB.tat* - TextAnalysisTool.NET
+09:13:35:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+09:13:45:  K64_BTCR-1100190803000_20210112084809.log - DRB.tat* - TextAnalysisTool.NET
+09:14:05:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+09:14:30:  K64_BTCR-1100190803000_20210112084809.log - DRB.tat* - TextAnalysisTool.NET
+09:14:50:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+09:14:05:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+09:14:30:  K64_BTCR-1100190803000_20210112084809.log - DRB.tat* - TextAnalysisTool.NET
+09:14:50:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+09:15:05:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+09:15:20:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.h (trunk) - Sublime Text (UNREGISTERED)
+09:15:35:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+09:15:40:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:15:55:  TCR调测工具 V3.36
+09:16:00:  发送指令到K06
+09:16:25:  TCR调测工具 V3.36
+09:16:30:  K64_BTCR-1100190803000_20210112084809.log - DRB.tat* - TextAnalysisTool.NET
+09:16:35:  TCR调测工具 V3.36
+09:16:40:  发送指令到K06
+09:17:00:  TCR调测工具 V3.36
+09:17:05:  3-日常 - 张开发 - 印象笔记
+09:17:10:  Decode
+09:17:20:  K64_BTCR-1100190803000_20210112084809.log - DRB.tat* - TextAnalysisTool.NET
+09:17:50:  Decode
+09:18:35:  3-日常 - 张开发 - 印象笔记
+09:18:55:  0-工作 - 张开发 - 印象笔记
+09:20:35:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+09:21:30:  锁屏状态
+09:21:45:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+09:23:20:  eSpace
+09:23:25:  荆文波
+09:23:45:  0-工作 - 张开发 - 印象笔记
+09:23:50:  荆文波
+09:28:05:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+09:28:45:  00-06
+09:28:50:  D:\00-06\meger - 日志信息 - TortoiseSVN
+09:28:55:  meger
+09:29:00:  232
+09:29:05:  D:\00-06\232 - 日志信息 - TortoiseSVN
+09:29:10:  00-06
+09:29:15:  锁屏状态
+09:29:20:  回复: 截止1.11下午4:00，需退回指标项确认名单。
+09:29:30:  员工自助 - Internet Explorer
+09:29:35:  Employee-facing registry content - Internet Explorer
+09:29:40:  绩效申请 - Internet Explorer
+09:29:50:  eSpace
+09:29:55:  于斌1
+09:28:05:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+09:28:45:  00-06
+09:28:50:  D:\00-06\meger - 日志信息 - TortoiseSVN
+09:28:55:  meger
+09:29:00:  232
+09:29:05:  D:\00-06\232 - 日志信息 - TortoiseSVN
+09:29:10:  00-06
+09:29:15:  锁屏状态
+09:29:20:  回复: 截止1.11下午4:00，需退回指标项确认名单。
+09:29:30:  员工自助 - Internet Explorer
+09:29:35:  Employee-facing registry content - Internet Explorer
+09:29:40:  绩效申请 - Internet Explorer
+09:29:50:  eSpace
+09:29:55:  于斌1
+09:30:05:  绩效申请 - Internet Explorer
+09:35:05:  张开发-人员统计.xlsx
+09:35:10:  张开发-人员统计.xlsx  [只读] - Excel
+09:35:15:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+09:35:20:  绩效申请 - Internet Explorer
+09:36:25:  张开发-人员统计.xlsx
+09:36:30:  绩效申请 - Internet Explorer
+09:37:25:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:38:55:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:39:05:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:39:10:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:39:35:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:39:50:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:40:10:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:41:20:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:41:25:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:42:05:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:42:45:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:43:00:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:43:10:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:55:00:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:55:05:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:55:40:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:56:05:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:56:10:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:56:30:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:57:05:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+10:00:45:  meger
+10:00:50:  CRS
+10:00:55:  KE18-VERSION1
+10:01:00:  SeparatorCtrl.c - TortoiseMerge
+10:01:05:  ImpellerCtrl.c - TortoiseMerge
+10:01:45:  D:\CRS\KE18-VERSION1 - 工作副本 - TortoiseSVN
+10:01:50:  D:\CRS\KE18-VERSION1 - 提交 - TortoiseSVN
+10:02:25:  ImpellerCtrl.c - TortoiseMerge
+10:02:30:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c - 提交 - TortoiseSVN
+10:02:35:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+10:02:40:  锁屏状态
+10:02:45:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:03:35:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:03:40:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:05:25:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:05:50:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:05:55:  锁屏状态
+10:06:00:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+10:07:15:  绩效申请 - Internet Explorer
+10:08:26:  张开发-人员统计.xlsx
+10:08:41:  绩效申请 - Internet Explorer
+10:09:16:  Decode
+10:09:21:  本地磁盘 (D:)
+10:09:26:  D:\CRS\KE18-VERSION1 - 日志信息 - TortoiseSVN
+10:09:31:  KE18-VERSION1
+10:09:36:  D:\CRS\KE18-VERSION1 - 日志信息 - TortoiseSVN
+10:09:41:  ImpellerCtrl.c Revision 859 - TortoiseMerge
+10:10:06:  D:\CRS\KE18-VERSION1 - 日志信息 - TortoiseSVN
+10:10:11:  KE18-VERSION1
+10:10:16:  绩效申请 - Internet Explorer
+10:11:56:  员工自助 - Internet Explorer
+10:12:01:  Employee-facing registry content - Internet Explorer
+10:12:06:  绩效申请 - Internet Explorer
+10:14:11:  ps系统绩效考核操作手册-被考核人部分V1.1.docx
+10:14:11:  ps系统绩效考核操作手册-被考核人部分V1.1.docx
+10:15:21:  李娜
+10:15:26:  eSpace
+10:15:36:  绩效申请 - Internet Explorer
+10:16:06:  李娜
+10:16:26:  绩效申请 - Internet Explorer
+10:16:36:  TD回复格式.docx [兼容模式] - Word
+10:16:46:  绩效申请 - Internet Explorer
+10:17:01:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+10:17:11:  绩效申请 - Internet Explorer
+10:18:11:  李娜
+10:18:16:  绩效申请 - Internet Explorer
+10:18:21:  Employee-facing registry content - Internet Explorer
+10:18:26:  绩效申请 - Internet Explorer
+10:23:31:  员工自助 - Internet Explorer
+10:23:41:  Employee-facing registry content - Internet Explorer
+10:23:46:  绩效申请 - Internet Explorer
+10:23:51:  0-工作 - 张开发 - 印象笔记
+10:24:06:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:25:11:  eSpace
+10:25:16:  窦志远
+10:25:21:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:25:31:  窦志远
+10:25:36:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:26:01:  窦志远
+10:26:06:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:26:16:  KE18-VERSION1
+10:26:21:  CRS
+10:26:26:  D:\CRS\666 - 提交 - TortoiseSVN
+10:26:31:  ImpellerCtrl.c - TortoiseMerge
+10:28:46:  eSpace
+10:28:51:  于斌1
+10:29:01:  ImpellerCtrl.c - TortoiseMerge
+10:28:46:  eSpace
+10:28:51:  于斌1
+10:29:01:  ImpellerCtrl.c - TortoiseMerge
+10:35:41:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:38:31:  eSpace
+10:38:36:  荆文波
+10:38:41:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:38:46:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+10:39:11:  666
+10:39:31:  DRB-190900100002
+10:39:41:  fenxi
+10:39:46:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+10:39:51:  桌面整理
+10:40:01:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+10:40:06:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:40:26:  跳转列表
+10:40:31:  剩余 10 秒
+10:40:36:  K64_BTCR-1100200700510494_20201228152121
+10:40:41:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+10:50:56:  ID-3 2#DRB钞箱下腔50元取款第144张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X034601B5 12.28
+10:51:01:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+10:51:06:  锁屏状态
+10:51:11:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+10:51:16:  K64_BTCR-1100200700510494_20201228152121
+10:51:21:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+10:51:31:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+10:51:36:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+10:51:41:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+10:52:11:  K64_BTCR-1100200700510494_20201228152121
+10:52:16:  mmexport1609211114693.jpg - Windows 照片查看器
+10:52:21:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+10:52:26:  K64_BTCR-1100200700510494_20201228152121
+10:52:36:  LogExpert - D:\fenxi\6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。\Decode\LOG\K64_BTCR-1100200700510494_20201228152121\K64-_BTCR-1100200700510494_20201228152121.log
+10:52:56:  LogExpert - D:\fenxi\6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。\Decode\LOG\K64_BTCR-1100200700510494_20201228152024\K64-_BTCR-1100200700510494_20201228152024.log
+10:53:11:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+10:55:16:  Add Filter
+10:55:21:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+10:57:56:  Add Filter
+10:58:16:  选择文件夹
+10:58:26:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:58:56:  D:\00-06\meger\Applications\PaperManage\PaperManage.h (meger) - Sublime Text (UNREGISTERED)
+10:59:01:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:59:16:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+10:59:21:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+10:59:41:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:58:16:  选择文件夹
+10:58:26:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:58:56:  D:\00-06\meger\Applications\PaperManage\PaperManage.h (meger) - Sublime Text (UNREGISTERED)
+10:59:01:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:59:16:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+10:59:21:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+10:59:41:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:00:41:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+11:01:11:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:01:56:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+11:02:01:  锁屏状态
+11:02:06:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:05:26:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+11:07:01:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:09:56:  0-工作 - 张开发 - 印象笔记
+11:10:06:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:10:56:  mmexport1609211107950.jpg - Windows 照片查看器
+11:13:16:  0-工作 - 张开发 - 印象笔记
+11:13:21:  mmexport1609211107950.jpg - Windows 照片查看器
+11:15:11:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+11:15:36:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+11:16:06:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+11:16:16:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+11:16:21:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+11:16:26:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+11:18:21:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+11:18:51:  所有笔记本 - 张开发 - 印象笔记
+11:19:21:  读书笔记 - 张开发 - 印象笔记
+11:19:26:  0-工作 - 张开发 - 印象笔记
+11:19:31:  所有笔记本 - 张开发 - 印象笔记
+11:19:36:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+11:19:56:  Employee-facing registry content - Internet Explorer
+11:20:01:  绩效申请 - Internet Explorer
+11:21:21:  Employee-facing registry content - Internet Explorer
+11:21:26:  绩效申请 - Internet Explorer
+11:24:16:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+11:25:46:  D:\00-06\meger\Middlewares\Sensor\Sensor.h (meger) - Sublime Text (UNREGISTERED)
+11:25:51:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (meger) - Sublime Text (UNREGISTERED)
+11:25:56:  mmexport1609211107950.jpg - Windows 照片查看器
+11:26:01:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+11:27:11:  K64_BTCR-1100200700510494_20201228152024
+11:27:16:  桌面整理
+11:27:21:  CashBoxDareV2.3 - Everything
+11:27:36:  K64_BTCR-1100200700510494_20201228152024
+11:27:46:  Python 3.7.3 Shell
+11:28:01:  K64_BTCR-1100200700510494_20201228152024
+11:28:06:  C:\Windows\py.exe
+11:28:11:  TheDateInfo.xls  [兼容模式] - Excel
+11:29:16:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+11:29:26:  TheDateInfo.xls  [兼容模式] - Excel
+11:28:06:  C:\Windows\py.exe
+11:28:11:  TheDateInfo.xls  [兼容模式] - Excel
+11:29:16:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+11:29:26:  TheDateInfo.xls  [兼容模式] - Excel
+11:31:11:  CashBoxDareV2.3 - Everything
+11:31:16:  TheO - Everything
+11:31:21:  TheOnefor - Everything
+11:31:36:  TheOneforexcel - Everything
+11:31:51:  TheOneforexcel.exe - Everything
+11:31:56:  TheDateInfo.xls  [兼容模式] - Excel
+11:32:01:  新建文件夹 (4)
+11:32:11:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+11:32:16:  TheDateInfo.xls  [兼容模式] - Excel
+11:32:50:  Microsoft Excel
+11:32:55:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+11:33:30:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+11:33:35:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+11:34:05:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+11:34:20:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+11:37:55:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+11:39:00:  Microsoft Excel
+11:39:05:  TheDateInfo.xls  [兼容模式] - Excel
+11:39:30:  排序
+11:39:45:  TheDateInfo.xls  [兼容模式] - Excel
+11:39:50:  排序
+11:40:00:  TheDateInfo.xls  [兼容模式] - Excel
+11:40:20:  mmexport1609211107950.jpg - Windows 照片查看器
+11:40:25:  mmexport1609211114693.jpg - Windows 照片查看器
+11:40:35:  TheDateInfo.xls  [兼容模式] - Excel
+11:40:40:  锁屏状态
+13:10:00:  ID-3 2#DRB钞箱下腔50元取款第144张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X034601B5 12.28
+13:10:05:  本地磁盘 (F:)
+13:10:10:  小程序
+13:10:15:  新建文件夹 (3)
+13:10:25:  weibopinglun
+13:10:30:  小程序
+13:10:35:  weibo.rar - WinRAR (非商业个人版)
+13:10:40:  本地磁盘 (D:)
+13:10:45:  fenxi
+13:10:50:  weiboping.py - D:\fenxi\weibopinglun\新建文件夹 (3)\weiboping.py (3.7.3)
+13:11:10:  新建文件夹 (3)
+13:11:20:  新建文本文档.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档.py (3.7.3)
+13:11:25:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:11:40:  新建文本文档.exe - 快捷方式
+13:11:45:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:11:55:  新标签页 - Google Chrome
+13:12:06:  https://m.weibo.cn/comments/hotflow?id=4373057462567825&mid=4373057462567825 - Google Chrome
+13:12:11:  百度一下，你就知道 - Google Chrome
+13:12:16:  微博-随时随地发现新鲜事 - Google Chrome
+13:12:31:  weibo_百度搜索 - Google Chrome
+13:12:36:  无标题 - Google Chrome
+13:12:41:  微博 - Google Chrome
+13:13:01:  新标签页 - Google Chrome
+13:13:06:  微博 - Google Chrome
+13:14:41:  新标签页 - Google Chrome
+13:14:46:  微博 - Google Chrome
+13:14:51:  新标签页 - Google Chrome
+13:14:56:  扩展程序
+13:15:01:  扩展程序 - Google Chrome
+13:14:41:  新标签页 - Google Chrome
+13:14:46:  微博 - Google Chrome
+13:14:51:  新标签页 - Google Chrome
+13:14:56:  扩展程序
+13:15:01:  扩展程序 - Google Chrome
+13:15:06:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:15:26:  微博 - Google Chrome
+13:15:31:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:15:47:  微博 - Google Chrome
+13:15:52:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:16:07:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:16:37:  *Python 3.7.3 Shell*
+13:16:47:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:16:52:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:16:57:  *Python 3.7.3 Shell*
+13:17:02:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:17:12:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:17:22:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:17:57:  *Python 3.7.3 Shell*
+13:18:02:  Python 3.7.3 Shell
+13:18:07:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:18:12:  Python 3.7.3 Shell
+13:18:17:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:18:22:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:18:27:  *Python 3.7.3 Shell*
+13:18:32:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:18:37:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:18:42:  Python 3.7.3 Shell
+13:18:47:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:18:52:  扩展程序 - Google Chrome
+13:19:02:  选择扩展程序目录。
+13:19:17:  扩展程序 - Google Chrome
+13:19:27:  印象笔记
+13:19:37:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:20:22:  微博 - Google Chrome
+13:20:32:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:21:17:  微博 - Google Chrome
+13:21:32:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:21:52:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:21:57:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:22:07:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:22:17:  *Python 3.7.3 Shell*
+13:22:22:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+13:22:27:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:22:32:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:22:37:  Python 3.7.3 Shell
+13:22:42:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:22:47:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:22:57:  *Python 3.7.3 Shell*
+13:23:02:  Python 3.7.3 Shell
+13:23:07:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:23:52:  *Python 3.7.3 Shell*
+13:23:57:  Python 3.7.3 Shell
+13:24:02:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:24:07:  *Python 3.7.3 Shell*
+13:24:12:  Python 3.7.3 Shell
+13:24:17:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:24:27:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:24:32:  *Python 3.7.3 Shell*
+13:24:37:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:24:43:  *Python 3.7.3 Shell*
+13:24:48:  Python 3.7.3 Shell
+13:24:58:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:25:18:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:25:28:  Python 3.7.3 Shell
+13:25:38:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:25:48:  Save Before Run or Check
+13:25:53:  Python 3.7.3 Shell
+13:25:58:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:26:08:  Python 3.7.3 Shell
+13:26:18:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:26:23:  *Python 3.7.3 Shell*
+13:26:28:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:26:33:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:26:38:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:26:58:  Python 3.7.3 Shell
+13:27:03:  *Python 3.7.3 Shell*
+13:27:13:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:27:18:  *Python 3.7.3 Shell*
+13:27:23:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:27:33:  *Python 3.7.3 Shell*
+13:27:43:  锁屏状态
+13:27:48:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:27:53:  Python 3.7.3 Shell
+13:27:58:  *Python 3.7.3 Shell*
+13:28:03:  Python 3.7.3 Shell
+13:28:08:  *Python 3.7.3 Shell*
+13:28:28:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:28:58:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:29:23:  *Python 3.7.3 Shell*
+13:29:28:  Python 3.7.3 Shell
+13:29:33:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:29:38:  新建文件夹 (3)
+13:29:48:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (meger) - Sublime Text (UNREGISTERED)
+13:29:58:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py • (meger) - Sublime Text (UNREGISTERED)
+13:28:08:  *Python 3.7.3 Shell*
+13:28:28:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:28:58:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:29:23:  *Python 3.7.3 Shell*
+13:29:28:  Python 3.7.3 Shell
+13:29:33:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:29:38:  新建文件夹 (3)
+13:29:48:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (meger) - Sublime Text (UNREGISTERED)
+13:29:58:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py • (meger) - Sublime Text (UNREGISTERED)
+13:32:28:  桌面整理
+13:32:33:  C:\Users\zhangkaifa\Desktop\CashBoxDareV2.3.py (meger) - Sublime Text (UNREGISTERED)
+13:32:53:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py • (meger) - Sublime Text (UNREGISTERED)
+13:33:28:  锁屏状态
+13:33:33:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:34:28:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py • (meger) - Sublime Text (UNREGISTERED)
+13:34:48:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (meger) - Sublime Text (UNREGISTERED)
+13:35:03:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py • (meger) - Sublime Text (UNREGISTERED)
+13:35:13:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (meger) - Sublime Text (UNREGISTERED)
+13:35:23:  荆文波
+13:35:28:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:35:33:  mmexport1609211114693.jpg - Windows 照片查看器
+13:35:38:  跳转列表
+13:35:43:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (meger) - Sublime Text (UNREGISTERED)
+13:35:48:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py • (meger) - Sublime Text (UNREGISTERED)
+13:36:08:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:36:23:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py • (meger) - Sublime Text (UNREGISTERED)
+13:36:28:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:36:33:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py • (meger) - Sublime Text (UNREGISTERED)
+13:37:43:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (meger) - Sublime Text (UNREGISTERED)
+13:37:48:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py • (meger) - Sublime Text (UNREGISTERED)
+13:38:03:  新建文件夹 (3)
+13:38:08:  *Python 3.7.3 Shell*
+13:38:13:  Python 3.7.3 Shell
+13:38:28:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:38:33:  新建文件夹 (3)
+13:38:38:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:38:43:  *Python 3.7.3 Shell*
+13:38:48:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:38:53:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:38:58:  C:\Users\zhangkaifa\Desktop\CashBoxDareV2.3.py (meger) - Sublime Text (UNREGISTERED)
+13:39:03:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (meger) - Sublime Text (UNREGISTERED)
+13:39:08:  新建文件夹 (3)
+13:39:13:  本地磁盘 (E:)
+13:39:18:  文档
+13:39:33:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+13:39:38:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:39:43:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:39:53:  *Python 3.7.3 Shell*
+13:39:58:  Python 3.7.3 Shell
+13:40:03:  新标签页 - Google Chrome
+13:40:08:  https://www.baidu.com/link?url=QzYBjHhCF8TP3vaBOuLx522au-A1xpSfTt-B56RIoBgICI3kfpFB0RkaR1fxVS-VBLsCb1PjdbueLDfn2WL0Jjzj4HB7iucGLn4jiZuauji&wd=&eqid=b8cf16fd000e1af2000000025ffd3636 - Google Chrome
+13:40:13:  (3条消息) python UnicodeEncodeError: 'UCS-2' codec can't encode characters in position 1-1: Non-BMP character_周振伟的博客-CSDN博客 - Google Chrome
+13:40:53:  【Python】【BugList12】python自带IDLE执行print(req.text)报错：UnicodeEncodeError: 'UCS-2' codec can't encode characters in position 93204-93204 - 粒粒的测试笔记 - 博客园 - Google Chrome
+13:41:08:  扩展程序 - Google Chrome
+13:41:13:  百度一下，你就知道 - Google Chrome
+13:41:18:  https://www.baidu.com/link?url=cpZMLxFxph6Tty8CQEUON3d5YuS_7pamUhs-4Y4DwdkwMoWyhlvpXBovzxGg0sbi_yVvb-cwFIKQEc0nJLnHk_&wd=&eqid=c7a9d7b3000dd9f6000000025ffd367a - Google Chrome
+13:41:23:  UnicodeEncodeError: 'UCS-2' codec can't encode characters in position 6-6: Non-BMP character not supported in Tk · Issue #28 · yangxuanxc/wechat_friends · GitHub - Google Chrome
+13:41:33:  Python 出现这样的错误 UnicodeEncodeError: 'UCS-2' codec can't encode characters in position 70-70: Non-BMP - OSCHINA - Google Chrome
+13:41:43:  各位大神，请教一个问题，python爬虫爬取淘宝网页商品评论，运行出现了一个编码问题：'UCS-2' codec can't encode characters in position 8-8: Non-BMP character not supported in Tk - 天善智能：专注于商业智能BI和数据分析、大数据领域的垂直社区平台 - Google Chrome
+13:41:53:  python自带的idle报错：UnicodeEncodeError: 'UCS-2' codec can't encode characters in position 1488-1488: Non-BMP character not supported in Tk - 简书 - Google Chrome
+13:41:58:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:42:03:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (meger) - Sublime Text (UNREGISTERED)
+13:42:43:  新建文件夹 (3)
+13:42:48:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+13:43:03:  新建文件夹 (3)
+13:43:08:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+13:44:23:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (meger) - Sublime Text (UNREGISTERED)
+13:44:28:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+13:44:23:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (meger) - Sublime Text (UNREGISTERED)
+13:44:28:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+13:45:13:  锁屏状态
+13:45:18:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+13:45:23:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (meger) - Sublime Text (UNREGISTERED)
+13:45:43:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+13:45:48:  'UCS-2' codec can't encode_百度搜索 - Google Chrome
+13:45:58:  (3条消息) python 剔除汉字_剔除word 中的除汉字以外字符_住颜的博客-CSDN博客 - Google Chrome
+13:46:08:  Python字符串处理：过滤字符串中的英文与符号，保留汉字_weixin_33896069的博客-CSDN博客 - Google Chrome
+13:46:13:  (3条消息) Python字符串处理：过滤字符串中的英文与符号，保留汉字_weixin_33896069的博客-CSDN博客 - Google Chrome
+13:46:23:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:46:28:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:46:38:  *Python 3.7.3 Shell*
+13:46:43:  Python 3.7.3 Shell
+13:46:48:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:47:03:  Python 3.7.3 Shell
+13:47:08:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:47:18:  (3条消息) Python字符串处理：过滤字符串中的英文与符号，保留汉字_weixin_33896069的博客-CSDN博客 - Google Chrome
+13:47:23:  python 字符串只保留汉字的方法_python_脚本之家 - Google Chrome
+13:47:28:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:47:38:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+13:48:13:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:48:18:  荆文波
+13:48:23:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+13:48:28:  ● 新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+13:48:48:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+13:49:33:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:49:38:  新标签页 - Google Chrome
+13:49:43:  python只保留汉字(去除汉字外所有符号)_百度搜索 - Google Chrome
+13:49:48:  (3条消息) python 剔除汉字_剔除word 中的除汉字以外字符_住颜的博客-CSDN博客 - Google Chrome
+13:49:58:  python只保留汉字(去除汉字外所有符号)_百度搜索 - Google Chrome
+13:50:03:  python去除特殊字符 - brady-wang - 博客园 - Google Chrome
+13:50:13:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+13:50:23:  ● 新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+13:50:28:  python去除特殊字符 - brady-wang - 博客园 - Google Chrome
+13:50:33:  ● 新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+13:50:38:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+13:50:48:  State.c - DRB-NearFull - Visual Studio Code [管理员]
+13:51:08:  ● 新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+13:51:13:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+13:51:28:  ● 新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+13:51:43:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+13:51:48:  搜狗输入法 云计算代理
+13:51:53:  python去除特殊字符 - brady-wang - 博客园 - Google Chrome
+13:51:58:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+13:52:03:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+13:53:33:  ● 新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+13:53:38:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+13:53:43:  新建文件夹 (3)
+13:53:53:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+13:53:58:  Python 3.7.3 Shell
+13:54:03:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:54:08:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:54:13:  *Python 3.7.3 Shell*
+13:54:18:  Python 3.7.3 Shell
+13:54:23:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:54:33:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:56:28:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:56:33:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:56:43:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:56:48:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:56:53:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:57:03:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:58:28:  *Python 3.7.3 Shell*
+13:58:33:  新建文件夹 (3)
+13:58:43:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:58:48:  新建文件夹 (3)
+13:58:53:  *Python 3.7.3 Shell*
+13:58:58:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:59:08:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:59:13:  新建文件夹 (3)
+13:59:18:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:59:28:  Python 3.7.3 Shell
+13:59:38:  Subprocess Startup Error
+13:59:43:  *Python 3.7.3 Shell*
+13:59:48:  rec.txt - 记事本
+13:59:53:  *Python 3.7.3 Shell*
+13:59:58:  新建文件夹 (3)
+14:00:03:  新建文件夹 (4)
+13:58:28:  *Python 3.7.3 Shell*
+13:58:33:  新建文件夹 (3)
+13:58:43:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:58:48:  新建文件夹 (3)
+13:58:53:  *Python 3.7.3 Shell*
+13:58:58:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:59:08:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:59:13:  新建文件夹 (3)
+13:59:18:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+13:59:28:  Python 3.7.3 Shell
+13:59:38:  Subprocess Startup Error
+13:59:43:  *Python 3.7.3 Shell*
+13:59:48:  rec.txt - 记事本
+13:59:53:  *Python 3.7.3 Shell*
+13:59:58:  新建文件夹 (3)
+14:00:03:  新建文件夹 (4)
+14:00:23:  微博 - Google Chrome
+14:00:28:  新标签页 - Google Chrome
+14:00:43:  www.weibo.com想要
+14:00:48:  微博-随时随地发现新鲜事 - Google Chrome
+14:00:53:  微博搜索 - Google Chrome
+14:00:58:  我叫张大爷ha的微博_微博 - Google Chrome
+14:01:03:  锁屏状态
+14:01:08:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:01:13:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:01:18:  ● 新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:01:23:  锁屏状态
+14:01:28:  新标签页 - Google Chrome
+14:01:38:  微博-随时随地发现新鲜事 - Google Chrome
+14:01:43:  新建文本文档.exe - 快捷方式
+14:01:48:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:02:03:  ● 新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:02:33:  荆文波
+14:02:38:  ● 新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:02:48:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:02:53:  荆文波
+14:03:13:  ● 新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:03:23:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:03:43:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:04:18:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:04:38:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:05:33:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:05:43:  ● 新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:06:18:  荆文波
+14:06:28:  新建文本文档.exe - 快捷方式
+14:06:38:  ● 新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:06:43:  锁屏状态
+14:06:48:  荆文波
+14:07:48:  ● 新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:07:58:  网易有道词典
+14:08:38:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:08:43:  荆文波
+14:10:03:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:10:23:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:10:28:  D:\00-06\1T1-Stop-Length\trunk\Applications\HistoryRecord\HistoryRecord.h (trunk) - Sublime Text (UNREGISTERED)
+14:10:38:  D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (meger) - Sublime Text (UNREGISTERED)
+14:10:43:  D:\00-06\meger\Applications\HistoryRecord\HistoryRecord.c (meger) - Sublime Text (UNREGISTERED)
+14:11:08:  D:\00-06\meger\Applications\Instruction\InstrExecute.c (meger) - Sublime Text (UNREGISTERED)
+14:11:18:  D:\00-06\meger\Applications\HistoryRecord\HistoryRecord.c (meger) - Sublime Text (UNREGISTERED)
+14:12:08:  D:\00-06\meger\Applications\Instruction\InstrExecute.c (meger) - Sublime Text (UNREGISTERED)
+14:12:33:  D:\00-06\meger\Applications\HistoryRecord\HistoryRecord.c (meger) - Sublime Text (UNREGISTERED)
+14:12:38:  D:\00-06\meger\Applications\HistoryRecord\HistoryRecord.h (meger) - Sublime Text (UNREGISTERED)
+14:12:43:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+14:13:08:  D:\00-06\meger\Applications\PlateCtrl\PlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+14:13:13:  D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+14:15:23:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+14:16:58:  荆文波
+14:22:23:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+14:22:38:  锁屏状态
+14:22:43:  新建文本文档.exe - 快捷方式
+14:23:03:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+14:25:44:  百度一下，你就知道 - Google Chrome
+14:25:54:  python切割字符串_百度搜索 - Google Chrome
+14:25:59:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+14:26:04:  ● 新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:26:14:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:26:19:  ● 新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:26:44:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:27:04:  fenxi
+14:27:09:  rec.txt - 记事本
+14:27:14:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:27:29:  D:\00-06\1T1-Stop-Length\trunk\Applications\HistoryRecord\HistoryRecord.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:34:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+14:27:39:  *Python 3.7.3 Shell*
+14:27:44:  rec.txt - 记事本
+14:27:54:  新建文件夹 (3)
+14:27:59:  *Python 3.7.3 Shell*
+14:28:04:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+14:28:14:  *Python 3.7.3 Shell*
+14:28:24:  Kill?
+14:28:29:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+14:28:34:  新建文件夹 (3)
+14:28:39:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageIn.c (gfgd) - Sublime Text (UNREGISTERED)
+14:28:59:  python切割字符串_百度搜索 - Google Chrome
+14:29:04:  锁屏状态
+14:29:09:  新标签页 - Google Chrome
+14:29:14:  历史记录 - Google Chrome
+14:29:24:  微博 - Google Chrome
+14:29:39:  锁屏状态
+14:29:44:  跳转列表
+14:29:49:  微博 - Google Chrome
+14:29:54:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageIn.c (gfgd) - Sublime Text (UNREGISTERED)
+14:29:59:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:28:14:  *Python 3.7.3 Shell*
+14:28:24:  Kill?
+14:28:29:  *新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)*
+14:28:34:  新建文件夹 (3)
+14:28:39:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageIn.c (gfgd) - Sublime Text (UNREGISTERED)
+14:28:59:  python切割字符串_百度搜索 - Google Chrome
+14:29:04:  锁屏状态
+14:29:09:  新标签页 - Google Chrome
+14:29:14:  历史记录 - Google Chrome
+14:29:24:  微博 - Google Chrome
+14:29:39:  锁屏状态
+14:29:44:  跳转列表
+14:29:49:  微博 - Google Chrome
+14:29:54:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageIn.c (gfgd) - Sublime Text (UNREGISTERED)
+14:29:59:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:30:09:  微博 - Google Chrome
+14:30:14:  https://m.weibo.cn/api/container/getIndex?uid=7336825507&luicode=10000011&lfid=100103type%3D1%26q%3D币安&type=uid&value=7336825507&containerid=1076037336825507 - Google Chrome
+14:31:19:  0-工作 - 张开发 - 印象笔记
+14:31:29:  所有笔记本 - 张开发 - 印象笔记
+14:31:39:  新标签页 - Google Chrome
+14:31:54:  微博 - Google Chrome
+14:32:04:  新标签页 - Google Chrome
+14:32:09:  微博 - Google Chrome
+14:32:24:  新标签页 - Google Chrome
+14:32:29:  https://m.weibo.cn/api/container/getIndex?uid=5619027674&luicode=10000011&lfid=100103type%3D1%26q%3D我叫张大爷&type=uid&value=5619027674&containerid=1005055619027674 - Google Chrome
+14:32:39:  https://m.weibo.cn/api/container/getIndex?uid=5619027674&luicode=10000011 - Google Chrome
+14:32:49:  https://m.weibo.cn/api/container/getIndex?uid=5619027674&luicode=10000011&lfid=100103type%3D1%26q%3D我叫张大爷&type=uid&value=5619027674&containerid=1005055619027674 - Google Chrome
+14:32:54:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:33:04:  ● 新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:33:09:  新建文本文档1.py - DRB-NearFull - Visual Studio Code [管理员]
+14:33:14:  新建文件夹 (3)
+14:33:24:  *Python 3.7.3 Shell*
+14:33:29:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+14:33:44:  https://m.weibo.cn/api/container/getIndex?uid=5619027674&luicode=10000011&lfid=100103type%3D1%26q%3D我叫张大爷&type=uid&value=5619027674&containerid=1005055619027674 - Google Chrome
+14:33:54:  微博 - Google Chrome
+14:34:09:  https://m.weibo.cn/api/container/getIndex?uid=5619027674&luicode=10000011&lfid=100103type%3D1%26q%3D我叫张大爷&type=uid&value=5619027674&containerid=1076035619027674 - Google Chrome
+14:34:14:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+14:34:29:  *Python 3.7.3 Shell*
+14:34:44:  https://m.weibo.cn/api/container/getIndex?uid=5619027674&luicode=10000011&lfid=100103type%3D1%26q%3D我叫张大爷&type=uid&value=5619027674&containerid=1076035619027674 - Google Chrome
+14:34:49:  D:\00-06\1T1-Stop-Length\trunk\Applications\HistoryRecord\HistoryRecord.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:19:  *Python 3.7.3 Shell*
+14:35:24:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+14:35:34:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageIn.c (gfgd) - Sublime Text (UNREGISTERED)
+14:35:49:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.h (gfgd) - Sublime Text (UNREGISTERED)
+14:35:59:  *Python 3.7.3 Shell*
+14:36:04:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+14:36:39:  *Python 3.7.3 Shell*
+14:36:49:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+14:36:54:  *Python 3.7.3 Shell*
+14:36:59:  新建文本文档1.py - D:\fenxi\weibopinglun\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+14:37:14:  新建文件夹 (3)
+14:37:34:  未命名 - 写邮件
+14:37:44:  所有笔记本 - 张开发 - 印象笔记
+14:37:49:  印象笔记
+14:37:54:  新建文件夹 (3)
+14:37:59:  rec.txt - 记事本
+14:38:04:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.h (gfgd) - Sublime Text (UNREGISTERED)
+14:38:14:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+14:38:19:  D:\00-KE64\94d\Applications\CanComm\CashBoxComm\CashBoxComm.h (94d) - Sublime Text (UNREGISTERED)
+14:38:24:  D:\00-KE64\94d\Applications\CanComm\CashBoxComm\CashBoxComm.c (94d) - Sublime Text (UNREGISTERED)
+14:38:39:  D:\00-KE64\94d\Applications\CanComm\CashBoxComm\CashBoxComm.h (94d) - Sublime Text (UNREGISTERED)
+14:38:49:  D:\00-KE64\94d\Applications\CanComm\CashBoxComm\CashBoxCmd.c (94d) - Sublime Text (UNREGISTERED)
+14:38:54:  D:\00-KE64\94d\Applications\CanComm\CashBoxComm\CashBoxComm.h (94d) - Sublime Text (UNREGISTERED)
+14:38:59:  D:\00-KE64\94d\Applications\CanComm\CashBoxComm\CashBoxComm.c (94d) - Sublime Text (UNREGISTERED)
+14:39:29:  荆文波
+14:39:59:  D:\00-KE64\94d\Applications\CanComm\CashBoxComm\CashBoxComm.c (94d) - Sublime Text (UNREGISTERED)
+14:40:04:  2-财务分配 - 张开发 - 印象笔记
+14:40:19:  D:\00-KE64\94d\Applications\CanComm\CashBoxComm\CashBoxComm.c (94d) - Sublime Text (UNREGISTERED)
+14:40:39:  荆文波
+14:41:09:  D:\00-KE64\94d\Applications\CanComm\CashBoxComm\CashBoxComm.c (94d) - Sublime Text (UNREGISTERED)
+14:42:04:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+14:42:19:  D:\00-KE64\94d\Applications\CanComm\CashBoxComm\CashBoxComm.c (94d) - Sublime Text (UNREGISTERED)
+14:42:24:  锁屏状态
+14:42:39:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+14:42:49:  D:\00-06\meger\Applications\Instruction\InstrReturn.c (meger) - Sublime Text (UNREGISTERED)
+14:43:14:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+14:44:59:  荆文波
+14:44:59:  荆文波
+14:45:39:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+14:45:54:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+14:47:34:  TheDateInfo.xls  [兼容模式] - Excel
+14:47:39:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:48:34:  Windows Internet Explorer
+14:48:39:  Internet Explorer
+14:48:44:  Employee-facing registry content - Internet Explorer
+14:48:49:  绩效申请 - Internet Explorer
+14:49:04:  员工自助 - Internet Explorer
+14:49:24:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:49:34:  [none]
+14:49:39:  主页 - Internet Explorer
+14:49:44:  系统登录 - Internet Explorer
+14:49:49:  员工自助 - Internet Explorer
+14:49:54:  Employee-facing registry content - Internet Explorer
+14:49:59:  绩效申请 - Internet Explorer
+14:51:09:  eSpace
+14:51:14:  程明昌
+14:51:59:  绩效申请 - Internet Explorer
+14:52:04:  程明昌
+14:52:39:  新北洋OA信息化平台 - Internet Explorer
+14:52:49:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:54:14:  程明昌
+14:54:19:  0-工作 - 张开发 - 印象笔记
+14:54:24:  2-财务分配 - 张开发 - 印象笔记
+14:55:29:  新建文件夹 (4)
+14:55:34:  fenxi
+14:55:39:  post-the-deal.py - D:\fenxi\post-the-deal.py (3.7.3)
+14:55:59:  2-财务分配 - 张开发 - 印象笔记
+14:56:04:  新建文本文档1.py (已删除) - DRB-NearFull - Visual Studio Code [管理员]
+14:56:24:  2-财务分配 - 张开发 - 印象笔记
+14:56:34:  删除文件
+14:56:39:  fenxi
+14:56:44:  12.py - D:\fenxi\12.py (3.7.3)
+14:56:49:  fenxi
+14:56:54:  2-财务分配 - 张开发 - 印象笔记
+14:56:59:  fenxi
+14:57:04:  weiboping (2).py - D:\fenxi\weiboping (2).py (3.7.3)
+14:57:14:  fenxi
+14:57:19:  2-财务分配 - 张开发 - 印象笔记
+14:57:59:  新建文本文档1.py (已删除) - DRB-NearFull - Visual Studio Code [管理员]
+14:58:04:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+15:01:44:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:01:59:  D:\CRS\KE18-VERSION1\Rtos\RTT\rtconfig.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:02:09:  D:\CRS\KE18-VERSION1\Rtos\RTT\src\timer.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:02:14:  D:\CRS\KE18-VERSION1\Rtos\RTT\src\idle.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:02:19:  D:\CRS\KE18-VERSION1\Rtos\RTT\src\clock.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:02:54:  D:\CRS\KE18-VERSION1\Drivers\board.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:03:09:  于斌1
+15:03:29:  D:\CRS\KE18-VERSION1\Drivers\board.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:03:34:  eSpace
+15:03:39:  于斌1
+15:03:49:  锁屏状态
+15:03:59:  D:\CRS\KE18-VERSION1\Cpu\system_MKE18F16.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:04:04:  D:\CRS\KE18-VERSION1\Rtos\RTT\rtconfig.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:04:14:  于斌1
+15:05:09:  D:\CRS\KE18-VERSION1\Drivers\board.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:05:49:  于斌1
+15:06:44:  D:\CRS\KE18-VERSION1\Drivers\board.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:07:04:  D:\CRS\KE18-VERSION1\Cpu\system_MKE18F16.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:07:09:  D:\CRS\KE18-VERSION1\Drivers\board.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:07:39:  D:\CRS\KE18-VERSION1\Rtos\RtosApi\os_systick_demo1.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:07:54:  D:\CRS\KE18-VERSION1\Drivers\board.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:07:59:  ImpellerCtrl.c - TortoiseMerge
+15:08:04:  https://m.weibo.cn/api/container/getIndex?uid=5619027674&luicode=10000011&lfid=100103type%3D1%26q%3D我叫张大爷&type=uid&value=5619027674&containerid=1076035619027674 - Google Chrome
+15:08:09:  ImpellerCtrl.c - TortoiseMerge
+15:09:09:  于斌1
+15:09:14:  程明昌
+15:09:19:  eSpace
+15:09:24:  于斌1
+15:10:09:  程明昌
+15:10:19:  于斌1
+15:10:49:  程明昌
+15:11:24:  于斌1
+15:11:39:  ImpellerCtrl.c - TortoiseMerge
+15:11:49:  于斌1
+15:11:54:  eSpace
+15:12:04:  于斌1
+15:12:14:  程明昌
+15:12:19:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+15:12:49:  于斌1
+15:15:49:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+15:16:09:  于斌1
+15:16:19:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+15:16:34:  于斌1
+15:16:39:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+15:17:19:  于斌1
+15:17:24:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+15:19:44:  ID-21 DRB5#钞箱下腔反向盘点报1T2下层托板 托板移动到堆钞位置，到位超时，返回码03220401
+15:19:49:  5元1元各300张随机混合，执行大额存款报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B
+15:19:59:  Decode
+15:20:04:  K64_BTCR-1100200600510420_20210103114150
+15:20:09:  Box_3__BTCR-1100200600510420_20210103114150.log - DRB.tat* - TextAnalysisTool.NET
+15:20:19:  eSpace
+15:20:24:  姚世龙
+15:20:59:  eSpace
+15:21:04:  窦志远
+15:21:19:  Box_3__BTCR-1100200600510420_20210103114150.log - DRB.tat* - TextAnalysisTool.NET
+15:21:34:  于斌1
+15:21:44:  绩效申请 - Internet Explorer
+15:21:59:  于斌1
+15:22:24:  绩效申请 - Internet Explorer
+15:22:39:  于斌1
+15:22:44:  eSpace
+15:22:49:  绩效申请 - Internet Explorer
+15:22:59:  eSpace
+15:23:09:  绩效申请 - Internet Explorer
+15:27:24:  LogExpert - D:\fenxi\6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。\Decode\LOG\K64_BTCR-1100200700510494_20201228152024\K64-_BTCR-1100200700510494_20201228152024.log
+15:27:29:  绩效申请 - Internet Explorer
+15:27:44:  窦志远
+15:27:54:  于斌1
+15:28:09:  窦志远
+15:28:24:  姚世龙
+15:28:29:  程明昌
+15:28:34:  姚世龙
+15:28:54:  eSpace
+15:28:59:  程明昌
+15:29:09:  锁屏状态
+15:29:14:  绩效申请 - Internet Explorer
+15:29:29:  程明昌
+15:29:44:  绩效申请 - Internet Explorer
+15:28:09:  窦志远
+15:28:24:  姚世龙
+15:28:29:  程明昌
+15:28:34:  姚世龙
+15:28:54:  eSpace
+15:28:59:  程明昌
+15:29:09:  锁屏状态
+15:29:14:  绩效申请 - Internet Explorer
+15:29:29:  程明昌
+15:29:44:  绩效申请 - Internet Explorer
+15:30:49:  程明昌
+15:31:09:  绩效申请 - Internet Explorer
+15:33:34:  eSpace
+15:33:39:  绩效申请 - Internet Explorer
+15:33:49:  https://m.weibo.cn/api/container/getIndex?uid=5619027674&luicode=10000011&lfid=100103type%3D1%26q%3D我叫张大爷&type=uid&value=5619027674&containerid=1076035619027674 - Google Chrome
+15:33:54:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+15:37:04:  TheDateInfo.xls  [兼容模式] - Excel
+15:37:54:  2-财务分配 - 张开发 - 印象笔记
+15:37:59:  0-工作 - 张开发 - 印象笔记
+15:39:29:  eSpace
+15:39:44:  Box_3__BTCR-1100200600510420_20210103114150.log - DRB.tat* - TextAnalysisTool.NET
+15:39:59:  计算器
+15:40:09:  Box_3__BTCR-1100200600510420_20210103114150.log - DRB.tat* - TextAnalysisTool.NET
+15:40:14:  荆文波
+15:40:59:  绩效申请 - Internet Explorer
+15:43:49:  【通知】幼儿园发票
+15:44:14:  绩效申请 - Internet Explorer
+15:44:14:  绩效申请 - Internet Explorer
+15:47:44:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+15:51:04:  0-工作 - 张开发 - 印象笔记
+15:51:09:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+15:53:24:  eSpace
+15:53:29:  于斌1
+15:53:34:  新建文本文档1.py (已删除) - DRB-NearFull - Visual Studio Code [管理员]
+15:53:39:  fenxi
+15:53:44:  新建文件夹 (3)
+15:53:49:  updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)
+15:54:34:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+15:55:19:  百度一下，你就知道 - Google Chrome
+15:55:24:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+15:58:14:  Decode
+15:58:19:  Box_3__BTCR-1100200600510420_20210103114150.log - DRB.tat* - TextAnalysisTool.NET
+15:58:29:  K64_BTCR-1100200600510420_20210103114038
+15:58:34:  Box_3__BTCR-1100200600510420_20210103114038.log - DRB.tat* - TextAnalysisTool.NET
+15:58:14:  Decode
+15:58:19:  Box_3__BTCR-1100200600510420_20210103114150.log - DRB.tat* - TextAnalysisTool.NET
+15:58:29:  K64_BTCR-1100200600510420_20210103114038
+15:58:34:  Box_3__BTCR-1100200600510420_20210103114038.log - DRB.tat* - TextAnalysisTool.NET
+16:00:15:  锁屏状态
+16:00:20:  百度一下，你就知道 - Google Chrome
+16:00:30:  python字符串只保留汉字_u012155582的专栏-CSDN博客 - Google Chrome
+16:00:40:  (3条消息) python字符串只保留汉字_u012155582的专栏-CSDN博客 - Google Chrome
+16:00:45:  (3条消息) Python 字符串只保留汉字_lxx199603的博客-CSDN博客_python 只保留汉字 - Google Chrome
+16:01:05:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:01:10:  新建文件夹 (3)
+16:01:15:  *updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)*
+16:01:40:  *Python 3.7.3 Shell*
+16:01:45:  updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)
+16:01:55:  *Python 3.7.3 Shell*
+16:02:05:  Kill?
+16:02:10:  updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)
+16:02:15:  *Python 3.7.3 Shell*
+16:02:20:  updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)
+16:02:35:  *Python 3.7.3 Shell*
+16:02:45:  Python 3.7.3 Shell
+16:02:50:  *Python 3.7.3 Shell*
+16:03:00:  updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)
+16:03:25:  *updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)*
+16:03:30:  Python 3.7.3 Shell
+16:03:35:  *Python 3.7.3 Shell*
+16:03:40:  updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)
+16:04:05:  python 只汉字_百度搜索 - Google Chrome
+16:04:15:  (3条消息) python只匹配字符串中的中文以及数字和标点_human_soul的博客-CSDN博客 - Google Chrome
+16:04:35:  updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)
+16:04:40:  *updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)*
+16:05:05:  *Python 3.7.3 Shell*
+16:05:15:  *updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)*
+16:05:20:  *Python 3.7.3 Shell*
+16:05:25:  Kill?
+16:05:30:  updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)
+16:05:40:  *updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)*
+16:05:55:  *Python 3.7.3 Shell*
+16:06:00:  updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)
+16:06:05:  *updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)*
+16:06:10:  *Python 3.7.3 Shell*
+16:06:15:  updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)
+16:06:20:  跳转列表
+16:06:25:  updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)
+16:06:35:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+16:08:25:  Box_3__BTCR-1100200600510420_20210103114038.log - DRB.tat* - TextAnalysisTool.NET
+16:09:25:  于斌1
+16:21:20:  Box_3__BTCR-1100200600510420_20210103114038.log - DRB.tat* - TextAnalysisTool.NET
+16:21:25:  本地磁盘 (D:)
+16:21:30:  新建文件夹
+16:21:35:  本地磁盘 (E:)
+16:21:40:  深圳出差
+16:21:45:  gfgd
+16:21:50:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+16:22:20:  TrackClear.c Revision 855 - TortoiseMerge
+16:22:25:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+16:22:30:  CashBoxModuleApp.c Revision 851 - TortoiseMerge
+16:22:35:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+16:22:40:  eSpace
+16:22:45:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+16:22:50:  D:\00-06\meger\Applications\HistoryRecord\HistoryRecord.c (meger) - Sublime Text (UNREGISTERED)
+16:23:00:  荆文波
+16:25:55:  D:\00-06\meger\Applications\HistoryRecord\HistoryRecord.c (meger) - Sublime Text (UNREGISTERED)
+16:27:05:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:27:10:  D:\00-06\meger\Applications\HistoryRecord\HistoryRecord.c (meger) - Sublime Text (UNREGISTERED)
+16:27:15:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:27:35:  D:\00-KE64\94d\Applications\CanComm\CashBoxComm\CashBoxComm.c (94d) - Sublime Text (UNREGISTERED)
+16:27:55:  D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+16:29:55:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:30:00:  LowerPlate.h - DRB-NearFull - Visual Studio Code [管理员]
+16:29:55:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:30:00:  LowerPlate.h - DRB-NearFull - Visual Studio Code [管理员]
+16:30:05:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:30:20:  ● LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:30:50:  D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+16:31:00:  绩效申请 - Internet Explorer
+16:31:20:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+16:31:40:  ComponentCtrl.c Revision 846 - TortoiseMerge
+16:31:50:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+16:32:00:  D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+16:34:55:  TheDateInfo.xls  [兼容模式] - Excel
+16:37:50:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:38:10:  CashBoxInfo.h - DRB-NearFull - Visual Studio Code [管理员]
+16:38:15:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:38:20:  Box_3__BTCR-1100200600510420_20210103114038.log - DRB.tat* - TextAnalysisTool.NET
+16:38:30:  K64_BTCR-1100200600510420_20210103113949
+16:38:35:  K64_BTCR-1100200600510420_20210103114038
+16:38:40:  Box_3__BTCR-1100200600510420_20210103114038.log - DRB.tat* - TextAnalysisTool.NET
+16:40:50:  于斌1
+16:41:15:  Box_3__BTCR-1100200600510420_20210103114038.log - DRB.tat* - TextAnalysisTool.NET
+16:41:20:  eSpace
+16:41:35:  于斌1
+16:42:00:  印象笔记
+16:42:05:  0-工作 - 张开发 - 印象笔记
+16:42:10:  Box_3__BTCR-1100200600510420_20210103114038.log - DRB.tat* - TextAnalysisTool.NET
+16:42:15:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+16:42:20:  Box_3__BTCR-1100200600510420_20210103114038.log - DRB.tat* - TextAnalysisTool.NET
+16:42:30:  于斌1
+16:42:55:  Box_3__BTCR-1100200600510420_20210103114038.log - DRB.tat* - TextAnalysisTool.NET
+16:44:50:  荆文波
+16:44:50:  荆文波
+16:45:50:  TheDateInfo.xls  [兼容模式] - Excel
+16:45:55:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+16:46:05:  荆文波
+16:46:15:  锁屏状态
+16:46:20:  Box_3__BTCR-1100200600510420_20210103114038.log - DRB.tat* - TextAnalysisTool.NET
+16:46:30:  荆文波
+16:46:35:  Box_3__BTCR-1100200600510420_20210103114038.log - DRB.tat* - TextAnalysisTool.NET
+16:46:45:  于斌1
+16:47:15:  荆文波
+16:47:25:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+16:47:30:  荆文波
+16:47:35:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+16:47:40:  于斌1
+16:48:40:  荆文波
+16:49:15:  于斌1
+16:49:25:  D:\CRS\KE18-VERSION1\Drivers\board.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+16:49:35:  D:\CRS\KE18-VERSION1\Applications\SensorCheck\SensorCheck.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+16:49:40:  D:\CRS\KE18-VERSION1\Applications\SensorCheck\SensorCheck.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+16:49:55:  于斌1
+16:50:20:  D:\CRS\KE18-VERSION1\Applications\SensorCheck\SensorCheck.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+16:50:55:  于斌1
+16:51:05:  计算器
+16:51:50:  于斌1
+16:52:20:  计算器
+16:52:25:  D:\CRS\KE18-VERSION1\Applications\SensorCheck\SensorCheck.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+16:53:45:  荆文波
+16:53:50:  D:\CRS\KE18-VERSION1\Applications\SensorCheck\SensorCheck.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+16:56:10:  D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+16:56:15:  0-工作 - 张开发 - 印象笔记
+16:57:20:  新建文本文档.exe - 快捷方式
+16:57:25:  印象笔记
+16:57:30:  0-工作 - 张开发 - 印象笔记
+16:58:10:  印象笔记
+16:58:15:  0 通道传感器 RSC01 - 印象笔记
+16:59:50:  CHUA - 印象笔记
+16:59:55:  0-工作 - 张开发 - 印象笔记
+16:58:10:  印象笔记
+16:58:15:  0 通道传感器 RSC01 - 印象笔记
+16:59:50:  CHUA - 印象笔记
+16:59:55:  0-工作 - 张开发 - 印象笔记
+17:00:05:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+17:00:55:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.h • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+17:01:35:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+17:01:40:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+17:01:45:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+17:02:35:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+17:02:45:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+17:02:50:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+17:03:20:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+17:03:25:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+17:03:35:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+17:04:25:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+17:04:30:  锁屏状态
+17:32:21:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+17:32:26:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:32:41:  C:\Program Files\TortoiseSVN\bin\SubWCRev.exe
+17:32:46:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:33:41:  06- 刘建生
+17:33:46:  CRS
+17:33:51:  文件正在使用
+17:33:56:  20200909_CRS内部指令手册_V0.1.xlsx  [受保护的视图] - Excel
+17:34:36:  20200909_CRS内部指令手册_V0.1.xlsx  [只读] - Excel
+17:35:46:  锁屏状态
+17:35:51:  0-工作 - 张开发 - 印象笔记
+17:49:26:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+17:49:56:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+17:51:01:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+17:51:16:  gfgd
+17:51:21:  KE18-VERSION1
+17:51:26:  D:\CRS\KE18-VERSION1 - 提交 - TortoiseSVN
+17:51:31:  SeparatorCtrl.h - TortoiseMerge
+17:51:36:  SeparatorCtrl.c - TortoiseMerge
+17:51:46:  D:\CRS\KE18-VERSION1 - 提交 - TortoiseSVN
+18:05:06:  μVision
+18:05:11:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+18:05:16:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+18:05:21:  TCR调测工具 V3.36
+18:05:31:  V1.014
+18:05:36:  CRS调测工具（研发版）V1.0.2.1
+18:05:51:  打开
+18:05:56:  CRS调测工具（研发版）V1.0.2.1
+18:06:26:  本地磁盘 (E:)
+18:06:31:  SECSplashWnd
+18:06:36:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+18:07:16:  Project
+18:07:26:  CRS调测工具（研发版）V1.0.2.1
+18:07:46:  打开
+18:07:56:  CRS调测工具（研发版）V1.0.2.1
+18:08:16:  发送指令到K18
+18:08:36:  CRS调测工具（研发版）V1.0.2.1
+18:08:46:  发送指令到K18
+18:09:01:  CRS调测工具（研发版）V1.0.2.1
+18:09:11:  Project
+18:09:26:  指令集
+18:09:41:  Excel
+18:09:46:  20200909_CRS内部指令手册_V0.1.xlsx  [只读] - Excel
+18:09:51:  Microsoft Excel
+18:09:56:  指令集
+18:10:01:  文件正在使用
+18:10:06:  指令集
+18:10:11:  CRS调测工具（研发版）V1.0.2.1
+18:10:16:  TCRControlCmdDLL
+18:10:21:  20210112
+18:10:26:  Box_3__BTCR-1100200600510420_20210103114038.log - DRB.tat* - TextAnalysisTool.NET
+18:10:31:  CS_0000_20210112180530.log - DRB.tat* - TextAnalysisTool.NET
+18:10:46:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+18:10:56:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+18:11:06:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+18:11:21:  本地磁盘 (D:)
+18:11:26:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+18:11:31:  打开
+18:11:36:  CRS调测工具（研发版）V1.0.2.1
+18:11:51:  发送指令到K18
+18:11:56:  CRS调测工具（研发版）V1.0.2.1
+18:12:36:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+18:13:06:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+18:13:11:  发送指令到K18
+18:13:16:  CRS调测工具（研发版）V1.0.2.1
+18:13:31:  发送指令到K18
+18:13:46:  CRS调测工具（研发版）V1.0.2.1
+18:13:51:  20210112
+18:13:56:  CS_0000_20210112180530.log - DRB.tat* - TextAnalysisTool.NET
+18:14:41:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+18:14:41:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+18:15:06:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+18:15:11:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+18:15:16:  CS_0000_20210112180530.log - DRB.tat* - TextAnalysisTool.NET
+18:15:36:  μVision
+18:15:41:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+18:15:46:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+18:16:01:  CRS调测工具（研发版）V1.0.2.1
+18:16:21:  发送指令到K18
+18:16:26:  CRS调测工具（研发版）V1.0.2.1
+18:16:31:  Tools
+18:16:36:  20210112
+18:16:41:  CS_0000_20210112180530.log - DRB.tat* - TextAnalysisTool.NET
+18:18:21:  吉哲
+18:18:26:  20210112
+18:18:31:  指令集
+18:18:36:  Microsoft Excel
+18:18:41:  D:\CRS\KE18-VERSION1 - 提交 - TortoiseSVN
+18:18:46:  ImpellerCtrl.c - TortoiseMerge
+18:19:01:  D:\CRS\KE18-VERSION1 - 提交 - TortoiseSVN
+18:19:06:  SeparatorCtrl.c - TortoiseMerge
+18:19:16:  历史记录
+18:19:21:  D:\CRS\KE18-VERSION1 - 提交 - TortoiseSVN
+18:23:21:  KE18-VERSION1
+18:23:26:  吉哲
+18:23:31:  D:\CRS\KE18-VERSION1 - 提交 - TortoiseSVN
+18:25:06:  ImpellerCtrl.c - TortoiseMerge
+18:25:11:  SeparatorCtrl.c - TortoiseMerge
+18:25:21:  提交
+18:25:31:  文件正在使用
+18:25:36:  TheDateInfo.xls  [兼容模式] - Excel
+18:25:46:  指令集
+18:26:16:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+18:26:26:  锁屏状态
+18:26:31:  D:\CRS\KE18-VERSION1 - 日志信息 - TortoiseSVN
+18:26:36:  KE18-VERSION1
+18:26:41:  指令集
+18:26:46:  文件正在使用
+18:26:56:  指令集
+18:27:11:  TheDateInfo.xls  [兼容模式] - Excel
+18:27:16:  20200909_CRS内部指令手册_V0.1.xlsx  [受保护的视图] - Excel
+18:27:21:  指令集
+18:27:26:  20200909_CRS内部指令手册_V0.1.xlsx  [受保护的视图] - Excel
+18:27:31:  20200909_CRS内部指令手册_V0.1.xlsx - Excel
+18:28:56:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+18:29:11:  20200909_CRS内部指令手册_V0.1.xlsx - Excel
+18:29:41:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+18:29:46:  20200909_CRS内部指令手册_V0.1.xlsx - Excel
+18:28:56:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+18:29:11:  20200909_CRS内部指令手册_V0.1.xlsx - Excel
+18:29:41:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+18:29:46:  20200909_CRS内部指令手册_V0.1.xlsx - Excel
+18:30:21:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+18:30:31:  20200909_CRS内部指令手册_V0.1.xlsx - Excel
+18:31:26:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+18:31:31:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+18:31:36:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+18:31:41:  20200909_CRS内部指令手册_V0.1.xlsx - Excel
+18:31:46:  员工自助 - Internet Explorer
+18:31:56:  Employee-facing registry content - Internet Explorer
+18:32:01:  绩效申请 - Internet Explorer
+18:35:36:  Internet Explorer
+18:35:41:  20200909_CRS内部指令手册_V0.1.xlsx - Excel
+18:35:46:  eSpace
+18:35:56:  D:\CRS\KE18-VERSION1 - 日志信息 - TortoiseSVN
+18:36:01:  KE18-VERSION1
+18:38:46:  锁屏状态

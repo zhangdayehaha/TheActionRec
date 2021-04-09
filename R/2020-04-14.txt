@@ -1,0 +1,6 @@
+2020-04-14 15:31:26-- 16:00:01     :    一  ：TCR调测工具 V3.36   134/11.1分钟       二  ：固件设计中心   48/4.0分钟     三  ：Box_1__0000_20200414153414.log - [No filter file]* - TextAnalysisTool.NET   41/3.41分钟
+2020-04-14 16:00:01-- 16:30:01     :    一  ：eSpace   186/15.5分钟       二  ：StarUML - 3.uml   71/5.91分钟     三  ：   31/2.58分钟
+2020-04-14 16:30:01-- 17:00:02     :    一  ：TCR调测工具 V3.36   145/12.0分钟       二  ：eSpace   82/6.83分钟     三  ：   75/6.25分钟
+2020-04-14 17:00:02-- 17:30:02     :    一  ：Box_1__BTCR-1100190900100002_20200414144251.log - [No filter file]* - TextAnalysisTool.NET   87/7.25分钟       二  ：TCR调测工具 V3.36   67/5.58分钟     三  ：D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)   29/2.41分钟
+2020-04-14 17:30:02-- 18:00:02     :    一  ：   144/12.0分钟       二  ：TCR调测工具 V3.36   142/11.8分钟     三  ：Box_2__0000_20200414173117.log - K64状态机分析2.tat* - TextAnalysisTool.NET   28/2.33分钟
+2020-04-14 18:00:02-- 18:30:02     :    一  ：TCR调测工具 V3.36   47/3.91分钟       二  ：DRB托板准备时间.xlsx - Excel   12/1.0分钟     三  ：StarUML - 3.uml   8/0.66分钟

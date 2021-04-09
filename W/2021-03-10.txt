@@ -1,0 +1,874 @@
+07:56:21:  桌面整理
+07:56:31:  DRB测试--3.9日
+07:57:11:  查找
+07:57:26:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManage.h (10) - Sublime Text (UNREGISTERED)
+07:57:41:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+07:57:51:  D:\00-KE64\10\Middlewares\ErrorCode\ErrorCode.h (10) - Sublime Text (UNREGISTERED)
+07:57:56:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+07:58:06:  DRB测试--3.9日
+07:58:16:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+07:58:06:  DRB测试--3.9日
+07:58:16:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+08:07:46:  锁屏状态
+08:08:01:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+08:26:07:  桌面整理
+08:26:12:  个性化
+08:26:17:  屏幕保护程序设置
+08:26:22:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+08:39:47:  锁屏状态
+08:39:52:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+08:40:27:  新建文本文档.exe - 快捷方式
+08:40:32:  锁屏状态
+08:44:12:  「开始」菜单
+08:44:22:  桌面整理
+08:44:32:  「开始」菜单
+08:44:37:  桌面整理
+08:44:42:  新建文本文档.exe - 快捷方式
+08:44:47:  Foxmail
+08:45:02:  新北洋安全助手
+08:44:12:  「开始」菜单
+08:44:22:  桌面整理
+08:44:32:  「开始」菜单
+08:44:37:  桌面整理
+08:44:42:  新建文本文档.exe - 快捷方式
+08:44:47:  Foxmail
+08:45:02:  新北洋安全助手
+08:45:47:  Foxmail
+08:46:07:  fenxi
+08:46:12:  港币10元居左混合面向大额取款报钞箱口 500ms纸币未进入 返回码0X075E0900
+08:46:17:  Decode
+08:46:22:  K64_BTCR-1100200600510420_20210310083724.log - DRB.tat - TextAnalysisTool.NET
+08:47:17:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:47:27:  K64_BTCR-1100200600510420_20210310083724.log - DRB.tat - TextAnalysisTool.NET
+08:48:17:  本地磁盘 (D:)
+08:48:22:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+08:48:27:  Decode
+08:48:32:  K64_BTCR-1100200600510420_20210310083724.log - DRB.tat - TextAnalysisTool.NET
+08:49:37:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:49:42:  锁屏状态
+08:49:47:  K64_BTCR-1100200600510420_20210310083724.log - DRB.tat - TextAnalysisTool.NET
+08:50:37:  锁屏状态
+08:50:42:  BTCRTestTool V3.36
+09:00:47:  删除多个项目
+09:00:52:  Decode
+09:00:57:  K64_0000_20210310085914.log - DRB.tat - TextAnalysisTool.NET
+09:01:32:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210309\Decode\LOG\K64_0000_20210309152424\Box_4__0000_20210309152424.log (DRB) - Sublime Text (UNREGISTERED)
+09:01:37:  D:\00-06\DRB\Applications\ErrCode\ErrCode.h (DRB) - Sublime Text (UNREGISTERED)
+09:01:52:  锁屏状态
+09:01:57:  D:\00-06\DRB\Applications\ErrCode\ErrCode.h (DRB) - Sublime Text (UNREGISTERED)
+09:02:02:  D:\00-06\DRB\Applications\Separate\Separate.c (DRB) - Sublime Text (UNREGISTERED)
+09:02:12:  TCR调测工具 V3.36
+09:02:17:  锁屏状态
+09:02:52:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+09:02:57:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:03:17:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+09:03:27:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:03:37:  20210309
+09:03:42:  本地磁盘 (D:)
+09:03:47:  10
+09:03:52:  D:\00-KE64\10\Tools\CreateJK.exe
+09:03:57:  Tools
+09:04:02:  锁屏状态
+09:05:27:  Decode
+09:05:32:  新建文件夹
+09:05:37:  Decode
+09:05:42:  K64_0000_20210310090500
+09:05:47:  K64-_0000_20210310090500.log - DRB.tat - TextAnalysisTool.NET
+09:06:02:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:06:42:  Add Filter
+09:06:47:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:06:52:  锁屏状态
+09:06:57:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:07:42:  Tools
+09:07:52:  锁屏状态
+09:08:27:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:08:32:  D:\00-06\DRB\Applications\Separate\Separate.c (DRB) - Sublime Text (UNREGISTERED)
+09:08:57:  TCR调测工具 V3.36
+09:09:02:  锁屏状态
+09:09:27:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+09:09:32:  Decode
+09:09:37:  K64_0000_20210310090907
+09:09:42:  Add Filter
+09:09:47:  K64-_0000_20210310090907.log - DRB.tat - TextAnalysisTool.NET
+09:10:02:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:10:17:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+09:10:27:  Tools
+09:10:32:  D:\00-KE64\10\Tools\JMConvertOld\Convert.exe
+09:10:37:  D:\00-KE64\10\Tools\CreateJK.exe
+09:10:42:  Tools
+09:10:52:  锁屏状态
+09:12:52:  K64_0000_20210310090500
+09:12:57:  Decode
+09:13:02:  TCR调测工具 V3.36
+09:13:12:  锁屏状态
+09:13:17:  TCR调测工具 V3.36
+09:13:22:  K64_0000_20210310091236
+09:13:27:  K64-_0000_20210310091236.log - DRB.tat - TextAnalysisTool.NET
+09:13:37:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:14:32:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:14:37:  D:\00-KE64\10\Tools\CreateJK.exe
+09:14:42:  Tools
+09:14:47:  锁屏状态
+09:14:32:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:14:37:  D:\00-KE64\10\Tools\CreateJK.exe
+09:14:42:  Tools
+09:14:47:  锁屏状态
+09:16:02:  Decode
+09:16:12:  K64_0000_20210310091532
+09:16:17:  K64-_0000_20210310091532.log - DRB.tat - TextAnalysisTool.NET
+09:16:22:  Add Filter
+09:16:32:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:16:47:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:16:57:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:17:12:  D:\00-KE64\10\Tools\CreateJK.exe
+09:17:17:  Tools
+09:17:22:  锁屏状态
+09:18:32:  BTCRTestTool V3.36
+09:18:42:  删除多个项目
+09:18:47:  Decode
+09:18:52:  K64_0000_20210310091809.log - DRB.tat - TextAnalysisTool.NET
+09:19:07:  锁屏状态
+09:19:12:  Decode
+09:19:17:  K64_0000_20210310090907
+09:19:22:  K64_0000_20210310091809.log - DRB.tat - TextAnalysisTool.NET
+09:20:12:  锁屏状态
+09:20:47:  taskeng.exe
+09:20:52:  Decode
+09:20:57:  K64_0000_20210310092033
+09:21:02:  K64-_0000_20210310092033.log - DRB.tat - TextAnalysisTool.NET
+09:21:17:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:22:22:  Tools
+09:22:27:  00-06
+09:22:32:  Tools
+09:22:47:  D:\00-06\DRB\Tools\CreateJK.exe
+09:22:52:  锁屏状态
+09:30:18:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:30:43:  K64-_0000_20210310092033.log - DRB.tat - TextAnalysisTool.NET
+09:30:48:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:31:03:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+09:31:08:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:31:43:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:31:53:  10
+09:31:58:  D:\00-KE64\10\Tools\CreateJK.exe
+09:32:03:  锁屏状态
+09:33:08:  Tools
+09:33:13:  K64_0000_20210310091532
+09:33:18:  Decode
+09:33:23:  Visual Studio Code
+09:33:28:  Decode
+09:33:33:  K64_0000_20210310093255.log - DRB.tat - TextAnalysisTool.NET
+09:33:38:  锁屏状态
+09:33:43:  K64_0000_20210310093255.log - DRB.tat - TextAnalysisTool.NET
+09:33:53:  锁屏状态
+09:34:08:  删除文件
+09:34:13:  Decode
+09:34:18:  K64_0000_20210310093255.log - DRB.tat - TextAnalysisTool.NET
+09:34:38:  锁屏状态
+09:35:28:  Decode
+09:35:38:  K64_0000_20210310093506.log - DRB.tat - TextAnalysisTool.NET
+09:35:53:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:36:13:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:36:18:  Tools
+09:36:23:  D:\00-KE64\10\Tools\CreateJK.exe
+09:36:33:  Tools
+09:36:38:  锁屏状态
+09:37:48:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:37:58:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.h (10) - Sublime Text (UNREGISTERED)
+09:38:08:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:38:33:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+09:38:48:  D:\00-KE64\10\Applications\FlowControl\TrackSelector\SelModuleIF.h (10) - Sublime Text (UNREGISTERED)
+09:38:53:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+09:38:58:  锁屏状态
+09:39:08:  Tools
+09:39:13:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (gfgd) - Sublime Text (UNREGISTERED)
+09:39:18:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:39:28:  Tools
+09:39:33:  D:\00-KE64\10\Tools\CreateJK.exe
+09:39:38:  锁屏状态
+09:40:33:  Tools
+09:40:38:  Decode
+09:40:48:  锁屏状态
+09:41:38:  K64_0000_20210310094021.log - DRB.tat - TextAnalysisTool.NET
+09:41:43:  Decode
+09:41:48:  K64_0000_20210310094130.log - DRB.tat - TextAnalysisTool.NET
+09:41:53:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:41:58:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:42:03:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:42:08:  D:\00-KE64\10\Applications\FlowControl\TrackSelector\SelModuleIF.h (10) - Sublime Text (UNREGISTERED)
+09:42:13:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:43:03:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:43:18:  D:\00-KE64\10\Tools\CreateJK.exe
+09:43:23:  锁屏状态
+09:44:43:  转发: DRB测试--3.9日
+09:44:48:  回复: 转发: DRB测试--3.9日 - 写邮件
+09:44:43:  转发: DRB测试--3.9日
+09:44:48:  回复: 转发: DRB测试--3.9日 - 写邮件
+09:45:48:  回复: 转发: DRB测试--3.9日 - 写邮件   09:45:43 已保存
+09:45:53:  5.18 传感器测试v1.1.xlsx - Excel
+09:45:58:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:46:08:  Decode
+09:46:18:  K64_0000_20210310094421.log - DRB.tat - TextAnalysisTool.NET
+09:47:13:  锁屏状态
+09:47:38:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:48:08:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+09:48:13:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:48:18:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:48:28:  本地磁盘 (D:)
+09:48:33:  D:\00-KE64\10\Tools\CreateJK.exe
+09:48:38:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:48:43:  锁屏状态
+09:48:48:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:48:53:  D:\00-KE64\10\Tools\CreateJK.exe
+09:48:58:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:49:03:  锁屏状态
+09:50:08:  Decode
+09:50:13:  K64_0000_20210310094947.log - DRB.tat - TextAnalysisTool.NET
+09:50:23:  Decode
+09:50:28:  锁屏状态
+09:51:18:  新建文件夹
+09:51:28:  K64_0000_20210310095102
+09:51:33:  Box_1__0000_20210310095102.log - DRB.tat - TextAnalysisTool.NET
+09:51:53:  锁屏状态
+09:51:58:  D:\00-06\DRB\Applications\Separate\Separate.c (DRB) - Sublime Text (UNREGISTERED)
+09:52:03:  Box_1__0000_20210310095102.log - DRB.tat - TextAnalysisTool.NET
+09:52:08:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+09:52:18:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+09:52:28:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+09:52:33:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+09:52:38:  D:\00-06\DRB\Applications\Separate\Separate.c (DRB) - Sublime Text (UNREGISTERED)
+09:52:43:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+09:53:23:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (DRB) - Sublime Text (UNREGISTERED)
+09:53:28:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+09:55:03:  锁屏状态
+09:58:43:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:58:48:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+09:59:03:  Add Filter
+09:59:08:  Box_1__0000_20210310095102.log - DRB.tat - TextAnalysisTool.NET
+09:59:13:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+09:59:18:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:59:23:  D:\00-KE64\10\Applications\FlowControl\TrackMotor\MotorModuleIF.c • (10) - Sublime Text (UNREGISTERED)
+09:59:28:  D:\00-KE64\10\Applications\FlowControl\TrackMotor\MotorDriver.c (10) - Sublime Text (UNREGISTERED)
+09:59:53:  D:\00-KE64\10\Applications\FlowControl\TrackMotor\MotorDriver.h (10) - Sublime Text (UNREGISTERED)
+10:00:03:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:58:43:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:58:48:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+09:59:03:  Add Filter
+09:59:08:  Box_1__0000_20210310095102.log - DRB.tat - TextAnalysisTool.NET
+09:59:13:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+09:59:18:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:59:23:  D:\00-KE64\10\Applications\FlowControl\TrackMotor\MotorModuleIF.c • (10) - Sublime Text (UNREGISTERED)
+09:59:28:  D:\00-KE64\10\Applications\FlowControl\TrackMotor\MotorDriver.c (10) - Sublime Text (UNREGISTERED)
+09:59:53:  D:\00-KE64\10\Applications\FlowControl\TrackMotor\MotorDriver.h (10) - Sublime Text (UNREGISTERED)
+10:00:03:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:00:08:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c • (10) - Sublime Text (UNREGISTERED)
+10:00:13:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:00:23:  Tools
+10:00:33:  锁屏状态
+10:06:58:  K64_0000_20210310095102
+10:07:03:  新建文件夹
+10:07:08:  Decode
+10:07:13:  K64_0000_20210310100506
+10:07:18:  K64-_0000_20210310100506.log - DRB.tat - TextAnalysisTool.NET
+10:07:23:  锁屏状态
+10:07:48:  K64-_0000_20210310100506.log - DRB.tat - TextAnalysisTool.NET
+10:07:58:  计算器
+10:08:03:  K64-_0000_20210310100506.log - DRB.tat - TextAnalysisTool.NET
+10:08:08:  锁屏状态
+10:09:58:  Decode
+10:10:08:  K64_0000_20210310100941
+10:10:13:  Box_1__0000_20210310100941.log - DRB.tat - TextAnalysisTool.NET
+10:10:33:  锁屏状态
+10:19:28:  Box_1__0000_20210310100941.log - DRB.tat - TextAnalysisTool.NET
+10:19:33:  锁屏状态
+10:28:18:  Box_1__0000_20210310100941.log - DRB.tat - TextAnalysisTool.NET
+10:28:53:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:28:58:  锁屏状态
+10:29:03:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+10:28:18:  Box_1__0000_20210310100941.log - DRB.tat - TextAnalysisTool.NET
+10:28:53:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:28:58:  锁屏状态
+10:29:03:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+10:30:08:  D:\00-KE64\10\Applications\FlowControl\TrackMotor\MotorDriver.h (10) - Sublime Text (UNREGISTERED)
+10:30:18:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+10:31:43:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:33:08:  Watch 1
+10:33:13:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:33:18:  KE06LOG.bat - 快捷方式 (2)
+10:33:23:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:33:33:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103101033.log
+10:34:03:  DRB测试--3.9日
+10:36:38:  EXTFEDU6V13.PDF
+10:36:43:  EXTFEDU6V13.PDF - Adobe Reader
+10:40:43:  DRB连接线线序20201222-改.xlsx
+10:41:43:  EXTFEDU6V13.PDF - Adobe Reader
+11:16:04:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+11:16:24:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (DRB) - Sublime Text (UNREGISTERED)
+11:16:29:  Box_1__0000_20210310100941.log - DRB.tat - TextAnalysisTool.NET
+11:16:34:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+11:16:54:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+11:19:59:  新标签页 - Google Chrome
+11:20:19:  www.baidu.com - Google Chrome
+11:20:24:  百度一下，你就知道 - Google Chrome
+11:21:39:  检测到声音就录音_百度搜索 - Google Chrome
+11:21:49:  ios 检测到声音就录音_百度搜索 - Google Chrome
+11:21:54:  ios 录音 app_百度搜索 - Google Chrome
+11:22:04:  录音，iPhone 上强大好用的软件 - 知乎 - Google Chrome
+11:23:25:  无标题 - Google Chrome
+11:23:30:  (15 封私信 / 80 条消息) ios有没有好用的录音app? - 知乎 - Google Chrome
+11:23:35:  ios 录音 app_百度搜索 - Google Chrome
+11:25:25:  计算器
+11:28:15:  ios 录音 app_百度搜索 - Google Chrome
+11:28:25:  (15 封私信 / 80 条消息) iOS 有哪些录音 App 可以推荐？ - 知乎 - Google Chrome
+11:28:35:  ios 录音 app_百度搜索 - Google Chrome
+11:28:40:  ios 录音 一天的_百度搜索 - Google Chrome
+11:28:50:  https://www.baidu.com/link?url=AMuURNTGkCXM0hfFnIi-sEnaUYE3mkH2iAyx74n9FzD0ELr8o1W7UmfEDs_3niuCY_HZ3nmIqrKxY08APpaEA_yj9BPWaB05p19scLK9JB_&wd=&eqid=b846105d0003e4c60000000260483ce8 - Google Chrome
+11:28:55:  苹果手机录音可以录多久-百度经验 - Google Chrome
+11:29:45:  计算器
+11:28:15:  ios 录音 app_百度搜索 - Google Chrome
+11:28:25:  (15 封私信 / 80 条消息) iOS 有哪些录音 App 可以推荐？ - 知乎 - Google Chrome
+11:28:35:  ios 录音 app_百度搜索 - Google Chrome
+11:28:40:  ios 录音 一天的_百度搜索 - Google Chrome
+11:28:50:  https://www.baidu.com/link?url=AMuURNTGkCXM0hfFnIi-sEnaUYE3mkH2iAyx74n9FzD0ELr8o1W7UmfEDs_3niuCY_HZ3nmIqrKxY08APpaEA_yj9BPWaB05p19scLK9JB_&wd=&eqid=b846105d0003e4c60000000260483ce8 - Google Chrome
+11:28:55:  苹果手机录音可以录多久-百度经验 - Google Chrome
+11:29:45:  计算器
+11:31:36:  苹果手机录音可以录多久-百度经验 - Google Chrome
+11:31:41:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+11:32:51:  苹果手机录音可以录多久-百度经验 - Google Chrome
+11:33:11:  ios 录音 一天的_百度搜索 - Google Chrome
+11:33:16:  苹果手机录音可以录多久？ - 知乎 - Google Chrome
+11:33:21:  (15 封私信 / 80 条消息) 苹果手机录音可以录多久？ - 知乎 - Google Chrome
+11:33:41:  计算器
+11:33:56:  (15 封私信 / 80 条消息) 苹果手机录音可以录多久？ - 知乎 - Google Chrome
+11:34:06:  ios 录音 一天的_百度搜索 - Google Chrome
+11:34:31:  ios 录音 有声音再录_百度搜索 - Google Chrome
+11:34:41:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+11:35:01:  本地磁盘 (D:)
+11:35:06:  T21
+11:35:41:  运行
+11:35:46:  「开始」菜单
+11:35:51:  运行
+11:35:56:  08tcr测试过程记录
+11:36:01:  TCR
+11:39:26:  ios 录音 有声音再录_百度搜索 - Google Chrome
+11:39:31:  新建文本文档.exe - 快捷方式
+11:39:36:  TCR
+11:39:41:  ios 通话录音_百度搜索 - Google Chrome
+11:40:06:  在iPhone通话中要电话录音记录怎么办? - 知乎 - Google Chrome
+11:40:11:  (15 封私信 / 80 条消息) 在iPhone通话中要电话录音记录怎么办? - 知乎 - Google Chrome
+11:40:36:  锁屏状态
+13:18:07:  KE06LOG.bat - 快捷方式 (2)
+13:18:22:  trunk
+13:18:37:  要离线?
+13:18:42:  trunk
+13:18:47:  本地磁盘 (D:)
+13:18:52:  10
+13:18:57:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+13:19:12:  00-06
+13:19:17:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+13:19:37:  trunk
+13:26:22:  TCR
+13:26:27:  新标签页 - Google Chrome
+13:26:32:  新建文本文档.exe - 快捷方式
+13:26:37:  www.baidu.com - Google Chrome
+13:26:42:  百度一下，你就知道 - Google Chrome
+13:26:52:  ios14 小组件_百度搜索 - Google Chrome
+13:26:57:  第三方iOS14小组件必装【一】 - 知乎 - Google Chrome
+13:27:02:  ios14 小组件_百度搜索 - Google Chrome
+13:27:22:  一碗拉面的热量是多少卡路里_百度搜索 - Google Chrome
+13:27:32:  https://www.baidu.com/link?url=2fNh7Jf_HyzWiefteEOSH1oGITKKT1IWDr4iwH6m5FowGTQBcQlJOK3pOO4Sm0t2rHzMGKJif_ZkPFJwy9bvCq&wd=&eqid=9cb457c00002591500000002604858b5 - Google Chrome
+13:27:37:  兰州拉面的热量是多少？ - i薄荷 - Google Chrome
+13:27:47:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:27:52:  一碗拉面的热量是多少卡路里_百度搜索 - Google Chrome
+13:27:57:  一碗拉面汤的热量是多少啊，我习惯吃面后喝汤【男人减肥吧】_百度贴吧 - Google Chrome
+13:28:02:  一碗拉面的热量是多少卡路里_百度搜索 - Google Chrome
+13:28:17:  今天早上吃了一碗拉面，一碗拉面的热量是多少呢-九州醉餐饮网 - Google Chrome
+13:28:27:  兰州拉面一碗热量大概多少？ - 知乎 - Google Chrome
+13:28:32:  (15 封私信 / 80 条消息) 兰州拉面一碗热量大概多少？ - 知乎 - Google Chrome
+13:28:47:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:28:57:  一碗拉面的热量是多少卡路里_百度搜索 - Google Chrome
+13:29:07:  油饼的热量是多少大卡,减肥期间吃一次油饼会有影响吗-乐哈健康网 - Google Chrome
+13:29:17:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:29:27:  一个油饼的热量是多少大卡_百度搜索 - Google Chrome
+13:29:32:  一根考场_百度搜索 - Google Chrome
+13:29:37:  一根烤肠的热量是多少大卡_百度搜索 - Google Chrome
+13:29:57:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:28:17:  今天早上吃了一碗拉面，一碗拉面的热量是多少呢-九州醉餐饮网 - Google Chrome
+13:28:27:  兰州拉面一碗热量大概多少？ - 知乎 - Google Chrome
+13:28:32:  (15 封私信 / 80 条消息) 兰州拉面一碗热量大概多少？ - 知乎 - Google Chrome
+13:28:47:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:28:57:  一碗拉面的热量是多少卡路里_百度搜索 - Google Chrome
+13:29:07:  油饼的热量是多少大卡,减肥期间吃一次油饼会有影响吗-乐哈健康网 - Google Chrome
+13:29:17:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:29:27:  一个油饼的热量是多少大卡_百度搜索 - Google Chrome
+13:29:32:  一根考场_百度搜索 - Google Chrome
+13:29:37:  一根烤肠的热量是多少大卡_百度搜索 - Google Chrome
+13:29:57:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:30:17:  锁屏状态
+13:32:57:  一根烤肠的热量是多少大卡_百度搜索 - Google Chrome
+13:33:02:  hit运动_百度搜索 - Google Chrome
+13:33:07:  hit运动一周练几次_百度搜索 - Google Chrome
+13:33:22:  hit运动10分钟消耗多少卡_百度搜索 - Google Chrome
+13:33:32:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:33:57:  新标签页 - Google Chrome
+13:34:02:  百度一下，你就知道 - Google Chrome
+13:34:07:  pios中的健康_百度搜索 - Google Chrome
+13:34:17:  https://www.baidu.com/link?url=mlXUw_2FhblCXADr3OVsQ5mBs_sOZoRGf603r9ztc3C&wd=&eqid=bf3c9bed000303f70000000260485a57 - Google Chrome
+13:34:22:  (15 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:34:27:  (15 封私信 / 80 条消息) 苹果里健康 - 搜索结果 - 知乎 - Google Chrome
+13:36:07:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:36:32:  (15 封私信 / 80 条消息) 苹果里健康 - 搜索结果 - 知乎 - Google Chrome
+13:36:37:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:38:27:  (15 封私信 / 80 条消息) 苹果里健康 - 搜索结果 - 知乎 - Google Chrome
+13:38:37:  (15 封私信 / 80 条消息) ios 健康 - 搜索结果 - 知乎 - Google Chrome
+13:44:22:  (15 封私信 / 80 条消息) 减肥 早餐吃什么 - 搜索结果 - 知乎 - Google Chrome
+13:44:22:  (15 封私信 / 80 条消息) 减肥 早餐吃什么 - 搜索结果 - 知乎 - Google Chrome
+13:45:12:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:45:37:  新北洋OA信息化平台 - Internet Explorer
+13:45:47:  本地磁盘 (D:)
+13:45:52:  锁屏状态
+13:45:57:  百度一下，你就知道 - Google Chrome
+13:46:02:  ios_百度搜索 - Google Chrome
+13:46:07:  ios吧-百度贴吧--我们渴望创新的力量，也从未忘记最初的梦想--iOSBar 秋&nbsp;语言衍生了代码，且代码改变了时代。&nbsp;我们沉浸于这个时代，触摸这个时代，感受这个时代。 - Google Chrome
+13:46:22:  airtag吧-百度贴吧 - Google Chrome
+13:46:27:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:47:02:  百度贴吧_airtag - Google Chrome
+13:47:27:  百度一下，你就知道 - Google Chrome
+13:47:32:  春季发布会苹果2021_百度搜索 - Google Chrome
+13:49:27:  新标签页 - Google Chrome
+13:49:32:  百度一下，你就知道 - Google Chrome
+13:49:42:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:53:32:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+13:53:42:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:54:27:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:54:37:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:55:02:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:55:27:  D:\00-06\DRB\Applications\PlateCtrl\PlateCtrl.h (DRB) - Sublime Text (UNREGISTERED)
+13:55:32:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:55:37:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:56:02:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:56:12:  D:\00-06\DRB\Applications\PlateCtrl\PlateCtrl.h (DRB) - Sublime Text (UNREGISTERED)
+13:56:17:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:56:22:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:56:27:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:56:47:  D:\00-06\DRB\Applications\PlateCtrl\PlateCtrl.h (DRB) - Sublime Text (UNREGISTERED)
+13:56:57:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:57:02:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:57:17:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:58:07:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:58:22:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:58:27:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:58:37:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:59:22:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:59:27:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:00:02:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:58:07:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:58:22:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:58:27:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:58:37:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:59:22:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:59:27:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:00:02:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:00:17:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:00:27:  D:\00-06\DRB\Applications\PlateCtrl\PlateCtrl.h (DRB) - Sublime Text (UNREGISTERED)
+14:00:32:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:00:37:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:00:42:  D:\00-06\DRB\Middlewares\Plate\PlateCommon.h (DRB) - Sublime Text (UNREGISTERED)
+14:00:47:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:01:07:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:01:17:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:01:22:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:01:32:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:01:42:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:01:47:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:01:52:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:02:37:  计算器
+14:02:52:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:02:57:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:03:17:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:03:22:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:03:42:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:03:47:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:03:52:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:04:22:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:04:32:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:04:57:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:05:12:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:05:37:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:05:47:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:05:52:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:06:02:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:06:12:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:06:17:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:06:32:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:06:37:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:06:57:  D:\00-06\DRB\Applications\MemoryConfig.h (DRB) - Sublime Text (UNREGISTERED)
+14:07:02:  D:\00-06\DRB\Applications\MemoryConfig.h • (DRB) - Sublime Text (UNREGISTERED)
+14:07:12:  D:\00-06\DRB\Applications\MemoryConfig.h (DRB) - Sublime Text (UNREGISTERED)
+14:07:17:  www.baidu.com - Google Chrome
+14:07:22:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:07:47:  www.baidu.com - Google Chrome
+14:07:52:  ilcloud_百度搜索 - Google Chrome
+14:08:12:  无标题 - Google Chrome
+14:08:27:  网络连接
+14:08:42:  iCloud - Apple (中国大陆) - Google Chrome
+14:09:17:  iCloud - Google Chrome
+14:09:22:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:09:47:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:09:52:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:10:02:  iCloud - Google Chrome
+14:10:52:  iCloud 备忘录 - Google Chrome
+14:13:07:  iCloud - Google Chrome
+14:13:12:  iCloud 通讯录 - Google Chrome
+14:13:17:  iCloud - Google Chrome
+14:13:22:  iCloud 查找我的 iPhone - Google Chrome
+14:15:12:  ilcloud_百度搜索 - Google Chrome
+14:15:22:  苹果邮件怎么添加邮箱_百度搜索 - Google Chrome
+14:15:27:  苹果手机邮箱怎么设置_百度知道 - Google Chrome
+14:15:47:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:16:02:  苹果手机邮箱怎么设置_百度知道 - Google Chrome
+14:16:07:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:16:37:  苹果手机邮箱怎么设置_百度知道 - Google Chrome
+14:17:02:  系统设置
+14:20:33:  苹果手机邮箱怎么设置_百度知道 - Google Chrome
+14:20:38:  苹果邮件怎么添加邮箱_百度搜索 - Google Chrome
+14:20:43:  系统设置
+14:21:58:  新北洋OA信息化平台 - Internet Explorer
+14:22:08:  http://oa.byintra.com/iPortal/publish/Default.aspx - Internet Explorer
+14:22:18:  新北洋OA信息化平台 - Internet Explorer
+14:22:28:  mail - Internet Explorer
+14:22:38:  Coremail邮件系统 - Internet Explorer
+14:23:23:  帮助中心 - Internet Explorer
+14:28:28:  系统设置
+14:28:38:  帮助中心 - Internet Explorer
+14:28:48:  系统设置
+14:29:33:  帮助中心 - Internet Explorer
+14:28:28:  系统设置
+14:28:38:  帮助中心 - Internet Explorer
+14:28:48:  系统设置
+14:29:33:  帮助中心 - Internet Explorer
+14:31:33:  丛柏屹
+14:32:03:  本地磁盘 (D:)
+14:32:08:  新建文件夹
+14:32:13:  正在从 1、20元300张取款报通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS11 返回码0X80460212.rar 中提取
+14:32:18:  1、20元300张取款报通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS11 返回码0X80460212
+14:32:23:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:32:28:  LOG
+14:32:33:  Box_3__BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:32:43:  丛柏屹
+14:33:13:  K64_BTCR-1100190803000005_20210310141521
+14:33:18:  K64-_BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:33:48:  系统设置
+14:34:43:  丛柏屹
+14:34:48:  苹果邮件怎么添加邮箱_百度搜索 - Google Chrome
+14:34:58:  帮助中心 - Internet Explorer
+14:37:08:  系统设置
+14:38:28:  1、20元300张取款报通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS11 返回码0X80460212
+14:38:43:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:38:48:  Decode
+14:38:53:  Box_3__BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:39:33:  1、20元300张取款报通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS11 返回码0X80460212
+14:39:43:  苹果手机邮箱怎么设置_百度知道 - Google Chrome
+14:39:48:  Box_3__BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:39:58:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:40:03:  D:\00-06\DRB\Applications\Instruction\InstrHandle.c (DRB) - Sublime Text (UNREGISTERED)
+14:40:08:  D:\00-06\DRB\SystemConfig.h (DRB) - Sublime Text (UNREGISTERED)
+14:40:13:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+14:40:18:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+14:40:38:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+14:40:48:  D:\00-06\DRB\Applications\MemoryConfig.h (DRB) - Sublime Text (UNREGISTERED)
+14:40:53:  D:\00-06\DRB\SystemConfig.h (DRB) - Sublime Text (UNREGISTERED)
+14:41:03:  μVision
+14:41:08:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:41:13:  锁屏状态
+14:41:18:  EXTFEDU6V13.PDF
+14:41:28:  1、20元300张取款报通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS11 返回码0X80460212
+14:41:33:  新建文件夹
+14:41:38:  1、20元300张取款报通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS11 返回码0X80460212
+14:41:43:  Box_3__BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:41:48:  K64_BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:42:08:  丛柏屹
+14:42:18:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:42:33:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:42:38:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:46:03:  回复: 1、20元300张取款报通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS11 返回码0X80460212
+14:46:13:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:47:18:  K64_BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:47:23:  丛柏屹
+14:47:53:  计算器
+14:48:03:  K64_BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:48:13:  丛柏屹
+14:49:58:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:50:38:  丛柏屹
+14:50:53:  K64_BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:50:58:  丛柏屹
+14:51:13:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:51:18:  K64_BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:51:23:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:51:28:  丛柏屹
+14:51:33:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:51:58:  系统设置
+14:53:18:  丛柏屹
+14:53:48:  K64_BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:53:58:  Go To
+14:54:03:  K64_BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:55:13:  丛柏屹
+14:55:28:  K64_BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:55:48:  丛柏屹
+14:56:13:  K64_BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:56:18:  丛柏屹
+14:56:23:  回复: 1、20元300张取款报通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS11 返回码0X80460212
+14:56:43:  丛柏屹
+14:58:08:  K64_BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:58:23:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:58:33:  锁屏状态
+14:58:38:  K64_BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:58:53:  丛柏屹
+14:59:53:  系统设置
+14:58:08:  K64_BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:58:23:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:58:33:  锁屏状态
+14:58:38:  K64_BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+14:58:53:  丛柏屹
+14:59:53:  系统设置
+15:03:19:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:03:24:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:03:29:  Decode
+15:03:34:  本地磁盘 (D:)
+15:03:39:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:04:04:  本地磁盘 (D:)
+15:04:09:  DRB
+15:04:14:  D:\00-06\DRB\Tools\CreateJK.exe
+15:04:19:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:04:24:  未命名 - 写邮件
+15:04:34:  BTCR-1100_BOX1T2_KE06_FV1002_EXTFEDU6V13_MAIN_T22 - 写邮件
+15:04:59:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:05:09:  T21
+15:05:44:  fenxi
+15:05:49:  压缩文件名和参数
+15:05:54:  fenxi
+15:06:04:  7_提交人确认_测试需求通知单II类提交 - Internet Explorer
+15:06:19:  来自网页的消息
+15:06:24:  新北洋OA信息化平台 - Internet Explorer
+15:06:29:  7_提交人确认_测试需求通知单II类提交 - Internet Explorer
+15:06:39:  fenxi
+15:06:54:  7_提交人确认_测试需求通知单II类提交 - Internet Explorer
+15:06:59:  选择要上载的文件，通过: oa.byintra.com
+15:07:14:  # - Internet Explorer
+15:07:29:  fenxi
+15:07:34:  T21
+15:07:39:  # - Internet Explorer
+15:08:24:  T21
+15:08:29:  # - Internet Explorer
+15:09:24:  本地磁盘 (D:)
+15:09:29:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+15:09:34:  DRB
+15:09:39:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+15:09:44:  DRB
+15:10:04:  # - Internet Explorer
+15:11:49:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:11:54:  BTCR-1100产品型号MAIN测试对象FV1.000.21版本内部测试报告_20200309.xls  [兼容模式] - Excel
+15:12:49:  Microsoft Excel
+15:12:54:  BTCR-1100产品型号MAIN测试对象FV1.000.21版本内部测试报告_20200309.xls  [兼容模式] - Excel
+15:13:49:  Microsoft Excel
+15:13:54:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:13:59:  T21
+15:14:04:  压缩文件名和参数
+15:14:14:  fenxi
+15:14:19:  来自网页的消息
+15:14:24:  # - Internet Explorer
+15:14:14:  fenxi
+15:14:19:  来自网页的消息
+15:14:24:  # - Internet Explorer
+15:15:14:  选择要上载的文件，通过: oa.byintra.com
+15:15:24:  BTCRTestTool V3.36
+15:15:29:  DRB集成 - Everything
+15:15:34:  DRB集成测试
+15:15:39:  06 固件日报
+15:15:44:  02 固件
+15:15:49:  正在复制 1 个项目(13.1 MB)
+15:15:54:  选择要上载的文件，通过: oa.byintra.com
+15:16:04:  # - Internet Explorer
+15:16:29:  DRB--
+15:16:34:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+15:18:19:  DRB
+15:18:24:  # - Internet Explorer
+15:18:49:  来自网页的消息
+15:18:54:  # - Internet Explorer
+15:19:34:  系统设置
+15:20:14:  苹果邮件怎么添加邮箱_百度搜索 - Google Chrome
+15:20:19:  收件服务器怎么填_百度搜索 - Google Chrome
+15:20:24:  https://www.baidu.com/link?url=gnQxO_hqCNAgHXh0Wn2kKVpKJ6oscsnsT-Jsl-2VX-T0Cctl1_QyYN6SkasAjyEvU_zDWAseLMm_PXcJh3lRFGzrvcWijifvJDfvDKg5Czm&wd=&eqid=9d5f42610019e5710000000260487332 - Google Chrome
+15:20:29:  苹果手机电子邮件收件服务器怎么填_百度知道 - Google Chrome
+15:20:59:  系统设置
+15:24:04:  苹果手机电子邮件收件服务器怎么填_百度知道 - Google Chrome
+15:24:09:  收件服务器用户名怎么填写_百度搜索 - Google Chrome
+15:24:19:  (15 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+15:24:29:  (15 封私信 / 80 条消息) 早餐 减肥 - 搜索结果 - 知乎 - Google Chrome
+15:24:49:  (15 封私信 / 80 条消息) 早餐吃什么 - 搜索结果 - 知乎 - Google Chrome
+15:25:04:  系统设置
+15:26:59:  (15 封私信 / 80 条消息) 早餐吃什么 - 搜索结果 - 知乎 - Google Chrome
+15:27:29:  新标签页 - Google Chrome
+15:27:34:  百度一下，你就知道 - Google Chrome
+15:27:39:  一个鸡蛋的热量_百度搜索 - Google Chrome
+15:27:59:  (15 封私信 / 80 条消息) 早餐吃什么 - 搜索结果 - 知乎 - Google Chrome
+15:29:59:  系统设置
+15:29:59:  系统设置
+15:30:54:  远程邮箱管理
+15:31:19:  (15 封私信 / 80 条消息) 早餐吃什么 - 搜索结果 - 知乎 - Google Chrome
+15:31:29:  (15 封私信 / 80 条消息) 早餐低热量 - 搜索结果 - 知乎 - Google Chrome
+15:31:59:  一天多少热量 - 搜索结果 - 知乎 - Google Chrome
+15:32:04:  (15 封私信 / 80 条消息) 一天多少热量 - 搜索结果 - 知乎 - Google Chrome
+15:32:19:  计算器
+15:32:39:  (15 封私信 / 80 条消息) 一天多少热量 - 搜索结果 - 知乎 - Google Chrome
+15:32:44:  计算器
+15:32:49:  (15 封私信 / 80 条消息) 一天多少热量 - 搜索结果 - 知乎 - Google Chrome
+15:33:39:  计算器
+15:33:54:  新标签页 - Google Chrome
+15:33:59:  百度一下，你就知道 - Google Chrome
+15:34:04:  油饼烤肠热量_百度搜索 - Google Chrome
+15:34:34:  新标签页 - Google Chrome
+15:34:39:  百度一下，你就知道 - Google Chrome
+15:34:44:  烤肠热量_百度搜索 - Google Chrome
+15:34:49:  (15 封私信 / 80 条消息) 一天多少热量 - 搜索结果 - 知乎 - Google Chrome
+15:34:54:  计算器
+15:35:34:  (15 封私信 / 80 条消息) 一天多少热量 - 搜索结果 - 知乎 - Google Chrome
+15:35:54:  新标签页 - Google Chrome
+15:35:59:  百度一下，你就知道 - Google Chrome
+15:36:04:  ios14 添加邮件_百度搜索 - Google Chrome
+15:36:14:  苹果自带邮件登录不上_百度搜索 - Google Chrome
+15:37:19:  系统设置
+15:38:04:  苹果自带邮件登录不上_百度搜索 - Google Chrome
+15:38:14:  ios14 自带邮箱验证失败_百度搜索 - Google Chrome
+15:38:19:  iphone邮箱无法连接服务器怎么办-百度经验 - Google Chrome
+15:38:44:  iphone配置exchange邮件无法连接服务器怎么办-百度经验 - Google Chrome
+15:38:59:  BNE-C52（DRB）样机状态及关键部件配置表20210310
+15:39:09:  iphone配置exchange邮件无法连接服务器怎么办-百度经验 - Google Chrome
+15:39:54:  系统设置
+15:40:34:  iphone配置exchange邮件无法连接服务器怎么办-百度经验 - Google Chrome
+15:40:39:  ios14自带邮箱连不上服务器_百度搜索 - Google Chrome
+15:40:44:  ios14 pop服务器_百度搜索 - Google Chrome
+15:40:49:  iOS 9用户POP邮件出现“信息无法从服务器上下载”错误 - Apple iPhone - cnBeta.COM - Google Chrome
+15:40:59:  ios14 pop服务器_百度搜索 - Google Chrome
+15:41:44:  ios14 邮件 添加其他_百度搜索 - Google Chrome
+15:42:34:  计算器
+15:42:39:  新北洋OA信息化平台 - Internet Explorer
+15:42:49:  DRB
+15:43:04:  ios14 邮件 添加其他_百度搜索 - Google Chrome
+15:43:09:  苹果邮箱添加其他邮箱_百度搜索 - Google Chrome
+15:43:19:  苹果MAC电脑的邮箱怎么添加其他邮箱账号 - 卡饭网 - Google Chrome
+15:43:29:  苹果邮箱添加其他邮箱_百度搜索 - Google Chrome
+15:43:44:  新北洋OA信息化平台 - Internet Explorer
+15:43:49:  未连接到网络 - Internet Explorer
+15:43:59:  新北洋OA信息化平台 - Internet Explorer
+15:44:54:  系统设置
+15:44:54:  系统设置
+15:45:44:  新北洋OA信息化平台 - Internet Explorer
+15:45:49:  mail - Internet Explorer
+15:47:14:  Coremail邮件系统 - Internet Explorer
+15:47:44:  mail - Internet Explorer
+15:48:09:  Coremail邮件系统 - Internet Explorer
+15:48:34:  帮助中心 - Internet Explorer
+15:48:54:  Coremail邮件系统 - Internet Explorer
+15:50:25:  新建文本文档.exe - 快捷方式
+15:50:30:  mail - Internet Explorer
+15:50:40:  Coremail邮件系统 - Internet Explorer
+15:50:45:  系统设置
+15:51:10:  运行
+15:51:15:  管理员: C:\Windows\system32\cmd.exe
+15:51:50:  系统设置
+15:51:55:  mail - Google Chrome
+15:52:10:  Coremail邮件系统 - Google Chrome
+15:52:15:  系统设置
+15:54:05:  DRB
+15:54:50:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:58:30:  eSpace
+15:58:40:  程明昌
+15:58:55:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:59:15:  程明昌
+15:59:40:  本地磁盘 (D:)
+15:59:45:  00-06
+15:59:55:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+15:58:30:  eSpace
+15:58:40:  程明昌
+15:58:55:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:59:15:  程明昌
+15:59:40:  本地磁盘 (D:)
+15:59:45:  00-06
+15:59:55:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+16:00:40:  程明昌
+16:00:45:  eSpace
+16:00:50:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+16:02:45:  新北洋OA信息化平台 - Internet Explorer
+16:02:55:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+16:03:15:  锁屏状态
+16:03:25:  K64_BTCR-1100190803000005_20210310141521.log - DRB.tat - TextAnalysisTool.NET
+16:03:30:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+16:03:45:  BNE-C52（DRB）样机状态及关键部件配置表20210310.xls
+16:09:00:  百度一下，你就知道 - Google Chrome
+16:09:45:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:16:50:  新标签页 - Google Chrome
+16:16:55:  百度一下，你就知道 - Google Chrome
+16:17:05:  一八宝粥的热量_百度搜索 - Google Chrome
+16:17:30:  关于八宝粥的热量 - i薄荷 - Google Chrome
+16:17:45:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:21:45:  一八宝粥的热量_百度搜索 - Google Chrome
+16:21:50:  一个馒头的热量是多少_百度搜索 - Google Chrome
+16:21:55:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:23:25:  DRB
+16:23:45:  eSpace
+16:24:00:  于斌1
+16:24:05:  吉哲
+16:24:10:  eSpace
+16:24:35:  吉哲
+16:24:50:  锁屏状态
+16:25:00:  于斌1
+16:25:10:  DRB
+16:27:40:  0-工作 - 张开发 - 印象笔记
+16:27:45:  3-日常 - 张开发 - 印象笔记
+16:27:55:  DRB
+16:28:40:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:29:35:  一个馒头的热量是多少_百度搜索 - Google Chrome
+16:29:45:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:29:50:  锁屏状态
+16:29:55:  (15 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:28:40:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:29:35:  一个馒头的热量是多少_百度搜索 - Google Chrome
+16:29:45:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:29:50:  锁屏状态
+16:29:55:  (15 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:30:05:  (15 封私信 / 80 条消息) 减肥运动需要注意每天的热量吗 - 搜索结果 - 知乎 - Google Chrome
+16:30:30:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:30:50:  (15 封私信 / 80 条消息) 减肥运动需要注意每天的热量吗 - 搜索结果 - 知乎 - Google Chrome
+16:31:25:  计算器
+16:31:55:  (15 封私信 / 80 条消息) 减肥运动需要注意每天的热量吗 - 搜索结果 - 知乎 - Google Chrome
+16:32:00:  计算器
+16:32:55:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:34:15:  Windows 任务管理器
+16:34:25:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:34:55:  计算器
+16:35:45:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:35:55:  (15 封私信 / 80 条消息) 减肥运动需要注意每天的热量吗 - 搜索结果 - 知乎 - Google Chrome
+16:36:10:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:36:35:  (15 封私信 / 80 条消息) 减肥运动需要注意每天的热量吗 - 搜索结果 - 知乎 - Google Chrome
+16:36:45:  (15 封私信 / 80 条消息) 基础代谢包括走路吗 - 搜索结果 - 知乎 - Google Chrome
+16:37:25:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:44:00:  (15 封私信 / 80 条消息) 基础代谢包括走路吗 - 搜索结果 - 知乎 - Google Chrome
+16:45:45:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:48:20:  (15 封私信 / 80 条消息) 基础代谢包括走路吗 - 搜索结果 - 知乎 - Google Chrome
+16:48:35:  (15 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:48:40:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:59:56:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:59:56:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+17:01:31:  DRB
+17:01:36:  State.c - TortoiseMerge
+17:01:46:  锁屏状态
+17:01:56:  State.c - TortoiseMerge
+17:02:16:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+17:02:36:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+17:02:41:  μVision
+17:02:46:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+17:03:11:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+17:03:16:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+17:05:46:  Watch 1
+17:05:51:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+17:08:11:  锁屏状态

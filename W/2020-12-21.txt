@@ -1,0 +1,1139 @@
+08:07:07:  本地磁盘 (D:)
+08:07:22:  taskeng.exe
+08:07:27:  本地磁盘 (D:)
+08:08:12:  自动播放
+08:08:52:  新建文本文档.exe - 快捷方式
+08:09:28:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:09:33:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:09:58:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:10:13:  收取邮件 - 张开发
+08:13:55:  DRB传感器.txt - 记事本
+08:15:35:  D:\CRS\666\Applications\ShutterCtrl\ShutterCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:15:40:  选择文件夹
+08:15:50:  E:\深圳出差\gfgd\Applications\EepHisApp\EepHisApp.c (gfgd) - Sublime Text (UNREGISTERED)
+08:15:55:  untitled (DRB-NearFull) - Sublime Text (UNREGISTERED)
+08:16:00:  D:\00-06\DRB-NearFull\Applications\MotorCtrl\MotorCtrl.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+08:16:05:  D:\00-06\DRB-NearFull\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+08:16:10:  D:\00-06\DRB-NearFull\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+08:16:15:  D:\00-06\DRB-NearFull\Middlewares\Selector\Selector.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+08:16:20:  D:\00-06\DRB-NearFull\Drivers\SensorDriver\SensorDriver.h (DRB-NearFull) - Sublime Text (UNREGISTERED)
+08:16:25:  D:\CRS\666\Applications\ShutterCtrl\ShutterCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:16:30:  DRB传感器.txt - 记事本
+08:18:00:  D:\00-06\DRB-NearFull\Drivers\SensorDriver\SensorDriver.h (DRB-NearFull) - Sublime Text (UNREGISTERED)
+08:18:05:  D:\00-06\DRB-NearFull\DRB.patch (DRB-NearFull) - Sublime Text (UNREGISTERED)
+08:18:10:  D:\00-06\DRB-NearFull\Middlewares\Selector\Selector.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+08:18:15:  DRB传感器.txt - 记事本
+08:19:20:  eSpace
+08:19:25:  DRB传感器.txt - 记事本
+08:20:01:  eSpace
+08:20:11:  姜勇
+08:20:26:  DRB传感器.txt - 记事本
+08:20:31:  姜勇
+08:20:36:  记事本
+08:20:41:  姜勇
+08:21:41:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:21:46:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+08:22:01:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:22:16:  新建文本文档.exe - 快捷方式
+08:22:21:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:22:31:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:22:36:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:22:41:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:24:21:  姜勇
+08:29:36:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:29:36:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:30:11:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:30:21:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:30:26:  ● CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:30:31:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:31:31:  桌面整理
+08:31:46:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:32:16:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+08:32:21:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:32:31:  DRB连接线线序20201207
+08:32:36:  锁屏状态
+08:32:41:  DRB连接线线序20201207.xlsx
+08:33:01:  跳转列表
+08:33:06:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:33:41:  跳转列表
+08:33:46:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:35:56:  ● CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:51:06:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:51:16:  D:\00-06\DRB-NearFull\Middlewares\Selector\Selector.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+08:51:21:  D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+08:51:31:  D:\00-06\DRB-NearFull\Middlewares\Lock\Lock.h (DRB-NearFull) - Sublime Text (UNREGISTERED)
+08:51:41:  D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+08:51:46:  姜勇
+08:54:31:  D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+08:54:46:  姜勇
+08:56:16:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+08:57:01:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:00:37:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:01:32:  新建文本文档.exe - 快捷方式
+09:02:02:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:04:17:  eSpace
+09:04:22:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:04:27:  6.4 K64中断资源测试V1.0.xlsx - Excel
+09:04:32:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:04:37:  姜勇
+09:04:47:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:04:52:  锁屏状态
+09:04:57:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:05:02:  GetTheideal.exe - 快捷方式 属性
+09:05:07:  dist
+09:06:27:  锁屏状态
+09:06:42:  D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:07:37:  所有笔记本 - 张开发 - 印象笔记
+09:07:57:  D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:09:02:  于斌1
+09:09:57:  Excel
+09:10:02:  锁屏状态
+09:10:07:  TCR+DRB+CRS 项目周报.xlsx  [受保护的视图] - Excel
+09:10:12:  TCR+DRB+CRS 项目周报.xlsx  [共享] - Excel
+09:10:57:  于斌1
+09:11:02:  eSpace
+09:11:07:  于斌1
+09:11:12:  6.4 K64中断资源测试V1.0.xlsx - Excel
+09:11:22:  D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:13:02:  新标签页 - Google Chrome
+09:13:17:  D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:13:42:  www.sui.com - Google Chrome
+09:13:47:  随手记 - Google Chrome
+09:13:57:  记账 - 随手记 - Google Chrome
+09:14:07:  随手记 - Google Chrome
+09:14:17:  D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:14:27:  所有笔记本 - 张开发 - 印象笔记
+09:14:32:  新建文本文档.exe - 快捷方式
+09:14:37:  新标签页 - Google Chrome
+09:14:42:  登录火币网 | 火币全球站 - Google Chrome
+09:14:47:  D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:14:07:  随手记 - Google Chrome
+09:14:17:  D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:14:27:  所有笔记本 - 张开发 - 印象笔记
+09:14:32:  新建文本文档.exe - 快捷方式
+09:14:37:  新标签页 - Google Chrome
+09:14:42:  登录火币网 | 火币全球站 - Google Chrome
+09:14:47:  D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:16:42:  D:\00-06\DRB-NearFull\Drivers\SensorDriver\SensorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:20:07:  eSpace
+09:21:07:  D:\00-06\DRB-NearFull\Drivers\SensorDriver\SensorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:23:52:  taskeng.exe
+09:23:57:  新建文本文档.exe - 快捷方式
+09:24:02:  D:\00-06\DRB-NearFull\Drivers\SensorDriver\SensorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:24:17:  taskeng.exe
+09:24:22:  eSpace
+09:24:27:  于斌1
+09:25:22:  D:\00-06\DRB-NearFull\Drivers\SensorDriver\SensorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:30:47:  所有笔记本 - 张开发 - 印象笔记
+09:30:52:  《新北洋人》2021年1月刊征稿通知
+09:31:02:  新标签页 - Google Chrome
+09:31:07:  登录火币网 | 火币全球站 - Google Chrome
+09:31:12:  火币网下载官方app|火币ios版|火币安卓版|火币全球站 - Google Chrome
+09:31:22:  D:\00-06\DRB-NearFull\Drivers\SensorDriver\SensorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:31:42:  D:\00-06\DRB-NearFull\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:31:47:  于斌1
+09:31:57:  D:\00-06\DRB-NearFull\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:32:52:  eSpace
+09:32:57:  于斌1
+09:33:52:  D:\00-06\DRB-NearFull\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:33:57:  于斌1
+09:34:17:  D:\00-06\DRB-NearFull\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:34:42:  CRS_ErrCode_list_excel_flg.txt - 记事本
+09:34:47:  D:\00-06\DRB-NearFull\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:35:57:  所有笔记本 - 张开发 - 印象笔记
+09:36:02:  「开始」菜单
+09:36:07:  计算器
+09:37:02:  新标签页 - Google Chrome
+09:37:12:  D:\00-06\DRB-NearFull\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:38:02:  新标签页 - Google Chrome
+09:38:07:  D:\00-06\DRB-NearFull\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:38:32:  新标签页 - Google Chrome
+09:38:47:  班车管理系统 - Google Chrome
+09:38:52:  班车管理系统 [新北洋集团] - Google Chrome
+09:38:57:  主页 - Internet Explorer
+09:39:02:  系统登录 - Internet Explorer
+09:39:07:  员工自助 - Internet Explorer
+09:39:12:  我的薪酬 - Internet Explorer
+09:39:42:  班车管理系统 [新北洋集团] - Google Chrome
+09:40:17:  D:\00-06\DRB-NearFull\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:42:47:  锁屏状态
+09:43:02:  Subversion
+09:43:17:  alipay_record_20201218_1118
+09:43:27:  12.py - C:\Users\zhangkaifa\Downloads\alipay_record_20201218_1118\12.py (3.7.3)
+09:44:22:  alipay_record_20201218_1118
+09:44:32:  D:\00-06\DRB-NearFull\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:44:22:  alipay_record_20201218_1118
+09:44:32:  D:\00-06\DRB-NearFull\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:45:57:  D:\00-06\DRB-NearFull\Drivers\PublicDriver\PublicDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:46:17:  D:\00-06\DRB-NearFull\Applications\Initial\Initial.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:48:57:  系统登录 - Internet Explorer
+09:49:02:  员工自助 - Internet Explorer
+09:49:07:  Employee-facing registry content - Internet Explorer
+09:49:17:  绩效评价 - Internet Explorer
+09:49:22:  绩效申请 - Internet Explorer
+09:49:32:  D:\00-06\DRB-NearFull\Applications\Initial\Initial.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:50:12:  D:\00-06\DRB-NearFull\Middlewares\Sensor\Sensor.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:50:22:  D:\00-06\DRB-NearFull\Drivers\PowerDownDriver\PowerDownDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:50:27:  D:\00-06\DRB-NearFull\Applications\Initial\Initial.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:50:37:  D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:50:47:  00-06
+09:50:52:  D:\00-06\DRB-NearFull - 日志信息 - TortoiseSVN
+09:50:57:  DRB--
+09:51:02:  D:\00-06\DRB-- - 日志信息 - TortoiseSVN
+09:51:07:  D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+09:51:12:  选择文件夹
+09:51:17:  D:\00-06\DRB--\Applications\State\State.c (DRB--) - Sublime Text (UNREGISTERED)
+09:51:22:  D:\00-06\DRB--\Applications\Initial\Initial.c (DRB--) - Sublime Text (UNREGISTERED)
+09:52:12:  D:\00-06\DRB--\Drivers\BldcDriver\BldcDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+09:52:17:  D:\00-06\DRB--\Applications\Initial\Initial.c (DRB--) - Sublime Text (UNREGISTERED)
+09:52:22:  eSpace
+09:52:27:  D:\00-06\DRB--\Applications\Initial\Initial.c (DRB--) - Sublime Text (UNREGISTERED)
+09:52:42:  D:\00-06\DRB--\Drivers\IdCheckDriver\IdCheckDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+09:52:52:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+09:52:57:  D:\00-06\DRB--\Cpu\MKE06Z4.h (DRB--) - Sublime Text (UNREGISTERED)
+09:53:02:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+09:53:12:  D:\00-06\DRB--\Applications\Initial\Initial.c (DRB--) - Sublime Text (UNREGISTERED)
+09:53:27:  D:\00-06\DRB--\Drivers\SpiFlashDriver\SpiFlashDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+09:53:37:  D:\00-06\DRB--\Drivers\PeripheralDriver\SpiDriver\SnbcSpiDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+09:53:57:  D:\00-06\DRB--\Drivers\SpiFlashDriver\SpiFlashDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+09:54:02:  D:\00-06\DRB--\Middlewares\Log\Log.c (DRB--) - Sublime Text (UNREGISTERED)
+09:54:07:  D:\00-06\DRB--\Applications\LogHandle\LogHandle.c (DRB--) - Sublime Text (UNREGISTERED)
+09:55:57:  D:\00-06\DRB--\Applications\Initial\Initial.c (DRB--) - Sublime Text (UNREGISTERED)
+09:56:02:  D:\00-06\DRB--\Applications\CashBoxInfo\CashBoxInfo.c (DRB--) - Sublime Text (UNREGISTERED)
+09:56:07:  D:\00-06\DRB--\Applications\Initial\Initial.c (DRB--) - Sublime Text (UNREGISTERED)
+09:56:17:  D:\00-06\DRB--\Applications\Application.c (DRB--) - Sublime Text (UNREGISTERED)
+09:56:27:  D:\00-06\DRB--\Applications\Initial\Initial.c (DRB--) - Sublime Text (UNREGISTERED)
+09:57:12:  D:\00-06\DRB--\Middlewares\EepromArea\EepromArea.c (DRB--) - Sublime Text (UNREGISTERED)
+09:57:22:  D:\00-06\DRB--\Applications\Initial\Initial.c (DRB--) - Sublime Text (UNREGISTERED)
+09:57:42:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+09:58:02:  所有笔记本 - 张开发 - 印象笔记
+09:58:17:  未命名 - 写邮件
+09:58:22:  00-06
+09:58:27:  未命名 - 写邮件
+09:58:32:  所有笔记本 - 张开发 - 印象笔记
+09:58:47:  《新北洋人》2021年1月刊征稿通知.docx
+09:58:57:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+09:58:17:  未命名 - 写邮件
+09:58:22:  00-06
+09:58:27:  未命名 - 写邮件
+09:58:32:  所有笔记本 - 张开发 - 印象笔记
+09:58:47:  《新北洋人》2021年1月刊征稿通知.docx
+09:58:57:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:01:57:  于斌1
+10:02:47:  新标签页 - Google Chrome
+10:02:57:  新建文本文档.exe - 快捷方式
+10:03:02:  百度一下，你就知道 - Google Chrome
+10:03:07:  qq邮箱登录_百度搜索 - Google Chrome
+10:03:12:  登录QQ邮箱 - Google Chrome
+10:05:27:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:09:07:  于斌1
+10:09:27:  印象笔记
+10:10:27:  569336451 qianchang456 - 印象笔记
+10:10:32:  新标签页 - Google Chrome
+10:10:37:  新建文本文档.exe - 快捷方式
+10:10:42:  新标签页 - Google Chrome
+10:10:47:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:12:08:  2-财务分配 - 张开发 - 印象笔记
+10:12:53:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:12:58:  2-财务分配 - 张开发 - 印象笔记
+10:13:08:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:14:13:  2-财务分配 - 张开发 - 印象笔记
+10:14:23:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:14:33:  锁屏状态
+10:14:38:  2-财务分配 - 张开发 - 印象笔记
+10:14:13:  2-财务分配 - 张开发 - 印象笔记
+10:14:23:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:14:33:  锁屏状态
+10:14:38:  2-财务分配 - 张开发 - 印象笔记
+10:15:43:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:17:22:  2-财务分配 - 张开发 - 印象笔记
+10:20:42:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:23:22:  提交可疑文件
+10:23:32:  6.4 K64中断资源测试V1.0.xlsx - Excel
+10:23:37:  跳转列表
+10:23:42:  Tools
+10:23:47:  D:\00-06\DRB-- - 日志信息 - TortoiseSVN
+10:23:52:  D:\00-06\DRB-- - 统计 - TortoiseSVN
+10:23:57:  D:\00-06\DRB-- - 日志信息 - TortoiseSVN
+10:24:08:  D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+10:24:18:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:26:28:  2-财务分配 - 张开发 - 印象笔记
+10:26:33:  学习 - 张开发 - 印象笔记
+10:26:48:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:27:18:  学习 - 张开发 - 印象笔记
+10:27:53:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:28:03:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:28:18:  D:\00-06\DRB--\Drivers\SpiFlashDriver\SpiFlashDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:28:38:  D:\00-06\DRB--\Drivers\PeripheralDriver\SpiDriver\SnbcSpiDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:29:08:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:29:33:  eSpace
+10:29:43:  潘超
+10:29:58:  EXTFEDU6V1.3.PDF
+10:30:03:  EXTFEDU6V1.3.PDF - Adobe Reader
+10:28:18:  D:\00-06\DRB--\Drivers\SpiFlashDriver\SpiFlashDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:28:38:  D:\00-06\DRB--\Drivers\PeripheralDriver\SpiDriver\SnbcSpiDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:29:08:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:29:33:  eSpace
+10:29:43:  潘超
+10:29:58:  EXTFEDU6V1.3.PDF
+10:30:03:  EXTFEDU6V1.3.PDF - Adobe Reader
+10:30:43:  潘超
+10:30:48:  EXTFEDU6V1.3.PDF - Adobe Reader
+10:30:53:  潘超
+10:31:03:  EXTFEDU6V1.3.PDF - Adobe Reader
+10:31:08:  潘超
+10:31:13:  EXTFEDU6V1.3.PDF - Adobe Reader
+10:31:28:  潘超
+10:31:33:  EXTFEDU6V1.3.PDF - Adobe Reader
+10:31:48:  潘超
+10:31:53:  EXTFEDU6V1.3.PDF - Adobe Reader
+10:32:08:  锁屏状态
+10:32:13:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:32:23:  D:\00-06\DRB--\Drivers\PeripheralDriver\SpiDriver\SnbcSpiDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:32:38:  潘超
+10:32:43:  EXTFEDU6V1.3.PDF - Adobe Reader
+10:32:53:  D:\00-06\DRB--\Drivers\SpiFlashDriver\SpiFlashDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:32:58:  D:\00-06\DRB--\Drivers\PeripheralDriver\SpiDriver\SnbcSpiDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:33:13:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:33:18:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:33:23:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:33:33:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:34:23:  D:\00-06\DRB--\Drivers\PeripheralDriver\SpiDriver\SnbcSpiDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:34:33:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:34:43:  D:\00-06\DRB--\Drivers\PeripheralDriver\GpioDriver\GpioDriver.h (DRB--) - Sublime Text (UNREGISTERED)
+10:34:48:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:34:53:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:35:28:  锁屏状态
+10:36:03:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:36:38:  D:\00-06\DRB--\Drivers\PeripheralDriver\GpioDriver\GpioDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:36:43:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:36:58:  D:\00-06\DRB--\Drivers\PeripheralDriver\GpioDriver\GpioDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:37:13:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:37:38:  D:\00-06\DRB--\Drivers\PeripheralDriver\GpioDriver\GpioDriver.h (DRB--) - Sublime Text (UNREGISTERED)
+10:37:43:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:37:58:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:38:03:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:38:53:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:38:58:  D:\00-06\DRB--\Drivers\PeripheralDriver\GpioDriver\GpioDriver.h (DRB--) - Sublime Text (UNREGISTERED)
+10:39:03:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:39:48:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:39:58:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.h (DRB--) - Sublime Text (UNREGISTERED)
+10:40:03:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.h • (DRB--) - Sublime Text (UNREGISTERED)
+10:40:08:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.h (DRB--) - Sublime Text (UNREGISTERED)
+10:40:13:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:40:38:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:40:58:  Project
+10:41:03:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:42:33:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:44:23:  Subversion
+10:44:28:  W
+10:44:33:  2020-12-21.txt - 记事本
+10:44:43:  W
+10:44:48:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:44:23:  Subversion
+10:44:28:  W
+10:44:33:  2020-12-21.txt - 记事本
+10:44:43:  W
+10:44:48:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:46:48:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:46:53:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:49:38:  于斌1
+10:49:53:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:53:23:  「开始」菜单
+10:53:28:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:53:48:  计算器
+10:53:58:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:57:13:  学习 - 张开发 - 印象笔记
+10:57:23:  2-财务分配 - 张开发 - 印象笔记
+10:57:33:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:58:48:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+10:58:48:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)
+11:00:48:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+11:01:58:  PeopleSoft 会话已过期 - Internet Explorer
+11:02:18:  Oracle | PeopleSoft Enterprise 登录 - Internet Explorer
+11:02:58:  员工自助 - Internet Explorer
+11:03:03:  考勤异常 - Internet Explorer
+11:03:08:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+11:10:18:  D:\00-06\DRB--\Applications\PlateCtrl\LowerPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+11:10:28:  D:\00-06\DRB--\Middlewares\Plate\LowerPlate.c (DRB--) - Sublime Text (UNREGISTERED)
+11:11:28:  00-06
+11:11:33:  trunk
+11:11:48:  D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+11:11:53:  untitled (DRB-NearFull) - Sublime Text (UNREGISTERED)
+11:12:03:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+11:18:53:  于斌1
+11:20:08:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+11:20:38:  于斌1
+11:20:43:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+11:21:28:  于斌1
+11:21:43:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+11:21:58:  于斌1
+11:23:38:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+11:23:43:  于斌1
+11:24:38:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+11:26:33:  于斌1
+11:26:43:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+11:30:44:  于斌1
+11:32:09:  eSpace
+11:32:14:  于斌1
+11:32:59:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+11:33:09:  于斌1
+11:34:29:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+11:34:49:  于斌1
+11:38:09:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+11:38:14:  本地磁盘 (D:)
+11:38:19:  D:\00-06\DRB-- - 日志信息 - TortoiseSVN
+11:38:29:  LowerPlate.c Revision 4166 - TortoiseMerge
+11:38:39:  D:\00-06\DRB--\Middlewares\Plate\LowerPlate.c (DRB--) - Sublime Text (UNREGISTERED)
+11:38:49:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+11:38:54:  于斌1
+11:39:54:  D:\00-06\DRB--\Middlewares\Plate\LowerPlate.c (DRB--) - Sublime Text (UNREGISTERED)
+11:40:04:  CRS样机版本2
+11:40:19:  锁屏状态
+13:08:05:  D:\00-06\DRB--\Middlewares\Plate\LowerPlate.c (DRB--) - Sublime Text (UNREGISTERED)
+13:08:10:  新标签页 - Google Chrome
+13:08:25:  新建文本文档.exe - 快捷方式
+13:08:30:  www.baidu.com - Google Chrome
+13:08:35:  39nat_百度搜索 - Google Chrome
+13:08:40:  39nat-免费内网穿透工具 - Google Chrome
+13:09:15:  新标签页 - Google Chrome
+13:09:20:  树莓派嘿嘿嘿 - Google Chrome
+13:09:25:  新标签页 - Google Chrome
+13:09:30:  树莓派嘿嘿嘿 - Google Chrome
+13:09:35:  D:\00-06\DRB--\Middlewares\Plate\LowerPlate.c (DRB--) - Sublime Text (UNREGISTERED)
+13:09:40:  无标题 - Google Chrome
+13:09:45:  39nat-免费内网穿透工具 - Google Chrome
+13:11:00:  新标签页 - Google Chrome
+13:11:05:  39nat-免费内网穿透工具 - Google Chrome
+13:11:35:  树莓派嘿嘿嘿 - Google Chrome
+13:11:40:  桌面整理
+13:11:45:  PuTTY Configuration
+13:11:55:  120.26.68.165 - PuTTY
+13:12:00:  PuTTY Configuration
+13:15:20:  登录 - WinSCP
+13:15:25:  警告
+13:15:30:  39nat-免费内网穿透工具 - Google Chrome
+13:15:35:  dan - 2 - WinSCP
+13:17:10:  新标签页 - Google Chrome
+13:17:15:  百度一下，你就知道 - Google Chrome
+13:17:25:  【python】获取目录下的最新文件夹/文件 - 抓虫使者 - 博客园 - Google Chrome
+13:17:50:  dan - 2 - WinSCP
+13:17:55:  pi - 2 - WinSCP
+13:18:05:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+13:18:10:  pi - 2 - WinSCP
+13:18:15:  选项
+13:18:25:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+13:18:50:  pi - 2 - WinSCP
+13:18:55:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+13:19:00:  pi - 2 - WinSCP
+13:19:05:  120.26.68.165 - PuTTY
+13:19:10:  pi@raspberrypi: ~
+13:19:30:  开始
+13:19:35:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+13:19:55:  【python】获取目录下的最新文件夹/文件 - 抓虫使者 - 博客园 - Google Chrome
+13:20:05:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+13:20:10:  pi@raspberrypi: ~
+13:20:20:  PuTTY Exit Confirmation
+13:20:25:  pi - 2 - WinSCP
+13:20:30:  /home/pi/postfile.csv - 2 - 编辑器 - WinSCP
+13:20:35:  pi - 2 - WinSCP
+13:20:40:  /home/pi/TheDate.txt - 2 - 编辑器 - WinSCP
+13:20:45:  PuTTY Exit Confirmation
+13:20:50:  pi - 2 - WinSCP
+13:20:55:  PuTTY Configuration
+13:21:05:  120.26.68.165 - PuTTY
+13:21:15:  pi@raspberrypi: ~
+13:21:55:  PuTTY Exit Confirmation
+13:22:00:  pi - 2 - WinSCP
+13:22:10:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+13:22:15:  pi - 2 - WinSCP
+13:22:20:  开始
+13:22:35:  pi - 2 - WinSCP
+13:22:40:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+13:23:05:  确认
+13:23:20:  D:\00-06\DRB--\Middlewares\Plate\LowerPlate.c (DRB--) - Sublime Text (UNREGISTERED)
+13:23:25:  新标签页 - Google Chrome
+13:23:35:  历史记录 - Google Chrome
+13:23:45:  记账 - 随手记 - Google Chrome
+13:24:20:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+13:24:25:  登录 - WinSCP
+13:24:30:  2 - WinSCP
+13:24:35:  dan - 2 - WinSCP
+13:24:45:  trunk
+13:24:50:  TheDateInfo.xls  [兼容模式] - Excel
+13:25:20:  Microsoft Excel
+13:25:25:  锁屏状态
+13:25:30:  新标签页 - Google Chrome
+13:25:40:  文档
+13:25:50:  TD回复格式.docx [兼容模式] - Word
+13:25:55:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+13:27:35:  dan - 2 - WinSCP
+13:27:40:  pi - 2 - WinSCP
+13:27:50:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+13:28:10:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+13:28:10:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+13:31:35:  pi - 2 - WinSCP
+13:31:40:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+13:32:05:  pi - 2 - WinSCP
+13:32:15:  /home/pi/TheDate.txt - 2 - 编辑器 - WinSCP
+13:32:25:  pi - 2 - WinSCP
+13:32:35:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+13:34:30:  pi - 2 - WinSCP
+13:34:35:  /home/pi/TheDate.txt - 2 - 编辑器 - WinSCP
+13:34:40:  pi - 2 - WinSCP
+13:34:50:  同步
+13:34:55:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+13:35:00:  PuTTY Configuration
+13:35:05:  120.26.68.165 - PuTTY
+13:35:20:  pi@raspberrypi: ~
+13:35:30:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+13:35:35:  新标签页 - Google Chrome
+13:35:40:  记账 - 随手记 - Google Chrome
+13:35:55:  pi@raspberrypi: ~
+13:36:10:  信息
+13:36:15:  pi - 2 - WinSCP
+13:36:20:  pi@raspberrypi: ~
+13:36:40:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+13:37:15:  pi@raspberrypi: ~
+13:37:25:  pi - 2 - WinSCP
+13:37:30:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+13:38:05:  pi@raspberrypi: ~
+13:38:15:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+13:38:20:  pi@raspberrypi: ~
+13:38:30:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+13:38:35:  pi@raspberrypi: ~
+13:38:40:  pi - 2 - WinSCP
+13:38:55:  /home/pi/postfile.csv - 2 - 编辑器 - WinSCP
+13:39:00:  0% 下载中
+13:39:05:  /home/pi/TheDate.txt - 2 - 编辑器 - WinSCP
+13:39:20:  pi@raspberrypi: ~
+13:39:25:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+13:39:35:  员工自助 - Internet Explorer
+13:39:40:  未连接到网络 - Internet Explorer
+13:40:00:  系统登录 - Internet Explorer
+13:40:40:  新北洋OA信息化平台 - Internet Explorer
+13:40:50:  员工自助 - Internet Explorer
+13:40:55:  Employee-facing registry content - Internet Explorer
+13:41:05:  绩效申请 - Internet Explorer
+13:42:50:  绩效评价 - Internet Explorer
+13:42:55:  绩效申请 - Internet Explorer
+13:43:25:  绩效评价 - Internet Explorer
+13:43:45:  于斌1
+13:43:50:  PuTTY Fatal Error
+13:44:00:  2
+13:44:05:  登录
+13:44:10:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+13:44:20:  PuTTY (inactive)
+13:44:25:  /home/pi/TheDate.txt - 2 - 编辑器 - WinSCP
+13:44:30:  文件下载
+13:44:35:  120.26.68.165 - PuTTY
+13:44:40:  pi@raspberrypi: ~
+13:44:50:  pi - 2 - WinSCP
+13:44:55:  pi@raspberrypi: ~
+13:44:05:  登录
+13:44:10:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+13:44:20:  PuTTY (inactive)
+13:44:25:  /home/pi/TheDate.txt - 2 - 编辑器 - WinSCP
+13:44:30:  文件下载
+13:44:35:  120.26.68.165 - PuTTY
+13:44:40:  pi@raspberrypi: ~
+13:44:50:  pi - 2 - WinSCP
+13:44:55:  pi@raspberrypi: ~
+13:45:05:  新标签页 - Google Chrome
+13:45:10:  记账 - 随手记 - Google Chrome
+13:45:20:  pi@raspberrypi: ~
+13:46:00:  新标签页 - Google Chrome
+13:46:05:  记账 - 随手记 - Google Chrome
+13:47:20:  随手记 - Google Chrome
+13:47:25:  记账 - 随手记 - Google Chrome
+13:47:30:  PuTTY Exit Confirmation
+13:47:35:  下载
+13:47:40:  文档
+13:47:45:  pi - 2 - WinSCP
+13:47:50:  文档
+13:48:05:  pi - 2 - WinSCP
+13:48:15:  login.png - Windows 照片查看器
+13:48:20:  回收 
+13:48:25:  pi - 2 - WinSCP
+13:48:30:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+13:51:15:  计算器
+13:52:35:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+13:52:55:  文档
+13:53:00:  DRB--
+13:53:05:  D:\00-06\DRB-- - 工作副本 - TortoiseSVN
+13:53:15:  DRB--
+13:53:20:  D:\00-06\DRB-- - 工作副本 - TortoiseSVN
+13:53:25:  DRB--
+13:53:30:  D:\00-06\DRB-- - 日志信息 - TortoiseSVN
+13:53:40:  trunk
+13:53:50:  meger
+13:53:55:  D:\00-06\meger - 日志信息 - TortoiseSVN
+13:54:00:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+13:54:30:  2-财务分配 - 张开发 - 印象笔记
+13:54:35:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+13:54:45:  锁屏状态
+13:54:50:  百度一下，你就知道 - Google Chrome
+13:55:05:  一个手机号申请几个QQ_百度搜索 - Google Chrome
+13:55:10:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+13:55:30:  Employee-facing registry content - Internet Explorer
+13:55:35:  绩效评价 - Internet Explorer
+13:55:45:  绩效申请 - Internet Explorer
+13:55:50:  绩效评价 - Internet Explorer
+13:56:05:  新北洋OA信息化平台 - Internet Explorer
+13:56:10:  http://hrms.byintra.com:8800/psc/HCMPRD/EMPLOYEE/HRMS/s/WEBLIB_PORTAL1.ICRIPTPORTAL.FieldFormul - Internet Explorer
+13:56:20:  员工自助 - Internet Explorer
+13:56:30:  绩效申请 - Internet Explorer
+13:56:45:  员工自助 - Internet Explorer
+13:56:50:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+13:57:00:  Employee-facing registry content - Internet Explorer
+13:57:05:  绩效申请 - Internet Explorer
+13:57:35:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+13:57:45:  2-财务分配 - 张开发 - 印象笔记
+13:58:00:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+13:58:10:  锁屏状态
+13:58:15:  TheDateInfo.xls  [兼容模式] - Excel
+13:58:30:  文档
+13:58:35:  新建文本文档.exe - 快捷方式
+13:58:40:  新标签页 - Google Chrome
+13:58:45:  www.sui.com - Google Chrome
+13:59:05:  随手记 - Google Chrome
+13:59:15:  文档
+13:59:45:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:00:00:  新标签页 - Google Chrome
+13:58:10:  锁屏状态
+13:58:15:  TheDateInfo.xls  [兼容模式] - Excel
+13:58:30:  文档
+13:58:35:  新建文本文档.exe - 快捷方式
+13:58:40:  新标签页 - Google Chrome
+13:58:45:  www.sui.com - Google Chrome
+13:59:05:  随手记 - Google Chrome
+13:59:15:  文档
+13:59:45:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:00:00:  新标签页 - Google Chrome
+14:00:05:  39nat-免费内网穿透工具 - Google Chrome
+14:00:10:  新建文本文档.exe - 快捷方式
+14:00:15:  D:\00-06\DRB--\Middlewares\Plate\LowerPlate.c (DRB--) - Sublime Text (UNREGISTERED)
+14:00:20:  D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:00:25:  选择文件夹
+14:00:30:  untitled (meger) - Sublime Text (UNREGISTERED)
+14:00:35:  新标签页 - Google Chrome
+14:00:40:  untitled (meger) - Sublime Text (UNREGISTERED)
+14:01:35:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:01:40:  选择文件夹
+14:01:50:  untitled (DRB--) - Sublime Text (UNREGISTERED)
+14:02:10:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+14:02:15:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:02:20:  D:\00-06\meger\Applications\Initial\Initial.c (meger) - Sublime Text (UNREGISTERED)
+14:02:25:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c • (meger) - Sublime Text (UNREGISTERED)
+14:02:35:  锁屏状态
+14:02:45:  王亮杰
+14:05:50:  Employee-facing registry content - Internet Explorer
+14:05:55:  绩效申请 - Internet Explorer
+14:06:40:  新北洋OA信息化平台 - Internet Explorer
+14:06:45:  系统登录 - Internet Explorer
+14:08:10:  新北洋OA信息化平台 - Internet Explorer
+14:08:15:  员工自助 - Internet Explorer
+14:08:20:  Employee-facing registry content - Internet Explorer
+14:08:25:  新北洋OA信息化平台 - Internet Explorer
+14:08:30:  系统登录 - Internet Explorer
+14:08:35:  员工自助 - Internet Explorer
+14:08:40:  Employee-facing registry content - Internet Explorer
+14:08:45:  新北洋OA信息化平台 - Internet Explorer
+14:08:50:  Oracle | PeopleSoft Enterprise 登录 - Internet Explorer
+14:08:55:  员工自助 - Internet Explorer
+14:09:00:  Employee-facing registry content - Internet Explorer
+14:09:05:  绩效申请 - Internet Explorer
+14:09:20:  新北洋OA信息化平台 - Internet Explorer
+14:09:25:  Oracle | PeopleSoft Enterprise 登录 - Internet Explorer
+14:09:40:  系统登录 - Internet Explorer
+14:10:00:  本地磁盘 (D:)
+14:10:05:  系统登录 - Internet Explorer
+14:10:35:  锁屏状态
+14:10:40:  系统登录 - Internet Explorer
+14:10:55:  主页 - Internet Explorer
+14:11:00:  系统登录 - Internet Explorer
+14:14:05:  新北洋OA信息化平台 - Internet Explorer
+14:14:15:  Internet Explorer
+14:14:20:  Employee-facing registry content - Internet Explorer
+14:14:25:  绩效申请 - Internet Explorer
+14:14:30:  eSpace
+14:14:35:  于斌1
+14:14:45:  Employee-facing registry content - Internet Explorer
+14:14:50:  绩效评价 - Internet Explorer
+14:14:55:  于斌1
+14:14:05:  新北洋OA信息化平台 - Internet Explorer
+14:14:15:  Internet Explorer
+14:14:20:  Employee-facing registry content - Internet Explorer
+14:14:25:  绩效申请 - Internet Explorer
+14:14:30:  eSpace
+14:14:35:  于斌1
+14:14:45:  Employee-facing registry content - Internet Explorer
+14:14:50:  绩效评价 - Internet Explorer
+14:14:55:  于斌1
+14:15:05:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+14:15:15:  员工自助 - Internet Explorer
+14:15:25:  Employee-facing registry content - Internet Explorer
+14:15:30:  绩效评价 - Internet Explorer
+14:15:45:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+14:15:50:  本地磁盘 (D:)
+14:16:10:  C:\Windows\system32\cmd.exe
+14:16:40:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+14:16:50:  2-财务分配 - 张开发 - 印象笔记
+14:17:05:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+14:17:10:  员工自助 - Internet Explorer
+14:17:20:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:17:35:  深圳出差
+14:17:40:  HistoryStruct.h - TortoiseMerge
+14:17:45:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+14:17:50:  EepHisApp.c - TortoiseMerge
+14:18:05:  TortoiseMerge
+14:18:20:  绩效申请 - Internet Explorer
+14:18:35:  Employee-facing registry content - Internet Explorer
+14:18:40:  绩效申请 - Internet Explorer
+14:18:45:  Employee-facing registry content - Internet Explorer
+14:19:25:  绩效评价 - Internet Explorer
+14:19:30:  新北洋OA信息化平台 - Internet Explorer
+14:19:35:  绩效申请 - Internet Explorer
+14:19:45:  Oracle | PeopleSoft Enterprise 登录 - Internet Explorer
+14:19:50:  Employee-facing registry content - Internet Explorer
+14:20:35:  绩效申请 - Internet Explorer
+14:21:55:  绩效评价 - Internet Explorer
+14:22:00:  员工自助 - Internet Explorer
+14:22:15:  Oracle | PeopleSoft Enterprise 登录 - Internet Explorer
+14:22:45:  员工自助 - Internet Explorer
+14:22:50:  Employee-facing registry content - Internet Explorer
+14:22:55:  绩效申请 - Internet Explorer
+14:23:10:  员工自助 - Internet Explorer
+14:23:15:  办事指南 - Internet Explorer
+14:23:30:  办事指南展示 - Internet Explorer
+14:24:05:  办事指南 - Internet Explorer
+14:24:10:  办事指南展示 - Internet Explorer
+14:24:25:  办事指南 - Internet Explorer
+14:24:35:  员工自助 - Internet Explorer
+14:24:40:  考勤异常 - Internet Explorer
+14:25:10:  员工自助 - Internet Explorer
+14:25:15:  「开始」菜单
+14:25:30:  提示
+14:25:35:  员工自助 - Internet Explorer
+14:25:45:  Progress Telerik Fiddler Web Debugger
+14:25:50:  Windows Internet Explorer
+14:26:00:  Progress Telerik Fiddler Web Debugger
+14:26:20:  Employee-facing registry content - Internet Explorer
+14:26:25:  Progress Telerik Fiddler Web Debugger
+14:26:30:  Employee-facing registry content - Internet Explorer
+14:26:55:  Progress Telerik Fiddler Web Debugger
+14:27:20:  Employee-facing registry content - Internet Explorer
+14:27:25:  Progress Telerik Fiddler Web Debugger
+14:27:35:  Employee-facing registry content - Internet Explorer
+14:27:40:  Progress Telerik Fiddler Web Debugger
+14:28:10:  Employee-facing registry content - Internet Explorer
+14:28:20:  Progress Telerik Fiddler Web Debugger
+14:29:30:  于斌1
+14:29:35:  Employee-facing registry content - Internet Explorer
+14:29:40:  提示
+14:29:45:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+14:29:50:  gfgd
+14:29:55:  本地磁盘 (E:)
+14:30:00:  本地磁盘 (F:)
+14:28:10:  Employee-facing registry content - Internet Explorer
+14:28:20:  Progress Telerik Fiddler Web Debugger
+14:29:30:  于斌1
+14:29:35:  Employee-facing registry content - Internet Explorer
+14:29:40:  提示
+14:29:45:  D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+14:29:50:  gfgd
+14:29:55:  本地磁盘 (E:)
+14:30:00:  本地磁盘 (F:)
+14:30:05:  小程序
+14:30:10:  getTheDieal
+14:30:15:  小程序
+14:30:20:  TheText
+14:30:25:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:30:40:  *GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)*
+14:31:20:  Progress Telerik Fiddler Web Debugger
+14:31:30:  *GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)*
+14:31:40:  Progress Telerik Fiddler Web Debugger
+14:31:55:  GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)
+14:32:25:  锁屏状态
+14:32:30:  GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)
+14:32:45:  Progress Telerik Fiddler Web Debugger
+14:32:50:  GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)
+14:33:00:  *GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)*
+14:33:20:  员工自助 - Internet Explorer
+14:33:25:  *GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)*
+14:33:35:  *Python 3.7.3 Shell*
+14:33:40:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:33:45:  *Python 3.7.3 Shell*
+14:33:55:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:34:00:  *Python 3.7.3 Shell*
+14:34:10:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:34:15:  *GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)*
+14:34:25:  我的薪酬 - Internet Explorer
+14:35:00:  员工自助 - Internet Explorer
+14:35:05:  *GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)*
+14:35:56:  *Python 3.7.3 Shell*
+14:36:26:  Progress Telerik Fiddler Web Debugger
+14:37:36:  *Python 3.7.3 Shell*
+14:37:41:  我的薪酬 - Internet Explorer
+14:37:46:  Progress Telerik Fiddler Web Debugger
+14:38:06:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:38:16:  Python 3.7.3 Shell
+14:38:21:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:38:26:  *Python 3.7.3 Shell*
+14:38:41:  Kill?
+14:38:46:  Progress Telerik Fiddler Web Debugger
+14:38:51:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:39:01:  *GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)*
+14:39:06:  Progress Telerik Fiddler Web Debugger
+14:39:16:  *Python 3.7.3 Shell*
+14:39:21:  GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)
+14:39:46:  Progress Telerik Fiddler Web Debugger
+14:40:26:  Oracle | PeopleSoft Enterprise 登录 - Internet Explorer
+14:40:41:  Progress Telerik Fiddler Web Debugger
+14:41:41:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:41:46:  Progress Telerik Fiddler Web Debugger
+14:41:51:  GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)
+14:42:16:  Progress Telerik Fiddler Web Debugger
+14:42:21:  GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)
+14:42:46:  Progress Telerik Fiddler Web Debugger
+14:42:56:  GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)
+14:43:06:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:43:41:  Search Dialog
+14:43:56:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:44:06:  Search Dialog
+14:44:11:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:44:21:  Progress Telerik Fiddler Web Debugger
+14:44:26:  GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)
+14:44:46:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:44:51:  GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)
+14:44:56:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:44:06:  Search Dialog
+14:44:11:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:44:21:  Progress Telerik Fiddler Web Debugger
+14:44:26:  GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)
+14:44:46:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:44:51:  GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)
+14:44:56:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:45:06:  *GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)*
+14:45:11:  *Python 3.7.3 Shell*
+14:45:36:  Progress Telerik Fiddler Web Debugger
+14:45:41:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:45:46:  GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)
+14:46:01:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+14:46:06:  *GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)*
+14:46:11:  *Python 3.7.3 Shell*
+14:46:16:  Progress Telerik Fiddler Web Debugger
+14:46:21:  Kill?
+14:46:26:  GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)
+14:48:11:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:48:36:  GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)
+14:48:41:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:48:51:  于斌1
+14:49:01:  CRSTesttool
+14:49:06:  文件共享
+14:49:16:  于斌1
+14:49:21:  运行
+14:49:26:  Users
+14:49:31:  yf-zhangkaifa
+14:49:36:  zhangkaifa
+14:49:41:  Users
+14:49:46:  本地磁盘 (D:)
+14:49:51:  log
+14:49:56:  高级共享
+14:50:01:  文件共享
+14:50:11:  TCRControlCmdDLL
+14:50:16:  Decode
+14:50:21:  TCRControlCmdDLL
+14:50:26:  20201218
+14:50:31:  Decode
+14:50:36:  LogExpert - C:\Users\zhangkaifa\Desktop\新建文件夹 (3)\CRSTesttool(1)\CRSTesttool\log\TCRControlCmdDLL\20201218\Decode\K64_0000_20201218094052.log
+14:50:46:  Decode
+14:50:51:  TCRControlCmdDLL
+14:50:56:  20201217
+14:51:01:  K64_0000_20201217162006-300 - 写邮件
+14:51:11:  于斌1
+14:51:21:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:51:36:  GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)
+14:57:46:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+14:58:06:  00-06
+14:58:11:  Project
+14:58:16:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:58:21:  于斌1
+14:58:26:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:58:41:  于斌1
+14:58:51:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:58:56:  于斌1
+14:58:06:  00-06
+14:58:11:  Project
+14:58:16:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:58:21:  于斌1
+14:58:26:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:58:41:  于斌1
+14:58:51:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:58:56:  于斌1
+15:03:26:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:03:31:  20201217
+15:03:36:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:03:41:  打开
+15:03:46:  CRS调测工具（研发版）V1.0.2.1
+15:03:56:  打开
+15:04:11:  CRS调测工具（研发版）V1.0.2.1
+15:06:06:  钞箱配置
+15:06:11:  取款
+15:06:21:  CRS调测工具（研发版）V1.0.2.1
+15:06:41:  20201221
+15:06:46:  Decode
+15:06:56:  K64_0000_20201221150620.log - DRB.tat* - TextAnalysisTool.NET
+15:07:16:  Decode
+15:07:21:  Project
+15:07:26:  06- 刘建生
+15:07:31:  07 出差报告
+15:07:51:  CRS
+15:07:56:  正在打开 - Excel
+15:08:01:  6.2.3.1 流程测试V1.1.xlsx  [受保护的视图] - Excel
+15:08:21:  主控板集成测试方案-报告
+15:08:26:  20201221
+15:08:31:  20201218
+15:08:36:  Decode
+15:08:41:  20201217
+15:08:46:  Decode
+15:08:51:  K64_0000_20201217162006-300.log - DRB.tat* - TextAnalysisTool.NET
+15:11:21:  6.2.3.1 流程测试V1.1.xlsx  [受保护的视图] - Excel
+15:11:46:  主控板集成测试方案-报告
+15:11:51:  Decode
+15:11:56:  K64_0000_20201217162006-300.log - DRB.tat* - TextAnalysisTool.NET
+15:12:01:  K64_0000_20201217162551.log - DRB.tat* - TextAnalysisTool.NET
+15:12:11:  查找
+15:12:21:  K64_0000_20201217162551.log - DRB.tat* - TextAnalysisTool.NET
+15:12:26:  Decode
+15:12:31:  K64_0000_20201217162723.log - DRB.tat* - TextAnalysisTool.NET
+15:12:36:  CRS调测工具（研发版）V1.0.2.1
+15:12:41:  取款
+15:12:46:  于斌1
+15:13:31:  Decode
+15:14:36:  CRS调测工具（研发版）V1.0.2.1
+15:14:41:  20201221
+15:14:46:  K64_0000_20201221151242 - 写邮件
+15:14:56:  20201221
+15:14:36:  CRS调测工具（研发版）V1.0.2.1
+15:14:41:  20201221
+15:14:46:  K64_0000_20201221151242 - 写邮件
+15:14:56:  20201221
+15:15:26:  锁屏状态
+15:15:31:  CRS调测工具（研发版）V1.0.2.1
+15:15:41:  取款
+15:15:46:  CRS调测工具（研发版）V1.0.2.1
+15:16:01:  提示
+15:16:06:  查找
+15:16:11:  CRS_ErrCode_list_excel_flg.txt - 记事本
+15:21:46:  取款
+15:21:56:  CRS调测工具（研发版）V1.0.2.1
+15:22:31:  TCRControlCmdDLL
+15:22:36:  Decode
+15:22:41:  K64_0000_20201221152152.log - DRB.tat* - TextAnalysisTool.NET
+15:22:51:  Decode
+15:23:11:  锁屏状态
+15:23:16:  CRS调测工具（研发版）V1.0.2.1
+15:24:01:  20201221
+15:24:06:  K64_0000_20201221152314.log - DRB.tat* - TextAnalysisTool.NET
+15:24:31:  K64_0000_20201221152314 - 写邮件
+15:24:36:  Decode
+15:24:41:  于斌1
+15:24:51:  *Python 3.7.3 Shell*
+15:24:56:  GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)
+15:25:01:  提示
+15:25:06:  EXTFEDU6V1.3.PDF - Adobe Reader
+15:25:11:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:25:21:  桌面整理
+15:25:31:  2 - WinSCP
+15:25:36:  pi - 2 - WinSCP
+15:25:41:  /home/pi/p12.py - 2 - 编辑器 - WinSCP
+15:27:06:  pi - 2 - WinSCP
+15:27:26:  确认
+15:27:31:  主控板集成测试方案-报告
+15:27:41:  登录 - WinSCP
+15:27:46:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+15:27:51:  dan - 2 - WinSCP
+15:27:56:  文档
+15:28:01:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:28:06:  文档
+15:28:11:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:28:21:  文档
+15:28:26:  alipay_record_20201221_1223_1.csv - Excel
+15:28:41:  Excel
+15:28:46:  alipay_record_20201221_1223_1.csv - Excel
+15:28:51:  Microsoft Excel
+15:28:56:  alipay_record_20201221_1223_1.csv - Excel
+15:28:06:  文档
+15:28:11:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:28:21:  文档
+15:28:26:  alipay_record_20201221_1223_1.csv - Excel
+15:28:41:  Excel
+15:28:46:  alipay_record_20201221_1223_1.csv - Excel
+15:28:51:  Microsoft Excel
+15:28:56:  alipay_record_20201221_1223_1.csv - Excel
+15:30:11:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+15:30:21:  K64_0000_20201221152314.log - DRB.tat* - TextAnalysisTool.NET
+15:30:36:  新建文本文档.exe - 快捷方式
+15:30:41:  K64_0000_20201221152314.log - DRB.tat* - TextAnalysisTool.NET
+15:30:56:  于斌1
+15:31:06:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+15:31:11:  员工自助 - Internet Explorer
+15:31:16:  Employee-facing registry content - Internet Explorer
+15:31:21:  Oracle | PeopleSoft Enterprise 登录 - Internet Explorer
+15:31:26:  员工自助 - Internet Explorer
+15:31:31:  绩效申请 - Internet Explorer
+15:31:41:  于斌1
+15:32:01:  绩效申请 - Internet Explorer
+15:32:06:  K64_0000_20201221152314.log - DRB.tat* - TextAnalysisTool.NET
+15:33:26:  于斌1
+15:33:51:  新标签页 - Google Chrome
+15:34:01:  历史记录 - Google Chrome
+15:34:11:  于斌1
+15:34:21:  树莓派嘿嘿嘿 - Google Chrome
+15:34:26:  于斌1
+15:36:41:  树莓派嘿嘿嘿 - Google Chrome
+15:36:46:  2
+15:36:56:  于斌1
+15:37:06:  eSpace
+15:37:11:  于斌1
+15:37:21:  2
+15:37:31:  跳转列表
+15:37:36:  于斌1
+15:38:36:  K64_0000_20201221152314.log - DRB.tat* - TextAnalysisTool.NET
+15:38:41:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:39:01:  于斌1
+15:39:16:  2 - WinSCP
+15:39:21:  错误 - WinSCP
+15:39:26:  2 - WinSCP
+15:39:31:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:41:26:  于斌1
+15:41:46:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:42:36:  eSpace
+15:42:41:  于斌1
+15:43:01:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:43:16:  于斌1
+15:43:31:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:45:11:  2-财务分配 - 张开发 - 印象笔记
+15:55:57:  新标签页 - Google Chrome
+15:56:02:  百度一下，你就知道 - Google Chrome
+15:56:07:  拼多多口令怎么生成_百度搜索 - Google Chrome
+15:56:17:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:59:07:  alipay_record_20201221_1223_1.csv - Excel
+15:59:12:  Microsoft Excel
+15:59:17:  登录 - WinSCP
+15:59:27:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+15:59:07:  alipay_record_20201221_1223_1.csv - Excel
+15:59:12:  Microsoft Excel
+15:59:17:  登录 - WinSCP
+15:59:27:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:03:37:  D:\00-06\meger\Drivers\PeripheralDriver\SpiDriver\SnbcSpiDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:08:37:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+16:08:42:  EepHisApp.c - TortoiseMerge
+16:10:42:  锁屏状态
+16:10:47:  EepHisApp.c - TortoiseMerge
+16:10:57:  绩效申请 - Internet Explorer
+16:11:02:  Employee-facing registry content - Internet Explorer
+16:11:07:  绩效评价 - Internet Explorer
+16:11:12:  绩效申请 - Internet Explorer
+16:11:22:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+16:11:37:  员工自助 - Internet Explorer
+16:11:57:  http://hrms.byintra.com:8800/psc/HCMPRD/EMPLOYEE/HRMS/s/WEBLIB_PORTAL1.ICRIPTPORTAL.FieldFormul - Internet Explorer
+16:12:12:  新北洋OA信息化平台 - Internet Explorer
+16:12:57:  Employee-facing registry content - Internet Explorer
+16:13:02:  绩效申请 - Internet Explorer
+16:13:07:  员工自助 - Internet Explorer
+16:13:12:  eSpace
+16:13:17:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_AM_MENU.C_ANNUAL_EQUY.GBL?FolderPath= - Internet Explorer
+16:13:22:  我的假期 - Internet Explorer
+16:13:47:  新北洋OA信息化平台 - Internet Explorer
+16:14:27:  1_需求申请人_专利申请流程 - Internet Explorer
+16:14:27:  1_需求申请人_专利申请流程 - Internet Explorer
+16:15:32:  新北洋OA信息化平台 - Internet Explorer
+16:15:37:  1_需求申请人_专利申请流程 - Internet Explorer
+16:15:57:  新北洋OA信息化平台 - Internet Explorer
+16:16:07:  下载
+16:16:17:  CN108537979A-d1.pdf - Adobe Reader
+16:16:32:  20201208 顺丰自助寄件柜 一种自助寄件柜的物品存放方法 相关专利汇总.XLS  [兼容模式] - Excel
+16:16:37:  Microsoft Excel
+16:16:42:  Word
+16:16:47:  TD回复格式.docx [兼容模式] - Word
+16:16:52:  下载
+16:17:07:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+16:17:12:  HistoryStruct.h - TortoiseMerge
+16:17:22:  锁屏状态
+16:17:37:  D:\00-06\meger\Drivers\PeripheralDriver\SpiDriver\SnbcSpiDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:18:07:  eSpace
+16:18:17:  D:\00-06\meger\Drivers\PeripheralDriver\SpiDriver\SnbcSpiDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:18:27:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:18:57:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+16:21:57:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:22:02:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+16:23:12:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:23:22:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:23:52:  新北洋OA信息化平台 - Internet Explorer
+16:24:07:  Employee-facing registry content - Internet Explorer
+16:24:12:  绩效申请 - Internet Explorer
+16:24:27:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:24:37:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:26:52:  警告
+16:26:57:  第四季度
+16:27:02:  待分析-2020年四季度技改数据（11月-12月15日数据）-（）部门.xlsx  [受保护的视图] - Excel
+16:27:12:  待分析-2020年四季度技改数据（11月-12月15日数据）-（）部门.xlsx  [共享] - Excel
+16:27:27:  04 技改数据
+16:27:32:  Excel
+16:27:37:  待分析- 2020 年四季度TD缺陷报表（11月-12月15日数据）-（）部门.xlsx  [共享] - Excel
+16:32:57:  员工自助 - Internet Explorer
+16:33:02:  Employee-facing registry content - Internet Explorer
+16:33:07:  绩效申请 - Internet Explorer
+16:33:17:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+16:33:22:  Employee-facing registry content - Internet Explorer
+16:33:27:  绩效申请 - Internet Explorer
+16:33:47:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:33:52:  系统登录 - Internet Explorer
+16:33:57:  员工自助 - Internet Explorer
+16:34:07:  HistoryStruct.h - TortoiseMerge
+16:34:12:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:34:37:  D:\00-06\meger\Applications\PlateCtrl\LowerPlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+16:34:52:  D:\00-06\meger\Middlewares\Plate\LowerPlate.c (meger) - Sublime Text (UNREGISTERED)
+16:39:22:  2-财务分配 - 张开发 - 印象笔记
+16:39:27:  D:\00-06\meger\Middlewares\Plate\LowerPlate.c (meger) - Sublime Text (UNREGISTERED)
+16:40:22:  2-财务分配 - 张开发 - 印象笔记
+16:40:27:  D:\00-06\meger\Middlewares\Plate\LowerPlate.c (meger) - Sublime Text (UNREGISTERED)
+16:42:12:  D:\00-06\meger\Middlewares\Plate\LowerPlate.c • (meger) - Sublime Text (UNREGISTERED)
+16:46:37:  JLink - Cortex-M Error
+16:46:42:  Cortex JLink/JTrace Target Driver Setup
+16:46:47:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:50:12:  于斌1
+16:50:22:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:50:27:  于斌1
+16:50:57:  KE06LOG.bat - 快捷方式 (2)
+16:51:02:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012211650.log
+16:51:13:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+16:51:23:  D:\00-06\meger\Middlewares\Plate\LowerPlate.c • (meger) - Sublime Text (UNREGISTERED)
+16:52:48:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+16:53:03:  D:\00-06\meger\Applications\CashBoxInfo\CashBoxInfo.c (meger) - Sublime Text (UNREGISTERED)
+16:53:13:  D:\00-06\meger\Middlewares\Plate\LowerPlate.c • (meger) - Sublime Text (UNREGISTERED)
+17:00:03:  于斌1
+17:00:03:  于斌1
+17:00:08:  关于做好公司级困难职工申报工作的通知
+17:00:33:  于斌1
+17:00:43:  关于做好公司级困难职工申报工作的通知
+17:01:03:  于斌1
+17:01:18:  关于做好公司级困难职工申报工作的通知
+17:01:23:  于斌1
+17:04:33:  关于做好公司级困难职工申报工作的通知.doc
+17:04:48:  于斌1
+17:05:53:  附件：2020年度困难慰问补助申请表.docx
+17:05:58:  于斌1
+17:06:13:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012211650.log
+17:06:18:  TD回复格式.docx [兼容模式] - Word
+17:06:23:  于斌1
+17:06:48:  TD回复格式.docx [兼容模式] - Word
+17:06:53:  D:\00-06\meger\Middlewares\Plate\LowerPlate.c • (meger) - Sublime Text (UNREGISTERED)
+17:06:58:  D:\00-06\meger\Applications\CashBoxInfo\CashBoxInfo.h (meger) - Sublime Text (UNREGISTERED)
+17:07:03:  D:\00-06\meger\Middlewares\Plate\LowerPlate.c • (meger) - Sublime Text (UNREGISTERED)
+17:07:18:  于斌1
+17:07:23:  D:\00-06\meger\Middlewares\Plate\LowerPlate.c • (meger) - Sublime Text (UNREGISTERED)
+17:07:43:  D:\00-06\meger\Middlewares\Plate\LowerPlate.c (meger) - Sublime Text (UNREGISTERED)
+17:07:53:  锁屏状态

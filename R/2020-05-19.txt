@@ -1,0 +1,58 @@
+2020-05-19 08:09:42-- 08:30:02     :    一  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   69/5.75分钟       二  ：eSpace Login   23/1.91分钟     三  ：实时考勤管理系统 - Google Chrome   23/1.91分钟
+2020-05-19 08:30:02-- 09:00:02     :    一  ：副本DRB测试缺陷列表.xlsx - Excel   70/5.83分钟       二  ：Box_2__BTCR-1100190802300001_20200511103900.log - selector.tat* - TextAnalysisTool.NET   56/4.66分钟     三  ：TheOneForExcel.xls  [兼容模式] - Excel   37/3.08分钟
+2020-05-19 09:00:02-- 09:30:02     :    一  ：DRB测试缺陷列表.xlsx - Excel   296/24.6分钟       二  ：模具2.0缺陷汇总.xlsx  [受保护的视图] - Excel   14/1.16分钟     三  ：副本DRB测试缺陷列表.xlsx - Excel   11/0.91分钟
+2020-05-19 09:30:02-- 10:00:02     :    一  ：DRB测试缺陷列表.xlsx - Excel   165/13.7分钟       二  ：荆文波   33/2.75分钟     三  ：   21/1.75分钟
+2020-05-19 10:45:15-- 10:45:20     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 14:45:45-- 14:45:50     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 08:53:48-- 11:00:04     :    一  ：日期和时间   20/1.66分钟       二  ：F:\小程序\CashboxDatePur.py (1T1-fenchao) - Sublime Text (UNREGISTERED)   14/1.16分钟     三  ：ID-21 使用20元和5元各300张进行随机混合后，执行第一次大额存款291张，上腔（5元）入钞142，下腔（20元）入钞149张后，第二次执行大额存款，上腔入钞（5元）148张，剩余（1   7/0.58分钟
+2020-05-19 11:00:04-- 11:15:04     :    一  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   159/13.2分钟       二  ：eSpace   16/1.33分钟     三  ：F:\小程序\CashboxDatePur.py (1T1-fenchao) - Sublime Text (UNREGISTERED)   2/0.16分钟
+2020-05-19 11:15:04-- 11:30:04     :    一  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   176/14.6分钟       二  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)   3/0.25分钟     三  ：D:\00-KE64\4\trunk\Applications\FlowControl\Plate\PlateModuleIF.h (trunk) - Sublime Text (UNREGISTERED)   1/0.08分钟
+2020-05-19 11:30:04-- 11:45:04     :    一  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   152/12.6分钟       二  ：2020-05-19.txt - 记事本   6/0.5分钟     三  ：窦志远   5/0.41分钟
+2020-05-19 11:45:04-- 12:00:04     :    一  ：锁屏状态   159/13.2分钟       二  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   21/1.75分钟     三  ：   0/0.0分钟
+2020-05-19 12:00:04-- 12:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 12:15:00-- 12:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 12:30:00-- 12:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 12:45:00-- 13:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 13:00:00-- 13:15:00     :    一  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   90/7.5分钟       二  ：锁屏状态   26/2.16分钟     三  ：Box_2__12121212_20200516133624.log - selector.tat* - TextAnalysisTool.NET   9/0.75分钟
+2020-05-19 13:15:00-- 13:30:01     :    一  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   52/4.33分钟       二  ：CashGateModuleApp.c - TortoiseMerge   45/3.75分钟     三  ：自动播放   21/1.75分钟
+2020-05-19 13:30:01-- 13:45:01     :    一  ：thief-book   107/8.91分钟       二  ：C:\Users\zhangkaifa\Downloads\260878.txt (trunk) - Sublime Text (UNREGISTERED)   15/1.25分钟     三  ：新标签页 - Google Chrome   11/0.91分钟
+2020-05-19 13:45:01-- 14:00:02     :    一  ：刘建生   81/6.75分钟       二  ：thief-book   77/6.41分钟     三  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   21/1.75分钟
+2020-05-19 14:00:02-- 14:15:03     :    一  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   140/11.6分钟       二  ：MindMaster Pro   35/2.91分钟     三  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)   3/0.25分钟
+2020-05-19 14:15:03-- 14:30:03     :    一  ：D:\00-KE64\4\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)   58/4.83分钟       二  ：D:\00-06\DRB-Seclect-New\Drivers\SensorDriver\SensorDriver.h (DRB-Seclect-New) - Sublime Text (UNREGISTERED)   32/2.66分钟     三  ：K64-_12121212_20200516133624.log - selector.tat* - TextAnalysisTool.NET   29/2.41分钟
+2020-05-19 14:30:03-- 14:45:03     :    一  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   70/5.83分钟       二  ：MindMaster Pro   47/3.91分钟     三  ：D:\00-06\DRB-Seclect-New\Drivers\SensorDriver\SensorDriver.h (DRB-Seclect-New) - Sublime Text (UNREGISTERED)   26/2.16分钟
+2020-05-19 14:45:03-- 15:00:03     :    一  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   160/13.3分钟       二  ：MindMaster Pro   17/1.41分钟     三  ：于斌1   3/0.25分钟
+2020-05-19 15:00:03-- 15:15:04     :    一  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   114/9.5分钟       二  ：MindMaster Pro   30/2.5分钟     三  ：于斌1   30/2.5分钟
+2020-05-19 15:15:04-- 15:30:04     :    一  ：MindMaster Pro   90/7.5分钟       二  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   51/4.25分钟     三  ：于斌1   26/2.16分钟
+2020-05-19 15:30:04-- 15:45:02     :    一  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   89/7.41分钟       二  ：eSpace   19/1.58分钟     三  ：D:\00-KE64\4\trunk\Project\k64_rtt.uvprojx - μVision   17/1.41分钟
+2020-05-19 15:45:02-- 16:00:02     :    一  ：thief-book   48/4.0分钟       二  ：Box_2__12121212_20200519155002.log - K64状态机分析.tat* - TextAnalysisTool.NET   30/2.5分钟     三  ：D:\00-KE64\4\trunk\Project\k64_rtt.uvprojx - μVision   27/2.25分钟
+2020-05-19 16:00:02-- 16:15:03     :    一  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   91/7.58分钟       二  ：TCR调测工具 V3.36   37/3.08分钟     三  ：MindMaster Pro   22/1.83分钟
+2020-05-19 16:15:03-- 16:30:03     :    一  ：K64-_12121212_20200519161541.log - K64状态机分析.tat - TextAnalysisTool.NET   49/4.08分钟       二  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   41/3.41分钟     三  ：4 第2轮整改DRB测试   30/2.5分钟
+2020-05-19 16:30:03-- 16:45:04     :    一  ：TCR调测工具 V3.36   177/14.7分钟       二  ：4 第2轮整改DRB测试   3/0.25分钟     三  ：   0/0.0分钟
+2020-05-19 16:45:04-- 17:00:04     :    一  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)   77/6.41分钟       二  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   68/5.66分钟     三  ：TCR调测工具 V3.36   15/1.25分钟
+2020-05-19 17:00:04-- 17:15:02     :    一  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   101/8.41分钟       二  ：锁屏状态   74/6.16分钟     三  ：D:\00-KE64\4\trunk\Project\k64_rtt.uvprojx - μVision   2/0.16分钟
+2020-05-19 17:15:02-- 17:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 17:30:02-- 17:45:02     :    一  ：锁屏状态   69/5.75分钟       二  ：K64-_12121212_20200519164613.log - K64状态机分析.tat* - TextAnalysisTool.NET   25/2.08分钟     三  ：TCR调测工具 V3.36   21/1.75分钟
+2020-05-19 17:45:02-- 18:00:02     :    一  ：K64_12121212_20200519174357   112/9.33分钟       二  ：K64-_12121212_20200519174357.log - K64状态机分析.tat* - TextAnalysisTool.NET   54/4.5分钟     三  ：K64_12121212_20200519164613   8/0.66分钟
+2020-05-19 18:00:02-- 18:15:03     :    一  ：MindMaster Pro   76/6.33分钟       二  ：D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   61/5.08分钟     三  ：K64_12121212_20200519174357   31/2.58分钟
+2020-05-19 18:15:03-- 18:30:03     :    一  ：MindMaster Pro   64/5.33分钟       二  ：锁屏状态   56/4.66分钟     三  ：eSpace   23/1.91分钟
+2020-05-19 18:30:03-- 18:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 18:45:03-- 19:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 19:00:03-- 19:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 19:15:04-- 19:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 19:30:04-- 19:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 19:45:04-- 20:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 20:00:04-- 20:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 20:15:04-- 20:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 20:30:04-- 20:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 20:45:00-- 21:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 21:00:00-- 21:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 21:15:00-- 21:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 21:30:00-- 21:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 21:45:00-- 22:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 22:00:00-- 22:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 22:15:00-- 22:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 22:30:01-- 22:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 22:45:01-- 23:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 23:00:01-- 23:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 23:15:01-- 23:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-19 23:30:01-- 23:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

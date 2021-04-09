@@ -1,0 +1,666 @@
+08:00:38:  TCR调测工具 V3.36
+08:00:48:  锁屏状态
+08:00:53:  TCR调测工具 V3.36
+08:08:23:  eSpace
+08:08:53:  TCR调测工具 V3.36
+08:16:43:  钞箱配置
+08:16:48:  可接收
+08:16:53:  取款
+08:16:58:  TCR调测工具 V3.36
+08:22:18:  传感器AD值测试
+08:23:08:  TCR调测工具 V3.36
+08:23:28:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+08:23:43:  D:\00-KE64\10\Middlewares\DcMotor\DcMotor.c (10) - Sublime Text (UNREGISTERED)
+08:23:48:  D:\00-KE64\10\Applications\FlowControl\TrackSensor\TrackSensor.c (10) - Sublime Text (UNREGISTERED)
+08:23:53:  D:\00-KE64\10\Applications\FlowControl\TrackSensor\SensorApp.c (10) - Sublime Text (UNREGISTERED)
+08:24:18:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+08:24:23:  D:\00-KE64\10\Applications\FlowControl\TrackSensor\SensorApp.c (10) - Sublime Text (UNREGISTERED)
+08:24:33:  D:\00-KE64\10\Applications\FlowControl\TrackSensor\SensorModuleIF.c (10) - Sublime Text (UNREGISTERED)
+08:24:38:  D:\00-KE64\10\Applications\FlowControl\TrackSensor\SensorModuleIF.c • (10) - Sublime Text (UNREGISTERED)
+08:25:03:  μVision
+08:25:08:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+08:25:38:  TCR调测工具 V3.36
+08:25:58:  本地磁盘 (D:)
+08:26:04:  00-KE64
+08:26:09:  10
+08:27:09:  Tools
+08:27:14:  D:\00-KE64\10\Tools\CreateJK.exe
+08:27:24:  打开
+08:27:29:  TCR调测工具 V3.36
+08:30:14:  TCRControlCmdDLL
+08:30:19:  20210224
+08:30:24:  TCR调测工具 V3.36
+08:30:44:  取款
+08:30:49:  发送指令到K06
+08:30:59:  TCR调测工具 V3.36
+08:31:04:  取款
+08:31:09:  TCR调测工具 V3.36
+08:32:29:  打开
+08:32:44:  TCR调测工具 V3.36
+08:34:14:  取款
+08:34:19:  TCR调测工具 V3.36
+08:36:09:  20210224
+08:36:14:  TCR调测工具 V3.36
+08:36:29:  锁屏状态
+08:36:34:  TCR调测工具 V3.36
+08:37:24:  BTCRTestTool
+08:37:29:  TCR调测工具 V3.36
+08:39:39:  取款
+08:39:44:  TCR调测工具 V3.36
+08:40:29:  Decode
+08:40:34:  回收 
+08:40:39:  Decode
+08:40:44:  LOG
+08:40:54:  K64_BTCR-1100190803000_20210224083416
+08:41:04:  20210224
+08:41:39:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:41:44:  桌面整理
+08:41:49:  K64_BTCR-1100190803000_20210224083941
+08:41:59:  Microsoft Excel
+08:42:04:  锁屏状态
+08:42:09:  正在打开 - Excel
+08:42:14:  TheDateInfo.xls  [兼容模式] - Excel
+08:43:24:  分析镜头
+08:43:29:  TheDateInfo.xls  [兼容模式] - Excel
+08:44:44:  TCR调测工具 V3.36
+08:44:44:  TCR调测工具 V3.36
+08:45:19:  K64_BTCR-1100190803000_20210224083941
+08:45:24:  Box_4__BTCR-1100190803000_20210224083941.log - DRB.tat* - TextAnalysisTool.NET
+08:46:34:  EXTFEDU6V13.PDF - Adobe Reader
+08:46:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:55:44:  计算器
+09:02:04:  TCR调测工具 V3.36
+09:05:44:  D:\00-KE64\10\Applications\FlowControl\TrackSensor\SensorModuleIF.c (10) - Sublime Text (UNREGISTERED)
+09:05:49:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:05:59:  锁屏状态
+09:06:04:  TCR调测工具 V3.36
+09:06:14:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:06:19:  TCR调测工具 V3.36
+09:06:24:  D:\00-KE64\10\Tools\CreateJK.exe
+09:06:29:  TCR调测工具 V3.36
+09:06:44:  打开
+09:06:49:  TCR调测工具 V3.36
+09:07:09:  BTCRTestTool
+09:07:14:  取款
+09:07:19:  TCR调测工具 V3.36
+09:08:19:  取款
+09:08:29:  TCR调测工具 V3.36
+09:09:19:  锁屏状态
+09:09:24:  TCRControlCmdDLL
+09:09:29:  20210224
+09:12:04:  TCR调测工具 V3.36
+09:12:09:  删除多个项目
+09:12:14:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:12:19:  Decode
+09:12:24:  K64_BTCR-1100190803000_20210224090826
+09:12:29:  桌面整理
+09:12:34:  K64_BTCR-1100190803000_20210224090826
+09:12:39:  Box_4__BTCR-1100190803000_20210224090826.log - DRB.tat* - TextAnalysisTool.NET
+09:12:49:  K64_BTCR-1100190803000_20210224090826
+09:12:54:  TCR调测工具 V3.36
+09:12:59:  K64-_BTCR-1100190803000_20210224090826.log - DRB.tat* - TextAnalysisTool.NET
+09:13:59:  TCR调测工具 V3.36
+09:14:19:  K64-_BTCR-1100190803000_20210224090826.log - DRB.tat* - TextAnalysisTool.NET
+09:14:24:  TCR调测工具 V3.36
+09:14:19:  K64-_BTCR-1100190803000_20210224090826.log - DRB.tat* - TextAnalysisTool.NET
+09:14:24:  TCR调测工具 V3.36
+09:16:29:  BTCRTestTool
+09:16:34:  取款
+09:16:44:  BTCRTestTool
+09:16:49:  TCR调测工具 V3.36
+09:17:24:  20210224
+09:17:59:  TCR调测工具 V3.36
+09:18:29:  20210224
+09:18:34:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:18:39:  Decode
+09:18:49:  LOG
+09:18:54:  桌面整理
+09:18:59:  K64_0000_20210224091642
+09:19:04:  跳转列表
+09:19:09:  TheDateInfo.xls  [兼容模式] - Excel
+09:19:39:  TCR调测工具 V3.36
+09:19:44:  K64_0000_20210224091642
+09:19:49:  K64-_0000_20210224091642.log - DRB.tat* - TextAnalysisTool.NET
+09:22:09:  TCR调测工具 V3.36
+09:22:19:  K64-_0000_20210224091642.log - DRB.tat* - TextAnalysisTool.NET
+09:23:34:  K64_0000_20210224091642
+09:23:39:  Box_4__0000_20210224091642.log - DRB.tat* - TextAnalysisTool.NET
+09:23:49:  K64_0000_20210224091642
+09:23:54:  TheDateInfo.xls  [兼容模式] - Excel
+09:33:35:  0-工作 - 张开发 - 印象笔记
+09:33:40:  TheDateInfo.xls  [兼容模式] - Excel
+09:33:55:  D:\00-06\DRB\Drivers\PublicDriver\PublicDriver.c (DRB) - Sublime Text (UNREGISTERED)
+09:34:10:  DRB
+09:34:15:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+09:34:25:  D:\00-06\DRB - 统计 - TortoiseSVN
+09:34:40:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+09:35:05:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+09:35:15:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+09:35:35:  PaperManage.c Revision 3081 - TortoiseMerge
+09:36:25:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+09:36:35:  PaperManage.c Revision 3100 - TortoiseMerge
+09:36:50:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+09:36:55:  Track.c Revision 3100 - TortoiseMerge
+09:40:55:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+09:41:05:  Bldc.c Revision 3172 - TortoiseMerge
+09:41:10:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+09:41:15:  InstrHandle.c Revision 3180 - TortoiseMerge
+09:41:20:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+09:41:30:  Initial.c Revision 3200 - TortoiseMerge
+09:41:35:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+09:41:50:  Lock.c Revision 3218 - TortoiseMerge
+09:41:55:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+09:42:00:  MotorCtrl.c Revision 3227 - TortoiseMerge
+09:42:05:  MotorCtrl.c Revision 3226 - TortoiseMerge
+09:42:10:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+09:42:25:  Log.c Revision 3272 - TortoiseMerge
+09:42:35:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+09:42:55:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+09:43:00:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+09:43:05:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+09:43:10:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+09:43:25:  Separate.c Revision 3295 - TortoiseMerge
+09:43:30:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+09:44:10:  UpperPlateCtrl.c Revision 3310 - TortoiseMerge
+09:44:15:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+09:44:20:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+09:44:40:  eSpace
+09:44:10:  UpperPlateCtrl.c Revision 3310 - TortoiseMerge
+09:44:15:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+09:44:20:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+09:44:40:  eSpace
+09:47:05:  小程序
+09:47:10:  getTheDieal
+09:47:15:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+09:47:20:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+09:47:25:  *Python 3.7.3 Shell*
+09:47:35:  锁屏状态
+09:47:50:  getTheDieal
+09:47:55:  0-工作 - 张开发 - 印象笔记
+09:48:15:  D:\00-06\DRB\Drivers\PublicDriver\PublicDriver.c (DRB) - Sublime Text (UNREGISTERED)
+09:48:45:  「开始」菜单
+09:48:50:  D:\00-06\DRB\Drivers\PublicDriver\PublicDriver.c (DRB) - Sublime Text (UNREGISTERED)
+09:52:05:  TCR调测工具 V3.36
+09:56:10:  取款
+09:56:15:  TCR调测工具 V3.36
+09:59:10:  取款
+09:59:15:  TCR调测工具 V3.36
+09:59:10:  取款
+09:59:15:  TCR调测工具 V3.36
+10:04:45:  可接收
+10:04:50:  TCR调测工具 V3.36
+10:04:55:  钞箱配置
+10:05:10:  TCR调测工具 V3.36
+10:08:25:  取款
+10:08:30:  TCR调测工具 V3.36
+10:14:10:  可接收
+10:14:15:  TCR调测工具 V3.36
+10:14:20:  取款
+10:14:45:  TCR调测工具 V3.36
+10:14:10:  可接收
+10:14:15:  TCR调测工具 V3.36
+10:14:20:  取款
+10:14:45:  TCR调测工具 V3.36
+10:15:40:  取款
+10:15:45:  TCR调测工具 V3.36
+10:18:25:  取款
+10:18:30:  TCR调测工具 V3.36
+10:23:20:  取款
+10:23:25:  TCR调测工具 V3.36
+10:24:00:  取款
+10:24:10:  TCR调测工具 V3.36
+10:25:30:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:26:00:  getTheDieal
+10:26:05:  00-06
+10:26:10:  Tools
+10:26:15:  D:\00-06\DRB\Tools\CreateJK.exe
+10:26:20:  TCR调测工具 V3.36
+10:26:25:  打开
+10:26:30:  TCR调测工具 V3.36
+10:28:30:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:28:35:  Tools
+10:28:40:  D:\00-06\DRB\Tools\CreateJK.exe
+10:28:45:  TCR调测工具 V3.36
+10:29:35:  取款
+10:29:40:  TCR调测工具 V3.36
+10:28:30:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:28:35:  Tools
+10:28:40:  D:\00-06\DRB\Tools\CreateJK.exe
+10:28:45:  TCR调测工具 V3.36
+10:29:35:  取款
+10:29:40:  TCR调测工具 V3.36
+10:30:40:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:30:50:  D:\00-06\DRB\Tools\CreateJK.exe
+10:31:00:  TCR调测工具 V3.36
+10:32:10:  取款
+10:32:15:  TCR调测工具 V3.36
+10:33:20:  发送指令到K06
+10:33:55:  托板控制
+10:38:10:  TCR调测工具 V3.36
+10:39:35:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:39:50:  20210223
+10:40:00:  正在打开 - Word
+10:40:45:  新建 Microsoft Word 文档.docx - Word
+10:41:05:  20210223
+10:41:10:  TCR调测工具 V3.36
+10:42:25:  取款
+10:42:30:  TCR调测工具 V3.36
+10:43:45:  TCRControlCmdDLL
+10:43:50:  20210224
+10:43:55:  删除多个项目
+10:44:00:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:44:05:  LOG
+10:44:10:  K64_0000_20210224104229
+10:44:15:  K64-_0000_20210224104229.log - DRB.tat* - TextAnalysisTool.NET
+10:44:55:  TCR调测工具 V3.36
+10:44:05:  LOG
+10:44:10:  K64_0000_20210224104229
+10:44:15:  K64-_0000_20210224104229.log - DRB.tat* - TextAnalysisTool.NET
+10:44:55:  TCR调测工具 V3.36
+10:45:25:  取款
+10:45:30:  TCR调测工具 V3.36
+10:46:10:  K64_0000_20210224104229
+10:46:15:  20210224
+10:47:00:  Decode
+10:47:05:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:47:10:  K64_0000_20210224104528
+10:47:15:  Box_1__0000_20210224104528.log - DRB.tat* - TextAnalysisTool.NET
+10:47:20:  K64-_0000_20210224104528.log - DRB.tat* - TextAnalysisTool.NET
+10:47:40:  TCR调测工具 V3.36
+10:50:05:  取款
+10:50:10:  TCR调测工具 V3.36
+10:51:45:  取款
+10:51:50:  TCR调测工具 V3.36
+10:57:56:  取款
+10:58:01:  TCR调测工具 V3.36
+10:58:31:  取款
+10:58:36:  TCR调测工具 V3.36
+10:58:31:  取款
+10:58:36:  TCR调测工具 V3.36
+11:00:11:  取款
+11:00:16:  TCR调测工具 V3.36
+11:02:01:  取款
+11:02:06:  TCR调测工具 V3.36
+11:10:31:  BTCRTestTool
+11:10:36:  钞箱配置
+11:11:16:  自动播放
+11:14:51:  TCR调测工具 V3.36
+11:14:51:  TCR调测工具 V3.36
+11:15:56:  钞箱配置
+11:16:06:  TCR调测工具 V3.36
+11:17:31:  取款
+11:17:36:  TCR调测工具 V3.36
+11:18:16:  取款
+11:18:21:  TCR调测工具 V3.36
+11:22:31:  取款
+11:22:41:  TCR调测工具 V3.36
+11:23:46:  取款
+11:23:51:  TCR调测工具 V3.36
+11:27:21:  取款
+11:27:26:  TCR调测工具 V3.36
+11:30:51:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+11:31:11:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+11:31:26:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+11:31:56:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+11:32:21:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+11:33:01:  计算器
+11:36:46:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+11:36:56:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:40:01:  锁屏状态
+13:16:07:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:25:18:  主页 - Internet Explorer
+13:25:28:  新北洋OA信息化平台 - Internet Explorer
+13:25:33:  Windchill - Internet Explorer
+13:25:48:  产品 - Internet Explorer
+13:26:18:  产品 - 16 金融基础部件 - Internet Explorer
+13:27:38:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:27:43:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:30:28:  「开始」菜单
+13:30:53:  Windows 功能
+13:33:28:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:35:13:  TCR调测工具 V3.36
+13:35:18:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:35:23:  D:\00-06\DRB\Tools\CreateJK.exe
+13:35:28:  Tools
+13:35:38:  打开
+13:35:48:  BTCRTestTool
+13:36:13:  打开
+13:36:18:  TCR调测工具 V3.36
+13:39:18:  计算器
+13:40:08:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:40:18:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:40:23:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:40:33:  计算器
+13:41:13:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:42:13:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:42:23:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:42:28:  锁屏状态
+13:42:33:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:43:13:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:43:23:  D:\00-06\DRB\Tools\CreateJK.exe
+13:44:48:  TCR调测工具 V3.36
+13:44:48:  TCR调测工具 V3.36
+13:49:53:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:51:03:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:51:18:  锁屏状态
+13:51:33:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:52:18:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:52:23:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:53:13:  于斌1
+13:54:58:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:55:23:  于斌1
+13:56:08:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:57:23:  于斌1
+13:58:03:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:58:43:  于斌1
+13:58:48:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:59:18:  于斌1
+13:59:23:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:58:43:  于斌1
+13:58:48:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:59:18:  于斌1
+13:59:23:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:05:18:  D:\00-06\DRB\Middlewares\Plate\PlateCommon.h (DRB) - Sublime Text (UNREGISTERED)
+14:05:23:  D:\00-06\DRB\Applications\PlateCtrl\PlateCtrl.h (DRB) - Sublime Text (UNREGISTERED)
+14:05:28:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:05:48:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:05:53:  D:\00-06\DRB\Applications\PlateCtrl\PlateCtrl.h (DRB) - Sublime Text (UNREGISTERED)
+14:05:58:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:06:03:  D:\00-06\DRB\Middlewares\Plate\PlateCommon.h (DRB) - Sublime Text (UNREGISTERED)
+14:06:08:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:07:18:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:07:58:  D:\00-06\DRB\Applications\PlateCtrl\PlateCtrl.h (DRB) - Sublime Text (UNREGISTERED)
+14:08:03:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:08:13:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:08:18:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:08:38:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:09:03:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:09:08:  D:\00-06\DRB\Applications\PlateCtrl\PlateCtrl.h (DRB) - Sublime Text (UNREGISTERED)
+14:09:13:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:09:18:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:09:38:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:09:43:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:10:13:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:10:48:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:10:53:  D:\00-06\DRB\Applications\MemoryConfig.h (DRB) - Sublime Text (UNREGISTERED)
+14:10:58:  D:\00-06\DRB\Applications\MemoryConfig.h • (DRB) - Sublime Text (UNREGISTERED)
+14:11:18:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:11:38:  D:\00-06\DRB\Middlewares\EepromArea\EepromArea.c (DRB) - Sublime Text (UNREGISTERED)
+14:11:43:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:11:48:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:13:28:  D:\00-06\DRB\Middlewares\EepromArea\EepromArea.c (DRB) - Sublime Text (UNREGISTERED)
+14:13:38:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:13:43:  计算器
+14:14:28:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:14:58:  计算器
+14:14:28:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:14:58:  计算器
+14:15:23:  D:\00-06\DRB\Middlewares\EepromArea\EepromArea.c (DRB) - Sublime Text (UNREGISTERED)
+14:15:28:  D:\00-06\DRB\Drivers\EepromDriver\EepromDriver.c (DRB) - Sublime Text (UNREGISTERED)
+14:15:58:  D:\00-06\DRB\Middlewares\EepromArea\EepromArea.c (DRB) - Sublime Text (UNREGISTERED)
+14:16:03:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:16:43:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:16:53:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:17:13:  计算器
+14:17:38:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:19:28:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:20:08:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:20:13:  D:\00-06\DRB\Middlewares\Plate\PlateCommon.h (DRB) - Sublime Text (UNREGISTERED)
+14:20:18:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:20:23:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:20:28:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:21:48:  D:\00-06\DRB\Tools\CreateJK.exe
+14:22:03:  打开
+14:22:08:  TCR调测工具 V3.36
+14:22:28:  发送指令到K06
+14:22:33:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:22:38:  发送指令到K06
+14:22:43:  TCR调测工具 V3.36
+14:23:13:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:23:28:  TCR调测工具 V3.36
+14:23:38:  计算器
+14:23:43:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:24:13:  锁屏状态
+14:24:18:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:24:28:  TCR调测工具 V3.36
+14:24:33:  计算器
+14:25:33:  TCR调测工具 V3.36
+14:25:48:  计算器
+14:26:38:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:26:58:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+14:27:03:  计算器
+14:27:23:  μVision
+14:27:28:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:27:58:  D:\00-06\DRB\Tools\CreateJK.exe
+14:28:03:  TCR调测工具 V3.36
+14:28:33:  发送指令到K06
+14:29:03:  TCR调测工具 V3.36
+14:29:23:  计算器
+14:29:43:  TCR调测工具 V3.36
+14:28:33:  发送指令到K06
+14:29:03:  TCR调测工具 V3.36
+14:29:23:  计算器
+14:29:43:  TCR调测工具 V3.36
+14:30:48:  计算器
+14:31:58:  TCR调测工具 V3.36
+14:32:18:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:32:43:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:33:08:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:33:38:  D:\00-06\DRB\Tools\CreateJK.exe
+14:33:43:  Tools
+14:33:48:  TCR调测工具 V3.36
+14:37:43:  锁屏状态
+14:37:48:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:38:28:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:38:33:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:38:38:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:38:48:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:38:53:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:39:03:  D:\00-06\DRB\Tools\CreateJK.exe
+14:39:08:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V13_MAIN_T99 - 写邮件
+14:39:13:  发送邮件
+14:40:48:  TCR调测工具 V3.36
+14:52:24:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:52:34:  D:\00-06\DRB\Middlewares\Selector\Selector.c (DRB) - Sublime Text (UNREGISTERED)
+14:52:44:  D:\00-06\DRB\Middlewares\StepMotor\StepMotor.c (DRB) - Sublime Text (UNREGISTERED)
+14:52:59:  D:\00-06\DRB\Drivers\StepMotorDriver\StepMotorDriver.c (DRB) - Sublime Text (UNREGISTERED)
+14:53:09:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:53:24:  D:\00-06\DRB\Drivers\StepMotorDriver\StepMotorDriver.c (DRB) - Sublime Text (UNREGISTERED)
+14:54:44:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:55:04:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:55:34:  D:\00-06\DRB\Applications\PlateCtrl\PlateCtrl.h (DRB) - Sublime Text (UNREGISTERED)
+14:55:39:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:55:44:  D:\00-06\DRB\Applications\PlateCtrl\PlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+14:55:49:  D:\00-06\DRB\Applications\PlateCtrl\PressurePlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+14:55:54:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c (DRB) - Sublime Text (UNREGISTERED)
+14:55:59:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:56:09:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:56:14:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:56:29:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:56:44:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:57:04:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:57:09:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:57:19:  D:\00-06\DRB\Drivers\StepMotorDriver\StepMotorDriver.c (DRB) - Sublime Text (UNREGISTERED)
+14:57:54:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:57:59:  于斌1
+14:58:04:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:58:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:58:19:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+14:58:24:  TCR调测工具 V3.36
+14:58:29:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:58:39:  D:\00-06\DRB\Tools\CreateJK.exe
+14:58:44:  Tools
+14:58:49:  TCR调测工具 V3.36
+14:58:54:  打开
+14:58:59:  TCR调测工具 V3.36
+14:58:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:58:19:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+14:58:24:  TCR调测工具 V3.36
+14:58:29:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:58:39:  D:\00-06\DRB\Tools\CreateJK.exe
+14:58:44:  Tools
+14:58:49:  TCR调测工具 V3.36
+14:58:54:  打开
+14:58:59:  TCR调测工具 V3.36
+15:02:09:  自动播放
+15:02:14:  TCR调测工具 V3.36
+15:02:24:  新北洋OA信息化平台 - Internet Explorer
+15:02:29:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_EMP_INC_DET_COM.GBL?FolderP - Internet Explorer
+15:02:34:  员工自助 - Internet Explorer
+15:02:39:  我的薪酬 - Internet Explorer
+15:02:44:  新北洋OA信息化平台 - Internet Explorer
+15:02:54:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:02:59:  eSpace
+15:03:04:  荆文波
+15:05:24:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:05:49:  锁屏状态
+15:05:59:  班车管理系统 - Google Chrome
+15:06:04:  班车管理系统 [新北洋集团] - Google Chrome
+15:06:24:  实时考勤管理系统 - Google Chrome
+15:06:29:  实时考勤管理系统 [新北洋集团] - Google Chrome
+15:06:54:  一卡通平台系统 [] - Google Chrome
+15:07:04:  一卡通平台系统 [新北洋集团] - Google Chrome
+15:07:09:  192.168.28.228:7102 - Google Chrome
+15:07:14:  实时考勤管理系统 [新北洋集团] - Google Chrome
+15:07:19:  一卡通平台系统 [] - Google Chrome
+15:07:39:  一卡通平台系统 [新北洋集团] - Google Chrome
+15:07:44:  实时考勤管理系统 [新北洋集团] - Google Chrome
+15:07:54:  实时门禁管理系统 - Google Chrome
+15:08:09:  eSpace
+15:08:19:  于斌1
+15:08:29:  实时门禁管理系统 [新北洋集团] - Google Chrome
+15:08:39:  于斌1
+15:09:24:  实时门禁管理系统 [新北洋集团] - Google Chrome
+15:09:39:  于斌1
+15:10:24:  eSpace
+15:10:29:  新标签页 - Google Chrome
+15:10:34:  班车管理系统 - Google Chrome
+15:10:49:  班车管理系统 [新北洋集团] - Google Chrome
+15:11:49:  192.168.28.228 - Google Chrome
+15:11:59:  卡片管理中心 - Google Chrome
+15:12:04:  eSpace
+15:12:09:  于斌1
+15:15:29:  0-工作 - 张开发 - 印象笔记
+15:15:59:  于斌1
+15:16:19:  0-工作 - 张开发 - 印象笔记
+15:16:24:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:16:29:  于斌1
+15:17:29:  TCR调测工具 V3.36
+15:17:59:  于斌1
+15:18:24:  跳转列表
+15:18:29:  荆文波
+15:18:34:  于斌1
+15:18:54:  eSpace
+15:18:59:  荆文波
+15:19:04:  TCR调测工具 V3.36
+15:19:49:  于斌1
+15:19:54:  TCR调测工具 V3.36
+15:19:59:  于斌1
+15:20:19:  钞箱配置
+15:20:24:  可接收
+15:20:29:  TCR调测工具 V3.36
+15:21:44:  于斌1
+15:24:19:  TCR调测工具 V3.36
+15:24:34:  于斌1
+15:24:39:  TCR调测工具 V3.36
+15:30:09:  于斌1
+15:30:24:  TCR调测工具 V3.36
+15:34:19:  于斌1
+15:34:39:  TCR调测工具 V3.36
+15:42:04:  钞口容量
+15:42:14:  TCR调测工具 V3.36
+15:48:44:  可接收
+15:48:49:  TCR调测工具 V3.36
+15:52:44:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+15:54:14:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+15:55:09:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+15:55:19:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+15:55:34:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+15:56:34:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+15:56:39:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+15:58:04:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:58:34:  TCR调测工具 V3.36
+15:58:34:  TCR调测工具 V3.36
+16:02:49:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:02:59:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+16:03:19:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:04:49:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:04:54:  荆文波
+16:04:59:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:05:09:  D:\00-06\DRB\Tools\CreateJK.exe
+16:05:14:  Tools
+16:05:19:  荆文波
+16:05:24:  Tools
+16:05:29:  打开
+16:05:34:  TCR调测工具 V3.36
+16:05:39:  荆文波
+16:23:15:  TCR调测工具 V3.36
+16:23:20:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:24:20:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+16:24:55:  eSpace
+16:25:00:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+16:25:45:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:25:50:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+16:26:05:  于斌1
+16:26:15:  D:\00-KE64\10\Applications\FlowControl\TrackSensor\SensorModuleIF.c (10) - Sublime Text (UNREGISTERED)
+16:26:30:  D:\00-KE64\10\Middlewares\DcMotor\DcMotor.c (10) - Sublime Text (UNREGISTERED)
+16:26:40:  于斌1
+16:27:20:  锁屏状态
+16:27:25:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+16:27:35:  Tools
+16:27:40:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+16:28:40:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:29:35:  于斌1
+16:28:40:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:29:35:  于斌1
+16:31:45:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:34:35:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+16:34:40:  μVision
+16:34:45:  于斌1
+16:37:00:  文档
+16:37:05:  W
+16:39:00:  新北洋办公室电邮【2020】003号-关于防范新型肺炎的倡议及通知（二）春节后人员返回复工指导建议.pdf
+16:39:30:  W
+16:39:35:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:54:20:  0-工作 - 张开发 - 印象笔记
+16:54:25:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:54:30:  K64_0000_20210224104528
+16:54:45:  0-工作 - 张开发 - 印象笔记
+16:54:50:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:54:55:  新北洋OA信息化平台 - Internet Explorer
+16:55:00:  费用报销流程_新北洋 - Internet Explorer
+16:55:10:  新北洋OA信息化平台 - Internet Explorer
+16:55:15:  员工自助 - Internet Explorer
+16:55:20:  考勤异常 - Internet Explorer
+16:55:35:  我的假期 - Internet Explorer
+16:55:40:  锁屏状态
+16:55:50:  班车管理系统 - Google Chrome
+16:56:15:  实时门禁管理系统 - Google Chrome
+16:56:20:  实时门禁管理系统 [新北洋集团] - Google Chrome
+16:56:40:  卡片管理中心 - Google Chrome
+16:56:45:  卡片管理中心 [新北洋集团] - Google Chrome
+16:57:15:  实时门禁管理系统 [新北洋集团] - Google Chrome
+16:57:25:  Starting Fiddler...
+16:57:30:  Progress Telerik Fiddler Web Debugger
+16:57:45:  实时门禁管理系统 [新北洋集团] - Google Chrome
+16:58:25:  新标签页 - Google Chrome
+16:58:30:  班车管理系统 - Google Chrome
+16:58:35:  班车管理系统 [新北洋集团] - Google Chrome
+16:59:30:  新标签页 - Google Chrome
+16:59:40:  班车管理系统 [新北洋集团] - Google Chrome
+16:58:25:  新标签页 - Google Chrome
+16:58:30:  班车管理系统 - Google Chrome
+16:58:35:  班车管理系统 [新北洋集团] - Google Chrome
+16:59:30:  新标签页 - Google Chrome
+16:59:40:  班车管理系统 [新北洋集团] - Google Chrome
+17:00:50:  于斌1
+17:01:10:  程明昌
+17:01:15:  eSpace
+17:01:20:  于斌1
+17:01:25:  吉哲
+17:01:30:  于斌1
+17:01:35:  吉哲
+17:02:00:  班车管理系统 [新北洋集团] - Google Chrome
+17:03:30:  吉哲
+17:03:35:  班车管理系统 [新北洋集团] - Google Chrome
+17:03:40:  锁屏状态

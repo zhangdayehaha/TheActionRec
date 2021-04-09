@@ -1,0 +1,96 @@
+2020-08-11 23:45:01-- 00:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 00:00:01-- 00:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 00:15:02-- 00:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 00:30:02-- 00:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 00:45:02-- 01:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 01:00:02-- 01:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 01:15:02-- 01:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 01:30:03-- 01:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 01:45:03-- 02:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 02:00:03-- 02:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 02:15:03-- 02:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 02:30:04-- 02:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 02:45:04-- 03:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 03:00:04-- 03:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 03:15:04-- 03:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 03:30:00-- 03:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 03:45:00-- 04:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 04:00:00-- 04:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 04:15:00-- 04:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 04:30:01-- 04:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 04:45:01-- 05:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 05:00:01-- 05:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 05:15:01-- 05:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 05:30:01-- 05:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 05:45:02-- 06:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 06:00:02-- 06:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 06:15:02-- 06:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 06:30:02-- 06:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 06:45:03-- 07:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 07:00:03-- 07:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 07:15:03-- 07:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 07:30:03-- 07:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 07:45:03-- 08:00:04     :    一  ：锁屏状态   173/14.4分钟       二  ：关于将空将满项实现-20200811.doc [兼容模式] - Word   5/0.41分钟     三  ：本地磁盘 (F:)   2/0.16分钟
+2020-08-12 08:00:04-- 08:15:04     :    一  ：本地磁盘 (F:)   132/11.0分钟       二  ：6月-7月 员工能力提升双月测评计划表--固件一室--张开发.xlsx - Excel   47/3.91分钟     三  ：桌面整理   1/0.08分钟
+2020-08-12 08:15:04-- 08:30:04     :    一  ：6月-7月 员工能力提升双月测评计划表--固件一室--张开发.xlsx - Excel   45/3.75分钟       二  ：5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel   41/3.41分钟     三  ：关于将空将满项实现-20200811.doc [兼容模式] - Word   31/2.58分钟
+2020-08-12 08:30:04-- 08:45:04     :    一  ：D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   175/14.5分钟       二  ：D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)   4/0.33分钟     三  ：D:\00-06\DRB-PRESS\FwLib\OpticalSensor\OpticalSensor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   1/0.08分钟
+2020-08-12 08:45:04-- 09:00:00     :    一  ：D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   80/6.66分钟       二  ：BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [只读] [兼容模式] - Word   78/6.5分钟     三  ：开始   8/0.66分钟
+2020-08-12 09:00:00-- 09:15:00     :    一  ：D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)   89/7.41分钟       二  ：BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [只读] [兼容模式] - Word   71/5.91分钟     三  ：StarUML   11/0.91分钟
+2020-08-12 09:15:00-- 09:30:00     :    一  ：D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)   111/9.25分钟       二  ：BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [只读] [兼容模式] - Word   36/3.0分钟     三  ：锁屏状态   13/1.08分钟
+2020-08-12 09:30:00-- 09:45:00     :    一  ：D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   34/2.83分钟       二  ：k30 至尊纪念版 内存_百度搜索 - Google Chrome   31/2.58分钟     三  ：D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)   24/2.0分钟
+2020-08-12 09:45:00-- 10:00:00     :    一  ：D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   61/5.08分钟       二  ：alipay_record_20200810_0855_1.csv - Excel   55/4.58分钟     三  ：k30 至尊纪念版 内存_百度搜索 - Google Chrome   49/4.08分钟
+2020-08-12 10:00:00-- 10:15:01     :    一  ：alipay_record_20200810_0855_1.csv - Excel   52/4.33分钟       二  ：Subversion   22/1.83分钟     三  ：本地磁盘 (D:)   21/1.75分钟
+2020-08-12 10:15:01-- 10:30:01     :    一  ：D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   90/7.5分钟       二  ：eSpace   17/1.41分钟     三  ：alipay_record_20200810_0855_1.csv - Excel   12/1.0分钟
+2020-08-12 10:30:01-- 10:45:01     :    一  ：D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision   87/7.25分钟       二  ：LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]   41/3.41分钟     三  ：eSpace   22/1.83分钟
+2020-08-12 10:45:01-- 11:00:01     :    一  ：LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]   136/11.3分钟       二  ：D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   16/1.33分钟     三  ：D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)   13/1.08分钟
+2020-08-12 11:00:01-- 11:15:01     :    一  ：D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision   37/3.08分钟       二  ：0-工作 - 569336451@qq.com - 印象笔记   30/2.5分钟     三  ：D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)   22/1.83分钟
+2020-08-12 11:15:01-- 11:30:02     :    一  ：D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   88/7.33分钟       二  ：D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision   43/3.58分钟     三  ：于斌1   21/1.75分钟
+2020-08-12 11:30:02-- 11:45:02     :    一  ：计算器   167/13.9分钟       二  ：D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision   12/1.0分钟     三  ：Build Output   1/0.08分钟
+2020-08-12 11:45:02-- 12:00:02     :    一  ：锁屏状态   173/14.4分钟       二  ：Build Output   7/0.58分钟     三  ：   0/0.0分钟
+2020-08-12 12:00:02-- 12:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 12:15:02-- 12:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 12:30:02-- 12:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 12:45:03-- 13:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 13:00:03-- 13:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 13:15:03-- 13:30:03     :    一  ：D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision   87/7.25分钟       二  ：Build Output   36/3.0分钟     三  ：D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   17/1.41分钟
+2020-08-12 13:30:03-- 13:45:03     :    一  ：于斌1   44/3.66分钟       二  ：D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision   30/2.5分钟     三  ：D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   29/2.41分钟
+2020-08-12 13:45:03-- 14:00:04     :    一  ：D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)   46/3.83分钟       二  ：D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   32/2.66分钟     三  ：D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision   32/2.66分钟
+2020-08-12 14:00:04-- 14:15:04     :    一  ：D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)   66/5.5分钟       二  ：D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)   25/2.08分钟     三  ：D:\00-06\1T1-82\Drivers\StepMotorDriver\StepMotorDriver.c • (1T1-82) - Sublime Text (UNREGISTERED)   19/1.58分钟
+2020-08-12 14:15:04-- 14:30:04     :    一  ：D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision   92/7.66分钟       二  ：LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202008121423.log   25/2.08分钟     三  ：D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)   17/1.41分钟
+2020-08-12 14:30:04-- 14:45:04     :    一  ：D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)   65/5.41分钟       二  ：D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)   55/4.58分钟     三  ：计算器   22/1.83分钟
+2020-08-12 14:45:04-- 15:00:04     :    一  ：D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision   38/3.16分钟       二  ：D:\00-06\1T1-82\Applications\PlateCtrl\PlateCtrl.c (1T1-82) - Sublime Text (UNREGISTERED)   36/3.0分钟     三  ：LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202008121453.log   28/2.33分钟
+2020-08-12 15:00:04-- 15:15:00     :    一  ：D:\00-06\1T1-82\Applications\PlateCtrl\PlateCtrl.c (1T1-82) - Sublime Text (UNREGISTERED)   69/5.75分钟       二  ：D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision   64/5.33分钟     三  ：LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202008121459.log   17/1.41分钟
+2020-08-12 15:15:00-- 15:30:00     :    一  ：D:\00-06\1T1-82\Applications\PlateCtrl\PlateCtrl.c (1T1-82) - Sublime Text (UNREGISTERED)   83/6.91分钟       二  ：D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision   49/4.08分钟     三  ：LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202008121519.log   24/2.0分钟
+2020-08-12 15:30:00-- 15:45:00     :    一  ：D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision   89/7.41分钟       二  ：LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202008121541.log   24/2.0分钟     三  ：于斌1,吉哲,张开发   20/1.66分钟
+2020-08-12 15:45:00-- 16:00:00     :    一  ：D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)   47/3.91分钟       二  ：D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision   45/3.75分钟     三  ：LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202008121541.log   31/2.58分钟
+2020-08-12 16:00:00-- 16:15:01     :    一  ：D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)   49/4.08分钟       二  ：D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision   46/3.83分钟     三  ：LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202008121559.log   36/3.0分钟
+2020-08-12 16:15:01-- 16:30:01     :    一  ：D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision   60/5.0分钟       二  ：LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202008121614.log   29/2.41分钟     三  ：DRB-Seclect-Respontime   10/0.83分钟
+2020-08-12 16:30:01-- 16:45:01     :    一  ：UpperPlateCtrl.c - TortoiseMerge   28/2.33分钟       二  ：State.c - TortoiseMerge   20/1.66分钟     三  ：Separate.c - TortoiseMerge   13/1.08分钟
+2020-08-12 16:45:01-- 17:00:01     :    一  ：StepMotorDriver.c - TortoiseMerge   45/3.75分钟       二  ：D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision   39/3.25分钟     三  ：DRB走线路径 20190903-1.xlsx  [只读] - Excel   16/1.33分钟
+2020-08-12 17:00:01-- 17:15:01     :    一  ：锁屏状态   129/10.7分钟       二  ：D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision   19/1.58分钟     三  ：StepMotor.c - TortoiseMerge   5/0.41分钟
+2020-08-12 17:15:01-- 17:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 17:30:02-- 17:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 17:45:02-- 18:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 18:00:02-- 18:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 18:15:02-- 18:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 18:30:03-- 18:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 18:45:03-- 19:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 19:00:03-- 19:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 19:15:03-- 19:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 19:30:03-- 19:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 19:45:04-- 20:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 20:00:04-- 20:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 20:15:04-- 20:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 20:30:04-- 20:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 20:45:00-- 21:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 21:00:00-- 21:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 21:15:00-- 21:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 21:30:00-- 21:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 21:45:00-- 22:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 22:00:01-- 22:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 22:15:01-- 22:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 22:30:01-- 22:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 22:45:01-- 23:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 23:00:01-- 23:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 23:15:02-- 23:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-12 23:30:02-- 23:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

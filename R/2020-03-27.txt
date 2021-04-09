@@ -1,0 +1,7 @@
+2020-03-27 08:11:51-- 08:30:01     :    一  ：   51/4.25分钟       二  ：untitled (trunk) - Sublime Text (UNREGISTERED)   36/3.0分钟     三  ：iTunes   24/2.0分钟
+2020-03-27 08:30:01-- 09:00:01     :    一  ：6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel   105/8.75分钟       二  ：于斌1   36/3.0分钟     三  ：6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel   22/1.83分钟
+2020-03-27 09:00:01-- 09:30:01     :    一  ：TCR调测工具 V3.36   79/6.58分钟       二  ：D:\00-06\8\branches\BR-1-CashBox1T2\Applications\Update\Update.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   28/2.33分钟     三  ：D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision   25/2.08分钟
+2020-03-27 09:30:01-- 10:00:03     :    一  ：TCR调测工具 V3.36   77/6.41分钟       二  ：(42 封私信) 首页 - 知乎 - Google Chrome   51/4.25分钟     三  ：BTCRTestTool   35/2.91分钟
+2020-03-27 10:00:03-- 10:30:03     :    一  ：TCR调测工具 V3.36   153/12.7分钟       二  ：D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision   120/10.0分钟     三  ：读写ERROM   21/1.75分钟
+2020-03-27 10:30:03-- 11:00:04     :    一  ：TCR调测工具 V3.36   82/6.83分钟       二  ：   28/2.33分钟     三  ：D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   28/2.33分钟
+2020-03-27 11:00:04-- 11:30:04     :    一  ：TCR调测工具 V3.36   164/13.6分钟       二  ：K64_0000_20200327105455.log - K64状态机分析.tat* - TextAnalysisTool.NET   28/2.33分钟     三  ：6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel   24/2.0分钟

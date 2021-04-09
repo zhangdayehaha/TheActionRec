@@ -1,0 +1,96 @@
+2020-05-20 23:45:02-- 00:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 00:00:03-- 00:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 00:15:03-- 00:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 00:30:03-- 00:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 00:45:03-- 01:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 01:00:03-- 01:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 01:15:04-- 01:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 01:30:04-- 01:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 01:45:04-- 02:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 02:00:04-- 02:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 02:15:04-- 02:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 02:30:04-- 02:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 02:45:00-- 03:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 03:00:00-- 03:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 03:15:00-- 03:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 03:30:00-- 03:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 03:45:00-- 04:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 04:00:00-- 04:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 04:15:01-- 04:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 04:30:01-- 04:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 04:45:01-- 05:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 05:00:01-- 05:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 05:15:01-- 05:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 05:30:01-- 05:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 05:45:02-- 06:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 06:00:02-- 06:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 06:15:02-- 06:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 06:30:02-- 06:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 06:45:02-- 07:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 07:00:02-- 07:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 07:15:03-- 07:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 07:30:03-- 07:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 07:45:03-- 08:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 08:00:03-- 08:15:00     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)   160/13.3分钟       二  ：锁屏状态   6/0.5分钟     三  ：untitled (trunk) - Sublime Text (UNREGISTERED)   4/0.33分钟
+2020-05-21 08:15:00-- 08:30:00     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   91/7.58分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)   56/4.66分钟     三  ：D:\00-06\DRB-Seclect-New\Applications\HistoryRecord\HistoryRecord.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)   21/1.75分钟
+2020-05-21 08:30:00-- 08:45:00     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)   57/4.75分钟       二  ：TFTLibrary.h - Visual Studio Code [Administrator]   45/3.75分钟     三  ：TFTLibrary   41/3.41分钟
+2020-05-21 08:45:00-- 09:00:02     :    一  ：TFTLibrary   104/8.66分钟       二  ：TFTLibrary(1).h - Visual Studio Code [Administrator]   18/1.5分钟     三  ：● TFTLibrary(1).h - Visual Studio Code [Administrator]   15/1.25分钟
+2020-05-21 09:00:02-- 09:15:02     :    一  ：桌面整理   174/14.5分钟       二  ：vscode - Everything   3/0.25分钟     三  ：文件共享   2/0.16分钟
+2020-05-21 09:15:02-- 09:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 09:30:02-- 09:45:03     :    一  ：桌面整理   166/13.8分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)   9/0.75分钟     三  ：eSpace   3/0.25分钟
+2020-05-21 09:45:03-- 10:00:03     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   74/6.16分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)   30/2.5分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)   20/1.66分钟
+2020-05-21 10:00:03-- 10:15:04     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   109/9.08分钟       二  ：荆文波   9/0.75分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)   8/0.66分钟
+2020-05-21 10:15:04-- 10:30:04     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)   111/9.25分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   46/3.83分钟     三  ：Tools   16/1.33分钟
+2020-05-21 10:30:04-- 10:45:04     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   64/5.33分钟       二  ：TCR调测工具 V3.36   44/3.66分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   17/1.41分钟
+2020-05-21 10:45:04-- 11:00:00     :    一  ：K64_12121212_20200521104652.log - K64状态机分析.tat* - TextAnalysisTool.NET   62/5.16分钟       二  ：未命名 - 写邮件   46/3.83分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   27/2.25分钟
+2020-05-21 11:00:00-- 11:15:00     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   37/3.08分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\milestone.txt • (trunk) - Sublime Text (UNREGISTERED)   30/2.5分钟     三  ：TrackCtrl.c - TortoiseMerge   25/2.08分钟
+2020-05-21 11:15:00-- 11:30:00     :    一  ：BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel   51/4.25分钟       二  ：TCR调测工具 V3.36   27/2.25分钟     三  ：回收站   9/0.75分钟
+2020-05-21 11:30:00-- 11:45:00     :    一  ：Box_1__BTCR-1100191000900001_20200521105839.log - selector.tat* - TextAnalysisTool.NET   94/7.83分钟       二  ：D:\00-06\DRB-Seclect-New\Applications\Separate\Separate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)   29/2.41分钟     三  ：回复: 自动排错打开：上腔50元普通取款298张报通道传输过程中卡钞 钞票残留  返回码0X864604B8 - 写邮件   12/1.0分钟
+2020-05-21 11:45:00-- 12:00:00     :    一  ：锁屏状态   175/14.5分钟       二  ：回复: 自动排错打开：上腔50元普通取款298张报通道传输过程中卡钞 钞票残留  返回码0X864604B8 - 写邮件   11:45:07 已保存   4/0.33分钟     三  ：回复: 自动排错打开：上腔50元普通取款298张报通道传输过程中卡钞 钞票残留  返回码0X864604B8 - 写邮件   11:44:07 已保存   1/0.08分钟
+2020-05-21 12:00:00-- 12:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 12:15:00-- 12:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 12:30:01-- 12:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 12:45:01-- 13:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 13:00:01-- 13:15:01     :    一  ：回复: 自动排错打开：上腔50元普通取款298张报通道传输过程中卡钞 钞票残留  返回码0X864604B8 - 写邮件   11:46:07 已保存   48/4.0分钟       二  ：荆文波   25/2.08分钟     三  ：锁屏状态   13/1.08分钟
+2020-05-21 13:15:01-- 13:30:01     :    一  ：D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\GetGoods\GetGoods.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)   53/4.41分钟       二  ：丛柏屹   42/3.5分钟     三  ：D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)   22/1.83分钟
+2020-05-21 13:30:01-- 13:45:01     :    一  ：Adobe Photoshop CS3 Extended - [UI渐变8.jpg @ 29% (图层 1, RGB/8)]   27/2.25分钟       二  ：Adobe Photoshop CS3 Extended - [UI渐变8.jpg @ 16.9% (图层 1, RGB/8)]   21/1.75分钟     三  ：AVMA4V11.PDF - Adobe Reader   17/1.41分钟
+2020-05-21 13:45:01-- 14:00:02     :    一  ：Adobe Photoshop CS3 Extended - [UI渐变8(1).psd @ 21.4% (图层 3, RGB/8)]   37/3.08分钟       二  ：Adobe Photoshop CS3 Extended - [UI渐变8(1).psd @ 246% (图层 1, 图层蒙版/8)]   12/1.0分钟     三  ：替换颜色   12/1.0分钟
+2020-05-21 14:00:02-- 14:15:02     :    一  ：Adobe Photoshop CS3 Extended - [UI渐变8(1).psd @ 21.4% (图层 3, RGB/8)]   118/9.83分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)   18/1.5分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   13/1.08分钟
+2020-05-21 14:15:02-- 14:30:02     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   159/13.2分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)   15/1.25分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   5/0.41分钟
+2020-05-21 14:30:02-- 14:45:02     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   165/13.7分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)   15/1.25分钟     三  ：   0/0.0分钟
+2020-05-21 14:45:02-- 15:00:02     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   72/6.0分钟       二  ：D:\00-KE64\4\trunk\Middlewares\Encryption\EncryApp.c (trunk) - Sublime Text (UNREGISTERED)   26/2.16分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)   20/1.66分钟
+2020-05-21 15:00:02-- 15:15:03     :    一  ：荆文波   75/6.25分钟       二  ：TheOneForExcel.xls  [兼容模式] - Excel   20/1.66分钟     三  ：D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision   16/1.33分钟
+2020-05-21 15:15:03-- 15:30:03     :    一  ：CashboxDatePur.py - D:\1元测试日志\10元上腔取款出钞口一张纸币异常折叠\10元上腔取款出钞口一张纸币异常折叠\Decode\LOG\K64_BTCR-1100190803000010_20200521090314\CashboxDatePur.py (3.7.3)   26/2.16分钟       二  ：*CashboxDatePur.py - D:\1元测试日志\10元上腔取款出钞口一张纸币异常折叠\10元上腔取款出钞口一张纸币异常折叠\Decode\LOG\K64_BTCR-1100190803000010_20200521090314\CashboxDatePur.py (3.7.3)*   17/1.41分钟     三  ：新建文本文档.py - E:\新建文本文档.py (3.7.3)   13/1.08分钟
+2020-05-21 15:30:03-- 15:45:04     :    一  ：TheOneForExcel.xls  [兼容模式] - Excel   45/3.75分钟       二  ：*CashboxDatePur.py - D:\1元测试日志\10元上腔取款出钞口一张纸币异常折叠\10元上腔取款出钞口一张纸币异常折叠\Decode\LOG\K64_BTCR-1100190803000010_20200521090314\CashboxDatePur.py (3.7.3)*   39/3.25分钟     三  ：CashboxDatePur.py - D:\1元测试日志\10元上腔取款出钞口一张纸币异常折叠\10元上腔取款出钞口一张纸币异常折叠\Decode\LOG\K64_BTCR-1100190803000010_20200521090314\CashboxDatePur.py (3.7.3)   26/2.16分钟
+2020-05-21 15:45:04-- 16:00:00     :    一  ：无法显示此页 - Internet Explorer   58/4.83分钟       二  ：桌面整理   43/3.58分钟     三  ：于斌1   26/2.16分钟
+2020-05-21 16:00:00-- 16:15:00     :    一  ：K64_12121212_20200521160606.log - selector.tat* - TextAnalysisTool.NET   93/7.75分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   25/2.08分钟     三  ：TCR调测工具 V3.36   23/1.91分钟
+2020-05-21 16:15:00-- 16:30:00     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   69/5.75分钟       二  ：K64_12121212_20200521162235.log - selector.tat* - TextAnalysisTool.NET   42/3.5分钟     三  ：K64_12121212_20200521160606.log - selector.tat* - TextAnalysisTool.NET   27/2.25分钟
+2020-05-21 16:30:00-- 16:45:01     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   73/6.08分钟       二  ：TCR调测工具 V3.36   42/3.5分钟     三  ：K64_12121212_20200521162235.log - selector.tat* - TextAnalysisTool.NET   29/2.41分钟
+2020-05-21 16:45:01-- 17:00:01     :    一  ：TCR调测工具 V3.36   67/5.58分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   49/4.08分钟     三  ：TrackCtrl.c - TortoiseMerge   18/1.5分钟
+2020-05-21 17:00:01-- 17:15:01     :    一  ：TCR调测工具 V3.36   148/12.3分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   20/1.66分钟     三  ：技术中心奖【2020】07号&8号-关于给予樊西磊、邓琳琳等及谢国庆、于键即时奖励的通报   9/0.75分钟
+2020-05-21 17:15:01-- 17:30:02     :    一  ：锁屏状态   148/12.3分钟       二  ：TCR调测工具 V3.36   32/2.66分钟     三  ：   0/0.0分钟
+2020-05-21 17:30:02-- 17:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 17:45:02-- 18:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 18:00:02-- 18:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 18:15:02-- 18:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 18:30:03-- 18:45:03     :    一  ：锁屏状态   142/11.8分钟       二  ：DRB传感器.txt - 记事本   17/1.41分钟     三  ：TCR调测工具 V3.36   14/1.16分钟
+2020-05-21 18:45:03-- 19:00:03     :    一  ：TCR调测工具 V3.36   42/3.5分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   37/3.08分钟     三  ：Decode   21/1.75分钟
+2020-05-21 19:00:03-- 19:15:04     :    一  ：D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\GetGoods\GetGoods.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)   126/10.5分钟       二  ：trunk   24/2.0分钟     三  ：TCR调测工具 V3.36   22/1.83分钟
+2020-05-21 19:15:04-- 19:30:04     :    一  ：D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\GetGoods\GetGoods.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)   124/10.3分钟       二  ：锁屏状态   46/3.83分钟     三  ：荆文波   3/0.25分钟
+2020-05-21 19:30:04-- 19:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 19:45:04-- 20:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 20:00:00-- 20:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 20:15:00-- 20:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 20:30:00-- 20:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 20:45:00-- 21:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 21:00:01-- 21:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 21:15:01-- 21:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 21:30:01-- 21:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 21:45:01-- 22:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 22:00:02-- 22:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 22:15:02-- 22:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 22:30:02-- 22:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 22:45:03-- 23:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 23:00:03-- 23:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 23:15:03-- 23:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-05-21 23:30:04-- 23:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

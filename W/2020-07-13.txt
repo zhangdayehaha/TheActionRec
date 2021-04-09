@@ -1,0 +1,734 @@
+08:05:12:  DRB工程样机系统测试进展汇报
+08:05:57:  TCR调测工具 V3.36
+08:06:07:  BTCRTestTool 属性
+08:06:12:  TCRControlCmdDLL
+08:07:12:  20200711
+08:07:17:  锁屏状态
+08:07:22:  压缩文件名和参数
+08:07:32:  TCRControlCmdDLL
+08:07:37:  20200711
+08:07:57:  K18_0000_20200711171925 - 写邮件
+08:08:12:  周末日志 - 写邮件
+08:08:17:  20200711
+08:19:02:  Re: 回复: FQC检查日报-(汇总）7月7日 (3).xlsx
+08:19:07:  20200711
+08:19:12:  vscode ctrl+鼠标事件_百度搜索 - Google Chrome
+08:19:22:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:19:27:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+08:19:37:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:22:17:  ● CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:22:22:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:22:27:  ● CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:24:17:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:24:37:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:24:47:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:24:52:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+08:25:32:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+08:25:37:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+08:25:52:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+08:25:57:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:26:17:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+08:30:42:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:31:22:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+08:31:27:  This is an unregistered copy
+08:31:32:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:34:47:  「开始」菜单
+08:35:42:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:35:47:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+08:35:52:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+08:35:57:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:36:27:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+08:36:32:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+08:36:37:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:37:02:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+08:37:22:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:38:02:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+08:38:07:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:38:12:  D:\00-06\DRB-PRESS\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+08:38:17:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:38:22:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+08:39:02:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:39:42:  eSpace
+08:41:57:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:42:02:  ● CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:42:42:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:44:17:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:44:22:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:44:17:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:44:22:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:46:02:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:46:07:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:46:22:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+08:46:27:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:46:47:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:46:52:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:49:32:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+08:49:47:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:49:52:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+08:49:57:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:51:07:  untitled (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:51:12:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:51:37:  untitled (trunk) - Sublime Text (UNREGISTERED)
+08:51:47:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:55:22:  eSpace
+08:55:27:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:56:17:  eSpace
+08:56:27:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:59:12:  锁屏状态
+08:59:17:  5.18 传感器测试v1.1.xlsx - Excel
+08:59:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:58:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:59:12:  锁屏状态
+08:59:17:  5.18 传感器测试v1.1.xlsx - Excel
+08:59:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:00:07:  KE06LOG.bat - 快捷方式 (2)
+09:00:12:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007111552.log
+09:00:22:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007130900.log
+09:01:52:  运行
+09:01:57:  问题日志
+09:02:07:  问题日志 (未响应)
+09:02:22:  问题日志
+09:02:27:  10#钞箱AD.txt - 记事本
+09:02:37:  问题日志
+09:02:47:  上腔RB4-RB21盘点35张报钞箱口 500ms纸币未进入 返回码0X045E0900
+09:02:52:  问题日志
+09:02:57:  ID-2 初始化报钞箱口 钞票残留，再次初始化，初始化出成功，但下腔显示将空
+09:03:02:  ID-4 反向盘点盘不完
+09:03:07:  10#钞箱AD.txt - 记事本
+09:03:32:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+09:03:42:  内容准备进度
+09:03:47:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+09:04:42:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007130900.log
+09:04:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:05:52:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+09:07:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:18:12:  警告
+09:19:42:  Foxmail
+09:19:57:  03 项目周报 (未响应)
+09:20:02:  03 项目周报
+09:20:07:  Excel
+09:20:17:  TCR（DRB）项目周报.xlsx  [受保护的视图] - Excel
+09:20:47:  Excel
+09:20:58:  TCR（DRB）项目周报.xlsx  [共享] - Excel
+09:21:53:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:24:28:  跳转列表
+09:24:33:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:50:44:  Toolbox
+09:50:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:53:59:  钞箱1T2集成测试方案
+09:54:04:  Windows Installer
+09:54:39:  5.6 步进电机测试.pptx [受保护的视图] - PowerPoint
+09:56:24:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+09:57:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:58:49:  fenxi
+09:58:59:  上腔5元大额存款79张报 通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B6
+09:59:09:  Decode
+09:59:14:  Box_2__BTCR-1100190802300005_20200713092304.log - DRB.tat* - TextAnalysisTool.NET
+09:59:24:  K64_BTCR-1100190802300005_20200713092407
+09:59:29:  Box_2__BTCR-1100190802300005_20200713092407.log - DRB.tat* - TextAnalysisTool.NET
+09:58:49:  fenxi
+09:58:59:  上腔5元大额存款79张报 通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B6
+09:59:09:  Decode
+09:59:14:  Box_2__BTCR-1100190802300005_20200713092304.log - DRB.tat* - TextAnalysisTool.NET
+09:59:24:  K64_BTCR-1100190802300005_20200713092407
+09:59:29:  Box_2__BTCR-1100190802300005_20200713092407.log - DRB.tat* - TextAnalysisTool.NET
+10:03:29:  IMG_20200713_092442.jpg - Windows 照片查看器
+10:03:34:  IMG_20200713_092537.jpg - Windows 照片查看器
+10:03:39:  IMG_20200713_092442.jpg - Windows 照片查看器
+10:05:29:  Box_2__BTCR-1100190802300005_20200713092407.log - DRB.tat* - TextAnalysisTool.NET
+10:06:09:  上腔5元大额存款159张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B6
+10:06:14:  IMG_20200713_091852.jpg - Windows 照片查看器
+10:06:24:  捕获.PNG - Windows 照片查看器
+10:06:29:  上腔5元大额存款159张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B6
+10:06:34:  5.6 步进电机测试.pptx [受保护的视图] - PowerPoint
+10:14:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:14:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:20:49:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:22:04:  EXTFEDU6V12.PDF - Adobe Reader
+10:25:04:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:36:34:  JL2CM3
+10:36:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:36:44:  JL2CM3
+10:36:54:  μVision
+10:36:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:41:34:  DRB钞箱工程样机系统测试问题列表.xlsx
+10:41:44:  DRB钞箱工程样机系统测试问题列表.xlsx  [只读] - Excel
+10:47:19:  5.18 传感器测试v1.1.xlsx - Excel
+10:47:34:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:49:29:  EXTFEDU6V12.PDF - Adobe Reader
+10:49:34:  阅读未加标签文档
+10:49:39:  EXTFEDU6V12.PDF - Adobe Reader
+10:50:24:  5.6 步进电机测试.pptx [受保护的视图] - PowerPoint
+10:52:09:  03 项目周报
+10:52:14:  06 固件日报
+10:52:19:  钞箱1T2集成测试方案
+10:52:24:  桌面整理
+10:52:29:  5.6 步进电机测试.pptx - PowerPoint
+10:56:19:  固件一室
+10:57:19:  5.6 步进电机测试.pptx - PowerPoint
+10:59:19:  D:\00-06\DRB-PRESS\Middlewares\Sensor\Sensor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:59:24:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:59:29:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:59:44:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotorConfig.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:00:04:  5.6 步进电机测试.pptx - PowerPoint
+10:59:19:  D:\00-06\DRB-PRESS\Middlewares\Sensor\Sensor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:59:24:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:59:29:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:59:44:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotorConfig.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:00:04:  5.6 步进电机测试.pptx - PowerPoint
+11:03:34:  自动播放
+11:03:44:  5.6 步进电机测试.pptx - PowerPoint
+11:06:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:06:19:  JL2CM3
+11:06:24:  μVision
+11:06:29:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:10:34:  于转龙 (G:)
+11:10:39:  桌面整理
+11:10:44:  文件正在使用
+11:10:49:  没有找到项目
+11:10:54:  新建文件夹 (2)
+11:10:59:  本地磁盘 (E:)
+11:13:09:  本地磁盘 (D:)
+11:13:14:  Project
+11:13:19:  μVision
+11:13:39:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+11:17:33:  trunk
+11:17:38:  D:\00-KE64\trunk\Tools\CreateJK.exe
+11:17:43:  TCR调测工具 V3.36
+11:17:48:  打开
+11:18:03:  BTCRTestTool
+11:20:38:  TCR调测工具 V3.36
+11:20:58:  BTCRTestTool
+11:21:03:  TCR调测工具 V3.36
+11:21:18:  荆文波
+11:22:38:  自动播放
+11:22:43:  荆文波
+11:22:48:  自动播放
+11:23:28:  荆文波
+11:24:38:  TCR调测工具 V3.36
+11:26:23:  取款
+11:26:33:  TCR调测工具 V3.36
+11:26:38:  取款
+11:26:43:  TCR调测工具 V3.36
+11:28:28:  取款
+11:28:33:  TCR调测工具 V3.36
+11:28:43:  取款
+11:28:48:  TCR调测工具 V3.36
+11:29:53:  BTCRTestTool V3.36
+11:29:58:  TCRControlCmdDLL
+11:30:03:  20200713
+11:28:28:  取款
+11:28:33:  TCR调测工具 V3.36
+11:28:43:  取款
+11:28:48:  TCR调测工具 V3.36
+11:29:53:  BTCRTestTool V3.36
+11:29:58:  TCRControlCmdDLL
+11:30:03:  20200713
+11:30:08:  20200713 (未响应)
+11:30:28:  20200713
+11:30:33:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:30:38:  Decode
+11:30:48:  打开
+11:30:58:  TCR调测工具 V3.36
+11:32:23:  取款
+11:32:28:  自动播放
+11:33:08:  Decode
+11:33:13:  20200713
+11:33:23:  K64_0000_20200713113226
+11:33:28:  Box_1__0000_20200713113226.log - DRB.tat* - TextAnalysisTool.NET
+11:35:08:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotorConfig.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:35:13:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:35:18:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:35:28:  锁屏状态
+11:35:33:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:35:38:  D:\00-06\DRB-PRESS\Middlewares\Plate\PlateCommon.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:35:43:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:35:58:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:36:08:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:38:43:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:39:13:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+11:39:18:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:39:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:39:28:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+11:39:33:  Tools
+11:39:38:  DRB-PRESS
+11:39:43:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+11:39:48:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+11:39:53:  00-06
+11:39:58:  D:\00-KE64\trunk\Tools\CreateJK.exe
+11:40:03:  TCR调测工具 V3.36
+11:40:08:  打开
+11:40:13:  TCR调测工具 V3.36
+11:40:33:  打开
+11:40:38:  TCR调测工具 V3.36
+11:41:28:  取款
+11:41:33:  TCR调测工具 V3.36
+11:43:13:  取款
+11:43:23:  TCR调测工具 V3.36
+11:44:28:  取款
+11:44:33:  TCR调测工具 V3.36
+11:44:28:  取款
+11:44:33:  TCR调测工具 V3.36
+11:46:28:  锁屏状态
+13:06:14:  TCR调测工具 V3.36
+13:06:19:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+13:06:24:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:06:54:  20200713
+13:07:04:  Decode
+13:07:09:  K64_0000_20200713114432
+13:07:14:  Box_1__0000_20200713114432.log - DRB.tat* - TextAnalysisTool.NET
+13:07:34:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:07:54:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+13:08:14:  自动播放
+13:09:35:  新建文本文档.exe - 快捷方式
+13:09:50:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+13:12:52:  打开文件夹
+13:15:19:  03 项目周报
+13:15:44:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+13:15:49:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:15:54:  Tools
+13:15:59:  D:\00-KE64\trunk\Tools\CreateJK.exe
+13:16:04:  打开
+13:16:14:  BTCRTestTool
+13:16:19:  TCR调测工具 V3.36
+13:16:39:  BTCRTestTool
+13:20:25:  TCR调测工具 V3.36
+13:20:30:  荆文波
+13:20:40:  《毛泽东选集》湖南农民运动考察报告,毛泽东 - Internet Explorer
+13:20:45:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+13:22:45:  TCR调测工具 V3.36
+13:24:50:  取款
+13:24:55:  TCR调测工具 V3.36
+13:25:00:  取款
+13:25:05:  TCR调测工具 V3.36
+13:25:40:  K64_0000_20200713114432
+13:25:45:  取款
+13:25:50:  TCR调测工具 V3.36
+13:26:10:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+13:27:11:  20200713
+13:27:26:  Decode
+13:27:31:  K64_0000_20200713132546
+13:27:36:  Box_1__0000_20200713132546.log - DRB.tat* - TextAnalysisTool.NET
+13:27:51:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+13:29:27:  D:\00-KE64\trunk\Tools\CreateJK.exe
+13:29:32:  Tools
+13:29:37:  TCR调测工具 V3.36
+13:29:57:  BTCRTestTool
+13:30:02:  TCR调测工具 V3.36
+13:29:27:  D:\00-KE64\trunk\Tools\CreateJK.exe
+13:29:32:  Tools
+13:29:37:  TCR调测工具 V3.36
+13:29:57:  BTCRTestTool
+13:30:02:  TCR调测工具 V3.36
+13:30:57:  取款
+13:31:02:  TCR调测工具 V3.36
+13:31:07:  取款
+13:31:12:  TCR调测工具 V3.36
+13:32:12:  K64_0000_20200713132546
+13:32:17:  20200713
+13:32:22:  LOG
+13:32:27:  Box_1__0000_20200713133111.log - DRB.tat* - TextAnalysisTool.NET
+13:32:42:  TCR调测工具 V3.36
+13:32:47:  取款
+13:33:02:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+13:33:22:  D:\00-KE64\trunk\Tools\CreateJK.exe
+13:33:27:  TCR调测工具 V3.36
+13:33:32:  取款
+13:33:57:  TCR调测工具 V3.36
+13:34:02:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+13:34:07:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+13:34:12:  TCR调测工具 V3.36
+13:35:27:  取款
+13:35:32:  TCR调测工具 V3.36
+13:35:37:  取款
+13:35:42:  TCR调测工具 V3.36
+13:36:12:  20200713
+13:36:32:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:36:37:  Box_1__0000_20200713133539.log - DRB.tat* - TextAnalysisTool.NET
+13:37:07:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:37:12:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+13:37:17:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:37:22:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+13:37:27:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:37:42:  Box_1__0000_20200713133539.log - DRB.tat* - TextAnalysisTool.NET
+13:37:48:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:37:53:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+13:37:58:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:38:08:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+13:38:18:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:38:43:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+13:39:13:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+13:39:23:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+13:39:53:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+13:39:58:  D:\00-KE64\trunk\Tools\JMConvertOld\Convert.exe
+13:40:03:  D:\00-KE64\trunk\Tools\CreateJK.exe
+13:40:08:  Tools
+13:40:13:  TCR调测工具 V3.36
+13:41:28:  可接收
+13:41:33:  取款
+13:41:38:  TCR调测工具 V3.36
+13:42:33:  取款
+13:42:38:  TCR调测工具 V3.36
+13:43:18:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:44:18:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+13:44:28:  锁屏状态
+13:44:33:  D:\00-KE64\trunk\Tools\CreateJK.exe
+13:44:38:  TCR调测工具 V3.36
+13:44:18:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+13:44:28:  锁屏状态
+13:44:33:  D:\00-KE64\trunk\Tools\CreateJK.exe
+13:44:38:  TCR调测工具 V3.36
+13:45:33:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+13:45:38:  TCR调测工具 V3.36
+13:45:48:  取款
+13:45:58:  TCR调测工具 V3.36
+13:46:48:  取款
+13:46:53:  TCR调测工具 V3.36
+13:47:53:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:48:03:  本地磁盘 (D:)
+13:48:08:  00-06
+13:48:13:  DRB-PRESS
+13:48:18:  新建文本文档.exe - 快捷方式
+13:48:28:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+13:48:33:  Initial.c - TortoiseMerge
+13:48:38:  PaperManage.c - TortoiseMerge
+13:48:48:  UpperPlateCtrl.c - TortoiseMerge
+13:48:53:  Separate.c - TortoiseMerge
+13:49:03:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+13:49:08:  Update.c - TortoiseMerge
+13:49:13:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+13:49:18:  PressurePlate.c - TortoiseMerge
+13:49:23:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+13:49:28:  UpperPlate.c - TortoiseMerge
+13:49:33:  DRB-PRESS
+13:49:38:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+13:49:48:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+13:49:58:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+13:50:08:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:50:18:  Tools
+13:50:23:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+13:53:25:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+13:53:30:  00-KE64
+13:53:35:  D:\00-KE64\trunk\Tools\CreateJK.exe
+13:53:40:  Tools
+13:54:10:  DRB钞箱工程样机系统测试问题列表.xlsx
+13:55:50:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件
+13:55:55:  回复: DRB工程样机系统测试进展汇报 - 写邮件
+13:56:05:  未命名 - 写邮件
+13:57:05:  未命名 - 写邮件   13:57:03 已保存
+13:57:10:  Tools
+13:57:15:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件   13:57:03 已保存
+13:57:20:  00-06
+13:57:30:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件   13:57:03 已保存
+13:58:05:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件   13:58:03 已保存
+13:59:05:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件   13:59:03 已保存
+13:58:05:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件   13:58:03 已保存
+13:59:05:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件   13:59:03 已保存
+14:00:05:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件   14:00:03 已保存
+14:01:05:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件   14:01:03 已保存
+14:02:05:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件   14:02:04 已保存
+14:03:05:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件   14:03:04 已保存
+14:04:05:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件   14:04:04 已保存
+14:05:05:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件   14:05:04 已保存
+14:06:05:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件   14:06:04 已保存
+14:06:40:  DRB钞箱工程样机系统测试问题列表.xlsx
+14:06:45:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件   14:06:04 已保存
+14:07:00:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件   14:06:58 已保存
+14:07:35:  Tools
+14:07:55:  新建文件夹 (2)
+14:08:05:  5.6 步进电机测试.pptx - PowerPoint
+14:08:25:  EXTFEDU6V12.PDF - Adobe Reader
+14:11:15:  5.6 步进电机测试.pptx - PowerPoint
+14:11:25:  插入图片
+14:11:45:  Windows 照片查看器
+14:11:55:  插入图片
+14:13:00:  Windows 照片查看器
+14:13:15:  新建文件夹 (2)
+14:13:25:  scope_0.png - Windows 照片查看器
+14:13:35:  scope_1.png - Windows 照片查看器
+14:13:45:  scope_4.png - Windows 照片查看器
+14:13:50:  scope_7.png - Windows 照片查看器
+14:13:55:  插入图片
+14:14:00:  5.6 步进电机测试.pptx - PowerPoint
+14:14:25:  插入图片
+14:14:30:  scope_6.png - Windows 照片查看器
+14:14:35:  5.6 步进电机测试.pptx - PowerPoint
+14:14:25:  插入图片
+14:14:30:  scope_6.png - Windows 照片查看器
+14:14:35:  5.6 步进电机测试.pptx - PowerPoint
+14:15:15:  插入图片
+14:15:25:  新建文件夹 (2)
+14:15:30:  scope_2.png - Windows 照片查看器
+14:15:35:  插入图片
+14:15:40:  5.6 步进电机测试.pptx - PowerPoint
+14:15:45:  插入图片
+14:15:50:  scope_2.png - Windows 照片查看器
+14:16:00:  scope_5.png - Windows 照片查看器
+14:16:05:  5.6 步进电机测试.pptx - PowerPoint
+14:16:25:  scope_6.png - Windows 照片查看器
+14:16:30:  scope_1.png - Windows 照片查看器
+14:16:35:  scope_2.png - Windows 照片查看器
+14:16:40:  插入图片
+14:16:45:  5.6 步进电机测试.pptx - PowerPoint
+14:17:10:  scope_2.png - Windows 照片查看器
+14:17:15:  scope_5.png - Windows 照片查看器
+14:17:25:  scope_8.png - Windows 照片查看器
+14:17:30:  插入图片
+14:17:35:  5.6 步进电机测试.pptx - PowerPoint
+14:17:40:  scope_8.png - Windows 照片查看器
+14:17:50:  5.6 步进电机测试.pptx - PowerPoint
+14:17:55:  5.6 步进电机测试.pptx - PowerPoint (未响应)
+14:18:00:  5.6 步进电机测试.pptx - PowerPoint
+14:18:10:  插入图片
+14:18:15:  scope_8.png - Windows 照片查看器
+14:18:20:  scope_7.png - Windows 照片查看器
+14:18:25:  5.6 步进电机测试.pptx - PowerPoint
+14:18:30:  插入图片
+14:18:35:  5.6 步进电机测试.pptx - PowerPoint
+14:18:55:  替换
+14:19:05:  5.6 步进电机测试.pptx - PowerPoint
+14:19:10:  EXTFEDU6V12.PDF - Adobe Reader
+14:19:15:  scope_7.png - Windows 照片查看器
+14:24:45:  桌面整理
+14:27:51:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:06:  untitled (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:11:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrHandle.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:16:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:36:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:41:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:29:06:  D:\00-06\DRB-PRESS\Middlewares\Power\Power.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:29:16:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:06:  untitled (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:11:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrHandle.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:16:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:36:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:41:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:29:06:  D:\00-06\DRB-PRESS\Middlewares\Power\Power.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:29:16:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:34:11:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:41:01:  D:\00-KE64\trunk\Applications\FunctionApp\FunctionApp.h (trunk) - Sublime Text (UNREGISTERED)
+14:41:26:  ErrCode_list_txt_flg.txt - 记事本
+14:41:31:  DRB传感器.txt - 记事本
+14:41:36:  EXTFEDU6V12.PDF - Adobe Reader
+14:42:56:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:55:11:  DRB上腔5元档位问题
+14:55:41:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:55:51:  桌面整理
+14:58:41:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:58:41:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:07:26:  新建文件夹 (2)
+15:07:31:  5.6 步进电机测试.pptx - PowerPoint
+15:07:51:  新建文件夹 (2)
+15:07:56:  scope_3.png - Windows 照片查看器
+15:08:01:  scope_4.png - Windows 照片查看器
+15:08:11:  插入图片
+15:08:17:  5.6 步进电机测试.pptx - PowerPoint
+15:10:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:11:52:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:11:57:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:12:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:12:52:  于斌1
+15:13:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:13:37:  于斌1
+15:13:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:14:47:  于斌1
+15:14:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:14:47:  于斌1
+15:14:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:22:22:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:22:37:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:22:52:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:23:17:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:23:32:  D:\00-06\DRB-PRESS\Middlewares\Sensor\Sensor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:23:37:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:23:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:24:12:  于斌1
+15:24:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:26:12:  于斌1
+15:26:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:26:42:  于斌1
+15:27:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:27:42:  于斌1
+15:28:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:28:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:30:32:  于斌1
+15:30:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:31:27:  于斌1
+15:31:47:  5.6 步进电机测试.pptx - PowerPoint
+15:31:57:  Tools
+15:32:02:  固件集成测试方案
+15:32:07:  钞箱1T2集成测试方案
+15:32:12:  5.6 步进电机测试.pptx [受保护的视图] - PowerPoint
+15:33:12:  钞箱1T2集成测试方案
+15:33:17:  scope_9.png - Windows 照片查看器
+15:33:22:  于转龙 (G:)
+15:33:27:  于斌1
+15:34:07:  本地磁盘 (E:)
+15:35:47:  桌面整理
+15:35:52:  新建文件夹 (2)
+15:36:07:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+15:36:12:  5.6 步进电机测试.pptx - PowerPoint
+15:36:27:  scope_9.png - Windows 照片查看器
+15:36:42:  scope_10.png - Windows 照片查看器
+15:36:47:  插入图片
+15:36:57:  5.6 步进电机测试.pptx - PowerPoint
+15:37:02:  插入图片
+15:37:07:  5.6 步进电机测试.pptx - PowerPoint
+15:37:32:  scope_13.png - Windows 照片查看器
+15:37:37:  scope_20.png - Windows 照片查看器
+15:37:42:  scope_21.png - Windows 照片查看器
+15:38:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:39:27:  scope_21.png - Windows 照片查看器
+15:40:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:41:47:  scope_21.png - Windows 照片查看器
+15:41:52:  scope_19.png - Windows 照片查看器
+15:41:57:  5.6 步进电机测试.pptx - PowerPoint
+15:42:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:43:02:  于斌1
+15:43:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:45:02:  于斌1
+15:45:02:  于斌1
+15:45:57:  荆文波
+15:46:47:  于斌1
+15:47:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:47:42:  于斌1
+15:47:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:48:22:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+15:48:27:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:48:47:  untitled (trunk) - Sublime Text (UNREGISTERED)
+15:48:52:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:49:42:  于斌1
+15:49:47:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:52:27:  于斌1
+15:54:27:  荆文波
+15:54:32:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:54:47:  scope_11.png - Windows 照片查看器
+15:54:52:  scope_14.png - Windows 照片查看器
+15:54:57:  scope_15.png - Windows 照片查看器
+15:55:02:  新固件测试500ms问题
+15:55:07:  scope_15.png - Windows 照片查看器
+15:55:12:  上腔托板
+15:55:17:  5.6 步进电机测试.pptx - PowerPoint
+15:55:22:  scope_14.png - Windows 照片查看器
+15:55:27:  插入图片
+15:55:32:  荆文波
+15:55:42:  5.6 步进电机测试.pptx - PowerPoint
+15:55:57:  scope_15.png - Windows 照片查看器
+15:56:02:  插入图片
+15:56:07:  5.6 步进电机测试.pptx - PowerPoint
+15:56:12:  scope_16.png - Windows 照片查看器
+15:56:17:  scope_18.png - Windows 照片查看器
+15:56:22:  scope_19.png - Windows 照片查看器
+15:56:27:  5.6 步进电机测试.pptx - PowerPoint
+15:56:47:  插入图片
+15:56:52:  scope_18.png - Windows 照片查看器
+15:56:57:  5.6 步进电机测试.pptx - PowerPoint
+15:57:12:  scope_20.png - Windows 照片查看器
+15:57:17:  5.6 步进电机测试.pptx - PowerPoint
+15:57:47:  Microsoft Windows
+15:57:52:  5.6 步进电机测试.pptx - PowerPoint
+15:59:07:  本地磁盘 (F:)
+15:59:12:  本地磁盘 (D:)
+15:59:17:  桌面
+15:59:27:  新建文件夹 (2)
+15:59:32:  scope_23.png - Windows 照片查看器
+15:59:42:  5.6 步进电机测试.pptx - PowerPoint
+15:59:57:  03 项目周报
+16:00:02:  固件集成测试方案
+15:59:07:  本地磁盘 (F:)
+15:59:12:  本地磁盘 (D:)
+15:59:17:  桌面
+15:59:27:  新建文件夹 (2)
+15:59:32:  scope_23.png - Windows 照片查看器
+15:59:42:  5.6 步进电机测试.pptx - PowerPoint
+15:59:57:  03 项目周报
+16:00:02:  固件集成测试方案
+16:00:07:  5.6 步进电机测试.pptx [受保护的视图] - PowerPoint
+16:00:22:  scope_22.png - Windows 照片查看器
+16:00:27:  scope_20.png - Windows 照片查看器
+16:00:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:02:32:  于斌1
+16:02:42:  锁屏状态
+16:02:47:  新标签页 - Google Chrome
+16:02:57:  荆文波
+16:03:02:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:03:17:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:04:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:05:17:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:05:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:36:23:  Windows Installer
+16:36:28:  5.6 步进电机测试.pptx - PowerPoint
+16:37:03:  插入图片
+16:37:38:  5.6 步进电机测试.pptx - PowerPoint
+16:38:08:  上腔托板
+16:38:18:  荆文波
+16:38:23:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+16:41:13:  桌面整理
+16:41:18:  MindMaster
+16:41:23:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+16:41:28:  MindMaster Pro
+16:44:18:  新建文本文档.exe - 快捷方式
+16:44:23:  新标签页 - Google Chrome
+16:44:28:  百度一下，你就知道 - Google Chrome
+16:44:43:  apple watch 4 qq音乐 下载_百度搜索 - Google Chrome
+16:44:48:  为什么Apple Watch的QQ音乐不能下载音乐，还是我不知道怎么下【applewatch吧】_百度贴吧 - Google Chrome
+16:44:58:  apple watch 4 qq音乐 下载_百度搜索 - Google Chrome
+16:45:03:  【图片】apple watch 离线听歌！！！！！【iwatch吧】_百度贴吧 - Google Chrome
+16:44:18:  新建文本文档.exe - 快捷方式
+16:44:23:  新标签页 - Google Chrome
+16:44:28:  百度一下，你就知道 - Google Chrome
+16:44:43:  apple watch 4 qq音乐 下载_百度搜索 - Google Chrome
+16:44:48:  为什么Apple Watch的QQ音乐不能下载音乐，还是我不知道怎么下【applewatch吧】_百度贴吧 - Google Chrome
+16:44:58:  apple watch 4 qq音乐 下载_百度搜索 - Google Chrome
+16:45:03:  【图片】apple watch 离线听歌！！！！！【iwatch吧】_百度贴吧 - Google Chrome
+16:45:48:  钞箱1T2集成测试方案
+16:47:48:  MindMaster Pro
+16:48:22:  锁屏状态
+16:48:32:  Box_1__0000_20200713133539.log - DRB.tat* - TextAnalysisTool.NET
+16:48:37:  MindMaster Pro
+16:48:57:  荆文波
+16:49:12:  fenxi
+16:49:37:  新固件测试500ms问题
+16:49:52:  荆文波
+16:49:57:  新固件测试500ms问题
+16:50:02:  Decode
+16:50:07:  荆文波
+16:50:57:  eSpace
+16:51:07:  荆文波
+16:52:22:  K64_0000_20200713154354
+16:52:27:  Box_2__0000_20200713154354.log - DRB.tat* - TextAnalysisTool.NET
+16:52:32:  荆文波
+16:52:37:  LOG
+16:52:42:  新固件测试500ms问题
+16:52:52:  Decode
+16:52:57:  Box_2__0000_20200713154354.log - DRB.tat* - TextAnalysisTool.NET
+16:53:57:  荆文波
+16:54:17:  Box_2__0000_20200713154354.log - DRB.tat* - TextAnalysisTool.NET
+16:54:22:  荆文波
+16:54:27:  Box_2__0000_20200713154354.log - DRB.tat* - TextAnalysisTool.NET
+16:58:42:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+16:58:47:  打开文件夹
+16:58:52:  Visual Studio Code
+16:59:07:  SystemConfig.h - trunk - Visual Studio Code [管理员]
+16:59:17:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+16:58:42:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+16:58:47:  打开文件夹
+16:58:52:  Visual Studio Code
+16:59:07:  SystemConfig.h - trunk - Visual Studio Code [管理员]
+16:59:17:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+17:01:12:  ● CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+17:01:37:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+17:02:12:  ● CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+17:02:17:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+17:02:27:  ● CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+17:02:57:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+17:04:27:  Decode
+17:04:32:  于转龙 (G:)
+17:04:57:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+17:10:27:  荆文波
+17:10:32:  eSpace
+17:10:37:  于斌1
+17:10:42:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+17:10:47:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:10:52:  锁屏状态

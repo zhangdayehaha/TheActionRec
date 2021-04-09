@@ -1,0 +1,1747 @@
+08:09:01:  iTunes
+08:09:16:  
+08:09:26:  库
+08:09:31:  
+08:09:36:  eSpace
+08:09:41:  CommonManageTool
+08:09:46:  eSpace
+08:09:51:  CommonManageTool
+08:10:36:  图片
+08:10:41:  
+08:10:46:  程明昌
+08:10:51:  于斌1
+08:11:06:  
+08:11:11:  「开始」菜单
+08:11:26:  计算机管理
+08:11:51:  FucktoUP 属性(本地计算机)
+08:12:11:  任务计划程序
+08:12:16:  计算机管理
+08:12:26:  任务计划程序
+08:12:31:  计算机管理
+08:13:06:  图片
+08:13:11:  Windows
+08:13:16:  System32
+08:13:21:  C:\Windows\system32\cmd.exe
+08:13:31:  任务计划程序
+08:13:36:  计算机管理
+08:15:26:  图片
+08:15:36:  *Python 3.7.3 Shell*
+08:15:46:  Kill?
+08:15:56:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:16:11:  新建文本文档.txt - 记事本
+08:16:16:  TheActtionRec
+08:16:21:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-02.txt
+08:16:26:  W
+08:16:36:  Log
+08:16:41:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+08:16:51:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+08:17:01:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+08:17:16:  于斌1
+08:17:26:  Log
+08:17:31:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+08:17:36:  
+08:17:41:  于斌1
+08:17:56:  C:\Users\zhangkaifa\Pictures\PostWork.py (trunk) - Sublime Text (UNREGISTERED)
+08:18:06:  Log
+08:18:11:  BR-1-CashBox1T2
+08:18:16:  Project
+08:18:26:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:20:01:  于斌1
+08:20:06:  
+08:20:11:  于斌1
+08:20:17:  
+08:20:27:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:20:42:  登录页面 - 数据抓取工具 - Google Chrome
+08:20:47:  新标签页 - Google Chrome
+08:20:52:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:21:07:  KE06LOG.bat - 快捷方式 (2)
+08:21:12:  
+08:21:17:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003030821.log
+08:21:27:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:21:47:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003030821.log
+08:22:02:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:23:42:  于斌1
+08:24:02:  
+08:24:07:  新标签页 - Google Chrome
+08:24:12:  班车管理系统 - Google Chrome
+08:24:17:  班车管理系统 [新北洋集团] - Google Chrome
+08:24:32:  Internet Explorer
+08:24:37:  Visio Professional
+08:24:42:  绘图1.vsd  [兼容模式] - Visio Professional
+08:24:47:  
+08:24:52:  图片
+08:24:57:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:25:02:  新标签页 - Google Chrome
+08:25:07:  百度一下，你就知道 - Google Chrome
+08:25:12:  python __viewstate_百度搜索 - Google Chrome
+08:25:22:  python 爬虫 ——获取__VIEWSTATE 与__EVENTVALIDATION - bear_ge - 博客园 - Google Chrome
+08:25:42:  python __viewstate_百度搜索 - Google Chrome
+08:25:47:  python 抓取ASP.NET平台信息 __VIEWSTATE_Python_啦啦啦的博客-CSDN博客 - Google Chrome
+08:26:32:  python __viewstate_百度搜索 - Google Chrome
+08:26:52:  python 爬虫 __VIEWSTATE_python吧_百度贴吧 - Google Chrome
+08:27:12:  python __viewstate_百度搜索 - Google Chrome
+08:27:17:  https://blog.51cto.com/slliang/1783837 - Google Chrome
+08:27:22:  pyton简单网络爬虫，aspx网站中form使用到了__VIEWSTATE、__EVENTVALIDATION、cookie来验证的提交-IT小愤青-51CTO博客 - Google Chrome
+08:28:52:  python __viewstate_百度搜索 - Google Chrome
+08:28:57:  https://www.baidu.com/link?url=8D_qmmUFqruI8vhrsn3Sj7Y3H1kkWcpK5guAgpWjNtYLybKsuTxhYgXLZl7bttjfREqhD_e6rKIxHxtLPdh3Z_&wd=&eqid=97a1d10100041d1d000000025e5da3e5 - Google Chrome
+08:29:02:  Python爬虫：爬取带隐藏域__EVENTVALIDATION和__VIEWSTATE的form提交网页 - xuejianbest - 博客园 - Google Chrome
+08:30:02:  浅谈ViewState_Python_我在等那么一天的博客-CSDN博客 - Google Chrome
+08:28:52:  python __viewstate_百度搜索 - Google Chrome
+08:28:57:  https://www.baidu.com/link?url=8D_qmmUFqruI8vhrsn3Sj7Y3H1kkWcpK5guAgpWjNtYLybKsuTxhYgXLZl7bttjfREqhD_e6rKIxHxtLPdh3Z_&wd=&eqid=97a1d10100041d1d000000025e5da3e5 - Google Chrome
+08:29:02:  Python爬虫：爬取带隐藏域__EVENTVALIDATION和__VIEWSTATE的form提交网页 - xuejianbest - 博客园 - Google Chrome
+08:30:02:  浅谈ViewState_Python_我在等那么一天的博客-CSDN博客 - Google Chrome
+08:31:22:  python __viewstate_百度搜索 - Google Chrome
+08:31:27:  python 获取 __VIEWSTATE_百度搜索 - Google Chrome
+08:31:42:  python 抓包 获取网页中viewstate参数和eventvalidation的值-CSDN问答 - Google Chrome
+08:32:32:  C:\Users\zhangkaifa\Pictures\PostWork.py (trunk) - Sublime Text (UNREGISTERED)
+08:32:57:  Starting Fiddler...
+08:33:02:  Update Announcement (from v5.0.20192.25091 to v5.0.20194.41348)
+08:33:17:  Fiddler Auto-Update
+08:33:27:  python 抓包 获取网页中viewstate参数和eventvalidation的值-CSDN问答 - Google Chrome
+08:33:37:  Fiddler Auto-Update
+08:33:42:  Progress Telerik Fiddler Web Debugger
+08:33:57:  
+08:34:02:  Progress Telerik Fiddler Web Debugger
+08:34:07:  C:\Windows\py.exe
+08:34:17:  新建文本文档.exe - 快捷方式
+08:34:22:  Progress Telerik Fiddler Web Debugger
+08:34:27:  图片
+08:34:32:  C:\Windows\py.exe
+08:34:37:  Progress Telerik Fiddler Web Debugger
+08:35:32:  C:\Users\zhangkaifa\Pictures\PostWork.py (trunk) - Sublime Text (UNREGISTERED)
+08:35:42:  Progress Telerik Fiddler Web Debugger
+08:35:57:  C:\Users\zhangkaifa\Pictures\PostWork.py • (trunk) - Sublime Text (UNREGISTERED)
+08:36:12:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:36:17:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:37:02:  文档
+08:37:07:  WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\WorkTime.py (3.7.3)
+08:37:27:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:37:47:  W
+08:37:52:  Progress Telerik Fiddler Web Debugger
+08:38:07:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:38:12:  Progress Telerik Fiddler Web Debugger
+08:38:17:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:38:22:  WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\WorkTime.py (3.7.3)
+08:38:27:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:38:47:  *Python 3.7.3 Shell*
+08:38:52:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:39:02:  *Python 3.7.3 Shell*
+08:39:32:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:39:37:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:39:47:  *Python 3.7.3 Shell*
+08:39:52:  Kill?
+08:39:57:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:40:02:  *Python 3.7.3 Shell*
+08:40:27:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:40:32:  *Python 3.7.3 Shell*
+08:40:42:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:40:47:  *Python 3.7.3 Shell*
+08:40:57:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:41:02:  *Python 3.7.3 Shell*
+08:41:07:  Save Before Run or Check
+08:41:12:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:41:22:  Save Before Run or Check
+08:41:27:  *Python 3.7.3 Shell*
+08:41:32:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:41:47:  *Python 3.7.3 Shell*
+08:41:52:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:42:02:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:42:07:  Save Before Run or Check
+08:42:12:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:42:22:  *Python 3.7.3 Shell*
+08:43:17:  Save Before Run or Check
+08:43:22:  *Python 3.7.3 Shell*
+08:43:47:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:43:52:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:43:57:  SyntaxError
+08:44:02:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:44:07:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:44:12:  SyntaxError
+08:44:22:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:44:27:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:44:32:  SyntaxError
+08:44:37:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:44:42:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:44:47:  *Python 3.7.3 Shell*
+08:45:27:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:45:32:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:45:37:  新建文本文档.exe - 快捷方式
+08:45:42:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:45:47:  python 获取 __VIEWSTATE_百度搜索 - Google Chrome
+08:45:57:  python 正则 <_百度搜索 - Google Chrome
+08:46:12:  python 正则 符号 <_百度搜索 - Google Chrome
+08:46:22:  eSpace
+08:46:27:  于斌1
+08:46:32:  python 正则 符号 <_百度搜索 - Google Chrome
+08:46:52:  python 正则 搜索符号 <_百度搜索 - Google Chrome
+08:46:57:  python正则表达式(re)的符号与方法.*()?,search,findall,sub_Python_莲君-CSDN博客 - Google Chrome
+08:47:17:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:47:27:  python正则表达式(re)的符号与方法.*()?,search,findall,sub_Python_莲君-CSDN博客 - Google Chrome
+08:47:32:  *Python 3.7.3 Shell*
+08:47:42:  
+08:47:47:  *Python 3.7.3 Shell*
+08:48:02:  python正则表达式(re)的符号与方法.*()?,search,findall,sub_Python_莲君-CSDN博客 - Google Chrome
+08:48:22:  *Python 3.7.3 Shell*
+08:48:27:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:48:37:  *Python 3.7.3 Shell*
+08:48:52:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:49:02:  Save Before Run or Check
+08:49:07:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:49:12:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:49:22:  *Python 3.7.3 Shell*
+08:49:27:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:49:32:  SyntaxError
+08:49:37:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:49:42:  SyntaxError
+08:49:47:  Save Before Run or Check
+08:49:52:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:49:57:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:50:02:  python 正则 搜索符号 <_百度搜索 - Google Chrome
+08:50:12:  *Python 3.7.3 Shell*
+08:50:17:  www.baidu.com - Google Chrome
+08:50:22:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:50:27:  于斌1
+08:50:37:  python 正则 搜索符号 < 转义_百度搜索 - Google Chrome
+08:50:42:  https://www.baidu.com/link?url=KUjtlSufwoweae5F73EJnZ2eV3fxns1_tBDEkk7IhjtfENJC_3PxxLFR61Q4FSlW-0b5v_0H9qQngpEaHAXVO_&wd=&eqid=d930d04f00060842000000025e5da9cd - Google Chrome
+08:50:47:  python 正则表达式之转义字符 - xingchen95 - 博客园 - Google Chrome
+08:51:22:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:51:27:  SyntaxError
+08:51:32:  python 正则 搜索符号 < 转义_百度搜索 - Google Chrome
+08:51:37:  python eol while_百度搜索 - Google Chrome
+08:51:52:  SyntaxError
+08:51:57:  python eol while_百度搜索 - Google Chrome
+08:52:02:  Python——报错 EOL while scanning string literal - 皇城根儿 - 博客园 - Google Chrome
+08:52:07:  python eol while_百度搜索 - Google Chrome
+08:52:17:  python '<'_百度搜索 - Google Chrome
+08:52:27:  python 正则 '<'_百度搜索 - Google Chrome
+08:52:42:  https://www.baidu.com/link?url=s0QbtagiRlb4Thb6tFLYchTB0tZS0JNyE1MpLhxU37pynrSlZAh4X7dICLVD6Cxcbw1uUIdKQQwJRdgtRK0z5lc43rc8-ECqHnu1ekiwW8u&wd=&eqid=9d4393d8000405df000000025e5daa45 - Google Chrome
+08:52:47:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:52:57:  python 正则 '<'_百度搜索 - Google Chrome
+08:53:07:  python 搜索 /_百度搜索 - Google Chrome
+08:53:17:  python 正则 符号 /_百度搜索 - Google Chrome
+08:53:22:  python正则表达式--特殊字符 - あなたの相棒 - 博客园 - Google Chrome
+08:54:17:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:54:27:  *Python 3.7.3 Shell*
+08:54:32:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:54:37:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:54:42:  *Python 3.7.3 Shell*
+08:55:12:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:55:27:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:55:32:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:55:42:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:55:52:  Python 3.7.3 Shell
+08:55:57:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:56:07:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:56:12:  *Python 3.7.3 Shell*
+08:56:22:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:56:27:  *Python 3.7.3 Shell*
+08:56:37:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:56:42:  *Python 3.7.3 Shell*
+08:57:02:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:57:27:  Python 3.7.3 Shell
+08:57:32:  Save Before Run or Check
+08:57:37:  *Python 3.7.3 Shell*
+08:57:57:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:58:07:  python 正则 符号 /_百度搜索 - Google Chrome
+08:58:12:  *Python 3.7.3 Shell*
+08:58:17:  www.baidu.com - Google Chrome
+08:58:22:  https://www.baidu.com/link?url=XpYOh_qxYaytfq94svlIf7ePo-N8fOTHuw4kz6xI0OxBQkn2B3FaRluOwvtOTCKMZySQYeKsR1O1PTvAI0ax3K&wd=&eqid=969694e600039cd6000000025e5dabab - Google Chrome
+08:58:27:  python爬虫之xpath的基本使用 - Charles.L - 博客园 - Google Chrome
+08:58:42:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:58:47:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:58:52:  *Python 3.7.3 Shell*
+08:58:57:  python爬虫之xpath的基本使用 - Charles.L - 博客园 - Google Chrome
+08:59:07:  *Python 3.7.3 Shell*
+08:59:12:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:59:22:  
+08:59:27:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:59:32:  *Python 3.7.3 Shell*
+08:59:42:  Kill?
+08:59:47:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:59:57:  *Python 3.7.3 Shell*
+08:58:07:  python 正则 符号 /_百度搜索 - Google Chrome
+08:58:12:  *Python 3.7.3 Shell*
+08:58:17:  www.baidu.com - Google Chrome
+08:58:22:  https://www.baidu.com/link?url=XpYOh_qxYaytfq94svlIf7ePo-N8fOTHuw4kz6xI0OxBQkn2B3FaRluOwvtOTCKMZySQYeKsR1O1PTvAI0ax3K&wd=&eqid=969694e600039cd6000000025e5dabab - Google Chrome
+08:58:27:  python爬虫之xpath的基本使用 - Charles.L - 博客园 - Google Chrome
+08:58:42:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+08:58:47:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:58:52:  *Python 3.7.3 Shell*
+08:58:57:  python爬虫之xpath的基本使用 - Charles.L - 博客园 - Google Chrome
+08:59:07:  *Python 3.7.3 Shell*
+08:59:12:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:59:22:  
+08:59:27:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:59:32:  *Python 3.7.3 Shell*
+08:59:42:  Kill?
+08:59:47:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+08:59:57:  *Python 3.7.3 Shell*
+09:00:17:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:00:22:  *Python 3.7.3 Shell*
+09:00:52:  Save Before Run or Check
+09:00:57:  *Python 3.7.3 Shell*
+09:01:02:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:01:07:  *Python 3.7.3 Shell*
+09:01:12:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:01:17:  *Python 3.7.3 Shell*
+09:01:22:  python爬虫之xpath的基本使用 - Charles.L - 博客园 - Google Chrome
+09:01:27:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:01:32:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:01:37:  *Python 3.7.3 Shell*
+09:01:52:  Save Before Run or Check
+09:01:57:  *Python 3.7.3 Shell*
+09:02:02:  python爬虫之xpath的基本使用 - Charles.L - 博客园 - Google Chrome
+09:02:07:  *Python 3.7.3 Shell*
+09:02:12:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:02:17:  Python 3.7.3 Shell
+09:02:22:  *Python 3.7.3 Shell*
+09:02:52:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:02:57:  *Python 3.7.3 Shell*
+09:03:02:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:03:07:  *Python 3.7.3 Shell*
+09:03:12:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:03:17:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:03:32:  *Python 3.7.3 Shell*
+09:03:42:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:03:47:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:03:57:  *Python 3.7.3 Shell*
+09:04:02:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:04:07:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:04:12:  Save Before Run or Check
+09:04:17:  *Python 3.7.3 Shell*
+09:08:42:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:09:42:  选择文件夹
+09:09:47:  untitled (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:09:52:  D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\Sensor\Sensor.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:10:07:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:10:12:  D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\Sensor\Sensor.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:10:17:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:10:22:  *Python 3.7.3 Shell*
+09:10:27:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:10:37:  *Python 3.7.3 Shell*
+09:10:42:  Kill?
+09:10:47:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:10:52:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:10:57:  *Python 3.7.3 Shell*
+09:11:12:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:11:22:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:11:27:  *Python 3.7.3 Shell*
+09:12:02:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:12:07:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:12:32:  Python 3.7.3 Shell
+09:12:37:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:12:42:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:12:47:  *Python 3.7.3 Shell*
+09:12:52:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:12:57:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:13:12:  Save Before Run or Check
+09:13:17:  *Python 3.7.3 Shell*
+09:15:07:  D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\Sensor\Sensor.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:15:12:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:15:22:  D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\Bldc\Bldc.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:15:27:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:16:38:  μVision
+09:16:43:  *Python 3.7.3 Shell*
+09:16:48:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:16:53:  *Python 3.7.3 Shell*
+09:17:03:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:17:08:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:17:18:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:17:33:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:18:28:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+09:18:33:  μVision
+09:18:38:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:20:03:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:20:08:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:20:13:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:21:28:  *Python 3.7.3 Shell*
+09:21:33:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:21:43:  *Python 3.7.3 Shell*
+09:21:53:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:21:58:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:22:23:  *Python 3.7.3 Shell*
+09:22:53:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:22:58:  
+09:23:03:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:23:08:  打开方式
+09:23:13:  C:\Users\zhangkaifa\Pictures\PostWork.py (trunk) - Sublime Text (UNREGISTERED)
+09:23:18:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:23:23:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:23:28:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:23:33:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:23:43:  *Python 3.7.3 Shell*
+09:23:53:  Progress Telerik Fiddler Web Debugger
+09:24:03:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:24:09:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:24:13:  Progress Telerik Fiddler Web Debugger
+09:24:23:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:24:44:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:24:49:  Python 3.7.3 Shell
+09:24:54:  *Python 3.7.3 Shell*
+09:25:04:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:25:09:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:25:24:  *Python 3.7.3 Shell*
+09:25:29:  Kill?
+09:25:34:  Progress Telerik Fiddler Web Debugger
+09:25:39:  python爬虫之xpath的基本使用 - Charles.L - 博客园 - Google Chrome
+09:25:44:  主页 - Internet Explorer
+09:25:54:  http://snbcproject.byintra.com/Login.aspx - Internet Explorer
+09:25:59:  python爬虫之xpath的基本使用 - Charles.L - 博客园 - Google Chrome
+09:26:04:  登陆到CoPlan - Google Chrome
+09:26:09:  Progress Telerik Fiddler Web Debugger
+09:26:24:  登陆到CoPlan - Internet Explorer
+09:26:29:  SNBC CoPlan - Internet Explorer
+09:26:39:  SNBC CoPlan - Google Chrome
+09:26:44:  绩效考核详细信息 - Google Chrome
+09:26:49:  Progress Telerik Fiddler Web Debugger
+09:27:14:  绩效考核详细信息 - Google Chrome
+09:27:19:  Progress Telerik Fiddler Web Debugger
+09:28:09:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:28:19:  *Python 3.7.3 Shell*
+09:28:24:  Progress Telerik Fiddler Web Debugger
+09:28:34:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:28:39:  Save Before Run or Check
+09:28:44:  *Python 3.7.3 Shell*
+09:28:49:  Progress Telerik Fiddler Web Debugger
+09:29:54:  Find Sessions
+09:29:59:  Progress Telerik Fiddler Web Debugger
+09:28:09:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:28:19:  *Python 3.7.3 Shell*
+09:28:24:  Progress Telerik Fiddler Web Debugger
+09:28:34:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:28:39:  Save Before Run or Check
+09:28:44:  *Python 3.7.3 Shell*
+09:28:49:  Progress Telerik Fiddler Web Debugger
+09:29:54:  Find Sessions
+09:29:59:  Progress Telerik Fiddler Web Debugger
+09:31:29:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:31:34:  Progress Telerik Fiddler Web Debugger
+09:31:49:  
+09:31:54:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:32:39:  
+09:32:44:  C:\Users\zhangkaifa\Pictures\PostWork.py • (trunk) - Sublime Text (UNREGISTERED)
+09:32:54:  C:\Users\zhangkaifa\Pictures\PostWork.py (trunk) - Sublime Text (UNREGISTERED)
+09:33:04:  C:\Users\zhangkaifa\Pictures\PostWork.py • (trunk) - Sublime Text (UNREGISTERED)
+09:33:09:  Progress Telerik Fiddler Web Debugger
+09:33:14:  图片
+09:33:19:  *Python 3.7.3 Shell*
+09:33:34:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:33:39:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:33:44:  *Python 3.7.3 Shell*
+09:33:49:  Kill?
+09:33:54:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:33:59:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:34:04:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:34:44:  *Python 3.7.3 Shell*
+09:34:49:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:34:54:  *Python 3.7.3 Shell*
+09:35:04:  Save Before Run or Check
+09:35:09:  *Python 3.7.3 Shell*
+09:35:14:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:35:19:  *Python 3.7.3 Shell*
+09:35:34:  Kill?
+09:35:39:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:35:44:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:36:59:  *Python 3.7.3 Shell*
+09:37:09:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:37:14:  Progress Telerik Fiddler Web Debugger
+09:37:19:  
+09:37:24:  *Python 3.7.3 Shell*
+09:37:29:  Python 3.7.3 Shell
+09:37:34:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:37:50:  *Python 3.7.3 Shell*
+09:38:15:  Python 3.7.3 Shell
+09:38:30:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:38:40:  *Python 3.7.3 Shell*
+09:38:50:  便签条
+09:39:00:  C:\Users\zhangkaifa\Pictures\PostWork.py • (trunk) - Sublime Text (UNREGISTERED)
+09:39:05:  *Python 3.7.3 Shell*
+09:39:55:  
+09:40:00:  便签条
+09:40:10:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:40:15:  
+09:40:20:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:40:25:  *Python 3.7.3 Shell*
+09:42:40:  
+09:42:50:  *Python 3.7.3 Shell*
+09:43:05:  绘图1.vsd  [兼容模式] - Visio Professional
+09:43:10:  
+09:43:15:  绘图1.vsd  [兼容模式] - Visio Professional
+09:43:20:  *Python 3.7.3 Shell*
+09:43:35:  绘图1.vsd  [兼容模式] - Visio Professional
+09:43:50:  
+09:43:55:  绘图1.vsd  [兼容模式] - Visio Professional
+09:44:00:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:44:05:  绘图1.vsd  [兼容模式] - Visio Professional
+09:44:50:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003030821.log
+09:44:55:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+09:45:05:  绘图1.vsd  [兼容模式] - Visio Professional
+09:45:55:  *Python 3.7.3 Shell*
+09:46:15:  Search Dialog
+09:46:30:  绩效考核详细信息 - Internet Explorer
+09:46:40:  Search Dialog
+09:46:55:  便签条
+09:47:35:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:47:40:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:48:25:  *Python 3.7.3 Shell*
+09:48:55:  绘图1.vsd  [兼容模式] - Visio Professional
+09:49:00:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:49:05:  绘图1.vsd  [兼容模式] - Visio Professional
+09:49:25:  *Python 3.7.3 Shell*
+09:49:50:  Search Dialog
+09:51:35:  绩效考核详细信息 - Internet Explorer
+09:51:40:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+09:51:45:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+09:51:50:  *Python 3.7.3 Shell*
+09:52:20:  Python 3.7.3 Shell
+09:52:30:  Search Dialog
+09:52:50:  便签条
+09:53:10:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:53:15:  *Python 3.7.3 Shell*
+09:53:25:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:53:30:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:53:35:  *Python 3.7.3 Shell*
+09:54:30:  绘图1.vsd  [兼容模式] - Visio Professional
+09:55:00:  
+09:55:05:  *Python 3.7.3 Shell*
+09:55:15:  
+09:55:20:  绘图1.vsd  [兼容模式] - Visio Professional
+09:55:35:  
+09:55:40:  超链接
+09:56:00:  绘图1.vsd  [兼容模式] - Visio Professional
+09:56:05:  
+09:56:35:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:56:55:  *Python 3.7.3 Shell*
+09:57:05:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:57:10:  SNBC CoPlan - Internet Explorer
+09:57:15:  绩效考核详细信息 - Internet Explorer
+09:57:20:  SNBC CoPlan - Internet Explorer
+09:57:25:  绩效考核详细信息 - Internet Explorer
+09:57:40:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:57:45:  *Python 3.7.3 Shell*
+09:58:30:  Python 3.7.3 Shell
+09:58:35:  Search Dialog
+09:58:45:  绩效考核详细信息 - Internet Explorer
+09:58:50:  Search Dialog
+09:58:55:  绩效考核详细信息 - Internet Explorer
+09:59:00:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:59:10:  SNBC CoPlan - Internet Explorer
+09:59:15:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:59:20:  *Python 3.7.3 Shell*
+09:59:25:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:59:50:  *Python 3.7.3 Shell*
+09:59:55:  Search Dialog
+10:00:00:  *Python 3.7.3 Shell*
+09:58:30:  Python 3.7.3 Shell
+09:58:35:  Search Dialog
+09:58:45:  绩效考核详细信息 - Internet Explorer
+09:58:50:  Search Dialog
+09:58:55:  绩效考核详细信息 - Internet Explorer
+09:59:00:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+09:59:10:  SNBC CoPlan - Internet Explorer
+09:59:15:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+09:59:20:  *Python 3.7.3 Shell*
+09:59:25:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:59:50:  *Python 3.7.3 Shell*
+09:59:55:  Search Dialog
+10:00:00:  *Python 3.7.3 Shell*
+10:00:05:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+10:00:15:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+10:01:10:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+10:01:15:  Python 3.7.3 Shell
+10:01:20:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+10:01:25:  *Python 3.7.3 Shell*
+10:01:35:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:01:40:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+10:01:45:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+10:01:55:  *Python 3.7.3 Shell*
+10:02:00:  便签条
+10:02:10:  Kill?
+10:02:15:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+10:02:25:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+10:02:35:  *Python 3.7.3 Shell*
+10:02:45:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+10:02:50:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+10:02:55:  Save Before Run or Check
+10:03:00:  *Python 3.7.3 Shell*
+10:03:10:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+10:03:15:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+10:03:30:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+10:03:35:  *Python 3.7.3 Shell*
+10:03:50:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+10:03:55:  *Python 3.7.3 Shell*
+10:04:55:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+10:05:00:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:05:10:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:05:20:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:05:25:  *Python 3.7.3 Shell*
+10:05:30:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:06:05:  *Python 3.7.3 Shell*
+10:06:10:  Search Dialog
+10:06:15:  *Python 3.7.3 Shell*
+10:06:50:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+10:06:55:  *Python 3.7.3 Shell*
+10:07:00:  文档
+10:07:10:  W
+10:07:15:  WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\WorkTime.py (3.7.3)
+10:07:20:  Figure 1
+10:07:30:  WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\WorkTime.py (3.7.3)
+10:07:40:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:08:25:  WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\WorkTime.py (3.7.3)
+10:08:30:  Search Dialog
+10:08:45:  Python 3.7.3 Shell
+10:08:50:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+10:08:55:  便签条
+10:09:00:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+10:09:20:  *Python 3.7.3 Shell*
+10:09:55:  WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\WorkTime.py (3.7.3)
+10:10:00:  *Python 3.7.3 Shell*
+10:10:25:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:10:30:  
+10:10:35:  WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\WorkTime.py (3.7.3)
+10:10:40:  Python 3.7.3 Shell
+10:10:45:  W
+10:10:50:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+10:11:00:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+10:11:05:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+10:11:20:  *Python 3.7.3 Shell*
+10:12:45:  Search Dialog
+10:13:20:  Python 3.7.3 Shell
+10:13:25:  Search Dialog
+10:13:45:  
+10:13:50:  绩效考核详细信息 - Internet Explorer
+10:14:30:  Python 3.7.3 Shell
+10:14:40:  便签条
+10:14:55:  PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)
+10:15:00:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+10:15:10:  Save Before Run or Check
+10:15:15:  *PostWork.py - C:\Users\zhangkaifa\Pictures\PostWork.py (3.7.3)*
+10:15:20:  *Python 3.7.3 Shell*
+10:15:45:  Bin
+10:15:50:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+10:15:55:  Bin
+10:16:00:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+10:16:17:  *Python 3.7.3 Shell*
+10:16:27:  Search Dialog
+10:16:32:  *Python 3.7.3 Shell*
+10:16:37:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+10:16:52:  *Python 3.7.3 Shell*
+10:16:57:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+10:16:05:  
+10:16:10:  Save Before Run or Check
+10:16:15:  *Python 3.7.3 Shell*
+10:16:20:  
+10:16:25:  *Python 3.7.3 Shell*
+10:16:35:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+10:16:50:  
+10:16:55:  *Python 3.7.3 Shell*
+10:17:00:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+10:17:10:  
+10:17:15:  Search Dialog
+10:17:20:  *Python 3.7.3 Shell*
+10:17:35:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:17:40:  绘图1.vsd  [兼容模式] - Visio Professional
+10:18:00:  *Python 3.7.3 Shell*
+10:18:30:  
+10:18:35:  绩效考核详细信息 - Internet Explorer
+10:19:45:  Kill?
+10:19:50:  Bin
+10:19:55:  图片
+10:20:10:  本地磁盘 (F:)
+10:20:30:  Bin
+10:20:35:  小程序
+10:20:40:  绘图1.vsd  [兼容模式] - Visio Professional
+10:20:45:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+10:20:50:  绘图1.vsd  [兼容模式] - Visio Professional
+10:21:00:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:21:35:  
+10:22:55:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:23:05:  绘图1.vsd  [兼容模式] - Visio Professional
+10:23:10:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:23:15:  绘图1.vsd  [兼容模式] - Visio Professional
+10:23:20:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:23:40:  绘图1.vsd  [兼容模式] - Visio Professional
+10:23:50:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+10:24:10:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+10:24:15:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+10:24:20:  绘图1.vsd  [兼容模式] - Visio Professional
+10:25:20:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+10:25:25:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+10:25:40:  
+10:25:45:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+10:25:50:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+10:25:55:  绘图1.vsd  [兼容模式] - Visio Professional
+10:26:40:  TheActtionRec
+10:26:45:  Bin
+10:26:50:  WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\WorkTime.py (3.7.3)
+10:26:55:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+10:27:05:  WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\WorkTime.py (3.7.3)
+10:27:10:  *WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\WorkTime.py (3.7.3)*
+10:27:20:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+10:27:25:  *WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\WorkTime.py (3.7.3)*
+10:27:30:  WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\WorkTime.py (3.7.3)
+10:27:35:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+10:27:45:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+10:28:15:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+10:28:20:  Windows 任务管理器
+10:28:25:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+10:28:30:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:28:40:  
+10:28:50:  设置
+10:28:55:  eSpace
+10:29:00:  于斌1
+10:29:10:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:29:15:  eSpace
+10:29:20:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+10:29:25:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+10:29:30:  
+10:29:45:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+10:30:00:  
+10:28:15:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+10:28:20:  Windows 任务管理器
+10:28:25:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+10:28:30:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:28:40:  
+10:28:50:  设置
+10:28:55:  eSpace
+10:29:00:  于斌1
+10:29:10:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:29:15:  eSpace
+10:29:20:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+10:29:25:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+10:29:30:  
+10:29:45:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+10:30:00:  
+10:30:41:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+10:30:46:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+10:31:06:  C:\Windows\py.exe
+10:31:11:  Figure 1
+10:31:16:  W
+10:31:21:  绘图1.vsd  [兼容模式] - Visio Professional
+10:31:31:  超链接
+10:31:46:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:31:56:  绘图1.vsd  [兼容模式] - Visio Professional
+10:32:06:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:32:16:  超链接
+10:32:26:  绘图1.vsd  [兼容模式] - Visio Professional
+10:32:31:  超链接
+10:32:41:  绘图1.vsd  [兼容模式] - Visio Professional
+10:33:26:  跳转列表
+10:33:31:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+10:33:41:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+10:34:41:  绘图1.vsd  [兼容模式] - Visio Professional
+10:35:06:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:35:46:  绘图1.vsd  [兼容模式] - Visio Professional
+10:36:01:  2020-02-25.txt - 记事本
+10:36:11:  W
+10:36:16:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:36:21:  锁屏状态
+10:36:26:  绘图1.vsd  [兼容模式] - Visio Professional
+10:37:11:  便签条
+10:37:26:  绘图1.vsd  [兼容模式] - Visio Professional
+10:38:06:  新标签页 - Google Chrome
+10:38:21:  绘图1.vsd  [兼容模式] - Visio Professional
+10:38:26:  W
+10:38:31:  文档
+10:38:36:  本地磁盘 (D:)
+10:38:41:  00-06
+10:38:46:  小程序
+10:39:01:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+10:39:16:  Save Before Run or Check
+10:39:21:  *Python 3.7.3 Shell*
+10:39:26:  小程序
+10:39:31:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+10:39:36:  新标签页 - Google Chrome
+10:39:46:  新北洋OA信息化平台 - Internet Explorer
+10:39:51:  无法找到资源。 - Google Chrome
+10:39:56:  登陆到CoPlan - Google Chrome
+10:40:01:  SNBC CoPlan - Google Chrome
+10:38:06:  新标签页 - Google Chrome
+10:38:21:  绘图1.vsd  [兼容模式] - Visio Professional
+10:38:26:  W
+10:38:31:  文档
+10:38:36:  本地磁盘 (D:)
+10:38:41:  00-06
+10:38:46:  小程序
+10:39:01:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+10:39:16:  Save Before Run or Check
+10:39:21:  *Python 3.7.3 Shell*
+10:39:26:  小程序
+10:39:31:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+10:39:36:  新标签页 - Google Chrome
+10:39:46:  新北洋OA信息化平台 - Internet Explorer
+10:39:51:  无法找到资源。 - Google Chrome
+10:39:56:  登陆到CoPlan - Google Chrome
+10:40:01:  SNBC CoPlan - Google Chrome
+10:40:09:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+10:40:19:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+10:40:34:  SNBC CoPlan - Google Chrome
+10:40:39:  绩效考核详细信息 - Internet Explorer
+10:40:44:  绩效考核详细信息 - Google Chrome
+10:42:54:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+10:43:04:  绩效考核详细信息 - Google Chrome
+10:43:09:  扩展程序 - Google Chrome
+10:43:14:  绩效考核详细信息 - Google Chrome
+10:43:19:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+10:43:24:  绩效考核详细信息 - Google Chrome
+10:44:04:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+10:44:19:  Save Before Run or Check
+10:44:24:  Kill?
+10:44:29:  Python 3.7.3 Shell
+10:44:34:  *Python 3.7.3 Shell*
+10:44:39:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+10:44:44:  绩效考核详细信息 - Google Chrome
+10:45:09:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+10:45:14:  锁屏状态
+10:45:19:  绩效考核详细信息 - Google Chrome
+10:46:09:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+10:50:55:  绩效考核详细信息 - Google Chrome
+10:54:15:  SNBC CoPlan - Internet Explorer
+11:04:35:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:04:40:  绩效考核详细信息 - Google Chrome
+11:04:50:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:04:55:  *GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)*
+11:05:00:  *Python 3.7.3 Shell*
+11:05:05:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:05:10:  *Python 3.7.3 Shell*
+11:05:15:  Kill?
+11:05:20:  绩效考核详细信息 - Google Chrome
+11:05:35:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:05:40:  *Python 3.7.3 Shell*
+11:05:50:  Python 3.7.3 Shell
+11:06:15:  绩效考核详细信息 - Google Chrome
+11:07:00:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:07:10:  *Python 3.7.3 Shell*
+11:07:15:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:07:25:  Python 3.7.3 Shell
+11:07:30:  绩效考核详细信息 - Google Chrome
+11:07:55:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:08:05:  绩效考核详细信息 - Google Chrome
+11:08:15:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:08:20:  Python 3.7.3 Shell
+11:08:25:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:08:30:  绩效考核详细信息 - Google Chrome
+11:09:20:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:09:25:  绩效考核详细信息 - Google Chrome
+11:08:05:  绩效考核详细信息 - Google Chrome
+11:08:15:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:08:20:  Python 3.7.3 Shell
+11:08:25:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:08:30:  绩效考核详细信息 - Google Chrome
+11:09:20:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:09:25:  绩效考核详细信息 - Google Chrome
+11:10:07:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:10:12:  *GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)*
+11:10:27:  Save Before Run or Check
+11:10:32:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:10:37:  *GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)*
+11:10:47:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:10:57:  *GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)*
+11:11:07:  *Python 3.7.3 Shell*
+11:11:12:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:11:22:  Save Before Run or Check
+11:11:27:  Kill?
+11:11:32:  *GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)*
+11:11:52:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:11:57:  *GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)*
+11:12:02:  *Python 3.7.3 Shell*
+11:12:12:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:12:32:  绘图1.vsd  [兼容模式] - Visio Professional
+11:12:47:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:12:52:  *Python 3.7.3 Shell*
+11:12:57:  Kill?
+11:13:02:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:13:07:  绩效考核详细信息 - Google Chrome
+11:13:27:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+11:13:32:  *GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)*
+11:13:37:  *Python 3.7.3 Shell*
+11:13:47:  锁屏状态
+13:04:29:  于斌1
+13:04:39:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+13:04:44:  SNBC CoPlan - Internet Explorer
+13:04:59:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+13:05:04:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+13:06:14:  小程序
+13:06:19:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+13:06:44:  *Python 3.7.3 Shell*
+13:06:49:  Python 3.7.3 Shell
+13:06:54:  小程序
+13:06:59:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+13:07:14:  图片
+13:07:19:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:07:24:  *Python 3.7.3 Shell*
+13:07:29:  Kill?
+13:07:39:  新标签页 - Google Chrome
+13:07:44:  请停用以开发者模式运行的扩展程序
+13:07:49:  绩效考核详细信息 - Google Chrome
+13:07:54:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:08:09:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:08:14:  *Python 3.7.3 Shell*
+13:08:19:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:08:24:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:08:29:  *Python 3.7.3 Shell*
+13:08:34:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:08:39:  绩效考核详细信息 - Google Chrome
+13:09:04:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:09:19:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:09:24:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:09:29:  绩效考核详细信息 - Google Chrome
+13:09:39:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:09:54:  Python 3.7.3 Shell
+13:09:59:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:08:09:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:08:14:  *Python 3.7.3 Shell*
+13:08:19:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:08:24:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:08:29:  *Python 3.7.3 Shell*
+13:08:34:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:08:39:  绩效考核详细信息 - Google Chrome
+13:09:04:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:09:19:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:09:24:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:09:29:  绩效考核详细信息 - Google Chrome
+13:09:39:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:09:54:  Python 3.7.3 Shell
+13:09:59:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:10:11:  *Python 3.7.3 Shell*
+13:10:16:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:10:21:  *Python 3.7.3 Shell*
+13:10:26:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:11:01:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:11:06:  *Python 3.7.3 Shell*
+13:11:11:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:11:21:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:11:26:  *Python 3.7.3 Shell*
+13:11:31:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:11:36:  *Python 3.7.3 Shell*
+13:11:41:  Kill?
+13:11:46:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:11:51:  *Python 3.7.3 Shell*
+13:11:56:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:12:06:  Save Before Run or Check
+13:12:11:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:12:16:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:12:21:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:12:26:  *Python 3.7.3 Shell*
+13:12:36:  Kill?
+13:12:41:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:13:36:  *Python 3.7.3 Shell*
+13:13:46:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:13:56:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:14:01:  *Python 3.7.3 Shell*
+13:14:06:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:14:11:  绩效考核详细信息 - Google Chrome
+13:14:16:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:14:46:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:16:06:  图片
+13:16:11:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:16:36:  图片
+13:16:41:  Bin
+13:16:46:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+13:16:56:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:19:41:  Python 3.7.3 Shell
+13:19:51:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:20:01:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:19:41:  Python 3.7.3 Shell
+13:19:51:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:20:01:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:20:09:  SyntaxError
+13:20:14:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:20:19:  *Python 3.7.3 Shell*
+13:20:24:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:20:34:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:20:44:  Python 3.7.3 Shell
+13:20:49:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:20:54:  *Python 3.7.3 Shell*
+13:20:59:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:21:09:  *Python 3.7.3 Shell*
+13:21:14:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:21:19:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:21:34:  Python 3.7.3 Shell
+13:21:39:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:21:44:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:21:49:  *Python 3.7.3 Shell*
+13:21:54:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:21:59:  Save Before Run or Check
+13:22:04:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:22:14:  *Python 3.7.3 Shell*
+13:22:19:  Python 3.7.3 Shell
+13:22:24:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:22:29:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:22:34:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:22:59:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:23:04:  *Python 3.7.3 Shell*
+13:23:09:  Python 3.7.3 Shell
+13:23:14:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:23:34:  Save Before Run or Check
+13:23:39:  *Python 3.7.3 Shell*
+13:23:44:  Kill?
+13:23:49:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:24:09:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:24:19:  Python 3.7.3 Shell
+13:24:24:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:24:34:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:24:44:  Save Before Run or Check
+13:24:49:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:24:54:  Python 3.7.3 Shell
+13:24:59:  网易有道词典
+13:25:09:  「开始」菜单
+13:25:14:  网易有道词典
+13:25:24:  Python 3.7.3 Shell
+13:25:29:  WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\WorkTime.py (3.7.3)
+13:25:49:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+13:25:59:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:26:09:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:26:24:  *Python 3.7.3 Shell*
+13:26:29:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:26:44:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:26:49:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:26:54:  Kill?
+13:26:59:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:27:04:  *Python 3.7.3 Shell*
+13:27:09:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:27:14:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:27:39:  Save Before Run or Check
+13:27:44:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:27:54:  *Python 3.7.3 Shell*
+13:27:59:  Python 3.7.3 Shell
+13:28:04:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:28:09:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:28:14:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:28:24:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:28:29:  *Python 3.7.3 Shell*
+13:28:39:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:28:44:  *Python 3.7.3 Shell*
+13:28:49:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:28:54:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:28:59:  Kill?
+13:29:04:  *Python 3.7.3 Shell*
+13:29:09:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:29:14:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:29:24:  *Python 3.7.3 Shell*
+13:29:29:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:29:34:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:29:44:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:29:49:  Python 3.7.3 Shell
+13:30:04:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:28:09:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:28:14:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:28:24:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:28:29:  *Python 3.7.3 Shell*
+13:28:39:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:28:44:  *Python 3.7.3 Shell*
+13:28:49:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:28:54:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:28:59:  Kill?
+13:29:04:  *Python 3.7.3 Shell*
+13:29:09:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:29:14:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:29:24:  *Python 3.7.3 Shell*
+13:29:29:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:29:34:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:29:44:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:29:49:  Python 3.7.3 Shell
+13:30:04:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:30:11:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:30:31:  *Python 3.7.3 Shell*
+13:30:36:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:30:41:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:30:46:  *Python 3.7.3 Shell*
+13:30:51:  Python 3.7.3 Shell
+13:31:01:  网易有道词典
+13:31:11:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:31:26:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:31:36:  Python 3.7.3 Shell
+13:31:41:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:31:46:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:31:51:  *Python 3.7.3 Shell*
+13:31:56:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:32:11:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:32:16:  Python 3.7.3 Shell
+13:32:26:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:32:36:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+13:33:01:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:33:06:  *Python 3.7.3 Shell*
+13:33:11:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:33:16:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:33:21:  *Python 3.7.3 Shell*
+13:33:26:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:33:51:  Kill?
+13:33:56:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:34:36:  *Python 3.7.3 Shell*
+13:34:41:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:34:46:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:34:56:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:35:01:  Kill?
+13:35:06:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:35:36:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+13:35:46:  WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\WorkTime.py (3.7.3)
+13:35:56:  Bin
+13:36:01:  小程序
+13:36:06:  checkNet_Demo.py - F:\小程序\checkNet_Demo.py (3.7.3)
+13:36:11:  小程序
+13:36:21:  WorkTime.py - F:\小程序\WorkTime.py (3.7.3)
+13:36:26:  小程序
+13:36:31:  TheSmallTool.pyw - F:\小程序\TheSmallTool.pyw (3.7.3)
+13:36:36:  小程序
+13:36:41:  图片
+13:36:46:  新建文本文档.py - C:\Users\zhangkaifa\Pictures\新建文本文档.py (3.7.3)
+13:36:51:  新建文本文档.pyw - C:\Users\zhangkaifa\Pictures\新建文本文档.pyw (3.7.3)
+13:37:01:  TheSmallTool.pyw - C:\Users\zhangkaifa\Pictures\TheSmallTool.pyw (3.7.3)
+13:37:06:  图片
+13:37:11:  贪吃蛇 - Everything
+13:37:21:  本地磁盘 (E:)
+13:37:26:  hello.py - E:\hello.py (3.7.3)
+13:37:31:  Everything
+13:37:36:  .py - Everything
+13:37:46:  新建文本文档.py - F:\测试\机器视觉\新建文本文档.py (3.7.3)
+13:37:51:  .py - Everything
+13:37:56:  新建文本文档.pyw - C:\Users\zhangkaifa\Pictures\新建文本文档.pyw (3.7.3)
+13:38:01:  .py - Everything
+13:38:06:  新建文本文档.py - D:\00-记录\记录\2019-09\2019-09-23 07-59-31\Thetext\哈哈哈\2019-09-19 07-58-19\2019-09-19 07-58-19\新建文本文档.py (3.7.3)
+13:38:11:  .py - Everything
+13:38:31:  新建文本文档.py - D:\00-记录\记录\2019-08\2019-08-17 08-09-54\benfei\新建文本文档.py (3.7.3)
+13:38:41:  .py - Everything
+13:39:01:  新建文本文档 (2).py - D:\00-记录\记录\2019-08\2019-08-16 08-36-00\新建文本文档 (2).py (3.7.3)
+13:39:06:  新建文本文档 (2).py - C:\Users\zhangkaifa\Downloads\新建文件夹2\新建文件夹\新建文本文档 (2).py (3.7.3)
+13:39:11:  新建文本文档 - 副本.py - D:\00-记录\记录\文件检测python\新建文本文档 - 副本.py (3.7.3)
+13:39:16:  .py - Everything
+13:39:26:  新建文本文档1.py - F:\测试\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:39:31:  c - Everything
+13:39:36:  class_ - Everything
+13:39:41:  class - Everything
+13:40:01:  文档
+13:38:06:  新建文本文档.py - D:\00-记录\记录\2019-09\2019-09-23 07-59-31\Thetext\哈哈哈\2019-09-19 07-58-19\2019-09-19 07-58-19\新建文本文档.py (3.7.3)
+13:38:11:  .py - Everything
+13:38:31:  新建文本文档.py - D:\00-记录\记录\2019-08\2019-08-17 08-09-54\benfei\新建文本文档.py (3.7.3)
+13:38:41:  .py - Everything
+13:39:01:  新建文本文档 (2).py - D:\00-记录\记录\2019-08\2019-08-16 08-36-00\新建文本文档 (2).py (3.7.3)
+13:39:06:  新建文本文档 (2).py - C:\Users\zhangkaifa\Downloads\新建文件夹2\新建文件夹\新建文本文档 (2).py (3.7.3)
+13:39:11:  新建文本文档 - 副本.py - D:\00-记录\记录\文件检测python\新建文本文档 - 副本.py (3.7.3)
+13:39:16:  .py - Everything
+13:39:26:  新建文本文档1.py - F:\测试\新建文件夹 (3)\新建文本文档1.py (3.7.3)
+13:39:31:  c - Everything
+13:39:36:  class_ - Everything
+13:39:41:  class - Everything
+13:40:01:  文档
+13:40:12:  Translate.pyw - C:\Users\zhangkaifa\Documents\Translate.pyw (3.7.3)
+13:40:17:  文档
+13:40:27:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+13:40:32:  文档
+13:40:37:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+13:40:47:  Everything
+13:40:52:  Class-Log - Everything
+13:41:02:  Class-Log-C1.py - C:\Users\zhangkaifa\Desktop\temp\Decode\Class-Log-C1.py (3.7.3)
+13:41:07:  Class-Log - Everything
+13:41:12:  Class-Log-C1.py - D:\00-记录\记录\2019-11\2019-11-05 07-58-01\K64_0000_20191105084145\Class-Log-C1.py (3.7.3)
+13:41:17:  Class-Log-C1.py - D:\00-记录\记录\2019-11\2019-11-08 07-58-53\新建文件夹 (2)\Decode\Class-Log-C1.py (3.7.3)
+13:41:27:  Class-Log - Everything
+13:41:32:  Class-Log-C1.py - D:\00-记录\记录\ZDRB\Decode\Class-Log-C1.py (3.7.3)
+13:41:37:  Class-Log - Everything
+13:41:47:  Class-Log.py - D:\00-记录\记录\2019-10\2019-10-2507-59-38\张开发\出差\出差\日志\Class-Log.py (3.7.3)
+13:41:57:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:42:27:  *Python 3.7.3 Shell*
+13:42:32:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+13:43:12:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:43:37:  绩效考核详细信息 - Google Chrome
+13:43:42:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+13:44:02:  绩效考核详细信息 - Google Chrome
+13:44:07:  本地磁盘 (F:)
+13:44:17:  绘图1.vsd  [兼容模式] - Visio Professional
+13:44:22:  图片
+13:44:27:  .py - Everything
+13:44:47:  新建文本文档.py - F:\错误码Python\新建文件夹\新建文本文档.py (3.7.3)
+13:44:52:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+13:45:02:  .py - Everything
+13:45:12:  新建文本文档.py - F:\测试\新建文件夹 (3)\新建文本文档.py (3.7.3)
+13:45:27:  Windows 安全警报
+13:45:32:  新建文本文档.py - F:\测试\新建文件夹 (3)\新建文本文档.py (3.7.3)
+13:45:37:  新建文本文档.py - F:\测试\新建文件夹 (2)\新建文本文档.py (3.7.3)
+13:45:47:  .py - Everything
+13:45:57:  新建文本文档.py - F:\小程序\新建文本文档.py (3.7.3)
+13:46:02:  .py - Everything
+13:46:08:  图片
+13:46:18:  绘图1.vsd  [兼容模式] - Visio Professional
+13:46:23:  图片
+13:46:38:  本地磁盘 (F:)
+13:46:43:  本地磁盘 (D:)
+13:46:48:  文件检测python
+13:46:53:  管理员: C:\Windows\system32\cmd.exe
+13:46:58:  小程序
+13:47:03:  管理员: C:\Windows\system32\cmd.exe
+13:47:13:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F GetTheCoPlan.py
+13:48:28:  dist
+13:48:38:  小程序
+13:48:43:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+13:48:53:  *GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)*
+13:49:08:  便签条
+13:49:13:  *GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)*
+13:49:33:  Search Dialog
+13:49:38:  *GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)*
+13:48:28:  dist
+13:48:38:  小程序
+13:48:43:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+13:48:53:  *GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)*
+13:49:08:  便签条
+13:49:13:  *GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)*
+13:49:33:  Search Dialog
+13:49:38:  *GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)*
+13:50:20:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+13:50:25:  *Python 3.7.3 Shell*
+13:50:30:  小程序
+13:50:35:  管理员: C:\Windows\system32\cmd.exe
+13:50:40:  本地磁盘 (D:)
+13:50:50:  文件检测python
+13:50:55:  管理员: C:\Windows\system32\cmd.exe
+13:51:15:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F GetTheCoPlan.py
+13:51:20:  小程序
+13:51:25:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F GetTheCoPlan.py
+13:51:35:  绘图1.vsd  [兼容模式] - Visio Professional
+13:51:45:  SNBC CoPlan - Internet Explorer
+13:51:50:  绘图1.vsd  [兼容模式] - Visio Professional
+13:51:55:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F GetTheCoPlan.py
+13:52:00:  小程序
+13:52:10:  GTD.pyw - F:\小程序\GTD.pyw (3.7.3)
+13:52:25:  管理员: C:\Windows\system32\cmd.exe
+13:52:30:  小程序
+13:52:40:  本地磁盘 (D:)
+13:53:00:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+13:53:10:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+13:53:20:  本地磁盘 (D:)
+13:54:00:  绘图1.vsd  [兼容模式] - Visio Professional
+13:54:05:  dist
+13:54:10:  F:\小程序\dist\GetTheCoPlan.exe
+13:54:20:  dist
+13:54:30:  F:\小程序\dist\GetTheCoPlan.exe
+13:54:40:  绘图1.vsd  [兼容模式] - Visio Professional
+13:54:45:  管理员: C:\Windows\system32\cmd.exe
+13:54:50:  管理员: C:\Windows\system32\cmd.exe - GetTheCoPlan.exe
+13:55:05:  管理员: C:\Windows\system32\cmd.exe
+13:55:20:  小程序
+13:55:25:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+13:55:35:  *GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)*
+13:55:40:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+13:55:45:  *GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)*
+13:55:50:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+13:55:55:  小程序
+13:56:00:  本地磁盘 (D:)
+13:56:10:  管理员: C:\Windows\system32\cmd.exe
+13:56:20:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F GetTheCoPlan.py
+13:56:25:  绘图1.vsd  [兼容模式] - Visio Professional
+13:56:30:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F GetTheCoPlan.py
+13:56:35:  绘图1.vsd  [兼容模式] - Visio Professional
+13:56:40:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+13:56:50:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F GetTheCoPlan.py
+13:56:55:  绘图1.vsd  [兼容模式] - Visio Professional
+13:57:35:  dist
+13:57:40:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+13:58:15:  小程序
+13:58:20:  F:\小程序\dist\GetTheCoPlan.exe
+13:58:50:  锁屏状态
+13:58:15:  小程序
+13:58:20:  F:\小程序\dist\GetTheCoPlan.exe
+13:58:50:  锁屏状态
+14:13:10:  绘图1.vsd  [兼容模式] - Visio Professional
+14:13:15:  绩效考核详细信息 - Google Chrome
+14:13:20:  www.baidu.com - Google Chrome
+14:13:35:  百度一下，你就知道 - Google Chrome
+14:13:40:  apple_百度搜索 - Google Chrome
+14:13:50:  apple watch 断开蓝牙报警_百度搜索 - Google Chrome
+14:13:55:  https://www.baidu.com/link?url=ulkwUBcCdLRXdctKQ1a_lIIQyI0231NXw1TrrxWFRMq7mSOSlWk-kDvyr_nyw_-HEUQ7vmCWuoJtGZbIVb38A_&wd=&eqid=f8c802210008a13f000000025e5df59c - Google Chrome
+14:14:00:  https://www.baidu.com/link?url=gAk4yv6r2WFZ8nh4iUmVuj7sixqFP8rpBlj_txOVjXSAPPMMYfzbN-QXbC7R1HXVE-eKOq5lIxSvOTUCRFmBL_&wd=&eqid=f8c802210008a13f000000025e5df59c - Google Chrome
+14:14:05:  Apple watch 断开提醒 - Apple 社区 - Google Chrome
+14:14:26:  手表蓝牙断开手机报警 有没有这种APP软件 - 威锋 - 千万果粉大本营 - Google Chrome
+14:15:11:  apple watch 断开蓝牙报警_百度搜索 - Google Chrome
+14:15:16:  苹果手表有蓝牙断开提醒吗？当apple watch与手机离开一段距离时（蓝牙连接断开的时候），手表是否可以实现振动提醒【applewatch吧】_百度贴吧 - Google Chrome
+14:15:31:  apple watch 断开蓝牙报警_百度搜索 - Google Chrome
+14:15:36:  apple watch与手机断开提醒_百度搜索 - Google Chrome
+14:15:41:  watch与手机连接断开，有提醒吗？怎么设置_百度知道 - Google Chrome
+14:15:51:  apple watch与手机断开提醒_百度搜索 - Google Chrome
+14:16:06:  apple watch与iphone断开时是否会自动提醒_百度知道 - Google Chrome
+14:16:11:  apple watch与手机断开提醒_百度搜索 - Google Chrome
+14:16:16:  Apple Watch 应该开发一个断开提醒功能！ - V2EX - Google Chrome
+14:16:56:  apple watch与手机断开提醒_百度搜索 - Google Chrome
+14:17:01:  无标题 - Google Chrome
+14:17:06:  (34 封私信 / 74 条消息) Apple watch什么应用可以提醒手机不在身边？ - 知乎 - Google Chrome
+14:17:16:  apple watch与手机断开提醒_百度搜索 - Google Chrome
+14:17:21:  apple watch与手机断开提醒 lookout_百度搜索 - Google Chrome
+14:17:31:  apple watch lookout_百度搜索 - Google Chrome
+14:18:06:  apple watch 断开提醒_百度搜索 - Google Chrome
+14:18:16:  Apple Watch有没有连接断开提醒？Apple Watch有没有连接断开提醒？可以用来提醒忘带手机【applewatch吧】_百度贴吧 - Google Chrome
+14:18:31:  apple watch 断开提醒_百度搜索 - Google Chrome
+14:18:46:  小米手表 断开提醒_百度搜索 - Google Chrome
+14:19:06:  apple watch 4 断开提醒_百度搜索 - Google Chrome
+14:19:21:  Apple Watch有没有连接断开提醒？Apple Watch有没有连接断开提醒？可以用来提醒忘带手机【applewatch吧】_百度贴吧 - Google Chrome
+14:19:26:  apple watch 4 断开提醒_百度搜索 - Google Chrome
+14:18:06:  apple watch 断开提醒_百度搜索 - Google Chrome
+14:18:16:  Apple Watch有没有连接断开提醒？Apple Watch有没有连接断开提醒？可以用来提醒忘带手机【applewatch吧】_百度贴吧 - Google Chrome
+14:18:31:  apple watch 断开提醒_百度搜索 - Google Chrome
+14:18:46:  小米手表 断开提醒_百度搜索 - Google Chrome
+14:19:06:  apple watch 4 断开提醒_百度搜索 - Google Chrome
+14:19:21:  Apple Watch有没有连接断开提醒？Apple Watch有没有连接断开提醒？可以用来提醒忘带手机【applewatch吧】_百度贴吧 - Google Chrome
+14:19:26:  apple watch 4 断开提醒_百度搜索 - Google Chrome
+14:20:27:  apple watch 断开蓝牙报警_百度搜索 - Google Chrome
+14:20:37:  跳转列表
+14:20:42:  绘图1.vsd  [兼容模式] - Visio Professional
+14:20:47:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:20:52:  绘图1.vsd  [兼容模式] - Visio Professional
+14:20:57:  锁屏状态
+14:36:43:  绘图1.vsd  [兼容模式] - Visio Professional
+14:36:58:  自动播放
+14:37:03:  iTunes
+14:37:08:  dist
+14:37:13:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+14:37:28:  dist
+14:37:33:  本地磁盘 (F:)
+14:37:48:  小程序
+14:37:53:  GTD.pyw - F:\小程序\GTD.pyw (3.7.3)
+14:38:03:  小程序
+14:38:08:  文档
+14:38:13:  小程序
+14:38:18:  TheActtionRec
+14:38:23:  Log
+14:38:28:  R
+14:38:33:  W
+14:38:38:  TheActtionRec
+14:38:43:  新建文本文档.py - F:\小程序\TheActtionRec\新建文本文档.py (3.7.3)
+14:38:48:  TheActtionRec
+14:38:53:  Bin
+14:39:03:  小程序
+14:39:08:  Bin
+14:39:13:  GTD.pyw - F:\小程序\TheActtionRec\Bin\GTD.pyw (3.7.3)
+14:39:28:  TheActtionRec
+14:39:33:  文档
+14:39:38:  2020-03-03.txt - 记事本
+14:39:43:  R
+14:39:48:  2020-03-03.txt - 记事本
+14:39:58:  2020-03-02.txt - 记事本
+14:38:08:  文档
+14:38:13:  小程序
+14:38:18:  TheActtionRec
+14:38:23:  Log
+14:38:28:  R
+14:38:33:  W
+14:38:38:  TheActtionRec
+14:38:43:  新建文本文档.py - F:\小程序\TheActtionRec\新建文本文档.py (3.7.3)
+14:38:48:  TheActtionRec
+14:38:53:  Bin
+14:39:03:  小程序
+14:39:08:  Bin
+14:39:13:  GTD.pyw - F:\小程序\TheActtionRec\Bin\GTD.pyw (3.7.3)
+14:39:28:  TheActtionRec
+14:39:33:  文档
+14:39:38:  2020-03-03.txt - 记事本
+14:39:43:  R
+14:39:48:  2020-03-03.txt - 记事本
+14:39:58:  2020-03-02.txt - 记事本
+14:40:16:  2020-03-03.txt - 记事本
+14:40:31:  绘图1.vsd  [兼容模式] - Visio Professional
+14:40:36:  W
+14:40:51:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:41:06:  新标签页 - Google Chrome
+14:41:31:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:41:36:  锁屏状态
+14:41:41:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+14:41:56:  (34 封私信 / 74 条消息) watch - 搜索结果 - 知乎 - Google Chrome
+14:43:31:  绘图1.vsd  [兼容模式] - Visio Professional
+14:43:41:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:43:51:  绘图1.vsd  [兼容模式] - Visio Professional
+14:47:46:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:47:56:  绘图1.vsd  [兼容模式] - Visio Professional
+14:48:26:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:48:36:  绘图1.vsd  [兼容模式] - Visio Professional
+14:49:26:  eSpace Login
+14:49:31:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+14:49:36:  eSpace Login
+14:49:41:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+14:49:46:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+14:49:51:  eSpace
+14:50:01:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+14:48:26:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:48:36:  绘图1.vsd  [兼容模式] - Visio Professional
+14:49:26:  eSpace Login
+14:49:31:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+14:49:36:  eSpace Login
+14:49:41:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+14:49:46:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+14:49:51:  eSpace
+14:50:01:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+14:50:08:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+14:50:18:  绘图1.vsd  [兼容模式] - Visio Professional
+14:51:53:  新标签页 - Google Chrome
+14:51:58:  请停用以开发者模式运行的扩展程序
+14:52:03:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+14:57:08:  绘图1.vsd  [兼容模式] - Visio Professional
+14:57:18:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003030821.log
+14:57:23:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+14:57:28:  绘图1.vsd  [兼容模式] - Visio Professional
+14:57:38:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:57:43:  绘图1.vsd  [兼容模式] - Visio Professional
+14:57:48:  锁屏状态
+14:57:53:  绘图1.vsd  [兼容模式] - Visio Professional
+14:59:48:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+15:00:03:  不知名酥 - 搜索结果 - 知乎 - Google Chrome
+14:59:48:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+15:00:03:  不知名酥 - 搜索结果 - 知乎 - Google Chrome
+15:00:11:  (34 封私信 / 74 条消息) 不知名酥 - 搜索结果 - 知乎 - Google Chrome
+15:00:16:  不知名网友酥 - 搜索结果 - 知乎 - Google Chrome
+15:00:21:  (34 封私信 / 74 条消息) 不知名网友酥 - 搜索结果 - 知乎 - Google Chrome
+15:00:31:  无标题 - Google Chrome
+15:00:36:  (34 封私信 / 74 条消息) 不知名网友酥 - 知乎 - Google Chrome
+15:00:46:  绘图1.vsd  [兼容模式] - Visio Professional
+15:03:11:  eSpace
+15:03:16:  新建文本文档.py - F:\测试\机器视觉\新建文本文档.py (3.7.3)
+15:03:21:  *Python 3.7.3 Shell*
+15:03:26:  Python 3.7.3 Shell
+15:03:31:  新建文本文档.py - F:\测试\机器视觉\新建文本文档.py (3.7.3)
+15:03:36:  机器视觉
+15:03:41:  绘图1.vsd  [兼容模式] - Visio Professional
+15:04:01:  机器视觉
+15:04:16:  新建文件夹
+15:04:21:  新建文本文档.py - F:\测试\新建文件夹\新建文本文档.py (3.7.3)
+15:04:26:  *Python 3.7.3 Shell*
+15:04:31:  新建文件夹
+15:04:36:  新建文本文档.py - F:\测试\新建文件夹 (2)\新建文本文档.py (3.7.3)
+15:04:46:  新建文件夹 (2)
+15:04:51:  新建文本文档.py - F:\测试\新建文件夹 (2)\新建文本文档.py (3.7.3)
+15:05:21:  图片
+15:05:31:  新建文本文档.py - F:\测试\新建文件夹 (2)\新建文本文档.py (3.7.3)
+15:06:31:  本地磁盘 (C:)
+15:06:36:  pictures
+15:06:41:  锁屏状态
+15:06:46:  机器视觉
+15:06:51:  00-06
+15:06:56:  9
+15:07:01:  BR-1-CashBox1T2
+15:07:06:  机器视觉
+15:07:11:  BR-1-CashBox1T2
+15:07:16:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+15:07:41:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003030821.log
+15:07:46:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+15:08:06:  新标签页 - Google Chrome
+15:08:11:  不知名网友酥_百度搜索 - Google Chrome
+15:08:21:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+15:08:06:  新标签页 - Google Chrome
+15:08:11:  不知名网友酥_百度搜索 - Google Chrome
+15:08:21:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+15:15:16:  变幻线
+15:16:31:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+15:16:56:  TCR调测工具 V3.36
+15:17:01:  钞箱配置
+15:17:06:  TCR调测工具 V3.36
+15:17:11:  钞箱配置
+15:17:21:  TCR调测工具 V3.36
+15:19:46:  branches
+15:19:51:  BR-1-CashBox1T2
+15:20:01:  D:\00-06\8\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+15:19:46:  branches
+15:19:51:  BR-1-CashBox1T2
+15:20:01:  D:\00-06\8\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+15:20:08:  Track.c-revBASE.svn001.tmp.c <--> Track.c - 文本比较(T) - Beyond Compare
+15:20:13:  DebugConfig.h-revBASE.svn001.tmp.h <--> DebugConfig.h - 文本比较(T) - Beyond Compare
+15:20:18:  Sensor.c-revBASE.svn001.tmp.c <--> Sensor.c - 文本比较(T) - Beyond Compare
+15:20:23:  D:\00-06\8\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+15:20:28:  StepMotor.c-revBASE.svn001.tmp.c <--> StepMotor.c - 文本比较(T) - Beyond Compare
+15:20:43:  StepMotorConfig.c-revBASE.svn001.tmp.c <--> StepMotorConfig.c - 文本比较(T) - Beyond Compare
+15:20:48:  D:\00-06\8\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+15:20:53:  TortoiseSVN
+15:20:58:  UpperPlate.c-revBASE.svn001.tmp.c <--> UpperPlate.c - 文本比较(T) - Beyond Compare
+15:21:03:  UpperPlate.c-revBASE.svn003.tmp.c <--> UpperPlate.c - 文本比较(T) - Beyond Compare
+15:21:08:  D:\00-06\8\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+15:21:13:  State.c-revBASE.svn001.tmp.c <--> State.c - 文本比较(T) - Beyond Compare
+15:21:18:  State.c-revBASE.svn003.tmp.c <--> State.c - 文本比较(T) - Beyond Compare
+15:21:23:  D:\00-06\8\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+15:21:28:  μVision
+15:21:33:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+15:22:13:  branches
+15:22:18:  D:\00-06\8\branches\BR-1-CashBox1T2\Tools\CreateJK.exe
+15:22:23:  TCR调测工具 V3.36
+15:22:28:  打开
+15:22:38:  TCR调测工具 V3.36
+15:24:18:  桌面整理
+15:24:28:  Tools
+15:24:53:  打开
+15:24:58:  TCR调测工具 V3.36
+15:25:23:  开始
+15:25:28:  选择文件夹
+15:25:33:  untitled (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+15:25:38:  D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\Plate\UpperPlate.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+15:25:48:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+15:25:58:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PlateCtrl\LowerPlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+15:26:18:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+15:29:03:  TCR调测工具 V3.36
+15:29:03:  TCR调测工具 V3.36
+15:30:58:  桌面整理
+15:31:03:  42 CRS现金循环模块
+15:31:08:  192.168.28.47
+15:31:13:  20191205BV多币种混点
+15:31:18:  K18
+15:31:23:  桌面整理
+15:31:28:  打开
+15:31:33:  TCR调测工具 V3.36
+15:32:53:  可接收
+15:32:58:  TCR调测工具 V3.36
+15:33:33:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+15:33:38:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-03.txt
+15:34:43:  TCR调测工具 V3.36
+15:34:58:  钞箱配置
+15:35:03:  TCR调测工具 V3.36
+15:35:08:  新建文本文档.exe - 快捷方式
+15:35:18:  首页 - 知乎 - Google Chrome
+15:35:23:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+15:37:48:  42 CRS现金循环模块
+15:37:53:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+15:38:28:  打开文件夹
+15:38:33:  K18
+15:38:43:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+15:39:08:  K18
+15:39:13:  TCR调测工具 V3.36
+15:38:28:  打开文件夹
+15:38:33:  K18
+15:38:43:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+15:39:08:  K18
+15:39:13:  TCR调测工具 V3.36
+15:40:24:  锁屏状态
+15:40:34:  TCR调测工具 V3.36
+15:40:44:  打开
+15:40:49:  新标签页 - Google Chrome
+15:40:54:  首页 - 知乎 - Google Chrome
+15:40:59:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+15:42:19:  固件设计中心
+15:42:24:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+15:43:14:  (34 封私信 / 74 条消息) 如何评价《欢乐喜剧人》白凯南节目抄袭张博洋在 2019 年《脱口秀大会》的表演？ - 知乎 - Google Chrome
+15:45:04:  TCR调测工具 V3.36
+15:45:09:  锁屏状态
+15:45:14:  绘图1.vsd  [兼容模式] - Visio Professional
+15:45:19:  新标签页 - Google Chrome
+15:45:24:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+15:45:29:  (34 封私信 / 74 条消息) watch 推荐 - 搜索结果 - 知乎 - Google Chrome
+15:45:44:  (34 封私信 / 74 条消息) watch 推荐 应用 - 搜索结果 - 知乎 - Google Chrome
+15:46:59:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+15:49:49:  绘图1.vsd  [兼容模式] - Visio Professional
+15:49:59:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+15:49:49:  绘图1.vsd  [兼容模式] - Visio Professional
+15:49:59:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+15:51:47:  绘图1.vsd  [兼容模式] - Visio Professional
+15:52:17:  TCR调测工具 V3.36
+15:52:27:  BTCR-1100_SLAVE_KE18_FV1064_EXTFEDU3V13&5V_MAIN_T09.JM 属性
+15:52:37:  TCR调测工具 V3.36
+15:52:47:  桌面整理
+15:52:52:  TCR调测工具 V3.36
+15:53:07:  钞箱配置
+15:53:12:  TCR调测工具 V3.36
+15:53:17:  新标签页 - Google Chrome
+15:53:22:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+15:54:52:  绘图1.vsd  [兼容模式] - Visio Professional
+15:55:32:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:55:57:  绘图1.vsd  [兼容模式] - Visio Professional
+15:56:02:  新标签页 - Google Chrome
+15:56:07:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+15:58:12:  绘图1.vsd  [兼容模式] - Visio Professional
+15:58:27:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+15:58:32:  绘图1.vsd  [兼容模式] - Visio Professional
+15:59:07:  新标签页 - Google Chrome
+15:59:12:  首页 - 知乎 - Google Chrome
+15:59:17:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+15:59:42:  绘图1.vsd  [兼容模式] - Visio Professional
+15:58:12:  绘图1.vsd  [兼容模式] - Visio Professional
+15:58:27:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-03.txt
+15:58:32:  绘图1.vsd  [兼容模式] - Visio Professional
+15:59:07:  新标签页 - Google Chrome
+15:59:12:  首页 - 知乎 - Google Chrome
+15:59:17:  (34 封私信 / 74 条消息) 首页 - 知乎 - Google Chrome
+15:59:42:  绘图1.vsd  [兼容模式] - Visio Professional
+16:00:17:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:00:32:  新建文本文档.exe - 快捷方式
+16:00:37:  SNBC CoPlan - Internet Explorer
+16:02:27:  Tools
+16:02:32:  文档
+16:02:37:  R
+16:02:42:  2020-01-06.txt - 记事本
+16:02:47:  2020-01-08.txt - 记事本
+16:02:52:  R
+16:02:57:  2020-01-16.txt - 记事本
+16:03:02:  2020-01-20.txt - 记事本
+16:03:07:  R
+16:03:12:  2020-01-02.txt - 记事本
+16:03:17:  SNBC CoPlan - Internet Explorer
+16:04:02:  R
+16:04:22:  SNBC CoPlan - Internet Explorer
+16:05:37:  R
+16:05:52:  2020-02-26.txt - 记事本
+16:05:57:  SNBC CoPlan - Internet Explorer
+16:06:47:  42 CRS现金循环模块
+16:06:57:  06 固件日报
+16:07:07:  Project Professional
+16:07:17:  Project Professional - TCR开发计划20191008.mpp
+16:07:37:  SNBC CoPlan - Internet Explorer
+16:08:52:  来自网页的消息
+16:08:57:  SNBC CoPlan - Internet Explorer
+16:09:32:  来自网页的消息
+16:09:37:  Windows 安全
+16:09:42:  SNBC CoPlan - Internet Explorer
+16:09:47:  绩效考核详细信息 - Internet Explorer
+16:09:52:  绩效查询详细信息 - Internet Explorer
+16:08:52:  来自网页的消息
+16:08:57:  SNBC CoPlan - Internet Explorer
+16:09:32:  来自网页的消息
+16:09:37:  Windows 安全
+16:09:42:  SNBC CoPlan - Internet Explorer
+16:09:47:  绩效考核详细信息 - Internet Explorer
+16:09:52:  绩效查询详细信息 - Internet Explorer
+16:10:14:  图片
+16:10:19:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+16:10:24:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+16:10:29:  新标签页 - Google Chrome
+16:10:34:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+16:10:39:  *Python 3.7.3 Shell*
+16:10:44:  新标签页 - Google Chrome
+16:10:54:  主页 - Internet Explorer
+16:10:59:  新北洋OA信息化平台 - Internet Explorer
+16:11:09:  Windows 安全
+16:11:14:  绩效查询详细信息 - Internet Explorer
+16:11:24:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+16:11:34:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+16:12:09:  *Python 3.7.3 Shell*
+16:12:19:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+16:12:24:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+16:12:29:  *Python 3.7.3 Shell*
+16:12:39:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+16:13:04:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+16:13:09:  绩效查询详细信息 - Internet Explorer
+16:13:24:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+16:14:04:  TCR调测工具 V3.36
+16:14:19:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+16:14:24:  TCR调测工具 V3.36
+16:15:14:  本地磁盘 (D:)
+16:15:19:  V1.003
+16:15:24:  TCR调测工具 V3.25
+16:15:59:  TCR调测工具 V3.36
+16:16:29:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+16:16:39:  *Python 3.7.3 Shell*
+16:16:59:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+16:17:09:  *Python 3.7.3 Shell*
+16:17:14:  便签条
+16:17:19:  *Python 3.7.3 Shell*
+16:18:24:  收取邮件 - 张开发
+16:18:29:  View Available Networks
+16:18:34:  Python 3.7.3 Shell
+16:18:39:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+16:18:54:  Save Before Run or Check
+16:18:59:  *Python 3.7.3 Shell*
+16:19:24:  Foxmail
+16:19:29:  *Python 3.7.3 Shell*
+16:19:34:  新北洋OA信息化平台 - Internet Explorer
+16:19:39:  eSpace
+16:18:24:  收取邮件 - 张开发
+16:18:29:  View Available Networks
+16:18:34:  Python 3.7.3 Shell
+16:18:39:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+16:18:54:  Save Before Run or Check
+16:18:59:  *Python 3.7.3 Shell*
+16:19:24:  Foxmail
+16:19:29:  *Python 3.7.3 Shell*
+16:19:34:  新北洋OA信息化平台 - Internet Explorer
+16:19:39:  eSpace
+16:21:26:  桌面整理
+16:21:31:  BTCRTestTool V3.41
+16:21:36:  BTCRTestTool V3.41
+16:21:41:  BTCRTestTool V3.41
+16:21:46:  BTCRTestTool V3.41
+16:21:51:  TCR调测工具(研发版)V3.41
+16:23:26:  DRB上腔拨叉响应时间
+16:24:51:  TCR调测工具(研发版)V3.41
+16:29:51:  变幻线
+16:29:51:  变幻线
+16:30:13:  TCR调测工具(研发版)V3.41
+16:30:18:  TCR调测工具 V3.36
+16:34:23:  回复: DRB上腔拨叉响应时间 - 写邮件
+16:37:03:  删除文件
+16:37:08:  桌面整理
+16:37:18:  本地磁盘 (F:)
+16:37:23:  删除文件
+16:37:33:  系统设置
+16:38:03:  06 固件日报
+16:38:08:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:38:13:  选择文件夹
+16:38:23:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:38:28:  untitled (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:38:33:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\LogHandle\LogHandle.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:38:48:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\Instruction\InstrHandle.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:38:58:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\Instruction\InstrExecute.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:39:03:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\Instruction\InstrReturn.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:39:08:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\Instruction\InstrExecute.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:39:13:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\Instruction\InstrReturn.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:39:23:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\Instruction\InstrExecute.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:39:38:  绘图1.vsd  [兼容模式] - Visio Professional
+16:39:58:  便签条
+16:38:08:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:38:13:  选择文件夹
+16:38:23:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:38:28:  untitled (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:38:33:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\LogHandle\LogHandle.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:38:48:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\Instruction\InstrHandle.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:38:58:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\Instruction\InstrExecute.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:39:03:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\Instruction\InstrReturn.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:39:08:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\Instruction\InstrExecute.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:39:13:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\Instruction\InstrReturn.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:39:23:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\Instruction\InstrExecute.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:39:38:  绘图1.vsd  [兼容模式] - Visio Professional
+16:39:58:  便签条
+16:40:35:  06 固件日报
+16:40:40:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+16:40:45:  绘图1.vsd  [兼容模式] - Visio Professional
+16:43:10:  *Python 3.7.3 Shell*
+16:43:15:  Search Dialog
+16:44:00:  MenuDlg
+16:44:10:  eSpace
+16:44:25:  Search Dialog
+16:44:45:  Python 3.7.3 Shell
+16:44:50:  Search Dialog
+16:45:10:  于斌1
+16:45:30:  绘图1.vsd  [兼容模式] - Visio Professional
+16:45:40:  于斌1
+16:46:25:  eSpace
+16:46:30:  于斌1
+16:47:20:  绘图1.vsd  [兼容模式] - Visio Professional
+16:47:30:  便签条
+16:47:50:  绩效查询详细信息 - Internet Explorer
+16:49:30:  于斌1
+16:49:35:  绩效查询详细信息 - Internet Explorer
+16:49:30:  于斌1
+16:49:35:  绩效查询详细信息 - Internet Explorer
+16:53:01:  于斌1
+16:53:46:  绩效查询详细信息 - Internet Explorer
+16:53:56:  Internet Explorer
+16:54:01:  绘图1.vsd  [兼容模式] - Visio Professional
+16:54:11:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:54:16:  D:\00-KE64\6\trunk\Middlewares\Eeprom\EepromDriver.h (trunk) - Sublime Text (UNREGISTERED)
+16:54:26:  D:\00-KE64\6\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+16:54:41:  D:\00-KE64\6\trunk\Applications\Initialization\Initial.h (trunk) - Sublime Text (UNREGISTERED)
+16:54:56:  于斌1
+16:55:06:  D:\00-KE64\6\trunk\Applications\Initialization\Initial.h (trunk) - Sublime Text (UNREGISTERED)
+16:55:26:  锁屏状态
+16:55:31:  于斌1
+16:55:41:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackClear.h (trunk) - Sublime Text (UNREGISTERED)
+16:55:46:  D:\00-KE64\6\trunk\Applications\FunctionApp\EepHisApp\EepromConfig.h (trunk) - Sublime Text (UNREGISTERED)
+16:56:41:  D:\00-KE64\6\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:57:01:  D:\00-KE64\6\trunk\Applications\FunctionApp\EepHisApp\EepromConfig.h (trunk) - Sublime Text (UNREGISTERED)
+16:57:11:  于斌1
+16:57:26:  BTCRTestTool V3.41
+16:57:31:  TCR调测工具（研发版）V3.41
+16:58:46:  钞箱配置
+16:58:51:  TCR调测工具（研发版）V3.41
+16:59:36:  另存为
+16:59:41:  未命名 - 写邮件
+16:59:56:  打开
+17:00:01:  未命名 - 写邮件
+16:58:46:  钞箱配置
+16:58:51:  TCR调测工具（研发版）V3.41
+16:59:36:  另存为
+16:59:41:  未命名 - 写邮件
+16:59:56:  打开
+17:00:01:  未命名 - 写邮件
+17:00:42:  未命名 - 写邮件   17:00:41 已保存
+17:01:42:  未命名 - 写邮件   17:01:41 已保存
+17:01:47:  3.41版 - 写邮件   17:01:41 已保存
+17:02:02:  3.41版调试工具问题 - 写邮件   17:01:41 已保存

@@ -1,0 +1,935 @@
+08:06:07:  MindMaster Pro
+08:06:12:  100元RB1-RB4盘点2500张报通道传输过程中卡钞 钞票残留  返回码0X814604A0（未关闭自动排错）
+08:06:18:  100元RB1-RB4盘点2502张报 通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS09 返回码0X80460210
+08:06:28:  荆文波
+08:06:33:  100元RB1-RB4盘点2502张报 通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS09 返回码0X80460210
+08:06:38:  100元RB1-RB4盘点2500张报通道传输过程中卡钞 钞票残留  返回码0X814604A0（未关闭自动排错）
+08:06:43:  W
+08:06:58:  2020-05-19.txt - 记事本
+08:07:03:  R
+08:07:18:  2020-05-20.txt - 记事本
+08:07:28:  R
+08:07:33:  Log
+08:07:38:  2020-05-20.txt - 记事本
+08:07:43:  TheActtionRec
+08:07:48:  W
+08:07:58:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+08:08:03:  W
+08:08:08:  锁屏状态
+08:08:13:  2020-05-20.txt - 记事本
+08:08:18:  W
+08:09:28:  100元RB1-RB4盘点2500张报通道传输过程中卡钞 钞票残留  返回码0X814604A0（未关闭自动排错）
+08:09:33:  本地磁盘 (D:)
+08:09:38:  删除文件夹
+08:09:43:  1元测试日志
+08:09:48:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+08:09:53:  100元RB1-RB4盘点2500张报通道传输过程中卡钞 钞票残留  返回码0X814604A0（未关闭自动排错）
+08:09:58:  Decode
+08:10:08:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+08:10:13:  Decode
+08:10:18:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:10:28:  LOG
+08:10:33:  K64-_BTCR-1100191200700050_20200422153139.log - K64状态机分析.tat* - TextAnalysisTool.NET
+08:10:38:  K64_BTCR-1100191200700050_20200422153139
+08:10:43:  K64_BTCR-1100191200700050_20200422153139.log - K64状态机分析.tat* - TextAnalysisTool.NET
+08:11:18:  桌面整理
+08:11:23:  ErrCode_list_txt_flg.txt - 记事本
+08:11:28:  查找
+08:11:43:  ErrCode_list_txt_flg.txt - 记事本
+08:11:53:  查找
+08:12:03:  ErrCode_list_txt_flg.txt - 记事本
+08:14:28:  K64_BTCR-1100191200700050_20200422153139.log - K64状态机分析.tat* - TextAnalysisTool.NET
+08:14:28:  K64_BTCR-1100191200700050_20200422153139.log - K64状态机分析.tat* - TextAnalysisTool.NET
+08:16:58:  Add Filter
+08:17:03:  查找
+08:17:13:  ErrCode_list_txt_flg.txt - 记事本
+08:17:18:  Add Filter
+08:17:23:  K64_BTCR-1100191200700050_20200422153139.log - K64状态机分析.tat* - TextAnalysisTool.NET
+08:20:28:  Decode
+08:20:33:  K64_BTCR-1100191200700050_20200422153139 - 写邮件
+08:20:38:  发送邮件
+08:20:43:  Decode
+08:20:48:  100元RB1-RB4盘点2500张报通道传输过程中卡钞 钞票残留  返回码0X814604A0（未关闭自动排错）
+08:20:53:  压缩文件名和参数
+08:20:58:  复制文件
+08:21:08:  K64_BTCR-1100191200700050_20200422153139 - 写邮件
+08:21:18:  K64_BTCR-1100191200700050_20200422153139.log - K64状态机分析.tat* - TextAnalysisTool.NET
+08:21:38:  ErrCode_list_txt_flg.txt - 记事本
+08:21:43:  查找
+08:21:48:  K64_BTCR-1100191200700050_20200422153139.log - K64状态机分析.tat* - TextAnalysisTool.NET
+08:24:33:  打开文件夹
+08:24:38:  4 第2轮整改DRB测试
+08:26:23:  K64_BTCR-1100191200700050_20200422153139.log - K64状态机分析.tat* - TextAnalysisTool.NET
+08:26:38:  eSpace
+08:26:48:  K64_BTCR-1100191200700050_20200422153139.log - K64状态机分析.tat* - TextAnalysisTool.NET
+08:27:08:  荆文波
+08:30:08:  锁屏状态
+08:30:13:  100元RB1-RB4盘点2502张报 通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS09 返回码0X80460210
+08:30:18:  1元测试日志
+08:30:23:  荆文波
+08:31:38:  记事本
+08:31:43:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+08:31:48:  Decode
+08:31:53:  K64_BTCR-1100191200700050_20200422182031.log - K64状态机分析.tat* - TextAnalysisTool.NET
+08:32:03:  荆文波
+08:32:38:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:36:08:  MindMaster Pro
+08:39:18:  打开
+08:39:23:  BTCRTestTool
+08:39:28:  TCR调测工具 V3.36
+08:39:33:  打开
+08:39:58:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:40:03:  选择文件夹
+08:40:08:  打开
+08:40:18:  C:\Users\zhangkaifa\Downloads\260878.txt (trunk) - Sublime Text (UNREGISTERED)
+08:42:13:  荆文波
+08:42:18:  C:\Users\zhangkaifa\Downloads\260878.txt (trunk) - Sublime Text (UNREGISTERED)
+08:42:43:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:42:48:  C:\Users\zhangkaifa\Downloads\260878.txt (trunk) - Sublime Text (UNREGISTERED)
+08:42:58:  TCR调测工具 V3.36
+08:43:33:  C:\Users\zhangkaifa\Downloads\260878.txt (trunk) - Sublime Text (UNREGISTERED)
+08:44:53:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:44:53:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:45:09:  TCR调测工具 V3.36
+08:46:29:  取款
+08:46:59:  TCR调测工具 V3.36
+08:48:09:  C:\Users\zhangkaifa\Downloads\260878.txt (trunk) - Sublime Text (UNREGISTERED)
+08:48:19:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:48:24:  Program Manager
+08:48:29:  thief-book
+08:48:34:  设 置
+08:48:44:  thief-book
+08:53:54:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:53:59:  thief-book
+08:55:14:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:56:44:  TCR调测工具 V3.36
+08:57:34:  thief-book
+08:59:34:  TCR调测工具 V3.36
+08:59:39:  钞箱配置
+08:59:44:  TCR调测工具 V3.36
+08:59:34:  TCR调测工具 V3.36
+08:59:39:  钞箱配置
+08:59:44:  TCR调测工具 V3.36
+09:00:14:  thief-book
+09:00:44:  MindMaster Pro
+09:01:04:  thief-book
+09:01:24:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:01:29:  设 置
+09:01:54:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:01:59:  thief-book
+09:02:04:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:02:44:  TCR调测工具 V3.36
+09:03:24:  thief-book
+09:03:39:  TCR调测工具 V3.36
+09:03:49:  取款
+09:03:54:  TCR调测工具 V3.36
+09:04:19:  thief-book
+09:04:24:  TCR调测工具 V3.36
+09:04:39:  thief-book
+09:08:19:  TCR调测工具 V3.36
+09:08:24:  BTCRTestTool 属性
+09:25:24:  thief-book
+09:27:49:  TCR调测工具 V3.36
+09:27:54:  thief-book
+09:28:14:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:19:  thief-book
+09:29:04:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:29:44:  TCR调测工具 V3.36
+09:29:54:  thief-book
+09:28:14:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:19:  thief-book
+09:29:04:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:29:44:  TCR调测工具 V3.36
+09:29:54:  thief-book
+09:30:39:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:30:54:  取款
+09:30:59:  TCR调测工具 V3.36
+09:34:29:  运行
+09:34:34:  thief-book
+09:36:19:  取款
+09:36:24:  TCR调测工具 V3.36
+09:36:59:  取款
+09:37:14:  TCR调测工具 V3.36
+09:37:29:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:37:44:  选择文件夹
+09:37:49:  untitled (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+09:37:59:  D:\0.01_To_Zhangkaifa\Applications\LogHandle\LogHandle.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+09:45:39:  TCR调测工具 V3.36
+09:45:54:  通道电机测试
+09:46:54:  log
+09:46:59:  20200520
+09:47:04:  Decode
+09:47:09:  K64_12121212_20200520093712.log - K64状态机分析.tat* - TextAnalysisTool.NET
+09:47:29:  计算器
+09:47:59:  K64_12121212_20200520093712.log - K64状态机分析.tat* - TextAnalysisTool.NET
+09:48:09:  计算器
+09:48:29:  K64_12121212_20200520093712.log - K64状态机分析.tat* - TextAnalysisTool.NET
+09:50:49:  D:\0.01_To_Zhangkaifa\Applications\LogHandle\LogHandle.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+09:51:09:  D:\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotor.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+09:51:34:  D:\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotor.h (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+09:51:39:  D:\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotor.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+09:51:49:  D:\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+09:51:59:  D:\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotor.h (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+09:52:04:  D:\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+09:54:19:  D:\0.01_To_Zhangkaifa\Applications\Initialization\Initial.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+09:54:29:  D:\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+09:54:49:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+09:55:04:  D:\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+09:55:09:  D:\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotor.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+09:55:14:  D:\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+09:55:54:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+09:55:59:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:04:07:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:04:22:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:04:37:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:04:47:  Decode
+10:04:52:  0.01_To_Zhangkaifa
+10:05:02:  D:\0.01_To_Zhangkaifa\Project\BCVM-R1300.uvprojx - μVision
+10:07:38:  DcMotorApp
+10:07:48:  D:\0.01_To_Zhangkaifa\Project\BCVM-R1300.uvprojx - μVision
+10:08:08:  DcMotorApp
+10:08:13:  D:\0.01_To_Zhangkaifa\Project\BCVM-R1300.uvprojx - μVision
+10:10:08:  eSpace
+10:10:13:  窦志远
+10:10:33:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:10:38:  窦志远
+10:10:43:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:10:48:  thief-book
+10:13:08:  窦志远
+10:13:18:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:13:23:  thief-book
+10:13:28:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:14:03:  thief-book
+10:14:08:  eSpace
+10:14:13:  thief-book
+10:14:08:  eSpace
+10:14:13:  thief-book
+10:21:33:  D:\0.01_To_Zhangkaifa\Project\BCVM-R1300.uvprojx - μVision
+10:23:28:  窦志远
+10:23:33:  D:\0.01_To_Zhangkaifa\Project\BCVM-R1300.uvprojx - μVision
+10:24:38:  thief-book
+10:40:48:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:41:33:  thief-book
+10:43:13:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:43:38:  Sublime Text
+10:43:43:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:46:53:  D:\0.01_To_Zhangkaifa\Applications\MemoryConfig.h (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:46:58:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:47:33:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:48:58:  D:\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:49:08:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:49:13:  D:\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:50:23:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:50:33:  D:\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:51:23:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:51:53:  D:\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:52:14:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:52:39:  于斌1
+10:52:44:  thief-book
+10:52:59:  TCR调测工具 V3.36
+10:53:24:  于斌1
+10:53:54:  个性化
+10:53:59:  桌面整理
+10:54:04:  于斌1
+10:54:09:  新建文本文档.txt - 记事本
+10:54:19:  未命名 - 写邮件
+10:54:24:  桌面整理
+10:54:29:  新建文本文档 - 写邮件
+10:54:34:  开始
+10:54:44:  eSpace
+10:54:54:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:54:59:  D:\0.01_To_Zhangkaifa\Rtos\OSLib.h (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:55:04:  D:\0.01_To_Zhangkaifa\Rtos\Rtthread\cmsis_rtthread2.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:55:09:  D:\0.01_To_Zhangkaifa\Rtos\Rtthread\kernel\src\thread.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:55:29:  D:\0.01_To_Zhangkaifa\Rtos\Rtthread\kernel\src\timer.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:55:44:  D:\0.01_To_Zhangkaifa\Rtos\Rtthread\kernel\include\rtdef.h (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:55:49:  D:\0.01_To_Zhangkaifa\Rtos\Rtthread\kernel\src\thread.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:56:09:  D:\0.01_To_Zhangkaifa\cm_backtrace\cm_backtrace.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:56:24:  D:\0.01_To_Zhangkaifa\Rtos\os_systick.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:57:09:  于斌1
+10:57:14:  D:\0.01_To_Zhangkaifa\Rtos\os_systick.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:58:19:  D:\0.01_To_Zhangkaifa\Rtos\Rtthread\cmsis_rtthread2.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:58:24:  D:\0.01_To_Zhangkaifa\Rtos\Rtthread\rtconfig_ext_demo.h (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:58:34:  D:\0.01_To_Zhangkaifa\Rtos\Rtthread\cmsis_rtthread2.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:58:44:  D:\0.01_To_Zhangkaifa\Rtos\Rtthread\kernel\src\clock.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:58:54:  于斌1
+10:58:59:  D:\0.01_To_Zhangkaifa\Rtos\Rtthread\cmsis_rtthread2.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:59:14:  D:\0.01_To_Zhangkaifa\Rtos\RtosApi\os_systick_demo1.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:59:34:  锁屏状态
+10:58:19:  D:\0.01_To_Zhangkaifa\Rtos\Rtthread\cmsis_rtthread2.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:58:24:  D:\0.01_To_Zhangkaifa\Rtos\Rtthread\rtconfig_ext_demo.h (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:58:34:  D:\0.01_To_Zhangkaifa\Rtos\Rtthread\cmsis_rtthread2.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:58:44:  D:\0.01_To_Zhangkaifa\Rtos\Rtthread\kernel\src\clock.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:58:54:  于斌1
+10:58:59:  D:\0.01_To_Zhangkaifa\Rtos\Rtthread\cmsis_rtthread2.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:59:14:  D:\0.01_To_Zhangkaifa\Rtos\RtosApi\os_systick_demo1.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+10:59:34:  锁屏状态
+13:02:45:  D:\0.01_To_Zhangkaifa\Rtos\RtosApi\os_systick_demo1.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:02:50:  窦志远
+13:03:00:  荆文波
+13:03:50:  D:\00-KE64\4\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:03:55:  untitled (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+13:04:05:  D:\00-06\DRB-Seclect-New\Middlewares\Plate\LowerPlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+13:04:15:  D:\00-06\DRB-Seclect-New\Drivers\SensorDriver\SensorDriver.h (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+13:04:30:  D:\00-06\DRB-Seclect-New\Middlewares\Plate\LowerPlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+13:04:35:  戚晓东
+13:04:45:  D:\00-06\DRB-Seclect-New\Middlewares\Plate\LowerPlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+13:04:55:  D:\00-06\DRB-Seclect-New\Middlewares\Plate\UpperPlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+13:05:00:  D:\00-06\DRB-Seclect-New\Middlewares\Plate\LowerPlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+13:05:05:  D:\00-06\DRB-Seclect-New\Drivers\SensorDriver\SensorDriver.h (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+13:05:10:  荆文波
+13:06:50:  戚晓东
+13:07:35:  转发: 钞箱历史记录结构体 - 写邮件
+13:07:40:  戚晓东
+13:07:45:  发送邮件
+13:07:50:  戚晓东
+13:08:15:  于斌1
+13:08:20:  窦志远
+13:08:40:  戚晓东
+13:08:50:  运行
+13:08:55:  戚晓东
+13:09:05:  0.01_To_Zhangkaifa
+13:09:10:  回收
+13:09:15:  D:\0.01_To_Zhangkaifa\Project\BCVM-R1300.uvprojx - μVision
+13:09:20:  本地磁盘 (D:)
+13:09:25:  戚晓东
+13:09:50:  计算器
+13:10:00:  戚晓东
+13:10:40:  Project
+13:10:45:  戚晓东
+13:10:50:  Project
+13:10:55:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+13:11:00:  戚晓东
+13:11:10:  D:\0.01_To_Zhangkaifa\Rtos\RtosApi\os_systick_demo1.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:11:15:  选择文件夹
+13:11:20:  TCR调测工具 V3.36
+13:11:25:  取款
+13:11:30:  戚晓东
+13:11:35:  选择文件夹
+13:11:40:  untitled (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:11:50:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\GetGoods\GetGoods.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:12:20:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\Initialization\Initial.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:12:30:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:13:00:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:13:15:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.h (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:13:25:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:13:45:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\GetGoods\GetGoods.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:13:55:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:14:15:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\GetGoods\GetGoods.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:15:00:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-05-19.txt
+13:14:15:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\GetGoods\GetGoods.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:15:00:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-05-19.txt
+13:15:05:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\GetGoods\GetGoods.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:16:15:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\Initialization\Initial.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:16:25:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\Initialization\Initial.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:16:30:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Drivers\WatchDogDriver\WatchDogDriver.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:18:00:  计算器
+13:18:30:  戚晓东
+13:19:50:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Drivers\WatchDogDriver\WatchDogDriver.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:20:15:  戚晓东
+13:21:05:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Drivers\WatchDogDriver\WatchDogDriver.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:21:10:  戚晓东
+13:21:15:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Drivers\WatchDogDriver\WatchDogDriver.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:21:20:  戚晓东
+13:21:45:  TCR调测工具 V3.36
+13:21:55:  查询历史记录
+13:22:00:  TCR调测工具 V3.36
+13:22:05:  戚晓东
+13:22:15:  查询历史记录
+13:22:20:  戚晓东
+13:22:45:  TCR调测工具 V3.36
+13:22:50:  戚晓东
+13:23:40:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+13:23:45:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Drivers\WatchDogDriver\WatchDogDriver.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:23:50:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\Initialization\Initial.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:23:55:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:24:00:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\Initialization\Initial.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:24:05:  untitled (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:24:15:  D:\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:24:30:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:24:40:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\Initialization\Initial.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:24:45:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:24:55:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\Initialization\Initial.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:25:00:  D:\0.01_To_Zhangkaifa\Applications\StrobeCtlTask\BucketSpigotCtrl.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:25:05:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\Initialization\Initial.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:25:10:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\GetGoods\GetGoods.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:25:15:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\Initialization\Initial.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:25:30:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\GetGoods\GetGoods.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:25:45:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\Initialization\Initial.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:25:50:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\GetGoods\GetGoods.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:25:55:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+13:29:31:  AVMA4V11.PDF
+13:29:36:  AVMA4V11.PDF - Adobe Reader
+13:29:31:  AVMA4V11.PDF
+13:29:36:  AVMA4V11.PDF - Adobe Reader
+13:30:06:  Adobe Reader
+13:30:11:  AVMA4V11.PDF - Adobe Reader
+13:30:26:  Adobe Reader
+13:30:31:  AVMA4V11.PDF - Adobe Reader
+13:31:16:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\Initialization\Initial.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:31:21:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:31:26:  AVMA4V11.PDF - Adobe Reader
+13:31:31:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:31:36:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\GetGoods\GetGoods.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:31:46:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+13:32:01:  AVMA4V11.PDF - Adobe Reader
+13:32:46:  TCR调测工具 V3.36
+13:33:16:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+13:36:51:  Options for Target 'ke06_rtt'
+13:36:56:  Cortex JLink/JTrace Target Driver Setup
+13:37:06:  JLink - Cortex-M Error
+13:37:11:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+13:41:56:  Build Output
+13:42:01:  4 第2轮整改DRB测试
+13:42:06:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+13:42:11:  TCR调测工具 V3.36
+13:42:21:  eSpace
+13:42:31:  程明昌
+13:51:41:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+13:52:11:  TCR调测工具 V3.36
+13:52:51:  取款
+13:52:56:  TCR调测工具 V3.36
+13:53:26:  取款
+13:53:31:  TCR调测工具 V3.36
+13:53:46:  取款
+13:53:51:  TCR调测工具 V3.36
+13:54:41:  取款
+13:54:46:  TCR调测工具 V3.36
+13:55:51:  thief-book
+13:58:21:  TCR调测工具 V3.36
+13:58:51:  eSpace
+13:59:01:  TCR调测工具 V3.36
+13:58:21:  TCR调测工具 V3.36
+13:58:51:  eSpace
+13:59:01:  TCR调测工具 V3.36
+14:03:21:  thief-book
+14:03:26:  于斌1
+14:03:31:  TCR调测工具 V3.36
+14:03:46:  于斌1
+14:03:56:  取款
+14:04:01:  可接收
+14:04:06:  TCR调测工具 V3.36
+14:04:11:  thief-book
+14:04:31:  BTCRTestTool 属性
+14:04:36:  TCRControlCmdDLL
+14:04:41:  20200520
+14:04:46:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:04:51:  Box_2__12121212_20200520135821.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:05:01:  TCRControlCmdDLL
+14:05:06:  20200520
+14:05:11:  于斌1
+14:05:21:  K64_12121212_20200520135821
+14:05:26:  Box_2__12121212_20200520135821.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:05:31:  20200520
+14:06:41:  TCR调测工具 V3.36
+14:07:21:  于斌1
+14:07:51:  TCR调测工具 V3.36
+14:08:21:  取款
+14:08:26:  20200520
+14:08:31:  TCR调测工具 V3.36
+14:08:41:  20200520
+14:08:51:  normol
+14:08:56:  D:\00-KE64\normol\trunk - 提交 - TortoiseSVN
+14:09:01:  trunk
+14:09:06:  更新 完成！
+14:09:11:  trunk
+14:09:16:  TortoiseSVN
+14:09:26:  D:\00-KE64\normol\trunk - 提交 - TortoiseSVN
+14:09:41:  D:\00-KE64\normol\trunk\Project\k64_rtt.uvprojx - μVision
+14:10:03:  thief-book
+14:10:56:  计算机
+14:11:27:  normol
+14:11:32:  D:\00-KE64\normol\trunk\Tools\CreateJK.exe
+14:11:37:  打开
+14:11:47:  TCR调测工具 V3.36
+14:11:52:  于斌1
+14:12:07:  TCR调测工具 V3.36
+14:12:22:  于斌1
+14:12:27:  TCR调测工具 V3.36
+14:12:57:  中间过渡通道
+14:13:12:  TCR调测工具 V3.36
+14:13:57:  取款
+14:14:02:  TCR调测工具 V3.36
+14:16:42:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+14:17:52:  AVMA4V11.PDF - Adobe Reader
+14:18:52:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+14:19:37:  AVMA4V11.PDF - Adobe Reader
+14:19:42:  Build Output
+14:19:47:  AVMA4V11.PDF - Adobe Reader
+14:20:32:  D:\00-KE64\normol\trunk\Project\k64_rtt.uvprojx - μVision
+14:20:37:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+14:26:27:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\Initialization\Initial.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:26:32:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Drivers\WatchDogDriver\WatchDogDriver.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:26:37:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Drivers\Ke06bsp\wdog.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:27:07:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Drivers\WatchDogDriver\WatchDogDriver.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:27:12:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\Initialization\Initial.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:27:17:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Drivers\WatchDogDriver\WatchDogDriver.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:27:27:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+14:28:42:  锁屏状态
+14:28:47:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+14:28:42:  锁屏状态
+14:28:47:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+14:35:07:  TCR调测工具 V3.36
+14:36:27:  StrobeCtlTask
+14:36:32:  运行
+14:36:37:  01-软件
+14:41:12:  锁屏状态
+14:41:18:  TCR调测工具 V3.36
+14:41:48:  01-软件
+14:41:53:  TCR调测工具 V3.36
+14:41:58:  跳转列表
+14:42:03:  BTCRTestTool V3.36
+14:42:08:  20200520
+14:42:18:  Decode
+14:42:23:  取款
+14:42:28:  TCR调测工具 V3.36
+14:44:58:  20200520
+14:44:58:  20200520
+14:45:18:  Decode
+14:45:23:  K64_0000_20200520144227
+14:45:33:  K64-_0000_20200520144227.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:45:38:  TCR调测工具 V3.36
+14:45:43:  取款
+14:45:53:  TCR调测工具 V3.36
+14:47:03:  取款
+14:47:08:  TCR调测工具 V3.36
+14:48:08:  20200520
+14:48:33:  Decode
+14:48:38:  K64__20200520144743
+14:48:43:  Box_2___20200520144743.log - K64状态机分析.tat* - TextAnalysisTool.NET
+14:48:48:  K64__20200520144743
+14:52:38:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Drivers\WatchDogDriver\WatchDogDriver.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:52:43:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\Initialization\Initial.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:53:53:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\GetGoods\GetGoods.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:53:58:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Applications\GetGoods\GetGoods.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:54:08:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotor.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:54:13:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:54:18:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.h (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:54:28:  μVision
+14:54:33:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+14:54:43:  Build Output
+14:54:48:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.h (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:54:53:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+14:55:03:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:55:08:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:55:13:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+14:57:43:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+14:57:53:  AVMA4V11.PDF - Adobe Reader
+14:59:28:  新北洋办公室电邮【2020】028号-关于防范新型肺炎的倡议及通知（十八）关于疫情期间出差外来人员接待、口罩配戴等相关管控政策调整的通知20200520
+14:59:38:  D:\00-KE64\normol\trunk\Project\k64_rtt.uvprojx - μVision
+15:00:03:  JLink - Cortex Error
+14:59:28:  新北洋办公室电邮【2020】028号-关于防范新型肺炎的倡议及通知（十八）关于疫情期间出差外来人员接待、口罩配戴等相关管控政策调整的通知20200520
+14:59:38:  D:\00-KE64\normol\trunk\Project\k64_rtt.uvprojx - μVision
+15:00:03:  JLink - Cortex Error
+15:00:08:  μVision
+15:00:13:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+15:02:03:  于斌1
+15:02:08:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+15:04:18:  SEGGER J-Link V6.10b - Control panel
+15:04:23:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+15:08:28:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+15:08:38:  D:\00-06\DRB-Seclect-New\Applications\HistoryRecord\HistoryRecord.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+15:08:53:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrHandle.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+15:09:13:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+15:18:39:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+15:18:59:  JLink - Cortex-M Error
+15:19:04:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+15:21:34:  TCR调测工具 V3.36
+15:21:44:  程明昌
+15:22:14:  TCR调测工具 V3.36
+15:25:54:  Build Output
+15:25:59:  TCR调测工具 V3.36
+15:26:04:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+15:26:19:  TCR调测工具 V3.36
+15:26:24:  MindMaster Pro
+15:26:29:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+15:31:29:  eSpace
+15:31:34:  荆文波
+15:32:34:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Middlewares\DcMotorApp\DcMotorApp.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+15:32:39:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+15:32:44:  D:\00-06\DRB-Seclect-New\Applications\HistoryRecord\HistoryRecord.h (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+15:32:49:  D:\00-06\DRB-Seclect-New\Applications\HistoryRecord\HistoryRecord.h • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+15:33:04:  荆文波
+15:33:09:  D:\00-06\DRB-Seclect-New\Applications\HistoryRecord\HistoryRecord.h • (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+15:33:29:  D:\00-06\DRB-Seclect-New\Applications\HistoryRecord\HistoryRecord.h (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+15:33:59:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+15:34:14:  D:\00-06\DRB-Seclect-New\Applications\HistoryRecord\HistoryRecord.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+15:34:29:  D:\00-06\DRB-Seclect-New\Applications\HistoryRecord\HistoryRecord.h (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+15:34:34:  D:\00-06\DRB-Seclect-New\Applications\HistoryRecord\HistoryRecord.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+15:35:24:  收取邮件 - 张开发
+15:38:24:  D:\00-06\DRB-Seclect-New\Applications\HistoryRecord\HistoryRecord.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+15:38:29:  00-06
+15:38:54:  1T1-FenchaoAbort
+15:38:59:  检出
+15:39:04:  trunk - 检出 - TortoiseSVN
+15:39:14:  检出 完成！
+15:39:24:  D:\00-06\DRB-Seclect-New\Applications\HistoryRecord\HistoryRecord.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+15:40:34:  选择文件夹
+15:40:44:  untitled (1T1-FenchaoAbort) - Sublime Text (UNREGISTERED)
+15:40:59:  D:\00-06\1T1-FenchaoAbort\Applications\PlateCtrl\PlateCtrl.c (1T1-FenchaoAbort) - Sublime Text (UNREGISTERED)
+15:41:34:  D:\00-06\1T1-FenchaoAbort\Applications\PlateCtrl\PlateCtrl.c • (1T1-FenchaoAbort) - Sublime Text (UNREGISTERED)
+15:41:39:  D:\00-06\1T1-FenchaoAbort\Applications\PlateCtrl\PlateCtrl.c (1T1-FenchaoAbort) - Sublime Text (UNREGISTERED)
+15:42:49:  eSpace
+15:42:54:  刘茂林
+15:44:44:  D:\00-06\1T1-FenchaoAbort\Applications\PlateCtrl\PlateCtrl.c (1T1-FenchaoAbort) - Sublime Text (UNREGISTERED)
+15:44:49:  μVision
+15:44:54:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+15:44:59:  跳转列表
+15:45:04:  D:\00-06\1T1-FenchaoAbort\Applications\PlateCtrl\PlateCtrl.c (1T1-FenchaoAbort) - Sublime Text (UNREGISTERED)
+15:44:44:  D:\00-06\1T1-FenchaoAbort\Applications\PlateCtrl\PlateCtrl.c (1T1-FenchaoAbort) - Sublime Text (UNREGISTERED)
+15:44:49:  μVision
+15:44:54:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+15:44:59:  跳转列表
+15:45:04:  D:\00-06\1T1-FenchaoAbort\Applications\PlateCtrl\PlateCtrl.c (1T1-FenchaoAbort) - Sublime Text (UNREGISTERED)
+15:45:24:  刘茂林
+15:45:34:  eSpace
+15:45:49:  设置
+15:45:54:  eSpace
+15:45:59:  MindMaster Pro
+15:46:29:  刘茂林
+15:47:34:  D:\00-06\1T1-FenchaoAbort\Applications\PlateCtrl\PlateCtrl.c (1T1-FenchaoAbort) - Sublime Text (UNREGISTERED)
+15:47:44:  CAXA电子图板2005(企业版)
+15:47:49:  日积月累
+15:47:54:  C:\Users\zhangkaifa\AppData\Roaming\Foxmail7\Temp-4808-20200519080918\Attach\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+15:48:59:  刘茂林
+15:49:24:  C:\Users\zhangkaifa\AppData\Roaming\Foxmail7\Temp-4808-20200519080918\Attach\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+15:49:34:  eSpace
+15:49:39:  刘茂林
+15:49:44:  C:\Users\zhangkaifa\AppData\Roaming\Foxmail7\Temp-4808-20200519080918\Attach\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+15:50:14:  μVision
+15:50:19:  D:\新建文件夹 (3)\0.01_To_Zhangkaifa\Project\ke06_rtt.uvprojx - μVision
+15:50:24:  00-06
+15:50:29:  D:\00-06\1T1-FenchaoAbort - 工作副本 - TortoiseSVN
+15:50:34:  PlateCtrl.c - TortoiseMerge
+15:50:44:  1T1-FenchaoAbort
+15:50:54:  D:\00-06\1T1-FenchaoAbort\Applications\PlateCtrl\PlateCtrl.c (1T1-FenchaoAbort) - Sublime Text (UNREGISTERED)
+15:50:59:  D:\00-06\1T1-FenchaoAbort\Applications\Update\Update.c (1T1-FenchaoAbort) - Sublime Text (UNREGISTERED)
+15:51:04:  D:\00-06\1T1-FenchaoAbort\Applications\Update\Update.c • (1T1-FenchaoAbort) - Sublime Text (UNREGISTERED)
+15:51:09:  1T1-FenchaoAbort
+15:51:14:  D:\00-06\1T1-FenchaoAbort - 日志信息 - TortoiseSVN
+15:51:29:  D:\00-06\1T1-FenchaoAbort\Applications\Update\Update.c (1T1-FenchaoAbort) - Sublime Text (UNREGISTERED)
+15:51:34:  1T1-FenchaoAbort
+15:51:39:  μVision
+15:51:44:  D:\00-06\1T1-FenchaoAbort\Project\CashBox.uvprojx - μVision
+15:52:15:  Project
+15:52:35:  本地磁盘 (D:)
+15:52:40:  00-06
+15:52:45:  D:\00-06\1T1-FenchaoAbort\Tools\CreateJK.exe
+15:52:50:  Tools
+15:52:55:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T83 - 写邮件
+15:53:10:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T83 - 写邮件   15:53:10 已保存
+15:54:05:  Tools
+15:54:20:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T83 - 写邮件   15:54:10 已保存
+15:54:35:  D:\00-06\1T1-FenchaoAbort - 工作副本 - TortoiseSVN
+15:54:40:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T83 - 写邮件   15:54:10 已保存
+15:55:10:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T83 - 写邮件   15:55:10 已保存
+15:55:20:  未命名 - 写邮件   15:55:10 已保存
+15:55:25:  分钞去除 - 写邮件   15:55:10 已保存
+15:55:30:  分钞去除1.5mm版本 - 写邮件   15:55:10 已保存
+15:56:10:  分钞去除1.5mm版本 - 写邮件   15:56:05 已保存
+15:56:25:  D:\00-06\DRB-Seclect-New\Applications\HistoryRecord\HistoryRecord.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+15:57:50:  回复: 分钞去除1.5mm版本
+15:58:05:  1T1-FenchaoAbort
+15:58:10:  Tools
+15:58:25:  回复: 分钞去除1.5mm版本
+15:58:30:  Tools
+15:58:35:  刘茂林
+15:58:50:  回复: 分钞去除1.5mm版本
+15:59:00:  D:\00-06\1T1-FenchaoAbort\Project\CashBox.uvprojx - μVision
+15:59:45:  刘茂林
+15:59:50:  D:\00-06\1T1-FenchaoAbort\Project\CashBox.uvprojx - μVision
+15:58:05:  1T1-FenchaoAbort
+15:58:10:  Tools
+15:58:25:  回复: 分钞去除1.5mm版本
+15:58:30:  Tools
+15:58:35:  刘茂林
+15:58:50:  回复: 分钞去除1.5mm版本
+15:59:00:  D:\00-06\1T1-FenchaoAbort\Project\CashBox.uvprojx - μVision
+15:59:45:  刘茂林
+15:59:50:  D:\00-06\1T1-FenchaoAbort\Project\CashBox.uvprojx - μVision
+16:00:45:  回复: 分钞去除1.5mm版本
+16:00:50:  锁屏状态
+16:00:55:  Tools
+16:01:00:  D:\00-06\1T1-FenchaoAbort\Tools\CreateJK.exe
+16:01:05:  Tools
+16:01:10:  Box_2___20200520144743.log - K64状态机分析.tat* - TextAnalysisTool.NET
+16:01:25:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+16:03:15:  锁屏状态
+16:03:20:  Tools
+16:04:15:  自动播放
+16:04:20:  iTunes
+16:04:25:  Tools
+16:09:15:  C:\Users\zhangkaifa\AppData\Roaming\Foxmail7\Temp-4808-20200519080918\Attach\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+16:10:30:  戚晓东
+16:10:40:  C:\Users\zhangkaifa\AppData\Roaming\Foxmail7\Temp-4808-20200519080918\Attach\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+16:18:01:  于斌1
+16:18:06:  C:\Users\zhangkaifa\AppData\Roaming\Foxmail7\Temp-4808-20200519080918\Attach\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+16:19:06:  于斌1
+16:19:11:  C:\Users\zhangkaifa\AppData\Roaming\Foxmail7\Temp-4808-20200519080918\Attach\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+16:19:56:  荆文波
+16:20:06:  锁屏状态
+16:20:11:  荆文波
+16:20:21:  D:\00-06\DRB-Seclect-New\Applications\HistoryRecord\HistoryRecord.c (0.01_To_Zhangkaifa) - Sublime Text (UNREGISTERED)
+16:20:26:  D:\00-06\1T1-FenchaoAbort\Applications\Update\Update.c (1T1-FenchaoAbort) - Sublime Text (UNREGISTERED)
+16:20:31:  untitled (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:20:46:  D:\00-06\DRB-Seclect-New\Middlewares\Plate\UpperPlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:20:51:  D:\00-06\DRB-Seclect-New\Drivers\SensorDriver\SensorDriver.h (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:21:11:  D:\00-06\DRB-Seclect-New\Middlewares\Plate\UpperPlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:21:16:  42 CRS现金循环模块
+16:21:21:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+16:21:26:  荆文波
+16:21:51:  D:\00-06\DRB-Seclect-New\Middlewares\Plate\UpperPlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:21:56:  荆文波
+16:24:01:  5.18 传感器测试v1.1.xlsx  [受保护的视图] - Excel
+16:24:31:  新建文本文档.txt - 记事本
+16:25:21:  荆文波
+16:25:31:  新建文本文档.txt - 记事本
+16:25:51:  荆文波
+16:26:01:  新建文本文档.txt - 记事本
+16:28:36:  荆文波
+16:28:46:  新建文本文档.txt - 记事本
+16:28:56:  桌面整理
+16:29:11:  TCRControlCmdDLL0511.rar - WinRAR (非商业个人版)
+16:29:16:  桌面整理
+16:29:21:  删除文件夹
+16:29:26:  桌面整理
+16:29:46:  上腔出钞300张，1张倾斜到回收箱，出钞口299张，报钞箱口 500ms纸币未进入 返回码0X065E0900
+16:29:51:  1元测试日志
+16:29:56:  上腔出钞300张，1张倾斜到回收箱，出钞口299张，报钞箱口 500ms纸币未进入 返回码0X065E0900
+16:30:01:  Decode
+16:28:36:  荆文波
+16:28:46:  新建文本文档.txt - 记事本
+16:28:56:  桌面整理
+16:29:11:  TCRControlCmdDLL0511.rar - WinRAR (非商业个人版)
+16:29:16:  桌面整理
+16:29:21:  删除文件夹
+16:29:26:  桌面整理
+16:29:46:  上腔出钞300张，1张倾斜到回收箱，出钞口299张，报钞箱口 500ms纸币未进入 返回码0X065E0900
+16:29:51:  1元测试日志
+16:29:56:  上腔出钞300张，1张倾斜到回收箱，出钞口299张，报钞箱口 500ms纸币未进入 返回码0X065E0900
+16:30:01:  Decode
+16:30:06:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:30:11:  桌面整理
+16:30:16:  格子解散确认
+16:30:26:  桌面整理
+16:30:31:  temp
+16:30:36:  回收
+16:30:41:  Windows 资源管理器
+16:30:46:  桌面整理
+16:30:51:  D:\00-06\1T1-FenchaoAbort\Project\CashBox.uvprojx - μVision
+16:30:56:  桌面整理
+16:31:01:  D:\00-06\1T1-FenchaoAbort\Project\CashBox.uvprojx - μVision
+16:31:06:  TCRTestTool_20190510-002
+16:31:11:  桌面
+16:31:16:  正在移动 144 个项目(36.3 MB)
+16:31:21:  小程序
+16:31:26:  桌面整理
+16:31:31:  回收
+16:31:41:  桌面整理
+16:31:51:  TheOneForExcel.py 属性
+16:31:56:  桌面整理
+16:32:06:  K64_BTCR-1100190802300001_20200520161320
+16:32:11:  Box_1__BTCR-1100190802300001_20200520161320.log - K64状态机分析.tat* - TextAnalysisTool.NET
+16:32:16:  打开
+16:32:21:  Box_1__BTCR-1100190802300001_20200520161320.log - K64状态机分析.tat* - TextAnalysisTool.NET
+16:32:26:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat - TextAnalysisTool.NET
+16:32:31:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:33:46:  荆文波
+16:34:26:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:34:46:  荆文波
+16:35:21:  LOG
+16:35:26:  Box_1__BTCR-1100190802300001_20200520161136.log - selector.tat* - TextAnalysisTool.NET
+16:35:56:  荆文波
+16:37:16:  K64_BTCR-1100190802300001_20200520161136
+16:37:21:  5.18 传感器测试v1.1.xlsx  [受保护的视图] - Excel
+16:37:26:  桌面整理
+16:37:31:  Everything
+16:37:36:  TheOneForExcel. - Everything
+16:37:41:  TheOneForExcel.py - Everything
+16:37:46:  本地磁盘 (F:)
+16:37:51:  桌面整理
+16:38:01:  小程序
+16:38:06:  桌面整理
+16:38:16:  删除文件
+16:38:21:  检测.xlsx - Excel
+16:38:26:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+16:38:31:  桌面整理
+16:38:46:  删除快捷方式
+16:38:51:  删除文件夹
+16:38:56:  MindMaster Pro
+16:39:01:  集成测试
+16:39:06:  桌面整理
+16:40:01:  荆文波
+16:40:21:  Box_1__BTCR-1100190802300001_20200520161136.log - selector.tat* - TextAnalysisTool.NET
+16:40:31:  本地磁盘 (D:)
+16:40:36:  上腔出钞300张，1张倾斜到回收箱，出钞口299张，报钞箱口 500ms纸币未进入 返回码0X065E0900
+16:40:41:  K64_BTCR-1100190802300001_20200520161320
+16:40:46:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:41:06:  荆文波
+16:41:16:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:41:26:  荆文波
+16:41:46:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:42:16:  Add Filter
+16:42:21:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:42:26:  Edit Filter
+16:42:31:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:43:31:  荆文波
+16:43:51:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:44:01:  Add Filter
+16:44:11:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:44:57:  荆文波
+16:44:11:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:44:57:  荆文波
+16:45:07:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:45:12:  荆文波
+16:45:17:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:46:32:  荆文波
+16:46:37:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:46:47:  荆文波
+16:47:37:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:47:57:  荆文波
+16:49:37:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:51:12:  荆文波
+16:51:17:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:51:22:  刘茂林
+16:52:07:  荆文波
+16:52:27:  D:\00-06\DRB-Seclect-New\Middlewares\Plate\UpperPlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:52:32:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrHandle.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:52:42:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:52:47:  D:\00-06\DRB-Seclect-New\Drivers\SensorDriver\SensorDriver.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:52:57:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrHandle.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:53:02:  荆文波
+16:53:12:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:53:42:  荆文波
+16:54:02:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:54:07:  荆文波
+16:54:42:  TCR调测工具 V3.36
+16:54:47:  发送指令到K06
+16:54:52:  TCR调测工具 V3.36
+16:55:02:  发送指令到K06
+16:55:27:  TCR调测工具 V3.36
+16:55:32:  荆文波
+16:55:42:  TCR调测工具 V3.36
+16:55:47:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:56:07:  荆文波
+16:56:12:  计算器
+16:56:27:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:56:42:  D:\00-06\DRB-Seclect-New\Drivers\SensorDriver\SensorDriver.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:56:47:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:56:57:  D:\00-06\DRB-Seclect-New\Drivers\SensorDriver\SensorDriver.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:57:17:  YoudaoStrokeWnd
+16:57:22:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:57:27:  D:\00-06\DRB-Seclect-New\Drivers\SensorDriver\SensorDriver.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:57:42:  荆文波
+16:57:57:  D:\00-06\DRB-Seclect-New\Drivers\SensorDriver\SensorDriver.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:58:07:  荆文波
+16:58:12:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:58:22:  荆文波
+16:58:27:  计算器
+16:58:37:  荆文波
+16:59:27:  计算器
+16:59:32:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:59:42:  荆文波
+16:59:47:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:59:52:  计算器
+16:58:07:  荆文波
+16:58:12:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:58:22:  荆文波
+16:58:27:  计算器
+16:58:37:  荆文波
+16:59:27:  计算器
+16:59:32:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:59:42:  荆文波
+16:59:47:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+16:59:52:  计算器
+17:03:27:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrHandle.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:03:57:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:04:02:  TCR调测工具 V3.36
+17:04:12:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrHandle.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:04:17:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:04:22:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrHandle.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:04:47:  D:\00-06\DRB-Seclect-New\Applications\MemoryConfig.h (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:05:07:  D:\00-06\DRB-Seclect-New\Middlewares\Sensor\Sensor.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:05:17:  D:\00-06\DRB-Seclect-New\Drivers\SensorDriver\SensorDriver.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:05:37:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:05:47:  D:\00-06\DRB-Seclect-New\Drivers\SensorDriver\SensorDriver.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:06:02:  D:\00-06\DRB-Seclect-New\Middlewares\Sensor\Sensor.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:07:02:  Box_1__BTCR-1100190802300001_20200520161320.log - selector.tat* - TextAnalysisTool.NET
+17:07:07:  LOG
+17:07:12:  Box_1__BTCR-1100190802300001_20200520161136.log - selector.tat* - TextAnalysisTool.NET
+17:07:17:  锁屏状态
+17:07:22:  TCRControlCmdDLL
+17:07:27:  K64__20200520144743
+17:07:32:  20200520
+17:07:37:  K64_12121212_20200516133624
+17:07:42:  Box_2__12121212_20200516133624.log - selector.tat* - TextAnalysisTool.NET
+17:08:02:  跳转列表
+17:08:12:  D:\00-06\DRB-Seclect-New\Middlewares\Sensor\Sensor.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:08:17:  荆文波
+17:08:32:  D:\00-06\1T1-FenchaoAbort\Project\CashBox.uvprojx - μVision
+17:08:37:  D:\00-06\DRB-Seclect-New\Middlewares\Sensor\Sensor.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:08:42:  荆文波
+17:09:17:  锁屏状态
+17:09:22:  TCR调测工具 V3.36
+17:09:37:  计算器
+17:09:47:  荆文波
+17:09:52:  计算器
+17:09:57:  荆文波
+17:10:27:  计算器
+17:10:32:  荆文波
+17:11:42:  D:\00-06\DRB-Seclect-New\Drivers\SensorDriver\SensorDriver.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:11:57:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:12:12:  计算器
+17:12:17:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:13:17:  未命名 - 写邮件
+17:13:27:  本地磁盘 (D:)
+17:13:32:  1元测试日志
+17:14:22:  日志
+17:14:27:  Decode
+17:14:32:  K64_BTCR-1100190802300001_20200520171228
+17:14:37:  Box_1__BTCR-1100190802300001_20200520171228.log - selector.tat* - TextAnalysisTool.NET
+17:15:02:  K64_BTCR-1100190802300001_20200520171221
+17:14:22:  日志
+17:14:27:  Decode
+17:14:32:  K64_BTCR-1100190802300001_20200520171228
+17:14:37:  Box_1__BTCR-1100190802300001_20200520171228.log - selector.tat* - TextAnalysisTool.NET
+17:15:02:  K64_BTCR-1100190802300001_20200520171221
+17:15:07:  Box_1__BTCR-1100190802300001_20200520171228.log - selector.tat* - TextAnalysisTool.NET
+17:15:27:  D:\00-06\DRB-Seclect-New\Applications\Instruction\InstrExecute.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:15:32:  D:\00-06\DRB-Seclect-New\Middlewares\Plate\UpperPlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:15:47:  D:\00-06\DRB-Seclect-New\Drivers\SensorDriver\SensorDriver.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:16:02:  D:\00-06\DRB-Seclect-New\Applications\MemoryConfig.h (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:16:07:  D:\00-06\DRB-Seclect-New\Middlewares\Sensor\Sensor.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:16:22:  D:\00-06\DRB-Seclect-New\Applications\MemoryConfig.h (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:16:27:  D:\00-06\DRB-Seclect-New\Drivers\SensorDriver\SensorDriver.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:16:32:  D:\00-06\DRB-Seclect-New\Middlewares\Sensor\Sensor.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:16:47:  D:\00-06\DRB-Seclect-New\Drivers\SensorDriver\SensorDriver.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:16:52:  D:\00-06\DRB-Seclect-New\Middlewares\Plate\UpperPlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:16:57:  D:\00-06\1T1-FenchaoAbort\Project\CashBox.uvprojx - μVision
+17:17:02:  K64_BTCR-1100190802300001_20200520171228
+17:17:07:  本地磁盘 (D:)
+17:17:12:  DRB-Seclect-New
+17:17:17:  D:\00-06\DRB-Seclect-New - 工作副本 - TortoiseSVN
+17:17:22:  00-06
+17:17:27:  Tools
+17:17:32:  文件补丁  
+17:17:37:  Selector.c - TortoiseMerge
+17:17:47:  Update.c - TortoiseMerge
+17:17:52:  BR-1-CashBox1T2
+17:17:57:  选择文件夹
+17:18:07:  untitled (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+17:18:12:  D:\00-06\DRB-New\branches\BR-1-CashBox1T2\Middlewares\Sensor\Sensor.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+17:18:17:  D:\00-06\DRB-New\branches\BR-1-CashBox1T2\Applications\MemoryConfig.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+17:18:27:  D:\00-06\DRB-New\branches\BR-1-CashBox1T2\Middlewares\Sensor\Sensor.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+17:18:32:  D:\00-06\DRB-New\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+17:18:37:  D:\00-06\DRB-New\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+17:18:47:  于斌1
+17:19:02:  BR-1-CashBox1T2
+17:19:12:  于斌1
+17:19:32:  D:\00-06\DRB-New\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+17:19:42:  发送指令到K06
+17:19:47:  BR-1-CashBox1T2
+17:19:52:  Tools
+17:20:07:  回复: 回复: DRB钞箱测试~5.16 - 写邮件
+17:21:07:  回复: 回复: DRB钞箱测试~5.16 - 写邮件   17:21:02 已保存
+17:21:22:  锁屏状态

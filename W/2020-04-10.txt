@@ -1,0 +1,773 @@
+08:02:14:  iTunes
+08:02:34:  Dialog
+08:02:44:  eSpace
+08:02:49:  eSpace Login
+08:05:44:  新建文本文档.exe - 快捷方式
+08:05:49:  eSpace Login
+08:05:54:  
+08:06:04:  PostWork.py - 快捷方式
+08:06:14:  库
+08:06:19:  设置
+08:06:24:  eSpace
+08:07:09:  选择文件夹
+08:07:24:  untitled (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:07:34:  D:\00-KE64\5\trunk\Applications\FlowControl\FlowControl.c (trunk) - Sublime Text (UNREGISTERED)
+08:07:39:  00-06
+08:07:44:  D:\00-06\1T2-Seclect-Aging - 工作副本 - TortoiseSVN
+08:07:49:  InstrExecute.c - TortoiseMerge
+08:07:54:  InstrHandle.c - TortoiseMerge
+08:07:59:  10
+08:08:04:  trunk
+08:08:09:  更新 完成！
+08:08:14:  D:\00-KE64\5\trunk\Applications\FlowControl\FlowControl.c (trunk) - Sublime Text (UNREGISTERED)
+08:08:19:  untitled (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:08:24:  00-06
+08:08:29:  1T2-Seclect-Aging
+08:08:34:  Applications
+08:08:39:  10
+08:08:44:  删除 
+08:08:49:  trunk
+08:08:54:  10
+08:08:59:  00-06
+08:09:04:  23
+08:09:09:  更新 失败！
+08:09:14:  清理
+08:09:19:  23
+08:09:24:  D:\00-06\23 - 更新 - TortoiseSVN
+08:09:29:  23
+08:09:34:  复制文件
+08:09:39:  μVision
+08:09:44:  Applications
+08:09:49:  23
+08:09:54:  1T2-Seclect-Aging
+08:09:59:  D:\00-06\1T2-Seclect-Aging - 工作副本 - TortoiseSVN
+08:10:04:  TortoiseMerge
+08:10:09:  StepMotorDriver.c - TortoiseMerge
+08:10:29:  D:\00-06\1T2-Seclect-Aging - 工作副本 - TortoiseSVN
+08:10:44:  Drivers
+08:10:49:  StepMotorDriver
+08:10:54:  Drivers
+08:11:04:  1T2-Seclect-Aging
+08:11:14:  Drivers
+08:11:24:  PeripheralDriver
+08:11:29:  1T2-Seclect-Aging
+08:11:34:  00-06
+08:11:39:  Drivers
+08:11:49:  工作副本
+08:11:54:  CashBoxInfo.c - TortoiseMerge
+08:12:50:  TortoiseMerge
+08:12:55:  D:\00-06\23 - 工作副本 - TortoiseSVN
+08:13:00:  SnbcSpiDriver.c - TortoiseMerge
+08:13:20:  D:\00-06\23 - 工作副本 - TortoiseSVN
+08:13:25:  23
+08:13:50:  
+08:13:55:  23
+08:14:05:  D:\00-06\23 - 工作副本 - TortoiseSVN
+08:14:10:  SnbcSpiDriver.c - TortoiseMerge
+08:14:50:  D:\00-06\23 - 工作副本 - TortoiseSVN
+08:14:55:  SnbcSpiDriver.c - TortoiseMerge
+08:15:30:  StepMotorDriver.c - TortoiseMerge
+08:19:25:  D:\00-06\23 - 工作副本 - TortoiseSVN
+08:19:35:  23
+08:19:45:  D:\00-06\23\Project\CashBox_1T2.uvprojx - μVision
+08:22:05:  00-06
+08:22:10:  SECSplashWnd
+08:22:15:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+08:22:35:  μVision
+08:22:40:  JLink - Cortex-M Error
+08:22:45:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+08:23:05:  Cortex JLink/JTrace Target Driver Setup
+08:23:20:  Options for Target 'CashBox_Boot_1T2'
+08:23:25:  Cortex JLink/JTrace Target Driver Setup
+08:23:30:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+08:23:40:  Options for Target 'CashBox_Boot_1T2'
+08:23:45:  Cortex JLink/JTrace Target Driver Setup
+08:24:10:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+08:24:20:  μVision
+08:24:25:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+08:24:30:  Options for Target 'CashBox_Boot_1T2'
+08:24:35:  Cortex JLink/JTrace Target Driver Setup
+08:24:55:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+08:25:00:  JLink - Cortex-M Error
+08:25:05:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+08:26:20:  D:\00-06\23\Project\CashBox_1T2.uvprojx - μVision
+08:27:55:  「开始」菜单
+08:28:00:  收取邮件 - 张开发
+08:28:05:  EXTFEDU6V11.PDF
+08:28:10:  EXTFEDU6V11.PDF - Adobe Reader
+08:28:20:  
+08:28:25:  untitled (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:28:30:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:28:50:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:29:00:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:29:05:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:29:10:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:29:15:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:29:20:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:29:40:  
+08:28:05:  EXTFEDU6V11.PDF
+08:28:10:  EXTFEDU6V11.PDF - Adobe Reader
+08:28:20:  
+08:28:25:  untitled (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:28:30:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:28:50:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:29:00:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:29:05:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:29:10:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:29:15:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:29:20:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:29:40:  
+08:30:20:  跳转列表
+08:30:25:  00-06
+08:30:30:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+08:31:15:  
+08:31:20:  KE06LOG.bat - 快捷方式 (2)
+08:31:35:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+08:31:40:  KE06LOG.bat - 快捷方式 (2)
+08:31:45:  
+08:31:55:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202004100831.log
+08:32:00:  
+08:32:05:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+08:32:30:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision (未响应)
+08:32:40:  JLink - Cortex-M Error
+08:32:45:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+08:33:45:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision (未响应)
+08:33:50:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+08:34:15:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:34:20:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:35:00:  EXTFEDU6V11.PDF - Adobe Reader
+08:35:10:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:35:15:  EXTFEDU6V10.PDF - Adobe Reader
+08:38:25:  
+08:38:35:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:38:50:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:38:55:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:39:15:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:39:20:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:39:30:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:39:35:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+08:40:10:  
+08:40:15:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202004100831.log
+08:40:20:  
+08:40:25:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+08:40:30:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202004100840.log
+08:40:35:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+08:41:25:  EXTFEDU6V11.PDF - Adobe Reader
+08:42:25:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+08:43:40:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202004100840.log
+08:43:50:  eSpace
+08:44:00:  朱跃辉
+08:44:20:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+08:47:20:  朱跃辉
+08:47:25:  eSpace
+08:47:30:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+08:48:35:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202004100840.log
+08:49:15:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:49:20:  EXTFEDU6V11.PDF - Adobe Reader
+08:49:25:  
+08:49:30:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:51:40:  
+08:52:00:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:52:40:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:52:45:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:53:10:  D:\00-06\1T2-Seclect-Aging\Middlewares\Plate\UpperPlate.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:54:30:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:55:35:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:55:50:  D:\00-06\1T2-Seclect-Aging\Applications\MemoryConfig.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:55:55:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:56:10:  KE06LOG.bat - 快捷方式 (2)
+08:56:20:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:56:35:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:57:05:  D:\00-06\1T2-Seclect-Aging\Middlewares\Plate\UpperPlate.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:57:15:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:57:30:  D:\00-06\1T2-Seclect-Aging\Middlewares\Plate\UpperPlate.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:57:35:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:57:45:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:58:25:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:58:30:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:58:45:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202004100840.log
+08:59:45:  D:\00-06\1T2-Seclect-Aging\Middlewares\Plate\UpperPlate.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:58:25:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:58:30:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:58:45:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202004100840.log
+08:59:45:  D:\00-06\1T2-Seclect-Aging\Middlewares\Plate\UpperPlate.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:00:05:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:00:10:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:00:30:  D:\00-06\1T2-Seclect-Aging\Middlewares\Plate\UpperPlate.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:00:35:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:00:40:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:00:45:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:00:50:  
+09:00:55:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:01:10:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:01:25:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:01:45:  D:\00-06\1T2-Seclect-Aging\Middlewares\Plate\UpperPlate.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:04:55:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+09:05:05:  Project
+09:05:15:  本地磁盘 (D:)
+09:05:20:  5
+09:05:25:  trunk
+09:05:30:  D:\00-KE64\5\trunk - 工作副本 - TortoiseSVN
+09:05:35:  InstrGSProcess.c - TortoiseMerge
+09:05:40:  D:\00-KE64\5\trunk - 工作副本 - TortoiseSVN
+09:05:50:  trunk
+09:05:55:  D:\00-KE64\5\trunk\Project\k64_rtt.uvprojx - μVision
+09:06:20:  Tools
+09:06:25:  D:\00-KE64\5\trunk\Tools\CreateJK.exe
+09:06:30:  TCR调测工具 V3.36
+09:06:50:  钞箱配置
+09:06:55:  TCR调测工具 V3.36
+09:07:00:  钞箱配置
+09:07:10:  TCR调测工具 V3.36
+09:07:50:  取款
+09:08:05:  TCR调测工具 V3.36
+09:08:25:  BTCRTestTool (2) 属性
+09:08:30:  TCRControlCmdDLL
+09:08:35:  Excel
+09:08:40:  跳转列表
+09:08:45:  20200410
+09:09:00:  Decode
+09:09:10:  K64_0000_20200410090802
+09:09:15:  跳转列表
+09:09:20:  确认另存为
+09:09:25:  K64-_0000_20200410090802.log - [No filter file] - TextAnalysisTool.NET
+09:09:30:  K64-_0000_20200410090802.log - K64状态机分析2.tat - TextAnalysisTool.NET
+09:10:20:  K64-_0000_20200410090802.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:10:35:  Add Filter
+09:10:45:  K64-_0000_20200410090802.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:11:25:  本地磁盘 (F:)
+09:11:30:  06 固件日报
+09:11:35:  模块方案
+09:11:40:  共享文件
+09:11:45:  指令接口部分
+09:11:50:  正在打开 - Excel
+09:11:55:  DRB现有问题总结20200319.xls  [受保护的视图] - Excel
+09:12:50:  K64-_0000_20200410090802.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:14:25:  TCR调测工具 V3.36
+09:14:30:  优先级
+09:14:35:  TCR调测工具 V3.36
+09:14:45:  取款
+09:14:55:  TCR调测工具 V3.36
+09:15:10:  优先级
+09:15:15:  取款
+09:15:25:  TCR调测工具 V3.36
+09:18:30:  钞箱配置
+09:18:35:  优先级
+09:18:50:  TCR调测工具 V3.36
+09:18:55:  取款
+09:19:20:  20200410
+09:19:25:  TCR调测工具 V3.36
+09:19:50:  20200410
+09:20:00:  TCR调测工具 V3.36
+09:20:05:  优先级
+09:20:10:  TCR调测工具 V3.36
+09:20:15:  取款
+09:20:30:  TCR调测工具 V3.36
+09:20:45:  20200410
+09:21:05:  TCR调测工具 V3.36
+09:21:10:  优先级
+09:21:20:  取款
+09:21:35:  TCR调测工具 V3.36
+09:22:00:  20200410
+09:22:25:  Decode
+09:22:30:  K64-_0000_20200410090802.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:22:35:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:23:20:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:26:40:  LOG
+09:26:45:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:26:50:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:27:45:  「开始」菜单
+09:27:50:  New Project By Approach
+09:27:55:  Open
+09:28:00:  StarUML - Untitled.uml
+09:28:15:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:28:35:  StarUML - Untitled.uml
+09:28:40:  Quick Dialog
+09:28:45:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:28:50:  StarUML - Untitled.uml
+09:28:55:  Quick Dialog
+09:29:00:  StarUML - Untitled.uml
+09:29:05:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:29:15:  Quick Dialog
+09:29:20:  StarUML - Untitled.uml
+09:29:30:  Quick Dialog
+09:29:35:  StarUML - Untitled.uml
+09:29:40:  Quick Dialog
+09:29:45:  StarUML - Untitled.uml
+09:29:50:  Quick Dialog
+09:29:55:  StarUML - Untitled.uml
+09:30:00:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:28:15:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:28:35:  StarUML - Untitled.uml
+09:28:40:  Quick Dialog
+09:28:45:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:28:50:  StarUML - Untitled.uml
+09:28:55:  Quick Dialog
+09:29:00:  StarUML - Untitled.uml
+09:29:05:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:29:15:  Quick Dialog
+09:29:20:  StarUML - Untitled.uml
+09:29:30:  Quick Dialog
+09:29:35:  StarUML - Untitled.uml
+09:29:40:  Quick Dialog
+09:29:45:  StarUML - Untitled.uml
+09:29:50:  Quick Dialog
+09:29:55:  StarUML - Untitled.uml
+09:30:00:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:30:15:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:31:20:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+09:31:40:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:31:45:  Add Filter
+09:31:55:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:32:05:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+09:32:10:  D:\00-KE64\5\trunk\Middlewares\DcMotor\DcMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:32:15:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+09:32:25:  D:\00-KE64\5\trunk\Middlewares\DcMotor\DcMotor.h (trunk) - Sublime Text (UNREGISTERED)
+09:32:40:  D:\00-KE64\5\trunk\Middlewares\DcMotor\DcMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:32:50:  D:\00-KE64\5\trunk\Middlewares\DcMotor\DcMotor.h (trunk) - Sublime Text (UNREGISTERED)
+09:32:55:  D:\00-KE64\5\trunk\Middlewares\DcMotor\DcMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:33:00:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:34:00:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+09:34:05:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:34:10:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+09:34:15:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:34:30:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+09:34:35:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackMotor\MotorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+09:34:40:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+09:34:45:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+09:34:50:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:35:00:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+09:35:05:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackMotor\MotorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+09:35:10:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:35:15:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+09:35:20:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+09:35:35:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+09:36:05:  选择文件夹
+09:36:10:  untitled (00-06) - Sublime Text (UNREGISTERED)
+09:36:20:  untitled (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:36:30:  D:\00-06\1T2-Seclect-Aging\Applications\MotorCtrl\MotorCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:38:20:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+09:38:25:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:38:30:  StarUML - Untitled.uml
+09:38:40:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+09:38:45:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:39:00:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:39:05:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:39:10:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:39:20:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:39:35:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:39:40:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:40:05:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:40:10:  StarUML - Untitled.uml
+09:40:20:  Quick Dialog
+09:40:30:  StarUML - Untitled.uml
+09:40:55:  Quick Dialog
+09:41:15:  StarUML - Untitled.uml
+09:41:50:  Quick Dialog
+09:42:00:  StarUML - Untitled.uml
+09:42:15:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:43:20:  Quick Dialog
+09:43:30:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:43:45:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:45:00:  StarUML - Untitled.uml
+09:45:05:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:45:40:  StarUML - Untitled.uml
+09:45:45:  Quick Dialog
+09:45:50:  StarUML - Untitled.uml
+09:45:55:  Quick Dialog
+09:46:15:  StarUML - Untitled.uml
+09:46:30:  Quick Dialog
+09:46:35:  StarUML - Untitled.uml
+09:46:45:  Quick Dialog
+09:46:50:  StarUML - Untitled.uml
+09:46:55:  Quick Dialog
+09:47:00:  StarUML - Untitled.uml
+09:47:05:  Quick Dialog
+09:47:10:  StarUML - Untitled.uml
+09:47:15:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:47:25:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:48:00:  StarUML - Untitled.uml
+09:48:05:  Quick Dialog
+09:48:20:  StarUML - Untitled.uml
+09:48:25:  Quick Dialog
+09:48:30:  StarUML - Untitled.uml
+09:48:45:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:48:55:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:49:20:  StarUML - Untitled.uml
+09:49:25:  Quick Dialog
+09:49:40:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:49:50:  StarUML - Untitled.uml
+09:49:55:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:50:00:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+09:50:05:  StarUML - Untitled.uml
+09:50:20:  「开始」菜单
+09:50:25:  计算器
+09:50:35:  StarUML - Untitled.uml
+09:50:40:  Quick Dialog
+09:50:50:  StarUML - Untitled.uml
+09:50:55:  
+09:51:00:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:51:05:  Quick Dialog
+09:51:20:  StarUML - Untitled.uml
+09:51:25:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:51:30:  Quick Dialog
+09:51:45:  StarUML - Untitled.uml
+09:51:50:  Quick Dialog
+09:52:00:  StarUML - Untitled.uml
+09:52:10:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:52:40:  StarUML - Untitled.uml
+09:52:45:  Quick Dialog
+09:52:50:  StarUML - Untitled.uml
+09:53:10:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:53:15:  StarUML - Untitled.uml
+09:53:30:  固件集成测试方案
+09:53:35:  新标签页 - Google Chrome
+09:53:40:  请停用以开发者模式运行的扩展程序
+09:53:45:  百度一下，你就知道 - Google Chrome
+09:53:55:  
+09:54:00:  staruml怎么画括号_百度搜索 - Google Chrome
+09:54:10:  StarUML画类图 - 简书 - Google Chrome
+09:54:25:  staruml怎么画括号_百度搜索 - Google Chrome
+09:54:35:  StarUML - Untitled.uml
+09:56:21:  Quick Dialog
+09:56:26:  StarUML - Untitled.uml
+09:57:06:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:57:21:  
+09:57:26:  计算器
+09:57:36:  StarUML - Untitled.uml
+09:57:41:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:57:51:  StarUML - Untitled.uml
+09:58:11:  Quick Dialog
+09:58:21:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:58:31:  计算器
+09:58:41:  Quick Dialog
+09:58:46:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:58:56:  计算器
+09:59:06:  StarUML - Untitled.uml
+09:59:21:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:59:26:  计算器
+09:59:31:  StarUML - Untitled.uml
+09:59:36:  Quick Dialog
+09:59:41:  StarUML - Untitled.uml
+09:59:51:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:59:56:  计算器
+10:00:01:  Quick Dialog
+09:58:11:  Quick Dialog
+09:58:21:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:58:31:  计算器
+09:58:41:  Quick Dialog
+09:58:46:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:58:56:  计算器
+09:59:06:  StarUML - Untitled.uml
+09:59:21:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:59:26:  计算器
+09:59:31:  StarUML - Untitled.uml
+09:59:36:  Quick Dialog
+09:59:41:  StarUML - Untitled.uml
+09:59:51:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+09:59:56:  计算器
+10:00:01:  Quick Dialog
+10:00:06:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:00:11:  Quick Dialog
+10:00:16:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:00:21:  StarUML - Untitled.uml
+10:00:26:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:00:31:  计算器
+10:00:46:  StarUML - Untitled.uml
+10:00:56:  计算器
+10:01:06:  StarUML - Untitled.uml
+10:02:26:  计算器
+10:02:56:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:03:11:  计算器
+10:03:26:  StarUML - Untitled.uml
+10:03:36:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:03:41:  计算器
+10:03:46:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:03:51:  计算器
+10:03:56:  Quick Dialog
+10:04:01:  StarUML - Untitled.uml
+10:04:26:  Quick Dialog
+10:04:31:  StarUML - Untitled.uml
+10:06:46:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:07:11:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:07:36:  StarUML - Untitled.uml
+10:07:41:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:08:01:  StarUML - Untitled.uml
+10:08:06:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:08:21:  StarUML - Untitled.uml
+10:08:31:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:08:41:  StarUML - Untitled.uml
+10:08:46:  K64_0000_20200410092027-UP-DOWM
+10:08:51:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:08:56:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:10:01:  StarUML - Untitled.uml
+10:11:12:  Quick Dialog
+10:11:32:  StarUML - Untitled.uml
+10:11:47:  Error
+10:11:52:  StarUML - Untitled.uml
+10:13:12:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:13:27:  计算器
+10:13:37:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:14:07:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:15:12:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:15:17:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:16:12:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:16:37:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:17:17:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:17:37:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:18:17:  StarUML - Untitled.uml
+10:18:22:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:18:27:  StarUML - Untitled.uml
+10:18:37:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:19:17:  StarUML - Untitled.uml
+10:19:22:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:19:32:  StarUML - Untitled.uml
+10:19:37:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:19:57:  StarUML - Untitled.uml
+10:20:02:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:20:37:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:20:52:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:22:07:  StarUML - Untitled.uml
+10:22:37:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:23:17:  StarUML - Untitled.uml
+10:23:37:  
+10:23:42:  StarUML - Untitled.uml
+10:24:17:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:26:42:  StarUML - Untitled.uml
+10:27:12:  便签条
+10:27:17:  
+10:27:22:  固件设计中心
+10:27:42:  
+10:28:42:  StarUML - Untitled.uml
+10:28:42:  StarUML - Untitled.uml
+10:30:12:  
+10:30:17:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:35:27:  D:\00-KE64\5\trunk\Applications\FlowControl\Plate\PlateModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:35:32:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:36:52:  D:\00-KE64\5\trunk\Applications\Initialization\Initial.h (trunk) - Sublime Text (UNREGISTERED)
+10:36:57:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:38:17:  D:\00-KE64\5\trunk\Applications\Initialization\Initial.c (trunk) - Sublime Text (UNREGISTERED)
+10:38:22:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:38:27:  D:\00-KE64\5\trunk\Applications\Initialization\Initial.c (trunk) - Sublime Text (UNREGISTERED)
+10:38:47:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:42:22:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:42:27:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:42:32:  Edit Filter
+10:42:37:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:48:02:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:49:12:  StarUML - Untitled.uml
+10:49:17:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:49:22:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:50:37:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:50:47:  计算器
+10:51:17:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:51:47:  D:\00-KE64\5\trunk\Applications\Initialization\Initial.c (trunk) - Sublime Text (UNREGISTERED)
+10:51:52:  D:\00-KE64\5\trunk\Applications\FunctionApp\EepHisApp\EepromConfig.h (trunk) - Sublime Text (UNREGISTERED)
+10:51:57:  TCR调测工具 V3.36
+10:52:02:  读写ERROM
+10:52:12:  计算器
+10:52:17:  读写ERROM
+10:52:27:  TCR调测工具 V3.36
+10:52:32:  K64_0000_20200410092135-DOWM-UP
+10:52:37:  删除多个项目
+10:52:42:  取款
+10:52:47:  TCR调测工具 V3.36
+10:53:52:  取款
+10:53:57:  TCR调测工具 V3.36
+10:54:22:  读写ERROM
+10:54:47:  
+10:54:52:  D:\00-KE64\5\trunk\Applications\FunctionApp\EepHisApp\EepromConfig.h (trunk) - Sublime Text (UNREGISTERED)
+10:55:02:  读写ERROM
+10:55:07:  TCR调测工具 V3.36
+10:55:27:  读写ERROM
+10:55:37:  TCR调测工具 V3.36
+10:55:52:  取款
+10:55:57:  TCR调测工具 V3.36
+10:56:27:  20200410
+10:56:57:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:57:02:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:57:07:  K64-_0000_20200410105555.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:57:42:  计算器
+10:57:47:  K64-_0000_20200410105555.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:57:52:  计算器
+10:58:07:  D:\00-06\1T2-Seclect-Aging\Applications\MotorCtrl\MotorCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:58:12:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:58:57:  K64-_0000_20200410105555.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:59:02:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:12:  K64-_0000_20200410105555.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:59:22:  
+10:59:27:  20200410
+10:59:32:  K64_0000_20200410092027-UP-DOWM
+10:59:37:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:00:02:  计算器
+10:58:07:  D:\00-06\1T2-Seclect-Aging\Applications\MotorCtrl\MotorCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:58:12:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:58:57:  K64-_0000_20200410105555.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:59:02:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:12:  K64-_0000_20200410105555.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+10:59:22:  
+10:59:27:  20200410
+10:59:32:  K64_0000_20200410092027-UP-DOWM
+10:59:37:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:00:02:  计算器
+11:00:17:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:00:57:  K64_0000_20200410105555.log - 记事本
+11:01:02:  K64_0000_20200410105555
+11:01:07:  K64-_0000_20200410105555.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:02:07:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+11:02:12:  [No file loaded] - K64状态机分析2.tat - TextAnalysisTool.NET
+11:02:17:  20200410
+11:02:22:  K64_0000_20200410092027-UP-DOWM
+11:02:27:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:02:32:  K64-_0000_20200410105555.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:02:37:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:02:52:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:02:57:  Add Filter
+11:03:07:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:03:22:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:03:27:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:03:32:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:04:22:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:04:27:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:05:02:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:05:17:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:05:22:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:05:32:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:05:42:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:05:47:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:05:52:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:06:27:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:06:32:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:06:42:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:07:02:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:07:12:  
+11:07:27:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:07:37:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:07:42:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:07:47:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:08:02:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:08:27:  D:\00-KE64\5\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.h (trunk) - Sublime Text (UNREGISTERED)
+11:08:32:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:08:47:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:09:02:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:09:12:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:10:22:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:10:32:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:10:52:  
+11:10:57:  K64_0000_20200410092135-DOWM-UP
+11:11:02:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:11:12:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:11:22:  StarUML - Untitled.uml
+11:11:27:  DRB现有问题总结20200319.xls  [受保护的视图] - Excel
+11:11:32:  D:\00-06\1T2-Seclect-Aging\Applications\MotorCtrl\MotorCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:11:42:  
+11:13:42:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:13:47:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:13:57:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:14:02:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:14:52:  固件设计中心
+11:14:57:  
+11:16:32:  「开始」菜单
+11:16:37:  BTCRTestTool (2) 属性
+11:16:42:  「开始」菜单
+11:16:47:  桌面整理
+11:16:57:  Microsoft Excel
+11:17:02:  
+11:17:17:  Microsoft Excel
+11:17:22:  DRB托板准备时间.xlsx - Excel
+11:17:57:  StarUML
+11:18:02:  DRB托板准备时间.xlsx - Excel
+11:18:07:  StarUML - Untitled.uml
+11:18:17:  DRB托板准备时间.xlsx - Excel
+11:18:22:  
+11:18:32:  K64_0000_20200410092027-UP-DOWM
+11:18:42:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:19:12:  DRB托板准备时间.xlsx - Excel
+11:19:32:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:19:37:  DRB托板准备时间.xlsx - Excel
+11:20:07:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:20:12:  DRB托板准备时间.xlsx - Excel
+11:20:27:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:20:37:  
+11:20:42:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:20:57:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:21:07:  D:\00-06\1T2-Seclect-Aging\Applications\MotorCtrl\MotorCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:21:12:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:21:32:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:21:47:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:21:57:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:22:02:  计算器
+11:22:17:  DRB托板准备时间.xlsx - Excel
+11:22:47:  D:\00-06\1T2-Seclect-Aging\Applications\MotorCtrl\MotorCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:22:52:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:22:57:  DRB托板准备时间.xlsx - Excel
+11:23:12:  计算器
+11:23:27:  DRB托板准备时间.xlsx - Excel
+11:25:02:  K64_0000_20200410092027-UP-DOWM
+11:25:07:  LOG
+11:25:12:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:25:17:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:25:27:  计算器
+11:25:32:  DRB托板准备时间.xlsx - Excel
+11:25:37:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:25:42:  DRB托板准备时间.xlsx - Excel
+11:25:47:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:25:57:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:26:22:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:28:32:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:29:02:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:29:32:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:29:42:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:29:47:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:28:32:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:29:02:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:29:32:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:29:42:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:29:47:  D:\00-KE64\5\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:30:17:  
+11:30:32:  DRB托板准备时间.xlsx - Excel
+11:30:47:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:30:52:  DRB托板准备时间.xlsx - Excel
+11:31:02:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:31:07:  计算器
+11:31:27:  DRB托板准备时间.xlsx - Excel
+11:31:32:  
+11:31:37:  DRB托板准备时间.xlsx - Excel
+11:31:57:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:32:07:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:32:12:  DRB托板准备时间.xlsx - Excel
+11:32:32:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:32:37:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:32:47:  计算器
+11:32:57:  DRB托板准备时间.xlsx - Excel
+11:33:17:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:33:22:  K64-_0000_20200410105555.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:33:27:  计算器
+11:33:32:  DRB托板准备时间.xlsx - Excel
+11:34:07:  K64-_0000_20200410092135-DOWM-UP.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:34:17:  计算器
+11:34:32:  
+11:34:37:  K64_0000_20200410092027-UP-DOWM
+11:34:42:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:34:47:  计算器
+11:34:52:  K64-_0000_20200410092027-UP-DOWM.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+11:34:57:  计算器
+11:35:02:  DRB托板准备时间.xlsx - Excel
+11:35:12:  设置单元格格式
+11:35:17:  
+11:35:22:  设置单元格格式
+11:35:27:  计算器
+11:35:37:  DRB托板准备时间.xlsx - Excel
+11:35:47:  设置单元格格式
+11:35:52:  
+11:35:57:  未命名 - 写邮件
+11:36:02:  QQMAIL_CAMERA_DESKVIEW
+11:36:07:  未命名 - 写邮件
+11:36:12:  DRB托板准备时间.xlsx - Excel
+11:36:22:  未命名 - 写邮件
+11:36:32:  QQMAIL_CAMERA_DESKVIEW
+11:36:37:  未命名 - 写邮件
+11:36:52:  信息
+11:36:57:  未命名 - 写邮件   11:36:53 已保存
+11:37:02:  托板准备时间 - 写邮件   11:36:53 已保存
+11:37:07:  DRB托板准备时间.xlsx - Excel

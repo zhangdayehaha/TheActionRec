@@ -1,0 +1,1321 @@
+08:05:55:  Box_1__0000_20210107142136.log - DRB.tat* - TextAnalysisTool.NET
+08:16:35:  新建文件夹.rar
+08:26:16:  fenxi
+08:26:21:  普通取款上腔10元普通取款第61张报钞箱口 500ms纸币未进入 返回码0X085E0900
+08:26:31:  20210107
+08:26:41:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:27:41:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:28:11:  本地磁盘 (D:)
+08:28:31:  本地磁盘 (E:)
+08:28:36:  D:\00-06\meger\Applications\ErrCode\ErrCode.h (meger) - Sublime Text (UNREGISTERED)
+08:28:41:  E:\213815.txt (meger) - Sublime Text (UNREGISTERED)
+08:28:46:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:28:11:  本地磁盘 (D:)
+08:28:31:  本地磁盘 (E:)
+08:28:36:  D:\00-06\meger\Applications\ErrCode\ErrCode.h (meger) - Sublime Text (UNREGISTERED)
+08:28:41:  E:\213815.txt (meger) - Sublime Text (UNREGISTERED)
+08:28:46:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:30:46:  CRS调测工具（研发版）V1.0.2.1
+08:31:01:  发送指令到K18
+08:31:26:  CRS调测工具（研发版）V1.0.2.1
+08:31:31:  发送指令到K18
+08:31:56:  CRS调测工具（研发版）V1.0.2.1
+08:32:21:  Decode
+08:32:31:  LOG
+08:32:36:  Box_3__BTCR-1100200600510420_20210107183121.log - DRB.tat* - TextAnalysisTool.NET
+08:32:46:  K64_BTCR-1100200600510420_20210107182542
+08:32:51:  Box_3__BTCR-1100200600510420_20210107182542.log - DRB.tat* - TextAnalysisTool.NET
+08:33:41:  新建文件夹.rar
+08:33:46:  Box_3__BTCR-1100200600510420_20210107182542.log - DRB.tat* - TextAnalysisTool.NET
+08:34:06:  新建文件夹.rar
+08:34:26:  K64_BTCR-1100200600510420_20210107182542
+08:34:31:  K64_BTCR-1100200600510420_20210107182434
+08:34:36:  Box_3__BTCR-1100200600510420_20210107182434.log - DRB.tat* - TextAnalysisTool.NET
+08:35:21:  K64_BTCR-1100200600510420_20210107182300
+08:35:26:  Box_3__BTCR-1100200600510420_20210107182300.log - DRB.tat* - TextAnalysisTool.NET
+08:35:36:  LOG
+08:35:41:  Box_3__BTCR-1100200600510420_20210107182300.log - DRB.tat* - TextAnalysisTool.NET
+08:36:11:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:36:21:  E:\213815.txt (meger) - Sublime Text (UNREGISTERED)
+08:36:26:  D:\00-06\meger\Applications\ErrCode\ErrCode.h (meger) - Sublime Text (UNREGISTERED)
+08:36:31:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+08:36:36:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+08:39:46:  ● Track.c - DRB-NearFull - Visual Studio Code [管理员]
+08:42:31:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+08:42:36:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+08:42:41:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+08:42:46:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+08:43:06:  fenxi
+08:43:11:  回收
+08:43:16:  正在从 TCRLog(1).zip 中提取
+08:43:21:  20210107
+08:43:26:  Decode
+08:43:31:  K64_BTCR-1100200700210431_20210107143156.log - DRB.tat* - TextAnalysisTool.NET
+08:44:01:  新建文件夹.rar
+08:44:21:  K64_BTCR-1100200700210431_20210107143156.log - DRB.tat* - TextAnalysisTool.NET
+08:44:26:  fenxi
+08:44:36:  新建文件夹
+08:44:41:  20210107
+08:44:46:  LOG
+08:44:51:  K64_BTCR-1100200700210431_20210107143156.log - DRB.tat* - TextAnalysisTool.NET
+08:44:56:  Box_3__BTCR-1100200600510420_20210107183121.log - DRB.tat* - TextAnalysisTool.NET
+08:45:01:  LOG
+08:44:21:  K64_BTCR-1100200700210431_20210107143156.log - DRB.tat* - TextAnalysisTool.NET
+08:44:26:  fenxi
+08:44:36:  新建文件夹
+08:44:41:  20210107
+08:44:46:  LOG
+08:44:51:  K64_BTCR-1100200700210431_20210107143156.log - DRB.tat* - TextAnalysisTool.NET
+08:44:56:  Box_3__BTCR-1100200600510420_20210107183121.log - DRB.tat* - TextAnalysisTool.NET
+08:45:01:  LOG
+08:45:06:  Box_3__BTCR-1100200600510420_20210107182542.log - DRB.tat* - TextAnalysisTool.NET
+08:46:36:  普通取款上腔10元普通取款第61张报钞箱口 500ms纸币未进入 返回码0X085E0900
+08:46:41:  TCRLog
+08:46:46:  Decode
+08:46:51:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:47:06:  Decode
+08:47:16:  K18_BTCR-1100200700210431_20210107083251.log - DRB.tat* - TextAnalysisTool.NET
+08:47:21:  K64_BTCR-1100200700210431_20210107143156.log - DRB.tat* - TextAnalysisTool.NET
+08:47:26:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:47:46:  设置单元格格式
+08:47:51:  查找和替换
+08:48:06:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+08:48:21:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+08:48:36:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+08:49:01:  D:\00-KE64\10\Applications\Initialization\Initial.c (10) - Sublime Text (UNREGISTERED)
+08:49:06:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+08:49:16:  「开始」菜单
+08:49:26:  桌面整理
+08:49:36:  「开始」菜单
+08:49:51:  K64_BTCR-1100200700210431_20210107143156.log - DRB.tat* - TextAnalysisTool.NET
+08:50:41:  20210107
+08:51:06:  K64_BTCR-1100200700210431_20210107143156.log - DRB.tat* - TextAnalysisTool.NET
+08:51:16:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:51:26:  K64_BTCR-1100200700210431_20210107143156.log - DRB.tat* - TextAnalysisTool.NET
+08:51:56:  D:\00-06\meger\Applications\ErrCode\ErrCode.h (meger) - Sublime Text (UNREGISTERED)
+08:52:01:  D:\00-06\meger\Applications\Instruction\InstrHandle.c (meger) - Sublime Text (UNREGISTERED)
+08:52:06:  D:\00-06\meger\Applications\Instruction\InstrExecute.c (meger) - Sublime Text (UNREGISTERED)
+08:52:21:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+08:52:31:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+08:52:36:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.h (10) - Sublime Text (UNREGISTERED)
+08:52:46:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+08:52:56:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+08:53:01:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+08:53:21:  K64_BTCR-1100200700210431_20210107143156.log - DRB.tat* - TextAnalysisTool.NET
+08:53:31:  Add Filter
+08:53:46:  K64_BTCR-1100200700210431_20210107143156.log - DRB.tat* - TextAnalysisTool.NET
+08:54:31:  Decode
+08:54:41:  K64_BTCR-1100200700210431_20210107143156.log - DRB.tat* - TextAnalysisTool.NET
+08:55:26:  荆文波
+08:56:36:  K64_BTCR-1100200700210431_20210107083247.log - DRB.tat* - TextAnalysisTool.NET
+08:56:51:  锁屏状态
+08:56:56:  K64_BTCR-1100200700210431_20210107083251.log - DRB.tat* - TextAnalysisTool.NET
+08:57:06:  计算器
+08:57:11:  K64_BTCR-1100200700210431_20210107083251.log - DRB.tat* - TextAnalysisTool.NET
+08:57:26:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+08:57:51:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+08:58:06:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+08:58:11:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+08:58:31:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+08:58:36:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+08:58:41:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+08:59:06:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+08:59:11:  K64_BTCR-1100200700210431_20210107083251.log - DRB.tat* - TextAnalysisTool.NET
+08:59:36:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+08:58:06:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+08:58:11:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+08:58:31:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+08:58:36:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+08:58:41:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+08:59:06:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+08:59:11:  K64_BTCR-1100200700210431_20210107083251.log - DRB.tat* - TextAnalysisTool.NET
+08:59:36:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:00:06:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+09:00:11:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:00:46:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+09:00:51:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:01:06:  D:\00-KE64\10\Applications\BvComm\bn_value.h (10) - Sublime Text (UNREGISTERED)
+09:01:11:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:01:21:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+09:01:26:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:01:36:  K64_BTCR-1100200700210431_20210107083251.log - DRB.tat* - TextAnalysisTool.NET
+09:01:51:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:02:06:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:02:11:  D:\00-KE64\10\Applications\BvComm\bn_value.h (10) - Sublime Text (UNREGISTERED)
+09:02:16:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+09:02:21:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.h (10) - Sublime Text (UNREGISTERED)
+09:02:26:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:02:31:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:03:31:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+09:03:51:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:03:56:  K64_BTCR-1100200700210431_20210107083251.log - DRB.tat* - TextAnalysisTool.NET
+09:04:01:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:04:06:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+09:04:11:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:04:21:  K64_BTCR-1100200700210431_20210107083251.log - DRB.tat* - TextAnalysisTool.NET
+09:04:31:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:04:41:  K64_BTCR-1100200700210431_20210107083251.log - DRB.tat* - TextAnalysisTool.NET
+09:05:26:  锁屏状态
+09:05:31:  K64_BTCR-1100200700210431_20210107095319.log - DRB.tat* - TextAnalysisTool.NET
+09:07:21:  TextAnalysisTool.NET
+09:07:26:  锁屏状态
+09:07:31:  K64_BTCR-1100200700210431_20210107083247.log - [No filter file] - TextAnalysisTool.NET
+09:07:36:  锁屏状态
+09:07:41:  K64_BTCR-1100200700210431_20210107083251.log - [No filter file] - TextAnalysisTool.NET
+09:07:46:  K64_BTCR-1100200700210431_20210107083251.log - [No filter file]* - TextAnalysisTool.NET
+09:08:21:  20210106
+09:08:26:  Decode
+09:08:31:  K64_BTCR-1100200700210431_20210107083251.log - [No filter file]* - TextAnalysisTool.NET
+09:08:41:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:09:06:  20210106
+09:09:11:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:09:21:  Decode
+09:09:26:  K64_BTCR-1100200600210331_20201221083941.log - [No filter file]* - TextAnalysisTool.NET
+09:10:16:  K64_BTCR-1100200600210331_20201221083946.log - [No filter file]* - TextAnalysisTool.NET
+09:10:21:  Edit Filter
+09:10:26:  K64_BTCR-1100200600210331_20201221083946.log - [No filter file]* - TextAnalysisTool.NET
+09:10:31:  Decode
+09:10:36:  K64_BTCR-1100200600210331_20201221140133.log - [No filter file]* - TextAnalysisTool.NET
+09:10:41:  20210106
+09:10:46:  Decode
+09:11:01:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:11:06:  20201221
+09:11:11:  K64_BTCR-1100200600210331_20201221140133.log - [No filter file]* - TextAnalysisTool.NET
+09:11:21:  K64_BTCR-1100200600210331_20201221140138.log - [No filter file]* - TextAnalysisTool.NET
+09:11:26:  20201221
+09:11:31:  20210106
+09:11:36:  K64_BTCR-1100200700210431_20210106172215.log - [No filter file]* - TextAnalysisTool.NET
+09:11:41:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:12:06:  20201221
+09:12:11:  Decode
+09:12:16:  K64_BTCR-1100200600210331_20201221140138.log - [No filter file]* - TextAnalysisTool.NET
+09:12:21:  K64_BTCR-1100200600210331_20201221140133.log - [No filter file]* - TextAnalysisTool.NET
+09:21:31:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:21:51:  K64_BTCR-1100200600210331_20201221140133.log - [No filter file]* - TextAnalysisTool.NET
+09:22:16:  K64_0003_20210107113839
+09:22:21:  LOG
+09:22:26:  荆文波
+09:22:31:  Decode
+09:22:36:  本地磁盘 (D:)
+09:22:41:  20210107
+09:22:46:  TCRControlCmdDLL
+09:22:51:  Decode
+09:22:56:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:23:01:  K64_BTCR-1100200700210431_20210106124859.log - [No filter file]* - TextAnalysisTool.NET
+09:23:06:  K64_BTCR-1100200700210431_20210106131205.log - [No filter file]* - TextAnalysisTool.NET
+09:23:41:  Decode
+09:23:51:  K64_BTCR-1100200700210431_20210106124859.log - [No filter file]* - TextAnalysisTool.NET
+09:23:56:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:24:01:  K64_BTCR-1100200700210431_20210106163929.log - [No filter file]* - TextAnalysisTool.NET
+09:24:06:  Decode
+09:24:11:  20201221
+09:24:16:  K64_BTCR-1100200600210331_20201221140133.log - [No filter file]* - TextAnalysisTool.NET
+09:24:21:  K64_BTCR-1100200600210331_20201221140138.log - [No filter file]* - TextAnalysisTool.NET
+09:24:26:  TCRControlCmdDLL
+09:24:31:  20210106
+09:24:36:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:24:41:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+09:24:56:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+09:25:01:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+09:25:56:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+09:26:01:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+09:33:16:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:34:01:  LOG
+09:34:11:  Decode
+09:34:16:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:35:11:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:35:21:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:35:36:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:35:46:  Add Filter
+09:35:51:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:35:56:  D:\00-KE64\10\Applications\InstrExp\InstrReturn.c (10) - Sublime Text (UNREGISTERED)
+09:36:21:  荆文波
+09:36:31:  跳转列表
+09:36:36:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:38:32:  荆文波
+09:38:37:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:38:42:  于斌1
+09:38:57:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:39:02:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+09:39:07:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:39:12:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:39:32:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:39:37:  于斌1
+09:39:42:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:40:27:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:40:32:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.h (10) - Sublime Text (UNREGISTERED)
+09:40:47:  于斌1
+09:40:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:41:12:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:41:17:  Add Filter
+09:41:32:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:41:37:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:41:47:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:42:22:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+09:46:17:  本地磁盘 (E:)
+09:46:22:  fenxi
+09:46:27:  港币10元居左混合面向大额取款报钞箱口 500ms纸币未进入 返回码0X075E0900
+09:46:32:  手压出钞效果
+09:46:37:  Decode
+09:46:42:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:46:47:  LOG
+09:47:02:  【补充通知】考核指标项调整指导操作
+09:47:57:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+09:49:42:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:49:52:  LOG
+09:50:02:  fenxi
+09:50:07:  新建文件夹 (2)
+09:50:22:  手压出钞效果
+09:50:27:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:50:32:  Decode
+09:50:37:  Box_1__BTCR-1100200600510420_20210108091944.log - [No filter file]* - TextAnalysisTool.NET
+09:50:52:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+09:51:32:  Box_1__BTCR-1100200600510420_20210108091944.log - [No filter file]* - TextAnalysisTool.NET
+09:51:57:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+09:52:32:  K64_BTCR-1100200600510420_20210108091944
+09:52:37:  5元1元各300张随机混合，执行大额存款报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B
+09:52:42:  TCRControlCmdDLL
+09:52:52:  计算机
+09:52:57:  06- 刘建生
+09:53:02:  工具
+09:53:07:  TCRControlCmdDLL
+09:53:12:  BTCR日志解析工具V1.00.4
+09:53:22:  TCRControlCmdDLL
+09:53:27:  BTCR日志解析工具V1.00.4
+09:53:47:  TCRControlCmdDLL
+09:53:57:  BTCR日志解析工具（研发版）V1.00.30
+09:54:22:  锁屏状态
+09:54:27:  BTCR日志解析工具（研发版）V1.00.30
+09:54:42:  TCRControlCmdDLL
+09:54:47:  LogExpert - D:\fenxi\5元1元各300张随机混合，执行大额存款报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B\TCRLog\TCRControlCmdDLL\TCRControlCmdDLL_20210106_000.log
+09:54:52:  BTCR日志解析工具（研发版）V1.00.30
+09:55:02:  TCRControlCmdDLL
+09:55:07:  BTCR日志解析工具（研发版）V1.00.30
+09:55:22:  20210106
+09:55:37:  5元1元各300张随机混合，执行大额存款报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B
+09:57:52:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+10:02:17:  TCRControlCmdDLL
+10:02:22:  Decode
+10:02:27:  K64_BTCR-1100200700210431_20210107104032.log - [No filter file]* - TextAnalysisTool.NET
+10:03:07:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:05:02:  Decode
+10:05:07:  TCRControlCmdDLL
+10:05:12:  BTCR日志解析工具（研发版）V1.00.30
+10:05:22:  账务查询
+10:05:27:  BTCR日志解析工具（研发版）V1.00.30
+10:05:42:  钞票视图
+10:05:52:  BTCR日志解析工具（研发版）V1.00.30
+10:06:02:  BTCR日志解析工具V1.00.30
+10:06:07:  TCRControlCmdDLL
+10:06:12:  BTCR日志解析工具（研发版）V1.00.30
+10:06:37:  20201221
+10:06:42:  fenxi
+10:06:47:  BTCR日志解析工具（研发版）V1.00.30
+10:06:57:  LogAnalysisTool
+10:07:02:  BTCR日志解析工具（研发版）V1.00.30
+10:07:07:  锁屏状态
+10:08:32:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+10:08:37:  D:\00-KE64\10\Applications\BvComm\BvInstrRecv.c (10) - Sublime Text (UNREGISTERED)
+10:08:42:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+10:09:02:  D:\00-KE64\10\Applications\InstrExp\InstrSUBProcess.c (10) - Sublime Text (UNREGISTERED)
+10:10:27:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+10:10:37:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:10:47:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision (未响应)
+10:10:57:  D:\00-KE64\10\Applications\InstrExp\InstrSUBProcess.c (10) - Sublime Text (UNREGISTERED)
+10:11:17:  00-KE64
+10:11:27:  10
+10:11:32:  μVision
+10:11:42:  锁屏状态
+10:11:47:  中国银行DR钞箱测试问题
+10:11:52:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:12:02:  Project
+10:12:07:  D:\00-KE64\10\Tools\CreateJK.exe
+10:12:12:  00-KE64
+10:12:22:  检出
+10:12:27:   - 版本库浏览器 - TortoiseSVN
+10:12:32:  锁屏状态
+10:12:37:   - 版本库浏览器 - TortoiseSVN
+10:12:57:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K64_MA.../BR-0-TCR-Defect - 日志信息 - TortoiseSVN
+10:13:02:   - 版本库浏览器 - TortoiseSVN
+10:13:12:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K64_MA.../BR-1-BNE-R1100M - 日志信息 - TortoiseSVN
+10:13:17:   - 版本库浏览器 - TortoiseSVN
+10:13:22:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K64_MA.../BR-5-TCR-FIRM94 - 日志信息 - TortoiseSVN
+10:13:27:   - 版本库浏览器 - TortoiseSVN
+10:13:32:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K64_MAIN.../BR-5-TCR-TEMP - 日志信息 - TortoiseSVN
+10:13:37:   - 版本库浏览器 - TortoiseSVN
+10:13:47:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K64_MAIN/branches - 日志信息 - TortoiseSVN
+10:14:02:   - 版本库浏览器 - TortoiseSVN
+10:14:07:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K64_MA.../BR-5-TCR-FIRM94 - 日志信息 - TortoiseSVN
+10:14:22:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K64_MAIN.../BR-5-TCR-TEMP - 日志信息 - TortoiseSVN
+10:14:27:   - 版本库浏览器 - TortoiseSVN
+10:14:32:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K64_MA.../BR-5-TCR-FIRM94 - 日志信息 - TortoiseSVN
+10:14:37:   - 版本库浏览器 - TortoiseSVN
+10:14:42:  检出
+10:14:47:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K64_MA.../BR-5-TCR-FIRM94 - 日志信息 - TortoiseSVN
+10:14:52:  检出
+10:14:57:  荆文波
+10:14:07:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K64_MA.../BR-5-TCR-FIRM94 - 日志信息 - TortoiseSVN
+10:14:22:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K64_MAIN.../BR-5-TCR-TEMP - 日志信息 - TortoiseSVN
+10:14:27:   - 版本库浏览器 - TortoiseSVN
+10:14:32:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K64_MA.../BR-5-TCR-FIRM94 - 日志信息 - TortoiseSVN
+10:14:37:   - 版本库浏览器 - TortoiseSVN
+10:14:42:  检出
+10:14:47:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K64_MA.../BR-5-TCR-FIRM94 - 日志信息 - TortoiseSVN
+10:14:52:  检出
+10:14:57:  荆文波
+10:15:07:  BR-5-TCR-FIRM94 - 检出 - TortoiseSVN
+10:15:17:  检出 完成！
+10:15:27:  94d
+10:15:32:  untitled - Sublime Text (UNREGISTERED)
+10:15:37:  Project
+10:15:42:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:15:52:  选择文件夹
+10:15:57:  untitled (94d) - Sublime Text (UNREGISTERED)
+10:16:07:  D:\00-KE64\94d\Applications\CanComm\CashBoxComm\CashBoxComm.h (94d) - Sublime Text (UNREGISTERED)
+10:16:12:  D:\00-KE64\94d\Applications\CanComm\CashBoxComm\CashBoxCmd.c (94d) - Sublime Text (UNREGISTERED)
+10:16:17:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+10:18:07:  CRS调测工具（研发版）V1.0.2.1
+10:18:54:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+10:21:17:  D:\00-KE64\94d\Tools\CreateJK.exe
+10:21:22:  Tools
+10:21:32:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+10:21:37:  Tools
+10:21:42:  锁屏状态
+10:21:47:  TCR调测工具 V3.36
+10:21:57:  log
+10:22:02:  20210108
+10:22:07:  打开
+10:22:17:  TCR调测工具 V3.36
+10:22:42:  20210108
+10:22:57:  TCR调测工具 V3.36
+10:23:07:  Decode
+10:23:12:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:23:22:  Decode
+10:23:32:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:23:42:  Decode
+10:23:47:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:23:52:  20210108
+10:24:02:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+10:24:37:  D:\00-KE64\94d\Applications\BvComm\BvInstrSend.c (94d) - Sublime Text (UNREGISTERED)
+10:24:42:  D:\00-KE64\94d\Applications\FlowControl\FlowControl.c (94d) - Sublime Text (UNREGISTERED)
+10:24:52:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+10:25:12:  20210108
+10:25:17:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:25:27:  TCR调测工具 V3.36
+10:25:32:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+10:25:42:  Tools
+10:25:52:  TCR调测工具 V3.36
+10:26:12:  BTCRTestTool
+10:27:27:  TCR调测工具 V3.36
+10:27:37:  20210108
+10:28:42:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:29:47:  20210108
+10:28:42:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:29:47:  20210108
+10:30:12:  锁屏状态
+10:30:17:  TCR调测工具 V3.36
+10:31:07:  20210108
+10:31:12:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:31:22:  20210108
+10:31:27:  00-KE64
+10:31:32:  TortoiseMerge
+10:31:37:  GateModule.c - TortoiseMerge
+10:31:42:  94d
+10:31:47:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+10:31:57:  BTCRTestTool 属性
+10:32:02:  20210108
+10:32:07:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:32:12:  TCR调测工具 V3.36
+10:32:17:  20210108
+10:32:22:  Decode
+10:32:27:  TCR调测工具 V3.36
+10:32:32:  钞箱配置
+10:32:37:  20210108
+10:32:42:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:32:47:  TCR调测工具 V3.36
+10:32:52:  BTCRTestTool V3.36
+10:32:57:  20210108
+10:33:07:  TCR调测工具 V3.36
+10:33:12:  BTCRTestTool V3.36
+10:33:17:  20210108
+10:33:22:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:33:27:  TCR调测工具 V3.36
+10:33:32:  20210108
+10:33:37:  TCR调测工具 V3.36
+10:33:42:  20210108
+10:33:47:  Decode
+10:33:52:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:34:12:  Decode
+10:34:17:  94d
+10:34:22:  D:\00-KE64\94d - 日志信息 - TortoiseSVN
+10:34:27:  94d
+10:34:32:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:34:52:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+10:35:02:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:35:07:  94d
+10:35:12:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:35:27:  94d
+10:35:32:  fenxi
+10:35:37:  20201221
+10:35:42:  K64_BTCR-1100200600210331_20201221103057.log - [No filter file]* - TextAnalysisTool.NET
+10:36:22:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+10:36:47:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:37:07:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+10:37:17:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+10:37:22:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+10:37:27:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.h (94d) - Sublime Text (UNREGISTERED)
+10:37:42:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+10:44:37:  20201221
+10:44:42:  BTCRTestTool V3.36
+10:44:47:  20210108
+10:44:52:  TCR调测工具 V3.36
+10:44:57:  20210108
+10:45:02:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:44:37:  20201221
+10:44:42:  BTCRTestTool V3.36
+10:44:47:  20210108
+10:44:52:  TCR调测工具 V3.36
+10:44:57:  20210108
+10:45:02:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:45:12:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+10:45:22:  Decode
+10:45:27:  20210108
+10:45:32:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+10:46:07:  TCR调测工具 V3.36
+10:46:12:  20210108
+10:46:17:  Decode
+10:46:27:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:46:42:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+10:47:12:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+10:47:17:  20210108
+10:47:22:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:47:27:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+10:47:32:  Decode
+10:47:37:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+10:47:47:  TCR调测工具 V3.36
+10:47:52:  BTCRTestTool
+10:47:57:  20210108
+10:48:02:  Decode
+10:48:07:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:48:17:  Decode
+10:48:22:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:53:32:  Decode
+10:54:27:  fenxi
+10:54:32:  TCRControlCmdDLL
+10:54:37:  Decode
+10:54:42:  K64_BTCR-1100200700210431_20210106131205.log - [No filter file]* - TextAnalysisTool.NET
+10:54:57:  K64_BTCR-1100200700210431_20210106170639.log - [No filter file]* - TextAnalysisTool.NET
+10:55:07:  K64_BTCR-1100200700210431_20210106171130.log - [No filter file]* - TextAnalysisTool.NET
+10:56:02:  跳转列表
+10:56:07:  TCRControlCmdDLL
+10:56:12:  Decode
+10:56:17:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:56:37:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+10:56:42:  Decode
+10:56:47:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+10:57:27:  Decode
+10:57:32:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+10:57:42:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+10:59:47:  TCR调测工具 V3.36
+10:59:52:  Decode
+10:59:57:  20210108
+10:59:47:  TCR调测工具 V3.36
+10:59:52:  Decode
+10:59:57:  20210108
+11:00:12:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+11:00:32:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+11:00:37:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+11:00:42:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+11:01:17:  Decode
+11:01:22:  BTCRTestTool
+11:01:27:  TCR调测工具 V3.36
+11:01:32:  BTCRTestTool
+11:01:37:  20210108
+11:01:42:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+11:02:37:  CRSTestTool
+11:02:42:  TCR调测工具 V3.36
+11:02:47:  20210108
+11:02:52:  TCR调测工具 V3.36
+11:02:57:  20210108
+11:03:02:  K64_BTCR-1100190803000_20210108102151.log - [No filter file]* - TextAnalysisTool.NET
+11:03:07:  K64_BTCR-1100190803000_20210108110130.log - [No filter file]* - TextAnalysisTool.NET
+11:03:27:  TCR调测工具 V3.36
+11:03:32:  钞箱配置
+11:03:37:  TCR调测工具 V3.36
+11:03:42:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+11:03:47:  TCR调测工具 V3.36
+11:03:52:  BTCRTestTool
+11:03:57:  TCR调测工具 V3.36
+11:04:02:  钞箱配置
+11:04:08:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+11:04:13:  20210108
+11:04:18:  K64_BTCR-1100190803000_20210108110346.log - [No filter file]* - TextAnalysisTool.NET
+11:04:23:  K64_BTCR-1100190803000_20210108110130.log - [No filter file]* - TextAnalysisTool.NET
+11:04:33:  D:\00-KE64\94d\Applications\CanComm\CashBoxComm\CashBoxCmd.c (94d) - Sublime Text (UNREGISTERED)
+11:04:38:  D:\00-KE64\94d\Applications\FlowControl\TrackModule\GateModule.c (94d) - Sublime Text (UNREGISTERED)
+11:04:58:  K64_BTCR-1100190803000_20210108110130.log - [No filter file]* - TextAnalysisTool.NET
+11:05:13:  Decode
+11:05:18:  K64_BTCR-1100190803000_20210108110130.log - [No filter file]* - TextAnalysisTool.NET
+11:05:23:  K64_BTCR-1100190803000_20210108110346.log - [No filter file]* - TextAnalysisTool.NET
+11:05:28:  TCR调测工具 V3.36
+11:05:33:  BTCRTestTool
+11:05:43:  TCR调测工具 V3.36
+11:05:48:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+11:06:08:  K64_BTCR-1100190803000_20210108110346.log - [No filter file]* - TextAnalysisTool.NET
+11:06:18:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+11:06:23:  TCR调测工具 V3.36
+11:06:28:  Decode
+11:06:38:  K64_BTCR-1100200700210431_20210106171130.log - [No filter file]* - TextAnalysisTool.NET
+11:07:13:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+11:07:23:  20210108
+11:07:28:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+11:07:38:  K64_BTCR-1100200700210431_20210106171130.log - [No filter file]* - TextAnalysisTool.NET
+11:07:43:  20210108
+11:07:48:  TCR调测工具 V3.36
+11:07:58:  Decode
+11:08:03:  K64_BTCR-1100190803000_20210108110346.log - [No filter file]* - TextAnalysisTool.NET
+11:08:13:  TCR调测工具 V3.36
+11:08:28:  Decode
+11:08:33:  20210108
+11:08:43:  TCRControlCmdDLL
+11:08:48:  20210108
+11:08:58:  TCR调测工具 V3.36
+11:09:13:  20210108
+11:09:18:  TCR调测工具 V3.36
+11:09:38:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+11:10:03:  20210108
+11:10:08:  V1.003
+11:10:13:  TCR调测工具 V3.36
+11:10:33:  00-KE64
+11:10:38:  Project
+11:10:53:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+11:11:08:  TCR调测工具 V3.36
+11:11:33:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+11:11:43:  TCR调测工具 V3.36
+11:11:48:  20210108
+11:11:53:  BTCRTestTool
+11:11:58:  20210108
+11:12:03:  K64_BTCR-1100190803000_20210108111007.log - [No filter file]* - TextAnalysisTool.NET
+11:12:23:  TCR调测工具 V3.36
+11:12:28:  20210108
+11:13:03:  K64_BTCR-1100190803000_20210108111222.log - [No filter file]* - TextAnalysisTool.NET
+11:13:08:  Decode
+11:13:13:  K64_BTCR-1100190803000_20210108111007.log - [No filter file]* - TextAnalysisTool.NET
+11:13:18:  钞箱配置
+11:13:23:  TCR调测工具 V3.36
+11:13:28:  K64_BTCR-1100190803000_20210108111007.log - [No filter file]* - TextAnalysisTool.NET
+11:13:33:  Decode
+11:13:38:  K64_BTCR-1100190803000_20210108111222.log - [No filter file]* - TextAnalysisTool.NET
+11:15:08:  Edit Filter
+11:15:13:  K64_BTCR-1100190803000_20210108111222.log - [No filter file]* - TextAnalysisTool.NET
+11:15:43:  Add Filter
+11:15:53:  K64_BTCR-1100190803000_20210108111222.log - [No filter file]* - TextAnalysisTool.NET
+11:15:58:  K64_BTCR-1100190803000_20210108111007.log - [No filter file]* - TextAnalysisTool.NET
+11:16:53:  K64_BTCR-1100190803000_20210108111222.log - [No filter file]* - TextAnalysisTool.NET
+11:16:58:  TCR调测工具 V3.36
+11:17:18:  BTCRTestTool
+11:17:43:  TCR调测工具 V3.36
+11:18:18:  20210108
+11:18:23:  TCR调测工具 V3.36
+11:19:08:  20210108
+11:19:13:  K64_BTCR-1100190803000_20210108111222.log - [No filter file]* - TextAnalysisTool.NET
+11:19:18:  K64_BTCR-1100190803000_20210108111821.log - [No filter file]* - TextAnalysisTool.NET
+11:19:33:  TCR调测工具 V3.36
+11:20:18:  20210108
+11:20:28:  Decode
+11:20:33:  K64_BTCR-1100190803000_20210108111821.log - [No filter file]* - TextAnalysisTool.NET
+11:20:38:  K64_BTCR-1100190803000_20210108111936.log - [No filter file]* - TextAnalysisTool.NET
+11:20:48:  TCR调测工具 V3.36
+11:20:53:  Decode
+11:21:03:  20210108
+11:21:18:  Decode
+11:21:23:  K64_BTCR-1100190803000_20210108111936.log - [No filter file]* - TextAnalysisTool.NET
+11:21:38:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+11:21:43:  20210108
+11:22:58:  K64_BTCR-1100190803000_20210108111936.log - [No filter file]* - TextAnalysisTool.NET
+11:23:08:  TCR调测工具 V3.36
+11:23:18:  20210108
+11:23:23:  Decode
+11:23:28:  K64_BTCR-1100190803000_20210108111936.log - [No filter file]* - TextAnalysisTool.NET
+11:25:28:  20210108
+11:25:43:  TCR调测工具 V3.36
+11:28:18:  Decode
+11:28:23:  K64_BTCR-1100190803000_20210108111936.log - [No filter file]* - TextAnalysisTool.NET
+11:28:28:  钞箱配置
+11:28:33:  Decode
+11:28:43:  K64_BTCR-1100190803000_20210108111936.log - [No filter file]* - TextAnalysisTool.NET
+11:28:48:  20210108
+11:28:18:  Decode
+11:28:23:  K64_BTCR-1100190803000_20210108111936.log - [No filter file]* - TextAnalysisTool.NET
+11:28:28:  钞箱配置
+11:28:33:  Decode
+11:28:43:  K64_BTCR-1100190803000_20210108111936.log - [No filter file]* - TextAnalysisTool.NET
+11:28:48:  20210108
+11:30:08:  K64_BTCR-1100190803000_20210108111936.log - [No filter file]* - TextAnalysisTool.NET
+11:30:13:  K64_BTCR-1100190803000_20210108112844.log - [No filter file]* - TextAnalysisTool.NET
+11:30:18:  Decode
+11:30:23:  本地磁盘 (D:)
+11:30:28:  fenxi
+11:30:33:  TCRControlCmdDLL
+11:30:38:  20210106
+11:30:43:  K64_BTCR-1100190803000_20210108112844.log - [No filter file]* - TextAnalysisTool.NET
+11:30:58:  20210106
+11:31:03:  K64_BTCR-1100200700210431_20210106163929.log - [No filter file]* - TextAnalysisTool.NET
+11:31:53:  Decode
+11:31:58:  K64_BTCR-1100200700210431_20210106163929.log - [No filter file]* - TextAnalysisTool.NET
+11:32:23:  Decode
+11:32:28:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+11:33:03:  Decode
+11:33:08:  20210108
+11:33:13:  Decode
+11:33:53:  TCRControlCmdDLL
+11:33:58:  LogAnalysisTool.exe 属性
+11:34:08:  BTCR日志解析工具V1.00.30
+11:34:18:  BTCR日志解析工具（研发版）V1.00.30
+11:34:23:  LogAnalysisTool
+11:34:28:  BTCR日志解析工具（研发版）V1.00.30
+11:34:38:  跳转列表
+11:34:43:  BTCR日志解析工具（研发版）V1.00.30
+11:34:53:  TCRControlCmdDLL
+11:34:58:  Windows 任务管理器
+11:35:23:  BTCR日志解析工具（研发版）V1.00.30
+11:35:28:  TCRControlCmdDLL
+11:35:33:  Windows 任务管理器
+11:35:53:  BTCR日志解析工具V1.00.4
+11:35:58:  浏览文件夹
+11:36:08:  TCRControlCmdDLL
+11:36:13:  浏览文件夹
+11:36:28:  BTCR日志解析工具V1.00.4
+11:36:48:  TCRControlCmdDLL
+11:36:58:  桌面整理
+11:37:03:  BTCR日志解析工具V1.00.4
+11:37:18:  参数
+11:37:28:  BTCR日志解析工具V1.00.4
+11:37:38:  参数
+11:37:43:  BTCR日志解析工具V1.00.4
+11:37:53:  参数
+11:37:58:  BTCR日志解析工具V1.00.4
+11:38:13:  fenxi
+11:38:18:  5元1元各300张随机混合，执行大额存款报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B
+11:38:23:  BTCR日志解析工具V1.00.30
+11:38:28:  BTCR日志解析工具（研发版）V1.00.30
+11:38:38:  输入参数
+11:38:43:  BTCR日志解析工具（研发版）V1.00.30
+11:38:48:  输入参数
+11:38:53:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+11:39:08:  BTCR日志解析工具（研发版）V1.00.30
+11:39:13:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+11:39:18:  BTCR日志解析工具（研发版）V1.00.30
+11:39:33:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+11:39:38:  BTCR日志解析工具（研发版）V1.00.30
+11:39:53:  输出参数
+11:40:03:  输入参数
+11:40:08:  BTCR日志解析工具（研发版）V1.00.30
+11:40:13:  锁屏状态
+13:15:53:  BTCR日志解析工具（研发版）V1.00.30
+13:18:03:  输入参数
+13:18:08:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+13:18:13:  BTCR日志解析工具（研发版）V1.00.30
+13:18:43:  输入参数
+13:18:53:  BTCR日志解析工具（研发版）V1.00.30
+13:18:58:  输入参数
+13:19:03:  BTCR日志解析工具（研发版）V1.00.30
+13:19:28:  输入参数
+13:19:33:  BTCR日志解析工具（研发版）V1.00.30
+13:19:38:  输入参数
+13:19:43:  BTCR日志解析工具（研发版）V1.00.30
+13:19:48:  输出参数
+13:20:03:  BTCR日志解析工具（研发版）V1.00.30
+13:20:08:  输出参数
+13:20:13:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+13:20:28:  BTCR日志解析工具（研发版）V1.00.30
+13:20:33:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+13:20:38:  新建文件夹 (5)
+13:20:48:  20210106
+13:20:53:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+13:20:58:  锁屏状态
+13:21:03:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+13:21:08:  BTCR日志解析工具（研发版）V1.00.30
+13:21:18:  输出参数
+13:21:23:  BTCR日志解析工具（研发版）V1.00.30
+13:21:28:  输出参数
+13:21:33:  BTCR日志解析工具（研发版）V1.00.30
+13:21:43:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+13:22:08:  BTCR日志解析工具（研发版）V1.00.30
+13:22:43:  00000000 执行成功
+13:22:53:  输入参数
+13:22:58:  BTCR日志解析工具（研发版）V1.00.30
+13:23:03:  输出参数
+13:23:13:  输入参数
+13:23:18:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+13:24:13:  BTCR日志解析工具（研发版）V1.00.30
+13:24:23:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+13:24:43:  计算器
+13:24:53:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+13:24:58:  计算器
+13:25:08:  BTCR日志解析工具（研发版）V1.00.30
+13:26:43:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+13:27:03:  BTCR日志解析工具（研发版）V1.00.30
+13:27:08:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+13:27:28:  BTCR日志解析工具（研发版）V1.00.30
+13:27:38:  输入参数
+13:27:48:  BTCR日志解析工具（研发版）V1.00.30
+13:27:53:  输入参数
+13:27:58:  BTCR日志解析工具（研发版）V1.00.30
+13:29:28:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+13:29:33:  BTCR日志解析工具（研发版）V1.00.30
+13:29:43:  输出参数
+13:29:28:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+13:29:33:  BTCR日志解析工具（研发版）V1.00.30
+13:29:43:  输出参数
+13:32:08:  BTCR日志解析工具（研发版）V1.00.30
+13:32:13:  TCRControlCmdDLL
+13:32:28:  新建文件夹 (5)
+13:32:33:  BTCR日志解析工具（研发版）V1.00.30
+13:32:53:  20201221
+13:32:58:  K64_BTCR-1100200700210431_20210106122804.log - [No filter file]* - TextAnalysisTool.NET
+13:33:03:  K64_BTCR-1100200600210331_20201221140133.log - [No filter file]* - TextAnalysisTool.NET
+13:33:08:  Decode
+13:33:13:  BTCR日志解析工具（研发版）V1.00.30
+13:33:18:  K64_BTCR-1100200600210331_20201221140133.log - [No filter file]* - TextAnalysisTool.NET
+13:33:33:  Decode
+13:33:38:  K64_BTCR-1100200600210331_20201221083946.log - [No filter file]* - TextAnalysisTool.NET
+13:34:43:  另存为
+13:34:48:  K64_BTCR-1100200600210331_20201221083946.log - DRB.tat - TextAnalysisTool.NET
+13:35:43:  BTCR日志解析工具（研发版）V1.00.30
+13:35:53:  输入参数
+13:35:58:  输出参数
+13:36:48:  BTCR日志解析工具（研发版）V1.00.30
+13:36:58:  输出参数
+13:37:03:  BTCR日志解析工具（研发版）V1.00.30
+13:37:08:  输入参数
+13:37:13:  输出参数
+13:37:23:  BTCR日志解析工具（研发版）V1.00.30
+13:37:28:  输出参数
+13:37:38:  BTCR日志解析工具（研发版）V1.00.30
+13:37:43:  输出参数
+13:37:48:  BTCR日志解析工具（研发版）V1.00.30
+13:38:03:  输入参数
+13:38:08:  输出参数
+13:38:13:  BTCR日志解析工具（研发版）V1.00.30
+13:38:18:  输入参数
+13:38:23:  输出参数
+13:38:28:  BTCR日志解析工具（研发版）V1.00.30
+13:41:23:  Decode
+13:41:28:  TCRControlCmdDLL
+13:41:33:  新建文件夹
+13:41:38:  CS_0003_20210108093904.log - DRB.tat - TextAnalysisTool.NET
+13:42:23:  Add Filter
+13:42:28:  CS_0003_20210108093904.log - DRB.tat* - TextAnalysisTool.NET
+13:42:53:  Add Filter
+13:42:58:  CS_0003_20210108093904.log - DRB.tat* - TextAnalysisTool.NET
+13:43:03:  Add Filter
+13:43:08:  CS_0003_20210108093904.log - DRB.tat* - TextAnalysisTool.NET
+13:43:53:  Add Filter
+13:43:58:  CS_0003_20210108093904.log - DRB.tat* - TextAnalysisTool.NET
+13:46:18:  BTCR日志解析工具（研发版）V1.00.30
+13:46:23:  输入参数
+13:46:33:  00000000 执行成功
+13:46:38:  输入参数
+13:46:43:  BTCR日志解析工具（研发版）V1.00.30
+13:46:53:  输出参数
+13:46:58:  BTCR日志解析工具（研发版）V1.00.30
+13:47:03:  输出参数
+13:47:13:  BTCR日志解析工具（研发版）V1.00.30
+13:47:23:  输入参数
+13:47:28:  锁屏状态
+13:47:33:  BTCR日志解析工具（研发版）V1.00.30
+13:47:38:  输入参数
+13:47:43:  BTCR日志解析工具（研发版）V1.00.30
+13:47:48:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+13:48:23:  CS_0003_20210108093904.log - DRB.tat* - TextAnalysisTool.NET
+13:53:18:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+13:54:53:  CS_0003_20210108093904.log - DRB.tat* - TextAnalysisTool.NET
+14:01:08:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+14:01:33:  CS_0003_20210108093904.log - DRB.tat* - TextAnalysisTool.NET
+14:03:48:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+14:04:13:  CS_0003_20210108093904.log - DRB.tat* - TextAnalysisTool.NET
+14:04:18:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+14:04:33:  CS_0003_20210108093904.log - DRB.tat* - TextAnalysisTool.NET
+14:05:33:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+14:05:58:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+14:07:58:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+14:08:38:  This is an unregistered copy
+14:08:43:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+14:09:03:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+14:09:48:  选择文件夹
+14:09:58:  untitled (trunk) - Sublime Text (UNREGISTERED)
+14:10:13:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+14:10:18:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:10:33:  D:\00-06\1T1-Stop-Length\trunk\Drivers\UserMemoryDriver\UserMemoryDriver.c (trunk) - Sublime Text (UNREGISTERED)
+14:10:38:  D:\00-06\1T1-Stop-Length\trunk\Drivers\EepromAreaDriver\EepromAreaDriver.c (trunk) - Sublime Text (UNREGISTERED)
+14:10:43:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\UserMemory\UserMemory.c (trunk) - Sublime Text (UNREGISTERED)
+14:10:48:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:10:53:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+14:11:03:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:11:08:  D:\00-06\1T1-Stop-Length\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+14:12:24:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+14:12:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:12:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c • (trunk) - Sublime Text (UNREGISTERED)
+14:12:54:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+14:12:59:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c • (trunk) - Sublime Text (UNREGISTERED)
+14:13:04:  D:\00-06\1T1-Stop-Length\trunk\Drivers\UserMemoryDriver\UserMemoryDriver.c (trunk) - Sublime Text (UNREGISTERED)
+14:13:14:  D:\00-06\1T1-Stop-Length\trunk\Drivers\EepromAreaDriver\EepromAreaDriver.c (trunk) - Sublime Text (UNREGISTERED)
+14:13:24:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\UserMemory\UserMemory.c (trunk) - Sublime Text (UNREGISTERED)
+14:13:29:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+14:13:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c • (trunk) - Sublime Text (UNREGISTERED)
+14:13:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:14:04:  D:\00-06\1T1-Stop-Length\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+14:14:34:  计算机
+14:14:39:  06- 刘建生
+14:14:44:  共享文件
+14:14:49:  TCR
+14:14:54:  钞箱1T2集成测试方案
+14:14:34:  计算机
+14:14:39:  06- 刘建生
+14:14:44:  共享文件
+14:14:49:  TCR
+14:14:54:  钞箱1T2集成测试方案
+14:15:09:  5.2 EEPROM测试V1.0.xls  [受保护的视图] - Excel
+14:15:24:  D:\00-06\1T1-Stop-Length\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+14:15:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:15:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+14:15:54:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:15:59:  D:\00-06\1T1-Stop-Length\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+14:16:04:  D:\00-06\1T1-Stop-Length\trunk\Applications\CashBoxInfo\CashBoxInfo.c (trunk) - Sublime Text (UNREGISTERED)
+14:16:09:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\EepromArea\EepromArea.c (trunk) - Sublime Text (UNREGISTERED)
+14:16:14:  D:\00-06\1T1-Stop-Length\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+14:16:24:  D:\00-06\1T1-Stop-Length\trunk\Drivers\EepromAreaDriver\EepromAreaDriver.c (trunk) - Sublime Text (UNREGISTERED)
+14:16:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+14:16:44:  钞箱1T2集成测试方案
+14:17:14:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\UserMemory\UserMemory.c (trunk) - Sublime Text (UNREGISTERED)
+14:17:29:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:17:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+14:17:54:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\UserMemory\UserMemory.c (trunk) - Sublime Text (UNREGISTERED)
+14:17:59:  D:\00-06\1T1-Stop-Length\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+14:18:04:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:18:09:  D:\00-06\1T1-Stop-Length\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+14:18:19:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:18:29:  Windows 任务管理器
+14:18:39:  D:\00-KE64\94d\Project\k64_rtt.uvprojx - μVision
+14:18:59:  新建文件夹
+14:19:04:  本地磁盘 (E:)
+14:19:24:  00-06
+14:19:29:  1T1-Stop-Length
+14:19:34:  μVision
+14:19:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+14:19:49:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:19:54:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:19:59:  CRS调测工具（研发版）V1.0.2.1
+14:20:04:  TCR调测工具 V3.36
+14:20:14:  20210108
+14:20:29:  TCR调测工具 V3.36
+14:20:34:  Decode
+14:20:39:  打开
+14:20:44:  K64_BTCR-1100190803000_20210108142000.log - 3333.tat - TextAnalysisTool.NET
+14:20:54:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:21:04:  Project
+14:21:09:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+14:21:14:  Tools
+14:21:19:  TCR调测工具 V3.36
+14:21:24:  打开
+14:21:34:  TCR调测工具 V3.36
+14:21:44:  打开
+14:21:54:  TCR调测工具 V3.36
+14:22:14:  1T1-Stop-Length
+14:22:19:  本地磁盘 (D:)
+14:22:29:  20210108
+14:22:34:  TCR调测工具 V3.36
+14:22:44:  Decode
+14:22:49:  K64_BTCR-1100190803000_20210108142000.log - 3333.tat - TextAnalysisTool.NET
+14:22:54:  20210108
+14:22:59:  K64_BTCR-1100190803000_20210108142000.log - 3333.tat - TextAnalysisTool.NET
+14:23:04:  20210108
+14:23:09:  TCR调测工具 V3.36
+14:23:19:  20210108
+14:23:24:  K64_BTCR-1100190803000_20210108142000.log - 3333.tat - TextAnalysisTool.NET
+14:23:29:  20210108
+14:23:34:  TCR调测工具 V3.36
+14:23:39:  发送指令到K06
+14:23:44:  TCR调测工具 V3.36
+14:23:54:  发送指令到K06
+14:23:59:  TCR调测工具 V3.36
+14:24:24:  20210108
+14:24:29:  K64_BTCR-1100190803000_20210108142000.log - 3333.tat - TextAnalysisTool.NET
+14:24:39:  20210108
+14:24:44:  K64_BTCR-1100190803000_20210108142000.log - 3333.tat - TextAnalysisTool.NET
+14:24:49:  20210108
+14:24:54:  Decode
+14:24:59:  锁屏状态
+14:25:04:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+14:25:09:  TCR调测工具 V3.36
+14:25:14:  发送指令到K06
+14:25:19:  TCR调测工具 V3.36
+14:25:24:  Decode
+14:25:29:  K64_BTCR-1100190803000_20210108142000.log - 3333.tat - TextAnalysisTool.NET
+14:25:39:  Decode
+14:25:44:  回收 
+14:25:49:  20210108
+14:25:54:  TCR调测工具 V3.36
+14:25:59:  20210108
+14:26:04:  K64_BTCR-1100190803000_20210108142000.log - 3333.tat - TextAnalysisTool.NET
+14:26:09:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:14:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:24:  D:\00-06\1T1-Stop-Length\trunk\Drivers\EepromAreaDriver\EepromAreaDriver.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:49:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:54:  D:\00-06\1T1-Stop-Length\trunk\Drivers\EepromAreaDriver\EepromAreaDriver.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:04:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:09:  TCR调测工具 V3.36
+14:27:14:  发送指令到K06
+14:27:39:  TCR调测工具 V3.36
+14:27:44:  钞箱配置
+14:27:49:  发送指令到K06
+14:28:14:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:19:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:29:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:49:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:54:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:09:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:14:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:19:  TCR调测工具 V3.36
+14:29:24:  发送指令到K06
+14:29:29:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:29:34:  Tools
+14:29:39:  TCR调测工具 V3.36
+14:29:59:  发送指令到K06
+14:28:14:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:19:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:29:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:49:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:54:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:09:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:14:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:19:  TCR调测工具 V3.36
+14:29:24:  发送指令到K06
+14:29:29:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:29:34:  Tools
+14:29:39:  TCR调测工具 V3.36
+14:29:59:  发送指令到K06
+14:30:09:  Tools
+14:30:14:  20210108
+14:30:19:  TCR调测工具 V3.36
+14:30:29:  20210108
+14:30:34:  K64_BTCR-1100190803000_20210108142000.log - 3333.tat - TextAnalysisTool.NET
+14:31:04:  TCR调测工具 V3.36
+14:31:14:  K64_BTCR-1100190803000_20210108142000.log - 3333.tat - TextAnalysisTool.NET
+14:32:04:  20210108
+14:32:09:  Decode
+14:32:14:  20210108
+14:32:19:  TCR调测工具 V3.36
+14:32:34:  20210108
+14:32:39:  K64_BTCR-1100190803000_20210108142000.log - 3333.tat - TextAnalysisTool.NET
+14:32:49:  发送指令到K06
+14:32:59:  20210108
+14:33:04:  TCR调测工具 V3.36
+14:33:19:  K64_BTCR-1100190803000_20210108142000.log - 3333.tat - TextAnalysisTool.NET
+14:35:09:  新建文件夹 (5)
+14:35:14:  KE18-VERSION1
+14:35:19:  SeparatorCtrl.c - TortoiseMerge
+14:35:34:  ImpellerCtrl.c - TortoiseMerge
+14:35:44:  KE18-VERSION1
+14:35:49:  Project
+14:35:59:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+14:36:14:  KE18-VERSION1
+14:36:19:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+14:36:24:  V1.014
+14:36:29:  CRS调测工具（研发版）V1.0.2.1
+14:37:39:  打开
+14:37:44:  CRS调测工具（研发版）V1.0.2.1
+14:40:09:  取款
+14:40:14:  CRS调测工具（研发版）V1.0.2.1
+14:40:39:  钞箱配置
+14:40:44:  CRS调测工具（研发版）V1.0.2.1
+14:41:09:  钞箱配置
+14:41:19:  CRS调测工具（研发版）V1.0.2.1
+14:41:39:  取款
+14:41:44:  CRS调测工具（研发版）V1.0.2.1
+14:44:44:  取款
+14:44:49:  CRS调测工具（研发版）V1.0.2.1
+14:44:44:  取款
+14:44:49:  CRS调测工具（研发版）V1.0.2.1
+14:47:34:  取款
+14:47:39:  CRS调测工具（研发版）V1.0.2.1
+14:48:44:  取款
+14:48:54:  CRS调测工具（研发版）V1.0.2.1
+14:48:59:  钞箱配置
+14:49:04:  CRS调测工具（研发版）V1.0.2.1
+14:49:44:  取款
+14:49:54:  CRS调测工具（研发版）V1.0.2.1
+14:49:59:  查找
+14:50:19:  钞箱配置
+14:50:24:  取款
+14:50:29:  CRS调测工具（研发版）V1.0.2.1
+14:51:09:  跳转列表
+14:51:14:  TCRControlCmdDLL
+14:51:19:  固件设计中心
+14:51:24:  Decode
+14:51:29:  CS_0003_20210108145026.log - 3333.tat - TextAnalysisTool.NET
+14:51:34:  CS_0003_20210108145026.log - DRB.tat - TextAnalysisTool.NET
+14:51:44:  Add Filter
+14:52:04:  CS_0003_20210108145026.log - DRB.tat* - TextAnalysisTool.NET
+14:52:19:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+14:52:24:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+14:53:09:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+14:53:19:  CRS调测工具（研发版）V1.0.2.1
+14:53:49:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+14:54:19:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+14:54:29:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+14:54:54:  CS_0003_20210108145026.log - DRB.tat* - TextAnalysisTool.NET
+14:55:19:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+14:55:24:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+14:55:39:  Tools
+14:55:44:  CRS调测工具（研发版）V1.0.2.1
+14:57:14:  取款
+14:57:19:  CRS调测工具（研发版）V1.0.2.1
+14:57:54:  20210108
+14:57:59:  Decode
+14:58:04:  K64_0003_20210108145716.log - DRB.tat* - TextAnalysisTool.NET
+14:58:09:  CS_0003_20210108145716.log - DRB.tat* - TextAnalysisTool.NET
+14:58:09:  CS_0003_20210108145716.log - DRB.tat* - TextAnalysisTool.NET
+15:02:19:  CRS调测工具（研发版）V1.0.2.1
+15:02:29:  取款
+15:02:34:  CRS调测工具（研发版）V1.0.2.1
+15:03:19:  打开
+15:03:29:  CRS调测工具（研发版）V1.0.2.1
+15:04:44:  计算器
+15:05:09:  CRS调测工具（研发版）V1.0.2.1
+15:05:24:  钞箱配置
+15:05:29:  CRS调测工具（研发版）V1.0.2.1
+15:06:04:  取款
+15:06:09:  CRS调测工具（研发版）V1.0.2.1
+15:06:49:  KE18-VERSION1
+15:06:59:  20210108
+15:07:04:  Decode
+15:07:09:  CS_0003_20210108150604.log - DRB.tat* - TextAnalysisTool.NET
+15:07:49:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:07:59:  CS_0003_20210108150604.log - DRB.tat* - TextAnalysisTool.NET
+15:08:04:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:08:24:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:08:29:  CS_0003_20210108150604.log - DRB.tat* - TextAnalysisTool.NET
+15:08:34:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:09:59:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:10:04:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:10:14:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:10:29:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:10:34:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:11:24:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:11:39:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:11:44:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+15:11:59:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+15:12:04:  KE18-VERSION1
+15:12:09:  Tools
+15:12:14:  CRS调测工具（研发版）V1.0.2.1
+15:12:24:  打开
+15:13:34:  CS_0003_20210108150604.log - DRB.tat* - TextAnalysisTool.NET
+15:13:39:  CS_0003_20210108093904.log - DRB.tat* - TextAnalysisTool.NET
+15:16:29:  CRS调测工具（研发版）V1.0.2.1
+15:17:09:  Decode
+15:17:14:  CRS调测工具（研发版）V1.0.2.1
+15:17:19:  取款
+15:17:24:  CRS调测工具（研发版）V1.0.2.1
+15:17:54:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+15:18:04:  CRS调测工具（研发版）V1.0.2.1
+15:18:09:  20210108
+15:18:14:  CS_0003_20210108151802.log - DRB.tat* - TextAnalysisTool.NET
+15:18:19:  20210108
+15:18:24:  CS_0003_20210108151802.log - DRB.tat* - TextAnalysisTool.NET
+15:18:29:  TCRControlCmdDLL
+15:18:34:  Decode
+15:18:39:  CS_0003_20210108151802.log - DRB.tat* - TextAnalysisTool.NET
+15:18:49:  Decode
+15:18:54:  CS_0003_20210108151720.log - DRB.tat* - TextAnalysisTool.NET
+15:19:34:  CRS调测工具（研发版）V1.0.2.1
+15:19:39:  取款
+15:19:44:  CRS调测工具（研发版）V1.0.2.1
+15:26:54:  取款
+15:27:04:  CRS调测工具（研发版）V1.0.2.1
+15:27:54:  CS_0003_20210108151720.log - DRB.tat* - TextAnalysisTool.NET
+15:28:04:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+15:28:39:  Tools
+15:28:44:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+15:28:49:  打开
+15:28:54:  CRS调测工具（研发版）V1.0.2.1
+15:30:04:  发送指令到K18
+15:28:39:  Tools
+15:28:44:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+15:28:49:  打开
+15:28:54:  CRS调测工具（研发版）V1.0.2.1
+15:30:04:  发送指令到K18
+15:30:09:  CRS调测工具（研发版）V1.0.2.1
+15:30:14:  取款
+15:30:19:  CRS调测工具（研发版）V1.0.2.1
+15:31:54:  发送指令到K18
+15:32:04:  CRS调测工具（研发版）V1.0.2.1
+15:32:44:  锁屏状态
+15:32:49:  20210108
+15:32:54:  CS_0003_20210108153018.log - DRB.tat* - TextAnalysisTool.NET
+15:47:04:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+15:47:24:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+15:47:34:  Tools
+15:47:39:  打开
+15:47:44:  CRS调测工具（研发版）V1.0.2.1
+15:48:44:  未命名 - 写邮件
+15:49:39:  未命名 - 写邮件   15:49:36 已保存
+15:49:44:  未命名 - 写邮件   15:49:40 已保存
+15:49:49:  年度考核 - 写邮件   15:49:40 已保存
+15:49:54:  CRS调测工具（研发版）V1.0.2.1
+15:50:49:  Decode
+15:50:59:  CS_0003_20210108155024.log - DRB.tat* - TextAnalysisTool.NET
+15:51:24:  CRS调测工具（研发版）V1.0.2.1
+15:51:29:  CS_0003_20210108155024.log - DRB.tat* - TextAnalysisTool.NET
+15:51:49:  取款
+15:51:54:  CRS调测工具（研发版）V1.0.2.1
+15:52:14:  Decode
+15:52:19:  20210108
+15:52:24:  CS_0003_20210108155153.log - DRB.tat* - TextAnalysisTool.NET
+15:52:34:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+15:52:39:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+15:52:44:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+15:52:59:  Tools
+15:53:04:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+15:54:24:  Tools
+15:54:34:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+16:00:49:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+16:00:54:  打开
+16:01:04:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+16:01:09:  CRS调测工具（研发版）V1.0.2.1
+16:03:09:  钞箱配置
+16:03:14:  CRS调测工具（研发版）V1.0.2.1
+16:04:59:  取款
+16:05:04:  CRS调测工具（研发版）V1.0.2.1
+16:05:34:  20210108
+16:05:39:  Decode
+16:05:44:  CS_0003_20210108160501.log - DRB.tat* - TextAnalysisTool.NET
+16:09:05:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+16:09:50:  跳转列表
+16:09:55:  CS_0003_20210108160501.log - DRB.tat* - TextAnalysisTool.NET
+16:11:05:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+16:11:15:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+16:11:20:  CRS调测工具（研发版）V1.0.2.1
+16:12:25:  取款
+16:12:30:  CRS调测工具（研发版）V1.0.2.1
+16:12:55:  Decode
+16:13:00:  CS_0003_20210108161227.log - DRB.tat* - TextAnalysisTool.NET
+16:15:50:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+16:16:05:  Tools
+16:16:10:  CRS调测工具（研发版）V1.0.2.1
+16:18:15:  取款
+16:18:20:  CRS调测工具（研发版）V1.0.2.1
+16:18:40:  Tools
+16:18:45:  Decode
+16:18:55:  CS_0003_20210108161819.log - DRB.tat* - TextAnalysisTool.NET
+16:19:55:  20210108
+16:20:00:  CRS调测工具（研发版）V1.0.2.1
+16:23:20:  TD回复格式.docx [兼容模式] - Word
+16:24:00:  CRS调测工具（研发版）V1.0.2.1
+16:24:05:  取款
+16:24:10:  CRS调测工具（研发版）V1.0.2.1
+16:24:25:  20210108
+16:24:35:  TD回复格式.docx [兼容模式] - Word
+16:26:45:  20210108
+16:26:50:  CS_0003_20210108162405.log - DRB.tat* - TextAnalysisTool.NET
+16:29:10:  eSpace
+16:29:15:  CS_0003_20210108162405.log - DRB.tat* - TextAnalysisTool.NET
+16:29:45:  CRS调测工具（研发版）V1.0.2.1
+16:29:10:  eSpace
+16:29:15:  CS_0003_20210108162405.log - DRB.tat* - TextAnalysisTool.NET
+16:29:45:  CRS调测工具（研发版）V1.0.2.1
+16:31:20:  取款
+16:31:25:  CRS调测工具（研发版）V1.0.2.1
+16:31:50:  Decode
+16:32:05:  CS_0003_20210108163123.log - DRB.tat* - TextAnalysisTool.NET
+16:32:15:  CS_0003_20210108162405.log - DRB.tat* - TextAnalysisTool.NET
+16:32:30:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+16:32:40:  CRS调测工具（研发版）V1.0.2.1
+16:33:40:  CS_0003_20210108162405.log - DRB.tat* - TextAnalysisTool.NET
+16:33:45:  CRS调测工具（研发版）V1.0.2.1
+16:34:00:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+16:34:05:  CRS调测工具（研发版）V1.0.2.1
+16:36:00:  取款
+16:36:05:  CRS调测工具（研发版）V1.0.2.1
+16:36:25:  Tools
+16:36:30:  20210108
+16:36:35:  Decode
+16:36:40:  CS_0003_20210108163602.log - DRB.tat* - TextAnalysisTool.NET
+16:36:50:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+16:38:35:  CRS调测工具（研发版）V1.0.2.1
+16:39:05:  20210108
+16:39:10:  Decode
+16:39:15:  CS_0003_20210108163840.log - DRB.tat* - TextAnalysisTool.NET
+16:39:50:  Add Filter
+16:40:00:  CS_0003_20210108163840.log - DRB.tat* - TextAnalysisTool.NET
+16:40:40:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+16:41:00:  CRS调测工具（研发版）V1.0.2.1
+16:46:45:  取款
+16:47:05:  Internet Explorer
+16:47:10:  主页 - Internet Explorer
+16:47:15:  新北洋OA信息化平台 - Internet Explorer
+16:47:20:  员工自助 - Internet Explorer
+16:47:25:  Employee-facing registry content - Internet Explorer
+16:47:35:  绩效申请 - Internet Explorer
+16:48:05:  CRS调测工具（研发版）V1.0.2.1
+16:49:05:  取款
+16:49:10:  CRS调测工具（研发版）V1.0.2.1
+16:49:30:  20210108
+16:49:50:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+16:50:10:  20210108
+16:50:20:  Decode
+16:50:25:  CS_0003_20210108164907.log - DRB.tat* - TextAnalysisTool.NET
+16:50:35:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+16:51:10:  CS_0003_20210108164907.log - DRB.tat* - TextAnalysisTool.NET
+16:51:35:  CRS调测工具（研发版）V1.0.2.1
+16:51:45:  Tools
+16:51:50:  CRS调测工具（研发版）V1.0.2.1
+16:54:15:  今日发布：新北洋办公室电邮【2021】002号-关于防范新冠肺炎的倡议及通知（一）关于做好2021年春节期间新冠肺炎疫情防控工作的通知，敬请查阅！
+16:54:35:  20210108
+16:54:40:  CS_0003_20210108165350.log - DRB.tat* - TextAnalysisTool.NET
+16:55:05:  丛柏屹
+16:57:10:  CS_0003_20210108165350.log - DRB.tat* - TextAnalysisTool.NET
+16:57:30:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+16:57:40:  丛柏屹
+16:57:55:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+16:58:15:  Tools
+16:58:20:  打开
+16:58:25:  CRS调测工具（研发版）V1.0.2.1
+16:59:20:  取款
+16:59:25:  CRS调测工具（研发版）V1.0.2.1
+16:59:45:  Tools
+16:59:50:  20210108
+16:59:55:  Decode
+17:00:00:  CS_0003_20210108165925.log - DRB.tat* - TextAnalysisTool.NET
+16:58:15:  Tools
+16:58:20:  打开
+16:58:25:  CRS调测工具（研发版）V1.0.2.1
+16:59:20:  取款
+16:59:25:  CRS调测工具（研发版）V1.0.2.1
+16:59:45:  Tools
+16:59:50:  20210108
+16:59:55:  Decode
+17:00:00:  CS_0003_20210108165925.log - DRB.tat* - TextAnalysisTool.NET
+17:00:30:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:00:35:  CS_0003_20210108165925.log - DRB.tat* - TextAnalysisTool.NET
+17:01:25:  20210108
+17:01:30:  CS_0003_20210108165925.log - DRB.tat* - TextAnalysisTool.NET
+17:02:10:  Edit Filter
+17:02:15:  CS_0003_20210108165925.log - DRB.tat* - TextAnalysisTool.NET
+17:02:40:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:02:50:  TCRControlCmdDLL
+17:02:55:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+17:03:00:  打开
+17:03:05:  CRS调测工具（研发版）V1.0.2.1
+17:03:50:  取款
+17:03:55:  CRS调测工具（研发版）V1.0.2.1
+17:04:15:  20210108
+17:04:20:  Decode
+17:04:25:  CS_0003_20210108170350.log - DRB.tat* - TextAnalysisTool.NET
+17:05:35:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:06:00:  eSpace

@@ -1,0 +1,779 @@
+08:12:03:  风险提示：招标用DRB钞箱提供存在延期风险
+08:12:13:  DRB--
+08:12:18:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:13:13:  JLink - Cortex-M Error
+08:13:48:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:13:58:  JLink - Cortex-M Error
+08:14:23:  μVision
+08:14:28:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:14:23:  μVision
+08:14:28:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:21:58:  跳转列表
+08:22:03:  本地磁盘 (D:)
+08:25:53:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:25:58:  μVision
+08:26:03:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:26:08:  JLink - Cortex-M Error
+08:26:13:  μVision
+08:26:28:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:26:48:  设置
+08:26:53:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:30:03:  KE06LOG.bat - 快捷方式 (2)
+08:30:03:  KE06LOG.bat - 快捷方式 (2)
+08:30:18:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010090830.log
+08:31:18:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:31:53:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision (未响应)
+08:31:58:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:37:08:  μVision
+08:37:13:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:38:23:  μVision
+08:38:28:  JLink - Cortex-M Error
+08:38:33:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:38:48:  JLink - Cortex-M Error
+08:38:53:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:46:23:  V1.003
+08:46:28:  TCR调测工具 V3.36
+08:46:33:  发送指令到K06
+08:46:38:  TCR调测工具 V3.36
+08:46:48:  桌面整理
+08:46:58:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:47:08:  TCR调测工具 V3.36
+08:47:13:  发送指令到K06
+08:47:18:  TCR调测工具 V3.36
+08:47:23:  发送指令到K06
+08:47:33:  TCR调测工具 V3.36
+08:48:23:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:48:33:  发送指令到K06
+08:48:48:  TCR调测工具 V3.36
+08:52:03:  发送指令到K06
+08:52:08:  TCR调测工具 V3.36
+08:52:38:  发送指令到K06
+08:52:48:  TCR调测工具 V3.36
+09:03:28:  开始
+09:03:53:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+09:04:53:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:05:13:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+09:10:03:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:10:13:  00-06
+09:10:23:  DRB--
+09:10:28:  检查更新
+09:10:33:  工作副本
+09:10:38:  Initial.c - TortoiseMerge
+09:10:43:  Separate.c - TortoiseMerge
+09:10:53:  State.c - TortoiseMerge
+09:10:58:  D:\00-06\DRB-- - 工作副本 - TortoiseSVN
+09:11:03:  State.c - TortoiseMerge
+09:11:08:  SensorDriver.c - TortoiseMerge
+09:11:13:  D:\00-06\DRB-- - 工作副本 - TortoiseSVN
+09:11:18:  D:\00-06\DRB-- - 提交 - TortoiseSVN
+09:11:28:  历史记录
+09:11:38:  D:\00-06\DRB-- - 提交 - TortoiseSVN
+09:14:28:  eSpace
+09:15:03:  荆文波
+09:14:28:  eSpace
+09:15:03:  荆文波
+09:15:09:  历史记录管理器
+09:16:09:  荆文波
+09:16:34:  Separate.c - TortoiseMerge
+09:16:39:  D:\00-06\DRB-- - 提交 - TortoiseSVN
+09:17:34:  Separate.c - TortoiseMerge
+09:17:44:  TortoiseMerge
+09:17:49:  SensorDriver.h - TortoiseMerge
+09:17:54:  SensorDriver.c - TortoiseMerge
+09:17:59:  State.c - TortoiseMerge
+09:18:09:  Separate.c - TortoiseMerge
+09:18:14:  D:\00-06\DRB-- - 提交 - TortoiseSVN
+09:18:24:  提交 完成！
+09:18:29:  D:\00-06\DRB-- - 日志信息 - TortoiseSVN
+09:18:34:  State.c Revision 4084 - TortoiseMerge
+09:18:44:  Update.c Revision 4110 - TortoiseMerge
+09:18:49:  D:\00-06\DRB-- - 日志信息 - TortoiseSVN
+09:18:54:  State.c Revision 4110 - TortoiseMerge
+09:19:04:  荆文波
+09:19:49:  D:\00-06\DRB-- - 日志信息 - TortoiseSVN
+09:19:54:  荆文波
+09:21:04:  taskeng.exe
+09:21:09:  荆文波
+09:21:44:  运行
+09:21:49:  Excel
+09:21:54:  周报及工作日志.xlsx  [受保护的视图] - Excel
+09:22:04:  荆文波
+09:22:14:  未命名 - 写邮件
+09:22:24:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:22:34:  编译失败通知
+09:22:44:  KeilCompileInfo.zip - WinRAR (非商业个人版)
+09:22:49:  subproject0.txt - 记事本
+09:22:54:  subproject1.txt - 记事本
+09:23:04:  subproject2.txt - 记事本
+09:23:14:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:23:24:  未命名 - 写邮件   09:23:09 已保存
+09:23:54:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V11_MAIN_T15 - 写邮件   09:23:09 已保存
+09:23:59:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:25:49:  DRB--
+09:26:04:  D:\00-06\DRB-- - 提交 - TortoiseSVN
+09:26:59:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:30:54:  D:\00-06\DRB-- - 提交 - TortoiseSVN
+09:31:14:  PressurePlate.c - TortoiseMerge
+09:31:19:  D:\00-06\DRB-- - 提交 - TortoiseSVN
+09:31:24:  班车管理系统 [新北洋集团] - Google Chrome
+09:31:39:  班车管理系统 - Google Chrome
+09:31:44:  班车管理系统 [新北洋集团] - Google Chrome
+09:31:49:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:36:14:  DRB传感器.txt - 记事本
+09:43:49:  桌面整理
+09:43:59:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:44:19:  发送指令到K06
+09:44:19:  发送指令到K06
+09:45:59:  TCR调测工具 V3.36
+09:46:24:  发送指令到K06
+09:46:29:  TCR调测工具 V3.36
+09:46:39:  发送指令到K06
+09:47:04:  TCR调测工具 V3.36
+09:47:09:  发送指令到K06
+09:47:29:  TCR调测工具 V3.36
+09:47:49:  测试入口模块
+09:47:59:  TCR调测工具 V3.36
+09:48:04:  发送指令到K06
+09:48:09:  TCR调测工具 V3.36
+09:48:19:  读写ERROM
+09:48:24:  TCR调测工具 V3.36
+09:48:29:  发送指令到K06
+09:48:34:  读写ERROM
+09:48:39:  TCR调测工具 V3.36
+09:48:49:  托板控制
+09:48:54:  TCR调测工具 V3.36
+09:49:49:  传感器AD值测试
+09:49:54:  TCR调测工具 V3.36
+09:50:24:  发送指令到K06
+09:50:34:  TCR调测工具 V3.36
+09:54:29:  DRB--
+09:54:34:  Program Manager
+09:54:39:  问题日志
+09:54:44:  固件版本
+09:54:49:  K64
+09:54:54:  桌面整理
+09:54:59:  TCR调测工具 V3.36
+09:55:24:  钞箱配置
+09:55:44:  TCR调测工具 V3.36
+09:55:54:  打开
+09:55:59:  TCR调测工具 V3.36
+09:56:19:  BTCRTestTool
+09:57:04:  TCR调测工具 V3.36
+09:57:54:  钞箱配置
+09:57:59:  TCR调测工具 V3.36
+10:00:19:  钞箱配置
+10:00:24:  TCR调测工具 V3.36
+10:09:24:  桌面整理
+10:09:29:  跳转列表
+10:09:34:  TCRControlCmdDLL
+10:09:44:  固件设计中心
+10:09:49:  20201009
+10:09:54:  TCR调测工具 V3.36
+10:10:39:  20201009
+10:10:44:  跳转列表
+10:10:49:  K64_BTCR-1100190803000_20201009101000.log - [No filter file] - TextAnalysisTool.NET
+10:10:59:  K64_BTCR-1100190803000_20201009101000.log - DRB.tat - TextAnalysisTool.NET
+10:11:09:  K64_BTCR-1100190803000_20201009101000.log - DRB.tat* - TextAnalysisTool.NET
+10:11:19:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:11:24:  LOG
+10:11:29:  20201009
+10:11:34:  TCRControlCmdDLL
+10:11:44:  K64_BTCR-1100190803000_20201009101000.log - DRB.tat* - TextAnalysisTool.NET
+10:12:24:  TCR调测工具 V3.36
+10:14:34:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:14:34:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:15:39:  TCR调测工具 V3.36
+10:15:44:  TCRControlCmdDLL
+10:15:49:  20201009
+10:16:24:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:16:49:  DRB--
+10:16:54:  D:\00-06\DRB--\Tools\CreateJK.exe
+10:16:59:  打开
+10:17:09:  TCR调测工具 V3.36
+10:17:29:  20201009
+10:18:04:  Decode
+10:18:09:  K64_BTCR-1100190803000_20201009101538
+10:18:14:  TCR调测工具 V3.36
+10:18:59:  通道电机测试
+10:19:14:  TCR调测工具 V3.36
+10:19:19:  20201009
+10:19:29:  Decode
+10:19:34:  K64_BTCR-1100190803000_20201009101833
+10:19:39:  K64-_BTCR-1100190803000_20201009101833.log - DRB.tat* - TextAnalysisTool.NET
+10:19:59:  TCR调测工具 V3.36
+10:20:59:  K64_BTCR-1100190803000_20201009101833
+10:21:04:  20201009
+10:21:09:  Decode
+10:21:14:  K64_BTCR-1100190803000_20201009102052
+10:28:50:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:28:55:  荆文波
+10:29:10:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:28:50:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:28:55:  荆文波
+10:29:10:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:30:50:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010090830.log
+10:30:55:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:31:05:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091030.log
+10:32:15:  锁屏状态
+10:32:20:  选择文件夹
+10:32:25:  Save Changes?
+10:32:30:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+10:32:45:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+10:32:50:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+10:32:55:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+10:33:10:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:34:00:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091030.log
+10:34:05:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:34:10:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091030.log
+10:34:30:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:35:05:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091030.log
+10:35:25:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:35:30:  KE06LOG.bat - 快捷方式 (2)
+10:35:40:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:35:55:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091035.log
+10:36:20:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:37:55:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:51:20:  锁屏状态
+10:51:25:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+10:51:50:  D:\00-06\DRB--\Middlewares\Sensor\Sensor.c (DRB--) - Sublime Text (UNREGISTERED)
+10:51:55:  D:\00-06\DRB--\Drivers\SensorDriver\SensorDriver.h (DRB--) - Sublime Text (UNREGISTERED)
+10:52:15:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+10:52:30:  D:\00-06\DRB--\Middlewares\Bldc\Bldc.c (DRB--) - Sublime Text (UNREGISTERED)
+10:52:50:  D:\00-06\DRB--\Drivers\BldcDriver\BldcDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:53:10:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:53:25:  D:\00-06\DRB--\Drivers\BldcDriver\BldcDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:53:30:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:53:55:  D:\00-06\DRB--\Drivers\BldcDriver\BldcDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:54:00:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:54:05:  D:\00-06\DRB--\Drivers\BldcDriver\BldcDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+10:54:35:  D:\00-06\DRB--\Drivers\BldcDriver\BldcDriver.h (DRB--) - Sublime Text (UNREGISTERED)
+10:55:05:  桌面整理
+10:55:20:  DRB传感器.txt - 记事本
+10:55:25:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:55:30:  内容准备进度
+10:55:35:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+11:06:55:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:07:00:  JLink - Cortex-M Error
+11:07:05:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:07:30:  荆文波
+11:07:55:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:08:45:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091035.log
+11:09:10:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:10:15:  Toolbox
+11:10:25:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:10:30:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091035.log
+11:10:40:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091110.log
+11:10:55:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:11:05:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091110.log
+11:11:10:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:12:10:  KE06LOG.bat - 快捷方式 (2)
+11:12:15:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:12:40:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091112.log
+11:13:00:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:13:15:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+11:13:20:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091112.log
+11:13:25:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+11:13:50:  锁屏状态
+11:13:55:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+11:14:30:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091112.log
+11:14:55:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:15:00:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+11:14:30:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091112.log
+11:14:55:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:15:00:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+11:15:15:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091112.log
+11:15:20:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+11:15:35:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+11:16:20:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:16:25:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+11:17:05:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:17:25:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091112.log
+11:17:30:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:17:45:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091117.log
+11:18:10:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+11:19:00:  锁屏状态
+11:19:10:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:19:40:  9月考勤异常.xlsx
+11:20:10:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:20:15:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:20:20:  KE06LOG.bat - 快捷方式 (2)
+11:20:25:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:20:35:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091120.log
+11:20:55:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:21:00:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091120.log
+11:21:25:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+11:21:50:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:21:55:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091120.log
+11:22:20:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+11:22:50:  D:\00-06\DRB--\Applications\Separate\Separate.c • (DRB--) - Sublime Text (UNREGISTERED)
+11:23:10:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+11:23:15:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:23:50:  Toolbox
+11:23:55:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:24:05:  KE06LOG.bat - 快捷方式 (2)
+11:24:10:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:24:15:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091124.log
+11:24:25:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+11:25:00:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:25:10:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091124.log
+11:25:35:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:25:40:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091124.log
+11:25:55:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:27:20:  荆文波
+11:27:40:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:28:25:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091128.log
+11:29:05:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:28:25:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091128.log
+11:29:05:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:31:05:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091128.log
+11:31:10:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:39:00:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091128.log
+11:40:40:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+11:40:45:  锁屏状态
+11:40:55:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+11:41:00:  D:\00-06\DRB--\Applications\PlateCtrl\PlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+11:41:55:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:42:40:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+13:09:21:  iTunes
+13:09:26:  自动播放
+13:11:51:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+13:12:26:  9月考勤异常.xlsx
+13:13:11:  新标签页 - Google Chrome
+13:13:21:  班车管理系统 - Google Chrome
+13:13:26:  班车管理系统 [新北洋集团] - Google Chrome
+13:13:36:  主页 - Internet Explorer
+13:13:46:  系统登录 - Internet Explorer
+13:13:51:  新北洋OA信息化平台 - Internet Explorer
+13:13:56:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_AM_MENU.C_ATT_EQRY.GBL?FolderPath=POR - Internet Explorer
+13:14:01:  考勤异常 - Internet Explorer
+13:14:21:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+13:14:21:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+13:15:11:  自动播放
+13:17:16:  TCR调测工具 V3.36
+13:17:41:  BTCRTestTool
+13:17:51:  TCR调测工具 V3.36
+13:18:11:  DRB传感器.txt - 记事本
+13:18:21:  TCR调测工具 V3.36
+13:18:31:  发送指令到K06
+13:18:51:  TCR调测工具 V3.36
+13:19:31:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:19:41:  D:\00-06\DRB--\Applications\Instruction\InstrHandle.c (DRB--) - Sublime Text (UNREGISTERED)
+13:19:51:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+13:19:56:  发送指令到K06
+13:20:06:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+13:20:11:  D:\00-06\DRB--\Applications\PlateCtrl\PlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+13:20:16:  D:\00-06\DRB--\Applications\PlateCtrl\PlateCtrl.h (DRB--) - Sublime Text (UNREGISTERED)
+13:20:21:  D:\00-06\DRB--\Applications\Instruction\InstrReturn.c (DRB--) - Sublime Text (UNREGISTERED)
+13:20:26:  D:\00-06\DRB--\Middlewares\Plate\PressurePlate.c (DRB--) - Sublime Text (UNREGISTERED)
+13:20:31:  TCR调测工具 V3.36
+13:22:46:  钞箱配置
+13:22:56:  TCR调测工具 V3.36
+13:23:46:  取款
+13:23:51:  跳转列表
+13:23:56:  K64_BTCR-1100190803000_20201009102052
+13:24:01:  20201009
+13:24:11:  LOG
+13:24:16:  Box_3__BTCR-1100190803000_20201009132326.log - DRB.tat* - TextAnalysisTool.NET
+13:24:31:  取款
+13:24:36:  TCR调测工具 V3.36
+13:25:16:  钞箱配置
+13:25:21:  TCR调测工具 V3.36
+13:25:51:  取款
+13:26:06:  TCR调测工具 V3.36
+13:26:56:  锁屏状态
+13:27:01:  20201009
+13:27:06:  LOG
+13:33:46:  TCR调测工具 V3.36
+13:34:06:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+13:34:31:  log
+13:34:36:  TCRControlCmdDLL
+13:34:41:  20201009
+13:34:46:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:34:51:  K64_BTCR-1100190803000_20201009133351
+13:34:56:  Box_3__BTCR-1100190803000_20201009133351.log - DRB.tat* - TextAnalysisTool.NET
+13:35:01:  K64_BTCR-1100190803000_20201009133351
+13:35:21:  TCR调测工具 V3.36
+13:35:26:  发送指令到K06
+13:35:31:  TCR调测工具 V3.36
+13:35:41:  发送指令到K06
+13:35:56:  TCR调测工具 V3.36
+13:41:16:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:43:11:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091128.log
+13:43:16:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010091342.log
+13:43:21:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:43:41:  Toolbox
+13:43:46:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:46:06:  TCR调测工具 V3.36
+13:47:26:  钞箱配置
+13:47:31:  TCR调测工具 V3.36
+13:47:56:  20201009
+13:48:01:  LOG
+13:48:06:  K64_BTCR-1100190803000_20201009134737
+13:48:11:  Box_3__BTCR-1100190803000_20201009134737.log - DRB.tat* - TextAnalysisTool.NET
+13:49:36:  TCR调测工具 V3.36
+13:49:41:  发送指令到K06
+13:50:01:  TCR调测工具 V3.36
+13:50:16:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:50:41:  Tools
+13:50:57:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+13:51:02:  Tools
+13:51:17:  D:\00-06\DRB--\Tools\CreateJK.exe
+13:51:22:  TCR调测工具 V3.36
+13:51:27:  打开
+13:51:32:  TCR调测工具 V3.36
+13:51:52:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:55:32:  TCR调测工具 V3.36
+13:55:37:  打开
+13:55:42:  TCR调测工具 V3.36
+13:59:47:  取款
+13:59:57:  TCR调测工具 V3.36
+13:59:47:  取款
+13:59:57:  TCR调测工具 V3.36
+14:02:32:  托板控制
+14:02:57:  通道电机测试
+14:03:07:  发送指令到K06
+14:03:12:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:03:22:  TCR调测工具 V3.36
+14:03:27:  TCR调测工具（研发版）V1.0.0.4
+14:03:32:  通道电机测试
+14:08:22:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:10:22:  通道电机测试
+14:10:27:  TCR调测工具（研发版）V1.0.0.4
+14:10:42:  TCR调测工具 V3.36
+14:11:17:  BTCRTestTool
+14:11:22:  TCR调测工具 V3.36
+14:15:02:  取款
+14:15:02:  取款
+14:15:07:  TCR调测工具 V3.36
+14:15:57:  钞箱配置
+14:16:07:  TCR调测工具 V3.36
+14:16:37:  取款
+14:16:42:  TCR调测工具 V3.36
+14:18:12:  取款
+14:18:17:  TCR调测工具 V3.36
+14:18:42:  BTCRTestTool (2) 属性
+14:18:47:  20201009
+14:18:52:  TCRControlCmdDLL
+14:19:02:  20201009
+14:19:12:  Decode
+14:19:17:  Box_2__BTCR-1100190803000_20201009141814.log - DRB.tat* - TextAnalysisTool.NET
+14:21:17:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+14:22:32:  Tools
+14:22:37:  本地磁盘 (D:)
+14:23:02:  00-06
+14:23:07:  D:\00-06\DRB--\Tools\CreateJK.exe
+14:23:17:  Tools
+14:23:32:  TCR调测工具 V3.36
+14:23:37:  D:\00-06\DRB--\Tools\CreateJK.exe
+14:23:42:  打开
+14:23:47:  TCR调测工具 V3.36
+14:26:57:  钞箱配置
+14:27:07:  TCR调测工具 V3.36
+14:27:12:  取款
+14:27:27:  TCR调测工具 V3.36
+14:29:52:  取款
+14:29:57:  TCR调测工具 V3.36
+14:29:52:  取款
+14:29:57:  TCR调测工具 V3.36
+14:35:22:  荆文波
+14:35:47:  删除多个项目
+14:35:52:  Decode
+14:35:57:  LOG
+14:36:02:  Box_4__BTCR-1100190803000_20201009143500.log - DRB.tat* - TextAnalysisTool.NET
+14:37:12:  TCR调测工具 V3.36
+14:38:07:  锁屏状态
+14:38:12:  20201009
+14:38:57:  未命名 - 写邮件
+14:39:02:  发送邮件
+14:39:07:  20201009
+14:39:17:  Decode
+14:39:22:  Box_4__BTCR-1100190803000_20201009143750.log - DRB.tat* - TextAnalysisTool.NET
+14:40:57:  TCR调测工具 V3.36
+14:41:47:  BTCRTestTool
+14:41:52:  TCR调测工具 V3.36
+14:43:07:  B75 (G:) 属性
+14:43:12:  B75 (G:)
+14:43:17:  G
+14:43:37:  自动播放
+14:45:32:  TCR调测工具 V3.36
+14:45:47:  荆文波
+14:46:07:  TCR调测工具 V3.36
+14:46:37:  荆文波
+14:54:57:  锁屏状态
+14:55:07:  TCR调测工具 V3.36
+14:55:57:  可接收
+14:56:02:  TCR调测工具 V3.36
+14:56:07:  钞箱配置
+14:56:37:  TCR调测工具 V3.36
+14:56:52:  钞箱配置
+14:57:37:  TCR调测工具 V3.36
+14:58:07:  钞箱配置
+14:58:17:  TCR调测工具 V3.36
+14:58:52:  取款
+14:59:07:  TCR调测工具 V3.36
+14:58:07:  钞箱配置
+14:58:17:  TCR调测工具 V3.36
+14:58:52:  取款
+14:59:07:  TCR调测工具 V3.36
+15:00:47:  取款
+15:01:02:  TCR调测工具 V3.36
+15:03:17:  钞箱配置
+15:03:32:  TCR调测工具 V3.36
+15:04:08:  20201009
+15:04:13:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:04:28:  K64_BTCR-1100190803000_20201009150240
+15:04:33:  Box_4__BTCR-1100190803000_20201009150240.log - DRB.tat* - TextAnalysisTool.NET
+15:04:38:  K64_BTCR-1100190803000_20201009150058
+15:04:43:  Box_4__BTCR-1100190803000_20201009150058.log - DRB.tat* - TextAnalysisTool.NET
+15:04:48:  LOG
+15:04:53:  TCR调测工具 V3.36
+15:05:23:  取款
+15:05:33:  钞箱配置
+15:05:48:  TCR调测工具 V3.36
+15:07:03:  BTCRTestTool
+15:07:08:  TCR调测工具 V3.36
+15:07:13:  取款
+15:07:18:  TCR调测工具 V3.36
+15:07:33:  自动播放
+15:07:38:  TCR调测工具 V3.36
+15:14:13:  BTCRTestTool
+15:14:18:  TCR调测工具 V3.36
+15:14:43:  取款
+15:14:48:  TCR调测工具 V3.36
+15:14:13:  BTCRTestTool
+15:14:18:  TCR调测工具 V3.36
+15:14:43:  取款
+15:14:48:  TCR调测工具 V3.36
+15:15:08:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+15:15:28:  LOG
+15:15:58:  TCR调测工具 V3.36
+15:17:28:  取款
+15:17:48:  TCR调测工具 V3.36
+15:18:23:  取款
+15:18:33:  TCR调测工具 V3.36
+15:21:18:  取款
+15:21:23:  TCR调测工具 V3.36
+15:23:03:  20201009
+15:23:13:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:23:18:  K64_BTCR-1100190803000_20201009152122
+15:23:23:  Box_1__BTCR-1100190803000_20201009152122.log - DRB.tat* - TextAnalysisTool.NET
+15:23:53:  TCR调测工具 V3.36
+15:27:33:  K64_BTCR-1100190803000_20201009152122
+15:27:38:  20201009
+15:27:43:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:27:48:  Decode
+15:34:28:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+15:35:03:  锁屏状态
+15:35:08:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+15:35:38:  Decode
+15:35:43:  深圳出差
+15:35:48:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+15:35:53:  CRS-64-1
+15:36:13:  荆文波
+15:45:48:  主页 - Internet Explorer
+15:45:58:  系统登录 - Internet Explorer
+15:46:03:  新北洋OA信息化平台 - Internet Explorer
+15:46:08:  员工自助 - Internet Explorer
+15:46:13:  Employee-facing registry content - Internet Explorer
+15:46:18:  绩效评价 - Internet Explorer
+15:46:48:  员工自助 - Internet Explorer
+15:46:53:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/h/?tab=DEFAULT - Internet Explorer
+15:47:03:  Employee-facing registry content - Internet Explorer
+15:47:18:  绩效申请 - Internet Explorer
+15:47:38:  新北洋OA信息化平台 - Internet Explorer
+15:47:43:  系统登录 - Internet Explorer
+15:47:58:  员工自助 - Internet Explorer
+15:48:03:  Employee-facing registry content - Internet Explorer
+15:48:08:  绩效申请 - Internet Explorer
+15:48:18:  Oracle | PeopleSoft Enterprise 登录 - Internet Explorer
+15:48:28:  员工自助 - Internet Explorer
+15:48:33:  荆文波
+15:48:38:  主页 - Internet Explorer
+15:48:43:  系统登录 - Internet Explorer
+15:48:53:  员工自助 - Internet Explorer
+15:48:58:  绩效申请 - Internet Explorer
+15:49:13:  员工自助 - Internet Explorer
+15:49:18:  荆文波
+15:49:23:  主页 - Internet Explorer
+15:49:33:  系统登录 - Internet Explorer
+15:49:43:  员工自助 - Internet Explorer
+15:49:48:  Employee-facing registry content - Internet Explorer
+15:49:58:  绩效申请 - Internet Explorer
+15:50:18:  荆文波
+16:11:43:  CRS-64-1
+16:11:58:  WinRAR
+16:12:08:  fenxi
+16:12:23:  普通取款上腔10元普通取款第61张报钞箱口 500ms纸币未进入 返回码0X085E0900
+16:12:28:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:12:43:  LOG
+16:12:48:  Box_3__BTCR-1100200600510420_20201009160533.log - DRB.tat* - TextAnalysisTool.NET
+16:13:23:  荆文波
+16:13:28:  DRB传感器.txt - 记事本
+16:13:33:  Box_3__BTCR-1100200600510420_20201009160533.log - DRB.tat* - TextAnalysisTool.NET
+16:13:53:  iTunes
+16:14:03:  Windows 任务管理器
+16:14:08:  Box_3__BTCR-1100200600510420_20201009160533.log - DRB.tat* - TextAnalysisTool.NET
+16:14:08:  Box_3__BTCR-1100200600510420_20201009160533.log - DRB.tat* - TextAnalysisTool.NET
+16:16:18:  发送指令到K06
+16:16:23:  TCR调测工具 V3.36
+16:16:28:  发送指令到K06
+16:16:38:  TCR调测工具 V3.36
+16:17:08:  BTCRTestTool
+16:17:13:  TCR调测工具 V3.36
+16:20:13:  发送指令到K06
+16:21:03:  TCR调测工具 V3.36
+16:27:18:  钞箱配置
+16:27:23:  TCR调测工具 V3.36
+16:27:33:  钞箱配置
+16:27:43:  TCR调测工具 V3.36
+16:43:04:  iTunes
+16:43:09:  自动播放
+16:49:59:  iTunes
+16:50:04:  发送指令到K06
+16:50:34:  TCR调测工具 V3.36
+16:54:04:  eSpace
+16:54:14:  Box_3__BTCR-1100200600510420_20201009160533.log - DRB.tat* - TextAnalysisTool.NET
+16:54:29:  Add Filter
+16:54:34:  Box_3__BTCR-1100200600510420_20201009160533.log - DRB.tat* - TextAnalysisTool.NET
+16:55:09:  TCR调测工具 V3.36
+16:55:44:  钞箱配置
+16:55:59:  TCR调测工具 V3.36
+16:56:34:  取款
+16:56:39:  TCR调测工具 V3.36
+16:57:14:  取款
+16:57:19:  TCR调测工具 V3.36
+16:59:19:  取款
+16:59:24:  TCR调测工具 V3.36
+16:59:49:  log
+16:59:54:  20201009
+16:59:19:  取款
+16:59:24:  TCR调测工具 V3.36
+16:59:49:  log
+16:59:54:  20201009
+17:00:19:  TCR调测工具 V3.36
+17:00:24:  20201009
+17:00:44:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+17:00:49:  Decode
+17:00:54:  Box_4__BTCR-1100190803000_20201009165921.log - DRB.tat* - TextAnalysisTool.NET
+17:03:34:  TCR调测工具 V3.36
+17:04:19:  午餐就餐时间调整
+17:04:29:  TCR调测工具 V3.36
+17:06:14:  20201009
+17:06:29:  TCR调测工具 V3.36
+17:06:39:  20201009
+17:06:44:  Decode
+17:06:49:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+17:06:54:  LOG
+17:06:59:  Box_4__BTCR-1100190803000_20201009170523.log - DRB.tat* - TextAnalysisTool.NET
+17:13:14:  D:\00-06\DRB--\Applications\Instruction\InstrReturn.c (DRB--) - Sublime Text (UNREGISTERED)
+17:13:34:  选择文件夹
+17:13:44:  untitled (10) - Sublime Text (UNREGISTERED)
+17:13:49:  D:\00-KE64\10\Applications\FunctionApp\EepHisApp\EepromConfig.h (10) - Sublime Text (UNREGISTERED)
+17:14:34:  读写ERROM
+17:14:44:  TCR调测工具 V3.36
+17:14:34:  读写ERROM
+17:14:44:  TCR调测工具 V3.36
+17:15:34:  取款
+17:15:39:  TCR调测工具 V3.36
+17:18:09:  D:\00-KE64\10\Applications\FunctionApp\EepHisApp\EepromConfig.h (10) - Sublime Text (UNREGISTERED)
+17:18:24:  20201009
+17:18:44:  LOG
+17:18:49:  Box_4__BTCR-1100190803000_20201009171751.log - DRB.tat* - TextAnalysisTool.NET
+17:20:19:  取款
+17:20:24:  TCR调测工具 V3.36
+17:21:34:  取款
+17:21:39:  TCR调测工具 V3.36
+17:25:49:  K64_BTCR-1100190803000_20201009171751
+17:25:54:  TCR调测工具 V3.36
+17:25:59:  发送指令到K06
+17:26:14:  TCR调测工具 V3.36
+17:27:04:  钞箱配置
+17:27:24:  TCR调测工具 V3.36
+17:28:14:  取款
+17:28:19:  TCR调测工具 V3.36
+17:29:14:  取款
+17:29:19:  TCR调测工具 V3.36
+17:29:39:  取款
+17:29:44:  TCR调测工具 V3.36
+17:28:14:  取款
+17:28:19:  TCR调测工具 V3.36
+17:29:14:  取款
+17:29:19:  TCR调测工具 V3.36
+17:29:39:  取款
+17:29:44:  TCR调测工具 V3.36
+17:31:39:  20201009
+17:32:24:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+17:32:29:  K64_BTCR-1100190803000_20201009173113
+17:32:34:  Box_4__BTCR-1100190803000_20201009173113.log - DRB.tat* - TextAnalysisTool.NET
+17:32:44:  TCRControlCmdDLL
+17:32:49:  K64_BTCR-1100190803000_20201009173113
+17:32:54:  Box_4__BTCR-1100190803000_20201009173113.log - DRB.tat* - TextAnalysisTool.NET
+17:33:29:  未命名 - 写邮件
+17:33:34:  K64-_BTCR-1100190803000_20201009173113 - 写邮件
+17:33:39:  取款
+17:33:44:  TCR调测工具 V3.36
+17:34:04:  取款
+17:34:09:  TCR调测工具 V3.36
+17:37:09:  收取邮件 - 张开发
+17:37:14:  TCR调测工具 V3.36
+17:37:19:  收取邮件 - 张开发
+17:37:29:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T98
+17:37:34:  打开
+17:37:39:  TCR调测工具 V3.36
+17:39:24:  BTCRTestTool
+17:39:29:  取款
+17:39:34:  TCR调测工具 V3.36
+17:40:14:  20201009
+17:40:44:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+17:40:54:  未命名 - 写邮件
+17:41:04:  K64_BTCR-1100190803000_20201009173932
+17:41:09:  取款
+17:41:19:  TCR调测工具 V3.36
+17:43:29:  取款
+17:43:34:  TCR调测工具 V3.36
+17:44:09:  Box_4__BTCR-1100190803000_20201009173113.log - DRB.tat* - TextAnalysisTool.NET
+17:44:29:  取款
+17:44:39:  TCR调测工具 V3.36
+17:44:49:  Box_4__BTCR-1100190803000_20201009173113.log - DRB.tat* - TextAnalysisTool.NET
+17:44:54:  Add Filter
+17:45:04:  Box_4__BTCR-1100190803000_20201009173113.log - DRB.tat* - TextAnalysisTool.NET
+17:44:09:  Box_4__BTCR-1100190803000_20201009173113.log - DRB.tat* - TextAnalysisTool.NET
+17:44:29:  取款
+17:44:39:  TCR调测工具 V3.36
+17:44:49:  Box_4__BTCR-1100190803000_20201009173113.log - DRB.tat* - TextAnalysisTool.NET
+17:44:54:  Add Filter
+17:45:04:  Box_4__BTCR-1100190803000_20201009173113.log - DRB.tat* - TextAnalysisTool.NET
+17:45:19:  TCR调测工具 V3.36
+17:58:59:  K64_BTCR-1100190803000_20201009173932
+17:59:04:  TCR调测工具 V3.36
+17:58:59:  K64_BTCR-1100190803000_20201009173932
+17:59:04:  TCR调测工具 V3.36
+18:00:24:  钞箱配置
+18:00:34:  TCR调测工具 V3.36
+18:00:39:  钞箱配置
+18:00:49:  TCR调测工具 V3.36
+18:02:19:  取款
+18:02:24:  TCR调测工具 V3.36
+18:02:54:  取款
+18:02:59:  TCR调测工具 V3.36
+18:06:54:  取款
+18:06:59:  TCR调测工具 V3.36
+18:10:14:  发送指令到K06
+18:10:19:  TCR调测工具 V3.36
+18:10:29:  发送指令到K06
+18:10:34:  TCR调测工具 V3.36
+18:10:39:  发送指令到K06
+18:10:44:  TCR调测工具 V3.36
+18:18:39:  打开
+18:18:54:  TCR调测工具 V3.36
+18:20:44:  TCRTest
+18:20:59:  TCR调测工具 V3.36
+18:21:04:  桌面整理
+18:21:54:  TCR调测工具 V3.36
+18:26:04:  桌面整理
+18:26:09:  TCR调测工具 V3.36
+18:26:54:  钞箱配置
+18:27:04:  TCR调测工具 V3.36
+18:50:55:  Apple Software Update
+18:51:00:  自动播放
+19:03:00:  iTunes

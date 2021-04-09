@@ -1,0 +1,718 @@
+08:06:10:  桌面整理
+08:06:25:  CommonManageTool
+08:06:30:  
+08:06:35:  Windows 资源管理器
+08:06:40:  库
+08:06:50:  Dialog
+08:06:55:  eSpace Login
+08:07:10:  
+08:07:30:  eSpace
+08:07:35:  
+08:07:40:  eSpace
+08:07:50:  
+08:07:55:  eSpace
+08:08:25:  库
+08:08:35:  本地磁盘 (D:)
+08:08:40:  共享文件
+08:08:50:  主控板集成测试方案-报告
+08:09:00:  固件集成测试方案
+08:09:05:  主控板集成测试方案-报告
+08:09:10:  Windows Installer
+08:09:15:  正在打开 - Excel
+08:09:20:  PostWork.py - 快捷方式
+08:09:30:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+08:09:40:  新标签页 - Google Chrome
+08:09:50:  班车管理系统 - Google Chrome
+08:09:55:  班车管理系统 [新北洋集团] - Google Chrome
+08:10:00:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+08:10:05:  文档
+08:10:15:  *Python 3.7.3 Shell*
+08:10:25:  Kill?
+08:10:30:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:11:00:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:11:05:  *Python 3.7.3 Shell*
+08:11:15:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:11:30:  「开始」菜单
+08:11:35:  Starting Fiddler...
+08:11:40:  新标签页 - Google Chrome
+08:11:45:  Progress Telerik Fiddler Web Debugger
+08:11:50:  班车管理系统 - Google Chrome
+08:11:55:  班车管理系统 [新北洋集团] - Google Chrome
+08:12:00:  Progress Telerik Fiddler Web Debugger
+08:12:35:  班车管理系统 [新北洋集团] - Google Chrome
+08:12:40:  Progress Telerik Fiddler Web Debugger
+08:12:45:  文档
+08:12:50:  新建文件夹 (2)
+08:12:55:  PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)
+08:13:00:  文档
+08:13:05:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:13:15:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:13:20:  Python 3.7.3 Shell
+08:13:25:  *Python 3.7.3 Shell*
+08:13:30:  Progress Telerik Fiddler Web Debugger
+08:13:35:  新标签页 - Google Chrome
+08:13:40:  班车管理系统 - Google Chrome
+08:13:45:  班车管理系统 [新北洋集团] - Google Chrome
+08:13:50:  Progress Telerik Fiddler Web Debugger
+08:14:00:  
+08:14:05:  PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)
+08:14:30:  *PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)*
+08:14:45:  Starting Fiddler...
+08:14:50:  新标签页 - Google Chrome
+08:14:55:  班车管理系统 - Google Chrome
+08:15:00:  班车管理系统 [新北洋集团] - Google Chrome
+08:15:05:  Progress Telerik Fiddler Web Debugger
+08:15:10:  
+08:15:15:  Save On Close
+08:15:20:  新建文件夹 (2)
+08:15:30:  自动播放
+08:16:00:  iTunes
+08:19:50:  新建文件夹 (2)
+08:19:55:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:20:05:  文档
+08:20:10:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:20:35:  192.168.28.228 - Google Chrome
+08:20:40:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+08:21:45:  
+08:22:10:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+08:24:10:  192.168.28.228 - Google Chrome
+08:24:15:  Progress Telerik Fiddler Web Debugger
+08:24:20:  提示
+08:24:30:  班车管理系统 - Google Chrome
+08:24:35:  班车管理系统 [新北洋集团] - Google Chrome
+08:24:45:  Update Announcement (from v5.0.20192.25091 to v5.0.20194.41348)
+08:24:50:  Progress Telerik Fiddler Web Debugger
+08:26:15:  Find Sessions
+08:26:20:  Progress Telerik Fiddler Web Debugger
+08:26:40:  文档
+08:26:45:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:27:00:  Progress Telerik Fiddler Web Debugger
+08:27:15:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:27:55:  Progress Telerik Fiddler Web Debugger
+08:28:10:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:28:35:  Progress Telerik Fiddler Web Debugger
+08:28:40:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:29:05:  *Python 3.7.3 Shell*
+08:29:20:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:29:35:  *Python 3.7.3 Shell*
+08:29:45:  Progress Telerik Fiddler Web Debugger
+08:29:50:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:29:55:  Progress Telerik Fiddler Web Debugger
+08:28:10:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:28:35:  Progress Telerik Fiddler Web Debugger
+08:28:40:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:29:05:  *Python 3.7.3 Shell*
+08:29:20:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:29:35:  *Python 3.7.3 Shell*
+08:29:45:  Progress Telerik Fiddler Web Debugger
+08:29:50:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:29:55:  Progress Telerik Fiddler Web Debugger
+08:30:15:  *Python 3.7.3 Shell*
+08:30:25:  Progress Telerik Fiddler Web Debugger
+08:31:05:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:31:50:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:32:15:  *Python 3.7.3 Shell*
+08:32:25:  
+08:32:30:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:32:45:  Progress Telerik Fiddler Web Debugger
+08:33:15:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:33:30:  文档
+08:33:35:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:33:45:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:33:50:  Save Before Run or Check
+08:33:55:  *Python 3.7.3 Shell*
+08:34:00:  Progress Telerik Fiddler Web Debugger
+08:34:05:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:34:10:  *Python 3.7.3 Shell*
+08:34:20:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:34:35:  本地磁盘 (D:)
+08:34:40:  新建文件夹 (2)
+08:34:45:  PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)
+08:34:50:  
+08:34:55:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:35:00:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:35:05:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:35:10:  *Python 3.7.3 Shell*
+08:35:15:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:35:20:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:35:25:  *Python 3.7.3 Shell*
+08:35:30:  Python 3.7.3 Shell
+08:35:40:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:35:50:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:35:55:  *Python 3.7.3 Shell*
+08:36:05:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:36:10:  *Python 3.7.3 Shell*
+08:36:20:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:36:25:  Progress Telerik Fiddler Web Debugger
+08:37:25:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:37:35:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:37:45:  Progress Telerik Fiddler Web Debugger
+08:37:50:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:37:55:  *Python 3.7.3 Shell*
+08:38:05:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:38:15:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:38:20:  *Python 3.7.3 Shell*
+08:38:25:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:38:30:  *Python 3.7.3 Shell*
+08:38:35:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:38:50:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:39:00:  *Python 3.7.3 Shell*
+08:39:05:  Kill?
+08:39:10:  Progress Telerik Fiddler Web Debugger
+08:39:25:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:39:30:  *Python 3.7.3 Shell*
+08:39:35:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:39:40:  Save Before Run or Check
+08:39:45:  *Python 3.7.3 Shell*
+08:39:50:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:40:00:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:40:05:  *Python 3.7.3 Shell*
+08:40:10:  Kill?
+08:40:15:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:40:30:  Progress Telerik Fiddler Web Debugger
+08:40:40:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:40:45:  *Python 3.7.3 Shell*
+08:41:10:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:41:15:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:41:20:  *Python 3.7.3 Shell*
+08:41:25:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:41:35:  *Python 3.7.3 Shell*
+08:41:40:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:41:45:  *Python 3.7.3 Shell*
+08:41:50:  Kill?
+08:41:55:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:42:05:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:42:30:  *Python 3.7.3 Shell*
+08:42:35:  Kill?
+08:42:40:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:42:55:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:43:00:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:43:05:  PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)
+08:43:55:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:44:05:  新建文件夹 (2)
+08:44:10:  PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)
+08:44:20:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:44:30:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:44:45:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:44:50:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:45:20:  *Python 3.7.3 Shell*
+08:45:45:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:45:55:  *PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)*
+08:46:00:  *Python 3.7.3 Shell*
+08:46:20:  班车管理系统 [新北洋集团] - Google Chrome
+08:46:30:  班车管理系统 - Google Chrome
+08:46:35:  Progress Telerik Fiddler Web Debugger
+08:46:40:  班车管理系统 - Google Chrome
+08:46:45:  班车管理系统 [新北洋集团] - Google Chrome
+08:46:50:  Progress Telerik Fiddler Web Debugger
+08:48:00:  班车管理系统 [新北洋集团] - Google Chrome
+08:48:05:  Progress Telerik Fiddler Web Debugger
+08:48:15:  
+08:48:20:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+08:48:25:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+08:48:30:  新建文本文档.exe - 快捷方式
+08:48:35:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+08:49:00:  PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)
+08:49:10:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+08:49:30:  TCR调测工具 V3.36
+08:49:35:  「开始」菜单
+08:50:20:  bushand - Everything
+08:50:25:  「开始」菜单
+08:50:30:  Bus Hound
+08:50:40:  TCR调测工具 V3.36
+08:50:50:  Bus Hound
+08:50:55:  TCR调测工具 V3.36
+08:51:00:  通道电机测试
+08:51:15:  Bus Hound
+08:51:25:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+08:51:35:  新建文件夹 (2)
+08:51:40:  
+08:51:45:  本地磁盘 (F:)
+08:52:40:  42 CRS现金循环模块
+08:52:45:  指令接口部分
+08:53:00:  BTCR-1100_内部编程手册_V100.doc (受保护的视图) - Word
+08:53:10:  
+08:53:15:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+08:53:20:  Bus Hound
+08:53:45:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+08:53:50:  Bus Hound
+08:53:55:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+08:54:00:  Bus Hound
+08:54:25:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+08:54:30:  指令接口部分
+08:54:35:  Bus Hound
+08:54:40:  Save Captured Data
+08:54:45:  
+08:54:50:  桌面整理
+08:55:10:  桌面
+08:55:20:  查找
+08:55:50:  通道电机测试
+08:55:55:  TCR调测工具 V3.36
+08:56:00:  通道电机测试
+08:56:05:  
+08:56:10:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+08:56:35:  通道电机测试
+08:56:50:  Bus Hound
+08:56:55:  计算器
+08:57:10:  Bus Hound
+09:00:15:  
+09:01:10:  桌面
+09:01:15:  计算器
+09:01:30:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:01:35:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:01:50:  Bus Hound
+09:02:30:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:02:35:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackMotor\MotorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+09:02:50:  Bus Hound
+09:02:55:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:03:00:  Bus Hound
+09:03:10:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:03:20:  Bus Hound
+09:04:00:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\StepMotorDriver\StepMotorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:04:05:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\Instruction\InstrReturn.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:04:35:  Bus Hound
+09:04:45:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\Instruction\InstrHandle.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:04:50:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\Instruction\InstrReturn.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:04:55:  Bus Hound
+09:05:55:  发送指令到K06
+09:06:00:  TCR调测工具 V3.36
+09:06:05:  通道电机测试
+09:06:15:  TCR调测工具 V3.36
+09:06:55:  Bus Hound
+09:07:00:  通道电机测试
+09:07:05:  Bus Hound
+09:07:45:  
+09:07:55:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\Instruction\InstrReturn.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:08:05:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:08:50:  Bus Hound
+09:09:10:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:09:15:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\Instruction\InstrReturn.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:09:35:  Bus Hound
+09:10:55:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\Instruction\InstrReturn.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:11:10:  Bus Hound
+09:12:00:  跳转列表
+09:12:05:  TCRControlCmdDLL
+09:12:10:  20200311
+09:12:15:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+09:12:20:  K64_22134_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:12:40:  20200311
+09:12:45:  通道电机测试
+09:12:50:  20200311
+09:13:00:  K64_22134_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:13:05:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:13:30:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:13:55:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:14:45:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:15:10:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:15:30:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:15:40:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\Instruction\InstrReturn.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:15:50:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:16:10:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\Instruction\InstrReturn.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:16:40:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:16:50:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:16:55:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:17:00:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:17:05:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:17:10:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\Instruction\InstrReturn.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:17:20:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:17:25:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+09:17:30:  
+09:17:35:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:18:15:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:18:20:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\Instruction\InstrReturn.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:18:25:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:18:40:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:18:50:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:18:55:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:19:00:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:19:05:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:19:35:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:21:55:  Decode
+09:22:00:  
+09:22:05:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:22:40:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:23:05:  计算器
+09:23:25:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:24:55:  BTCRTestTool V3.36
+09:25:00:  新标签页 - Google Chrome
+09:25:05:  百度一下，你就知道 - Google Chrome
+09:25:25:  pyw 进程被挂起_百度搜索 - Google Chrome
+09:25:30:  无标题 - Google Chrome
+09:25:35:  windows下实现python后台进程_Python_技术小站-CSDN博客 - Google Chrome
+09:25:40:  BTCRTestTool
+09:25:45:  windows下实现python后台进程_Python_技术小站-CSDN博客 - Google Chrome
+09:26:05:  「开始」菜单
+09:26:10:  BTCRTestTool V3.36
+09:26:15:  log
+09:26:20:  20200311
+09:26:25:  通道电机测试
+09:26:30:  20200311
+09:26:35:  计算机管理
+09:26:40:  「开始」菜单
+09:26:45:  服务
+09:26:50:  添加/删除列
+09:27:00:  服务
+09:27:05:  添加/删除列
+09:27:10:  服务
+09:27:25:  选项
+09:27:30:  服务
+09:27:45:  windows下实现python后台进程_Python_技术小站-CSDN博客 - Google Chrome
+09:28:06:  pyw 进程被挂起_百度搜索 - Google Chrome
+09:28:11:  https://www.baidu.com/link?url=kOfDFYoh7aJml4023exHgFpyPHz7Srl1jO_VxFAzYo97q8FVh7XGsLKgiazyt4t-32Z0ppjv3SLoCAUrqhSXK_0snPRqA-uHsLQjdLZXCSW&wd=&eqid=d174999b00075a14000000025e683e04 - Google Chrome
+09:28:16:  python中.py和.pyw文件的区别_Python_wo446100076的专栏-CSDN博客 - Google Chrome
+09:28:56:  pyw 进程被挂起_百度搜索 - Google Chrome
+09:29:01:  pyw stdin_百度搜索 - Google Chrome
+09:29:21:  
+09:29:26:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:29:41:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:29:56:  通道电机测试
+09:30:01:  TCR调测工具 V3.36
+09:28:06:  pyw 进程被挂起_百度搜索 - Google Chrome
+09:28:11:  https://www.baidu.com/link?url=kOfDFYoh7aJml4023exHgFpyPHz7Srl1jO_VxFAzYo97q8FVh7XGsLKgiazyt4t-32Z0ppjv3SLoCAUrqhSXK_0snPRqA-uHsLQjdLZXCSW&wd=&eqid=d174999b00075a14000000025e683e04 - Google Chrome
+09:28:16:  python中.py和.pyw文件的区别_Python_wo446100076的专栏-CSDN博客 - Google Chrome
+09:28:56:  pyw 进程被挂起_百度搜索 - Google Chrome
+09:29:01:  pyw stdin_百度搜索 - Google Chrome
+09:29:21:  
+09:29:26:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:29:41:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:29:56:  通道电机测试
+09:30:01:  TCR调测工具 V3.36
+09:30:11:  
+09:30:16:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:30:21:  通道电机测试
+09:30:26:  发送指令到K06
+09:30:41:  TCR调测工具 V3.36
+09:30:46:  20200311
+09:30:51:  Decode
+09:30:56:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:31:36:  计算器
+09:31:51:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:32:46:  通道电机测试
+09:32:56:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:35:36:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:35:41:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:40:11:  通道电机测试
+09:40:16:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:40:26:  计算器
+09:40:36:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:40:41:  计算器
+09:41:06:  TCR调测工具 V3.36
+09:41:16:  通道电机测试
+09:41:21:  发送指令到K06
+09:41:31:  通道电机测试
+09:41:46:  TCR调测工具 V3.36
+09:41:51:  
+09:41:56:  TCR调测工具 V3.36
+09:42:06:  计算器
+09:42:11:  TCR调测工具 V3.36
+09:42:16:  
+09:42:21:  20200311
+09:42:26:  Decode
+09:42:31:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:43:56:  计算器
+09:44:01:  
+09:44:06:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:44:11:  计算器
+09:44:21:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:44:41:  计算器
+09:44:46:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:45:01:  
+09:45:06:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\Instruction\InstrReturn.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:45:11:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:45:31:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Bldc\Bldc.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:45:36:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:45:41:  计算器
+09:46:11:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:46:16:  计算器
+09:46:31:  20200311
+09:46:36:  通道电机测试
+09:46:51:  发送指令到K06
+09:47:21:  通道电机测试
+09:47:26:  TCR调测工具 V3.36
+09:47:41:  
+09:47:46:  TCR调测工具 V3.36
+09:47:51:  20200311
+09:47:56:  TCRControlCmdDLL
+09:48:01:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+09:48:06:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:48:16:  计算器
+09:49:16:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:50:21:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:50:31:  00-KE64
+09:50:36:  
+09:50:41:  D:\00-KE64\6\trunk\Project\k64_rtt.uvprojx - μVision
+09:50:51:  
+09:50:56:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:51:01:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:51:41:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:52:01:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:52:16:  
+09:52:21:  D:\00-KE64\6\trunk\Project\k64_rtt.uvprojx - μVision
+09:52:26:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:53:06:  D:\00-KE64\6\trunk\Project\k64_rtt.uvprojx - μVision
+09:53:11:  trunk
+09:53:16:  GateModule.c - TortoiseMerge
+09:53:21:  EepHisApp.c - TortoiseMerge
+09:53:36:  D:\00-KE64\6\trunk - 工作副本 - TortoiseSVN
+09:53:41:  InstrSUBProcess.c - TortoiseMerge
+09:53:46:  StateCheck.c - TortoiseMerge
+09:53:51:  EncryApp.c - TortoiseMerge
+09:53:56:  SystemConfig.h - TortoiseMerge
+09:54:06:  D:\00-KE64\6\trunk\Project\k64_rtt.uvprojx - μVision
+09:54:11:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:54:21:  μVision
+09:54:26:  D:\00-KE64\6\trunk\Project\k64_rtt.uvprojx - μVision
+09:54:41:  
+09:55:33:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:55:53:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+09:57:03:  
+09:57:08:  trunk
+09:57:13:  D:\00-KE64\6\trunk\Tools\CreateJK.exe
+09:57:18:  Tools
+09:57:28:  「开始」菜单
+09:57:33:  网易有道词典
+09:57:38:  Tools
+09:57:53:  
+09:57:58:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T78_Encry - 写邮件
+09:58:33:  
+09:58:43:  Tools
+09:58:48:  D:\00-KE64\6\trunk\Project\k64_rtt.uvprojx - μVision
+09:58:53:  
+09:59:03:  TCR调测工具 V3.36
+09:59:08:  通道电机测试
+09:59:13:  TCR调测工具 V3.36
+09:59:18:  发送指令到K06
+09:59:33:  计算器
+09:59:43:  TCR调测工具 V3.36
+09:59:48:  通道电机测试
+09:59:58:  TCR调测工具 V3.36
+10:00:03:  跳转列表
+09:58:33:  
+09:58:43:  Tools
+09:58:48:  D:\00-KE64\6\trunk\Project\k64_rtt.uvprojx - μVision
+09:58:53:  
+09:59:03:  TCR调测工具 V3.36
+09:59:08:  通道电机测试
+09:59:13:  TCR调测工具 V3.36
+09:59:18:  发送指令到K06
+09:59:33:  计算器
+09:59:43:  TCR调测工具 V3.36
+09:59:48:  通道电机测试
+09:59:58:  TCR调测工具 V3.36
+10:00:03:  跳转列表
+10:00:13:  首页 - 知乎 - Google Chrome
+10:00:18:  (36 封私信) 首页 - 知乎 - Google Chrome
+10:02:13:  BTCRTestTool V3.36
+10:02:23:  TCRControlCmdDLL
+10:02:33:  20200311
+10:02:48:  Decode
+10:02:53:  K64_0000_20200311084826.log - [No filter file] - TextAnalysisTool.NET
+10:03:53:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:04:18:  计算器
+10:05:48:  Decode
+10:05:53:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:06:08:  Decode
+10:06:13:  20200311
+10:06:18:  Decode
+10:06:28:  Box_1__0000_20200304132856.log - [No filter file] - TextAnalysisTool.NET
+10:07:43:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:08:03:  新建文本文档.exe - 快捷方式
+10:08:08:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:08:18:  通道电机测试
+10:08:28:  
+10:08:33:  BTCRTestTool V3.41
+10:08:38:  20200304
+10:08:43:  TCR调测工具（研发版）V3.41
+10:08:48:  通道电机测试
+10:08:58:  TCR调测工具（研发版）V3.41
+10:09:03:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:09:23:  TCR调测工具 V3.36
+10:09:28:  通道电机测试
+10:09:33:  发送指令到K06
+10:09:38:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+10:09:53:  便签条
+10:10:13:  
+10:10:18:  于斌1
+10:10:33:  便签条
+10:10:53:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+10:10:58:  便签条
+10:11:38:  于斌1
+10:11:48:  
+10:11:53:  于斌1
+10:12:43:  
+10:12:48:  于斌1
+10:12:53:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+10:12:58:  便签条
+10:14:03:  于斌1
+10:14:18:  
+10:14:23:  于斌1
+10:17:38:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+10:17:43:  
+10:17:48:  便签条
+10:17:53:  Box_1__0000_20200304132856.log - [No filter file] - TextAnalysisTool.NET
+10:17:58:  
+10:18:03:  计算器
+10:18:18:  便签条
+10:18:28:  计算器
+10:18:43:  
+10:18:48:  便签条
+10:18:53:  发送指令到K06
+10:19:08:  log
+10:19:13:  
+10:19:18:  20200304
+10:19:23:  20200311
+10:19:28:  Box_1__0000_20200304132856.log - [No filter file] - TextAnalysisTool.NET
+10:19:33:  K64_0000_20200311100919.log - [No filter file] - TextAnalysisTool.NET
+10:19:43:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:19:58:  K64_0000_20200311100919.log - [No filter file] - TextAnalysisTool.NET
+10:20:08:  计算器
+10:20:28:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:20:43:  TCR调测工具 V3.36
+10:20:48:  发送指令到K06
+10:20:53:  便签条
+10:21:03:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:21:08:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+10:21:13:  发送指令到K06
+10:21:28:  TCR调测工具 V3.36
+10:21:33:  20200311
+10:21:38:  K64_0000_20200311100919.log - [No filter file] - TextAnalysisTool.NET
+10:21:48:  便签条
+10:21:53:  发送指令到K06
+10:22:18:  TCR调测工具 V3.36
+10:22:23:  发送指令到K06
+10:22:28:  TCRControlCmdDLL
+10:22:33:  Decode
+10:22:38:  K64_0000_20200311100919.log - [No filter file] - TextAnalysisTool.NET
+10:22:48:  计算器
+10:22:58:  
+10:23:03:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:23:13:  便签条
+10:23:18:  发送指令到K06
+10:23:23:  便签条
+10:23:28:  发送指令到K06
+10:23:38:  20200311
+10:23:43:  Decode
+10:23:48:  K64_0000_20200311100919.log - [No filter file] - TextAnalysisTool.NET
+10:23:58:  计算器
+10:24:43:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:24:53:  TCR调测工具 V3.36
+10:24:58:  回收
+10:25:03:  便签条
+10:25:08:  TCR调测工具 V3.36
+10:25:13:  发送指令到K06
+10:25:23:  TCR调测工具 V3.36
+10:25:28:  K64_0000_20200311100919.log - [No filter file] - TextAnalysisTool.NET
+10:25:48:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:25:53:  K64_0000_20200311100919.log - [No filter file] - TextAnalysisTool.NET
+10:25:58:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:26:23:  发送指令到K06
+10:26:28:  于斌1
+10:33:58:  钞箱传感器
+10:34:03:  TCR调测工具 V3.36
+10:34:08:  钞箱传感器
+10:34:13:  TCR调测工具 V3.36
+10:34:18:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:34:23:  untitled (trunk) - Sublime Text (UNREGISTERED)
+10:34:28:  D:\00-06\Thespace\trunk\Drivers\SensorDriver\SensorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+10:34:33:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:37:38:  TCR调测工具 V3.36
+10:39:03:  托板控制
+10:39:23:  TCR调测工具 V3.36
+10:39:53:  托板控制
+10:45:24:  变幻线
+10:46:19:  TCR调测工具 V3.36
+10:46:24:  
+10:47:04:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:47:09:  Decode
+10:47:14:  正在准备 再循环
+10:47:19:  TCR调测工具 V3.36
+10:47:24:  发送指令到K06
+10:47:39:  20200311
+10:47:44:  K64_0000_20200311103812.log - [No filter file] - TextAnalysisTool.NET
+10:47:54:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:48:09:  
+10:48:14:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:53:54:  变幻线
+10:58:39:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:58:39:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+11:01:44:  于斌1
+11:01:49:  
+11:02:04:  于斌1
+11:02:19:  
+11:02:44:  于斌1
+11:02:59:  
+11:03:14:  于斌1
+11:03:19:  
+11:03:24:  于斌1
+11:03:39:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:04:04:  TCR调测工具 V3.36
+11:04:09:  便签条
+11:04:19:  发送指令到K06
+11:04:29:  20200311
+11:04:34:  Decode
+11:04:39:  K64_0000_20200311103812.log - [No filter file] - TextAnalysisTool.NET
+11:04:49:  发送指令到K06
+11:04:54:  Decode
+11:05:04:  K64_0000_20200311103812.log - [No filter file] - TextAnalysisTool.NET
+11:05:24:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:05:29:  
+11:05:39:  于斌1
+11:09:59:  
+11:10:04:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:10:19:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:10:24:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+11:12:34:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+11:12:39:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+11:12:54:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+11:12:59:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+11:13:19:  TCR调测工具 V3.36
+11:13:24:  20200311
+11:13:29:  TCR调测工具 V3.36
+11:13:34:  
+11:13:54:  20200311
+11:14:09:  Decode
+11:14:14:  Box_1__0000_20200311111330.log - [No filter file] - TextAnalysisTool.NET
+11:14:49:  K64_0000_20200311111330
+11:14:54:  Decode
+11:14:59:  20200311
+11:15:04:  发送指令到K06
+11:15:09:  便签条
+11:15:39:  发送指令到K06
+11:15:44:  便签条
+11:15:49:  TCR调测工具 V3.36
+11:15:54:  便签条
+11:15:59:  发送指令到K06
+11:16:04:  TCR调测工具 V3.36
+11:16:09:  便签条
+11:16:14:  TCR调测工具 V3.36
+11:16:19:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+11:16:49:  
+11:16:54:  计算器
+11:17:04:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+11:17:09:  20200311
+11:17:14:  发送指令到K06
+11:17:19:  TCR调测工具 V3.36
+11:17:39:  20200311
+11:17:44:  Decode
+11:17:49:  TCR调测工具 V3.36
+11:17:54:  K64_0000_20200311111330.log - [No filter file] - TextAnalysisTool.NET
+11:18:59:  
+11:19:04:  20200311
+11:19:14:  新建文件夹
+11:19:19:  LOG
+11:19:24:  K64_0000_20200311111747
+11:19:34:  Box_1__0000_20200311111747.log - [No filter file] - TextAnalysisTool.NET
+11:20:19:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:20:24:  Box_1__0000_20200311111747.log - [No filter file] - TextAnalysisTool.NET
+11:21:04:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+11:21:09:  Box_1__0000_20200311111747.log - [No filter file] - TextAnalysisTool.NET
+11:21:39:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+11:21:44:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:22:14:  Add Filter
+11:22:19:  Box_1__0000_20200311111747.log - [No filter file]* - TextAnalysisTool.NET
+11:22:39:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:22:49:  Box_1__0000_20200311111747.log - [No filter file]* - TextAnalysisTool.NET
+11:22:54:  Edit Filter
+11:22:59:  Box_1__0000_20200311111747.log - [No filter file]* - TextAnalysisTool.NET
+11:23:39:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:26:34:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel

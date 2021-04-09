@@ -1,0 +1,2580 @@
+﻿08:13:46:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:13:51:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:13:56:  锁屏状态
+08:14:06:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+08:14:11:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+08:14:16:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+08:14:21:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:14:26:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:14:31:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:14:36:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:14:41:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:14:46:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:14:51:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:14:56:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:15:01:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:15:06:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:15:11:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:15:16:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:15:21:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:15:26:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:15:31:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:15:36:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:15:41:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:15:46:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:15:51:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:15:56:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:16:01:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:16:06:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:16:11:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:16:16:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:16:21:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:16:26:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:16:31:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:16:36:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:16:41:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:16:46:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:16:51:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:16:56:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:17:01:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:17:06:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:17:11:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:17:16:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:17:21:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:17:26:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:17:31:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:17:36:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:17:41:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:17:46:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:17:51:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:17:56:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:18:01:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:18:06:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:18:11:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:18:16:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:18:21:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:18:26:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:18:31:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:18:36:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:18:41:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:18:46:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:18:51:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:18:56:  董鲁乾
+08:19:01:  董鲁乾
+08:19:06:  陈忠
+08:19:11:  陈忠
+08:19:16:  陈忠
+08:19:21:  陈忠
+08:19:26:  陈忠
+08:19:31:  陈忠
+08:19:36:  陈忠
+08:19:41:  陈忠
+08:19:46:  计算器
+08:19:56:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+08:20:01:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:20:06:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:20:11:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:20:16:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:20:21:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:20:26:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:20:31:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:20:36:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:20:41:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:20:46:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:20:51:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:20:56:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:21:01:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:21:06:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\PlateCommon.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:21:11:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:21:16:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:21:21:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:21:26:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:21:31:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:21:36:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:21:41:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:21:46:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:21:51:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:21:56:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:22:01:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:22:06:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:22:11:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:22:16:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:22:21:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:22:26:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:22:31:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:22:36:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:22:41:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:22:46:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:22:51:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:22:56:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:23:01:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:23:06:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:23:11:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:23:16:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:23:21:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:23:26:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:23:31:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:23:36:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:23:41:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:23:46:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:23:51:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:23:56:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:24:01:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:24:06:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:24:11:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:24:16:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:24:21:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:24:26:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:24:31:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:24:36:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:24:41:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:24:46:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:24:51:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:24:56:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:25:01:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:25:06:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\LowerPlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:25:11:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\LowerPlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:25:16:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:25:21:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:25:26:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:25:31:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:25:36:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:25:41:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:25:46:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\LowerPlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:25:51:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\LowerPlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:25:56:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\LowerPlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:26:01:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\LowerPlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:26:06:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\LowerPlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:26:11:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\LowerPlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:26:16:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\LowerPlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:26:21:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\LowerPlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:26:26:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:26:31:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:26:36:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:26:41:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:26:46:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:26:51:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:26:56:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:27:01:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:27:06:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:27:11:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:27:16:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:27:21:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:27:26:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:27:36:  D:\00-06\Thespace\trunk\Applications\ErrCode\ErrCode.h (trunk) - Sublime Text (UNREGISTERED)
+08:27:41:  选择文件夹
+08:27:46:  选择文件夹
+08:27:51:  untitled (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:27:56:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:28:01:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:28:06:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:28:11:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:28:16:  「开始」菜单
+08:28:21:  1T2集成测试 - OneNote
+08:28:26:  1T2集成测试 - OneNote
+08:28:31:  1T2集成测试 - OneNote
+08:28:36:  1T2集成测试 - OneNote
+08:28:46:  42 CRS现金循环模块
+08:28:51:  钞箱1T2集成测试方案
+08:28:56:  锁屏状态
+08:29:01:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+08:29:11:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+08:29:16:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+08:29:21:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+08:29:26:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:29:31:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:29:36:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:29:41:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:29:46:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:29:51:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:29:56:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:30:01:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:28:06:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:28:11:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:28:16:  「开始」菜单
+08:28:21:  1T2集成测试 - OneNote
+08:28:26:  1T2集成测试 - OneNote
+08:28:31:  1T2集成测试 - OneNote
+08:28:36:  1T2集成测试 - OneNote
+08:28:46:  42 CRS现金循环模块
+08:28:51:  钞箱1T2集成测试方案
+08:28:56:  锁屏状态
+08:29:01:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+08:29:11:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+08:29:16:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+08:29:21:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+08:29:26:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:29:31:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:29:36:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:29:41:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:29:46:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:29:51:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:29:56:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:30:01:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:30:06:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:30:11:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:30:21:  董鲁乾
+08:30:26:  董鲁乾
+08:30:31:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:30:36:  TrackCtrl.c - TortoiseMerge
+08:31:11:  技术中心2020年度岗位任职资格评审结果通知 2020 03.pdf - Adobe Reader
+08:31:16:  技术中心2020年度岗位任职资格评审结果通知 2020 03.pdf - Adobe Reader
+08:31:21:  技术中心2020年度岗位任职资格评审结果通知 2020 03.pdf - Adobe Reader
+08:31:26:  技术中心2020年度岗位任职资格评审结果通知 2020 03.pdf - Adobe Reader
+08:31:31:  技术中心2020年度岗位任职资格评审结果通知 2020 03.pdf - Adobe Reader
+08:31:36:  技术中心2020年度岗位任职资格评审结果通知 2020 03.pdf - Adobe Reader
+08:31:41:  技术中心2020年度岗位任职资格评审结果通知 2020 03.pdf - Adobe Reader
+08:31:46:  技术中心2020年度岗位任职资格评审结果通知 2020 03.pdf - Adobe Reader
+08:31:51:  技术中心2020年度岗位任职资格评审结果通知 2020 03.pdf - Adobe Reader
+08:31:56:  技术中心2020年度岗位任职资格评审结果通知 2020 03.pdf - Adobe Reader
+08:32:01:  技术中心2020年度岗位任职资格评审结果通知 2020 03.pdf - Adobe Reader
+08:32:06:  技术中心2020年度岗位任职资格评审结果通知 2020 03.pdf - Adobe Reader
+08:32:11:  技术中心2020年度岗位任职资格评审结果通知 2020 03.pdf - Adobe Reader
+08:32:16:  技术中心2020年度岗位任职资格评审结果通知 2020 03.pdf - Adobe Reader
+08:32:21:  便签管理器
+08:32:26:  便签条
+08:32:31:  便签条
+08:32:36:  便签条
+08:32:41:  便签条
+08:32:46:  便签条
+08:32:51:  便签条
+08:32:56:  便签条
+08:33:01:  便签条
+08:33:06:  便签条
+08:33:11:  便签条
+08:33:26:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:33:31:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:33:36:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:33:41:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:33:46:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:33:51:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:33:56:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:34:01:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:34:06:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:34:11:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:34:16:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:34:21:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:34:26:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:34:31:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:34:36:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:34:41:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:34:46:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:34:51:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:34:56:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:35:01:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:35:06:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:35:11:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:35:16:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:35:21:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:35:26:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:35:31:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:35:36:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:35:41:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:35:46:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:35:51:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:35:56:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrHandle.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+08:36:01:  便签管理器
+08:36:06:  便签条
+08:36:11:  便签条
+08:36:16:  便签条
+08:36:21:  便签条
+08:36:26:  便签条
+08:36:31:  便签条
+08:36:36:  便签条
+08:36:41:  便签条
+08:36:46:  便签条
+08:36:51:  便签条
+08:36:56:  便签条
+08:37:01:  便签条
+08:37:06:  便签条
+08:37:11:  便签条
+08:37:16:  便签条
+08:37:21:  便签条
+08:37:26:  便签条
+08:37:31:  便签条
+08:37:36:  便签条
+08:37:41:  1T1Stop
+08:37:46:  00-06
+08:37:51:  1T1Stop
+08:37:56:  00-06
+08:38:06:  D:\00-06\Thespace\trunk\Applications\ErrCode\ErrCode.h (trunk) - Sublime Text (UNREGISTERED)
+08:38:11:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:38:16:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:38:21:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+08:38:26:  便签条
+08:38:31:  便签条
+08:38:36:  便签条
+08:38:41:  便签条
+08:38:46:  便签条
+08:38:51:  便签条
+08:38:56:  便签条
+08:39:01:  便签条
+08:39:06:  便签条
+08:39:11:  便签条
+08:39:16:  便签条
+08:39:21:  便签条
+08:39:26:  便签条
+08:39:31:  便签条
+08:39:36:  便签条
+08:39:41:  便签条
+08:39:46:  便签条
+08:39:51:  便签条
+08:39:56:  便签条
+08:40:01:  便签条
+08:40:06:  便签条
+08:40:11:  便签条
+08:40:16:  便签条
+08:40:21:  便签条
+08:40:26:  便签条
+08:40:31:  便签条
+08:40:36:  便签条
+08:40:41:  便签条
+08:40:46:  便签条
+08:40:51:  便签条
+08:40:56:  便签条
+08:41:01:  便签条
+08:41:06:  便签条
+08:41:11:  便签条
+08:41:16:  便签条
+08:41:21:  便签条
+08:41:26:  便签条
+08:41:31:  便签条
+08:41:36:  便签条
+08:41:41:  便签条
+08:41:46:  便签条
+08:41:51:  便签条
+08:41:56:  便签条
+08:42:01:  便签条
+08:42:06:  便签条
+08:42:11:  便签条
+08:42:16:  便签条
+08:42:21:  便签条
+08:42:26:  便签条
+08:42:31:  便签条
+08:42:36:  便签条
+08:42:41:  便签条
+08:42:46:  便签条
+08:42:51:  便签条
+08:42:56:  便签条
+08:43:01:  便签条
+08:43:06:  便签条
+08:43:11:  便签条
+08:43:16:  便签条
+08:43:21:  便签条
+08:43:26:  便签条
+08:43:31:  便签条
+08:43:36:  便签条
+08:43:41:  便签条
+08:43:46:  便签条
+08:43:51:  便签条
+08:43:56:  便签条
+08:44:01:  董鲁乾
+08:44:06:  董鲁乾
+08:44:11:  董鲁乾
+08:44:16:  董鲁乾
+08:44:21:  董鲁乾
+08:44:26:  董鲁乾
+08:44:31:  董鲁乾
+08:44:36:  董鲁乾
+08:44:41:  董鲁乾
+08:44:46:  董鲁乾
+08:44:51:  董鲁乾
+08:44:56:  董鲁乾
+08:45:01:  董鲁乾
+08:44:06:  董鲁乾
+08:44:11:  董鲁乾
+08:44:16:  董鲁乾
+08:44:21:  董鲁乾
+08:44:26:  董鲁乾
+08:44:31:  董鲁乾
+08:44:36:  董鲁乾
+08:44:41:  董鲁乾
+08:44:46:  董鲁乾
+08:44:51:  董鲁乾
+08:44:56:  董鲁乾
+08:45:01:  董鲁乾
+08:45:06:  董鲁乾
+08:45:11:  董鲁乾
+08:45:16:  董鲁乾
+08:45:21:  董鲁乾
+08:45:26:  董鲁乾
+08:45:31:  董鲁乾
+08:45:36:  董鲁乾
+08:45:41:  董鲁乾
+08:45:46:  董鲁乾
+08:45:51:  董鲁乾
+08:45:56:  董鲁乾
+08:46:01:  董鲁乾
+08:46:06:  董鲁乾
+08:46:11:  董鲁乾
+08:46:16:  董鲁乾
+08:46:21:  董鲁乾
+08:46:26:  董鲁乾
+08:46:31:  董鲁乾
+08:46:36:  董鲁乾
+08:46:41:  董鲁乾
+08:46:46:  董鲁乾
+08:46:51:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:46:56:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+08:47:01:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+08:47:06:  董鲁乾
+08:47:11:  董鲁乾
+08:47:16:  董鲁乾
+08:47:21:  董鲁乾
+08:47:26:  董鲁乾
+08:47:31:  新建文件夹
+08:47:36:  python1
+08:47:41:  temp
+08:47:46:  Box_2__BTCR-1100190803000009_20200318144033.log - [No filter file]* - TextAnalysisTool.NET
+08:47:51:  K64_BTCR-1100190803000009_20200318155348
+08:47:56:  Box_2__BTCR-1100190803000009_20200318155348.log - [No filter file]* - TextAnalysisTool.NET
+08:48:01:  Box_2__BTCR-1100190803000009_20200318155348.log - [No filter file]* - TextAnalysisTool.NET
+08:48:06:  K64_BTCR-1100190803000009_20200318154537
+08:48:11:  LOG
+08:48:16:  Box_2__BTCR-1100190803000009_20200318154439.log - [No filter file]* - TextAnalysisTool.NET
+08:48:21:  Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET
+08:48:26:  锁屏状态
+08:48:31:  董鲁乾
+08:48:36:  董鲁乾
+08:48:41:  董鲁乾
+08:48:46:  董鲁乾
+08:48:51:  Box_2__BTCR-1100190803000009_20200318145222.log - [No filter file]* - TextAnalysisTool.NET
+08:48:56:  Box_2__BTCR-1100190803000009_20200318145222.log - [No filter file]* - TextAnalysisTool.NET
+08:49:01:  Edit Filter
+08:49:06:  Box_2__BTCR-1100190803000009_20200318145222.log - [No filter file]* - TextAnalysisTool.NET
+08:49:11:  K64_BTCR-1100190803000009_20200318144300
+08:49:16:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+08:49:21:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+08:49:26:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+08:49:31:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+08:49:36:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+08:49:41:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+08:49:46:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+08:49:51:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+08:49:56:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+08:50:01:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+08:50:06:  Box_2__BTCR-1100190803000009_20200318144300.log - [No filter file]* - TextAnalysisTool.NET
+08:50:11:  K64_BTCR-1100190803000009_20200318144033
+08:50:16:  Box_2__BTCR-1100190803000009_20200318144033.log - [No filter file]* - TextAnalysisTool.NET
+08:50:21:  Box_2__BTCR-1100190803000009_20200318144033.log - [No filter file]* - TextAnalysisTool.NET
+08:50:26:  便签条
+08:50:31:  便签条
+08:50:36:  Box_2__BTCR-1100190803000009_20200318144033.log - [No filter file]* - TextAnalysisTool.NET
+08:50:41:  Box_2__BTCR-1100190803000009_20200318144033.log - [No filter file]* - TextAnalysisTool.NET
+08:50:46:  Box_2__BTCR-1100190803000009_20200318144033.log - [No filter file]* - TextAnalysisTool.NET
+08:50:51:  Box_2__BTCR-1100190803000009_20200318144033.log - [No filter file]* - TextAnalysisTool.NET
+08:50:56:  Box_2__BTCR-1100190803000009_20200318144033.log - [No filter file]* - TextAnalysisTool.NET
+08:51:01:  回复: 转发: 人民币版本DRB钞箱测试汇报0318
+08:51:06:  Box_2__BTCR-1100190803000009_20200318144033.log - [No filter file]* - TextAnalysisTool.NET
+08:51:11:  Box_2__BTCR-1100190803000009_20200318144033.log - [No filter file]* - TextAnalysisTool.NET
+08:51:16:  Box_2__BTCR-1100190803000009_20200318144033.log - [No filter file]* - TextAnalysisTool.NET
+08:51:21:  Box_2__BTCR-1100190803000009_20200318144033.log - [No filter file]* - TextAnalysisTool.NET
+08:51:26:  董鲁乾
+08:51:31:  董鲁乾
+08:51:36:  董鲁乾
+08:51:41:  董鲁乾
+08:51:46:  董鲁乾
+08:51:51:  董鲁乾
+08:51:56:  董鲁乾
+08:52:01:  董鲁乾
+08:52:06:  董鲁乾
+08:52:11:  董鲁乾
+08:52:16:  董鲁乾
+08:52:21:  董鲁乾
+08:52:26:  董鲁乾
+08:52:31:  eSpace
+08:52:36:  陈忠
+08:52:41:  陈忠
+08:52:46:  陈忠
+08:52:51:  陈忠
+08:52:56:  便签条
+08:53:01:  便签条
+08:53:06:  董鲁乾
+08:53:11:  锁屏状态
+08:53:26:  董鲁乾
+08:53:31:  董鲁乾
+08:53:36:  董鲁乾
+08:53:41:  董鲁乾
+08:53:46:  董鲁乾
+08:53:51:  董鲁乾
+08:53:56:  董鲁乾
+08:54:01:  董鲁乾
+08:54:06:  董鲁乾
+08:54:11:  董鲁乾
+08:54:16:  董鲁乾
+08:54:21:  董鲁乾
+08:54:26:  董鲁乾
+08:54:31:  D:\00-06\Thespace\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+08:54:36:  D:\00-06\Thespace\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+08:54:41:  D:\00-06\Thespace\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+08:54:46:  D:\00-06\Thespace\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+08:54:51:  D:\00-06\Thespace\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+08:54:56:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+08:55:01:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+08:55:06:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+08:55:11:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+08:55:16:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+08:55:21:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+08:55:26:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:55:31:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:55:36:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:55:41:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:55:46:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:55:51:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:55:56:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:56:01:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+08:56:06:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+08:56:11:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:56:16:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:56:21:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:56:26:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:56:31:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:56:36:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:56:41:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:56:46:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:56:51:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:56:56:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:01:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:06:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:11:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:16:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:21:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:26:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:31:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:36:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:41:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:46:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:51:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:56:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:01:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:06:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:11:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:16:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:21:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:26:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:31:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:36:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:41:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:46:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:51:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:56:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:01:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:06:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:11:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:16:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:21:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:26:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:31:  便签条
+08:59:36:  便签条
+08:59:41:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:46:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:51:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:56:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:00:01:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:06:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:11:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:16:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:21:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:26:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:31:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:36:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:41:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:46:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:51:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:56:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:01:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:06:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:11:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:16:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:21:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:26:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:31:  便签条
+08:59:36:  便签条
+08:59:41:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:46:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:51:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:56:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:00:01:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:00:06:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:00:11:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+09:00:16:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:00:21:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:00:36:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:00:46:  00-06
+09:00:51:  00-06
+09:00:56:  00-06
+09:01:01:  00-06
+09:01:06:  00-06
+09:01:11:  00-06
+09:01:16:  00-06
+09:01:21:  00-06
+09:01:26:  00-06
+09:01:31:  00-06
+09:01:36:  00-06
+09:01:41:  00-06
+09:01:46:  Thespace
+09:01:51:  D:\00-06\Thespace\trunk - 工作副本 - TortoiseSVN
+09:01:56:  D:\00-06\Thespace\trunk - 工作副本 - TortoiseSVN
+09:02:01:  D:\00-06\Thespace\trunk - 工作副本 - TortoiseSVN
+09:02:06:  PaperManage.c - TortoiseMerge
+09:02:11:  TortoiseSVN
+09:02:16:  PlateCtrl.c - TortoiseMerge
+09:02:21:  PlateCtrl.c - TortoiseMerge
+09:02:26:  State.c - TortoiseMerge
+09:02:31:  D:\00-06\Thespace\trunk - 工作副本 - TortoiseSVN
+09:02:36:  TrackCtrl.c - TortoiseMerge
+09:02:41:  TrackCtrl.c - TortoiseMerge
+09:02:46:  TrackCtrl.c - TortoiseMerge
+09:02:51:  TrackCtrl.c - TortoiseMerge
+09:02:56:  TrackCtrl.c - TortoiseMerge
+09:03:01:  TrackCtrl.c - TortoiseMerge
+09:03:06:  TrackCtrl.c - TortoiseMerge
+09:03:11:  TrackCtrl.c - TortoiseMerge
+09:03:16:  TrackCtrl.c - TortoiseMerge
+09:03:26:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:03:31:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:03:36:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:03:41:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:03:46:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+09:03:51:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.h (trunk) - Sublime Text (UNREGISTERED)
+09:03:56:  便签条
+09:04:01:  便签条
+09:04:06:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.h (trunk) - Sublime Text (UNREGISTERED)
+09:04:11:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+09:04:16:  D:\00-06\Thespace\trunk - 工作副本 - TortoiseSVN
+09:04:21:  D:\00-06\Thespace\trunk - 工作副本 - TortoiseSVN
+09:04:26:  Bldc.c - TortoiseMerge
+09:04:31:  Bldc.c - TortoiseMerge
+09:04:36:  TortoiseMerge
+09:04:41:  Bldc.c - TortoiseMerge
+09:04:46:  D:\00-06\Thespace\trunk - 工作副本 - TortoiseSVN
+09:04:51:  InstrHandle.c - TortoiseMerge
+09:04:56:  InstrExecute.h - TortoiseMerge
+09:05:01:  InstrExecute.c - TortoiseMerge
+09:05:06:  D:\00-06\Thespace\trunk - 工作副本 - TortoiseSVN
+09:05:11:  TrackCtrl.c - TortoiseMerge
+09:05:21:  μVision
+09:05:26:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:05:31:  董鲁乾
+09:05:36:  董鲁乾
+09:05:41:  董鲁乾
+09:05:46:  董鲁乾
+09:05:51:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:05:56:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:06:01:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:06:06:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:06:11:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:06:16:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:06:21:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:06:26:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:06:31:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:06:36:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:06:41:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:06:46:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:06:51:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:06:56:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:07:01:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:07:06:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:07:11:  便签条
+09:07:16:  便签条
+09:07:21:  便签条
+09:07:26:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:07:31:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:07:36:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:07:41:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:07:46:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:07:51:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:07:56:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:08:01:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:08:06:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:08:11:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:08:16:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:08:21:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:08:26:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:08:31:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:08:37:  K64_BTCR-1100190803000009_20200318144033
+09:08:42:  Box_2__BTCR-1100190803000009_20200318144033.log - [No filter file]* - TextAnalysisTool.NET
+09:08:47:  便签条
+09:08:52:  便签条
+09:08:57:  便签条
+09:09:02:  K64_BTCR-1100190803000009_20200318144033
+09:09:12:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:09:17:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:09:22:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:09:27:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:09:32:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:09:37:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:09:42:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:09:47:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:09:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:09:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:10:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:10:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:10:12:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:10:17:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:10:22:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:10:27:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:10:32:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:10:37:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:10:42:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:10:47:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:10:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:10:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:11:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:11:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:11:12:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:11:22:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:11:27:  设置单元格格式
+09:11:32:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:11:37:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:11:42:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:11:47:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:11:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:11:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:12:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:12:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:12:12:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:12:22:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+09:12:27:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:12:32:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:12:37:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:12:42:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:12:47:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:12:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:12:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:13:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:13:07:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:13:12:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:13:17:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:13:22:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:13:27:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:13:32:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:13:37:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:13:42:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:13:47:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:13:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:13:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:14:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:14:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:14:17:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:14:22:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:14:27:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:14:32:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:14:37:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:14:42:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:14:47:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:14:52:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:14:57:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:15:02:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:14:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:14:17:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:14:22:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:14:27:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:14:32:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:14:37:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:14:42:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:14:47:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:14:52:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:14:57:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:15:02:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:15:07:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+09:15:12:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+09:15:17:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:15:22:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:15:27:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:15:37:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:15:42:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:15:47:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:15:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:15:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:16:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:16:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:16:12:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:16:17:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:16:22:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:16:27:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:16:32:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:16:37:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:16:42:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:16:47:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:16:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:16:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:17:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:17:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:17:12:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:17:17:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:17:22:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+09:17:27:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:17:32:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:17:37:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:17:42:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:17:47:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:17:52:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:17:57:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:18:02:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:18:07:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:18:12:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:18:17:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:18:22:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:18:27:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:18:32:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:18:37:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:18:42:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:18:47:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:18:52:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:18:57:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:19:02:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:19:07:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:19:12:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:19:17:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:19:22:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:19:27:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:19:32:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:19:37:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:19:42:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:19:47:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:19:52:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:19:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:20:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:20:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:20:12:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:20:17:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:20:22:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:22:17:  陈忠
+09:22:22:  陈忠
+09:22:27:  陈忠
+09:22:32:  无标题页 - OneNote
+09:22:37:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:22:42:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:22:47:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:22:52:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:22:57:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:23:02:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:23:07:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:23:12:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:23:17:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:23:22:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:23:27:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:23:32:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:23:37:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:23:42:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:23:47:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:23:52:  锁屏状态
+09:23:57:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:24:02:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:24:07:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:24:12:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:24:17:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:24:22:  计算器
+09:24:27:  计算器
+09:24:32:  计算器
+09:24:37:  计算器
+09:24:42:  计算器
+09:24:47:  计算器
+09:24:52:  计算器
+09:24:57:  计算器
+09:25:02:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:25:07:  计算器
+09:25:12:  计算器
+09:25:17:  计算器
+09:25:22:  计算器
+09:25:27:  计算器
+09:25:32:  计算器
+09:25:37:  计算器
+09:25:42:  计算器
+09:25:47:  计算器
+09:25:52:  计算器
+09:25:57:  计算器
+09:26:02:  计算器
+09:26:07:  计算器
+09:26:12:  计算器
+09:26:17:  计算器
+09:26:22:  计算器
+09:26:27:  计算器
+09:26:32:  计算器
+09:26:37:  计算器
+09:26:42:  计算器
+09:26:47:  计算器
+09:26:52:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:26:57:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+09:27:02:  D:\00-06\Thespace\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+09:27:07:  D:\00-06\Thespace\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+09:27:12:  D:\00-06\Thespace\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+09:27:17:  D:\00-06\Thespace\trunk\Applications\State\State.c • (trunk) - Sublime Text (UNREGISTERED)
+09:27:22:  D:\00-06\Thespace\trunk\Applications\State\State.c • (trunk) - Sublime Text (UNREGISTERED)
+09:27:27:  D:\00-06\Thespace\trunk\Applications\State\State.c • (trunk) - Sublime Text (UNREGISTERED)
+09:27:32:  D:\00-06\Thespace\trunk\Applications\State\State.c • (trunk) - Sublime Text (UNREGISTERED)
+09:27:37:  D:\00-06\Thespace\trunk\Applications\State\State.c • (trunk) - Sublime Text (UNREGISTERED)
+09:27:42:  D:\00-06\Thespace\trunk\Applications\State\State.c • (trunk) - Sublime Text (UNREGISTERED)
+09:27:47:  D:\00-06\Thespace\trunk\Applications\State\State.c • (trunk) - Sublime Text (UNREGISTERED)
+09:27:52:  D:\00-06\Thespace\trunk\Applications\State\State.c • (trunk) - Sublime Text (UNREGISTERED)
+09:27:57:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:02:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:07:  D:\00-06\Thespace\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:12:  D:\00-06\Thespace\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:17:  D:\00-06\Thespace\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:22:  D:\00-06\Thespace\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:27:  D:\00-06\Thespace\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:32:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:28:37:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:28:42:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:28:47:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:28:52:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:28:57:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:29:02:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:29:07:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:29:12:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:29:17:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:29:22:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:29:27:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:29:32:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:29:42:  锁屏状态
+09:29:47:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:29:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:29:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:30:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:30:07:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:30:12:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:30:17:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:30:27:  D:\00-06\Thespace\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:30:32:  D:\00-06\Thespace\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:30:37:  D:\00-06\Thespace\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:30:42:  D:\00-06\Thespace\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:30:47:  D:\00-06\Thespace\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:30:52:  D:\00-06\Thespace\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:30:57:  D:\00-06\Thespace\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:31:07:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:31:12:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:31:17:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:31:27:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:31:32:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:31:37:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:31:42:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:31:47:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:31:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:31:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:32:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:32:12:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:32:17:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:32:22:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:32:27:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:32:32:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:32:37:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:32:42:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:32:47:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:32:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:32:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:33:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:33:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:33:12:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:33:17:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:33:22:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:33:27:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:33:32:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:33:37:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:33:42:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:33:47:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:33:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:33:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:34:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:34:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:34:12:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:34:17:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:34:22:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:34:27:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:34:32:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:34:37:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:34:42:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:34:47:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:34:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:34:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:35:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:35:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:35:12:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:35:17:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:35:22:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:35:27:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:35:32:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:35:42:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:35:47:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:35:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:35:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:36:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:36:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:36:12:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:36:17:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:36:22:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:36:27:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:36:32:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:36:37:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:36:42:  设置单元格格式
+09:36:47:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:36:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:36:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:38:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:38:12:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:38:17:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:38:22:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:38:27:  设置单元格格式
+09:38:32:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:38:37:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:38:42:  D:\00-06\Thespace\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:38:52:  42 CRS现金循环模块
+09:38:57:  锁屏状态
+09:39:02:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:39:07:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:39:12:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:39:17:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:39:22:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:39:27:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:39:32:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:39:37:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:39:42:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:39:47:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:39:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:39:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:40:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:40:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:40:12:  陈忠
+09:40:17:  陈忠
+09:40:22:  陈忠
+09:40:27:  陈忠
+09:40:32:  陈忠
+09:40:37:  陈忠
+09:40:42:  陈忠
+09:40:47:  陈忠
+09:40:52:  陈忠
+09:40:57:  陈忠
+09:41:02:  陈忠
+09:41:07:  陈忠
+09:41:12:  陈忠
+09:41:17:  陈忠
+09:41:22:  陈忠
+09:41:27:  陈忠
+09:41:32:  陈忠
+09:41:37:  陈忠
+09:41:42:  陈忠
+09:41:47:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+09:41:52:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:41:57:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:42:02:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:42:07:  陈忠
+09:42:12:  陈忠
+09:42:17:  陈忠
+09:42:22:  陈忠
+09:42:27:  陈忠
+09:42:32:  陈忠
+09:42:37:  陈忠
+09:42:42:  陈忠
+09:42:47:  陈忠
+09:42:52:  陈忠
+09:42:57:  陈忠
+09:43:02:  陈忠
+09:43:07:  陈忠
+09:43:12:  陈忠
+09:43:17:  陈忠
+09:43:22:  陈忠
+09:43:27:  陈忠
+09:43:32:  陈忠
+09:43:37:  陈忠
+09:43:42:  陈忠
+09:43:47:  便签条
+09:43:57:  陈忠
+09:44:02:  陈忠
+09:44:07:  陈忠
+09:44:12:  陈忠
+09:44:17:  陈忠
+09:44:22:  陈忠
+09:44:27:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:44:32:  陈忠
+09:44:37:  陈忠
+09:44:42:  陈忠
+09:44:47:  陈忠
+09:44:52:  陈忠
+09:44:57:  陈忠
+09:45:02:  陈忠
+09:44:07:  陈忠
+09:44:12:  陈忠
+09:44:17:  陈忠
+09:44:22:  陈忠
+09:44:27:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+09:44:32:  陈忠
+09:44:37:  陈忠
+09:44:42:  陈忠
+09:44:47:  陈忠
+09:44:52:  陈忠
+09:44:57:  陈忠
+09:45:02:  陈忠
+09:45:07:  陈忠
+09:45:12:  陈忠
+09:45:17:  初始化后钞箱容量显示疑问
+09:45:22:  初始化后钞箱容量显示疑问
+09:45:27:  初始化后钞箱容量显示疑问
+09:45:32:  初始化后钞箱容量显示疑问
+09:45:37:  初始化后钞箱容量显示疑问
+09:45:42:  初始化后钞箱容量显示疑问
+09:45:47:  初始化后钞箱容量显示疑问
+09:45:52:  初始化后钞箱容量显示疑问
+09:45:57:  初始化后钞箱容量显示疑问
+09:46:02:  陈忠
+09:46:07:  陈忠
+09:46:12:  陈忠
+09:46:17:  陈忠
+09:46:22:  陈忠
+09:46:27:  陈忠
+09:46:32:  陈忠
+09:46:37:  陈忠
+09:46:42:  陈忠
+09:46:47:  陈忠
+09:46:52:  陈忠
+09:46:57:  陈忠
+09:47:02:  陈忠
+09:47:07:  陈忠
+09:47:12:  陈忠
+09:47:17:  陈忠
+09:47:22:  陈忠
+09:47:27:  陈忠
+09:47:32:  陈忠
+09:47:37:  陈忠
+09:47:47:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:47:57:  陈忠
+09:48:02:  陈忠
+09:48:27:  便签条
+09:48:32:  初始化后钞箱容量显示疑问
+09:48:37:  初始化后钞箱容量显示疑问
+09:48:42:  初始化后钞箱容量显示疑问
+09:48:47:  初始化后钞箱容量显示疑问
+09:48:52:  初始化后钞箱容量显示疑问
+09:48:57:  D:\00-06\Thespace\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:49:02:  便签条
+09:49:07:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:49:12:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:49:17:  陈忠
+09:49:22:  陈忠
+09:49:27:  陈忠
+09:49:32:  陈忠
+09:49:37:  陈忠
+09:49:42:  陈忠
+09:49:47:  陈忠
+09:49:52:  陈忠
+09:49:57:  陈忠
+09:50:02:  陈忠
+09:50:07:  陈忠
+09:50:12:  陈忠
+09:50:17:  回复: 初始化后钞箱容量显示疑问
+09:50:22:  回复: 初始化后钞箱容量显示疑问
+09:50:27:  陈忠
+09:50:32:  陈忠
+09:50:42:  便签条
+09:50:47:  便签条
+09:50:52:  便签条
+09:50:57:  便签条
+09:51:02:  陈忠
+09:51:12:  DRB检验方案 20200316.xlsx
+09:51:17:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:51:22:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:51:27:  陈忠
+09:51:32:  转发: DRB检验方案 20200316
+09:51:37:  陈忠
+09:51:47:  陈忠
+09:51:52:  陈忠
+09:51:57:  陈忠
+09:52:02:  陈忠
+09:52:07:  陈忠
+09:52:12:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:52:17:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:52:22:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:52:27:  陈忠
+09:52:32:  陈忠
+09:52:37:  陈忠
+09:52:42:  陈忠
+09:52:47:  陈忠
+09:52:52:  陈忠
+09:52:57:  陈忠
+09:53:02:  陈忠
+09:53:07:  陈忠
+09:53:12:  陈忠
+09:53:17:  陈忠
+09:53:22:  陈忠
+09:53:27:  陈忠
+09:53:37:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:53:42:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:53:47:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:53:52:  便签条
+09:53:57:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:54:02:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:54:07:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+09:54:12:  陈忠
+09:54:17:  陈忠
+09:54:22:  陈忠
+09:54:27:  陈忠
+09:54:32:  陈忠
+09:54:37:  陈忠
+09:54:42:  陈忠
+09:54:47:  陈忠
+09:54:52:  陈忠
+09:54:57:  陈忠
+09:55:02:  陈忠
+09:55:07:  陈忠
+09:55:12:  陈忠
+09:55:17:  陈忠
+09:55:22:  陈忠
+09:55:27:  陈忠
+09:55:32:  陈忠
+09:55:37:  陈忠
+09:55:42:  陈忠
+09:55:47:  陈忠
+09:55:52:  陈忠
+09:55:57:  陈忠
+09:56:02:  陈忠
+09:56:07:  陈忠
+09:56:12:  陈忠
+09:56:17:  陈忠
+09:56:22:  陈忠
+09:56:27:  陈忠
+09:56:32:  陈忠
+09:56:37:  陈忠
+09:56:42:  陈忠
+09:56:47:  陈忠
+09:56:52:  陈忠
+09:56:57:  陈忠
+09:57:02:  陈忠
+09:57:07:  陈忠
+09:57:12:  陈忠
+09:57:17:  陈忠
+09:57:22:  DRB检验方案 20200316.xlsx
+09:57:27:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:57:32:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:57:37:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:57:42:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:57:47:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:57:52:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:57:57:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:58:02:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:58:07:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:58:12:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:58:17:  便签条
+09:58:27:  陈忠
+09:58:32:  陈忠
+09:58:37:  陈忠
+09:58:42:  陈忠
+09:58:47:  陈忠
+09:58:52:  陈忠
+09:58:57:  陈忠
+09:59:02:  陈忠
+09:59:07:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:59:12:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:59:17:  陈忠
+09:59:22:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:59:27:  陈忠
+09:59:32:  陈忠
+09:59:42:  陈忠
+09:59:47:  陈忠
+09:59:52:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:59:57:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:00:02:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:58:07:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:58:12:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:58:17:  便签条
+09:58:27:  陈忠
+09:58:32:  陈忠
+09:58:37:  陈忠
+09:58:42:  陈忠
+09:58:47:  陈忠
+09:58:52:  陈忠
+09:58:57:  陈忠
+09:59:02:  陈忠
+09:59:07:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:59:12:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:59:17:  陈忠
+09:59:22:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+09:59:27:  陈忠
+09:59:32:  陈忠
+09:59:42:  陈忠
+09:59:47:  陈忠
+09:59:52:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+09:59:57:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:00:02:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:00:07:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:00:12:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:00:17:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:00:22:  陈忠
+10:00:27:  陈忠
+10:00:32:  陈忠
+10:00:42:  陈忠
+10:00:47:  陈忠
+10:00:52:  陈忠
+10:00:57:  陈忠
+10:01:02:  陈忠
+10:01:07:  陈忠
+10:01:12:  陈忠
+10:01:22:  陈忠
+10:01:27:  陈忠
+10:01:32:  陈忠
+10:01:37:  陈忠
+10:01:42:  陈忠
+10:01:52:  陈忠
+10:01:57:  陈忠
+10:02:02:  陈忠
+10:02:07:  陈忠
+10:02:12:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:02:17:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:02:22:  陈忠
+10:02:27:  陈忠
+10:02:32:  陈忠
+10:02:37:  陈忠
+10:02:42:  陈忠
+10:02:47:  陈忠
+10:02:52:  陈忠
+10:02:57:  陈忠
+10:03:02:  陈忠
+10:03:07:  陈忠
+10:03:12:  陈忠
+10:03:17:  陈忠
+10:03:22:  陈忠
+10:03:27:  陈忠
+10:03:32:  陈忠
+10:03:37:  陈忠
+10:03:42:  陈忠
+10:03:47:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:03:52:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:03:57:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:04:02:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:04:07:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:04:12:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:04:17:  陈忠
+10:04:22:  陈忠
+10:04:27:  陈忠
+10:04:32:  陈忠
+10:04:37:  陈忠
+10:04:42:  陈忠
+10:04:47:  陈忠
+10:04:52:  陈忠
+10:04:57:  陈忠
+10:05:02:  陈忠
+10:05:07:  陈忠
+10:05:12:  陈忠
+10:05:17:  陈忠
+10:05:22:  陈忠
+10:05:27:  陈忠
+10:05:32:  陈忠
+10:05:37:  陈忠
+10:05:42:  陈忠
+10:05:47:  陈忠
+10:05:52:  陈忠
+10:05:57:  陈忠
+10:06:02:  陈忠
+10:06:07:  陈忠
+10:06:12:  陈忠
+10:06:17:  陈忠
+10:06:22:  陈忠
+10:06:27:  陈忠
+10:06:32:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:06:37:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:06:42:  陈忠
+10:06:47:  陈忠
+10:06:52:  陈忠
+10:06:57:  陈忠
+10:07:02:  陈忠
+10:07:07:  陈忠
+10:07:12:  陈忠
+10:07:17:  陈忠
+10:07:22:  陈忠
+10:07:27:  陈忠
+10:07:32:  陈忠
+10:07:37:  陈忠
+10:07:42:  陈忠
+10:07:47:  陈忠
+10:07:52:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:07:57:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:08:02:  陈忠
+10:08:07:  陈忠
+10:08:12:  陈忠
+10:08:17:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:08:22:  陈忠
+10:08:27:  陈忠
+10:08:32:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:08:37:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:08:47:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:08:52:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:08:57:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:09:02:  D:\00-06\1T2-Seclect-Aging\Middlewares\Plate\UpperPlate.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:09:07:  D:\00-06\1T2-Seclect-Aging\Middlewares\Plate\UpperPlate.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:09:12:  D:\00-06\1T2-Seclect-Aging\Middlewares\Plate\UpperPlate.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:09:17:  D:\00-06\1T2-Seclect-Aging\Middlewares\Plate\UpperPlate.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:09:22:  陈忠
+10:09:27:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:09:32:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:09:37:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:09:42:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:09:47:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:09:52:  陈忠
+10:09:57:  陈忠
+10:10:02:  陈忠
+10:10:07:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:10:12:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:10:17:  陈忠
+10:10:22:  陈忠
+10:10:27:  陈忠
+10:10:32:  陈忠
+10:10:37:  陈忠
+10:10:42:  陈忠
+10:10:47:  陈忠
+10:10:52:  陈忠
+10:10:57:  陈忠
+10:11:02:  陈忠
+10:11:07:  陈忠
+10:11:12:  陈忠
+10:11:17:  陈忠
+10:11:22:  陈忠
+10:11:27:  陈忠
+10:11:32:  陈忠
+10:11:37:  陈忠
+10:11:42:  陈忠
+10:11:47:  陈忠
+10:11:52:  陈忠
+10:11:57:  陈忠
+10:12:02:  陈忠
+10:12:07:  陈忠
+10:12:12:  陈忠
+10:12:17:  陈忠
+10:12:22:  陈忠
+10:12:27:  陈忠
+10:12:32:  陈忠
+10:12:37:  陈忠
+10:12:42:  陈忠
+10:12:47:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:12:52:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:12:57:  陈忠
+10:13:02:  陈忠
+10:13:07:  陈忠
+10:13:12:  陈忠
+10:13:17:  陈忠
+10:13:22:  陈忠
+10:13:27:  陈忠
+10:13:32:  陈忠
+10:13:37:  陈忠
+10:13:42:  陈忠
+10:13:47:  陈忠
+10:13:52:  陈忠
+10:13:57:  陈忠
+10:14:02:  陈忠
+10:14:07:  陈忠
+10:14:12:  陈忠
+10:14:17:  陈忠
+10:14:22:  陈忠
+10:14:27:  陈忠
+10:14:32:  陈忠
+10:14:37:  陈忠
+10:14:42:  陈忠
+10:14:47:  陈忠
+10:14:52:  陈忠
+10:14:57:  陈忠
+10:15:02:  陈忠
+10:15:07:  陈忠
+10:15:12:  陈忠
+10:15:17:  陈忠
+10:15:22:  陈忠
+10:15:27:  陈忠
+10:15:32:  陈忠
+10:15:37:  陈忠
+10:15:42:  陈忠
+10:15:47:  陈忠
+10:15:52:  陈忠
+10:15:57:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:16:02:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:16:07:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:16:12:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:16:17:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:16:22:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:16:27:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:16:32:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:16:37:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:16:42:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:16:47:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:16:52:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:16:57:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:17:02:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:17:07:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:17:12:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:17:17:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:17:22:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:17:27:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:17:37:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:17:42:  DRB检验方案 20200316.xlsx
+10:17:47:  06 固件日报
+10:17:52:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:17:57:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:18:02:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:18:07:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:18:12:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:18:17:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:18:22:  转发: DRB检验方案 20200316
+10:18:27:  转发: DRB检验方案 20200316
+10:18:37:  物料规格书,1700-0000022,接口电路.pdf
+10:18:42:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:18:47:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:18:52:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:18:57:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:19:02:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:19:07:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:19:12:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:19:17:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:19:22:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:19:27:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:19:32:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:19:37:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\lib_M24SR.c (trunk) - Sublime Text (UNREGISTERED)
+10:19:42:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:19:47:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:19:52:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:19:57:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:20:02:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:20:07:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:20:12:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:20:17:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:20:22:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:20:27:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:20:32:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:20:37:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:20:42:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:20:47:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:20:52:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:20:57:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:21:02:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:21:07:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:21:12:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:21:17:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:21:22:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:21:27:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:21:32:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:21:37:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:21:42:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:21:47:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:21:52:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:21:57:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:22:02:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:22:07:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:22:12:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:22:17:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:22:22:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:22:27:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:22:32:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:22:37:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:22:42:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:22:47:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:22:52:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:22:57:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:23:02:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:23:07:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:23:12:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:23:17:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:23:22:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:23:27:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:23:32:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:23:37:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:23:42:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:23:47:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+10:23:52:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+10:23:57:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+10:24:02:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+10:24:07:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+10:24:17:  eSpace
+10:24:22:  eSpace
+10:24:27:  董鲁乾
+10:24:32:  董鲁乾
+10:24:37:  eSpace
+10:24:47:  陈忠
+10:24:52:  陈忠
+10:24:57:  陈忠
+10:25:02:  陈忠
+10:25:07:  陈忠
+10:25:12:  陈忠
+10:25:17:  陈忠
+10:25:22:  陈忠
+10:25:27:  陈忠
+10:25:32:  陈忠
+10:25:37:  陈忠
+10:25:42:  陈忠
+10:25:47:  陈忠
+10:25:52:  陈忠
+10:25:57:  陈忠
+10:26:02:  陈忠
+10:26:07:  陈忠
+10:26:12:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:26:17:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:26:22:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:26:27:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:26:32:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:26:37:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:26:42:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:26:57:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+10:27:02:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:27:12:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:27:17:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\lib_M24SR.c (trunk) - Sublime Text (UNREGISTERED)
+10:27:22:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\lib_M24SR.c (trunk) - Sublime Text (UNREGISTERED)
+10:27:27:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\lib_M24SR.c (trunk) - Sublime Text (UNREGISTERED)
+10:27:32:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\lib_M24SR.c (trunk) - Sublime Text (UNREGISTERED)
+10:27:37:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\lib_M24SR.c (trunk) - Sublime Text (UNREGISTERED)
+10:27:42:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:27:47:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:27:52:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:27:57:  便签条
+10:28:02:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:07:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:12:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:17:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:22:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:27:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:32:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:37:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:42:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:47:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:52:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:28:57:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:29:02:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:29:07:  eSpace
+10:29:12:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:29:17:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:29:22:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:29:32:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+10:29:37:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+10:29:47:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:29:52:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:29:57:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:30:02:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:28:07:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:12:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:17:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:22:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:27:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:32:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:37:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:42:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:47:  D:\00-06\Thespace\trunk\Drivers\M24SRDriver\drv_M24SR.h (trunk) - Sublime Text (UNREGISTERED)
+10:28:52:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:28:57:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:29:02:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:29:07:  eSpace
+10:29:12:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:29:17:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:29:22:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:29:32:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+10:29:37:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+10:29:47:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:29:52:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:29:57:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:30:02:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:30:07:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:30:12:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:30:17:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:30:22:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:30:27:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:30:32:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:30:37:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:30:42:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:30:47:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:30:52:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:30:57:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:31:02:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+10:31:07:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:31:12:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:31:17:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:31:22:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:31:27:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:31:32:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:31:37:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:31:42:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:31:47:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:31:52:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:31:57:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:32:02:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:32:07:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:32:12:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:32:17:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:32:22:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:32:27:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:32:32:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:32:37:  eSpace
+10:32:42:  刘茂林
+10:32:47:  刘茂林
+10:32:52:  刘茂林
+10:33:07:  刘茂林
+10:33:12:  刘茂林
+10:33:17:  刘茂林
+10:33:22:  刘茂林
+10:33:27:  刘茂林
+10:33:32:  刘茂林
+10:33:37:  刘茂林
+10:33:42:  刘茂林
+10:33:47:  刘茂林
+10:33:52:  刘茂林
+10:33:57:  刘茂林
+10:34:02:  刘茂林
+10:34:07:  刘茂林
+10:34:12:  刘茂林
+10:34:17:  刘茂林
+10:34:22:  刘茂林
+10:34:27:  刘茂林
+10:34:32:  刘茂林
+10:34:37:  刘茂林
+10:34:42:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:34:47:  TCR小组
+10:34:52:  刘茂林,张开发
+10:34:57:  eSpace
+10:35:02:  刘茂林
+10:35:07:  陈忠
+10:35:12:  陈忠
+10:35:17:  陈忠
+10:35:22:  陈忠
+10:35:27:  陈忠
+10:35:32:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:35:37:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:35:42:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:35:47:  DRB检验方案 20200316(1).xlsx  [只读] - Excel
+10:37:32:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:37:37:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:37:42:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:37:47:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:37:52:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:37:57:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:38:02:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:38:07:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:38:12:  自动播放
+10:38:17:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:38:22:  请停用以开发者模式运行的扩展程序
+10:38:27:  www.zhihu.com - Google Chrome
+10:38:32:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:38:37:  D:\00-06\Thespace\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+10:38:42:  D:\00-06\Thespace\trunk\Applications\State\State.c • (trunk) - Sublime Text (UNREGISTERED)
+10:38:47:  D:\00-06\Thespace\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+10:38:52:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:38:57:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:39:02:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:39:07:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:39:12:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:39:17:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:39:22:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:39:27:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:39:32:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:39:37:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:39:42:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:39:47:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:39:52:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:39:57:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:40:02:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:40:07:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:40:12:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:40:17:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:40:22:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:40:27:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:40:33:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:40:38:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:40:43:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:40:48:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:40:53:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:40:58:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:41:03:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:41:08:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:41:13:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:41:18:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:41:23:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:41:28:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:41:33:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:41:38:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:41:43:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:41:48:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:41:53:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:41:58:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:42:03:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:42:08:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:42:13:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:42:18:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:42:23:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:42:28:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:42:33:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:42:38:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:42:43:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:42:48:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:42:53:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:42:58:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:43:03:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:43:08:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:43:13:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:43:18:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:43:23:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:43:28:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:43:33:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:43:38:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:43:43:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:43:48:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:43:53:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:43:58:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:44:03:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:44:08:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:44:13:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:44:18:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:44:23:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:44:28:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:44:33:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:44:38:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:44:43:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:44:48:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:44:53:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:44:59:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:45:04:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:45:09:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:45:14:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:45:19:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:45:24:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:45:29:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:45:34:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:45:39:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:45:44:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:45:49:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:45:54:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:45:59:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:46:04:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:46:09:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:46:14:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:46:19:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:46:24:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:46:29:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:46:34:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:46:39:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:46:44:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:46:49:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:46:54:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:46:59:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:47:04:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:47:09:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:47:14:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:47:19:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:47:24:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:47:29:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:47:34:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:47:39:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:47:44:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:47:49:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:47:54:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:47:59:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:48:04:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:48:09:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:48:14:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:48:19:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:48:24:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:48:29:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:48:34:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:48:39:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:48:44:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:48:49:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:48:54:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:48:59:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:49:04:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:49:09:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:49:14:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:49:19:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:49:24:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:49:29:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:49:34:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:49:39:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:49:44:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:49:49:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:49:54:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:49:59:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:50:04:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:50:09:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:50:14:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:50:19:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:50:24:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:50:29:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:50:34:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:50:39:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:50:44:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:50:49:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:50:54:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:50:59:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:51:04:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:51:09:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:51:14:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:51:19:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:51:24:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:51:29:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:51:34:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:51:39:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:51:44:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:51:49:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:51:54:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:51:59:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:52:04:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:52:09:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:52:14:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:52:19:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:52:24:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:52:29:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:52:34:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:52:39:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:52:44:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:52:49:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:52:54:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:52:59:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:53:04:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:53:09:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:53:14:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:53:19:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:53:24:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:53:29:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:53:34:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:53:39:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:53:44:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:53:49:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:53:54:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:53:59:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:54:04:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:54:09:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:54:14:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:54:19:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:54:24:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:54:29:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:54:34:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:54:39:  (40 封私信) 首页 - 知乎 - Google Chrome
+10:54:44:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:55:09:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+10:55:14:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:55:24:  New Project By Approach
+10:55:29:  StarUML
+10:55:34:  StarUML
+10:55:39:  便签条
+10:55:44:  StarUML
+10:55:49:  StarUML
+10:55:54:  StarUML
+10:55:59:  StarUML
+10:56:04:  StarUML
+10:56:09:  StarUML
+10:56:14:  StarUML
+10:56:19:  StarUML
+10:56:24:  StarUML
+10:56:29:  StarUML
+10:56:34:  StarUML
+10:56:39:  网易有道词典
+10:56:49:  Windows 任务管理器
+10:56:54:  锁屏状态
+10:56:59:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log
+10:57:04:  文档
+10:57:09:  W
+10:57:14:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-20.txt
+10:57:19:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-20.txt
+10:57:24:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-20.txt
+10:57:29:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-20.txt
+10:57:34:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-20.txt
+10:57:44:  2020-03-19.txt - 记事本
+10:57:49:  2020-03-19.txt - 记事本
+10:57:54:  W
+10:57:59:  TheActtionRec
+10:58:35:  StarUML
+10:59:05:  Quick Dialog
+10:59:10:  LogExpert
+10:59:15:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-20.txt
+10:59:05:  Quick Dialog
+10:59:10:  LogExpert
+10:59:15:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-20.txt
+11:00:25:  Bin
+11:00:30:  W
+11:00:35:  小程序
+11:00:40:  
+11:00:45:  接收
+11:00:50:  KE06LOG.bat - 记事本
+11:01:00:  
+11:01:05:  KE06LOG - 写邮件
+11:02:05:  KE06LOG - 写邮件   11:02:03 已保存
+11:02:15:  接收
+11:02:20:  日志相关
+11:02:25:  Release
+11:02:35:  LogExpert
+11:02:45:  KE06LOG - 写邮件   11:02:03 已保存
+11:03:05:  KE06LOG - 写邮件   11:03:03 已保存
+11:03:10:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-20.txt
+11:03:20:  
+11:03:25:  KE06LOG - 写邮件   11:03:03 已保存
+11:03:50:  Release
+11:03:55:  接收
+11:04:00:  KE06LOG.bat - 记事本
+11:04:15:  Quick Dialog
+11:04:25:  StarUML
+11:04:30:  Quick Dialog
+11:04:35:  
+11:04:40:  绘图1.vsd  [兼容模式] - Visio Professional
+11:04:45:  Quick Dialog
+11:04:55:  StarUML
+11:05:10:  Quick Dialog
+11:05:15:  StarUML
+11:05:20:  Quick Dialog
+11:05:25:  StarUML
+11:05:40:  Quick Dialog
+11:05:45:  StarUML
+11:07:30:  
+11:08:10:  Release.rar - WinRAR (非商业个人版)
+11:08:15:  
+11:08:20:  Release(1).rar - WinRAR (非商业个人版)
+11:08:25:  StarUML
+11:08:30:  
+11:08:35:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-20.txt
+11:09:35:  StarUML
+11:10:31:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-20.txt
+11:10:46:  StarUML
+11:11:06:  绘图1.vsd  [兼容模式] - Visio Professional
+11:11:11:  Quick Dialog
+11:11:21:  StarUML
+11:11:36:  Quick Dialog
+11:11:41:  绘图1.vsd  [兼容模式] - Visio Professional
+11:11:46:  Quick Dialog
+11:11:51:  StarUML
+11:11:56:  绘图1.vsd  [兼容模式] - Visio Professional
+11:12:01:  Quick Dialog
+11:12:06:  绘图1.vsd  [兼容模式] - Visio Professional
+11:12:11:  Quick Dialog
+11:12:16:  绘图1.vsd  [兼容模式] - Visio Professional
+11:12:21:  StarUML
+11:12:26:  Quick Dialog
+11:12:31:  绘图1.vsd  [兼容模式] - Visio Professional
+11:12:41:  Quick Dialog
+11:12:46:  StarUML
+11:12:51:  绘图1.vsd  [兼容模式] - Visio Professional
+11:12:56:  StarUML
+11:13:21:  绘图1.vsd  [兼容模式] - Visio Professional
+11:13:26:  StarUML
+11:13:31:  绘图1.vsd  [兼容模式] - Visio Professional
+11:13:36:  StarUML
+11:13:41:  绘图1.vsd  [兼容模式] - Visio Professional
+11:13:51:  StarUML
+11:13:56:  Error
+11:14:01:  StarUML
+11:14:06:  绘图1.vsd  [兼容模式] - Visio Professional
+11:14:11:  
+11:14:21:  StarUML
+11:14:26:  绘图1.vsd  [兼容模式] - Visio Professional
+11:14:31:  
+11:14:36:  StarUML
+11:14:41:  绘图1.vsd  [兼容模式] - Visio Professional
+11:14:51:  新标签页 - Google Chrome
+11:14:56:  (40 封私信) 首页 - 知乎 - Google Chrome
+11:15:46:  
+11:15:51:  (40 封私信) 首页 - 知乎 - Google Chrome
+11:19:06:  StarUML
+11:19:26:  (40 封私信) 首页 - 知乎 - Google Chrome
+11:19:36:  假如《王者荣耀》没有 ELO 机制，你的段位会比现在高多少？ - 知乎 - Google Chrome
+11:19:41:  (40 封私信) 假如《王者荣耀》没有 ELO 机制，你的段位会比现在高多少？ - 知乎 - Google Chrome
+11:20:41:  StarUML
+11:28:26:  
+11:28:31:  StarUML
+11:28:36:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-20.txt
+11:28:26:  
+11:28:31:  StarUML
+11:28:36:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-20.txt
+13:32:56:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+11:58:08:  *Python 3.7.3 Shell*
+11:58:06:  日期和时间
+11:57:43:  *Python 3.7.3 Shell*
+11:59:25:  *Python 3.7.3 Shell*
+11:59:25:  *Python 3.7.3 Shell*
+12:00:15:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+12:00:45:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-20.txt
+12:01:05:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+12:01:30:  日期和时间设置
+11:58:30:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+11:58:40:  *Python 3.7.3 Shell*
+11:59:01:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+11:58:40:  *Python 3.7.3 Shell*
+11:59:01:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+12:00:29:  日期和时间设置
+12:00:29:  日期和时间设置
+11:59:32:  *Python 3.7.3 Shell*
+11:59:47:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+12:00:02:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+11:59:32:  *Python 3.7.3 Shell*
+11:59:47:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+12:00:02:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+12:00:36:  *Python 3.7.3 Shell*
+12:00:36:  *Python 3.7.3 Shell*
+12:00:12:  *Python 3.7.3 Shell*
+12:00:12:  *Python 3.7.3 Shell*
+12:00:50:  *Python 3.7.3 Shell*
+12:00:50:  *Python 3.7.3 Shell*
+12:00:05:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+12:00:05:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+12:00:49:  *Python 3.7.3 Shell*
+12:00:49:  *Python 3.7.3 Shell*
+12:01:04:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+12:02:36:  Kill?
+12:02:59:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-20.txt
+12:03:09:  W
+12:03:14:  2020-03-20.txt - 记事本
+12:03:34:  W
+12:03:39:  2020-03-19.txt - 记事本
+12:04:04:  记事本
+12:04:09:  2020-03-20.txt - 记事本
+12:04:14:  2020-03-18.txt - 记事本
+12:04:39:  TheActtionRec
+12:04:49:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-18.txt
+12:05:29:  文档
+12:05:44:  新标签页 - Google Chrome
+12:05:54:  百度一下，你就知道 - Google Chrome
+12:05:59:  https://www.baidu.com/link?url=3-HMJCvgdHRPQGI6v4JsgqyXOsE_-kS7JcmYWLX0eSm&wd=&eqid=d82c2891000b68ca000000025e745cf4 - Google Chrome
+12:06:04:  百度网盘-全部文件 - Google Chrome
+12:06:09:  打开
+12:06:14:  文档
+12:06:19:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+12:06:59:  文档
+12:07:04:  Bin
+12:07:09:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+12:09:14:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+12:10:14:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+12:11:59:  Bin
+12:12:04:  Windows 任务管理器
+12:12:20:  Windows 任务管理器
+12:12:25:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-18.txt
+12:12:40:  Log
+12:12:45:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-20.txt
+12:13:30:  StarUML
+12:14:00:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-20.txt
+12:14:05:  新标签页 - Google Chrome
+12:14:10:  百度一下，你就知道 - Google Chrome
+12:14:15:  can only concatenate str (not int) to str 报错_Python_linxun10000的博客-CSDN博客 - Google Chrome
+12:14:25:  python3 TypeError: can only concatenate str (not dict) to str_Python_qq_36631580的博客-CSDN博客 - Google Chrome
+12:14:40:  can only concatenate str (not "NoneType") to str_百度搜索 - Google Chrome
+12:14:45:  Python爬虫常见一分彩系统制作报错及解决办法 - 金色的隔阂 - 博客园 - Google Chrome
+12:15:00:  can only concatenate str (not "NoneType") to str_百度搜索 - Google Chrome
+12:14:05:  新标签页 - Google Chrome
+12:14:10:  百度一下，你就知道 - Google Chrome
+12:14:15:  can only concatenate str (not int) to str 报错_Python_linxun10000的博客-CSDN博客 - Google Chrome
+12:14:25:  python3 TypeError: can only concatenate str (not dict) to str_Python_qq_36631580的博客-CSDN博客 - Google Chrome
+12:14:40:  can only concatenate str (not "NoneType") to str_百度搜索 - Google Chrome
+12:14:45:  Python爬虫常见一分彩系统制作报错及解决办法 - 金色的隔阂 - 博客园 - Google Chrome
+12:15:00:  can only concatenate str (not "NoneType") to str_百度搜索 - Google Chrome
+12:15:10:  网易有道词典
+12:15:15:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-20.txt
+12:15:50:  本地磁盘 (F:)
+12:15:55:  文档
+12:16:00:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+12:17:10:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-20.txt
+12:17:20:  新建文本文档.exe - 快捷方式
+12:17:25:  日期和时间
+12:17:35:  Internet 时间设置
+14:16:55:  StarUML
+14:17:00:  Python爬虫常见一分彩系统制作报错及解决办法 - 金色的隔阂 - 博客园 - Google Chrome
+14:17:05:  StarUML
+14:17:35:  绘图1.vsd  [兼容模式] - Visio Professional
+14:17:40:  StarUML
+14:17:45:  Quick Dialog
+14:17:50:  StarUML
+14:17:55:  绘图1.vsd  [兼容模式] - Visio Professional
+14:18:00:  StarUML
+14:18:05:  Error
+14:18:10:  绘图1.vsd  [兼容模式] - Visio Professional
+14:18:15:  StarUML
+14:18:20:  绘图1.vsd  [兼容模式] - Visio Professional
+14:18:25:  StarUML
+14:18:35:  绘图1.vsd  [兼容模式] - Visio Professional
+14:18:45:  StarUML
+14:19:05:  绘图1.vsd  [兼容模式] - Visio Professional
+14:19:15:  StarUML
+14:19:25:  绘图1.vsd  [兼容模式] - Visio Professional
+14:19:35:  StarUML
+14:19:50:  绘图1.vsd  [兼容模式] - Visio Professional
+14:19:55:  StarUML
+14:20:00:  Quick Dialog
+14:20:05:  StarUML
+14:20:10:  绘图1.vsd  [兼容模式] - Visio Professional
+14:20:15:  StarUML
+14:20:30:  绘图1.vsd  [兼容模式] - Visio Professional
+14:20:40:  StarUML
+14:20:45:  绘图1.vsd  [兼容模式] - Visio Professional
+14:20:50:  StarUML
+14:21:00:  绘图1.vsd  [兼容模式] - Visio Professional
+14:21:10:  StarUML
+14:22:35:  绘图1.vsd  [兼容模式] - Visio Professional
+14:22:50:  StarUML
+14:23:30:  绘图1.vsd  [兼容模式] - Visio Professional
+14:23:55:  StarUML
+14:24:45:  绘图1.vsd  [兼容模式] - Visio Professional
+14:24:55:  StarUML
+14:25:10:  绘图1.vsd  [兼容模式] - Visio Professional
+14:25:20:  StarUML
+14:28:35:  绘图1.vsd  [兼容模式] - Visio Professional
+14:29:00:  StarUML
+14:28:35:  绘图1.vsd  [兼容模式] - Visio Professional
+14:29:00:  StarUML
+14:33:45:  绘图1.vsd  [兼容模式] - Visio Professional
+14:33:55:  技术中心2020年度岗位任职资格评审结果通知
+14:34:10:  绘图1.vsd  [兼容模式] - Visio Professional
+14:34:15:  StarUML
+14:35:55:  绘图1.vsd  [兼容模式] - Visio Professional
+14:36:10:  StarUML
+14:36:15:  绘图1.vsd  [兼容模式] - Visio Professional
+14:36:20:  StarUML
+14:37:05:  绘图1.vsd  [兼容模式] - Visio Professional
+14:37:30:  StarUML
+14:38:05:  绘图1.vsd  [兼容模式] - Visio Professional
+14:38:15:  StarUML
+14:39:05:  绘图1.vsd  [兼容模式] - Visio Professional
+14:39:50:  StarUML
+14:40:05:  绘图1.vsd  [兼容模式] - Visio Professional
+14:40:10:  StarUML
+14:41:30:  绘图1.vsd  [兼容模式] - Visio Professional
+14:41:35:  StarUML
+14:41:50:  绘图1.vsd  [兼容模式] - Visio Professional
+14:42:00:  StarUML
+14:42:15:  绘图1.vsd  [兼容模式] - Visio Professional
+14:42:20:  StarUML
+14:43:35:  锁屏状态
+14:43:40:  绘图1.vsd  [兼容模式] - Visio Professional
+14:43:50:  StarUML
+14:48:35:  绘图1.vsd  [兼容模式] - Visio Professional
+14:48:45:  StarUML
+14:51:00:  绘图1.vsd  [兼容模式] - Visio Professional
+14:51:05:  StarUML
+14:51:55:  绘图1.vsd  [兼容模式] - Visio Professional
+14:52:15:  StarUML
+14:53:05:  绘图1.vsd  [兼容模式] - Visio Professional
+14:53:15:  StarUML
+14:53:35:  绘图1.vsd  [兼容模式] - Visio Professional
+14:53:50:  StarUML
+14:54:50:  新标签页 - Google Chrome
+14:55:05:  StarUML
+14:55:10:  绘图1.vsd  [兼容模式] - Visio Professional
+14:55:35:  陈忠
+14:55:45:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+14:56:05:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:56:10:  D:\00-06\1T2-Seclect-Aging\Applications\MemoryConfig.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:56:15:  陈忠
+14:56:20:  D:\00-06\1T2-Seclect-Aging\Applications\MemoryConfig.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:56:25:  D:\00-06\Thespace\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+14:56:35:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+14:56:40:  陈忠
+14:57:25:  20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel
+14:57:55:  陈忠
+14:58:05:  绘图1.vsd  [兼容模式] - Visio Professional
+14:58:15:  StarUML
+14:58:50:  于斌1
+14:59:05:  StarUML
+14:59:20:  于斌1
+14:59:25:  StarUML
+14:59:35:  于斌1
+14:58:05:  绘图1.vsd  [兼容模式] - Visio Professional
+14:58:15:  StarUML
+14:58:50:  于斌1
+14:59:05:  StarUML
+14:59:20:  于斌1
+14:59:25:  StarUML
+14:59:35:  于斌1
+15:00:55:  StarUML
+15:01:05:  绘图1.vsd  [兼容模式] - Visio Professional
+15:01:10:  D:\00-06\Thespace\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+15:01:15:  于斌1
+15:01:55:  数据抓取工具 - Google Chrome
+15:02:10:  于斌1
+15:02:25:  数据抓取工具 - Google Chrome
+15:02:30:  eSpace
+15:02:35:  于斌1
+15:02:50:  eSpace
+15:02:55:  于斌1
+15:03:50:  eSpace
+15:03:55:  计算器
+15:04:30:  于斌1
+15:04:45:  数据抓取工具 - Google Chrome
+15:05:00:  计算器
+15:05:05:  【提醒】TCR/TCR（DRB）和CRS周报填写
+15:05:10:  03 项目周报
+15:05:15:  【提醒】TCR/TCR（DRB）和CRS周报填写
+15:05:20:  03 项目周报 (未响应)
+15:05:25:  【提醒】TCR/TCR（DRB）和CRS周报填写
+15:05:30:  数据抓取工具 - Google Chrome
+15:05:35:  【提醒】TCR/TCR（DRB）和CRS周报填写
+15:05:40:  于斌1
+15:05:50:  Windows 任务管理器
+15:05:55:  计算器
+15:06:55:  于斌1
+15:07:25:  绘图1.vsd  [兼容模式] - Visio Professional
+15:07:35:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:07:45:  选择文件夹
+15:07:50:  于斌1
+15:07:55:  选择文件夹
+15:08:20:  于斌1
+15:09:00:  选择文件夹
+15:10:05:  untitled (trunk) - Sublime Text (UNREGISTERED)
+15:10:10:  D:\00-KE64\7\trunk\Applications\StateCheck\StateCheck.c (trunk) - Sublime Text (UNREGISTERED)
+15:10:15:  D:\00-KE64\7\trunk\Applications\FlowControl\FlowControl.c (trunk) - Sublime Text (UNREGISTERED)
+15:10:20:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:10:30:  绘图1.vsd  [兼容模式] - Visio Professional
+15:10:35:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:11:00:  绘图1.vsd  [兼容模式] - Visio Professional
+15:11:05:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:11:25:  绘图1.vsd  [兼容模式] - Visio Professional
+15:11:30:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:11:40:  绘图1.vsd  [兼容模式] - Visio Professional
+15:11:45:  StarUML
+15:12:05:  绘图1.vsd  [兼容模式] - Visio Professional
+15:12:10:  StarUML
+15:13:00:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-20.txt
+15:13:05:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-18.txt
+15:13:10:  锁屏状态
+15:14:30:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-20.txt
+15:14:35:  陈忠
+15:14:30:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-20.txt
+15:14:35:  陈忠
+15:15:40:  D:\00-06\Thespace\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+15:15:45:  陈忠
+15:16:25:  锁屏状态
+15:57:46:  陈忠
+15:58:41:  姚世龙
+15:58:46:  固件一室
+15:58:51:  陈忠
+15:59:01:  D:\00-06\1T2-Seclect-Aging\Applications\MemoryConfig.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:59:31:  姚世龙
+15:58:41:  姚世龙
+15:58:46:  固件一室
+15:58:51:  陈忠
+15:59:01:  D:\00-06\1T2-Seclect-Aging\Applications\MemoryConfig.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:59:31:  姚世龙
+16:00:21:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+16:00:36:  D:\00-06\1T2-Seclect-Aging\Rtos\OSLib.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+16:00:41:  D:\00-06\1T2-Seclect-Aging\Rtos\MQXLITE\MQX1.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+16:00:46:  D:\00-06\1T2-Seclect-Aging\Rtos\OSLib.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+16:01:06:  陈忠
+16:02:06:  姚世龙
+16:02:36:  新标签页 - Google Chrome
+16:02:46:  姚世龙
+16:02:51:  陈忠
+16:03:06:  姚世龙
+16:04:01:  自动播放
+16:04:06:  姚世龙
+16:04:26:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+16:04:36:  www.baidu.com - Google Chrome
+16:04:41:  StarUML
+16:04:51:  incl.Generated_百度搜索 - Google Chrome
+16:04:56:  STM32中使用strtok,atol,atoi,memset,strlen;后使用atoi系统卡死 - 朽木生 - 博客园 - Google Chrome
+16:05:01:  incl.Generated_百度搜索 - Google Chrome
+16:05:11:  *.map文件中的这些信息分别代表什么意思？？ - ST开发工具 - 论坛-意法半导体STM32/STM8技术社区 - Google Chrome
+16:05:31:  incl.Generated_百度搜索 - Google Chrome
+16:05:41:  STM32中使用strtok,atol,atoi,memset,strlen;后使用atoi系统卡死 - 朽木生 - 博客园 - Google Chrome
+16:06:06:  陈忠
+16:06:56:  姚世龙
+16:07:01:  incl.Generated_百度搜索 - Google Chrome
+16:07:11:  keil incl.Generated_百度搜索 - Google Chrome
+16:07:16:  keil5编译后生成 Program Size: Code RO-data RW-data ZI-data是什么_嵌入式_浪迹天涯的博客-CSDN博客 - Google Chrome
+16:07:36:  陈忠
+16:08:11:  固件设计中心
+16:08:16:  eSpace
+16:08:21:  固件设计中心
+16:08:26:  陈忠
+16:10:36:  keil5编译后生成 Program Size: Code RO-data RW-data ZI-data是什么_嵌入式_浪迹天涯的博客-CSDN博客 - Google Chrome
+16:10:51:  keil incl.Generated_百度搜索 - Google Chrome
+16:10:56:  keil incl_百度搜索 - Google Chrome
+16:11:06:  keil incl.Generated_百度搜索 - Google Chrome
+16:11:11:  https://www.baidu.com/link?url=_TCJycQgWjlK9ARkTU8z1rQWIkZ7Jc5Avgl1vHoxyFWckg6nXKEeZv2OtR09g9tYF5XXlaDXgPnShpFclyzgKaqT4NfNpWuZS8rPYZZ_lUy&wd=&eqid=bd7f1b3c00016dda000000025e747a95 - Google Chrome
+16:11:16:  keil MDK编译器警告和错误详解(不定期更新)_嵌入式_sumjess-CSDN博客 - Google Chrome
+16:11:21:  姚世龙
+16:11:36:  keil5编译后生成 Program Size: Code RO-data RW-data ZI-data是什么_嵌入式_浪迹天涯的博客-CSDN博客 - Google Chrome
+16:11:41:  keil MDK编译器警告和错误详解(不定期更新)_嵌入式_sumjess-CSDN博客 - Google Chrome
+16:11:46:  keil5编译后生成 Program Size: Code RO-data RW-data ZI-data是什么_嵌入式_浪迹天涯的博客-CSDN博客 - Google Chrome
+16:12:11:  姚世龙
+16:12:26:  陈忠
+16:13:51:  00-06
+16:13:56:  Project
+16:14:01:  build
+16:14:16:  Project
+16:14:21:  1T2-Seclect-Aging
+16:14:31:  map - “1T2-Seclect-Aging”中的搜索结果
+16:14:36:  IO_Map.h - 记事本
+16:14:41:  4B782E
+16:14:46:  map - “1T2-Seclect-Aging”中的搜索结果
+16:14:51:  00-06
+16:14:56:  ma - trunk
+16:15:01:  map - “trunk”中的搜索结果
+16:14:16:  Project
+16:14:21:  1T2-Seclect-Aging
+16:14:31:  map - “1T2-Seclect-Aging”中的搜索结果
+16:14:36:  IO_Map.h - 记事本
+16:14:41:  4B782E
+16:14:46:  map - “1T2-Seclect-Aging”中的搜索结果
+16:14:51:  00-06
+16:14:56:  ma - trunk
+16:15:01:  map - “trunk”中的搜索结果
+16:15:06:  打开方式
+16:15:11:  D:\00-KE64\7\trunk\Project\build\release\k64_rtt.map (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+16:15:16:  Windows 任务管理器
+16:15:26:  D:\00-KE64\7\trunk\Project\build\release\k64_rtt.map (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+16:15:31:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-20.txt
+16:15:36:  D:\00-KE64\7\trunk\Project\build\release\k64_rtt.map (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+16:16:01:  keil incl.Generated_百度搜索 - Google Chrome
+16:16:06:  keil Object Totals_百度搜索 - Google Chrome
+16:16:11:  STM32 KEIL里的MAP文件分析_嵌入式_qlexcel的专栏-CSDN博客 - Google Chrome
+16:17:31:  Bin
+16:17:41:  00-06
+16:17:46:  trunk
+16:17:51:  工作副本
+16:17:56:  D:\00-06\Thespace\trunk - 工作副本 - TortoiseSVN
+16:18:01:  TrackCtrl.c - TortoiseMerge
+16:18:26:  TortoiseMerge
+16:18:31:  InstrHandle.c - TortoiseMerge
+16:18:36:  Project
+16:18:46:  μVision
+16:18:56:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+16:19:26:  trunk
+16:19:31:  InstrExecute.c - TortoiseMerge
+16:19:36:  TortoiseMerge
+16:19:41:  StepMotor.c - TortoiseMerge
+16:19:51:  Track.c - TortoiseMerge
+16:19:56:  μVision
+16:20:01:  Tools
+16:20:31:  D:\00-06\Thespace\trunk\Tools\CreateJK.exe
+16:20:36:  Tools
+16:20:56:  未命名 - 写邮件
+16:21:01:  Tools
+16:21:06:  确认
+16:21:11:  未命名 - 写邮件
+16:21:16:  陈忠
+16:21:21:  未命名 - 写邮件
+16:21:31:  桌面整理
+16:21:36:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T82 - 写邮件
+16:21:46:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T82_ - 写邮件
+16:21:51:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T82_Lenth - 写邮件
+16:21:56:  开始
+16:22:06:  STM32 KEIL里的MAP文件分析_嵌入式_qlexcel的专栏-CSDN博客 - Google Chrome
+16:22:36:  陈忠
+16:22:41:  STM32 KEIL里的MAP文件分析_嵌入式_qlexcel的专栏-CSDN博客 - Google Chrome
+16:22:51:  eSpace
+16:23:16:  姚世龙
+16:23:36:  STM32 KEIL里的MAP文件分析_嵌入式_qlexcel的专栏-CSDN博客 - Google Chrome
+16:23:41:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:24:31:  姚世龙
+16:24:51:  STM32 KEIL里的MAP文件分析_嵌入式_qlexcel的专栏-CSDN博客 - Google Chrome
+16:25:41:  姚世龙
+16:25:46:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-20.txt
+16:25:51:  锁屏状态
+16:25:56:  文档
+16:26:01:  W
+16:26:06:  跳转列表
+16:26:11:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-20.txt
+16:27:06:  03 项目周报 (未响应)
+16:27:11:  锁屏状态
+16:27:16:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:27:41:  untitled (trunk) - Sublime Text (UNREGISTERED)
+16:27:46:  库
+16:27:51:  00-KE64
+16:27:56:  00-06
+16:28:01:  trunk
+16:28:06:  InstrExecute.c - TortoiseMerge
+16:28:21:  00-06
+16:28:26:  trunk
+16:28:31:  1T1Stop
+16:28:41:  Update Available
+16:28:46:  选择文件夹
+16:28:51:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:28:56:  untitled (trunk) - Sublime Text (UNREGISTERED)
+16:29:01:  D:\00-06\1T1Stop\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+16:29:06:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:29:11:  选择文件夹
+16:29:21:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:29:26:  untitled (trunk) - Sublime Text (UNREGISTERED)
+16:29:51:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:30:01:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+16:28:06:  InstrExecute.c - TortoiseMerge
+16:28:21:  00-06
+16:28:26:  trunk
+16:28:31:  1T1Stop
+16:28:41:  Update Available
+16:28:46:  选择文件夹
+16:28:51:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:28:56:  untitled (trunk) - Sublime Text (UNREGISTERED)
+16:29:01:  D:\00-06\1T1Stop\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+16:29:06:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:29:11:  选择文件夹
+16:29:21:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:29:26:  untitled (trunk) - Sublime Text (UNREGISTERED)
+16:29:51:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:30:01:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+16:30:11:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:30:16:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+16:30:31:  D:\00-06\1T1Stop\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+16:30:41:  D:\00-06\1T1Stop\trunk\Middlewares\Track\Track.c • (trunk) - Sublime Text (UNREGISTERED)
+16:30:46:  D:\00-06\1T1Stop\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+16:30:51:  D:\00-06\1T1Stop\trunk\Middlewares\Track\Track.h (trunk) - Sublime Text (UNREGISTERED)
+16:30:56:  D:\00-06\1T1Stop\trunk\Middlewares\Track\Track.h • (trunk) - Sublime Text (UNREGISTERED)
+16:31:01:  D:\00-06\1T1Stop\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+16:31:06:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+16:31:16:  D:\00-06\1T1Stop\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+16:31:26:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+16:31:31:  trunk
+16:31:36:  μVision
+16:31:41:  eSpace
+16:31:46:  陈忠
+16:32:16:  eSpace
+16:32:21:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+16:33:11:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+16:33:16:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:33:21:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:33:26:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+16:33:31:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:33:41:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+16:33:46:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:34:06:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+16:34:31:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:34:36:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.h (trunk) - Sublime Text (UNREGISTERED)
+16:34:46:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrHandle.h (trunk) - Sublime Text (UNREGISTERED)
+16:34:51:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+16:34:56:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+16:35:01:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrHandle.h (trunk) - Sublime Text (UNREGISTERED)
+16:35:11:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+16:35:26:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrExecute.h (trunk) - Sublime Text (UNREGISTERED)
+16:35:36:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+16:35:41:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+16:35:46:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrHandle.c • (trunk) - Sublime Text (UNREGISTERED)
+16:35:56:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+16:36:06:  μVision
+16:36:12:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+16:38:22:  姚世龙
+16:38:32:  D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision
+16:38:52:  eSpace
+16:38:57:  新建文本文档.exe - 快捷方式
+16:39:02:  新标签页 - Google Chrome
+16:39:27:  姚世龙
+16:40:12:  www.baidu.com - Google Chrome
+16:40:32:  姚世龙
+16:41:42:  百度一下，你就知道 - Google Chrome
+16:41:52:  STM32 KEIL里的MAP文件分析_嵌入式_qlexcel的专栏-CSDN博客 - Google Chrome
+16:43:17:  Project
+16:43:22:  trunk
+16:43:27:  release
+16:43:32:  D:\00-KE64\6\trunk\Project\build\release\k64_rtt.map (trunk) - Sublime Text (UNREGISTERED)
+16:47:22:  STM32 KEIL里的MAP文件分析_嵌入式_qlexcel的专栏-CSDN博客 - Google Chrome
+16:47:52:  D:\00-KE64\6\trunk\Project\build\release\k64_rtt.map (trunk) - Sublime Text (UNREGISTERED)
+16:48:17:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.h (trunk) - Sublime Text (UNREGISTERED)
+16:48:27:  姚世龙
+16:48:32:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrExecute.h (trunk) - Sublime Text (UNREGISTERED)
+16:48:37:  map - “release”中的搜索结果
+16:48:42:  D:\00-KE64\6\trunk\Project\build\release\k64_rtt.map (trunk) - Sublime Text (UNREGISTERED)
+16:51:57:  STM32 KEIL里的MAP文件分析_嵌入式_qlexcel的专栏-CSDN博客 - Google Chrome
+16:53:17:  D:\00-KE64\6\trunk\Project\build\release\k64_rtt.map (trunk) - Sublime Text (UNREGISTERED)
+16:53:32:  姚世龙
+16:53:47:  D:\00-KE64\6\trunk\Project\build\release\k64_rtt.map (trunk) - Sublime Text (UNREGISTERED)
+16:54:32:  姚世龙
+16:54:47:  D:\00-KE64\6\trunk\Project\build\release\k64_rtt.map (trunk) - Sublime Text (UNREGISTERED)
+16:55:52:  STM32 KEIL里的MAP文件分析_嵌入式_qlexcel的专栏-CSDN博客 - Google Chrome
+16:56:22:  D:\00-KE64\6\trunk\Project\build\release\k64_rtt.map (trunk) - Sublime Text (UNREGISTERED)
+16:56:37:  STM32 KEIL里的MAP文件分析_嵌入式_qlexcel的专栏-CSDN博客 - Google Chrome
+16:56:47:  D:\00-KE64\6\trunk\Project\build\release\k64_rtt.map (trunk) - Sublime Text (UNREGISTERED)
+16:56:52:  STM32 KEIL里的MAP文件分析_嵌入式_qlexcel的专栏-CSDN博客 - Google Chrome
+16:59:12:  D:\00-KE64\6\trunk\Project\build\release\k64_rtt.map (trunk) - Sublime Text (UNREGISTERED)
+16:59:37:  STM32 KEIL里的MAP文件分析_嵌入式_qlexcel的专栏-CSDN博客 - Google Chrome
+16:59:12:  D:\00-KE64\6\trunk\Project\build\release\k64_rtt.map (trunk) - Sublime Text (UNREGISTERED)
+16:59:37:  STM32 KEIL里的MAP文件分析_嵌入式_qlexcel的专栏-CSDN博客 - Google Chrome
+17:00:27:  D:\00-KE64\6\trunk\Project\build\release\k64_rtt.map (trunk) - Sublime Text (UNREGISTERED)
+17:00:37:  STM32 KEIL里的MAP文件分析_嵌入式_qlexcel的专栏-CSDN博客 - Google Chrome
+17:01:17:  姚世龙
+17:02:22:  STM32 KEIL里的MAP文件分析_嵌入式_qlexcel的专栏-CSDN博客 - Google Chrome
+17:04:17:  姚世龙
+17:05:22:  STM32 KEIL里的MAP文件分析_嵌入式_qlexcel的专栏-CSDN博客 - Google Chrome
+17:05:27:  姚世龙
+17:05:32:  链接器会生成的映像内容_百度搜索 - Google Chrome
+17:05:37:  keil 链接器会生成的映像内容_百度搜索 - Google Chrome
+17:05:42:  MDK编译过程及其中间文件介绍_sh的博客-CSDN博客 - Google Chrome

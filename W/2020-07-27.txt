@@ -1,0 +1,1938 @@
+08:04:14:  Foxmail
+08:04:19:  回复: 上海银行146#钞箱执行大额存款报传感器错误，关闭传感器异常 返回码843C02AD
+08:05:39:  DRB工程样机系统测试进展汇报~0725
+08:05:49:  5.12 直流电机功能测试 .xlsx - Excel
+08:07:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:08:54:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:08:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:09:04:  5.12 直流电机功能测试 .xlsx - Excel
+08:12:29:  eSpace
+08:12:34:  吉哲
+08:13:34:  eSpace
+08:13:39:  程明昌
+08:19:04:  吉哲
+08:20:34:  eSpace
+08:20:44:  于转龙
+08:20:49:  问题日志
+08:20:54:  Excel
+08:20:59:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+08:21:29:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:23:29:  吉哲
+08:23:49:  eSpace
+08:23:59:  于斌1
+08:24:14:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:24:19:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:32:44:  吉哲
+08:33:34:  于斌1
+08:33:44:  吉哲
+08:33:49:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:33:59:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:34:04:  吉哲
+08:34:29:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:34:34:  μVision
+08:34:39:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+08:34:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:34:49:  μVision
+08:35:04:  锁屏状态
+08:35:34:  µVision IDE
+08:35:44:  锁屏状态
+08:35:49:  于斌1
+08:36:04:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:36:09:  JL2CM3
+08:36:19:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:36:54:  Toolbox
+08:36:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:37:19:  KE06LOG.bat - 快捷方式 (2)
+08:38:39:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007251608.log
+08:38:54:  Watch 1
+08:38:59:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:39:04:  RTT_SeggerLog_202007251608.log - DRB.tat* - TextAnalysisTool.NET
+08:39:14:  RTT_SeggerLog_202007270837.log - DRB.tat* - TextAnalysisTool.NET
+08:39:19:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:39:24:  Microsoft Excel
+08:39:29:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:39:44:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:39:59:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:40:04:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:40:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:41:04:  Toolbox
+08:41:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:41:19:  锁屏状态
+08:41:24:  Watch 1
+08:41:39:  RTT_SeggerLog_202007270841.log - DRB.tat* - TextAnalysisTool.NET
+08:41:49:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:41:59:  Watch 1
+08:42:04:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:42:09:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:42:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:42:49:  Watch 1
+08:42:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:43:24:  Watch 1
+08:44:09:  RTT_SeggerLog_202007270843.log - DRB.tat* - TextAnalysisTool.NET
+08:44:14:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:44:19:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:44:29:  警告
+08:44:44:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:44:54:  μVision
+08:44:09:  RTT_SeggerLog_202007270843.log - DRB.tat* - TextAnalysisTool.NET
+08:44:14:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:44:19:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:44:29:  警告
+08:44:44:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:44:54:  μVision
+08:45:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:45:54:  Toolbox
+08:45:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:46:09:  RTT_SeggerLog_202007270843.log - DRB.tat* - TextAnalysisTool.NET
+08:46:19:  Microsoft Excel
+08:46:24:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:46:29:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:46:34:  Watch 1
+08:46:59:  RTT_SeggerLog_202007270846.log - DRB.tat* - TextAnalysisTool.NET
+08:47:04:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:57:54:  RTT_SeggerLog_202007270846.log - DRB.tat* - TextAnalysisTool.NET
+08:57:59:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:58:14:  eSpace
+08:58:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:58:49:  桌面整理
+08:59:04:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:59:09:  eSpace
+08:59:14:  于斌1
+08:59:34:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:59:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:59:59:  锁屏状态
+09:00:04:  库
+08:58:14:  eSpace
+08:58:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:58:49:  桌面整理
+08:59:04:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:59:09:  eSpace
+08:59:14:  于斌1
+08:59:34:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:59:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:59:59:  锁屏状态
+09:00:04:  库
+09:00:09:  06- 刘建生
+09:00:19:  Excel
+09:00:29:  TCR（DRB）项目周报.xlsx  [共享] - Excel
+09:02:34:  Watch 1
+09:02:39:  于斌1
+09:02:49:  RTT_SeggerLog_202007270902.log - DRB.tat* - TextAnalysisTool.NET
+09:02:54:  新建 Microsoft Excel 工作表.xlsx - Excel
+09:03:04:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:03:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:03:44:  Toolbox
+09:03:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:04:34:  RTT_SeggerLog_202007241732.log 属性
+09:04:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:05:39:  本地磁盘 (D:)
+09:05:44:  00-06
+09:05:49:  本地磁盘 (D:)
+09:05:59:  DRB-PRESS
+09:06:04:  工作副本
+09:06:09:  MemoryConfig.h - TortoiseMerge
+09:06:14:  PaperManage.c - TortoiseMerge
+09:06:59:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+09:07:04:  MotorCtrl.c - TortoiseMerge
+09:07:09:  TortoiseMerge
+09:07:14:  MotorCtrl.c - TortoiseMerge
+09:07:29:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+09:07:34:  桌面整理
+09:07:39:  Windows 任务管理器
+09:08:14:  桌面整理
+09:09:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:09:44:  运行
+09:09:49:  问题日志
+09:09:54:  Excel
+09:09:59:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+09:10:04:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+09:13:49:  新建 Microsoft Excel 工作表.xlsx - Excel
+09:13:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:14:34:  本地磁盘 (D:)
+09:14:54:  00-06
+09:14:59:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+09:14:34:  本地磁盘 (D:)
+09:14:54:  00-06
+09:14:59:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+09:15:09:  LowerPlateCtrl.c - TortoiseMerge
+09:15:14:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+09:15:19:  PressurePlateCtrl.c - TortoiseMerge
+09:15:44:  UpperPlateCtrl.c - TortoiseMerge
+09:15:49:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+09:15:54:  Separate.c - TortoiseMerge
+09:15:59:  State.c - TortoiseMerge
+09:16:04:  Track.c - TortoiseMerge
+09:16:14:  TortoiseMerge
+09:16:19:  文件补丁  
+09:16:24:  BldcDriver.c - TortoiseMerge
+09:16:39:  TortoiseMerge
+09:16:44:  CapDriver.c - TortoiseMerge
+09:16:54:  TortoiseMerge
+09:16:59:  CapDriver.c - TortoiseMerge
+09:17:04:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+09:17:09:  FtmConfig.c - TortoiseMerge
+09:17:14:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+09:17:19:  LpitDriver.c - TortoiseMerge
+09:17:24:  文件补丁  
+09:17:29:  TortoiseMerge
+09:17:34:  StepMotorDriver.c - TortoiseMerge
+09:17:39:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+09:17:55:  PressurePlate.c - TortoiseMerge
+09:18:10:  UpperPlate.c - TortoiseMerge
+09:18:15:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+09:18:20:  DRB-PRESS
+09:23:55:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:24:15:  自动播放
+09:24:20:  iTunes
+09:24:30:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:24:45:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+09:26:46:  打开
+09:26:51:  TCR调测工具 V3.36
+09:26:56:  打开
+09:27:01:  TCR调测工具 V3.36
+09:28:01:  钞箱配置
+09:28:12:  TCR调测工具 V3.36
+09:29:27:  取款
+09:29:32:  TCR调测工具 V3.36
+09:28:12:  TCR调测工具 V3.36
+09:29:27:  取款
+09:29:32:  TCR调测工具 V3.36
+09:30:13:  取款
+09:30:18:  TCR调测工具 V3.36
+09:32:53:  取款
+09:32:58:  TCR调测工具 V3.36
+09:34:34:  取款
+09:34:49:  TCR调测工具 V3.36
+09:37:34:  取款
+09:37:44:  TCR调测工具 V3.36
+09:38:39:  取款
+09:38:44:  TCR调测工具 V3.36
+09:41:09:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+09:42:49:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+09:42:54:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+09:42:59:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+09:43:09:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+09:43:14:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+09:43:49:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+09:43:54:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+09:45:39:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+09:45:44:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:46:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:46:44:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:47:04:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+09:49:44:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+09:49:49:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+09:50:04:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+09:50:09:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:50:40:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:51:20:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:51:25:  JLink - Cortex-M Error
+09:51:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:52:00:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:56:45:  KE06LOG.bat - 快捷方式 (2)
+09:56:50:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:57:05:  RTT_SeggerLog_202007270956.log - DRB.tat* - TextAnalysisTool.NET
+09:57:10:  新建 Microsoft Excel 工作表.xlsx - Excel
+09:57:15:  Microsoft Excel
+09:57:20:  新建 Microsoft Excel 工作表.xlsx - Excel
+09:57:30:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:57:50:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:58:55:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+09:59:00:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:59:20:  Watch 1
+09:59:25:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:59:30:  KE06LOG.bat - 快捷方式 (2)
+09:59:50:  RTT_SeggerLog_202007270959.log - DRB.tat* - TextAnalysisTool.NET
+09:59:55:  新建 Microsoft Excel 工作表.xlsx - Excel
+09:58:55:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+09:59:00:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:59:20:  Watch 1
+09:59:25:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:59:30:  KE06LOG.bat - 快捷方式 (2)
+09:59:50:  RTT_SeggerLog_202007270959.log - DRB.tat* - TextAnalysisTool.NET
+09:59:55:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:00:25:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:01:05:  Watch 1
+10:01:10:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:01:15:  KE06LOG.bat - 快捷方式 (2)
+10:01:20:  RTT_SeggerLog_202007270959.log - DRB.tat* - TextAnalysisTool.NET
+10:01:35:  RTT_SeggerLog_202007271001.log - DRB.tat* - TextAnalysisTool.NET
+10:01:40:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:01:45:  文本分列向导 - 第 1 步，共 3 步
+10:01:50:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:02:25:  查找和替换
+10:02:40:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:03:05:  文本分列向导 - 第 1 步，共 3 步
+10:03:10:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:03:50:  查找和替换
+10:03:55:  Watch 1
+10:04:00:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:04:15:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:04:20:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:04:30:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:04:35:  μVision
+10:04:40:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:05:25:  Watch 1
+10:05:55:  RTT_SeggerLog_202007241819.log 属性
+10:06:00:  接收
+10:06:15:  RTT_SeggerLog_202007241819.log 属性
+10:06:25:  RTT_SeggerLog_202007271005.log - DRB.tat* - TextAnalysisTool.NET
+10:06:50:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:06:55:  文本分列向导 - 第 1 步，共 3 步
+10:07:00:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:07:15:  选择数据源
+10:07:30:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:07:35:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:07:40:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:08:20:  Watch 1
+10:08:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:08:45:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:09:15:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:10:00:  Toolbox
+10:10:05:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:10:10:  Watch 1
+10:10:15:  KE06LOG.bat - 快捷方式 (2)
+10:10:20:  RTT_SeggerLog_202007271008.log - DRB.tat* - TextAnalysisTool.NET
+10:10:25:  RTT_SeggerLog_202007271010.log - DRB.tat* - TextAnalysisTool.NET
+10:10:30:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:10:50:  选择数据源
+10:10:55:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:11:10:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:11:35:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:11:40:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:11:45:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:11:50:  锁屏状态
+10:11:55:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:12:05:  锁屏状态
+10:12:10:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:12:35:  Watch 1
+10:12:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:12:57:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:13:02:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:13:22:  Watch 1
+10:13:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:14:17:  μVision
+10:14:22:  接收
+10:14:27:  Tools
+10:14:42:  RTT_SeggerLog_202007271013.log - DRB.tat* - TextAnalysisTool.NET
+10:14:47:  文本分列向导 - 第 1 步，共 3 步
+10:14:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:14:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:14:17:  μVision
+10:14:22:  接收
+10:14:27:  Tools
+10:14:42:  RTT_SeggerLog_202007271013.log - DRB.tat* - TextAnalysisTool.NET
+10:14:47:  文本分列向导 - 第 1 步，共 3 步
+10:14:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:14:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:15:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:15:47:  Watch 1
+10:15:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:16:02:  RTT_SeggerLog_202007271013.log - DRB.tat* - TextAnalysisTool.NET
+10:16:12:  RTT_SeggerLog_202007271015.log - DRB.tat* - TextAnalysisTool.NET
+10:16:17:  文本分列向导 - 第 1 步，共 3 步
+10:16:22:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:16:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:16:37:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:16:52:  RTT_SeggerLog_202007271015.log - DRB.tat* - TextAnalysisTool.NET
+10:16:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:17:32:  Toolbox
+10:17:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:17:42:  KE06LOG.bat - 快捷方式 (2)
+10:17:57:  RTT_SeggerLog_202007271017.log - DRB.tat* - TextAnalysisTool.NET
+10:18:02:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:18:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:18:27:  锁屏状态
+10:18:32:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:19:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:19:37:  RTT_SeggerLog_202007271019.log - DRB.tat* - TextAnalysisTool.NET
+10:19:42:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:19:47:  Microsoft Excel
+10:19:52:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:20:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:22:12:  Toolbox
+10:22:17:  锁屏状态
+10:22:22:  KE06LOG.bat - 快捷方式 (2)
+10:22:37:  RTT_SeggerLog_202007271022.log - DRB.tat* - TextAnalysisTool.NET
+10:22:42:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:23:02:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:23:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:23:47:  Toolbox
+10:23:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:23:57:  KE06LOG.bat - 快捷方式 (2)
+10:24:02:  RTT_SeggerLog_202007271022.log - DRB.tat* - TextAnalysisTool.NET
+10:24:17:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:24:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:24:42:  锁屏状态
+10:24:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:24:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:24:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:25:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:25:22:  KE06LOG.bat - 快捷方式 (2)
+10:25:37:  RTT_SeggerLog_202007271025.log - DRB.tat* - TextAnalysisTool.NET
+10:25:42:  文本分列向导 - 第 1 步，共 3 步
+10:25:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:25:52:  RTT_SeggerLog_202007271025.log - DRB.tat* - TextAnalysisTool.NET
+10:25:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:28:02:  Toolbox
+10:28:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:29:12:  μVision
+10:29:17:  Toolbox
+10:29:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:30:02:  KE06LOG.bat - 快捷方式 (2)
+10:28:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:29:12:  μVision
+10:29:17:  Toolbox
+10:29:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:30:02:  KE06LOG.bat - 快捷方式 (2)
+10:30:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:30:12:  RTT_SeggerLog_202007271025.log - DRB.tat* - TextAnalysisTool.NET
+10:30:22:  RTT_SeggerLog_202007271030.log - DRB.tat* - TextAnalysisTool.NET
+10:30:37:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:30:52:  RTT_SeggerLog_202007271030.log - DRB.tat* - TextAnalysisTool.NET
+10:31:07:  文本分列向导 - 第 1 步，共 3 步
+10:31:12:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:31:17:  分析镜头
+10:31:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:32:42:  KE06LOG.bat - 快捷方式 (2)
+10:32:47:  RTT_SeggerLog_202007271030.log - DRB.tat* - TextAnalysisTool.NET
+10:32:57:  RTT_SeggerLog_202007271032.log - DRB.tat* - TextAnalysisTool.NET
+10:33:02:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:33:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:33:57:  Toolbox
+10:34:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:34:22:  RTT_SeggerLog_202007271034.log - DRB.tat* - TextAnalysisTool.NET
+10:34:27:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:34:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:34:42:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:35:02:  RTT_SeggerLog_202007271034.log - DRB.tat* - TextAnalysisTool.NET
+10:35:17:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:35:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:36:07:  Toolbox
+10:36:22:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:36:27:  RTT_SeggerLog_202007271034.log - DRB.tat* - TextAnalysisTool.NET
+10:36:37:  RTT_SeggerLog_202007271036.log - DRB.tat* - TextAnalysisTool.NET
+10:36:52:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:37:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:38:27:  RTT_SeggerLog_202007271036.log - DRB.tat* - TextAnalysisTool.NET
+10:38:42:  RTT_SeggerLog_202007271038.log - DRB.tat* - TextAnalysisTool.NET
+10:38:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:38:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:39:47:  KE06LOG.bat - 快捷方式 (2)
+10:39:52:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:39:57:  RTT_SeggerLog_202007271038.log - DRB.tat* - TextAnalysisTool.NET
+10:40:02:  RTT_SeggerLog_202007271039.log - DRB.tat* - TextAnalysisTool.NET
+10:40:07:  Microsoft Excel
+10:40:12:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:40:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:41:02:  锁屏状态
+10:41:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:41:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:41:32:  KE06LOG.bat - 快捷方式 (2)
+10:41:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:41:47:  RTT_SeggerLog_202007271041.log - DRB.tat* - TextAnalysisTool.NET
+10:41:52:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:41:57:  文本分列向导 - 第 1 步，共 3 步
+10:42:02:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:42:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:42:42:  Toolbox
+10:42:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:42:52:  KE06LOG.bat - 快捷方式 (2)
+10:43:57:  本地磁盘 (D:)
+10:44:02:  42 CRS现金循环模块
+10:44:32:  KE06LOG.bat - 快捷方式 (2)
+10:44:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:44:32:  KE06LOG.bat - 快捷方式 (2)
+10:44:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:45:22:  SEGGER J-Link V6.10b - Target device settings
+10:45:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:45:57:  TCR调测工具 V3.36
+10:48:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:48:27:  J-Link V6.10b Device Selection
+10:48:42:  µVision IDE
+10:48:47:  库
+10:48:52:  00-06
+10:48:57:  Project
+10:49:02:  μVision
+10:49:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:49:32:  Watch 1
+10:49:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:49:57:  KE06LOG.bat - 快捷方式 (2)
+10:50:07:  J-Link V6.10b Device Selection
+10:50:12:  锁屏状态
+10:50:17:  µVision IDE
+10:50:27:  μVision
+10:50:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:51:42:  Watch 1
+10:51:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:51:57:  J-Link V6.10b Error
+10:52:02:  DRB-PRESS
+10:52:07:  Project
+10:52:12:  SEGGER J-Link V6.10b - Target device settings
+10:52:17:  锁屏状态
+10:52:22:  μVision
+10:52:27:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+10:52:37:  00-06
+10:52:42:  SECSplashWnd
+10:52:47:  μVision
+10:52:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:53:22:  Toolbox
+10:53:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:53:52:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:54:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:54:27:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:54:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:55:17:  RTT_SeggerLog_202007271055.log - DRB.tat* - TextAnalysisTool.NET
+10:55:22:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:55:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:56:32:  Toolbox
+10:56:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:57:32:  RTT_SeggerLog_202007271057.log - DRB.tat* - TextAnalysisTool.NET
+10:57:37:  Microsoft Excel
+10:57:42:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:57:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:58:27:  Toolbox
+10:58:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:58:38:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:58:43:  KE06LOG.bat - 快捷方式 (2)
+10:58:48:  RTT_SeggerLog_202007271057.log - DRB.tat* - TextAnalysisTool.NET
+10:58:58:  RTT_SeggerLog_202007271058.log - DRB.tat* - TextAnalysisTool.NET
+10:59:08:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:59:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:58:27:  Toolbox
+10:58:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:58:38:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:58:43:  KE06LOG.bat - 快捷方式 (2)
+10:58:48:  RTT_SeggerLog_202007271057.log - DRB.tat* - TextAnalysisTool.NET
+10:58:58:  RTT_SeggerLog_202007271058.log - DRB.tat* - TextAnalysisTool.NET
+10:59:08:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:59:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:00:23:  Toolbox
+11:00:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:00:43:  SEGGER J-Link V6.32h - Control panel
+11:00:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:01:03:  RTT_SeggerLog_202007271058.log - DRB.tat* - TextAnalysisTool.NET
+11:01:08:  RTT_SeggerLog_202007271100.log - DRB.tat* - TextAnalysisTool.NET
+11:01:13:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:01:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:02:38:  荆文波
+11:02:48:  eSpace
+11:02:53:  RTT_SeggerLog_202007271102.log - DRB.tat* - TextAnalysisTool.NET
+11:02:58:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:03:08:  荆文波
+11:03:13:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:03:28:  荆文波
+11:03:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:04:03:  荆文波
+11:04:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:04:43:  RTT_SeggerLog_202007271104.log - DRB.tat* - TextAnalysisTool.NET
+11:04:48:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:05:08:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:05:23:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:05:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:05:43:  荆文波
+11:06:03:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:06:13:  荆文波
+11:06:18:  RTT_SeggerLog_202007271104.log - DRB.tat* - TextAnalysisTool.NET
+11:06:23:  RTT_SeggerLog_202007271106.log - DRB.tat* - TextAnalysisTool.NET
+11:06:28:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:06:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:06:58:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+11:07:03:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:08:08:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:08:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:09:28:  RTT_SeggerLog_202007271109.log - DRB.tat* - TextAnalysisTool.NET
+11:09:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:09:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:09:48:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:09:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:10:33:  荆文波
+11:10:38:  KE06LOG.bat - 快捷方式 (2)
+11:10:53:  RTT_SeggerLog_202007271110.log - DRB.tat* - TextAnalysisTool.NET
+11:10:58:  Microsoft Excel
+11:11:03:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:11:13:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:13:33:  RTT_SeggerLog_202007271113.log - DRB.tat* - TextAnalysisTool.NET
+11:13:38:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:13:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:14:23:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:14:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:14:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:14:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:14:23:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:14:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:14:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:14:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:15:18:  RTT_SeggerLog_202007271115.log - DRB.tat* - TextAnalysisTool.NET
+11:15:33:  Microsoft Excel
+11:15:38:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:15:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:16:08:  RTT_SeggerLog_202007271115.log - DRB.tat* - TextAnalysisTool.NET
+11:16:23:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:16:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:16:53:  RTT_SeggerLog_202007271115.log - DRB.tat* - TextAnalysisTool.NET
+11:17:18:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:17:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:17:53:  RTT_SeggerLog_202007271115.log - DRB.tat* - TextAnalysisTool.NET
+11:18:08:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:18:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:18:43:  RTT_SeggerLog_202007271115.log - DRB.tat* - TextAnalysisTool.NET
+11:18:58:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:19:08:  文本分列向导 - 第 1 步，共 3 步
+11:19:13:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:19:18:  RTT_SeggerLog_202007271115.log - DRB.tat* - TextAnalysisTool.NET
+11:19:43:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:19:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:20:13:  RTT_SeggerLog_202007271115.log - DRB.tat* - TextAnalysisTool.NET
+11:20:18:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:20:28:  RTT_SeggerLog_202007271115.log - DRB.tat* - TextAnalysisTool.NET
+11:20:43:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:20:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:21:08:  RTT_SeggerLog_202007271115.log - DRB.tat* - TextAnalysisTool.NET
+11:21:38:  文本分列向导 - 第 1 步，共 3 步
+11:21:43:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:22:03:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:22:28:  RTT_SeggerLog_202007271115.log - DRB.tat* - TextAnalysisTool.NET
+11:22:43:  Microsoft Excel
+11:22:48:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:24:28:  选择数据源
+11:24:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:24:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:25:03:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:25:13:  RTT_SeggerLog_202007271115.log - DRB.tat* - TextAnalysisTool.NET
+11:25:28:  Microsoft Excel
+11:25:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:25:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:26:08:  RTT_SeggerLog_202007271115.log - DRB.tat* - TextAnalysisTool.NET
+11:26:13:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:26:28:  RTT_SeggerLog_202007271115.log - DRB.tat* - TextAnalysisTool.NET
+11:26:38:  文本分列向导 - 第 1 步，共 3 步
+11:26:43:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:27:03:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:27:13:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:27:38:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:28:03:  RTT_SeggerLog_202007271115.log - DRB.tat* - TextAnalysisTool.NET
+11:28:08:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:29:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:28:08:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:29:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:30:08:  RTT_SeggerLog_202007271115.log - DRB.tat* - TextAnalysisTool.NET
+11:30:13:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:30:23:  Microsoft Excel
+11:30:28:  RTT_SeggerLog_202007271115.log - DRB.tat* - TextAnalysisTool.NET
+11:30:48:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:30:53:  主页 - Internet Explorer
+11:31:03:  新北洋OA信息化平台 - Internet Explorer
+11:31:48:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:31:53:  Microsoft Excel
+11:31:58:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:32:43:  选择数据源
+11:32:48:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:32:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:33:13:  跳转列表
+11:33:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:33:23:  本地磁盘 (D:)
+11:33:28:  fenxi
+11:33:33:  无标题 - 记事本
+11:33:38:  新建文本文档.txt - 记事本
+11:33:43:  本地磁盘 (D:)
+11:33:48:  1T1-Stop-Length
+11:33:53:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+11:34:03:  Project
+11:34:08:  锁屏状态
+11:34:28:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:35:38:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:35:43:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:36:53:  Project
+11:36:58:  trunk
+11:37:03:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+11:37:08:  CapDriver.c - TortoiseMerge
+11:37:23:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+11:37:28:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:37:33:  trunk
+11:37:38:  milestone.txt - 记事本
+11:39:03:  trunk
+11:39:08:  CapDriver.c - TortoiseMerge
+11:40:03:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:40:08:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+11:40:28:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:40:33:  D:\00-06\1T1-Stop-Length\trunk - 更新 - TortoiseSVN
+11:40:38:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+11:40:43:  milestone.txt.mine - TortoiseMerge
+11:40:48:  milestone.txt - 记事本
+11:40:53:  trunk
+11:41:08:  milestone.txt - 记事本
+11:41:23:  trunk
+11:41:28:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+11:41:33:  提交
+11:41:38:  trunk
+11:41:43:  1T1-Stop-Length
+11:41:48:  Tools
+11:41:53:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+11:42:38:  Tools
+11:42:43:  Project
+11:43:03:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:43:23:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+11:43:43:  Tools
+11:43:48:  新建文本文档.txt - 记事本
+11:43:53:  记事本
+11:43:58:  Tools
+11:44:03:  本地磁盘 (D:)
+11:44:08:  20200717-T94
+11:44:13:  Tools
+11:44:18:  20200717-T94
+11:44:23:  Tools
+11:44:33:  trunk
+11:44:38:  20200717-T94
+11:44:48:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+11:45:03:  20200717-T94
+11:44:08:  20200717-T94
+11:44:13:  Tools
+11:44:18:  20200717-T94
+11:44:23:  Tools
+11:44:33:  trunk
+11:44:38:  20200717-T94
+11:44:48:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+11:45:03:  20200717-T94
+11:45:09:  无标题 - 记事本
+11:45:14:  新建文件夹
+11:45:19:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+11:45:29:  20200717-T94
+11:45:44:  锁屏状态
+13:15:10:  20200717-T94
+13:15:25:  Microsoft Excel
+13:15:30:  BTCR-1100产品型号MAIN测试对象FV1.020.94版本内部测试报告_202007171.xls  [兼容模式] - Excel
+13:18:55:  Microsoft Excel
+13:19:00:  BTCR-1100产品型号MAIN测试对象FV1.020.94版本内部测试报告_202007171.xls  [兼容模式] - Excel
+13:19:20:  新建文件夹
+13:19:25:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+13:19:30:  Microsoft Excel
+13:19:35:  BTCR-1100产品型号MAIN测试对象FV1.020.94版本内部测试报告_202007171.xls  [兼容模式] - Excel
+13:20:05:  跳转列表
+13:20:10:  TCRControlCmdDLL
+13:20:15:  20200713
+13:20:25:  20200715
+13:20:30:  Decode
+13:20:40:  20200724
+13:20:45:  K64_0000_20200724114353
+13:20:50:  20200725
+13:20:55:  20200706
+13:21:05:  20200707
+13:21:10:  Decode
+13:21:15:  20200709
+13:21:25:  BTCR-1100产品型号MAIN测试对象FV1.020.94版本内部测试报告_202007171.xls  [兼容模式] - Excel
+13:22:30:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+13:22:40:  BTCR-1100产品型号MAIN测试对象FV1.020.94版本内部测试报告_202007171.xls  [兼容模式] - Excel
+13:23:15:  eSpace
+13:23:20:  于斌1
+13:23:30:  BTCR-1100产品型号MAIN测试对象FV1.020.94版本内部测试报告_202007171.xls  [兼容模式] - Excel
+13:24:15:  Microsoft Excel
+13:24:20:  新建文件夹
+13:24:55:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:25:00:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+13:25:10:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+13:25:15:  新建文件夹
+13:25:20:  20200717-T94
+13:25:25:  BTCR-1100-EEPROM更改记录_V100.xls  [兼容模式] - Excel
+13:25:30:  20200717-T94
+13:25:40:  新建文件夹
+13:25:55:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T85 - 写邮件
+13:32:35:  桌面整理
+13:32:45:  未命名 - 写邮件
+13:32:55:  TCR调测工具 V3.36
+13:33:40:  取款
+13:33:45:  TCR调测工具 V3.36
+13:33:50:  取款
+13:33:55:  TCR调测工具 V3.36
+13:34:10:  本地磁盘 (D:)
+13:34:15:  log
+13:34:21:  20200727
+13:34:36:  Decode
+13:34:41:  K64_0000_20200727133352.log - DRB.tat* - TextAnalysisTool.NET
+13:36:51:  TCR调测工具 V3.36
+13:37:06:  K64_0000_20200727133352.log - DRB.tat* - TextAnalysisTool.NET
+13:37:11:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:37:16:  TCR调测工具 V3.36
+13:37:21:  锁屏状态
+13:37:26:  回复: 上海银行146#钞箱执行大额存款报传感器错误，关闭传感器异常 返回码843C02AD
+13:38:11:  取款
+13:38:16:  TCR调测工具 V3.36
+13:39:01:  Decode
+13:39:06:  20200727
+13:39:11:  K64_0000_20200727133813.log - DRB.tat* - TextAnalysisTool.NET
+13:40:46:  TCR调测工具 V3.36
+13:41:16:  取款
+13:41:21:  TCR调测工具 V3.36
+13:41:41:  本地磁盘 (D:)
+13:41:46:  20200727
+13:41:51:  K64_0000_20200727134118.log - DRB.tat* - TextAnalysisTool.NET
+13:42:31:  Microsoft Excel
+13:42:36:  BTCR-1100产品型号MAIN测试对象FV1.000.T85版本内部测试报告_20200727.xls  [兼容模式] - Excel
+13:43:01:  K64_0000_20200727134118.log - DRB.tat* - TextAnalysisTool.NET
+13:43:16:  Edit Filter
+13:43:21:  K64_0000_20200727134118.log - DRB.tat* - TextAnalysisTool.NET
+13:44:16:  BTCR-1100产品型号MAIN测试对象FV1.000.T85版本内部测试报告_20200727.xls  [兼容模式] - Excel
+13:44:36:  Microsoft Excel
+13:44:41:  K64_0000_20200727134118.log - DRB.tat* - TextAnalysisTool.NET
+13:44:46:  20200717-T94
+13:44:51:  192.168.28.47
+13:44:56:  样机配置履历表
+13:45:01:  固件版本
+13:44:16:  BTCR-1100产品型号MAIN测试对象FV1.000.T85版本内部测试报告_20200727.xls  [兼容模式] - Excel
+13:44:36:  Microsoft Excel
+13:44:41:  K64_0000_20200727134118.log - DRB.tat* - TextAnalysisTool.NET
+13:44:46:  20200717-T94
+13:44:51:  192.168.28.47
+13:44:56:  样机配置履历表
+13:45:01:  固件版本
+13:45:06:  K06
+13:45:11:  20200717-T94
+13:45:16:  D:\fenxi\20200717-T94\新建文件夹\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB.EEP (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:45:31:  D:\fenxi\20200717-T94\新建文件夹\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB.EEP • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:45:36:  计算器
+13:45:41:  D:\fenxi\20200717-T94\新建文件夹\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB.EEP • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:46:01:  D:\fenxi\20200717-T94\新建文件夹\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB.EEP (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:46:16:  untitled (trunk) - Sublime Text (UNREGISTERED)
+13:46:21:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:46:26:  D:\00-06\1T1-Stop-Length\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+13:46:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:47:26:  D:\fenxi\20200717-T94\新建文件夹\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB.EEP • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:47:31:  D:\fenxi\20200717-T94\新建文件夹\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB.EEP (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:47:41:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:47:46:  20200717-T94
+13:47:51:  K06
+13:47:56:  新建文件夹
+13:48:01:  D:\fenxi\20200717-T94\新建文件夹\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB.EEP (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:48:06:  D:\fenxi\20200717-T94\新建文件夹\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_RB.EEP (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:48:21:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:48:26:  D:\fenxi\20200717-T94\新建文件夹\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_RB.EEP (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:48:31:  42 CRS现金循环模块
+13:48:36:  06 固件日报
+13:48:41:  模块方案
+13:48:46:  指令接口部分
+13:48:51:  20200717-T94
+13:49:01:  新北洋OA信息化平台 - Internet Explorer
+13:49:31:  测试需求通知单II类提交 - Internet Explorer
+13:49:36:  http://oa.byintra.com/Web/Form/PLC/TestRequirements2/File/II类测试工作流操作说明.doc - Internet Explorer
+13:49:46:  正在下载
+13:49:51:  锁屏状态
+13:49:56:  Word
+13:50:01:  新建文件夹
+13:50:16:  Internet Explorer
+13:50:21:  Microsoft Word
+13:50:26:  II类测试工作流操作说明.doc [兼容模式] - Word
+13:50:46:  测试需求通知单II类提交 - Internet Explorer
+13:51:11:  新北洋OA信息化平台 - Internet Explorer
+13:51:16:  测试需求通知单II类提交 - Internet Explorer
+13:51:26:  [待审批][新北洋OA信息化流程中心]测试需求通知单II类提交-2466
+13:51:31:  新北洋OA信息化平台 - Internet Explorer
+13:51:51:  系统登录 - Internet Explorer
+13:51:56:  测试需求通知单II类提交 - Internet Explorer
+13:52:01:   -- 网页对话框
+13:54:06:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+13:54:11:   -- 网页对话框
+13:54:16:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+13:54:21:   -- 网页对话框
+13:54:36:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+13:55:11:   -- 网页对话框
+13:55:21:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+13:55:36:  eSpace
+13:55:46:  于斌1
+13:55:56:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+13:56:11:  于斌1
+13:56:21:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+13:56:26:  新建文件夹
+13:56:41:  「开始」菜单
+13:56:51:  新建文件夹
+13:56:56:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+13:57:06:  新建文件夹
+13:57:11:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+13:57:26:  20200717-T94
+13:57:31:  新建文件夹
+13:57:36:  DRB-PRESS
+13:57:41:  trunk
+13:57:46:  D:\00-06\1T1-Stop-Length\trunk - 版本库浏览器 - TortoiseSVN
+13:57:51:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+13:58:01:  trunk
+13:58:16:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+13:58:51:  未命名 - 写邮件
+13:59:06:  本地磁盘 (D:)
+13:59:11:  20200717-T94
+13:59:16:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T85 - 写邮件
+13:59:51:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T85 - 写邮件   13:59:47 已保存
+13:58:16:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+13:58:51:  未命名 - 写邮件
+13:59:06:  本地磁盘 (D:)
+13:59:11:  20200717-T94
+13:59:16:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T85 - 写邮件
+13:59:51:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T85 - 写邮件   13:59:47 已保存
+14:00:51:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T85 - 写邮件   14:00:48 已保存
+14:01:01:  新建文件夹
+14:01:06:  打开方式
+14:01:11:  D:\fenxi\20200717-T94\新建文件夹\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB.EEP (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:01:21:  D:\fenxi\20200717-T94\新建文件夹\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_RB.EEP (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:01:26:  D:\fenxi\20200717-T94\新建文件夹\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB.EEP (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:01:31:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T85 - 写邮件   14:00:48 已保存
+14:01:51:  新建文件夹
+14:01:56:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+14:02:01:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T85 - 写邮件   14:01:48 已保存
+14:02:51:  新建文件夹
+14:02:56:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T85 - 写邮件   14:02:48 已保存
+14:03:16:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:03:31:  于转龙
+14:03:36:   -- 网页对话框
+14:03:41:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:03:46:   -- 网页对话框
+14:04:11:  于转龙
+14:06:11:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:06:16:  II类测试工作流操作说明.doc [兼容模式] - Word
+14:06:31:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:06:36:  新建文件夹
+14:06:51:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:07:36:  新建文件夹
+14:07:51:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:08:56:  新建文件夹
+14:09:01:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:09:11:   -- 网页对话框
+14:09:41:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:10:56:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:11:01:  C:\Users\zhangkaifa\AppData\Roaming\Foxmail7\Temp-17072-20200727090816\Attach\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB.EEP (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:11:16:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:11:31:  TCR调测工具 V3.36
+14:11:36:  发送指令到K06
+14:11:41:  TCR调测工具 V3.36
+14:11:51:  打开
+14:12:11:  TCR调测工具 V3.36
+14:12:16:  发送指令到K06
+14:12:21:  TCR调测工具 V3.36
+14:12:26:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:13:51:  锁屏状态
+14:13:56:  BTCR-1100产品型号MAIN测试对象FV1.000.T85版本内部测试报告_20200727.xls  [兼容模式] - Excel
+14:14:21:  Microsoft Excel
+14:14:31:  BTCR-1100产品型号MAIN测试对象FV1.000.T85版本内部测试报告_20200727.xls  [兼容模式] - Excel
+14:14:46:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:14:21:  Microsoft Excel
+14:14:31:  BTCR-1100产品型号MAIN测试对象FV1.000.T85版本内部测试报告_20200727.xls  [兼容模式] - Excel
+14:14:46:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:15:26:  新建文件夹
+14:15:36:  eSpace
+14:15:46:  刘茂林
+14:15:51:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:16:26:  BTCR-1100产品型号MAIN测试对象FV1.000.T85版本内部测试报告_20200727.xls  [兼容模式] - Excel
+14:18:31:  Microsoft Excel
+14:18:36:  BTCR-1100产品型号MAIN测试对象FV1.000.T85版本内部测试报告_20200727.xls  [兼容模式] - Excel
+14:18:41:  丛柏屹
+14:18:46:  II类测试工作流操作说明.doc [兼容模式] - Word
+14:18:51:  丛柏屹
+14:22:36:  运行
+14:22:41:  192.168.28.47
+14:22:46:  固件版本
+14:22:51:  \\192.168.28.47\08tcr测试过程记录\样机配置履历表\固件版本\最新固件\K06\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_RB.EEP (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:23:06:  丛柏屹
+14:23:21:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:31:  丛柏屹
+14:23:36:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:01:  丛柏屹
+14:24:36:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:46:  丛柏屹
+14:25:36:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:25:41:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:25:51:  丛柏屹
+14:27:31:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:28:06:  锁屏状态
+14:28:11:  新标签页 - Google Chrome
+14:28:16:  新建文件夹
+14:28:26:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:28:51:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+14:29:01:  Microsoft Excel
+14:29:06:  BTCR-1100产品型号MAIN测试对象FV1.000.T85版本内部测试报告_20200727.xls  [兼容模式] - Excel
+14:29:11:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:29:16:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:28:06:  锁屏状态
+14:28:11:  新标签页 - Google Chrome
+14:28:16:  新建文件夹
+14:28:26:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:28:51:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+14:29:01:  Microsoft Excel
+14:29:06:  BTCR-1100产品型号MAIN测试对象FV1.000.T85版本内部测试报告_20200727.xls  [兼容模式] - Excel
+14:29:11:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:29:16:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:30:17:  新建文件夹
+14:30:22:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:30:57:  本地磁盘 (D:)
+14:31:02:  00-06
+14:31:07:  20200717-T94
+14:31:12:  新建文本文档.txt - 记事本
+14:31:17:  20200717-T94
+14:31:37:  新建文件夹.rar - WinRAR (非商业个人版)
+14:31:47:  20200717-T94
+14:32:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:32:52:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:34:02:  新建文本文档.txt - 记事本
+14:34:07:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:34:12:  无法显示此页 - Internet Explorer
+14:34:17:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:34:27:  新选项卡 - Internet Explorer
+14:34:32:   -- 网页对话框
+14:34:37:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:34:42:   -- 网页对话框
+14:34:57:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:35:02:  新建文件夹
+14:35:07:  锁屏状态
+14:35:12:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:35:22:  新建文件夹
+14:35:27:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:35:52:  新建文件夹
+14:35:57:  BTCR-1100产品型号MAIN测试对象FV1.000.T85版本内部测试报告_20200727.xls  [兼容模式] - Excel
+14:36:12:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:36:37:  新建文件夹
+14:36:42:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:36:52:  00-06
+14:36:57:  trunk
+14:37:02:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:37:07:  trunk
+14:37:12:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:37:22:  20200717-T94
+14:37:27:  新建文件夹
+14:37:32:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:37:52:  新北洋OA信息化平台 - Internet Explorer
+14:37:57:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+14:38:02:  新建文件夹
+14:38:32:  样机配置履历表
+14:38:37:  K06
+14:38:42:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:39:12:  Toolbox
+14:39:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:39:32:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:39:42:  20200717-T94
+14:39:47:  新建文件夹
+14:39:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:40:02:  BTCR-1100产品型号MAIN测试对象FV1.000.T85版本内部测试报告_20200727.xls  [兼容模式] - Excel
+14:40:07:  新建文件夹
+14:40:22:  丛柏屹
+14:41:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:41:22:  KE06LOG.bat - 快捷方式 (2)
+14:41:27:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:41:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:42:12:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+14:42:17:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:42:37:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:42:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:42:47:  eSpace
+14:43:12:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+14:43:22:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:43:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:43:52:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+14:44:02:  文本分列向导 - 第 1 步，共 3 步
+14:44:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:44:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:44:37:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+14:44:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:45:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:44:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:44:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:44:37:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+14:44:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:45:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:45:17:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+14:45:47:  Microsoft Excel
+14:45:52:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:47:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:47:52:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+14:48:02:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:48:22:  选择数据源
+14:48:32:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:48:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:49:12:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+14:49:32:  Microsoft Excel
+14:49:37:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:50:02:  查找和替换
+14:50:12:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:50:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:50:47:  06 固件日报
+14:50:57:  固件集成测试方案
+14:51:02:  正在打开 - 
+14:51:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:51:12:  Excel
+14:51:17:  锁屏状态
+14:51:22:  5.6 步进电机测试V1.1.xls  [受保护的视图] - Excel
+14:51:37:  5.6 步进电机测试V1.1.xls  [兼容模式] - Excel
+14:51:47:  钞箱1T2集成测试方案
+14:51:52:  5.6 步进电机测试V1.1.xls  [受保护的视图] - Excel
+14:52:02:  钞箱1T2集成测试方案
+14:52:07:  5.6 步进电机测试V1.1.xls  [兼容模式] - Excel
+14:52:12:  钞箱1T2集成测试方案
+14:52:17:  锁屏状态
+14:52:22:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:52:32:  正在打开 - Excel
+14:52:37:  5.6 步进电机测试V1.1.xls  [兼容模式] - Excel
+14:52:47:  正在打开 - Excel
+14:52:52:  5.12 直流电机功能测试 .xlsx - Excel
+14:53:22:  定位
+14:53:27:  5.12 直流电机功能测试 .xlsx - Excel
+14:53:52:  新建 Microsoft Excel 工作表2.xlsx - Excel
+14:54:27:  Microsoft Excel
+14:54:32:  5.12 直流电机功能测试 .xlsx - Excel
+14:54:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:55:32:  查找和替换
+14:55:37:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:56:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:56:17:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+14:58:32:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:58:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:59:37:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+14:59:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:58:32:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:58:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:59:37:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+14:59:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:00:12:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+15:00:17:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:00:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:00:27:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:00:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:00:52:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+15:01:27:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:01:47:  文本分列向导 - 第 2 步，共 3 步
+15:01:52:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:02:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:02:42:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+15:02:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:02:57:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+15:03:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:03:17:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+15:03:32:  Microsoft Excel
+15:03:37:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:03:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:04:42:  KE06LOG.bat - 快捷方式 (2)
+15:04:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:04:52:  RTT_SeggerLog_202007271441.log - DRB.tat* - TextAnalysisTool.NET
+15:05:02:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:05:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:05:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:05:32:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:05:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:06:07:  锁屏状态
+15:06:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:06:37:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:06:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:07:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:07:42:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:08:02:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:08:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:08:42:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:09:22:  Microsoft Excel
+15:09:27:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:09:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:10:02:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:10:17:  文本分列向导 - 第 1 步，共 3 步
+15:10:22:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:10:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:10:47:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:11:02:  文本分列向导 - 第 1 步，共 3 步
+15:11:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:11:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:11:27:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:12:02:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:12:07:  锁屏状态
+15:12:12:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:12:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:12:47:  eSpace
+15:12:52:  于斌1
+15:13:02:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:13:27:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:14:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:14:37:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:14:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:14:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:14:37:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:14:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:15:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:16:02:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:16:07:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:16:22:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:16:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:16:52:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:17:02:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:17:17:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:17:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:18:07:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:18:32:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:18:47:  选择数据源
+15:19:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:20:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:21:07:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:21:22:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:21:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:21:57:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:22:52:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:23:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:23:42:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:23:47:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:24:12:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:24:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:24:37:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:24:52:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:25:02:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:25:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:25:27:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:30:32:  Microsoft Excel
+15:30:37:  RTT_SeggerLog_202007271504.log - DRB.tat* - TextAnalysisTool.NET
+15:31:18:  锁屏状态
+15:31:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:31:38:  Toolbox
+15:31:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:32:08:  打开
+15:32:13:  Add Filter
+15:32:18:  RTT_SeggerLog_202007271531.log - [No filter file]* - TextAnalysisTool.NET
+15:32:38:  Add Filter
+15:32:43:  RTT_SeggerLog_202007271531.log - [No filter file]* - TextAnalysisTool.NET
+15:32:48:  Edit Filter
+15:32:53:  RTT_SeggerLog_202007271531.log - [No filter file]* - TextAnalysisTool.NET
+15:33:13:  Add Filter
+15:33:18:  RTT_SeggerLog_202007271531.log - [No filter file]* - TextAnalysisTool.NET
+15:33:28:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:33:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:34:08:  RTT_SeggerLog_202007271531.log - [No filter file]* - TextAnalysisTool.NET
+15:34:28:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:34:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:35:03:  RTT_SeggerLog_202007271531.log - [No filter file]* - TextAnalysisTool.NET
+15:35:23:  Edit Filter
+15:35:28:  RTT_SeggerLog_202007271531.log - [No filter file]* - TextAnalysisTool.NET
+15:35:38:  文本分列向导 - 第 1 步，共 3 步
+15:35:43:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:35:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:36:08:  RTT_SeggerLog_202007271531.log - [No filter file]* - TextAnalysisTool.NET
+15:36:18:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:36:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:36:48:  RTT_SeggerLog_202007271531.log - [No filter file]* - TextAnalysisTool.NET
+15:37:08:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:37:18:  选择数据源
+15:37:23:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:37:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:38:13:  RTT_SeggerLog_202007271531.log - [No filter file]* - TextAnalysisTool.NET
+15:38:28:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:38:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:38:48:  RTT_SeggerLog_202007271531.log - [No filter file]* - TextAnalysisTool.NET
+15:38:53:  KE06LOG.bat - 快捷方式 (2)
+15:38:58:  RTT_SeggerLog_202007271531.log - [No filter file]* - TextAnalysisTool.NET
+15:39:08:  锁屏状态
+15:39:13:  Microsoft Excel
+15:39:23:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:39:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:39:53:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:40:03:  锁屏状态
+15:40:08:  RTT_SeggerLog_202007271531.log - [No filter file]* - TextAnalysisTool.NET
+15:40:23:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:40:33:  锁屏状态
+15:40:38:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:42:08:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:43:48:  本地磁盘 (D:)
+15:44:03:  钞箱资料 - Everything
+15:44:08:  3.07 - Everything
+15:44:08:  3.07 - Everything
+15:45:38:  未命名 - 写邮件
+15:45:43:  BTCRTestTool?V3.07 - 写邮件
+15:46:03:  WinRAR
+15:46:18:  程序升级过程说明.docx
+15:46:28:  Foxmail
+15:46:38:  00-06
+15:46:53:  本地磁盘 (D:)
+15:47:18:  00-06
+15:47:23:  本地磁盘 (D:)
+15:47:28:  20200717-T94
+15:47:33:  新建文件夹
+15:47:43:  Re: BTCRTestTool?V3.07 - 写邮件
+15:47:53:  程序升级过程说明.docx
+15:48:13:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:48:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:49:08:  Toolbox
+15:49:13:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:52:08:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:52:33:  自动播放
+15:52:38:  新标签页 - Google Chrome
+15:52:43:  iTunes
+15:52:48:  百度一下，你就知道 - Google Chrome
+15:52:53:  PID 速度波动大_百度搜索 - Google Chrome
+15:53:03:  波动幅度太大，该如何调节PID参数_百度知道 - Google Chrome
+15:53:13:  PID输出波动太大，该如何调整？-技术论坛-工业支持中心-西门子中国 - Google Chrome
+15:53:53:  波动幅度太大，该如何调节PID参数_百度知道 - Google Chrome
+15:53:58:  无标题 - Google Chrome
+15:54:03:  温度波动大，PID该怎样调节，温度反应慢，PID该怎样调节？有快捷方式调PID参数没？_百度知道 - Google Chrome
+15:54:08:  PID 速度波动大_百度搜索 - Google Chrome
+15:54:23:  https://www.baidu.com/link?url=lE-gNrsU3dRHtvBSWf-AIlL4Z-qFWbdRqrEQFSay-Z8X5TDKws_unhmTxJ6I2VjwZF2U0Lo9Tl5gUB1ntGM81K&wd=&eqid=ac7d13a20008a75a000000025f1e87d2 - Google Chrome
+15:54:28:  PID算法终于弄明白原理了，原来就这么简单 - _小溢 - 博客园 - Google Chrome
+15:54:52:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:55:07:  D:\00-06\DRB-PRESS\Middlewares\BldcPid\BldcPid.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:56:02:  PID算法终于弄明白原理了，原来就这么简单 - _小溢 - 博客园 - Google Chrome
+15:57:02:  波动幅度太大，该如何调节PID参数_百度知道 - Google Chrome
+15:57:12:  PID算法终于弄明白原理了，原来就这么简单 - _小溢 - 博客园 - Google Chrome
+15:57:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:58:02:  PID算法终于弄明白原理了，原来就这么简单 - _小溢 - 博客园 - Google Chrome
+15:58:17:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+15:58:22:  Microsoft Excel
+15:58:27:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:58:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:58:42:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:58:47:  PID算法终于弄明白原理了，原来就这么简单 - _小溢 - 博客园 - Google Chrome
+15:58:57:  PID 速度波动大_百度搜索 - Google Chrome
+15:59:02:  PID 整定 速度波动大_百度搜索 - Google Chrome
+15:59:07:  PID 整定_百度搜索 - Google Chrome
+15:59:12:  PID参数整定快速入门（调节器参数整定方法） - Google Chrome
+15:59:47:  PID整定方法_芯创博客-CSDN博客_pid参数整定方法 - Google Chrome
+15:58:17:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+15:58:22:  Microsoft Excel
+15:58:27:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:58:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:58:42:  新建 Microsoft Excel 工作表.xlsx - Excel
+15:58:47:  PID算法终于弄明白原理了，原来就这么简单 - _小溢 - 博客园 - Google Chrome
+15:58:57:  PID 速度波动大_百度搜索 - Google Chrome
+15:59:02:  PID 整定 速度波动大_百度搜索 - Google Chrome
+15:59:07:  PID 整定_百度搜索 - Google Chrome
+15:59:12:  PID参数整定快速入门（调节器参数整定方法） - Google Chrome
+15:59:47:  PID整定方法_芯创博客-CSDN博客_pid参数整定方法 - Google Chrome
+16:01:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:01:47:  PID整定方法_芯创博客-CSDN博客_pid参数整定方法 - Google Chrome
+16:02:32:  D:\00-06\DRB-PRESS\Middlewares\BldcPid\BldcPid.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:03:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:03:22:  PID整定方法_芯创博客-CSDN博客_pid参数整定方法 - Google Chrome
+16:03:32:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:03:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:04:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:04:32:  https://www.baidu.com/link?url=FjthS-AVTMyELbsIq-q2cppjm_HnSMOsaEag25GbdgfN4kfhFT4wE63rV-ckO3iSkr9ZPjc8vYfEfmpXNGcql_&wd=&eqid=df5b55f1000a3cae000000025f1e8949 - Google Chrome
+16:04:37:  (78 封私信 / 80 条消息) 如何通俗地解释 PID 参数整定？ - 知乎 - Google Chrome
+16:05:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:05:32:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:06:02:  Microsoft Excel
+16:06:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:06:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:06:27:  (78 封私信 / 80 条消息) 如何通俗地解释 PID 参数整定？ - 知乎 - Google Chrome
+16:06:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:06:57:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:07:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:07:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:07:32:  PID 整定_百度搜索 - Google Chrome
+16:07:37:  PID整定方法_芯创博客-CSDN博客_pid参数整定方法 - Google Chrome
+16:07:52:  无标题 - Google Chrome
+16:07:57:  PID简述及常用参数整定方法 - Google Chrome
+16:08:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:08:57:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:09:12:  文本分列向导 - 第 1 步，共 3 步
+16:09:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:09:37:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:09:52:  文本分列向导 - 第 1 步，共 3 步
+16:09:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:10:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:10:27:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:10:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:10:57:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:11:02:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:11:17:  锁屏状态
+16:11:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:11:27:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:11:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:11:47:  PID简述及常用参数整定方法 - Google Chrome
+16:12:07:  pid整定方法_百度搜索 - Google Chrome
+16:12:17:  PID控制及整定算法 - steed灬 - 博客园 - Google Chrome
+16:12:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:13:02:  D:\00-06\DRB-PRESS\Middlewares\BldcPid\BldcPid.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:13:07:  Update Available
+16:13:12:  D:\00-06\DRB-PRESS\Middlewares\BldcPid\BldcPid.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:14:22:  D:\00-06\DRB-PRESS\Middlewares\BldcPid\BldcPidStruct.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:14:27:  D:\00-06\DRB-PRESS\Middlewares\BldcPid\BldcPid.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:15:02:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:14:22:  D:\00-06\DRB-PRESS\Middlewares\BldcPid\BldcPidStruct.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:14:27:  D:\00-06\DRB-PRESS\Middlewares\BldcPid\BldcPid.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:15:02:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:15:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:15:37:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:15:42:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:15:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:15:52:  PID控制及整定算法 - steed灬 - 博客园 - Google Chrome
+16:15:57:  pid整定方法_百度搜索 - Google Chrome
+16:16:12:  pid 只保留比例_百度搜索 - Google Chrome
+16:16:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:16:47:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:16:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:17:12:  选择数据源
+16:17:17:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:17:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:17:42:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:17:52:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:18:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:18:22:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:18:32:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:19:07:  pid 只保留比例_百度搜索 - Google Chrome
+16:19:17:  PID 整定 速度波动大_百度搜索 - Google Chrome
+16:19:22:  PID控制车速和自整定总结_tingfenghanlei的博客-CSDN博客_pid调速 - Google Chrome
+16:19:32:  PID 整定 速度波动大_百度搜索 - Google Chrome
+16:19:37:  PID整定方法_芯创博客-CSDN博客_pid参数整定方法 - Google Chrome
+16:19:47:  PID 整定 速度波动大_百度搜索 - Google Chrome
+16:19:52:  PID 速度波动大_百度搜索 - Google Chrome
+16:19:57:  PID算法终于弄明白原理了，原来就这么简单 - _小溢 - 博客园 - Google Chrome
+16:20:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:20:32:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:20:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:20:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:20:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:21:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:22:02:  PID算法终于弄明白原理了，原来就这么简单 - _小溢 - 博客园 - Google Chrome
+16:23:17:  D:\00-06\DRB-PRESS\Middlewares\BldcPid\BldcPid.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:23:32:  PID算法终于弄明白原理了，原来就这么简单 - _小溢 - 博客园 - Google Chrome
+16:24:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:24:42:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:24:57:  Microsoft Excel
+16:25:02:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:25:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:25:27:  新标签页 - Google Chrome
+16:25:32:  192.168.28.228 - Google Chrome
+16:25:42:  班车管理系统 - Google Chrome
+16:25:52:  班车管理系统 [新北洋集团] - Google Chrome
+16:25:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:41:57:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:42:12:  D:\00-06\DRB-PRESS\Middlewares\BldcPid\BldcPid.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:42:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:43:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:44:02:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:44:17:  Microsoft Excel
+16:44:22:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:44:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:44:37:  于斌1
+16:44:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:44:17:  Microsoft Excel
+16:44:22:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:44:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:44:37:  于斌1
+16:44:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:45:17:  PID整定方法_芯创博客-CSDN博客_pid参数整定方法 - Google Chrome
+16:45:22:  (78 封私信 / 80 条消息) 如何通俗地解释 PID 参数整定？ - 知乎 - Google Chrome
+16:45:27:  PID算法终于弄明白原理了，原来就这么简单 - _小溢 - 博客园 - Google Chrome
+16:46:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:46:32:  于斌1
+16:46:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:46:57:  于斌1
+16:47:07:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:47:27:  Microsoft Excel
+16:47:32:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:47:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:48:07:  于斌1
+16:48:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:48:32:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:48:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:48:52:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:49:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:49:22:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:49:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:49:52:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:50:17:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:50:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:54:27:  Toolbox
+16:54:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:55:42:  RTT_SeggerLog_202007271557.log - [No filter file]* - TextAnalysisTool.NET
+16:56:12:  KE06LOG.bat - 快捷方式 (2)
+16:56:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:56:27:  RTT_SeggerLog_202007271656.log - [No filter file] - TextAnalysisTool.NET
+16:56:32:  Add Filter
+16:56:37:  RTT_SeggerLog_202007271656.log - [No filter file]* - TextAnalysisTool.NET
+16:56:42:  Add Filter
+16:56:47:  RTT_SeggerLog_202007271656.log - [No filter file]* - TextAnalysisTool.NET
+16:56:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:57:22:  RTT_SeggerLog_202007271656.log - [No filter file]* - TextAnalysisTool.NET
+16:57:37:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:57:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:57:57:  PID整定方法_芯创博客-CSDN博客_pid参数整定方法 - Google Chrome
+16:58:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:58:22:  锁屏状态
+16:58:27:  RTT_SeggerLog_202007271656.log - [No filter file]* - TextAnalysisTool.NET
+16:58:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:59:02:  Microsoft Excel
+16:59:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:59:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:59:22:  RTT_SeggerLog_202007271656.log - [No filter file]* - TextAnalysisTool.NET
+16:59:47:  文本分列向导 - 第 1 步，共 3 步
+16:59:52:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:59:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:58:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:58:22:  锁屏状态
+16:58:27:  RTT_SeggerLog_202007271656.log - [No filter file]* - TextAnalysisTool.NET
+16:58:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:59:02:  Microsoft Excel
+16:59:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:59:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:59:22:  RTT_SeggerLog_202007271656.log - [No filter file]* - TextAnalysisTool.NET
+16:59:47:  文本分列向导 - 第 1 步，共 3 步
+16:59:52:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:59:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:00:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:00:22:  RTT_SeggerLog_202007271656.log - [No filter file]* - TextAnalysisTool.NET
+17:00:32:  文本分列向导 - 第 1 步，共 3 步
+17:00:37:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:00:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:00:52:  RTT_SeggerLog_202007271656.log - [No filter file]* - TextAnalysisTool.NET
+17:01:17:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:01:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:01:57:  PID整定方法_芯创博客-CSDN博客_pid参数整定方法 - Google Chrome
+17:02:12:  RTT_SeggerLog_202007271656.log - [No filter file]* - TextAnalysisTool.NET
+17:02:27:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:02:37:  PID整定方法_芯创博客-CSDN博客_pid参数整定方法 - Google Chrome
+17:02:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:02:57:  PID整定方法_芯创博客-CSDN博客_pid参数整定方法 - Google Chrome
+17:03:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:03:27:  PID整定方法_芯创博客-CSDN博客_pid参数整定方法 - Google Chrome
+17:03:32:  RTT_SeggerLog_202007271656.log - [No filter file]* - TextAnalysisTool.NET
+17:03:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:03:52:  RTT_SeggerLog_202007271656.log - [No filter file]* - TextAnalysisTool.NET
+17:04:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:04:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:04:27:  PID整定方法_芯创博客-CSDN博客_pid参数整定方法 - Google Chrome
+17:04:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:05:02:  RTT_SeggerLog_202007271656.log - [No filter file]* - TextAnalysisTool.NET
+17:05:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:05:27:  锁屏状态
+17:35:58:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:36:03:  威海商行钞箱固件升级
+17:36:13:  回复: 威海商行钞箱固件升级 - 写邮件
+17:36:43:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:36:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:37:13:  iTunes
+17:37:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:38:08:  RTT_SeggerLog_202007271656.log - [No filter file]* - TextAnalysisTool.NET
+17:38:23:  RTT_SeggerLog_202007271737.log - [No filter file]* - TextAnalysisTool.NET
+17:38:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:39:13:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:39:38:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:39:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:40:33:  RTT_SeggerLog_202007271737.log - [No filter file]* - TextAnalysisTool.NET
+17:41:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:41:28:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:41:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:42:23:  RTT_SeggerLog_202007271737.log - [No filter file]* - TextAnalysisTool.NET
+17:42:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:43:03:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:43:48:  RTT_SeggerLog_202007271737.log - [No filter file]* - TextAnalysisTool.NET
+17:43:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:43:58:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:44:08:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:44:08:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:45:23:  另存为
+17:45:28:  RTT_SeggerLog_202007271737.log - [No filter file]* - TextAnalysisTool.NET
+17:45:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:45:58:  RTT_SeggerLog_202007271737.log - [No filter file]* - TextAnalysisTool.NET
+17:46:18:  RTT_SeggerLog_202007271745.log - [No filter file]* - TextAnalysisTool.NET
+17:46:23:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:47:38:  文本分列向导 - 第 1 步，共 3 步
+17:47:43:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:48:28:  文本分列向导 - 第 1 步，共 3 步
+17:48:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:48:48:  查找和替换
+17:48:53:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:48:58:  查找和替换
+17:49:08:  RTT_SeggerLog_202007271745.log - [No filter file]* - TextAnalysisTool.NET
+17:49:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:49:33:  RTT_SeggerLog_202007271745.log - [No filter file]* - TextAnalysisTool.NET
+17:50:03:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:50:08:  文本分列向导 - 第 1 步，共 3 步
+17:50:13:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:50:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:51:33:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+17:51:43:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:52:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:52:43:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+17:52:58:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:53:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:53:43:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+17:53:53:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:54:03:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:54:28:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+17:54:43:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:55:13:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:55:28:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+17:55:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:55:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:56:03:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+17:56:13:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:56:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:56:48:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+17:56:53:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:57:13:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:57:28:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+17:57:38:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:57:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:58:18:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+17:58:28:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:58:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:58:58:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+17:59:08:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:59:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:59:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:58:18:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+17:58:28:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:58:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:58:58:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+17:59:08:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:59:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:59:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:00:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:00:38:  D:\00-06\DRB-PRESS\Middlewares\BldcPid\BldcPid.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+18:01:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:02:08:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+18:02:18:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:02:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:03:08:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+18:03:18:  Microsoft Excel
+18:03:23:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:03:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:04:03:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:04:08:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+18:04:13:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:04:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:04:38:  桌面整理
+18:04:48:  新建Microsoft Excel 工作表 (3).xlsx - Excel
+18:05:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:05:33:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+18:05:43:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:05:58:  新建Microsoft Excel 工作表 (3).xlsx - Excel
+18:06:13:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:06:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:06:48:  新建Microsoft Excel 工作表 (3).xlsx - Excel
+18:06:58:  锁屏状态
+18:07:03:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:07:13:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+18:07:23:  文本分列向导 - 第 1 步，共 3 步
+18:07:33:  新建Microsoft Excel 工作表 (3).xlsx - Excel
+18:07:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:07:58:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+18:08:08:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:08:23:  新建Microsoft Excel 工作表 (3).xlsx - Excel
+18:08:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:08:43:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+18:08:53:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:09:03:  新建Microsoft Excel 工作表 (3).xlsx - Excel
+18:09:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:09:33:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+18:09:43:  Microsoft Excel
+18:09:48:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:09:53:  新建Microsoft Excel 工作表 (3).xlsx - Excel
+18:10:38:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:10:53:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+18:11:03:  文本分列向导 - 第 1 步，共 3 步
+18:11:08:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:11:13:  新建Microsoft Excel 工作表 (3).xlsx - Excel
+18:11:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:12:08:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+18:12:18:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:12:33:  新建Microsoft Excel 工作表 (3).xlsx - Excel
+18:12:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:12:53:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+18:13:03:  Microsoft Excel
+18:13:08:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:14:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:14:28:  新建Microsoft Excel 工作表 (3).xlsx - Excel
+18:14:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:14:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:14:28:  新建Microsoft Excel 工作表 (3).xlsx - Excel
+18:14:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:15:08:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+18:15:18:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:15:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:15:53:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+18:16:03:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:16:13:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:17:23:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+18:17:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:17:48:  Toolbox
+18:17:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:18:18:  RTT_SeggerLog_202007271751.log - [No filter file]* - TextAnalysisTool.NET
+18:18:28:  RTT_SeggerLog_202007271818.log - [No filter file]* - TextAnalysisTool.NET
+18:18:33:  Microsoft Excel
+18:18:38:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:19:08:  查找和替换
+18:19:18:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:19:53:  选择数据源
+18:19:58:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:20:18:  文本分列向导 - 第 1 步，共 3 步
+18:20:23:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:20:33:  查找和替换
+18:20:38:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:21:08:  选择数据源
+18:21:13:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:22:08:  选择数据源
+18:22:18:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:22:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:22:43:  SEGGER J-Link V6.10b - Control panel
+18:22:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:23:43:  KE06LOG.bat - 快捷方式 (2)
+18:23:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:23:53:  RTT_SeggerLog_202007271818.log - [No filter file]* - TextAnalysisTool.NET
+18:24:03:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:24:08:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:24:18:  文本分列向导 - 第 1 步，共 3 步
+18:24:23:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:24:43:  锁屏状态
+18:24:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:25:48:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:25:53:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:25:58:  Microsoft Excel
+18:26:03:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:26:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:26:38:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:26:43:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:26:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:27:13:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:27:18:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:27:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:27:48:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:27:58:  文本分列向导 - 第 1 步，共 3 步
+18:28:03:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:28:23:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:28:28:  Add Filter
+18:28:38:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:28:48:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:29:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:28:23:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:28:28:  Add Filter
+18:28:38:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:28:48:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:29:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:30:18:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:30:43:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:31:18:  Microsoft Excel
+18:31:23:  文本分列向导 - 第 1 步，共 3 步
+18:31:28:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:31:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:31:53:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:32:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:32:28:  Microsoft Excel
+18:32:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:32:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:32:58:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:33:08:  文本分列向导 - 第 1 步，共 3 步
+18:33:13:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:33:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:33:33:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:33:43:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:34:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:34:54:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:34:59:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:35:09:  文本分列向导 - 第 1 步，共 3 步
+18:35:14:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:35:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:36:29:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:36:34:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:36:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:37:09:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:37:14:  Microsoft Excel
+18:37:24:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:37:29:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:37:39:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:37:44:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:37:54:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:37:59:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:38:19:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:38:34:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:38:44:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:38:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:39:14:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:39:24:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:39:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:39:54:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:40:04:  Microsoft Excel
+18:40:09:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:40:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:40:29:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:40:34:  新建Microsoft Excel 工作表 (3).xlsx - Excel
+18:40:59:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:41:04:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:41:19:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:41:29:  Microsoft Excel
+18:41:34:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:41:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:41:44:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:41:54:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:42:09:  新建Microsoft Excel 工作表 (3).xlsx - Excel
+18:42:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:42:29:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:42:44:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:42:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:43:04:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:43:09:  文本分列向导 - 第 1 步，共 3 步
+18:43:14:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:43:24:  新建Microsoft Excel 工作表 (3).xlsx - Excel
+18:43:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:43:49:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007270837.log
+18:43:54:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:43:59:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:44:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:44:14:  新建Microsoft Excel 工作表 (3).xlsx - Excel
+18:44:19:  锁屏状态
+18:44:24:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:44:29:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:44:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:44:54:  锁屏状态
+18:44:59:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:44:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:44:14:  新建Microsoft Excel 工作表 (3).xlsx - Excel
+18:44:19:  锁屏状态
+18:44:24:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:44:29:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:44:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:44:54:  锁屏状态
+18:44:59:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:45:09:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:45:19:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:45:24:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:45:34:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:45:39:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:45:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:45:59:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:46:09:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:46:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:46:39:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:46:49:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:47:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:47:54:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:48:14:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:48:34:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:48:54:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:48:59:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:49:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:49:29:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:49:39:  Microsoft Excel
+18:49:44:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:50:04:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:50:29:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:50:34:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:50:39:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:50:49:  文本分列向导 - 第 1 步，共 3 步
+18:50:54:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:51:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:51:34:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:51:39:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:52:19:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:52:34:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:52:44:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:53:19:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:53:39:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:53:44:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:53:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:54:14:  锁屏状态
+18:54:19:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:54:24:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:54:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:54:59:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:55:09:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:55:29:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:55:44:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:55:49:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:55:54:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:56:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:56:54:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:57:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:57:14:  RTT_SeggerLog_202007271823.log - [No filter file]* - TextAnalysisTool.NET
+18:57:19:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:57:44:  KE06LOG.bat - 快捷方式 (2)
+18:57:59:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+18:58:09:  Microsoft Excel
+18:58:14:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:58:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:58:44:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+18:58:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:59:04:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:59:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:59:39:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+18:59:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:00:04:  Microsoft Excel
+18:58:09:  Microsoft Excel
+18:58:14:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:58:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:58:44:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+18:58:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:59:04:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:59:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:59:39:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+18:59:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:00:04:  Microsoft Excel
+19:00:09:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:00:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:00:34:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:00:44:  文本分列向导 - 第 1 步，共 3 步
+19:00:49:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:00:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:01:19:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:01:24:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:02:39:  D:\00-06\DRB-PRESS\Middlewares\BldcPid\BldcPid.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+19:04:04:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:04:49:  锁屏状态
+19:04:54:  D:\00-06\DRB-PRESS\Middlewares\BldcPid\BldcPid.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+19:05:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:06:19:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:06:24:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:06:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:06:59:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:07:19:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:07:49:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:08:04:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:08:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:09:14:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:09:24:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:09:34:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:09:49:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:09:59:  Microsoft Excel
+19:10:04:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:10:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:10:29:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:10:39:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:12:04:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:12:09:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:12:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:12:24:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:12:34:  Microsoft Excel
+19:12:39:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:12:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:13:04:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:13:09:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:14:39:  查找和替换
+19:14:54:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:14:39:  查找和替换
+19:14:54:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:15:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:15:34:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:15:44:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:16:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:17:09:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:17:14:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:18:19:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:18:39:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:18:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:18:59:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:19:04:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:19:09:  Microsoft Excel
+19:19:14:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:19:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:19:44:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:19:54:  文本分列向导 - 第 1 步，共 3 步
+19:19:59:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:20:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:20:34:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:20:39:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:20:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:21:14:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:21:19:  文本分列向导 - 第 1 步，共 3 步
+19:21:24:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:21:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:21:54:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:22:19:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:22:34:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:22:44:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:23:04:  锁屏状态
+19:23:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:23:29:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:23:34:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:23:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:24:09:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:24:34:  Microsoft Excel
+19:24:39:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:24:49:  RTT_SeggerLog_202007271857.log - [No filter file]* - TextAnalysisTool.NET
+19:25:09:  新建 Microsoft Excel 工作表.xlsx - Excel
+19:25:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+19:26:09:  新建 Microsoft Excel 工作表.xlsx - Excel

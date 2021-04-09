@@ -1,0 +1,1169 @@
+08:00:34:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+08:00:49:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:00:59:  收取邮件 - 张开发
+08:01:04:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:01:59:  eSpace
+08:02:09:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:13:19:  密码锁
+08:13:24:  0-工作 - 张开发 - 印象笔记
+08:13:39:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:18:24:  TCR调测工具（研发版）V1.0.0.4
+08:18:29:  通道电机测试
+08:20:49:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:21:24:  通道电机测试
+08:21:49:  TCR调测工具（研发版）V1.0.0.4
+08:22:24:  20200921
+08:22:29:  20200922
+08:22:39:  TCR调测工具（研发版）V1.0.0.4
+08:22:49:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+08:23:04:  Tools
+08:23:09:  E:\深圳出差\CRS-64-1\Tools\CreateJK.exe
+08:23:14:  打开
+08:23:19:  TCR调测工具（研发版）V1.0.0.4
+08:24:09:  Tools
+08:24:14:  删除多个项目
+08:24:19:  TCR调测工具（研发版）V1.0.0.4
+08:26:24:  20200922
+08:26:29:  Decode
+08:26:34:  K64_0000_20200922082535.log - DRB.tat* - TextAnalysisTool.NET
+08:27:04:  TCR调测工具（研发版）V1.0.0.4
+08:27:09:  盘点
+08:27:19:  20200922
+08:27:24:  钞箱配置
+08:27:34:  TCR调测工具（研发版）V1.0.0.4
+08:27:44:  钞箱配置
+08:27:54:  TCR调测工具（研发版）V1.0.0.4
+08:27:59:  盘点
+08:28:04:  取款
+08:28:09:  TCR调测工具（研发版）V1.0.0.4
+08:28:24:  20200922
+08:28:29:  Decode
+08:29:29:  K64_0000_20200922082809.log - DRB.tat* - TextAnalysisTool.NET
+08:28:09:  TCR调测工具（研发版）V1.0.0.4
+08:28:24:  20200922
+08:28:29:  Decode
+08:29:29:  K64_0000_20200922082809.log - DRB.tat* - TextAnalysisTool.NET
+08:30:19:  Add Filter
+08:30:34:  K64_0000_20200922082809.log - DRB.tat* - TextAnalysisTool.NET
+08:31:29:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+08:34:14:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:35:09:  K64_0000_20200922082809.log - DRB.tat* - TextAnalysisTool.NET
+08:35:24:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:37:20:  K64_0000_20200922082809.log - DRB.tat* - TextAnalysisTool.NET
+08:37:30:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:38:00:  K64_0000_20200922082809.log - DRB.tat* - TextAnalysisTool.NET
+08:38:15:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:38:20:  K64_0000_20200922082809.log - DRB.tat* - TextAnalysisTool.NET
+08:39:20:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:39:40:  00-KE64
+08:39:45:  新建文件夹
+08:39:50:  FlowControl
+08:40:00:  CRS-64-1
+08:40:05:  FlowControl
+08:40:10:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:40:15:  PressModuleIF.c - CRS-64-1 - Visual Studio Code [管理员]
+08:40:20:  PressModuleIF.h - CRS-64-1 - Visual Studio Code [管理员]
+08:40:25:  PressModuleIF.c - CRS-64-1 - Visual Studio Code [管理员]
+08:40:40:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+08:40:55:  PressModuleIF.c - trunk - Visual Studio Code [管理员]
+08:41:40:  Visual Studio Code
+08:41:45:  D:\00-KE64\CRS-64\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64) - Sublime Text (UNREGISTERED)
+08:41:55:  CheckTheBookTital.py - DRB-- - Visual Studio Code
+08:42:00:  CheckTheBookTital.py - DRB-- - Visual Studio Code [管理员]
+08:42:15:  PressurePlateCtrl.c - DRB-- - Visual Studio Code [管理员]
+08:42:20:  PressurePlate.c - DRB-- - Visual Studio Code [管理员]
+08:43:05:  D:\00-KE64\CRS-64\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64) - Sublime Text (UNREGISTERED)
+08:43:10:  PressModuleIF.c - CRS-64-1 - Visual Studio Code [管理员]
+08:43:20:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:43:25:  PressModuleIF.c - CRS-64-1 - Visual Studio Code [管理员]
+08:44:00:  PressModuleIF.c - trunk - Visual Studio Code
+08:44:05:  桌面整理
+08:44:10:  欢迎使用 - Visual Studio Code [管理员]
+08:44:15:  Visual Studio Code
+08:44:20:  CashBoxCmd.h - trunk - Visual Studio Code [管理员]
+08:44:25:  PressModuleIF.c - trunk - Visual Studio Code [管理员]
+08:44:30:  CashBoxCmd.c - trunk - Visual Studio Code [管理员]
+08:44:50:  PressModuleIF.c - CRS-64-1 - Visual Studio Code [管理员]
+08:44:55:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:44:05:  桌面整理
+08:44:10:  欢迎使用 - Visual Studio Code [管理员]
+08:44:15:  Visual Studio Code
+08:44:20:  CashBoxCmd.h - trunk - Visual Studio Code [管理员]
+08:44:25:  PressModuleIF.c - trunk - Visual Studio Code [管理员]
+08:44:30:  CashBoxCmd.c - trunk - Visual Studio Code [管理员]
+08:44:50:  PressModuleIF.c - CRS-64-1 - Visual Studio Code [管理员]
+08:44:55:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:45:10:  ComponentCtrl.h - CRS-64-1 - Visual Studio Code [管理员]
+08:45:20:  ComponentStatus.h - CRS-64-1 - Visual Studio Code [管理员]
+08:45:45:  ComponentCtrl.h - CRS-64-1 - Visual Studio Code [管理员]
+08:45:50:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:45:55:  CashBoxPlateCtrl.c - CRS-64-1 - Visual Studio Code [管理员]
+08:46:15:  ComponentCtrl.h - CRS-64-1 - Visual Studio Code [管理员]
+08:47:50:  K64_0000_20200922082809.log - DRB.tat* - TextAnalysisTool.NET
+08:47:55:  D:\00-KE64\CRS-64\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64) - Sublime Text (UNREGISTERED)
+08:48:00:  选择文件夹
+08:48:10:  untitled (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:48:15:  选择文件夹
+08:48:20:  untitled (trunk) - Sublime Text (UNREGISTERED)
+08:48:25:  untitled (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:48:30:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:48:35:  Sublime Text
+08:48:40:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:48:50:  untitled (trunk) - Sublime Text (UNREGISTERED)
+08:48:55:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+08:49:00:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.h (trunk) - Sublime Text (UNREGISTERED)
+08:49:10:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+08:49:15:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:49:25:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:49:40:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:49:50:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:50:30:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:50:55:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:51:00:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:52:00:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:52:05:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:52:15:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:52:35:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.h (trunk) - Sublime Text (UNREGISTERED)
+08:52:50:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:53:15:  E:\深圳出差\CRS-64-1\Applications\ErrorHandle\ErrCode.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:53:20:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:53:40:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:53:55:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:54:00:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:54:05:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:54:10:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:54:35:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:54:40:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:54:50:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:55:30:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:55:35:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:55:40:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:56:10:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:57:10:  本地磁盘 (D:)
+08:57:15:  trunk
+08:57:20:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+08:57:45:  PlateCtrl.c Revision 3222 - TortoiseMerge
+08:58:10:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+08:58:35:  PlateCtrl.c Revision 3222 - TortoiseMerge
+08:59:00:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+08:59:05:  trunk
+08:59:10:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:59:40:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:58:10:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+08:58:35:  PlateCtrl.c Revision 3222 - TortoiseMerge
+08:59:00:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+08:59:05:  trunk
+08:59:10:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+08:59:40:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:00:15:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:00:30:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:00:35:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:00:50:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+09:00:55:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:01:05:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:01:10:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:01:15:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.h (trunk) - Sublime Text (UNREGISTERED)
+09:01:20:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:01:25:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:01:35:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:01:45:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:01:50:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:02:05:  E:\深圳出差\CRS-64-1\Applications\CanComm\CanComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:02:10:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:03:00:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:03:05:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+09:03:10:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:03:25:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:04:00:  固件设计中心
+09:04:05:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:15:15:  自动播放
+09:15:25:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:19:35:  转发: DRB针对无法适应带有透明视窗的塑料外币的问题的方案讨论
+09:19:55:  Windows Installer
+09:20:00:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+09:20:05:  DRB通道传感器布局.pptx [只读] - PowerPoint
+09:25:50:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:27:00:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:27:10:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:27:20:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:27:46:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:27:51:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:28:26:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:28:36:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:29:11:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:29:16:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:29:26:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:29:41:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:29:46:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:28:26:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:28:36:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:29:11:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:29:16:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:29:26:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:29:41:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:29:46:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:31:41:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:35:06:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:35:16:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+09:35:21:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:35:26:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+09:36:21:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\TrackMotor\MotorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+09:36:26:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+09:36:36:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+09:36:41:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:36:46:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:38:16:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:38:46:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:38:51:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:39:11:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+09:39:16:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:39:21:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:39:26:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:39:41:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:39:46:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:39:51:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:39:56:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+09:40:01:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:40:06:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:40:21:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:40:31:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:40:36:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:40:46:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+09:41:06:  锁屏状态
+09:41:11:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:41:21:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+09:41:26:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:41:31:  锁屏状态
+09:41:36:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:42:01:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:42:06:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:42:16:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+09:42:21:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:42:26:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:42:31:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:42:36:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+09:42:51:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:42:56:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:43:06:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:43:11:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:43:21:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:43:36:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:43:41:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:43:56:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:44:31:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:44:41:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:44:46:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+09:44:56:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:45:01:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:44:31:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:44:41:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:44:46:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+09:44:56:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:45:01:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:45:06:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:45:16:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.c (trunk) - Sublime Text (UNREGISTERED)
+09:45:21:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:45:51:  E:\深圳出差\CRS-64-1\Applications\CanComm\CanComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:45:56:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:46:16:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:46:21:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:46:41:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:46:46:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:46:51:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:47:11:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:47:16:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:47:26:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:47:41:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:49:11:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:49:31:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:49:46:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:49:51:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:50:16:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:50:56:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:52:31:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:52:46:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:54:06:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:54:11:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:55:06:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:55:11:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:55:21:  E:\深圳出差\CRS-64-1\Applications\Common\AppCommon.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:55:26:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:57:16:  E:\深圳出差\CRS-64-1\Applications\Common\AppCommon.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:57:36:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:58:21:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:58:26:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:59:26:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:59:31:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:58:21:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:58:26:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:59:26:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:59:31:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:00:31:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:02:06:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:02:11:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:02:26:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:02:31:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:02:46:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:02:51:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:03:11:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:03:26:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:03:31:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:03:36:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:03:51:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:03:56:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:04:01:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:04:06:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:04:11:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:04:16:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:04:26:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:04:41:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:04:56:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:05:01:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:05:16:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:05:26:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:05:31:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:05:36:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:05:46:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:05:51:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:05:56:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:06:11:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:06:21:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:06:26:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:06:31:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:06:46:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:06:56:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:07:06:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:07:11:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:07:16:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:07:26:  E:\深圳出差\CRS-64-1\Applications\Common\AppCommon.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:07:36:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:07:46:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:07:51:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:07:56:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:08:01:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:09:31:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:09:41:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\SlaveBoardComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:09:56:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:10:01:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\SlaveBoardComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:10:16:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:10:26:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:10:31:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:11:21:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.c (trunk) - Sublime Text (UNREGISTERED)
+10:22:26:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:22:31:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:23:01:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:23:06:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:23:31:  E:\深圳出差\CRS-64-1\Applications\CanComm\CanComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:23:46:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:23:56:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:24:06:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:24:11:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:24:31:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+10:24:36:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.c (trunk) - Sublime Text (UNREGISTERED)
+10:25:06:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:25:21:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:26:21:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:26:26:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:26:51:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.c (trunk) - Sublime Text (UNREGISTERED)
+10:27:41:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:28:06:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:28:16:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:28:21:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:28:36:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:28:51:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:28:56:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:29:06:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:29:11:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:29:31:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:29:36:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:29:41:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:28:06:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:28:16:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:28:21:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:28:36:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:28:51:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:28:56:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:29:06:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:29:11:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:29:31:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:29:36:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:29:41:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:30:21:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:30:31:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:30:36:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:30:41:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:31:06:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:31:11:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:31:16:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:31:21:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:31:36:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:31:41:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:32:01:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:32:51:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:33:06:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:33:11:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\SlaveBoardComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:33:26:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:33:51:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:33:56:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:34:01:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackMotor\TrackMotor.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:34:12:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:34:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:34:22:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:34:27:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:34:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:34:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:34:57:  于斌1
+10:35:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:35:22:  于斌1
+10:36:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:36:12:  于斌1
+10:36:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:36:32:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:36:37:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:36:42:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:36:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:37:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:37:07:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+10:37:22:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:37:52:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+10:38:47:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.c (trunk) - Sublime Text (UNREGISTERED)
+10:38:52:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:38:57:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:39:12:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:39:37:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:39:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:39:57:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:40:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:40:07:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:40:32:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:40:37:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:40:52:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:41:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:41:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:41:52:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:42:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:42:12:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+10:42:17:  Add Files to Group 'Applications'
+10:42:27:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+10:45:02:  μVision
+10:45:02:  μVision
+10:45:07:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+10:45:37:  trunk
+10:45:42:  本地磁盘 (E:)
+10:45:47:  Applications
+10:45:52:  CanComm
+10:45:57:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+10:47:37:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:47:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:48:27:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.c (trunk) - Sublime Text (UNREGISTERED)
+10:48:32:  untitled (trunk) - Sublime Text (UNREGISTERED)
+10:48:37:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:49:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:49:27:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\GateModule.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:49:32:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:49:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:49:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:49:57:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:50:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:50:12:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:50:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:50:32:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:50:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:50:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:50:52:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:51:27:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:51:32:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:52:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:52:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:52:52:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:52:57:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:53:12:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:53:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:53:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:53:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:53:52:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:54:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:54:17:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:54:22:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:54:27:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:54:37:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:54:57:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:55:32:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:55:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:56:02:  E:\深圳出差\CRS-64-1\Applications\Common\AppCommon.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:56:07:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:56:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:56:22:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:56:27:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:56:32:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:56:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:56:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:56:52:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:57:07:  E:\深圳出差\CRS-64-1\Applications\Common\AppCommon.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:57:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:57:32:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:57:37:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:57:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:57:47:  E:\深圳出差\CRS-64-1\Applications\Common\AppCommon.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:57:57:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:58:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:58:07:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:58:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:58:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:58:57:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:59:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:59:07:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:59:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:59:37:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:59:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:59:47:  E:\深圳出差\CRS-64-1\Applications\Common\AppCommon.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:58:07:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:58:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:58:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:58:57:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:59:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:59:07:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:59:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:59:37:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:59:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+10:59:47:  E:\深圳出差\CRS-64-1\Applications\Common\AppCommon.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:00:07:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:00:22:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:00:27:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:00:37:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:00:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:00:57:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:01:02:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:01:12:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:01:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:01:22:  荆文波
+11:01:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:02:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:02:07:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:02:12:  荆文波
+11:04:27:  转发: 1T1托板测试程序 - 写邮件
+11:04:37:  荆文波
+11:04:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:04:52:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:05:32:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:05:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:05:52:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:06:07:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:06:12:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:06:32:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:06:37:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:06:57:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:07:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:07:07:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:07:32:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:07:37:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:07:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:08:07:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:08:27:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:08:32:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:08:37:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:08:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:09:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:09:12:  E:\深圳出差\CRS-64-1\Applications\Common\MotorCommon.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:09:22:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:09:37:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:09:52:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:09:57:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:10:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:10:07:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:11:07:  荆文波
+11:11:52:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:12:02:  荆文波
+11:12:07:  eSpace
+11:12:32:  于转龙
+11:12:37:  荆文波
+11:13:07:  于转龙
+11:14:52:  eSpace
+11:14:52:  eSpace
+11:15:07:  刘茂林
+11:15:22:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:16:07:  刘茂林
+11:16:17:  CanComm
+11:16:22:  本地磁盘 (F:)
+11:16:27:  20200421
+11:16:32:  .jflash - Everything
+11:16:37:  rel - Everything
+11:16:42:  reliabi - Everything
+11:16:47:  reliabit - Everything
+11:16:52:  reliabil - Everything
+11:16:57:  刘茂林
+11:17:07:  FW_BTCR-1100_K06_MAIN
+11:17:12:  Tools
+11:17:22:  刘茂林
+11:17:32:  trunk-plate_reliability_80
+11:17:52:  刘茂林
+11:17:57:  FW_BTCR-1100_K06_MAIN
+11:18:02:  Project
+11:18:12:  D:\00-记录\记录\2019-11\2019-11-01 07-58-08\FW_BTCR-1100_K06_MAIN\trunk-plate_reliability_115_separate\Project\CashBox.uvprojx - μVision
+11:18:47:  Project
+11:18:52:  FW_BTCR-1100_K06_MAIN
+11:18:57:  μVision
+11:19:02:  荆文波
+11:19:07:  D:\00-记录\记录\2019-11\2019-11-01 07-58-08\FW_BTCR-1100_K06_MAIN\trunk-plate_reliability_115\Project\CashBox.uvprojx - μVision
+11:19:17:  托板可靠性.rar - WinRAR (非商业个人版)
+11:20:02:  荆文波
+11:20:07:  D:\00-记录\记录\2019-11\2019-11-01 07-58-08\FW_BTCR-1100_K06_MAIN\trunk-plate_reliability_115\Project\CashBox.uvprojx - μVision
+11:20:52:  刘茂林
+11:20:57:  荆文波
+11:21:07:  D:\00-记录\记录\2019-11\2019-11-01 07-58-08\FW_BTCR-1100_K06_MAIN\trunk-plate_reliability_115\Project\CashBox.uvprojx - μVision
+11:21:12:  刘茂林
+11:21:17:  FW_BTCR-1100_K06_MAIN
+11:21:22:  Project
+11:21:27:  D:\00-记录\记录\2019-11\2019-11-01 07-58-08\FW_BTCR-1100_K06_MAIN\trunk-plate_reliability_115_separate\Project\CashBox.uvprojx - μVision
+11:21:42:  trunk-plate_reliability_115_separate
+11:21:47:  Tools
+11:21:52:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_TT2_down115_up80_separate - 写邮件
+11:22:02:  刘茂林
+11:22:12:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:22:17:  荆文波
+11:22:27:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:22:37:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:23:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:23:07:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:23:12:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:23:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:23:22:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:23:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:23:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:24:12:  E:\深圳出差\CRS-64-1\Applications\Common\AppCommon.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:24:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:24:37:  E:\深圳出差\CRS-64-1\Applications\Common\AppCommon.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:24:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:25:07:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:25:12:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:25:17:  二级评审
+11:25:37:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:25:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:25:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:26:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:26:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:26:22:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:26:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:26:47:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:26:52:  E:\深圳出差\CRS-64-1\Applications\Common\AppCommon.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:27:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:27:22:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:27:37:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:28:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:28:27:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:28:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:28:52:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:28:57:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:29:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:29:12:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:29:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:29:27:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:29:32:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\GateModuleApp.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:29:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:29:47:  E:\深圳出差\CRS-64-1\Applications\ErrorHandle\ErrCode.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:28:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:28:27:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:28:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:28:52:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:28:57:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:29:02:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:29:12:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:29:17:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:29:27:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:29:32:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\GateModuleApp.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:29:42:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:29:47:  E:\深圳出差\CRS-64-1\Applications\ErrorHandle\ErrCode.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:30:12:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:32:38:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:32:53:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:32:58:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:33:13:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:33:18:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:33:23:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:33:28:  E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:33:33:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:33:43:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:34:03:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:34:13:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\TrackSelector\SelModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+11:34:23:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:34:33:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\CashPress\PressModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+11:34:38:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:34:53:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:35:38:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:35:43:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:35:48:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+11:37:03:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+11:43:43:  μVision
+11:43:48:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+11:44:43:  μVision
+11:44:48:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+11:44:43:  μVision
+11:44:48:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+11:45:23:  锁屏状态
+13:12:39:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+13:15:40:  K64_0000_20200922082809.log - DRB.tat* - TextAnalysisTool.NET
+13:16:35:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+13:16:40:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+13:19:40:  本地磁盘 (F:)
+13:20:10:  本地磁盘 (D:)
+13:20:45:  CRS调试工具
+13:20:50:  Tools
+13:21:00:  打开
+13:21:05:  TCR调测工具（研发版）V1.0.0.4
+13:21:40:  自动播放
+13:21:50:  CashBoxCmd.c - trunk - Visual Studio Code [管理员]
+13:21:55:  eSpace
+13:22:00:  胡蕊
+13:22:40:  CashBoxCmd.c - trunk - Visual Studio Code [管理员]
+13:22:45:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:23:00:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+13:23:55:  锁屏状态
+13:24:00:  DRB通道传感器布局.pptx [只读] - PowerPoint
+13:24:25:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+13:24:35:  百度一下，你就知道 - Google Chrome
+13:25:05:  vscode跳转到 h文件_百度搜索 - Google Chrome
+13:25:10:  vscode 跳转到文件_vscode跳转到定义为什么跳转到了头文件中 - CSDN - Google Chrome
+13:25:21:  vscode跳转到 h文件_百度搜索 - Google Chrome
+13:25:26:  vscode 跳转到定义 - CSDN - Google Chrome
+13:25:31:  vscode跳转到 h文件_百度搜索 - Google Chrome
+13:25:41:  vscode跳转到 头文件_百度搜索 - Google Chrome
+13:25:51:  日报
+13:25:56:  vscode跳转到 头文件_百度搜索 - Google Chrome
+13:26:01:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+13:26:11:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:26:26:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+13:26:41:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:29:01:  Subversion
+13:29:06:  开始
+13:29:11:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:29:16:  打开工作区
+13:29:22:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:29:27:  打开文件 - 安全警告
+13:29:32:  ComponentCtrl.h - CRS-64-1 - Visual Studio Code [Administrator]
+13:29:42:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [Administrator]
+13:29:47:  胡蕊
+13:29:01:  Subversion
+13:29:06:  开始
+13:29:11:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:29:16:  打开工作区
+13:29:22:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:29:27:  打开文件 - 安全警告
+13:29:32:  ComponentCtrl.h - CRS-64-1 - Visual Studio Code [Administrator]
+13:29:42:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [Administrator]
+13:29:47:  胡蕊
+13:30:17:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [Administrator]
+13:32:02:  ScreenToGif - 启动
+13:32:12:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:34:22:  ComponentCtrl.h - CRS-64-1 - Visual Studio Code [管理员]
+13:34:27:  ScreenToGif
+13:34:32:  ComponentCtrl.h - CRS-64-1 - Visual Studio Code [管理员]
+13:34:42:  ScreenToGif - 编辑器
+13:34:52:  编码器
+13:35:02:  新建文本文档.exe - 快捷方式
+13:35:07:  PeopleSoft 会话已过期 - Internet Explorer
+13:35:12:  screentogif_v2.22.0
+13:35:22:  桌面整理
+13:35:27:  未命名 - 写邮件
+13:35:42:  vscode - 写邮件
+13:35:52:  胡蕊
+13:36:02:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:36:07:  ComponentCtrl.h - CRS-64-1 - Visual Studio Code [管理员]
+13:36:12:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:36:32:  ComponentCtrl.h - CRS-64-1 - Visual Studio Code [管理员]
+13:36:52:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:36:57:  GateModule.h - CRS-64-1 - Visual Studio Code [管理员]
+13:37:02:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:37:07:  ScreenToGif
+13:37:12:  GateModule.h - CRS-64-1 - Visual Studio Code [管理员]
+13:37:22:  ScreenToGif - 编辑器
+13:37:27:  编码器
+13:37:42:  C:\Users\zhangkaifa\Desktop\11234.gif - Internet Explorer
+13:37:52:  桌面整理
+13:37:57:  回复: vscode跳转 - 写邮件
+13:38:32:  GateModule.h - CRS-64-1 - Visual Studio Code [管理员]
+13:38:37:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:40:07:  Python - Get Started - CRS-64-1 - Visual Studio Code [管理员]
+13:40:12:  新建文本文档.exe - 快捷方式
+13:40:22:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+13:41:32:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:45:57:  新建文本文档.exe - 快捷方式
+13:46:02:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+13:46:12:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:46:32:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+13:46:37:  删除多个项目
+13:46:42:  TCR调测工具（研发版）V1.0.0.4
+13:46:47:  取款
+13:47:02:  TCR调测工具（研发版）V1.0.0.4
+13:47:12:  新建文本文档.exe - 快捷方式
+13:47:17:  TCR调测工具（研发版）V1.0.0.4
+13:47:27:  20200922
+13:47:32:  Decode
+13:47:37:  K64_0000_20200922134659.log - DRB.tat* - TextAnalysisTool.NET
+13:48:12:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:51:32:  K64_0000_20200922134659.log - DRB.tat* - TextAnalysisTool.NET
+13:52:17:  TCR调测工具（研发版）V1.0.0.4
+13:52:58:  20200922
+13:53:03:  K64_0000_20200922135219.log - DRB.tat* - TextAnalysisTool.NET
+13:53:18:  TCR调测工具（研发版）V1.0.0.4
+13:54:13:  取款
+13:54:18:  20200922
+13:54:23:  TCR调测工具（研发版）V1.0.0.4
+13:57:48:  20200922
+13:58:08:  TCR调测工具（研发版）V1.0.0.4
+13:58:13:  发送指令到K18
+13:58:18:  TCR调测工具（研发版）V1.0.0.4
+13:59:18:  20200922
+13:59:23:  TCR调测工具（研发版）V1.0.0.4
+13:58:08:  TCR调测工具（研发版）V1.0.0.4
+13:58:13:  发送指令到K18
+13:58:18:  TCR调测工具（研发版）V1.0.0.4
+13:59:18:  20200922
+13:59:23:  TCR调测工具（研发版）V1.0.0.4
+14:01:43:  钞箱配置
+14:02:08:  TCR调测工具（研发版）V1.0.0.4
+14:02:13:  20200922
+14:02:18:  取款
+14:02:23:  TCR调测工具（研发版）V1.0.0.4
+14:02:43:  20200922
+14:02:48:  Decode
+14:02:53:  K64_0000_20200922140221.log - DRB.tat* - TextAnalysisTool.NET
+14:05:08:  TCR调测工具（研发版）V1.0.0.4
+14:05:13:  K64_0000_20200922140221.log - DRB.tat* - TextAnalysisTool.NET
+14:11:13:  Add Filter
+14:11:18:  K64_0000_20200922140221.log - DRB.tat* - TextAnalysisTool.NET
+14:11:28:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:11:38:  胡蕊
+14:11:53:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:13:48:  胡蕊
+14:13:53:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:14:03:  胡蕊
+14:15:08:  K64_0000_20200922140221.log - DRB.tat* - TextAnalysisTool.NET
+15:18:18:  锁屏状态
+15:18:23:  胡蕊
+15:18:28:  胡蕊,张开发
+15:27:23:  锁屏状态
+15:27:41:  胡蕊,张开发
+15:27:51:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+15:28:21:  GateModule.c - CRS-64-1 - Visual Studio Code [管理员]
+15:28:26:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:28:31:  GateModule.c - CRS-64-1 - Visual Studio Code [管理员]
+15:28:41:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:28:46:  GateModule.c - CRS-64-1 - Visual Studio Code [管理员]
+15:28:51:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:29:06:  GateModule.c - CRS-64-1 - Visual Studio Code [管理员]
+15:29:16:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:29:31:  GateModule.c - CRS-64-1 - Visual Studio Code [管理员]
+15:30:01:  「开始」菜单
+15:28:21:  GateModule.c - CRS-64-1 - Visual Studio Code [管理员]
+15:28:26:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:28:31:  GateModule.c - CRS-64-1 - Visual Studio Code [管理员]
+15:28:41:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:28:46:  GateModule.c - CRS-64-1 - Visual Studio Code [管理员]
+15:28:51:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:29:06:  GateModule.c - CRS-64-1 - Visual Studio Code [管理员]
+15:29:16:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:29:31:  GateModule.c - CRS-64-1 - Visual Studio Code [管理员]
+15:30:01:  「开始」菜单
+15:30:06:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+15:30:21:  Sublime Text
+15:30:26:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+15:30:36:  锁屏状态
+15:54:46:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+15:55:26:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:55:36:  00-18
+15:55:41:  CRS
+15:55:46:  D:\CRS\KE18-BOOT - 工作副本 - TortoiseSVN
+15:55:51:  Application.c - TortoiseMerge
+15:56:01:  张健4
+15:56:16:  Application.c - TortoiseMerge
+15:56:26:  startup_MKE18F16.s - TortoiseMerge
+15:56:31:  KE18-BOOT
+15:56:36:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:56:41:  TCR调测工具（研发版）V1.0.0.4
+15:57:16:  BTCRTestTool
+15:57:21:  TCR调测工具（研发版）V1.0.0.4
+15:57:36:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:57:51:  μVision
+15:57:56:  TCR调测工具（研发版）V1.0.0.4
+15:58:01:  发送指令到K18
+15:58:21:  μVision
+15:58:26:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:58:46:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+15:59:06:  本地磁盘 (E:)
+15:59:16:  文件夹正在使用
+15:59:21:  CRS调试工具
+15:59:26:  TCR调测工具（研发版）V1.0.0.4
+15:59:36:  打开
+15:59:51:  TCR调测工具（研发版）V1.0.0.4
+16:00:01:  张健4
+15:58:21:  μVision
+15:58:26:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:58:46:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+15:59:06:  本地磁盘 (E:)
+15:59:16:  文件夹正在使用
+15:59:21:  CRS调试工具
+15:59:26:  TCR调测工具（研发版）V1.0.0.4
+15:59:36:  打开
+15:59:51:  TCR调测工具（研发版）V1.0.0.4
+16:00:01:  张健4
+16:00:16:  eSpace
+16:00:26:  戚晓东
+16:00:56:  TCR调测工具（研发版）V1.0.0.4
+16:01:06:  戚晓东
+16:01:31:  TCR调测工具（研发版）V1.0.0.4
+16:02:01:  戚晓东
+16:03:01:  CRS调试工具
+16:04:01:  GateModule.c - CRS-64-1 - Visual Studio Code [管理员]
+16:04:06:  转发: DRB针对无法适应带有透明视窗的塑料外币的问题的方案讨论
+16:04:11:  CRS调试工具
+16:05:36:  00-18
+16:05:41:  CRS
+16:05:46:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+16:05:51:  Init.c - TortoiseMerge
+16:06:11:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+16:06:16:  InstrExe.c - TortoiseMerge
+16:06:36:  InstrExe.h - TortoiseMerge
+16:06:41:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+16:07:01:  Update.c - TortoiseMerge
+16:07:56:  startup_MKE18F16.s - TortoiseMerge
+16:08:06:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+16:08:31:  StepMotor.c - TortoiseMerge
+16:08:36:  TortoiseMerge
+16:08:41:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+16:08:51:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+16:10:26:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+16:10:31:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+16:10:46:  JLink - Cortex-M Error
+16:10:51:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+16:10:56:  锁屏状态
+16:11:01:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+16:11:36:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:11:41:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:11:46:  E:\深圳出差\CRS-64-1\Applications\StateCheck\StateCheck.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:12:11:  E:\深圳出差\CRS-64-1\Applications\StateCheck\StateCheck.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:12:21:  E:\深圳出差\CRS-64-1\Applications\InstrExplain\InstrProc1D.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:13:56:  E:\深圳出差\CRS-64-1\Applications\StateCheck\StateCheck.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:14:11:  本地磁盘 (D:)
+16:14:16:  CRS
+16:14:21:  深圳出差
+16:14:26:  CRS调试工具
+16:14:31:  V1.009
+16:14:36:  TCR调测工具（研发版）V1.0.0.4
+16:14:41:  CRS调试工具
+16:14:46:  Tools
+16:14:51:  D:\CRS\KE18-UP\Tools\CreateJK.exe
+16:14:56:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+16:14:11:  本地磁盘 (D:)
+16:14:16:  CRS
+16:14:21:  深圳出差
+16:14:26:  CRS调试工具
+16:14:31:  V1.009
+16:14:36:  TCR调测工具（研发版）V1.0.0.4
+16:14:41:  CRS调试工具
+16:14:46:  Tools
+16:14:51:  D:\CRS\KE18-UP\Tools\CreateJK.exe
+16:14:56:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+16:15:06:  锁屏状态
+16:15:11:  Tools
+16:15:16:  BTCRTestTool
+16:15:21:  TCR调测工具（研发版）V1.0.0.4
+16:15:31:  戚晓东
+16:15:46:  TCR调测工具（研发版）V1.0.0.4
+16:15:51:  打开
+16:15:56:  TCR调测工具（研发版）V1.0.0.4
+16:16:06:  BTCRTestTool
+16:16:11:  TCR调测工具（研发版）V1.0.0.4
+16:16:21:  锁屏状态
+16:16:26:  TCR调测工具（研发版）V1.0.0.4
+16:16:31:  戚晓东
+16:17:36:  Tools
+16:17:41:  TCR调测工具（研发版）V1.0.0.4
+16:18:01:  戚晓东
+16:19:06:  TCR调测工具（研发版）V1.0.0.4
+16:20:26:  戚晓东
+16:20:31:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+16:20:36:  TCR调测工具（研发版）V1.0.0.4
+16:21:16:  BTCRTestTool(3).rar - WinRAR (非商业个人版)
+16:21:46:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:22:16:  库
+16:22:31:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:24:31:  E:\深圳出差\CRS-64-1\Applications\StateCheck\StateCheck.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:24:36:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:24:51:  E:\深圳出差\CRS-64-1\Applications\InstrExplain\InstrProc1D.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:25:16:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:25:31:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:25:46:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:26:01:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:26:06:  E:\深圳出差\CRS-64-1\Applications\InstrExplain\InstrProc1D.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:26:11:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:26:16:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:26:26:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:26:41:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:26:46:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:26:51:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:26:56:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:27:01:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:27:06:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:27:11:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:27:16:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:27:26:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:27:31:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:27:46:  回复: CRS升级
+16:27:51:  网易有道词典
+16:28:06:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:28:21:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:28:26:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:28:31:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:28:41:  深圳出差
+16:28:46:  CRS调试工具
+16:28:51:  正在复制 
+16:28:56:  CRS调试工具
+16:29:01:  TCR调测工具（研发版）V1.0.0.4
+16:29:11:  打开
+16:29:16:  TCR调测工具（研发版）V1.0.0.4
+16:29:21:  打开
+16:29:26:  TCR调测工具（研发版）V1.0.0.4
+16:29:31:  BTCRTestTool
+16:29:36:  TCR调测工具（研发版）V1.0.0.4
+16:29:41:  eSpace
+16:29:46:  TCR调测工具（研发版）V1.0.0.4
+16:30:01:  戚晓东
+16:28:06:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:28:21:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:28:26:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:28:31:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:28:41:  深圳出差
+16:28:46:  CRS调试工具
+16:28:51:  正在复制 
+16:28:56:  CRS调试工具
+16:29:01:  TCR调测工具（研发版）V1.0.0.4
+16:29:11:  打开
+16:29:16:  TCR调测工具（研发版）V1.0.0.4
+16:29:21:  打开
+16:29:26:  TCR调测工具（研发版）V1.0.0.4
+16:29:31:  BTCRTestTool
+16:29:36:  TCR调测工具（研发版）V1.0.0.4
+16:29:41:  eSpace
+16:29:46:  TCR调测工具（研发版）V1.0.0.4
+16:30:01:  戚晓东
+16:30:06:  eSpace
+16:30:16:  CRS调试工具
+16:30:21:  本地磁盘 (E:)
+16:30:26:  CRS
+16:30:31:  KE18-BOOT
+16:30:36:  D:\CRS\KE18-BOOT - 日志信息 - TortoiseSVN
+16:30:41:  D:\CRS\KE18-BOOT - 版本库浏览器 - TortoiseSVN
+16:30:46:  KE18-BOOT
+16:30:51:  eSpace
+16:30:56:  冯宁
+16:32:06:  eSpace
+16:32:16:  张健4
+16:32:21:  GateModule.c - CRS-64-1 - Visual Studio Code [管理员]
+16:32:26:  eSpace
+16:32:51:  TCR调测工具（研发版）V1.0.0.4
+16:33:16:  eSpace
+16:34:36:  KE18-BOOT
+16:34:41:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:34:46:  GateModule.c - CRS-64-1 - Visual Studio Code [管理员]
+16:34:51:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+16:34:56:  GateModule.c - CRS-64-1 - Visual Studio Code [管理员]
+16:35:01:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+16:36:52:  运行
+16:36:57:  问题日志
+16:37:02:  ID-40 6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+16:37:07:  Decode
+16:37:12:  ID-40 6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+16:37:17:  fenxi
+16:37:22:  新建文件夹 (4)
+16:37:27:  新建文件夹 (3)
+16:37:32:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:37:37:  Box_2__BTCR-1100190803000008_20200909160858.log - DRB.tat* - TextAnalysisTool.NET
+16:46:52:  Add Filter
+16:46:57:  Box_2__BTCR-1100190803000008_20200909160858.log - DRB.tat* - TextAnalysisTool.NET
+16:47:02:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:47:27:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:47:32:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:47:37:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:47:42:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:47:47:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:47:52:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:48:07:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:48:12:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:48:27:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:48:37:  网易有道词典
+16:48:47:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:48:52:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:48:57:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:49:07:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:49:12:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:49:17:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:49:32:  E:\深圳出差\CRS-64-1\Applications\StateCheck\StateCheck.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:49:47:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:49:57:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:50:02:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:50:17:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:50:22:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:50:27:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:50:42:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:50:47:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:50:52:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:50:57:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:51:02:  E:\深圳出差\CRS-64-1\Applications\StateCheck\StateCheck.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:51:12:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:51:17:  E:\深圳出差\CRS-64-1\Applications\StateCheck\StateCheck.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:51:22:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:51:37:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\EscBoardCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:51:47:  E:\深圳出差\CRS-64-1\Applications\StateCheck\StateCheck.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:51:52:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:51:57:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:52:02:  E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+16:52:07:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:55:17:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+16:55:32:  JLink - Cortex Error
+16:55:37:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+16:56:27:  本地磁盘 (E:)
+16:56:32:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+16:56:37:  CashBoxCmd.c - TortoiseMerge
+16:56:42:  CSBoardCmd.c - TortoiseMerge
+16:56:47:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+16:56:52:  StateCheck.c - TortoiseMerge
+16:56:57:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+16:57:02:  GateModule.c - TortoiseMerge
+16:57:12:  CashBoxModuleApp.c - TortoiseMerge
+16:57:42:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+16:57:47:  ComponentStatus.h - TortoiseMerge
+16:57:52:  ComponentCtrl.h - TortoiseMerge
+16:57:57:  ComponentCtrl.c - TortoiseMerge
+16:58:02:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+16:58:07:  CashBoxPlateCtrl.c - TortoiseMerge
+16:58:12:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+16:58:17:  EscBoardCmd.c - TortoiseMerge
+16:58:32:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+16:58:37:  CashBoxComm.c - TortoiseMerge
+16:58:42:  提交
+16:58:47:  E:\深圳出差\CRS-64-1 - 提交 - TortoiseSVN
+16:58:57:  CashBoxComm.h - TortoiseMerge
+16:59:02:  E:\深圳出差\CRS-64-1 - 提交 - TortoiseSVN
+16:59:07:  历史记录
+16:59:12:  E:\深圳出差\CRS-64-1 - 提交 - TortoiseSVN
+16:59:52:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+16:58:07:  CashBoxPlateCtrl.c - TortoiseMerge
+16:58:12:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+16:58:17:  EscBoardCmd.c - TortoiseMerge
+16:58:32:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+16:58:37:  CashBoxComm.c - TortoiseMerge
+16:58:42:  提交
+16:58:47:  E:\深圳出差\CRS-64-1 - 提交 - TortoiseSVN
+16:58:57:  CashBoxComm.h - TortoiseMerge
+16:59:02:  E:\深圳出差\CRS-64-1 - 提交 - TortoiseSVN
+16:59:07:  历史记录
+16:59:12:  E:\深圳出差\CRS-64-1 - 提交 - TortoiseSVN
+16:59:52:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+17:04:32:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+17:04:37:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+17:04:42:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+17:04:47:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\Plate\PlateModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+17:05:02:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+17:09:27:  μVision
+17:09:37:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+17:10:12:  锁屏状态

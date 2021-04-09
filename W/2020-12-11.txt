@@ -1,0 +1,1130 @@
+08:02:23:  【统计】产品线归属统计   明天11:00前   重要！！！
+08:04:03:  本地磁盘 (E:)
+08:04:08:  06 固件日报
+08:04:13:  指令集
+08:04:18:  固件集成测试方案
+08:04:23:  CRS
+08:04:33:  指令集
+08:04:38:  锁屏状态
+08:04:43:  20200909_CRS内部指令手册_V0.1.xlsx  [受保护的视图] - Excel
+08:04:58:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+08:06:08:  20200909_CRS内部指令手册_V0.1.xlsx  [受保护的视图] - Excel
+08:06:23:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+08:06:28:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+08:07:08:  20200909_CRS内部指令手册_V0.1.xlsx  [受保护的视图] - Excel
+08:07:23:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+08:07:28:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+08:07:33:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.h (gfgd) - Sublime Text (UNREGISTERED)
+08:07:43:  20200909_CRS内部指令手册_V0.1.xlsx  [只读] - Excel
+08:09:13:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.h (gfgd) - Sublime Text (UNREGISTERED)
+08:09:18:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+08:09:23:  20200909_CRS内部指令手册_V0.1.xlsx  [只读] - Excel
+08:10:28:  设置单元格格式
+08:10:43:  20200909_CRS内部指令手册_V0.1.xlsx  [只读] - Excel
+08:11:08:  于斌1
+08:11:18:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+08:11:38:  RD人员按月归属产品线信息确认-20201210.xlsx
+08:11:43:  RD人员按月归属产品线信息确认-20201210.xlsx  [只读]  [共享] - Excel
+08:15:18:  eSpace
+08:15:33:  于斌1
+08:15:38:  【Bug修复】WebNet模块
+08:16:23:  RD人员按月归属产品线信息确认-20201210.xlsx  [只读]  [共享] - Excel
+08:17:43:  于斌1
+08:17:58:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+08:18:03:  untitled (DRB--) - Sublime Text (UNREGISTERED)
+08:19:23:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+08:19:28:  于斌1
+08:19:33:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+08:19:38:  D:\00-06\DRB--\Applications\Instruction\InstrHandle.c (DRB--) - Sublime Text (UNREGISTERED)
+08:19:43:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+08:19:58:  20200909_CRS内部指令手册_V0.1.xlsx  [只读] - Excel
+08:20:08:  D:\00-06\DRB--\Applications\Instruction\InstrReturn.c (DRB--) - Sublime Text (UNREGISTERED)
+08:20:23:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+08:20:28:  20200909_CRS内部指令手册_V0.1.xlsx  [只读] - Excel
+08:20:38:  D:\00-06\DRB--\Applications\Instruction\InstrReturn.c (DRB--) - Sublime Text (UNREGISTERED)
+08:20:43:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+08:20:48:  D:\00-06\DRB--\Applications\Instruction\InstrReturn.c (DRB--) - Sublime Text (UNREGISTERED)
+08:20:53:  D:\00-06\DRB--\Applications\PlateCtrl\PlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+08:20:58:  D:\00-06\DRB--\Applications\Instruction\InstrReturn.c (DRB--) - Sublime Text (UNREGISTERED)
+08:21:03:  D:\00-06\DRB--\Applications\Instruction\InstrHandle.h (DRB--) - Sublime Text (UNREGISTERED)
+08:21:08:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+08:21:23:  D:\00-06\DRB--\Applications\Instruction\InstrReturn.c (DRB--) - Sublime Text (UNREGISTERED)
+08:21:28:  20200909_CRS内部指令手册_V0.1.xlsx  [只读] - Excel
+08:23:18:  设置单元格格式
+08:23:23:  20200909_CRS内部指令手册_V0.1.xlsx  [只读] - Excel
+08:24:08:  荆文波
+08:24:13:  20200909_CRS内部指令手册_V0.1.xlsx  [只读] - Excel
+08:24:53:  Microsoft Excel
+08:24:58:  文件正在使用
+08:25:03:  20200909_CRS内部指令手册_V0.1.xlsx  [受保护的视图] - Excel
+08:25:58:  荆文波
+08:26:03:  3-日常 - 张开发 - 印象笔记
+08:26:13:  日记 - 张开发 - 印象笔记
+08:26:18:  3-日常 - 张开发 - 印象笔记
+08:26:23:  所有笔记本 - 张开发 - 印象笔记
+08:26:43:  荆文波
+08:31:08:  RD人员按月归属产品线信息确认-20201210.xlsx  [受保护的视图] - Excel
+08:31:38:  RD人员按月归属产品线信息确认-20201210.xlsx  [共享] - Excel
+08:32:03:  步进电机加速表生成计算公式.xlsx - Excel
+08:32:08:  eSpace
+08:33:03:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:33:38:  可移动磁盘 (G:)
+08:33:43:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:33:48:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+08:33:53:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+08:33:58:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:34:23:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+08:34:28:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+08:34:38:  锁屏状态
+08:34:53:  打开文件夹
+08:34:58:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+08:35:18:  指令集
+08:35:28:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+08:42:29:  打开
+08:42:34:  CRS调测工具（研发版）V1.0.2.1
+08:43:09:  打开
+08:43:29:  本地磁盘 (D:)
+08:43:34:  trunk
+08:43:39:  Tools
+08:43:44:  打开
+08:44:19:  CRS调测工具（研发版）V1.0.2.1
+08:44:19:  CRS调测工具（研发版）V1.0.2.1
+08:45:10:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+08:47:15:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:47:50:  Fw: Fw: 河北邮政验收单
+08:47:55:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:54:05:  CRS调测工具（研发版）V1.0.2.1
+08:54:10:  打开
+08:54:20:  新建文本文档.exe - 快捷方式
+08:54:25:  CRS调测工具（研发版）V1.0.2.1
+08:54:30:  CRSTestTool
+08:54:40:  CRS调测工具（研发版）V1.0.2.1
+08:54:55:  CRSTestTool
+08:55:00:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:55:30:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+08:55:35:  CRS调测工具（研发版）V1.0.2.1
+08:55:50:  CRSTestTool
+08:56:00:  CRS调测工具（研发版）V1.0.2.1
+08:56:05:  打开
+08:56:10:  CRS调测工具（研发版）V1.0.2.1
+08:56:20:  CRSTestTool
+08:56:25:  CRS调测工具（研发版）V1.0.2.1
+08:57:30:  CRSTestTool
+08:57:35:  CRS调测工具（研发版）V1.0.2.1
+09:04:40:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+09:05:00:  Tools
+09:05:05:  Project
+09:05:10:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+09:07:20:  CRSTestTool
+09:07:25:  CRS调测工具（研发版）V1.0.2.1
+09:08:20:  发送指令到K06
+09:08:30:  打开
+09:08:40:  CRS调测工具（研发版）V1.0.2.1
+09:09:00:  CRSTestTool
+09:09:15:  CRS调测工具（研发版）V1.0.2.1
+09:09:20:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+09:10:10:  Project
+09:10:15:  gfgd
+09:10:20:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+09:10:25:  InstrProc1D.c Revision 753 - TortoiseMerge
+09:10:50:  gfgd
+09:10:55:  44
+09:11:00:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+09:11:10:  gfgd
+09:11:15:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+09:11:25:  TortoiseMerge
+09:11:30:  InstrProc1D.c Revision 753 - TortoiseMerge
+09:11:45:  gfgd
+09:11:50:  深圳出差
+09:11:55:  E:\深圳出差\TCR-64 - 日志信息 - TortoiseSVN
+09:12:05:  Tools
+09:12:10:  E:\深圳出差\DRB\Tools\CreateJK.exe
+09:12:15:  DRB
+09:12:20:  锁屏状态
+09:12:25:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+09:12:50:  锁屏状态
+09:13:00:  E:\深圳出差\gfgd\Tools\CreateJK.exe
+09:13:10:  CRS调测工具（研发版）V1.0.2.1
+09:13:35:  CRSTestTool
+09:13:40:  打开
+09:13:50:  CRS调测工具（研发版）V1.0.2.1
+09:14:15:  打开
+09:14:25:  CRS调测工具（研发版）V1.0.2.1
+09:14:30:  打开
+09:14:35:  锁屏状态
+09:14:40:  打开
+09:14:45:  CRS调测工具（研发版）V1.0.2.1
+09:14:15:  打开
+09:14:25:  CRS调测工具（研发版）V1.0.2.1
+09:14:30:  打开
+09:14:35:  锁屏状态
+09:14:40:  打开
+09:14:45:  CRS调测工具（研发版）V1.0.2.1
+09:15:20:  CashRecyclerTool 属性
+09:15:25:  本地磁盘 (D:)
+09:15:30:  CRS调测工具（研发版）V1.0.2.1
+09:15:35:  CRSTesttool
+09:15:40:  20201211
+09:15:45:  Decode
+09:15:50:  K64_0000_20201211091514.log - DRB.tat* - TextAnalysisTool.NET
+09:16:10:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+09:16:15:  K64_0000_20201211091514.log - DRB.tat* - TextAnalysisTool.NET
+09:17:25:  锁屏状态
+09:17:30:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+09:18:35:  Add Filter
+09:18:40:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+09:30:15:  打开
+09:30:25:  CRS调测工具（研发版）V1.0.2.1
+09:33:30:  打开
+09:33:35:  CRS调测工具（研发版）V1.0.2.1
+09:33:45:  打开
+09:33:50:  CRS调测工具（研发版）V1.0.2.1
+09:34:25:  于斌1
+09:34:35:  CRS调测工具（研发版）V1.0.2.1
+09:36:10:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+09:36:20:  收取邮件 - 张开发
+09:36:30:  CRS调测工具（研发版）V1.0.2.1
+09:36:35:  打开
+09:36:40:  CRS调测工具（研发版）V1.0.2.1
+09:37:30:  打开
+09:37:50:  CRS调测工具（研发版）V1.0.2.1
+09:37:55:  打开
+09:38:00:  CRS调测工具（研发版）V1.0.2.1
+09:38:10:  CRSTestTool
+09:38:15:  CRS调测工具（研发版）V1.0.2.1
+09:38:25:  D:\00-06\DRB--\Applications\Instruction\InstrHandle.h (DRB--) - Sublime Text (UNREGISTERED)
+09:38:30:  选择文件夹
+09:38:35:  untitled (trunk) - Sublime Text (UNREGISTERED)
+09:38:40:  D:\00-06\BOOT\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+09:38:50:  D:\00-06\BOOT\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+09:38:55:  D:\00-06\BOOT\trunk\Applications\Instruction\InstrHandle.h (trunk) - Sublime Text (UNREGISTERED)
+09:39:00:  D:\00-06\BOOT\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:39:15:  CRS调测工具（研发版）V1.0.2.1
+09:39:25:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+09:39:30:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+09:39:50:  CRS调测工具（研发版）V1.0.2.1
+09:39:55:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.h (gfgd) - Sublime Text (UNREGISTERED)
+09:40:00:  CRS调测工具（研发版）V1.0.2.1
+09:40:05:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+09:40:10:  CRS调测工具（研发版）V1.0.2.1
+09:40:20:  打开
+09:40:25:  CRS调测工具（研发版）V1.0.2.1
+09:41:55:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+09:42:35:  CRS调测工具（研发版）V1.0.2.1
+09:43:15:  Decode
+09:43:25:  K64_0000_20201211094302.log - DRB.tat* - TextAnalysisTool.NET
+09:43:50:  Add Filter
+09:44:05:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+09:44:15:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+09:44:05:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+09:44:15:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+09:45:10:  Add Filter
+09:45:15:  K64_0000_20201211094302.log - DRB.tat* - TextAnalysisTool.NET
+09:45:50:  CRS调测工具（研发版）V1.0.2.1
+09:45:55:  K64_0000_20201211094302.log - DRB.tat* - TextAnalysisTool.NET
+09:46:55:  Decode
+09:47:10:  CRS调测工具（研发版）V1.0.2.1
+09:47:30:  Decode
+09:47:35:  20201211
+09:47:40:  Decode
+09:47:45:  K64_0000_20201211094715.log - DRB.tat* - TextAnalysisTool.NET
+09:48:45:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+09:49:25:  K64_0000_20201211094715.log - DRB.tat* - TextAnalysisTool.NET
+09:50:20:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+09:52:45:  CRS调测工具（研发版）V1.0.2.1
+09:52:55:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+09:53:00:  Decode
+09:53:10:  K64_0000_20201211095245.log - DRB.tat* - TextAnalysisTool.NET
+09:54:00:  CRS调测工具（研发版）V1.0.2.1
+09:54:15:  K64_0000_20201211095245.log - DRB.tat* - TextAnalysisTool.NET
+09:55:25:  eSpace
+09:55:35:  K64_0000_20201211095245.log - DRB.tat* - TextAnalysisTool.NET
+09:59:20:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+09:59:30:  K64_0000_20201211095245.log - DRB.tat* - TextAnalysisTool.NET
+09:59:35:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+10:00:00:  Decode
+09:59:20:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+09:59:30:  K64_0000_20201211095245.log - DRB.tat* - TextAnalysisTool.NET
+09:59:35:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+10:00:00:  Decode
+10:00:05:  20201211
+10:00:10:  K64_0000_20201211095245.log - DRB.tat* - TextAnalysisTool.NET
+10:00:25:  Adobe Photoshop CS3 Extended
+10:07:00:  固件设计中心
+10:11:15:  Fw: Fw: 搁架验收单
+10:11:30:  Adobe Photoshop CS3 Extended
+10:13:15:  色阶
+10:13:25:  Adobe Photoshop CS3 Extended - [2020_12_11_08_27_24.jpg @ 63.8% (色阶 1, 图层蒙版/8)]
+10:13:30:  Adobe Photoshop CS3 Extended - [2020_12_11_08_27_24.jpg @ 27.1% (色阶 1, 图层蒙版/8)]
+10:13:40:  存储为
+10:14:00:  Adobe Photoshop CS3 Extended
+10:14:05:  Adobe Photoshop CS3 Extended - [2020_12_11_08_27_24.pdf @ 27.1% (图层 1, RGB/8)]
+10:14:10:  Adobe Photoshop CS3 Extended
+10:14:05:  Adobe Photoshop CS3 Extended - [2020_12_11_08_27_24.pdf @ 27.1% (图层 1, RGB/8)]
+10:14:10:  Adobe Photoshop CS3 Extended
+10:15:15:  色阶
+10:15:30:  Adobe Photoshop CS3 Extended - [2020_12_11_08_27_27.jpg @ 47.2% (色阶 1, 图层蒙版/8)]
+10:15:35:  Adobe Photoshop CS3 Extended - [2020_12_11_08_27_27.jpg @ 29.1% (色阶 1, 图层蒙版/8)]
+10:15:40:  Adobe Photoshop CS3 Extended - [2020_12_11_08_27_27.jpg @ 21.3% (色阶 1, 图层蒙版/8)]
+10:15:45:  存储为
+10:15:55:  Adobe Photoshop CS3 Extended - [2020_12_11_08_27_27.jpg @ 21.3% (色阶 1, 图层蒙版/8)]
+10:16:00:  Adobe Photoshop CS3 Extended
+10:16:30:  色阶
+10:16:35:  Adobe Photoshop CS3 Extended
+10:16:55:  色阶
+10:17:05:  Adobe Photoshop CS3 Extended
+10:17:35:  存储为
+10:17:45:  存储 Adobe PDF
+10:17:50:  Adobe Photoshop CS3 Extended
+10:18:30:  色阶
+10:18:45:  Adobe Photoshop CS3 Extended
+10:19:00:  存储为
+10:19:20:  Adobe Photoshop CS3 Extended
+10:19:30:  存储为
+10:19:35:  Foxmail
+10:19:40:  Tools
+10:19:50:  D:\00-18\Tools\ExConfig.xml (gfgd) - Sublime Text (UNREGISTERED)
+10:20:05:  D:\00-18\Tools\ExConfig.xml • (gfgd) - Sublime Text (UNREGISTERED)
+10:20:10:  D:\00-18\Tools\ExConfig.xml (gfgd) - Sublime Text (UNREGISTERED)
+10:20:15:  D:\00-18\Tools\Ex.exe
+10:20:40:  Tools
+10:20:45:  D:\00-18\Tools\Ex.exe
+10:20:55:  Tools
+10:21:00:  00-18
+10:21:05:  D:\00-18 - 工作副本 - TortoiseSVN
+10:21:15:  D:\00-18 - TortoiseMerge
+10:21:20:  D:\00-18 - 工作副本 - TortoiseSVN
+10:21:25:  00-18
+10:21:35:  D:\00-18 - 更新 - TortoiseSVN
+10:21:40:  00-18
+10:33:36:  CRS调测工具（研发版）V1.0.2.1
+10:34:46:  共享文件
+10:34:51:  原理图
+10:34:56:  FEDADV10主控板.PDF - Adobe Reader
+10:36:26:  CRS调测工具（研发版）V1.0.2.1
+10:39:11:  FEDADV10主控板.PDF - Adobe Reader
+10:40:56:  于斌1
+10:41:01:  FEDADV10主控板.PDF - Adobe Reader
+10:41:11:  原理图
+10:41:16:  CRS
+10:41:56:  从控板集成测试方案-报告
+10:42:01:  固件集成测试方案
+10:42:06:  TCR
+10:42:11:  共享文件
+10:42:16:  固件集成测试方案
+10:42:26:  5.16.17 Can总线.pptx [受保护的视图] - PowerPoint
+10:52:41:  5.16.17 Can总线.pptx - PowerPoint
+11:05:31:  CRS调测工具（研发版）V1.0.2.1
+11:08:11:  主页 - Internet Explorer
+11:08:21:  系统登录 - Internet Explorer
+11:08:26:  员工自助 - Internet Explorer
+11:08:31:  我的假期 - Internet Explorer
+11:08:36:  兼容性视图设置
+11:09:26:  HR自助平台常见问题说明.pdf
+11:10:01:  我的假期 - Internet Explorer
+11:10:11:  Internet 选项
+11:10:16:  网站数据设置
+11:10:21:  Internet 选项
+11:10:26:  我的假期 - Internet Explorer
+11:11:36:  关于 Internet Explorer
+11:11:41:  我的假期 - Internet Explorer
+11:11:46:  兼容性视图设置
+11:12:01:  我的假期 - Internet Explorer
+11:12:06:  CRS调测工具（研发版）V1.0.2.1
+11:14:41:  5.16.17 Can总线.pptx - PowerPoint
+11:14:41:  5.16.17 Can总线.pptx - PowerPoint
+11:20:06:  程明昌
+11:27:46:  KE18-UP
+11:27:51:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+11:27:56:  刘雅
+11:28:31:  RD人员按月归属产品线信息确认-20201210.xlsx  [受保护的视图] - Excel
+11:28:36:  RD人员按月归属产品线信息确认-20201210.xlsx  [共享] - Excel
+11:29:06:  Microsoft Excel
+11:29:11:  刘雅
+11:29:31:  组别统计
+11:29:36:  KE18-UP
+11:29:51:  Tools
+11:29:56:  D:\CRS\KE18-UP\Tools\ExConfig.xml (gfgd) - Sublime Text (UNREGISTERED)
+11:28:31:  RD人员按月归属产品线信息确认-20201210.xlsx  [受保护的视图] - Excel
+11:28:36:  RD人员按月归属产品线信息确认-20201210.xlsx  [共享] - Excel
+11:29:06:  Microsoft Excel
+11:29:11:  刘雅
+11:29:31:  组别统计
+11:29:36:  KE18-UP
+11:29:51:  Tools
+11:29:56:  D:\CRS\KE18-UP\Tools\ExConfig.xml (gfgd) - Sublime Text (UNREGISTERED)
+11:30:06:  D:\CRS\KE18-UP\Tools\Ex.exe
+11:30:26:  KE18-UP
+11:30:46:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+11:30:56:  Add Files to Group 'Rtos'
+11:31:11:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+11:31:36:  KE18-UP
+11:31:41:  SystemView
+11:31:51:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+11:31:56:  eSpace
+11:32:16:  程明昌
+11:32:21:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+11:32:41:  程明昌
+11:32:56:  SystemView
+11:33:01:  打开方式
+11:33:06:  D:\CRS\KE18-UP\Tools\ExConfig.xml (gfgd) - Sublime Text (UNREGISTERED)
+11:33:26:  Tools
+11:33:31:  D:\CRS\KE18-UP\Tools\External_Up.exe
+11:33:36:  Tools
+11:33:41:  D:\CRS\KE18-UP\Tools\Ex.exe
+11:33:46:  Tools
+11:33:51:  KE18-UP
+11:33:56:  程明昌
+11:34:06:  KE18-UP
+11:34:16:  更新 完成！
+11:34:21:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+11:34:31:  Tools
+11:34:36:  D:\CRS\KE18-UP\Tools\ExConfig.xml (gfgd) - Sublime Text (UNREGISTERED)
+11:34:51:  程明昌
+11:35:01:  D:\CRS\KE18-UP\Tools\ExConfig.xml (gfgd) - Sublime Text (UNREGISTERED)
+11:35:06:  D:\CRS\KE18-UP\Tools\ExConfig.xml • (gfgd) - Sublime Text (UNREGISTERED)
+11:35:11:  Tools
+11:35:16:  tk
+11:35:21:  KE18-UP
+11:35:31:  D:\CRS\KE18-UP - 更新 - TortoiseSVN
+11:35:41:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+11:35:46:  程明昌
+11:35:51:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+11:35:56:  Add Files to Group 'Rtos'
+11:36:11:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+11:36:21:  KE18-UP
+11:36:26:  RTT
+11:36:42:  程明昌
+11:36:47:  Rtos
+11:36:52:  Tools
+11:36:57:  D:\CRS\KE18-UP\Tools\ExConfig.xml • (gfgd) - Sublime Text (UNREGISTERED)
+11:37:07:  D:\CRS\KE18-UP\Tools\Ex.exe
+11:37:12:  tk
+11:37:17:  Tools
+11:37:22:  KE18-UP
+11:37:27:  程明昌
+11:37:47:  KE18-UP
+11:37:52:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+11:38:02:  μVision
+11:38:07:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+11:39:07:  程明昌
+11:39:17:  收取邮件 - 张开发
+11:39:22:  Readme.txt
+11:40:07:  程明昌
+11:40:12:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+11:40:22:  Add Files to Group 'Rtos'
+11:40:32:  Readme.txt
+11:40:42:  Add Files to Group 'Rtos'
+11:40:57:  锁屏状态
+13:16:53:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:17:38:  于斌1
+13:17:43:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:17:48:  Readme.txt
+13:18:28:  CRS
+13:18:33:  RtosApi
+13:18:38:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:18:53:  D:\CRS\KE18-UP\Tools\ExConfig.xml (gfgd) - Sublime Text (UNREGISTERED)
+13:18:58:  E:\深圳出差\gfgd\Rtos\RtosApi\cmsis_os2.h (gfgd) - Sublime Text (UNREGISTERED)
+13:19:03:  E:\深圳出差\gfgd\Rtos\RtosApi\os_tick.h (gfgd) - Sublime Text (UNREGISTERED)
+13:19:13:  跳转列表
+13:19:18:  E:\深圳出差\gfgd\Rtos\RtosApi\os_tick.h (gfgd) - Sublime Text (UNREGISTERED)
+13:19:23:  E:\深圳出差\gfgd\Rtos\RtosApi\os_systick_demo1.c (gfgd) - Sublime Text (UNREGISTERED)
+13:19:43:  E:\深圳出差\gfgd\Rtos\os_systick.c (gfgd) - Sublime Text (UNREGISTERED)
+13:20:18:  E:\深圳出差\gfgd\FwLib\LWIP\LwipEth\LwipEth.c (gfgd) - Sublime Text (UNREGISTERED)
+13:20:48:  E:\深圳出差\gfgd\Rtos\cpuusage.c (gfgd) - Sublime Text (UNREGISTERED)
+13:20:58:  E:\深圳出差\gfgd\Rtos\OSLib.c (gfgd) - Sublime Text (UNREGISTERED)
+13:21:08:  E:\深圳出差\gfgd\Rtos\OSLib.h (gfgd) - Sublime Text (UNREGISTERED)
+13:21:18:  E:\深圳出差\gfgd\Rtos\utility.c (gfgd) - Sublime Text (UNREGISTERED)
+13:21:23:  E:\深圳出差\gfgd\Rtos\cpuusage.c (gfgd) - Sublime Text (UNREGISTERED)
+13:21:43:  E:\深圳出差\gfgd\Rtos\RtosApi\os_systick_demo1.c (gfgd) - Sublime Text (UNREGISTERED)
+13:21:48:  E:\深圳出差\gfgd\Rtos\RtosApi\RtosApiVersion.h (gfgd) - Sublime Text (UNREGISTERED)
+13:21:58:  程明昌
+13:22:18:  RtosApi
+13:22:23:  Rtos
+13:22:28:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:23:28:  KE18-UP
+13:23:33:  D:\CRS\KE18-UP - 版本库浏览器 - TortoiseSVN
+13:24:08:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:24:23:  D:\CRS\KE18-UP - 版本库浏览器 - TortoiseSVN
+13:24:53:  KE18-UP
+13:24:58:  Rtos
+13:25:23:  RTT
+13:25:28:  src
+13:25:33:  RTT
+13:25:38:  Rtthread
+13:25:43:  RTT
+13:25:58:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:26:08:  eSpace
+13:26:13:  src
+13:26:18:  RTT
+13:26:23:  D:\CRS\KE18-UP\Rtos\RTT\src - 还原 - TortoiseSVN
+13:26:28:  RTT
+13:26:38:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:26:43:  arm
+13:26:48:  Rtthread
+13:26:53:  kernel
+13:26:58:  include
+13:27:08:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:27:18:  include
+13:27:23:  打开方式
+13:27:28:  E:\深圳出差\gfgd\Rtos\RtosApi\RtosApiVersion.h (gfgd) - Sublime Text (UNREGISTERED)
+13:27:33:  include
+13:27:38:  D:\CRS\KE18-UP\Rtos\RTT\include - 还原 - TortoiseSVN
+13:27:43:  include
+13:27:53:  Rtos
+13:27:58:  include
+13:28:03:  RTT
+13:28:08:  include
+13:28:13:  D:\CRS\KE18-UP\Rtos\RTT\include\rtdef.h (gfgd) - Sublime Text (UNREGISTERED)
+13:28:18:  μVision
+13:28:23:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:29:44:  include
+13:29:49:  D:\00-06\BOOT\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+13:29:59:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+13:30:04:  选择文件夹
+13:28:08:  include
+13:28:13:  D:\CRS\KE18-UP\Rtos\RTT\include\rtdef.h (gfgd) - Sublime Text (UNREGISTERED)
+13:28:18:  μVision
+13:28:23:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:29:44:  include
+13:29:49:  D:\00-06\BOOT\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+13:29:59:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+13:30:04:  选择文件夹
+13:30:09:  untitled (KE18-UP) - Sublime Text (UNREGISTERED)
+13:30:24:  D:\CRS\KE18-UP\Rtos\Rtthread\kernel\src\idle.c (KE18-UP) - Sublime Text (UNREGISTERED)
+13:30:49:  D:\CRS\KE18-UP\Rtos\RTT\src\idle.c (KE18-UP) - Sublime Text (UNREGISTERED)
+13:31:24:  RTT
+13:31:29:  eSpace
+13:31:39:  00-06
+13:31:54:  B75 (G:)
+13:32:04:  桌面整理
+13:32:39:  can
+13:32:49:  K64
+13:32:54:  scope_2.bmp - Windows 照片查看器
+13:33:04:  scope_9.bmp - Windows 照片查看器
+13:33:14:  scope_6.bmp - Windows 照片查看器
+13:33:19:  scope_2.bmp - Windows 照片查看器
+13:33:24:  K64
+13:33:29:  B75 (G:)
+13:33:34:  KE18-UP
+13:33:39:  Rtos
+13:33:44:  examples
+13:33:49:  RTT
+13:33:54:  本地磁盘 (F:)
+13:33:59:  01-软件
+13:34:04:  Setup - Beyond Compare 4
+13:34:09:  Folder Exists
+13:34:14:  Setup - Beyond Compare 4
+13:34:19:  BCompare-4.0.0.18847.1418105535
+13:34:24:  CRS
+13:34:29:  eSpace
+13:34:34:  于斌1
+13:34:44:  Rtos
+13:34:54:  Rtthread <--> RTT - Folder Compare - Beyond Compare
+13:34:59:  于斌1
+13:35:14:  Rtthread <--> RTT - Folder Compare - Beyond Compare
+13:35:19:  RTT
+13:35:24:  kernel
+13:35:29:  src - Folder Compare - Beyond Compare
+13:35:34:  clock.c - Text Compare - Beyond Compare
+13:35:59:  components.c - Text Compare - Beyond Compare
+13:36:09:  device.c - Text Compare - Beyond Compare
+13:36:14:  idle.c - Text Compare - Beyond Compare
+13:37:14:  idle.c* - Text Compare - Beyond Compare
+13:37:24:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:38:44:  于斌1
+13:38:49:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:38:54:  idle.c - Text Compare - Beyond Compare
+13:39:14:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:39:39:  「开始」菜单
+13:39:44:  网易有道词典
+13:39:54:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:40:34:  src - Folder Compare - Beyond Compare
+13:40:39:  idle.c - Text Compare - Beyond Compare
+13:40:49:  kernel
+13:40:54:  D:\CRS\KE18-UP\Rtos\RTT\src\idle.c (KE18-UP) - Sublime Text (UNREGISTERED)
+13:40:59:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+13:41:24:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:41:44:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+13:42:04:  D:\CRS\KE18-UP\Rtos\Rtthread\kernel\src\idle.c (KE18-UP) - Sublime Text (UNREGISTERED)
+13:42:14:  D:\CRS\KE18-UP\Rtos\RTT\src\idle.c (KE18-UP) - Sublime Text (UNREGISTERED)
+13:42:29:  D:\CRS\KE18-UP\Rtos\RTT\include\rtdef.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:42:34:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:42:49:  D:\CRS\KE18-UP\Rtos\RTT\src\idle.c (KE18-UP) - Sublime Text (UNREGISTERED)
+13:43:04:  D:\CRS\KE18-UP\Project\build\CashSlot\ke18_rtt.build_log.htm (KE18-UP) - Sublime Text (UNREGISTERED)
+13:43:09:  D:\CRS\KE18-UP\Rtos\Rtthread\kernel\include\rtthread.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:43:34:  D:\CRS\KE18-UP\Rtos\RTT\include\rtthread.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:43:39:  D:\CRS\KE18-UP\Rtos\RTT\include\rtthread.h • (KE18-UP) - Sublime Text (UNREGISTERED)
+13:43:44:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:43:54:  于斌1
+13:44:39:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:44:54:  idle.c - Text Compare - Beyond Compare
+13:44:39:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:44:54:  idle.c - Text Compare - Beyond Compare
+13:45:14:  D:\CRS\KE18-UP\Rtos\RTT\include\rtthread.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:45:24:  D:\CRS\KE18-UP\Rtos\Rtthread\kernel\include\rtthread.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:45:44:  D:\CRS\KE18-UP\Rtos\RTT\rtconfig.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:45:49:  D:\CRS\KE18-UP\Rtos\RTT\include\rtthread.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:45:59:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:46:14:  D:\CRS\KE18-UP\Rtos\Rtthread\kernel\include\rtthread.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:46:19:  D:\CRS\KE18-UP\Rtos\RTT\include\rtthread.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:46:54:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:47:24:  D:\CRS\KE18-UP\Rtos\RTT\include\rtthread.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:47:39:  kernel
+13:47:44:  SystemView
+13:47:54:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:49:34:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+13:49:44:  D:\CRS\KE18-UP\Rtos\Rtthread\kernel\include\rtthread.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:49:49:  D:\CRS\KE18-UP\Rtos\RTT\include\rtthread.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:49:59:  D:\CRS\KE18-UP\Rtos\RTT\include\rtthread.h • (KE18-UP) - Sublime Text (UNREGISTERED)
+13:50:04:  D:\CRS\KE18-UP\Rtos\RTT\include\rtthread.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:50:09:  D:\CRS\KE18-UP\Rtos\RTT\include\rtthread.h • (KE18-UP) - Sublime Text (UNREGISTERED)
+13:50:14:  D:\CRS\KE18-UP\Rtos\Rtthread\kernel\include\rtthread.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:50:19:  D:\CRS\KE18-UP\Rtos\RTT\include\rtthread.h • (KE18-UP) - Sublime Text (UNREGISTERED)
+13:50:29:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:50:59:  D:\CRS\KE18-UP\Rtos\RTT\include\rtthread.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:51:04:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:51:54:  D:\CRS\KE18-UP\Rtos\RTT\include\rtthread.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:52:04:  D:\CRS\KE18-UP\Rtos\Rtthread\kernel\src\irq.c (KE18-UP) - Sublime Text (UNREGISTERED)
+13:52:19:  src - Folder Compare - Beyond Compare
+13:52:29:  irq.c* - Text Compare - Beyond Compare
+13:53:04:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:53:14:  D:\CRS\KE18-UP\Rtos\Rtthread\kernel\src\irq.c (KE18-UP) - Sublime Text (UNREGISTERED)
+13:53:19:  D:\CRS\KE18-UP\Rtos\Rtthread\kernel\include\rtthread.h (KE18-UP) - Sublime Text (UNREGISTERED)
+13:53:24:  D:\CRS\KE18-UP\Rtos\Rtthread\kernel\src\thread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+13:53:29:  src - Folder Compare - Beyond Compare
+13:53:39:  thread.c - Text Compare - Beyond Compare
+13:53:44:  thread.c* - Text Compare - Beyond Compare
+13:54:09:  thread.c - Text Compare - Beyond Compare
+13:54:14:  thread.c* - Text Compare - Beyond Compare
+13:54:19:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:54:49:  FwLib
+13:54:54:  RTT
+13:54:59:  src
+13:55:09:  Confirm
+13:55:14:  thread.c - Text Compare - Beyond Compare
+13:55:19:  thread.c* - Text Compare - Beyond Compare
+13:56:29:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:56:59:  μVision
+13:57:04:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:57:14:  thread.c - Text Compare - Beyond Compare
+13:57:34:  thread.c* - Text Compare - Beyond Compare
+13:58:44:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+13:58:44:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:00:59:  Beyond Compare
+14:01:04:  跳转列表
+14:01:09:  SystemView
+14:01:14:  桌面整理
+14:01:19:  SystemView
+14:01:24:  Tools
+14:01:29:  SEGGER - SystemView V2.52c Setup 
+14:01:34:  System Information | SEGGER SystemView V2.52c
+14:01:44:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:02:24:  Options for Target 'CashSlot'
+14:02:29:  Cortex JLink/JTrace Target Driver Setup
+14:02:34:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:02:44:  锁屏状态
+14:02:49:  SEGGER SystemView V2.52c | Configuration
+14:02:54:  SEGGER SystemView V2.52c - SEGGER start project [embOS] on MK66FN2M0xxx18
+14:03:04:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:03:14:  D:\CRS\KE18-UP\Rtos\Rtthread\kernel\src\thread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:03:19:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:03:34:  D:\CRS\KE18-UP\Applications\Init\Init.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:03:44:  D:\CRS\KE18-UP\Applications\Init\Init.c • (KE18-UP) - Sublime Text (UNREGISTERED)
+14:03:49:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:04:04:  SEGGER SystemView V2.52c | Configuration
+14:04:09:  SEGGER SystemView V2.52c - SEGGER start project [embOS] on MK66FN2M0xxx18
+14:04:14:  SystemView
+14:04:19:  SEGGER SystemView V2.52c | Configuration
+14:04:34:  SEGGER SystemView V2.52c - SEGGER start project [embOS] on MK66FN2M0xxx18
+14:04:44:  KE18LOG.bat - 快捷方式
+14:04:49:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:05:54:  eSpace
+14:06:04:  程明昌
+14:06:09:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:06:24:  SystemView
+14:06:29:  SEGGER - SystemView V2.52c Setup
+14:06:34:  「开始」菜单
+14:06:44:  桌面整理
+14:06:49:  「开始」菜单
+14:06:54:  System Information | SEGGER SystemView V2.52c
+14:06:59:  SEGGER SystemView V2.52c - SEGGER start project [embOS] on MK66FN2M0xxx18
+14:07:09:  SEGGER SystemView V2.52c | Configuration
+14:07:14:  SEGGER SystemView V2.52c - SEGGER start project [embOS] on MK66FN2M0xxx18
+14:07:24:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:07:54:  Readme.txt
+14:08:14:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:08:44:  KE18LOG.bat - 记事本
+14:08:49:  SEGGER SystemView V2.52c | Configuration
+14:09:09:  SystemView
+14:09:14:  SEGGER SystemView V2.52c - SEGGER start project [embOS] on MK66FN2M0xxx18
+14:09:19:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:09:29:  KE18LOG.bat - 快捷方式
+14:09:34:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:09:59:  SEGGER SystemView V2.52c - SEGGER start project [embOS] on MK66FN2M0xxx18
+14:10:04:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:10:09:  KE18LOG.bat - 快捷方式
+14:10:29:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:10:44:  Toolbox
+14:10:49:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:10:59:  irq.c - Text Compare - Beyond Compare
+14:11:09:  src - Folder Compare - Beyond Compare
+14:11:14:  thread.c - Text Compare - Beyond Compare
+14:11:19:  thread.c* - Text Compare - Beyond Compare
+14:11:59:  thread.c - Text Compare - Beyond Compare
+14:12:09:  D:\CRS\KE18-UP\Applications\Init\Init.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:12:14:  D:\CRS\KE18-UP\Rtos\Rtthread\kernel\include\rtthread.h (KE18-UP) - Sublime Text (UNREGISTERED)
+14:12:29:  D:\CRS\KE18-UP\Rtos\Rtthread\kernel\src\object.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:12:34:  src - Folder Compare - Beyond Compare
+14:12:44:  object.c - Text Compare - Beyond Compare
+14:12:54:  object.c* - Text Compare - Beyond Compare
+14:13:44:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:14:54:  RTT
+14:14:59:  src
+14:15:04:  D:\CRS\KE18-UP\Rtos\RTT\src - 还原 - TortoiseSVN
+14:14:54:  RTT
+14:14:59:  src
+14:15:04:  D:\CRS\KE18-UP\Rtos\RTT\src - 还原 - TortoiseSVN
+14:15:09:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:15:14:  object.c - Text Compare - Beyond Compare
+14:15:19:  Confirm
+14:15:24:  thread.c - Text Compare - Beyond Compare
+14:15:29:  thread.c* - Text Compare - Beyond Compare
+14:15:44:  thread.c - Text Compare - Beyond Compare
+14:15:49:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:16:14:  src
+14:16:19:  Rtos
+14:16:24:  D:\CRS\KE18-UP\Rtos - 工作副本 - TortoiseSVN
+14:16:29:  rtdef.h - TortoiseMerge
+14:16:44:  D:\CRS\KE18-UP\Rtos - 工作副本 - TortoiseSVN
+14:16:49:  Rtos
+14:16:54:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:17:34:  Rtos
+14:17:39:  src - Folder Compare - Beyond Compare
+14:17:49:  KE18-UP
+14:17:54:  RTT
+14:17:59:  include - Folder Compare - Beyond Compare
+14:18:09:  rtdef.h* - Text Compare - Beyond Compare
+14:20:29:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:21:09:  KE18-UP
+14:21:14:  InstrExe.c - TortoiseMerge
+14:21:19:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+14:21:24:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:21:29:  InstrExe.c - TortoiseMerge
+14:21:34:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:21:44:  InstrExe.c - TortoiseMerge
+14:21:59:  D:\CRS\KE18-UP\Rtos\Rtthread\kernel\src\object.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:22:04:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:22:19:  D:\CRS\KE18-UP\Applications\InstrExp\InstrExe.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:22:24:  D:\CRS\KE18-UP\Applications\InstrExp\InstrExe.c • (KE18-UP) - Sublime Text (UNREGISTERED)
+14:22:34:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:22:44:  D:\CRS\KE18-UP\Applications\InstrExp\InstrExe.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:22:49:  D:\CRS\KE18-UP\Rtos\RTT\src\device.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:22:54:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+14:22:59:  选择文件夹
+14:23:04:  untitled (666) - Sublime Text (UNREGISTERED)
+14:23:14:  D:\CRS\666\Rtos\RTT\src\object.c (666) - Sublime Text (UNREGISTERED)
+14:23:29:  RTT
+14:23:34:  src
+14:23:39:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:24:04:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+14:24:09:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:24:14:  跳转列表
+14:24:19:  「开始」菜单
+14:24:24:  System Information | SEGGER SystemView V2.52c
+14:24:29:  SEGGER SystemView V2.52c - TCR K64 [RT-Thread] on Cortex-M4
+14:24:39:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:24:44:  于斌1
+14:24:49:  锁屏状态
+14:24:54:  SEGGER SystemView V2.52c
+14:25:04:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:25:19:  include - Folder Compare - Beyond Compare
+14:25:24:  src
+14:25:44:  KE18LOG.bat - 记事本
+14:25:49:  RTT
+14:25:54:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+14:26:04:  Rtos
+14:26:09:  压缩文件名和参数
+14:26:14:  未命名 - 写邮件
+14:26:24:  Rtos
+14:31:00:  Microsoft Windows
+14:32:15:  Rtos
+14:32:20:  include - Folder Compare - Beyond Compare
+14:32:25:  于斌1
+14:32:45:  include - Folder Compare - Beyond Compare
+14:32:55:  锁屏状态
+14:33:00:  Rtos
+14:33:05:  src
+14:33:10:  RTT
+14:33:15:  Rtos
+14:33:20:  rtdef.h - TortoiseMerge
+14:33:40:  rtthread.h - TortoiseMerge
+14:33:45:  Rtos
+14:33:50:  RTT
+14:33:55:  kernel
+14:34:00:  src - Folder Compare - Beyond Compare
+14:34:05:  timer.c - Text Compare - Beyond Compare
+14:34:30:  程明昌
+14:34:50:  D:\CRS\666\Rtos\RTT\src\object.c (666) - Sublime Text (UNREGISTERED)
+14:35:00:  D:\CRS\KE18-UP\Rtos\RTT\src\device.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:35:10:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:35:25:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:35:55:  于斌1
+14:36:05:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:37:15:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:37:20:  锁屏状态
+14:37:25:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:37:30:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:37:50:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:40:40:  Microsoft Windows
+14:41:10:  timer.c - Text Compare - Beyond Compare
+14:41:20:  D:\CRS\KE18-UP\Rtos\RTT\src\idle.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:41:25:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:42:25:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:42:40:  D:\CRS\KE18-UP\FwLib\SystemView\Config\SEGGER_SYSVIEW_Conf.h (KE18-UP) - Sublime Text (UNREGISTERED)
+14:42:55:  于斌1
+14:43:05:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:43:10:  于斌1
+14:43:20:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:43:25:  D:\CRS\KE18-UP\Rtos\RTT\src\irq.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:43:55:  timer.c - Text Compare - Beyond Compare
+14:44:00:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:44:15:  本地磁盘 (D:)
+14:44:40:  本地磁盘 (E:)
+14:44:50:  本地磁盘 (C:)
+14:45:00:  06- 刘建生
+14:44:15:  本地磁盘 (D:)
+14:44:40:  本地磁盘 (E:)
+14:44:50:  本地磁盘 (C:)
+14:45:00:  06- 刘建生
+14:45:25:  于斌1
+14:46:30:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:46:50:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:47:00:  于斌1
+14:47:10:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:47:15:  于斌1
+14:47:25:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:47:55:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:48:10:  D:\CRS\KE18-UP\Rtos\RTT\src\irq.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:48:20:  D:\CRS\KE18-UP\Rtos\RTT\include\rtdef.h (KE18-UP) - Sublime Text (UNREGISTERED)
+14:48:30:  D:\CRS\KE18-UP\Rtos\RTT\src\irq.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:48:50:  网易有道词典
+14:49:05:  D:\CRS\KE18-UP\Rtos\RTT\src\irq.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:49:10:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:49:25:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:49:35:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.h (KE18-UP) - Sublime Text (UNREGISTERED)
+14:49:40:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:49:55:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:50:10:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:50:30:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:50:40:  于斌1
+14:50:55:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:52:15:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:52:40:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\FreeRTOSV10\Config\SEGGER_SYSVIEW_Config_FreeRTOS.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:52:50:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\FreeRTOSV10\SEGGER_SYSVIEW_FreeRTOS.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:52:55:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\FreeRTOSV10\Config\SEGGER_SYSVIEW_Config_FreeRTOS.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:53:10:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:53:20:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\FreeRTOSV10\Config\SEGGER_SYSVIEW_Config_FreeRTOS.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:53:35:  网易有道词典
+14:53:55:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\FreeRTOSV10\Config\SEGGER_SYSVIEW_Config_FreeRTOS.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:54:15:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:54:25:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\FreeRTOSV10\Config\SEGGER_SYSVIEW_Config_FreeRTOS.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:54:35:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:54:45:  「开始」菜单
+14:54:50:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:55:00:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:55:10:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\FreeRTOSV10\Config\SEGGER_SYSVIEW_Config_FreeRTOS.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:55:30:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:55:35:  于斌1
+14:56:45:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\FreeRTOSV10\Config\SEGGER_SYSVIEW_Config_FreeRTOS.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:57:00:  D:\CRS\KE18-UP\FwLib\SystemView\SystemViewConfig.h (KE18-UP) - Sublime Text (UNREGISTERED)
+14:57:10:  于斌1
+14:57:45:  D:\CRS\KE18-UP\FwLib\SystemView\SystemViewConfig.h (KE18-UP) - Sublime Text (UNREGISTERED)
+14:58:00:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:58:05:  「开始」菜单
+14:58:10:  SEGGER SystemView V2.52c | Configuration
+14:58:15:  SEGGER SystemView V2.52c - TCR K64 [RT-Thread] on Cortex-M4
+14:58:50:  D:\CRS\KE18-UP\FwLib\SystemView\SystemViewConfig.h (KE18-UP) - Sublime Text (UNREGISTERED)
+14:59:00:  SEGGER SystemView V2.52c - TCR K64 [RT-Thread] on Cortex-M4
+14:59:05:  D:\CRS\KE18-UP\FwLib\SystemView\SystemViewConfig.h (KE18-UP) - Sublime Text (UNREGISTERED)
+14:59:15:  D:\CRS\KE18-UP\FwLib\SystemView\SystemViewConfig.h • (KE18-UP) - Sublime Text (UNREGISTERED)
+14:59:20:  D:\CRS\KE18-UP\FwLib\SystemView\SystemViewConfig.h (KE18-UP) - Sublime Text (UNREGISTERED)
+14:59:25:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:59:30:  于斌1
+14:58:05:  「开始」菜单
+14:58:10:  SEGGER SystemView V2.52c | Configuration
+14:58:15:  SEGGER SystemView V2.52c - TCR K64 [RT-Thread] on Cortex-M4
+14:58:50:  D:\CRS\KE18-UP\FwLib\SystemView\SystemViewConfig.h (KE18-UP) - Sublime Text (UNREGISTERED)
+14:59:00:  SEGGER SystemView V2.52c - TCR K64 [RT-Thread] on Cortex-M4
+14:59:05:  D:\CRS\KE18-UP\FwLib\SystemView\SystemViewConfig.h (KE18-UP) - Sublime Text (UNREGISTERED)
+14:59:15:  D:\CRS\KE18-UP\FwLib\SystemView\SystemViewConfig.h • (KE18-UP) - Sublime Text (UNREGISTERED)
+14:59:20:  D:\CRS\KE18-UP\FwLib\SystemView\SystemViewConfig.h (KE18-UP) - Sublime Text (UNREGISTERED)
+14:59:25:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+14:59:30:  于斌1
+15:00:40:  D:\CRS\KE18-UP\FwLib\SystemView\SystemViewConfig.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:00:50:  D:\CRS\KE18-UP\Drivers\FtmDriver\CapDriver.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:01:50:  D:\CRS\KE18-UP\Drivers\FtmDriver\CompDriver.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:02:05:  D:\CRS\KE18-UP\Cpu\startup_MKE18F16.s (KE18-UP) - Sublime Text (UNREGISTERED)
+15:02:55:  DMA0_DriverIRQHandler • (KE18-UP) - Sublime Text (UNREGISTERED)
+15:03:15:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:03:20:  D:\CRS\KE18-UP\Drivers\FtmDriver\FtmDriver.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:03:30:  D:\CRS\KE18-UP\Drivers\Ke18Bsp\fsl_ftm.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:03:40:  D:\CRS\KE18-UP\Cpu\MKE18F16.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:03:45:  D:\CRS\KE18-UP\Drivers\FtmDriver\FtmConfig.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:03:55:  D:\CRS\KE18-UP\Drivers\FtmDriver\FtmDriver.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:04:00:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\FreeRTOSV10\SEGGER_SYSVIEW_FreeRTOS.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:04:10:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:04:15:  D:\CRS\KE18-UP\FwLib\SystemView\Config\SEGGER_SYSVIEW_Conf.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:04:50:  D:\CRS\KE18-UP\Drivers\FtmDriver\PwmDriver.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:05:00:  D:\CRS\KE18-UP\Drivers\Ke18Bsp\fsl_ftm.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:05:05:  D:\CRS\KE18-UP\Cpu\MKE18F16.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:05:10:  D:\CRS\KE18-UP\Drivers\Ke18Bsp\fsl_ftm.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:05:25:  D:\CRS\KE18-UP\Cpu\MKE18F16_features.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:05:30:  D:\CRS\KE18-UP\Drivers\FtmDriver\CapDriver.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:05:35:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\Config\SEGGER_SYSVIEW_Config_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:05:55:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:06:05:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:06:15:  D:\CRS\KE18-UP\FwLib\SystemView\Config\SEGGER_SYSVIEW_Conf.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:06:20:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:06:30:  D:\CRS\KE18-UP\FwLib\SystemView\Config\SEGGER_SYSVIEW_Conf.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:06:45:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\NoOS\Config\RX\SEGGER_SYSVIEW_Config_NoOS.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:07:20:  D:\CRS\KE18-UP\FwLib\SystemView\Config\SEGGER_SYSVIEW_Conf.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:07:50:  D:\CRS\KE18-UP\Drivers\UartDriver\UartDriver.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:08:10:  D:\CRS\KE18-UP\Cpu\startup_MKE18F16.s (KE18-UP) - Sublime Text (UNREGISTERED)
+15:09:10:  DCD     NMI_Handler                         ;NMI • (KE18-UP) - Sublime Text (UNREGISTERED)
+15:09:15:  于斌1
+15:09:25:  DCD     NMI_Handler                         ;NMI • (KE18-UP) - Sublime Text (UNREGISTERED)
+15:09:35:  程明昌
+15:09:40:  于斌1
+15:10:00:  程明昌
+15:10:45:  SEGGER SystemView V2.52c - TCR K64 [RT-Thread] on Cortex-M4
+15:10:50:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:11:00:  于斌1
+15:11:10:  SEGGER SystemView V2.52c - TCR K64 [RT-Thread] on Cortex-M4
+15:11:25:  D:\CRS\KE18-UP\Drivers\UartDriver\UartDriver.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:11:35:  SEGGER SystemView V2.52c - TCR K64 [RT-Thread] on Cortex-M4
+15:11:40:  Rtos
+15:11:45:  D:\CRS\KE18-UP\Rtos - 工作副本 - TortoiseSVN
+15:11:55:  thread.c - TortoiseMerge
+15:12:05:  D:\CRS\KE18-UP\Rtos - 工作副本 - TortoiseSVN
+15:12:10:  SEGGER SystemView V2.52c - TCR K64 [RT-Thread] on Cortex-M4
+15:12:25:  DCD     NMI_Handler                         ;NMI • (KE18-UP) - Sublime Text (UNREGISTERED)
+15:12:40:  DCD     NMI_Handler • (KE18-UP) - Sublime Text (UNREGISTERED)
+15:12:55:  SEGGER SystemView V2.52c - TCR K64 [RT-Thread] on Cortex-M4
+15:13:05:  D:\CRS\KE18-UP\FwLib\SystemView\Config\SEGGER_SYSVIEW_Conf.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:13:10:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:13:15:  D:\CRS\KE18-UP\FwLib\SystemView\Config\SEGGER_SYSVIEW_Conf.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:13:25:  SEGGER SystemView V2.52c - TCR K64 [RT-Thread] on Cortex-M4
+15:13:30:  D:\CRS\KE18-UP\FwLib\SystemView\Config\SEGGER_SYSVIEW_Conf.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:13:35:  于斌1
+15:13:45:  D:\CRS\KE18-UP\Cpu\startup_MKE18F16.s (KE18-UP) - Sublime Text (UNREGISTERED)
+15:13:50:  锁屏状态
+15:13:55:  SEGGER SystemView V2.52c - TCR K64 [RT-Thread] on Cortex-M4
+15:14:55:  D:\CRS\KE18-UP\Drivers\UartDriver\UartDriver.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:15:00:  D:\CRS\KE18-UP\FwLib\SystemView\Config\SEGGER_SYSVIEW_Conf.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:14:55:  D:\CRS\KE18-UP\Drivers\UartDriver\UartDriver.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:15:00:  D:\CRS\KE18-UP\FwLib\SystemView\Config\SEGGER_SYSVIEW_Conf.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:15:05:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\Rtthread\SEGGER_SYSVIEW_RTThread.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:15:25:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:15:30:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:15:40:  SEGGER SystemView V2.52c - TCR K64 [RT-Thread] on Cortex-M4
+15:16:25:  D:\CRS\KE18-UP\FwLib\SystemView\SEGGER\SEGGER_SYSVIEW.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:16:35:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\FreeRTOSV10\Config\SEGGER_SYSVIEW_Config_FreeRTOS.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:16:45:  D:\CRS\KE18-UP\FwLib\SystemView\Sample\FreeRTOSV10\SEGGER_SYSVIEW_FreeRTOS.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:16:50:  于斌1
+15:17:55:  SEGGER SystemView V2.52c - TCR K64 [RT-Thread] on Cortex-M4
+15:18:05:  06 固件日报
+15:18:15:  于斌1
+15:19:00:  06 固件日报
+15:19:10:  共享文件
+15:19:15:  原理图
+15:19:20:  EXTFEDAD3V10出入钞口转接板.PDF - Adobe Reader
+15:19:35:  原理图
+15:19:40:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:21:35:  CRS调测工具（研发版）V1.0.2.1
+15:21:55:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:23:35:  CRS调测工具（研发版）V1.0.2.1
+15:23:50:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:24:00:  CRS调测工具（研发版）V1.0.2.1
+15:24:35:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:25:00:  CRS调测工具（研发版）V1.0.2.1
+15:26:00:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:27:15:  Microsoft Windows
+15:27:20:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:28:45:  于斌1
+15:29:00:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:29:05:  CRS调测工具（研发版）V1.0.2.1
+15:28:45:  于斌1
+15:29:00:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:29:05:  CRS调测工具（研发版）V1.0.2.1
+15:30:25:  D:\CRS\666\Rtos\RTT\src\object.c (666) - Sublime Text (UNREGISTERED)
+15:30:35:  untitled (666) - Sublime Text (UNREGISTERED)
+15:31:35:  CRS调测工具（研发版）V1.0.2.1
+15:36:45:  原理图
+15:36:50:  06- 刘建生
+15:36:55:  01 CRS项目
+15:37:00:  06- 刘建生
+15:37:35:  06 固件日报
+15:37:40:  TCR
+15:37:45:  固件集成测试方案
+15:37:55:  5.16.17 Can总线.pptx - PowerPoint
+15:38:30:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+15:41:00:  5.16.17 Can总线.pptx - PowerPoint
+15:41:45:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:48:10:  CRS调测工具（研发版）V1.0.2.1
+15:57:10:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+15:57:45:  5.16.17 Can总线.pptx - PowerPoint
+15:57:55:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+15:58:00:  5.16.17 Can总线.pptx - PowerPoint
+15:58:05:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+15:58:35:  5.16.17 Can总线.pptx - PowerPoint
+15:58:40:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+15:58:05:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+15:58:35:  5.16.17 Can总线.pptx - PowerPoint
+15:58:40:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+16:02:00:  Microsoft Windows
+16:02:10:  B75 (G:)
+16:02:20:  桌面整理
+16:02:30:  B75 (G:)
+16:02:40:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+16:03:30:  锁屏状态
+16:03:35:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+16:04:35:  5.16.17 Can总线.pptx - PowerPoint
+16:04:55:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+16:06:35:  5.16.17 Can总线.pptx - PowerPoint
+16:07:55:  于斌1
+16:08:00:  5.16.17 Can总线.pptx - PowerPoint
+16:08:30:  eSpace
+16:08:55:  于斌1
+16:09:20:  eSpace
+16:11:05:  CRS调测工具（研发版）V1.0.2.1
+16:14:25:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+16:14:25:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+16:16:05:  「开始」菜单
+16:16:10:  计算器
+16:16:35:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+16:17:40:  5.16.17 Can总线.pptx - PowerPoint
+16:18:05:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+16:18:30:  can
+16:18:35:  scope_6.bmp - Windows 照片查看器
+16:18:40:  scope_4.bmp - Windows 照片查看器
+16:18:45:  K64
+16:19:40:  5.16.17 Can总线.pptx - PowerPoint
+16:19:50:  K64
+16:24:10:  于斌1
+16:25:00:  CRS调测工具（研发版）V1.0.2.1
+16:26:30:  5.16.17 Can总线.pptx - PowerPoint
+16:26:35:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+16:36:36:  于斌1
+16:36:41:  Microsoft Windows
+16:36:46:  于斌1
+16:36:51:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+16:36:56:  5.16.17 Can总线.pptx - PowerPoint
+16:37:01:  于斌1
+16:37:06:  5.16.17 Can总线.pptx - PowerPoint
+16:39:01:  于斌1
+16:39:06:  eSpace
+16:39:11:  于斌1
+16:39:21:  eSpace
+16:39:26:  SonarQube - Google Chrome
+16:39:31:  Possible access of out-of-bounds pointer (1 beyond end of data) by operator '[' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\PeripheralDriver\Ke06bsp\ftm.c: lines 302, 323] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:39:36:  项目总览 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:39:41:  New Issues - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:39:51:  5.16.17 Can总线.pptx - PowerPoint
+16:40:06:  另存为
+16:40:11:  5.16.17 Can总线.pptx - PowerPoint
+16:40:16:  桌面整理
+16:40:21:  正在打开 - PowerPoint
+16:40:26:  5.16.17 Can总线.pptx - PowerPoint
+16:40:41:  scope_2.bmp - Windows 照片查看器
+16:40:46:  scope_12.bmp - Windows 照片查看器
+16:40:51:  scope_2.bmp - Windows 照片查看器
+16:40:56:  scope_3.bmp - Windows 照片查看器
+16:41:01:  scope_2.bmp - Windows 照片查看器
+16:41:16:  新标签页 - Google Chrome
+16:41:21:  K64
+16:41:26:  scope_13.bmp - Windows 照片查看器
+16:41:31:  scope_3.bmp - Windows 照片查看器
+16:41:36:  scope_7.bmp - Windows 照片查看器
+16:41:46:  scope_9.bmp - Windows 照片查看器
+16:41:56:  K64
+16:42:01:  5.16.17 Can总线.pptx - PowerPoint
+16:42:31:  插入图片
+16:42:36:  scope_2.bmp - Windows 照片查看器
+16:42:41:  新标签页 - Google Chrome
+16:42:46:  scope_2.bmp - Windows 照片查看器
+16:42:51:  scope_4.bmp - Windows 照片查看器
+16:42:56:  scope_6.bmp - Windows 照片查看器
+16:43:01:  scope_9.bmp - Windows 照片查看器
+16:43:11:  scope_13.bmp - Windows 照片查看器
+16:43:16:  can
+16:44:11:  B75 (G:)
+16:44:16:  scope_15.bmp - Windows 照片查看器
+16:44:21:  scope_19.bmp - Windows 照片查看器
+16:44:26:  B75 (G:)
+16:44:31:  KE18
+16:44:36:  scope_22.bmp - Windows 照片查看器
+16:44:41:  scope_25.bmp - Windows 照片查看器
+16:44:46:  scope_29.bmp - Windows 照片查看器
+16:44:51:  can
+16:44:56:  新标签页 - Google Chrome
+16:45:01:  登录页面 - 数据抓取工具 - Google Chrome
+16:44:11:  B75 (G:)
+16:44:16:  scope_15.bmp - Windows 照片查看器
+16:44:21:  scope_19.bmp - Windows 照片查看器
+16:44:26:  B75 (G:)
+16:44:31:  KE18
+16:44:36:  scope_22.bmp - Windows 照片查看器
+16:44:41:  scope_25.bmp - Windows 照片查看器
+16:44:46:  scope_29.bmp - Windows 照片查看器
+16:44:51:  can
+16:44:56:  新标签页 - Google Chrome
+16:45:01:  登录页面 - 数据抓取工具 - Google Chrome
+16:45:06:  数据抓取工具 - Google Chrome
+16:45:26:  Excel
+16:45:31:  个人周报-张开发 (58).xlsx  [受保护的视图] - Excel
+16:45:36:  个人周报-张开发 (58).xlsx - Excel
+16:49:01:  数据抓取工具 - Google Chrome
+16:49:06:  打开
+16:49:11:  数据抓取工具 - Google Chrome
+16:49:16:  Subversion
+16:49:21:  文档
+16:49:26:  W
+16:49:31:  2020-12-10.txt - 记事本
+16:49:36:  Subversion
+16:49:41:  个人周报-张开发 (58).xlsx - Excel
+16:50:01:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+16:50:06:  打开
+16:50:11:  数据抓取工具 - Google Chrome
+16:50:16:  运行
+16:50:21:  06- 刘建生
+16:50:26:  日报
+16:50:31:  周报及工作日志.xlsx  [受保护的视图] - Excel
+16:50:41:  周报及工作日志.xlsx - Excel
+16:50:46:  于斌1
+16:50:56:  周报及工作日志.xlsx - Excel
+16:52:11:  K64_0000_20201211095245.log - DRB.tat* - TextAnalysisTool.NET
+16:52:16:  于斌1
+16:52:26:  周报及工作日志.xlsx - Excel
+16:53:41:  Subversion
+16:53:46:  个人周报-张开发 (58).xlsx - Excel
+16:53:56:  周报及工作日志.xlsx - Excel
+16:54:36:  于斌1
+16:58:16:  Microsoft Windows
+16:58:16:  Microsoft Windows
+17:16:11:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+17:16:21:  程明昌
+17:16:26:  桌面整理
+17:17:11:  新建文件夹 (2)
+17:17:16:  Subversion
+17:17:21:  deng
+17:17:36:  印象笔记
+17:17:41:  deng.rar - 印象笔记
+17:17:46:  所有笔记本 - 张开发 - 印象笔记
+17:17:56:  桌面整理
+17:18:01:  所有笔记本 - 张开发 - 印象笔记
+17:18:06:  0-工作 - 张开发 - 印象笔记
+17:18:11:  所有笔记本 - 张开发 - 印象笔记
+17:18:16:  桌面整理
+17:18:21:  所有笔记本 - 张开发 - 印象笔记
+17:18:26:  锁屏状态

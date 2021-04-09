@@ -1,0 +1,1561 @@
+08:25:07:  张健4
+08:25:52:  未命名 - 写邮件
+08:25:57:  张健4
+08:26:07:  未命名 - 写邮件
+08:27:27:  未命名 - 写邮件   08:26:48 已保存
+08:28:52:  未命名 - 写邮件   08:28:48 已保存
+08:28:52:  未命名 - 写邮件   08:28:48 已保存
+08:30:12:  未命名 - 写邮件   08:29:48 已保存
+08:30:52:  未命名 - 写邮件   08:30:48 已保存
+08:31:52:  未命名 - 写邮件   08:31:48 已保存
+08:32:52:  未命名 - 写邮件   08:32:48 已保存
+08:33:52:  未命名 - 写邮件   08:33:48 已保存
+08:34:52:  未命名 - 写邮件   08:34:48 已保存
+08:35:52:  未命名 - 写邮件   08:35:49 已保存
+08:36:52:  未命名 - 写邮件   08:36:49 已保存
+08:37:52:  未命名 - 写邮件   08:37:49 已保存
+08:39:52:  未命名 - 写邮件   08:39:49 已保存
+08:40:52:  未命名 - 写邮件   08:40:49 已保存
+08:41:52:  未命名 - 写邮件   08:41:49 已保存
+08:42:52:  未命名 - 写邮件   08:42:49 已保存
+08:43:52:  未命名 - 写邮件   08:43:49 已保存
+08:44:52:  未命名 - 写邮件   08:44:49 已保存
+08:44:52:  未命名 - 写邮件   08:44:49 已保存
+08:45:52:  未命名 - 写邮件   08:45:49 已保存
+08:48:52:  未命名 - 写邮件   08:48:49 已保存
+08:49:52:  未命名 - 写邮件   08:49:49 已保存
+08:50:32:  00-06
+08:50:37:  本地磁盘 (D:)
+08:50:42:  KE18-UP
+08:50:57:  .s - “KE18-BOOT”中的搜索结果
+08:51:02:  startup_MKE18F16.s - 记事本
+08:51:17:  .s - “KE18-BOOT”中的搜索结果
+08:51:22:  未命名 - 写邮件   08:50:49 已保存
+08:51:52:  未命名 - 写邮件   08:51:49 已保存
+08:52:52:  未命名 - 写邮件   08:52:49 已保存
+08:53:52:  未命名 - 写邮件   08:53:49 已保存
+08:54:52:  未命名 - 写邮件   08:54:49 已保存
+08:55:52:  未命名 - 写邮件   08:55:49 已保存
+08:56:52:  未命名 - 写邮件   08:56:49 已保存
+08:57:07:  KE18 - 写邮件   08:56:49 已保存
+08:57:12:  KE18通用BOOT芯片锁问题 - 写邮件   08:56:49 已保存
+08:57:32:  .s - “KE18-BOOT”中的搜索结果
+08:57:37:  张健4
+08:57:42:  Box_1__BTCR-1100190803000_20201010101211.log - DRB.tat* - TextAnalysisTool.NET
+08:57:47:  本地磁盘 (D:)
+08:57:52:  CRS-64-1
+08:57:57:  E:\深圳出差\CRS-64-1 - 日志信息 - TortoiseSVN
+08:58:02:  合并
+08:58:07:   - 版本库浏览器 - TortoiseSVN
+08:58:17:  E:\深圳出差\CRS-64-1 - 合并 仅测试 - TortoiseSVN
+08:58:32:  合并 仅测试 完成！
+08:58:42:  合并
+08:58:47:  E:\深圳出差\CRS-64-1 - 合并 - TortoiseSVN
+08:58:57:  解决冲突
+08:59:02:  E:\深圳出差\CRS-64-1 - 合并 - TortoiseSVN
+08:59:12:  CRS-64-1
+08:59:22:  μVision
+08:59:27:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+08:58:07:   - 版本库浏览器 - TortoiseSVN
+08:58:17:  E:\深圳出差\CRS-64-1 - 合并 仅测试 - TortoiseSVN
+08:58:32:  合并 仅测试 完成！
+08:58:42:  合并
+08:58:47:  E:\深圳出差\CRS-64-1 - 合并 - TortoiseSVN
+08:58:57:  解决冲突
+08:59:02:  E:\深圳出差\CRS-64-1 - 合并 - TortoiseSVN
+08:59:12:  CRS-64-1
+08:59:22:  μVision
+08:59:27:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:07:48:  回复: KE18通用BOOT芯片锁问题
+09:11:08:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:11:48:  Project
+09:11:53:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:13:08:  CRS-64-1
+09:13:13:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+09:13:38:  InstrProc1D.c - TortoiseMerge
+09:13:43:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+09:13:58:  InstrProc1A.c - TortoiseMerge
+09:14:03:  TortoiseMerge
+09:14:08:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+09:14:13:  FlowCtrl.c - TortoiseMerge
+09:14:43:  CRS-64-1
+09:14:48:  Applications
+09:14:53:  FlowControl
+09:14:08:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+09:14:13:  FlowCtrl.c - TortoiseMerge
+09:14:43:  CRS-64-1
+09:14:48:  Applications
+09:14:53:  FlowControl
+09:15:08:  Project
+09:15:13:  本地磁盘 (D:)
+09:15:18:  CRS-64
+09:15:28:  00-KE64
+09:15:38:  press2
+09:15:43:  FlowControl
+09:15:53:  本地磁盘 (D:)
+09:15:58:  FlowControl
+09:16:08:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:16:13:  FlowControl
+09:16:18:  Applications
+09:16:23:  FlowControl
+09:16:28:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress - 日志信息 - TortoiseSVN
+09:16:33:  更新 完成！
+09:16:38:  FlowControl
+09:16:48:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress - 更新 - TortoiseSVN
+09:16:53:  FlowControl
+09:16:58:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress - 更新 - TortoiseSVN
+09:17:03:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress - 日志信息 - TortoiseSVN
+09:17:08:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress - 更新 - TortoiseSVN
+09:17:13:   - 版本库浏览器 - TortoiseSVN
+09:17:18:  检出 完成！
+09:17:23:  FlowControl
+09:17:33:  还原 完成！
+09:17:38:  Applications
+09:17:43:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+09:17:48:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:17:53:  Add Files to Group 'Applications'
+09:18:03:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:21:23:  Applications
+09:21:33:  CashPress
+09:21:38:  PressModuleIF.c - TortoiseMerge
+09:21:53:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:22:13:  D:\00-06\DRB--\Middlewares\Plate\UpperPlate.c (DRB--) - Sublime Text (UNREGISTERED)
+09:22:18:  untitled (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:22:28:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:22:48:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:22:58:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:23:03:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:23:08:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:23:23:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:23:28:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:23:33:  untitled (trunk) - Sublime Text (UNREGISTERED)
+09:23:43:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:24:03:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+09:24:13:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:24:18:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:24:23:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:24:38:  PressModuleIF.h - 记事本
+09:24:43:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:25:23:  CashPress
+09:25:28:  E:\深圳出差\CRS-64-1\Applications - 日志信息 - TortoiseSVN
+09:25:38:  PressModuleIF.c - TortoiseMerge
+09:25:43:  PressModuleIF.h - TortoiseMerge
+09:25:48:  E:\深圳出差\CRS-64-1\Applications - 日志信息 - TortoiseSVN
+09:25:58:  Applications
+09:26:08:  E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:26:18:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:26:28:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+09:26:33:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.h • (trunk) - Sublime Text (UNREGISTERED)
+09:26:38:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:26:43:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+09:26:48:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:26:53:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:27:08:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:27:13:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:27:18:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.h • (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:27:28:  untitled (trunk) - Sublime Text (UNREGISTERED)
+09:27:33:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:27:38:  D:\00-KE64\trunk\Applications\FlowControl\TrackAdapter\AdapterModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+09:27:58:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:08:  D:\00-KE64\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+09:28:18:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:28:23:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:28:28:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:28:08:  D:\00-KE64\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+09:28:18:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:28:23:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:28:28:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:30:38:  E:\深圳出差\CRS-64-1\Applications - 日志信息 - TortoiseSVN
+09:30:43:  TortoiseSVN
+09:30:48:  E:\深圳出差\CRS-64-1\Applications - 日志信息 - TortoiseSVN
+09:30:53:  CashBoxCmd.c Revision 537 - TortoiseMerge
+09:31:03:  TortoiseMerge
+09:31:08:  CashBoxCmd.c Revision 537 - TortoiseMerge
+09:31:18:  E:\深圳出差\CRS-64-1\Applications - 日志信息 - TortoiseSVN
+09:31:23:  Applications
+09:31:43:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:32:08:  CanComm
+09:32:13:  CashBoxComm
+09:32:23:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:32:28:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:32:33:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.h (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:32:53:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:33:38:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:33:48:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm - 工作副本 - TortoiseSVN
+09:33:58:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:34:23:  CanComm
+09:34:28:  E:\深圳出差\CRS-64-1\Applications\CanComm - 日志信息 - TortoiseSVN
+09:34:33:  CashBoxCmd.c Revision 537 - TortoiseMerge
+09:34:53:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:35:03:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:35:18:  E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+09:35:23:  Applications
+09:35:28:  Application.c - TortoiseMerge
+09:35:38:  E:\深圳出差\CRS-64-1\Applications - 工作副本 - TortoiseSVN
+09:35:43:  CashBoxCmd.c - TortoiseMerge
+09:35:53:  E:\深圳出差\CRS-64-1\Applications - 工作副本 - TortoiseSVN
+09:35:58:  E:\深圳出差\CRS-64-1\Applications - 日志信息 - TortoiseSVN
+09:36:08:  E:\深圳出差\CRS-64-1\Applications - 工作副本 - TortoiseSVN
+09:36:13:  CashBoxCmd.c - TortoiseMerge
+09:36:23:  Applications
+09:36:28:  E:\深圳出差\CRS-64-1\Applications - 日志信息 - TortoiseSVN
+09:36:48:  CRS-64-1
+09:36:53:  CashBoxCmd.c - TortoiseMerge
+09:37:08:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+09:37:13:  E:\深圳出差\CRS-64-1 - 日志信息 - TortoiseSVN
+09:37:18:  CashBoxCmd.c Revision 537 - TortoiseMerge
+09:37:38:  E:\深圳出差\CRS-64-1 - 日志信息 - TortoiseSVN
+09:37:43:  CashBoxComm.c Revision 537 - TortoiseMerge
+09:37:48:  E:\深圳出差\CRS-64-1 - 日志信息 - TortoiseSVN
+09:37:58:  ComponentCtrl.c Revision 537 - TortoiseMerge
+09:38:03:  深圳出差
+09:38:08:  检出
+09:38:13:  BR-1-CashBox - 检出 - TortoiseSVN
+09:38:43:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+09:39:54:  33
+09:39:59:  合并
+09:40:04:   - 版本库浏览器 - TortoiseSVN
+09:40:14:  合并
+09:40:19:  E:\深圳出差\33 - 合并 仅测试 - TortoiseSVN
+09:40:29:  合并 仅测试 完成！
+09:40:34:  E:\深圳出差\33 - 合并 - TortoiseSVN
+09:40:54:  合并 完成！
+09:41:24:  Applications
+09:41:29:  FlowControl
+09:42:04:  E:\深圳出差\33\Applications\FlowControl\CashPress - 日志信息 - TortoiseSVN
+09:42:09:  FlowControl
+09:42:14:   - 版本库浏览器 - TortoiseSVN
+09:42:24:  FlowControl
+09:42:29:   - 版本库浏览器 - TortoiseSVN
+09:42:39:  FlowControl
+09:42:49:  Applications
+09:42:59:  PressModuleIF.c - TortoiseMerge
+09:43:04:  E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress - 日志信息 - TortoiseSVN
+09:43:09:  Applications
+09:43:19:  桌面整理
+09:43:24:  BR-1-CashBox - 检出 - TortoiseSVN
+09:43:44:  检出 完成！
+09:44:34:  33
+09:44:44:  合并
+09:44:49:   - 版本库浏览器 - TortoiseSVN
+09:45:04:  合并
+09:44:34:  33
+09:44:44:  合并
+09:44:49:   - 版本库浏览器 - TortoiseSVN
+09:45:04:  合并
+09:45:09:  E:\深圳出差\33 - 合并 - TortoiseSVN
+09:45:29:  合并 完成！
+09:45:34:  Applications
+09:45:39:  E:\深圳出差\33\Applications\FlowControl - 更新 - TortoiseSVN
+09:45:49:  检出 失败！
+09:45:54:  33
+09:46:04:  清理
+09:46:09:  33
+09:46:14:  FlowControl
+09:46:19:   - 版本库浏览器 - TortoiseSVN
+09:46:24:  检出 失败！
+09:46:44:  FlowControl
+09:46:49:  Applications
+09:46:54:  清理
+09:46:59:  Applications
+09:47:04:  FlowControl
+09:47:09:  E:\深圳出差\33\Applications\FlowControl - 更新 - TortoiseSVN
+09:47:19:   - 版本库浏览器 - TortoiseSVN
+09:47:24:  E:\深圳出差\33\Applications\FlowControl - 更新 - TortoiseSVN
+09:47:29:  检出 失败！
+09:47:44:  FlowControl
+09:47:59:   - 版本库浏览器 - TortoiseSVN
+09:48:04:  E:\深圳出差\33\Applications\FlowControl - 更新 - TortoiseSVN
+09:48:09:  检出 失败！
+09:48:14:  FlowControl
+09:48:24:  Applications
+09:48:29:  33
+09:48:44:  BR-1-CashBox - 检出 - TortoiseSVN
+09:48:59:  文件夹访问被拒绝
+09:49:14:  删除 174,505 个项目(11.7 GB)
+09:49:19:  Applications
+09:49:29:  33
+09:49:39:   - 版本库浏览器 - TortoiseSVN
+09:49:54:  合并
+09:49:59:  E:\深圳出差\33 - 合并 - TortoiseSVN
+09:50:14:  合并 完成！
+09:51:09:  33
+09:51:19:  Applications
+09:51:29:  FlowControl
+09:51:34:  E:\深圳出差\33\Applications\FlowControl - 还原 - TortoiseSVN
+09:51:39:  FlowControl
+09:51:44:  Project
+09:51:54:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+09:53:14:  选择文件夹
+09:53:24:  untitled (33) - Sublime Text (UNREGISTERED)
+09:53:29:  E:\深圳出差\33\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (33) - Sublime Text (UNREGISTERED)
+09:54:24:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+09:54:34:  33
+09:54:44:  E:\深圳出差\33 - 工作副本 - TortoiseSVN
+09:54:54:  CashBoxModuleApp.c - TortoiseMerge
+09:55:54:  查找
+09:55:59:  CashBoxModuleApp.c - TortoiseMerge
+09:56:09:  E:\深圳出差\33 - 工作副本 - TortoiseSVN
+09:56:14:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+09:56:29:  Applications
+09:56:34:  TrackModule
+09:56:39:  CashBoxModuleApp.c - TortoiseMerge
+09:56:44:  E:\深圳出差\33\Applications\FlowControl\TrackModule - 工作副本 - TortoiseSVN
+09:56:49:  TrackModule
+09:56:54:  E:\深圳出差\33\Applications\FlowControl\TrackModule - 还原 - TortoiseSVN
+09:56:59:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:57:19:  SECSplashWnd
+09:57:24:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+09:57:44:  33
+09:57:49:  CRSR
+09:57:54:  E:\深圳出差\CRSR - 日志信息 - TortoiseSVN
+09:58:04:  E:\深圳出差\CRSR - 更新 - TortoiseSVN
+09:58:09:  更新 完成！
+09:58:14:  Applications
+09:58:19:  CRSR
+09:58:39:  E:\深圳出差\CRSR\Applications - 工作副本 - TortoiseSVN
+09:58:44:  CRSR
+09:58:49:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+09:58:54:  Applications
+09:59:04:  深圳出差
+09:59:14:  检出
+09:59:19:   - 版本库浏览器 - TortoiseSVN
+09:59:24:  检出
+09:59:29:  trunk - 检出 - TortoiseSVN
+09:59:49:  检出 完成！
+09:59:59:  44
+10:00:04:  TrackModule
+09:58:09:  更新 完成！
+09:58:14:  Applications
+09:58:19:  CRSR
+09:58:39:  E:\深圳出差\CRSR\Applications - 工作副本 - TortoiseSVN
+09:58:44:  CRSR
+09:58:49:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+09:58:54:  Applications
+09:59:04:  深圳出差
+09:59:14:  检出
+09:59:19:   - 版本库浏览器 - TortoiseSVN
+09:59:24:  检出
+09:59:29:  trunk - 检出 - TortoiseSVN
+09:59:49:  检出 完成！
+09:59:59:  44
+10:00:04:  TrackModule
+10:00:09:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:00:19:  CashBoxModuleApp.c Revision 552 - TortoiseMerge
+10:00:24:  锁屏状态
+10:00:29:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:00:34:  CashBoxModuleApp.c Revision 552 - TortoiseMerge
+10:00:39:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:00:44:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:00:54:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:00:59:  TortoiseMerge
+10:01:04:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:01:09:  CashBoxModuleApp.c Revision 549 - TortoiseMerge
+10:01:14:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:01:24:  CashBoxModuleApp.c Revision 549 - TortoiseMerge
+10:01:29:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:01:34:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:01:49:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:01:59:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:02:04:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:02:09:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:02:14:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:02:19:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:02:24:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:02:29:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:02:34:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:02:39:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:02:44:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:02:54:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:03:09:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:03:14:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:03:19:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:03:34:  锁屏状态
+10:03:39:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:03:49:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:04:14:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:04:19:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:04:34:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:04:44:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:04:55:  E:\深圳出差\33\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (33) - Sublime Text (UNREGISTERED)
+10:05:11:  选择文件夹
+10:05:16:  untitled (44) - Sublime Text (UNREGISTERED)
+10:05:26:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:05:41:  TrackModule
+10:05:46:  33
+10:05:51:  选择文件夹
+10:05:56:  untitled (33) - Sublime Text (UNREGISTERED)
+10:06:01:  E:\深圳出差\33\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (33) - Sublime Text (UNREGISTERED)
+10:06:31:  33
+10:06:46:  E:\深圳出差\33\Applications - 工作副本 - TortoiseSVN
+10:06:51:  锁屏状态
+10:06:56:  E:\深圳出差\33\Applications - 还原 - TortoiseSVN
+10:07:01:  CashBoxModuleApp.c - TortoiseMerge
+10:07:16:  E:\深圳出差\33\Applications - 还原 - TortoiseSVN
+10:07:21:  Applications
+10:07:26:  E:\深圳出差\33\Applications - 日志信息 - TortoiseSVN
+10:07:31:  CashBoxModuleApp.c Revision 537 - TortoiseMerge
+10:07:51:  Applications
+10:07:56:  E:\深圳出差\33\Applications - 还原 - TortoiseSVN
+10:08:01:  Applications
+10:08:06:  E:\深圳出差\33\Applications - 更新 - TortoiseSVN
+10:08:11:  E:\深圳出差\33\Applications - 日志信息 - TortoiseSVN
+10:08:21:  CashBoxModuleApp.c Revision 537 - TortoiseMerge
+10:08:26:  E:\深圳出差\33\Applications - 日志信息 - TortoiseSVN
+10:08:31:  E:\深圳出差\33\Applications - 更新 - TortoiseSVN
+10:08:36:   - 版本库浏览器 - TortoiseSVN
+10:08:51:  检出 失败！
+10:08:56:  Applications
+10:09:01:  删除多个项目
+10:09:06:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:09:11:  33
+10:09:16:  FlowControl
+10:09:21:  检出
+10:09:26:   - 版本库浏览器 - TortoiseSVN
+10:09:41:  BR-1-CashBox - 检出 - TortoiseSVN
+10:10:01:  检出 完成！
+10:10:06:  33
+10:10:16:   - 版本库浏览器 - TortoiseSVN
+10:10:31:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+10:10:46:  CashBoxModuleApp.c Revision 511 - TortoiseMerge
+10:10:51:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+10:11:06:  Drivers - 检出 - TortoiseSVN
+10:11:11:  检出 失败！
+10:11:16:  33
+10:11:46:  BR-1-CashBox - 检出 - TortoiseSVN
+10:12:06:  33
+10:12:11:  Applications
+10:12:16:  FlowControl
+10:12:21:  TrackModule
+10:12:26:  E:\深圳出差\33\Applications\FlowControl\TrackModule\CashBoxModuleApp.h - 日志信息 - TortoiseSVN
+10:12:41:  TrackModule
+10:12:46:  E:\深圳出差\33\Applications\FlowControl\TrackModule - 更新 - TortoiseSVN
+10:12:51:  E:\深圳出差\33\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:12:56:  E:\深圳出差\33\Applications\FlowControl\TrackModule - 更新 - TortoiseSVN
+10:13:01:  TrackModule
+10:13:06:  E:\深圳出差\33\Applications\FlowControl\TrackModule\CashBoxModuleApp.c - 日志信息 - TortoiseSVN
+10:13:16:  E:\深圳出差\33\Applications\FlowControl\TrackModule\CashBoxModuleApp.c - 更新 - TortoiseSVN
+10:13:21:  TrackModule
+10:13:26:  E:\深圳出差\33\Applications\FlowControl\TrackModule\CashBoxModuleApp.h - 更新 - TortoiseSVN
+10:13:31:  TrackModule
+10:13:36:  Applications
+10:13:41:  33
+10:13:46:  合并
+10:13:56:   - 版本库浏览器 - TortoiseSVN
+10:14:06:  33
+10:14:11:  深圳出差
+10:14:16:  Applications
+10:14:26:  FlowControl
+10:14:31:  TrackModule
+10:14:36:  untitled (44) - Sublime Text (UNREGISTERED)
+10:14:41:  E:\深圳出差\33\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (44) - Sublime Text (UNREGISTERED)
+10:15:01:  Save Changes?
+10:14:06:  33
+10:14:11:  深圳出差
+10:14:16:  Applications
+10:14:26:  FlowControl
+10:14:31:  TrackModule
+10:14:36:  untitled (44) - Sublime Text (UNREGISTERED)
+10:14:41:  E:\深圳出差\33\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (44) - Sublime Text (UNREGISTERED)
+10:15:01:  Save Changes?
+10:15:06:  E:\深圳出差\33\Applications - 日志信息 - TortoiseSVN
+10:15:11:  Applications
+10:15:21:  33
+10:15:26:   - 版本库浏览器 - TortoiseSVN
+10:15:41:  合并
+10:15:46:  E:\深圳出差\33 - 合并 仅测试 - TortoiseSVN
+10:15:56:  合并 仅测试 完成！
+10:17:01:  E:\深圳出差\33 - 合并 - TortoiseSVN
+10:17:16:  合并 完成！
+10:17:31:  Applications
+10:17:36:  FlowControl
+10:17:46:  TrackModule
+10:17:51:  E:\深圳出差\33\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (33) - Sublime Text (UNREGISTERED)
+10:18:06:  untitled (33) - Sublime Text (UNREGISTERED)
+10:18:11:  Applications
+10:18:26:  FlowControl
+10:18:36:  33
+10:18:41:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+10:20:06:  Project
+10:20:11:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+10:20:31:  深圳出差
+10:20:36:  6666
+10:20:41:  检出
+10:20:46:  http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K64_MAI.../BR-1-CashBox - 日志信息 - TortoiseSVN
+10:20:51:  BR-1-CashBox - 检出 - TortoiseSVN
+10:21:11:  6666
+10:21:31:  深圳出差
+10:21:36:  6666
+10:21:41:  Project
+10:21:46:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:22:32:  深圳出差
+10:22:37:  FlowControl
+10:22:42:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:23:02:  μVision
+10:23:07:  6666
+10:23:12:  FlowControl
+10:23:17:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+10:23:27:  CashBoxModuleApp.c Revision 511 - TortoiseMerge
+10:23:47:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:24:07:  跳转列表
+10:24:12:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+10:24:22:  CashBoxModuleApp.c Revision 537 - TortoiseMerge
+10:24:32:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+10:24:42:  untitled (33) - Sublime Text (UNREGISTERED)
+10:24:52:  E:\深圳出差\33\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (33) - Sublime Text (UNREGISTERED)
+10:25:07:  选择文件夹
+10:25:12:  E:\深圳出差\33\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (33) - Sublime Text (UNREGISTERED)
+10:25:17:  untitled (trunk) - Sublime Text (UNREGISTERED)
+10:25:22:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+10:25:27:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:25:37:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+10:25:42:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:25:52:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+10:25:57:  6666
+10:26:07:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+10:26:27:  合并
+10:26:32:   - 版本库浏览器 - TortoiseSVN
+10:26:42:  合并
+10:26:47:  http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K64_M.../BR-1-CashBox - 选择开始版本 - TortoiseSVN
+10:26:52:  合并
+10:26:57:  E:\深圳出差\6666 - 合并 仅测试 - TortoiseSVN
+10:27:07:  E:\深圳出差\6666 - 合并 - TortoiseSVN
+10:27:27:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:28:22:  μVision
+10:28:47:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:28:22:  μVision
+10:28:47:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:30:08:  untitled (6666) - Sublime Text (UNREGISTERED)
+10:30:18:  E:\深圳出差\6666\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (6666) - Sublime Text (UNREGISTERED)
+10:31:03:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:31:08:  6666
+10:31:18:  E:\深圳出差\6666 - 还原 - TortoiseSVN
+10:31:28:  6666
+10:31:33:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:31:43:  6666
+10:31:48:  深圳出差
+10:31:53:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+10:31:58:  深圳出差
+10:32:08:  44
+10:32:13:  Applications
+10:32:18:  TrackModule
+10:32:23:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:32:43:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:32:48:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:32:53:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:32:58:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:33:03:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:33:13:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:33:18:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:33:33:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:33:48:  μVision
+10:33:58:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:34:08:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:34:13:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:34:28:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:34:33:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:34:43:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:34:48:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:34:58:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:35:13:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:35:18:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:35:28:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:35:43:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:35:48:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:36:08:  CashBoxModuleApp.c Revision 549 - TortoiseMerge
+10:36:13:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:36:23:  CashBoxModuleApp.c Revision 549 - TortoiseMerge
+10:36:28:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:36:53:  TrackModule
+10:36:58:  深圳出差
+10:37:03:  FlowControl
+10:37:08:  E:\深圳出差\6666\Applications\FlowControl - 工作副本 - TortoiseSVN
+10:37:13:  CashBoxModuleApp.c - TortoiseMerge
+10:37:18:  E:\深圳出差\6666\Applications\FlowControl - 工作副本 - TortoiseSVN
+10:37:23:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:37:33:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+10:37:38:  untitled (33) - Sublime Text (UNREGISTERED)
+10:37:53:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:38:03:  TortoiseMerge
+10:38:08:  E:\深圳出差\6666\Applications\FlowControl - 工作副本 - TortoiseSVN
+10:38:13:  CashBoxModuleApp.c - TortoiseMerge
+10:38:23:  E:\深圳出差\6666\Applications\FlowControl - 工作副本 - TortoiseSVN
+10:38:38:  untitled (33) - Sublime Text (UNREGISTERED)
+10:38:43:  untitled (44) - Sublime Text (UNREGISTERED)
+10:38:53:  CashBoxModuleApp.c Revision 549 - TortoiseMerge
+10:39:08:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:39:18:  CashBoxModuleApp.c Revision 549 - TortoiseMerge
+10:39:23:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:39:28:  CashBoxModuleApp.c Revision 549 - TortoiseMerge
+10:39:33:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:39:38:  CashBoxModuleApp.c Revision 549 - TortoiseMerge
+10:39:43:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:39:53:  CashBoxModuleApp.c Revision 552 - TortoiseMerge
+10:40:03:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:40:08:  CashBoxModuleApp.c Revision 552 - TortoiseMerge
+10:40:13:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:40:23:  GateModule.c Revision 551 - TortoiseMerge
+10:40:28:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:40:33:  GateModule.c Revision 551 - TortoiseMerge
+10:40:38:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:40:43:  GateModule.c Revision 551 - TortoiseMerge
+10:40:58:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:41:03:  FlowControl
+10:41:08:  E:\深圳出差\6666\Applications\FlowControl - 工作副本 - TortoiseSVN
+10:41:13:  GateModule.c - TortoiseMerge
+10:41:23:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:41:33:  GateModule.c Revision 551 - TortoiseMerge
+10:41:38:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:41:43:  GateModule.c - TortoiseMerge
+10:41:48:  E:\深圳出差\6666\Applications\FlowControl - 工作副本 - TortoiseSVN
+10:41:53:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:41:58:  GateModule.c Revision 552 - TortoiseMerge
+10:42:03:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:42:08:  GateModuleApp.c Revision 559 - TortoiseMerge
+10:42:13:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:42:18:  GateModuleApp.c Revision 559 - TortoiseMerge
+10:42:23:  锁屏状态
+10:42:28:  E:\深圳出差\6666\Applications\FlowControl - 工作副本 - TortoiseSVN
+10:42:33:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:42:43:  GateModuleApp.c Revision 547 - TortoiseMerge
+10:42:53:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:42:58:  文件补丁  
+10:43:03:  CashBoxModuleApp.c Revision 542 - TortoiseMerge
+10:43:08:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:43:23:  CashBoxModuleApp.c Revision 505 - TortoiseMerge
+10:43:28:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:43:43:  CashBoxModuleApp.c Revision 505 - TortoiseMerge
+10:43:53:  E:\深圳出差\6666\Applications\FlowControl - 工作副本 - TortoiseSVN
+10:43:58:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:44:08:  文件补丁  
+10:44:13:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:44:18:  CashBoxModuleApp.c Revision 494 - TortoiseMerge
+10:44:28:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:44:43:  YoudaoDictStrokeIcon
+10:44:48:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:44:08:  文件补丁  
+10:44:13:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:44:18:  CashBoxModuleApp.c Revision 494 - TortoiseMerge
+10:44:28:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:44:43:  YoudaoDictStrokeIcon
+10:44:48:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:45:08:  锁屏状态
+10:45:13:  6666
+10:45:18:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+10:45:38:  ComponentCtrl.c Revision 492 - TortoiseMerge
+10:45:43:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+10:45:48:  CashBoxModuleApp.c Revision 492 - TortoiseMerge
+10:45:53:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+10:46:03:  CashBoxModuleApp.c Revision 477 - TortoiseMerge
+10:46:23:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:46:33:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+10:46:43:  TCR小组
+10:46:48:  跳转列表
+10:46:53:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:46:58:  CashBoxModuleApp.c Revision 476 - TortoiseMerge
+10:47:08:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:47:18:  CashBoxModuleApp.c Revision 476 - TortoiseMerge
+10:47:33:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:47:48:  CashBoxModuleApp.c Revision 476 - TortoiseMerge
+10:47:58:  E:\深圳出差\44\Applications\FlowControl\TrackModule - 日志信息 - TortoiseSVN
+10:48:13:  6666
+10:48:18:  合并
+10:48:28:  http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K64_MAIN/trunk - 选择结束版本 - TortoiseSVN
+10:48:33:  合并
+10:48:38:  6666
+10:48:43:  CashBoxModuleApp.c Revision 476 - TortoiseMerge
+10:48:48:  E:\深圳出差\6666\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (6666) - Sublime Text (UNREGISTERED)
+10:48:53:  锁屏状态
+10:48:58:  E:\深圳出差\6666\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (6666) - Sublime Text (UNREGISTERED)
+10:49:23:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:50:13:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+10:50:18:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:50:23:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:50:43:  Applications
+10:50:53:  Add Files to Group 'Applications'
+10:51:08:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:51:38:  FlowControl
+10:51:43:  E:\深圳出差\6666\Applications\FlowControl - 日志信息 - TortoiseSVN
+10:51:58:  CashBoxPlateCtrl.c Revision 537 - TortoiseMerge
+10:52:08:  E:\深圳出差\6666\Applications\FlowControl - 日志信息 - TortoiseSVN
+10:52:18:  TortoiseMerge
+10:52:23:  CashBoxModuleApp.c Revision 537 - TortoiseMerge
+10:52:33:  E:\深圳出差\6666\Applications\FlowControl - 日志信息 - TortoiseSVN
+10:52:38:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:53:03:  D:\00-KE64\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+10:53:08:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:53:18:  untitled (6666) - Sublime Text (UNREGISTERED)
+10:53:23:  E:\深圳出差\6666\Applications\CanComm\CashBoxComm\CashBoxCmd.h (6666) - Sublime Text (UNREGISTERED)
+10:53:33:  E:\深圳出差\6666\Applications\CanComm\CashBoxComm\CashBoxCmd.h • (6666) - Sublime Text (UNREGISTERED)
+10:53:38:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:54:48:  锁屏状态
+10:54:53:  E:\深圳出差\6666\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (6666) - Sublime Text (UNREGISTERED)
+10:54:58:  选择文件夹
+10:55:03:  锁屏状态
+10:55:08:  untitled (33) - Sublime Text (UNREGISTERED)
+10:55:13:  深圳出差
+10:55:18:  回收
+10:55:23:  FlowControl
+10:55:28:  33
+10:55:33:  检出
+10:55:43:  BR-1-CashBox - 检出 - TortoiseSVN
+10:56:08:  检出 完成！
+10:56:13:  33
+10:56:28:  CRS-64-1
+10:56:33:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:56:43:  深圳出差
+10:56:53:  44
+10:57:03:  TrackModule
+10:57:13:  合并
+10:57:23:   - 版本库浏览器 - TortoiseSVN
+10:57:33:  合并
+10:57:38:  http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K64_M.../BR-1-CashBox - 选择结束版本 - TortoiseSVN
+10:57:43:  合并
+10:57:48:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c - 合并 仅测试 - TortoiseSVN
+10:57:53:  合并 仅测试 完成！
+10:58:03:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:58:08:  选择文件夹
+10:58:13:  untitled (33) - Sublime Text (UNREGISTERED)
+10:58:18:  E:\深圳出差\33\Applications\CanComm\CashBoxComm\CashBoxCmd.c (33) - Sublime Text (UNREGISTERED)
+10:58:38:  TrackModule
+10:58:43:  33
+10:58:48:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+10:58:58:  CashBoxPlateCtrl.c Revision 537 - TortoiseMerge
+10:59:03:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+10:59:23:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+10:59:33:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:38:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+10:58:08:  选择文件夹
+10:58:13:  untitled (33) - Sublime Text (UNREGISTERED)
+10:58:18:  E:\深圳出差\33\Applications\CanComm\CashBoxComm\CashBoxCmd.c (33) - Sublime Text (UNREGISTERED)
+10:58:38:  TrackModule
+10:58:43:  33
+10:58:48:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+10:58:58:  CashBoxPlateCtrl.c Revision 537 - TortoiseMerge
+10:59:03:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+10:59:23:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+10:59:33:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:38:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:00:08:  E:\深圳出差\6666\Applications\CanComm\CashBoxComm\CashBoxCmd.h (6666) - Sublime Text (UNREGISTERED)
+11:00:13:  E:\深圳出差\6666\Applications\FlowControl\CashPress\PressModuleIF.h (6666) - Sublime Text (UNREGISTERED)
+11:00:28:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:00:48:  Add Files to Group 'Applications'
+11:00:53:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:01:28:  μVision
+11:01:33:  冯宁
+11:01:43:  锁屏状态
+11:01:48:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:04:33:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+11:04:38:  锁屏状态
+11:04:43:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+11:04:53:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:04:58:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+11:05:03:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:05:13:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+11:05:18:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:05:23:  锁屏状态
+11:05:28:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:05:33:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+11:05:38:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:05:43:  锁屏状态
+11:05:48:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:05:53:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+11:06:13:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:06:48:  00-06
+11:06:53:  CRS-64-1
+11:06:58:  E:\深圳出差\CRS-64-1 - 日志信息 - TortoiseSVN
+11:07:13:  ComponentCtrl.c Revision 492 - TortoiseMerge
+11:07:18:  E:\深圳出差\CRS-64-1 - 日志信息 - TortoiseSVN
+11:07:33:  CRS-64-1
+11:07:38:  E:\深圳出差\6666 - 工作副本 - TortoiseSVN
+11:07:43:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:08:18:  μVision
+11:08:28:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:08:38:  锁屏状态
+11:08:43:  6666
+11:08:48:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+11:08:53:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:08:58:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+11:09:03:  ComponentCtrl.c Revision 492 - TortoiseMerge
+11:09:18:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+11:09:23:  CashBoxPlateCtrl.c Revision 492 - TortoiseMerge
+11:09:28:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+11:09:43:  ComponentCtrl.h Revision 492 - TortoiseMerge
+11:09:53:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+11:09:58:  ComponentCtrl.h Revision 511 - TortoiseMerge
+11:10:03:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:10:13:  锁屏状态
+11:10:18:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:10:23:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+11:10:28:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:10:43:  E:\深圳出差\6666 - 工作副本 - TortoiseSVN
+11:10:48:  ComponentCtrl.h - TortoiseMerge
+11:10:53:  E:\深圳出差\6666 - 工作副本 - TortoiseSVN
+11:11:08:  ComponentCtrl.c - TortoiseMerge
+11:11:28:  μVision
+11:11:33:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:11:38:  锁屏状态
+11:11:48:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:11:53:  μVision
+11:12:03:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:12:13:  6666
+11:12:23:  E:\深圳出差\6666 - 工作副本 - TortoiseSVN
+11:12:28:  CashBoxPlateCtrl.c - TortoiseMerge
+11:12:38:  E:\深圳出差\6666 - 工作副本 - TortoiseSVN
+11:12:43:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:12:48:  E:\深圳出差\6666 - 工作副本 - TortoiseSVN
+11:12:53:  TortoiseMerge
+11:12:58:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:13:13:  E:\深圳出差\6666 - 工作副本 - TortoiseSVN
+11:13:23:  33
+11:13:33:  E:\深圳出差\6666\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (33) - Sublime Text (UNREGISTERED)
+11:13:38:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:13:43:  untitled (33) - Sublime Text (UNREGISTERED)
+11:13:48:  E:\深圳出差\33\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (33) - Sublime Text (UNREGISTERED)
+11:13:53:  E:\深圳出差\33\Applications\CanComm\CashBoxComm\CashBoxCmd.c (33) - Sublime Text (UNREGISTERED)
+11:13:58:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+11:14:03:  33
+11:14:08:  E:\深圳出差\6666 - 工作副本 - TortoiseSVN
+11:14:18:  CashBoxCmd.c - TortoiseMerge
+11:14:28:  TortoiseMerge
+11:14:33:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:14:43:  文件补丁  
+11:14:48:  CashBoxCmd.h - TortoiseMerge
+11:15:03:  E:\深圳出差\6666 - 工作副本 - TortoiseSVN
+11:14:08:  E:\深圳出差\6666 - 工作副本 - TortoiseSVN
+11:14:18:  CashBoxCmd.c - TortoiseMerge
+11:14:28:  TortoiseMerge
+11:14:33:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:14:43:  文件补丁  
+11:14:48:  CashBoxCmd.h - TortoiseMerge
+11:15:03:  E:\深圳出差\6666 - 工作副本 - TortoiseSVN
+11:15:08:  CashBoxCmd.h - TortoiseMerge
+11:15:13:  CashBoxCmd.c - TortoiseMerge
+11:15:18:  CashBoxComm.c - TortoiseMerge
+11:15:28:  E:\深圳出差\6666 - 工作副本 - TortoiseSVN
+11:15:38:  CashBoxComm.h - TortoiseMerge
+11:15:43:  文件补丁  
+11:15:48:  CSBoardCmd.c - TortoiseMerge
+11:15:58:  CSBoardCmd.h - TortoiseMerge
+11:16:03:  EscBoardCmd.c - TortoiseMerge
+11:16:13:  E:\深圳出差\6666 - 工作副本 - TortoiseSVN
+11:16:33:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:17:58:  μVision
+11:18:13:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:18:33:  6666
+11:18:38:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:18:43:  6666
+11:18:48:  Application.c - TortoiseMerge
+11:18:53:  Application.h - TortoiseMerge
+11:18:58:  AppCommon.h - TortoiseMerge
+11:19:03:  EepromConfig.h - TortoiseMerge
+11:19:08:  E:\深圳出差\6666 - 工作副本 - TortoiseSVN
+11:19:13:  InstrProc1D.c - TortoiseMerge
+11:19:43:  44
+11:19:48:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+11:19:53:  44
+11:19:58:  E:\深圳出差\44\Applications\InstrExplain - 日志信息 - TortoiseSVN
+11:20:08:  InstrProc1A.c Revision 552 - TortoiseMerge
+11:20:13:  E:\深圳出差\44\Applications\InstrExplain - 日志信息 - TortoiseSVN
+11:20:33:  InstrProc1D.c Revision 542 - TortoiseMerge
+11:20:43:  E:\深圳出差\44\Applications\InstrExplain - 日志信息 - TortoiseSVN
+11:20:48:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:20:58:  深圳出差
+11:21:03:  Project
+11:21:08:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+11:21:14:  μVision
+11:21:19:  Find In Files
+11:21:29:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+11:21:34:  Project
+11:21:39:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:21:44:  深圳出差
+11:21:49:  E:\深圳出差\6666 - 工作副本 - TortoiseSVN
+11:21:54:  CashBoxModuleApp.c - TortoiseMerge
+11:22:09:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+11:22:19:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:22:29:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+11:22:39:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:23:45:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+11:23:50:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:24:30:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+11:24:35:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+11:30:40:  6666
+11:30:50:  Application.c - TortoiseMerge
+11:30:55:  E:\深圳出差\6666 - 工作副本 - TortoiseSVN
+11:31:05:  ErrCode.c - TortoiseMerge
+11:31:10:  BldcCtrl.c - TortoiseMerge
+11:31:15:  ComponentCtrl.c - TortoiseMerge
+11:31:20:  6666
+11:31:25:  E:\深圳出差\6666 - 提交 - TortoiseSVN
+11:31:30:  SystemConfig.h - TortoiseMerge
+11:31:35:  E:\深圳出差\6666 - 提交 - TortoiseSVN
+11:31:40:  EncryApp.c - TortoiseMerge
+11:31:45:  历史记录
+11:31:50:  E:\深圳出差\6666 - 提交 - TortoiseSVN
+11:32:00:  提交 失败！
+11:32:05:  TortoiseSVN
+11:32:15:  6666
+11:32:20:  深圳出差
+11:32:30:  正在创建压缩文件 6666.rar
+11:32:40:  E:\深圳出差\6666 - 提交 - TortoiseSVN
+11:32:50:  E:\深圳出差\6666 - 更新 - TortoiseSVN
+11:32:55:  更新 完成！
+11:33:20:  提交
+11:33:25:  CashSlot.c.mine - TortoiseMerge
+11:33:30:  深圳出差
+11:33:35:  回收
+11:33:40:  文件夹访问被拒绝
+11:33:45:  回收
+11:33:50:  Applications
+11:33:55:  CanComm
+11:34:00:  深圳出差
+11:34:05:  正在从 6666.rar 中提取
+11:34:15:  6666
+11:34:20:  正在准备 再循环
+11:34:25:  正在从 6666.rar 中提取
+11:34:30:  6666
+11:34:40:  E:\深圳出差\6666 - 重新定位 - TortoiseSVN
+11:34:45:  E:\深圳出差\6666 - 复制（分支/标记） - TortoiseSVN
+11:34:50:  6666
+11:35:00:  深圳出差
+11:35:05:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+11:35:10:  E:\深圳出差\33 - 更新 - TortoiseSVN
+11:35:15:  深圳出差
+11:35:25:  正在复制 
+11:35:30:  复制文件
+11:35:35:  正在复制 3,631 个项目(240 MB)
+11:35:40:  提交
+11:35:45:  μVision
+11:35:50:  E:\深圳出差\33\Project\k64_rtt.uvprojx - μVision
+11:36:46:  Project
+11:36:51:  E:\深圳出差\33 - 提交 - TortoiseSVN
+11:37:06:  打开方式
+11:37:11:  33
+11:37:16:  E:\深圳出差\33 - 提交 - TortoiseSVN
+11:37:26:  提交
+11:37:31:  CRS-64-1
+11:37:36:  深圳出差
+11:37:41:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+11:37:46:  E:\深圳出差\44 - 更新 - TortoiseSVN
+11:37:51:  合并
+11:37:56:   - 版本库浏览器 - TortoiseSVN
+11:38:16:  http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K64_M.../BR-1-CashBox - 选择结束版本 - TortoiseSVN
+11:38:21:  合并
+11:38:26:  E:\深圳出差\44 - 合并 仅测试 - TortoiseSVN
+11:38:36:  合并 仅测试 完成！
+11:38:46:  E:\深圳出差\44 - 合并 - TortoiseSVN
+11:39:01:  44
+11:39:11:  CashBoxCmd.c - TortoiseMerge
+11:39:16:  CashBoxCmd.h - TortoiseMerge
+11:39:26:  CashBoxComm.c - TortoiseMerge
+11:39:31:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+11:39:36:  CSBoardCmd.c - TortoiseMerge
+11:39:56:  CSBoardCmd.h - TortoiseMerge
+11:40:01:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+11:40:06:  EscBoardCmd.c - TortoiseMerge
+11:40:11:  EscBoardCmd.h - TortoiseMerge
+11:40:16:  深圳出差
+11:40:21:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+11:40:26:  CashSlot.c - TortoiseMerge
+11:40:31:  FlowCtrl.c - TortoiseMerge
+11:40:46:  锁屏状态
+13:05:27:  FlowCtrl.c - TortoiseMerge
+13:06:32:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+13:06:42:  StateCheck.c - TortoiseMerge
+13:06:52:  选择文件夹
+13:06:57:  untitled (CRS-64-1) - Sublime Text (UNREGISTERED)
+13:07:57:  E:\深圳出差\CRS-64-1\Applications\FlowControl\FlowCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+13:08:17:  本地磁盘 (D:)
+13:08:22:  工作副本
+13:08:27:  D:\00-KE64\CRS-64 - 工作副本 - TortoiseSVN
+13:08:32:  CRS-64
+13:08:37:  00-KE64
+13:08:42:  深圳出差
+13:08:57:  E:\深圳出差\33 - 工作副本 - TortoiseSVN
+13:09:02:  深圳出差
+13:09:07:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+13:09:12:  锁屏状态
+13:09:22:  Project
+13:09:27:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+13:10:02:  00-KE64
+13:10:07:  D:\00-KE64\CRS-64 - 日志信息 - TortoiseSVN
+13:10:42:  D:\00-KE64\CRS-64 - 更新 - TortoiseSVN
+13:10:47:  FlowCtrl.c.mine - TortoiseMerge
+13:10:52:  更新 完成！
+13:10:57:  CRS-64
+13:11:02:  CanComm.c - TortoiseMerge
+13:11:07:  D:\00-KE64\CRS-64 - 工作副本 - TortoiseSVN
+13:11:12:  FunIODriver.c - TortoiseMerge
+13:11:17:  FunIODriver.h - TortoiseMerge
+13:11:22:  CRS-64
+13:11:27:  Project
+13:11:37:  D:\00-KE64\CRS-64\Project\k64_rtt.uvprojx - μVision
+13:11:47:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:21:33:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+13:21:38:  本地磁盘 (E:)
+13:21:43:  44
+13:21:48:  锁屏状态
+13:21:53:  Tools
+13:22:03:  TCR调测工具（研发版）V1.0.0.4
+13:22:08:  打开
+13:22:18:  TCR调测工具（研发版）V1.0.0.4
+13:26:18:  于斌1
+13:26:38:  本地磁盘 (D:)
+13:26:58:  于斌1
+13:27:08:  eSpace
+13:27:23:  本地磁盘 (D:)
+13:27:28:  00-18
+13:27:33:  D:\00-18 - 日志信息 - TortoiseSVN
+13:27:38:  新标签页 - Google Chrome
+13:27:43:  D:\00-18 - 更新 - TortoiseSVN
+13:27:53:  新标签页 - Google Chrome
+13:27:58:  00-18
+13:28:48:  μVision
+13:28:53:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+13:29:38:  TCR调测工具（研发版）V1.0.0.4
+13:28:48:  μVision
+13:28:53:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+13:29:38:  TCR调测工具（研发版）V1.0.0.4
+13:30:43:  跳转列表
+13:30:48:  CRS调试工具
+13:30:53:  20201012
+13:30:58:  Decode
+13:31:13:  K64_0000_20201012132941.log - DRB.tat* - TextAnalysisTool.NET
+13:31:28:  TCR调测工具（研发版）V1.0.0.4
+13:31:38:  钞箱配置
+13:31:53:  TCR调测工具（研发版）V1.0.0.4
+13:31:58:  K64_0000_20201012132941.log - DRB.tat* - TextAnalysisTool.NET
+13:32:03:  TCR调测工具（研发版）V1.0.0.4
+13:32:08:  Decode
+13:32:13:  20201012
+13:32:18:  K64_0000_20201012132941.log - DRB.tat* - TextAnalysisTool.NET
+13:32:23:  K64_0000_20201012133157.log - DRB.tat* - TextAnalysisTool.NET
+13:33:58:  Add Filter
+13:34:08:  K64_0000_20201012133157.log - DRB.tat* - TextAnalysisTool.NET
+13:34:18:  Add Filter
+13:34:33:  选择文件夹
+13:34:43:  untitled (trunk) - Sublime Text (UNREGISTERED)
+13:34:53:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:35:13:  K64_0000_20201012133157.log - DRB.tat* - TextAnalysisTool.NET
+13:35:18:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:35:53:  K64_0000_20201012133157.log - DRB.tat* - TextAnalysisTool.NET
+13:35:58:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:36:43:  E:\深圳出差\CRS-64-1\Applications\FlowControl\FlowCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)
+13:36:48:  选择文件夹
+13:36:58:  E:\深圳出差\6666\Applications\FlowControl\CashPress\PressModuleIF.h (6666) - Sublime Text (UNREGISTERED)
+13:37:03:  untitled (44) - Sublime Text (UNREGISTERED)
+13:37:08:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+13:37:48:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+13:38:08:  网易有道词典
+13:38:23:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+13:38:43:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+13:38:48:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:38:53:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+13:38:58:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+13:39:03:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.h (trunk) - Sublime Text (UNREGISTERED)
+13:39:08:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+13:39:23:  D:\00-KE64\trunk\Applications\CanComm\SlaveBoardComm\SlaveBoardCmd.h (trunk) - Sublime Text (UNREGISTERED)
+13:39:33:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+13:39:38:  D:\00-KE64\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+13:39:48:  桌面整理
+13:39:53:  D:\00-KE64\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+13:39:58:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:40:09:  K64_0000_20201012133157.log - DRB.tat* - TextAnalysisTool.NET
+13:40:29:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:40:39:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+13:40:44:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:42:14:  K64_0000_20201012133157.log - DRB.tat* - TextAnalysisTool.NET
+13:42:19:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:42:29:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+13:42:34:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:42:39:  K64_0000_20201012133157.log - DRB.tat* - TextAnalysisTool.NET
+13:42:44:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:42:49:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+13:42:54:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:42:59:  K64_0000_20201012133157.log - DRB.tat* - TextAnalysisTool.NET
+13:43:04:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:43:09:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+13:43:14:  K64_0000_20201012133157.log - DRB.tat* - TextAnalysisTool.NET
+13:43:24:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+13:43:29:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:43:34:  计算器
+13:43:44:  K64_0000_20201012133157.log - DRB.tat* - TextAnalysisTool.NET
+13:43:59:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:44:19:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+13:44:34:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.h (44) - Sublime Text (UNREGISTERED)
+13:44:39:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+13:44:44:  K64_0000_20201012133157.log - DRB.tat* - TextAnalysisTool.NET
+13:44:54:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+13:44:19:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+13:44:34:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.h (44) - Sublime Text (UNREGISTERED)
+13:44:39:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+13:44:44:  K64_0000_20201012133157.log - DRB.tat* - TextAnalysisTool.NET
+13:44:54:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+13:45:09:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.c (44) - Sublime Text (UNREGISTERED)
+13:45:14:  E:\深圳出差\44\Applications\FlowControl\TrackMotor\TrackMotor.h (44) - Sublime Text (UNREGISTERED)
+13:45:19:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+13:46:14:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.c (44) - Sublime Text (UNREGISTERED)
+13:46:34:  K64_0000_20201012133157.log - DRB.tat* - TextAnalysisTool.NET
+13:46:39:  计算器
+13:46:49:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+13:46:54:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.c (44) - Sublime Text (UNREGISTERED)
+13:46:59:  E:\深圳出差\44\Applications\FlowControl\TrackMotor\TrackMotor.h (44) - Sublime Text (UNREGISTERED)
+13:47:04:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.c (44) - Sublime Text (UNREGISTERED)
+13:47:14:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+13:47:19:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.c (44) - Sublime Text (UNREGISTERED)
+13:47:59:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+13:48:04:  E:\深圳出差\44\Applications\FlowControl\TrackMotor\TrackMotor.h (44) - Sublime Text (UNREGISTERED)
+13:48:14:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+13:48:29:  E:\深圳出差\44\Applications\FlowControl\TrackMotor\TrackMotor.h (44) - Sublime Text (UNREGISTERED)
+13:48:34:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+13:51:09:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.c (44) - Sublime Text (UNREGISTERED)
+13:51:14:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+13:51:19:  E:\深圳出差\44\Applications\FlowControl\TrackMotor\TrackMotor.h (44) - Sublime Text (UNREGISTERED)
+13:51:24:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+13:51:49:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+13:51:54:  E:\深圳出差\44\Applications\Common\MotorCommon.h (44) - Sublime Text (UNREGISTERED)
+13:51:59:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (44) - Sublime Text (UNREGISTERED)
+13:52:04:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+13:52:24:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+13:52:29:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+13:53:04:  本地磁盘 (E:)
+13:53:24:  44
+13:53:34:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+13:54:09:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+13:54:24:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+13:54:34:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+13:54:44:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+13:54:49:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+13:54:59:  ComponentStatus.h Revision 492 - TortoiseMerge
+13:55:09:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+13:55:19:  ComponentStatus.h Revision 537 - TortoiseMerge
+13:55:29:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+13:55:44:  ComponentStatus.h Revision 537 - TortoiseMerge
+13:55:49:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+13:55:54:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+13:55:59:  ComponentStatus.h Revision 537 - TortoiseMerge
+13:56:09:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+13:56:14:  ComponentCtrl.h Revision 537 - TortoiseMerge
+13:56:19:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+13:56:29:  ComponentStatus.h Revision 492 - TortoiseMerge
+13:56:34:  ComponentCtrl.c Revision 492 - TortoiseMerge
+13:56:39:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+13:56:44:  ComponentCtrl.h Revision 492 - TortoiseMerge
+13:56:54:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+13:56:59:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+13:57:09:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+13:57:24:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+13:58:09:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+13:58:19:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (44) - Sublime Text (UNREGISTERED)
+13:58:24:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+13:58:34:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+13:58:39:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.c (44) - Sublime Text (UNREGISTERED)
+13:58:44:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+13:58:59:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+13:59:04:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+13:59:54:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+13:59:59:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxComm.h (44) - Sublime Text (UNREGISTERED)
+14:00:04:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+13:58:09:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+13:58:19:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (44) - Sublime Text (UNREGISTERED)
+13:58:24:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+13:58:34:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+13:58:39:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.c (44) - Sublime Text (UNREGISTERED)
+13:58:44:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+13:58:59:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+13:59:04:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+13:59:54:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+13:59:59:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxComm.h (44) - Sublime Text (UNREGISTERED)
+14:00:04:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:00:24:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:00:44:  E:\深圳出差\44\Applications\Common\AppCommon.h (44) - Sublime Text (UNREGISTERED)
+14:00:49:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:01:04:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+14:01:09:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:01:19:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+14:01:29:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:01:39:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:01:49:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+14:01:54:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:01:59:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxComm.h (44) - Sublime Text (UNREGISTERED)
+14:02:04:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:03:04:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:03:09:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:03:14:  E:\深圳出差\44\Middlewares\Selector\Selector.c (44) - Sublime Text (UNREGISTERED)
+14:03:29:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:03:34:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxComm.h (44) - Sublime Text (UNREGISTERED)
+14:03:39:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:04:14:  E:\深圳出差\44\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:04:19:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxComm.c (44) - Sublime Text (UNREGISTERED)
+14:04:34:  μVision
+14:04:39:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:07:54:  Project
+14:07:59:  E:\深圳出差\44\Tools\CreateJK.exe
+14:08:04:  TCR调测工具（研发版）V1.0.0.4
+14:11:04:  20201012
+14:11:09:  Decode
+14:11:14:  K64_0000_20201012141047.log - DRB.tat* - TextAnalysisTool.NET
+14:11:39:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:11:44:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+14:11:49:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:11:59:  K64_0000_20201012141047.log - DRB.tat* - TextAnalysisTool.NET
+14:12:04:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:12:09:  K64_0000_20201012141047.log - DRB.tat* - TextAnalysisTool.NET
+14:12:19:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:12:29:  K64_0000_20201012141047.log - DRB.tat* - TextAnalysisTool.NET
+14:12:34:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:12:49:  K64_0000_20201012141047.log - DRB.tat* - TextAnalysisTool.NET
+14:12:59:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:13:09:  于斌1
+14:13:14:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:13:19:  于斌1
+14:15:04:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:15:04:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:15:09:  E:\深圳出差\33 - 日志信息 - TortoiseSVN
+14:15:29:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:16:44:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+14:16:49:  K64_0000_20201012141047.log - DRB.tat* - TextAnalysisTool.NET
+14:17:04:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:17:34:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+14:17:39:  E:\深圳出差\44\Applications\FlowControl\TrackMotor\TrackMotor.h (trunk) - Sublime Text (UNREGISTERED)
+14:17:44:  K64_0000_20201012141047.log - DRB.tat* - TextAnalysisTool.NET
+14:18:09:  取款
+14:18:19:  TCR调测工具（研发版）V1.0.0.4
+14:18:24:  取款
+14:18:34:  BTCRTestTool
+14:18:49:  20201012
+14:19:09:  Decode
+14:19:14:  K18_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:19:24:  于斌1
+14:19:34:  Decode
+14:19:39:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:22:49:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:44:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+14:23:49:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:23:59:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:04:  Go To
+14:24:09:  计算器
+14:24:14:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:24:34:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:24:44:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:24:54:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:25:09:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:25:19:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:25:39:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:25:49:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:34:  E:\深圳出差\44\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:27:39:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:28:19:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:28:24:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:28:34:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:28:49:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:29:04:  锁屏状态
+14:29:09:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:29:24:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:29:34:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:29:39:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:29:54:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:28:19:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:28:24:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:28:34:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:28:49:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:29:04:  锁屏状态
+14:29:09:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:29:24:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:29:34:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:29:39:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:29:54:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:30:19:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:30:24:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:30:39:  TCR调测工具（研发版）V1.0.0.4
+14:30:44:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:31:04:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:31:14:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:31:29:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:31:34:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:31:49:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:32:44:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:32:49:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.h (44) - Sublime Text (UNREGISTERED)
+14:32:54:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:33:14:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:33:19:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:33:34:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:34:04:  计算器
+14:34:09:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:34:29:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:34:34:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.h (44) - Sublime Text (UNREGISTERED)
+14:34:39:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:34:59:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+14:35:04:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+14:35:19:  本地磁盘 (D:)
+14:35:39:  CRS-64
+14:35:44:  D:\00-KE64\CRS-64 - 工作副本 - TortoiseSVN
+14:35:49:  EscBoardCmd.c - TortoiseMerge
+14:35:54:  D:\00-KE64\CRS-64 - 工作副本 - TortoiseSVN
+14:36:09:  FunIODriver.c - TortoiseMerge
+14:36:24:  μVision
+14:36:34:  E:\深圳出差\44\Applications\Init\Init.c (44) - Sublime Text (UNREGISTERED)
+14:36:44:  E:\深圳出差\44\Drivers\FunIODriver\FunIODriver.c (44) - Sublime Text (UNREGISTERED)
+14:36:49:  E:\深圳出差\44\Drivers\FunIODriver\FunIODriver.c • (44) - Sublime Text (UNREGISTERED)
+14:36:54:  FunIODriver.c - TortoiseMerge
+14:36:59:  E:\深圳出差\44\Drivers\FunIODriver\FunIODriver.c • (44) - Sublime Text (UNREGISTERED)
+14:37:04:  FunIODriver.c - TortoiseMerge
+14:37:09:  E:\深圳出差\44\Drivers\FunIODriver\FunIODriver.c • (44) - Sublime Text (UNREGISTERED)
+14:37:44:  E:\深圳出差\44\Drivers\FunIODriver\FunIODriver.c (44) - Sublime Text (UNREGISTERED)
+14:37:59:  E:\深圳出差\44\Drivers\FunIODriver\FunIODriver.h (44) - Sublime Text (UNREGISTERED)
+14:38:09:  E:\深圳出差\44\Drivers\FunIODriver\FunIODriver.h • (44) - Sublime Text (UNREGISTERED)
+14:38:14:  E:\深圳出差\44\Drivers\FunIODriver\FunIODriver.h (44) - Sublime Text (UNREGISTERED)
+14:38:19:  E:\深圳出差\44\Drivers\FunIODriver\FunIODriver.c (44) - Sublime Text (UNREGISTERED)
+14:38:29:  E:\深圳出差\44\Applications\FlowControl\FlowCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:38:39:  E:\深圳出差\44\Applications\FlowControl\FlowCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:38:44:  E:\深圳出差\44\Drivers\FunIODriver\FunIODriver.c (44) - Sublime Text (UNREGISTERED)
+14:38:49:  E:\深圳出差\44\Applications\FlowControl\FlowCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:39:24:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:45:50:  锁屏状态
+14:46:00:  CRS-64
+14:46:05:  本地磁盘 (D:)
+14:46:10:  深圳出差
+14:46:15:  E:\深圳出差\44\Tools\CreateJK.exe
+14:46:20:  Tools
+14:46:25:  TCR调测工具（研发版）V1.0.0.4
+14:48:25:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:48:30:  E:\深圳出差\44\Applications\FlowControl\FlowCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:48:50:  E:\深圳出差\44\Drivers\FunIODriver\FunIODriver.c (44) - Sublime Text (UNREGISTERED)
+14:49:10:  E:\深圳出差\44\Drivers\FunIODriver\FunIODriver.c • (44) - Sublime Text (UNREGISTERED)
+14:49:15:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:49:25:  E:\深圳出差\44\Tools\CreateJK.exe
+14:49:30:  TCR调测工具（研发版）V1.0.0.4
+14:49:35:  BTCRTestTool
+14:49:40:  TCR调测工具（研发版）V1.0.0.4
+14:50:10:  E:\深圳出差\44\Drivers\FunIODriver\FunIODriver.c (44) - Sublime Text (UNREGISTERED)
+14:50:15:  E:\深圳出差\44\Applications\FlowControl\FlowCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:50:50:  E:\深圳出差\44\Applications\FlowControl\FlowCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:51:15:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1A.c (44) - Sublime Text (UNREGISTERED)
+14:51:20:  E:\深圳出差\44\Applications\FlowControl\FlowCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:51:30:  E:\深圳出差\44\Applications\FlowControl\FlowCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:51:45:  E:\深圳出差\44\Drivers\FunIODriver\FunIODriver.c • (44) - Sublime Text (UNREGISTERED)
+14:51:50:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:52:00:  E:\深圳出差\44\Tools\CreateJK.exe
+14:52:05:  TCR调测工具（研发版）V1.0.0.4
+14:57:10:  Internet Explorer
+14:57:15:  系统登录 - Internet Explorer
+14:57:20:  新北洋OA信息化平台 - Internet Explorer
+14:57:40:  E:\深圳出差\44\Applications\FlowControl\FlowCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:57:45:  E:\深圳出差\44\Applications\FlowControl\FlowCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:57:50:  E:\深圳出差\44\Applications\FlowControl\FlowCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:58:10:  44
+14:58:40:  E:\深圳出差\44 - 提交 - TortoiseSVN
+14:58:50:  FlowCtrl.c - TortoiseMerge
+14:59:00:  E:\深圳出差\44 - 提交 - TortoiseSVN
+14:59:05:  FunIODriver.c - TortoiseMerge
+14:59:10:  FunIODriver.h - TortoiseMerge
+14:59:15:  E:\深圳出差\44 - 提交 - TortoiseSVN
+14:59:20:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+14:59:25:  E:\深圳出差\44 - 提交 - TortoiseSVN
+14:58:10:  44
+14:58:40:  E:\深圳出差\44 - 提交 - TortoiseSVN
+14:58:50:  FlowCtrl.c - TortoiseMerge
+14:59:00:  E:\深圳出差\44 - 提交 - TortoiseSVN
+14:59:05:  FunIODriver.c - TortoiseMerge
+14:59:10:  FunIODriver.h - TortoiseMerge
+14:59:15:  E:\深圳出差\44 - 提交 - TortoiseSVN
+14:59:20:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+14:59:25:  E:\深圳出差\44 - 提交 - TortoiseSVN
+15:01:20:  FlowCtrl.c - TortoiseMerge
+15:01:25:  E:\深圳出差\44 - 提交 - TortoiseSVN
+15:01:30:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+15:01:40:  E:\深圳出差\44 - 提交 - TortoiseSVN
+15:01:55:  FunIODriver.h - TortoiseMerge
+15:02:00:  FunIODriver.c - TortoiseMerge
+15:02:05:  E:\深圳出差\44 - 提交 - TortoiseSVN
+15:02:10:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:02:40:  E:\深圳出差\44 - 提交 - TortoiseSVN
+15:02:55:  提交 完成！
+15:03:00:  44
+15:03:05:  冯宁
+15:03:10:  Excel
+15:03:15:  5.1 BOOTLOADER测试V1.0.xls  [兼容模式] - Excel
+15:03:40:  冯宁
+15:03:50:  运行
+15:04:00:  主控板集成测试方案-报告
+15:04:05:  5.1 BOOTLOADER测试V1.0.xls  [受保护的视图] - Excel
+15:04:10:  主控板集成测试方案-报告
+15:04:15:  5.1 BOOTLOADER测试V1.0.xls  [受保护的视图] - Excel
+15:04:25:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:04:30:  5.1 BOOTLOADER测试V1.0.xls  [受保护的视图] - Excel
+15:04:40:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:04:45:  从控板集成测试方案-报告
+15:04:50:  冯宁
+15:05:45:  锁屏状态
+15:05:50:  5.1 BOOTLOADER测试V1.0.xls  [受保护的视图] - Excel
+15:08:50:  5.1 BOOTLOADER测试V1.0.xls  [兼容模式] - Excel
+15:11:35:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:11:40:  从控板集成测试方案-报告
+15:11:45:  Excel
+15:11:50:  5.1 BOOTLOADER测试V1.0.xls  [受保护的视图] - Excel
+15:12:05:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:12:25:  5.1 BOOTLOADER测试V1.0.xls  [受保护的视图] - Excel
+15:12:40:  选择文件夹
+15:13:00:  D:\CRS\KE18-BOOT\Applications\MemoryConfig.h (KE18-BOOT) - Sublime Text (UNREGISTERED)
+15:13:20:  untitled (00-18) - Sublime Text (UNREGISTERED)
+15:13:25:  D:\00-18\Applications\MemoryConfig.h (00-18) - Sublime Text (UNREGISTERED)
+15:13:30:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:13:35:  E:\深圳出差\44\Applications\MemoryConfig.h (44) - Sublime Text (UNREGISTERED)
+15:13:45:  5.1 BOOTLOADER测试V1.0.xls  [受保护的视图] - Excel
+15:15:00:  D:\CRS\KE18-BOOT\Applications\MemoryConfig.h (KE18-BOOT) - Sublime Text (UNREGISTERED)
+15:15:00:  D:\CRS\KE18-BOOT\Applications\MemoryConfig.h (KE18-BOOT) - Sublime Text (UNREGISTERED)
+15:15:05:  选择文件夹
+15:15:15:  untitled (KE18-UP) - Sublime Text (UNREGISTERED)
+15:15:20:  D:\CRS\KE18-UP\Applications\InstrExp\InstrExe.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:15:25:  D:\CRS\KE18-UP\Applications\InstrExp\InstrExp.c (KE18-UP) - Sublime Text (UNREGISTERED)
+15:15:40:  D:\CRS\KE18-UP\Applications\InstrExp\InstrExp.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:15:50:  5.1 BOOTLOADER测试V1.0.xls  [兼容模式] - Excel
+15:16:05:  D:\CRS\KE18-UP\Applications\InstrExp\InstrExp.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:16:35:  EXTFEDAD1V10出入钞口控制板.PDF
+15:17:05:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:17:20:  EXTFEDAD3V10出入钞口转接板.PDF - Adobe Reader
+15:19:05:  eSpace
+15:19:10:  BTCRTestTool (2) 属性
+15:19:15:  D:\CRS\KE18-UP\Applications\InstrExp\InstrExp.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:19:20:  5.1 BOOTLOADER测试V1.0.xls  [兼容模式] - Excel
+15:19:40:  D:\CRS\KE18-UP\Applications\InstrExp\InstrExp.h (KE18-UP) - Sublime Text (UNREGISTERED)
+15:20:35:  5.1 BOOTLOADER测试V1.0.xls  [兼容模式] - Excel
+15:21:55:  44
+15:22:00:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+15:22:15:  FlowCtrl.c Revision 564 - TortoiseMerge
+15:22:20:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+15:22:30:  44
+15:22:35:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:23:05:  D:\00-KE64\CRS-64 - 工作副本 - TortoiseSVN
+15:23:10:  44
+15:23:15:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+15:23:20:  CashBoxModuleApp.c - TortoiseMerge
+15:23:30:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+15:26:00:  于斌1
+15:26:40:  评审预约规范表.xlsx
+15:26:50:  转发: DRB集成测试评审 - 写邮件
+15:27:00:  于斌1
+15:27:35:  转发: 钞箱1T2集成测试方案.part1 - 写邮件
+15:27:45:  转发: 钞箱1T2集成测试方案.part2 - 写邮件
+15:27:50:  于斌1
+15:31:25:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:32:40:  CashBoxModuleApp.c - TortoiseMerge
+15:32:45:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+15:34:00:  于斌1
+15:34:05:  44
+15:34:10:  本地磁盘 (E:)
+15:34:15:  DRB集成测试
+15:34:20:  DRB集成测试报告.xlsx - Excel
+15:34:30:  DRB集成测试
+15:34:35:  钞箱1T2集成测试方案
+15:34:40:  DRB集成测试报告.xlsx - Excel
+15:34:50:  于斌1
+15:36:05:  DRB集成测试报告.xlsx - Excel
+15:36:20:  评审预约规范表.xlsx
+15:36:45:  从控板集成测试方案-报告
+15:37:25:  锁屏状态
+15:37:30:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:38:15:  从控板集成测试方案-报告
+15:40:00:  eSpace
+15:40:05:  方俊杰
+15:49:10:  MenuDlg
+15:49:15:  方俊杰
+15:49:20:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+16:10:16:  孙颖
+16:10:31:  03 项目周报
+16:10:41:  TCR（DRB）项目周报.xlsx  [受保护的视图] - Excel
+16:10:46:  TCR（DRB）项目周报.xlsx  [共享] - Excel
+16:12:16:  03 项目周报
+16:12:21:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+16:19:21:  孙颖
+16:19:26:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+16:23:01:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx
+16:23:06:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+16:25:36:  Word
+16:25:41:  考核情况模板.docx
+16:28:21:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx
+16:28:31:  锁屏状态
+16:28:36:  新标签页 - Google Chrome
+16:28:41:  自动播放
+16:28:46:  打开文件夹
+16:28:51:  自动播放
+16:28:56:  新标签页 - Google Chrome
+16:29:11:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx
+16:29:21:  新标签页 - Google Chrome
+16:29:32:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx
+16:29:52:  打开文件夹
+16:28:21:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx
+16:28:31:  锁屏状态
+16:28:36:  新标签页 - Google Chrome
+16:28:41:  自动播放
+16:28:46:  打开文件夹
+16:28:51:  自动播放
+16:28:56:  新标签页 - Google Chrome
+16:29:11:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx
+16:29:21:  新标签页 - Google Chrome
+16:29:32:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx
+16:29:52:  打开文件夹
+16:30:22:  从控板集成测试方案-报告
+16:30:28:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx
+16:30:53:  密码锁
+16:30:58:  印象笔记
+16:31:03:  关于报送2020年度威海市工程技术高级、中级、初级职称评审材料的通知.eml - 印象笔记
+16:31:24:  新标签页 - Google Chrome
+16:31:29:  百度一下，你就知道 - Google Chrome
+16:31:39:  117.73.253.239 - Google Chrome
+16:31:54:  新标签页 - Google Chrome
+16:32:04:  新建文本文档.exe - 快捷方式
+16:32:09:  117.73.253.239 - Google Chrome
+16:32:25:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx
+16:32:30:  继续阅读
+16:32:35:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+16:32:45:  117.73.253.239 - Google Chrome
+16:32:50:  Error 404--Not Found - Google Chrome
+16:32:55:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+16:33:05:  Error 404--Not Found - Google Chrome
+16:33:16:  新北洋OA信息化平台 - Internet Explorer
+16:33:21:  2020年新北洋张村食堂10.12-10.17日菜谱+.xlsx  [受保护的视图] - Excel
+16:33:31:  新北洋OA信息化平台 - Internet Explorer
+16:33:36:  Error 404--Not Found - Google Chrome
+16:36:32:  eSpace
+16:36:37:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx
+16:36:42:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+16:37:02:  Error 404--Not Found - Google Chrome
+16:37:38:  翻译此页？
+16:37:43:  未找到错误404 - Google Chrome
+16:38:03:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx
+16:38:08:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+16:43:34:  山东人事人才互联网服务系统 - Google Chrome
+16:45:09:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+16:45:14:  桌面整理
+16:45:24:  Visual Studio Code
+16:45:29:  eSpace
+16:45:39:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+16:46:49:  CheckTheBookTital.py - DRB-- - Visual Studio Code [管理员]
+16:46:59:  新标签页 - Google Chrome
+16:47:04:  宋北云 416、二年10月6日 晴 他强由他强 - 天籁小说网 - Google Chrome
+16:47:09:  山东人事人才互联网服务系统 - Google Chrome
+16:47:14:  宋北云最新章节列表_宋北云全文阅读 - 天籁小说网 - Google Chrome
+16:47:19:  宋北云 442、二年11月15日 晴 雪后初晴，银装素裹。 - 天籁小说网 - Google Chrome
+16:47:24:  CheckTheBookTital.py - DRB-- - Visual Studio Code [管理员]
+16:47:29:  宋北云最新章节列表_宋北云全文阅读 - 天籁小说网 - Google Chrome
+16:47:34:  我师兄实在太稳健了 第七百零三章 【补更】十绝连环天煞断命阵 - 天籁小说网 - Google Chrome
+16:47:39:  我师兄实在太稳健了最新章节列表_我师兄实在太稳健了全文阅读 - 天籁小说网 - Google Chrome
+16:47:44:  我师兄实在太稳健了 第七百三十章 先遇多宝，后遇老君 - 天籁小说网 - Google Chrome
+16:47:54:  CheckTheBookTital.py - DRB-- - Visual Studio Code [管理员]
+16:48:04:  Separate.c - DRB-- - Visual Studio Code [管理员]
+16:48:14:  设置 - DRB-- - Visual Studio Code [管理员]
+16:48:19:  Separate.c - DRB-- - Visual Studio Code [管理员]
+16:56:29:  CheckTheBookTital.py - DRB-- - Visual Studio Code [管理员]
+16:56:34:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+16:57:49:  山东人事人才互联网服务系统 - Google Chrome
+16:59:24:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+16:59:24:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+17:00:44:  山东人事人才互联网服务系统 - Google Chrome
+17:00:59:  117.73.253.239 - Google Chrome
+17:01:04:  新建文本文档.exe - 快捷方式
+17:01:09:  eSpace
+17:01:14:  锁屏状态
+17:01:24:  eSpace
+17:01:29:  117.73.253.239 - Google Chrome
+17:01:34:  锁屏状态

@@ -1,0 +1,1373 @@
+08:00:24:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:02:09:  Options for Target 'Escrow'
+08:02:34:  Cortex JLink/JTrace Target Driver Setup
+08:03:14:  D:\00-06\DRB--\Middlewares\StepMotor\StepMotorConfig.c (DRB--) - Sublime Text (UNREGISTERED)
+08:03:24:  Options for Target 'Escrow'
+08:03:29:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:04:44:  Tools
+08:04:49:  log
+08:04:54:  20200917
+08:04:59:  TCR调测工具（研发版）V1.0.0.4
+08:05:04:  BTCRTestTool
+08:05:09:  TCR调测工具（研发版）V1.0.0.4
+08:05:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:05:19:  TCR调测工具（研发版）V1.0.0.4
+08:05:24:  TCRControlCmdDLL
+08:05:39:  BTCRTestTool
+08:05:44:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:05:49:  20200918
+08:05:54:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+08:05:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:06:14:  删除多个项目
+08:06:19:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:06:29:  20200918
+08:06:34:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+08:06:59:  1428, 1427, 1426, 1423, 1418, 1413, 1406, 139 • (DRB--) - Sublime Text (UNREGISTERED)
+08:07:04:  ESC[TRACE]:68     2000 • (DRB--) - Sublime Text (UNREGISTERED)
+08:07:09:  2000 • (DRB--) - Sublime Text (UNREGISTERED)
+08:07:14:  2000, • (DRB--) - Sublime Text (UNREGISTERED)
+08:07:34:  2000, 1999 ,1999 ,1999 ,1998 ,1998 ,1997 ,199 • (DRB--) - Sublime Text (UNREGISTERED)
+08:07:44:  D:\00-06\DRB--\Middlewares\StepMotor\StepMotorConfig.c (DRB--) - Sublime Text (UNREGISTERED)
+08:07:49:  D:\00-06\DRB--\Middlewares\StepMotor\StepMotorConfig.c • (DRB--) - Sublime Text (UNREGISTERED)
+08:07:59:  μVision
+08:08:04:  Decode
+08:08:09:  00-06
+08:08:19:  D:\00-06\DRB--\Tools\CreateJK.exe
+08:08:24:  Tools
+08:08:29:  未命名 - 写邮件
+08:08:34:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V11_MAIN_T14 - 写邮件
+08:08:44:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:08:49:  Options for Target 'Escrow'
+08:09:19:  Cortex JLink/JTrace Target Driver Setup
+08:09:59:  C:\Keil_v5\ARM\Segger\JLink.exe
+08:10:24:  Cortex JLink/JTrace Target Driver Setup
+08:11:04:  网易有道词典
+08:11:19:  Cortex JLink/JTrace Target Driver Setup
+08:12:44:  C:\Keil_v5\ARM\Segger\JLink.exe
+08:13:04:  网易有道词典
+08:13:14:  C:\Keil_v5\ARM\Segger\JLink.exe
+08:18:24:  本地磁盘 (D:)
+08:18:29:  00-06
+08:18:39:  00-18
+08:18:44:  CRS
+08:18:54:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+08:18:59:  查找
+08:19:04:  startup_MKE18F16.s - 记事本
+08:19:19:  网易有道词典
+08:19:49:  startup_MKE18F16.s - 记事本
+08:19:54:  网易有道词典
+08:20:19:  startup_MKE18F16.s - 记事本
+08:21:04:  Cortex JLink/JTrace Target Driver Setup
+08:21:09:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:21:49:  Options for Target 'Escrow'
+08:21:54:  C:\Keil_v5\ARM\Segger\JLink.exe
+08:23:19:  Cortex JLink/JTrace Target Driver Setup
+08:23:24:  网易有道词典
+08:24:04:  Cortex JLink/JTrace Target Driver Setup
+08:24:19:  网易有道词典
+08:25:29:  网络连接
+08:26:04:  锁屏状态
+08:26:09:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:26:14:  Options for Target 'CashBox_1T2'
+08:27:09:  Browse for Folder
+08:27:14:  Options for Target 'CashBox_1T2'
+08:27:54:  Cortex JLink/JTrace Target Driver Setup
+08:28:09:  Options for Target 'CashBox_1T2'
+08:28:34:  Cortex JLink/JTrace Target Driver Setup
+08:29:09:  startup_MKE18F16.s - 记事本
+08:29:49:  网络连接
+08:30:04:  自动播放
+08:28:09:  Options for Target 'CashBox_1T2'
+08:28:34:  Cortex JLink/JTrace Target Driver Setup
+08:29:09:  startup_MKE18F16.s - 记事本
+08:29:49:  网络连接
+08:30:04:  自动播放
+08:30:09:  锁屏状态
+08:30:14:  网易有道词典
+08:31:09:  Cortex JLink/JTrace Target Driver Setup
+08:31:14:  startup_MKE18F16.s - 记事本
+08:31:39:  锁屏状态
+08:31:44:  新标签页 - Google Chrome
+08:31:49:  Cortex JLink/JTrace Target Driver Setup
+08:32:34:  百度一下，你就知道 - Google Chrome
+08:32:39:  https://www.baidu.com/link?url=O1ueOK_TkyoijpW2G091NAGyvQ8OtxHpvjdoc_hmcSCtz4UNe3VTkLSq485vxQfSXAOrAu76IJqj8csIZx7gAeco9P4hGGrBCQVGu4C54wO&wd=&eqid=9ccbf699000fda6d000000025f640023 - Google Chrome
+08:32:44:  翻译此页？
+08:34:59:  Backdoor key access enabled_百度搜索 - Google Chrome
+08:35:09:  (3条消息) 如何加密你的MC9S12(X)设备_夏日白云的boke-CSDN博客 - Google Chrome
+08:42:44:  网络连接
+08:42:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:43:04:  (3条消息) 如何加密你的MC9S12(X)设备_夏日白云的boke-CSDN博客 - Google Chrome
+08:45:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:47:30:  网易有道词典
+08:47:35:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:48:35:  网易有道词典
+08:48:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:48:55:  网易有道词典
+08:49:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:52:41:  μVision
+08:52:51:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:54:51:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+08:54:56:  startup_MKE18F16.s - “KE18-ESS”中的搜索结果
+08:55:01:  查找
+08:55:06:  startup_MKE18F16.s - 记事本
+08:55:41:  startup_MKE18F16.s - “KE18-ESS”中的搜索结果
+08:55:46:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:56:06:  BTCRTestTool
+08:56:11:  发送指令到K18
+08:56:21:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:56:36:  CRS
+08:56:41:  KE18-BOOT
+08:56:46:  查找
+08:56:51:  startup_MKE18F16.s - 记事本
+08:56:56:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+08:57:06:  打开方式
+08:57:11:  Project
+08:57:16:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:57:36:  startup_MKE18F16.s - 记事本
+08:58:16:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:58:21:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:58:41:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:58:46:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:59:51:  JLink - Cortex-M Error
+08:58:16:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:58:21:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:58:41:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:58:46:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:59:51:  JLink - Cortex-M Error
+09:00:26:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:00:31:  发送指令到K18
+09:00:36:  TCR调测工具（研发版）V1.0.0.4
+09:00:41:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:01:26:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:01:31:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:01:41:  发送指令到K18
+09:01:46:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:05:06:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:06:26:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:06:31:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:07:11:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:12:11:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:13:11:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:13:16:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:13:26:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:13:31:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:13:46:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:14:01:  发送指令到K18
+09:14:06:  TCR调测工具（研发版）V1.0.0.4
+09:14:21:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:14:06:  TCR调测工具（研发版）V1.0.0.4
+09:14:21:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:19:16:  μVision
+09:19:21:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:20:06:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:20:51:  新建文本文档.exe - 快捷方式
+09:20:56:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:24:11:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+09:24:16:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:24:31:  TCR调测工具（研发版）V1.0.0.4
+09:24:36:  发送指令到K18
+09:24:41:  TCR调测工具（研发版）V1.0.0.4
+09:24:46:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:25:06:  JLink - Cortex-M Error
+09:25:11:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:25:21:  (3条消息) 如何加密你的MC9S12(X)设备_夏日白云的boke-CSDN博客 - Google Chrome
+09:25:26:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:25:41:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:26:51:  μVision
+09:26:56:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:29:41:  μVision
+09:29:46:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:29:41:  μVision
+09:29:46:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:31:11:  μVision
+09:31:16:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:31:31:  JLink - Cortex-M Error
+09:32:06:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:32:26:  μVision
+09:32:31:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:32:36:  JLink - Cortex-M Error
+09:32:46:  「开始」菜单
+09:32:51:  J-Link Commander V6.32h
+09:33:12:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:34:47:  Save Changes?
+09:34:57:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:35:32:  Project
+09:35:37:  startup_MKE18F16.s - KE18-ESS
+09:35:42:  startup_MKE18F16.s - “KE18-ESS”中的搜索结果
+09:35:47:  startup_MKE18F16.s - 记事本
+09:36:27:  startup_MKE18F16.s - “KE18-ESS”中的搜索结果
+09:36:32:  μVision
+09:36:37:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:37:17:  startup_MKE18F16.s - “KE18-ESS”中的搜索结果
+09:37:22:  startup_MKE18F16.s - 记事本
+09:37:27:  查找
+09:37:37:  startup_MKE18F16.s - 记事本
+09:37:42:  startup_MKE18F16.s - “KE18-ESS”中的搜索结果
+09:37:47:  00-18
+09:38:02:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+09:38:07:  查找
+09:38:12:  startup_MKE18F16.s - 记事本
+09:38:42:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:38:57:  μVision
+09:39:02:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:39:42:  μVision
+09:39:47:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:44:47:  Watch 1
+09:44:52:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:44:47:  Watch 1
+09:44:52:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:47:52:  FTFE_FlashConfig
+09:47:57:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:54:22:  μVision
+09:54:27:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:54:47:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:55:32:  发送指令到K18
+09:55:37:  TCR调测工具（研发版）V1.0.0.4
+09:55:42:  μVision
+09:55:47:  发送指令到K18
+09:55:52:  TCR调测工具（研发版）V1.0.0.4
+09:56:02:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:57:17:  TCR调测工具（研发版）V1.0.0.4
+09:57:27:  startup_MKE18F16.s - 记事本
+09:57:37:  KE18-BOOT
+09:57:42:  KE18-ESS
+09:57:47:  查找
+09:57:52:  startup_MKE18F16.s - 记事本
+09:57:57:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:58:02:  TCR调测工具（研发版）V1.0.0.4
+09:58:07:  发送指令到K18
+09:58:22:  TCR调测工具（研发版）V1.0.0.4
+09:58:27:  JLink - Cortex-M Error
+09:58:32:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:58:52:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:59:02:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:59:42:  startup_MKE18F16.s - “KE18-ESS”中的搜索结果
+09:59:47:  深圳出差
+09:59:52:  CRS调试工具
+09:59:57:  TCR调测工具（研发版）V1.0.0.4
+10:00:02:  发送指令到K18
+09:58:07:  发送指令到K18
+09:58:22:  TCR调测工具（研发版）V1.0.0.4
+09:58:27:  JLink - Cortex-M Error
+09:58:32:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:58:52:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:59:02:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:59:42:  startup_MKE18F16.s - “KE18-ESS”中的搜索结果
+09:59:47:  深圳出差
+09:59:52:  CRS调试工具
+09:59:57:  TCR调测工具（研发版）V1.0.0.4
+10:00:02:  发送指令到K18
+10:00:12:  20200918
+10:00:17:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:00:32:  JLink - Cortex-M Error
+10:00:37:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:01:17:  startup_MKE18F16.s - 记事本
+10:01:27:  计算器
+10:02:37:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:02:42:  本地磁盘 (D:)
+10:02:47:  startup_MKE18F16.s - KE18-BOOT
+10:02:52:  查找
+10:02:57:  startup_MKE18F16.s - 记事本
+10:03:02:  计算器
+10:03:12:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:03:17:  JLink - Cortex-M Error
+10:03:22:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:03:37:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:03:47:  ID-38 20张英镑50元面额纸币执行大额存款第14张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B8
+10:03:52:  Program Manager
+10:03:57:  192.168.28.47
+10:04:02:  08tcr测试过程记录
+10:04:07:  K06
+10:04:12:  00-06
+10:04:17:  K06
+10:04:27:  Tools
+10:04:42:  CRS调试工具
+10:04:47:  TCR调测工具（研发版）V1.0.0.4
+10:05:02:  发送指令到K18
+10:05:07:  Decode
+10:05:12:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:05:22:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:06:52:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:07:12:  JLink - Cortex-M Error
+10:07:17:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:07:22:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:07:27:  20200918
+10:07:32:  TCR调测工具（研发版）V1.0.0.4
+10:07:42:  发送指令到K18
+10:07:47:  Decode
+10:07:52:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:08:02:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:10:57:  网易有道词典
+10:11:07:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:11:17:  网易有道词典
+10:11:22:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:13:27:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:13:37:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:13:57:  JLink - Cortex-M Error
+10:14:02:  发送指令到K18
+10:14:07:  TCR调测工具（研发版）V1.0.0.4
+10:14:12:  JLink - Cortex-M Error
+10:14:22:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:14:27:  μVision
+10:14:32:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:14:37:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:14:42:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:14:52:  Decode
+10:14:57:  TCR调测工具（研发版）V1.0.0.4
+10:14:07:  TCR调测工具（研发版）V1.0.0.4
+10:14:12:  JLink - Cortex-M Error
+10:14:22:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:14:27:  μVision
+10:14:32:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:14:37:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:14:42:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:14:52:  Decode
+10:14:57:  TCR调测工具（研发版）V1.0.0.4
+10:15:07:  发送指令到K18
+10:15:17:  Decode
+10:15:22:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:15:27:  计算器
+10:15:37:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:15:42:  startup_MKE18F16.s - 记事本
+10:16:32:  计算器
+10:16:37:  CRS
+10:16:42:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+10:16:47:  查找
+10:16:52:  startup_MKE18F16.s - 记事本
+10:17:27:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:17:52:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:25:57:  μVision
+10:26:02:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:27:07:  JLink - Cortex-M Error
+10:27:12:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:27:32:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:27:37:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:27:47:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+10:27:52:  log
+10:27:57:  TCR调测工具（研发版）V1.0.0.4
+10:28:02:  发送指令到K18
+10:28:12:  TCR调测工具（研发版）V1.0.0.4
+10:28:22:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:28:32:  TCR调测工具（研发版）V1.0.0.4
+10:28:37:  发送指令到K18
+10:28:42:  20200918
+10:28:47:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:29:12:  TCR调测工具（研发版）V1.0.0.4
+10:29:27:  发送指令到K18
+10:29:32:  20200918
+10:29:37:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:29:47:  发送指令到K18
+10:29:52:  TCR调测工具（研发版）V1.0.0.4
+10:30:02:  发送指令到K18
+10:28:12:  TCR调测工具（研发版）V1.0.0.4
+10:28:22:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:28:32:  TCR调测工具（研发版）V1.0.0.4
+10:28:37:  发送指令到K18
+10:28:42:  20200918
+10:28:47:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:29:12:  TCR调测工具（研发版）V1.0.0.4
+10:29:27:  发送指令到K18
+10:29:32:  20200918
+10:29:37:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:29:47:  发送指令到K18
+10:29:52:  TCR调测工具（研发版）V1.0.0.4
+10:30:02:  发送指令到K18
+10:30:17:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:30:22:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:30:27:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:31:12:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:31:17:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:31:27:  TCR调测工具（研发版）V1.0.0.4
+10:31:37:  发送指令到K18
+10:31:42:  Decode
+10:31:47:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:32:02:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:33:37:  μVision
+10:33:42:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:36:03:  JLink - Cortex-M Error
+10:36:23:  μVision
+10:36:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:36:43:  JLink - Cortex-M Error
+10:36:58:  μVision
+10:37:03:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:37:38:  删除多个项目
+10:37:43:  TCR调测工具（研发版）V1.0.0.4
+10:37:48:  发送指令到K18
+10:37:53:  20200918
+10:37:58:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:38:23:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:38:43:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:38:48:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:38:58:  锁屏状态
+10:39:03:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:39:18:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:40:08:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:40:13:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:40:23:  Decode
+10:40:28:  TCR调测工具（研发版）V1.0.0.4
+10:40:33:  发送指令到K18
+10:40:38:  20200918
+10:40:43:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:40:58:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:42:53:  μVision
+10:42:58:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:43:08:  JLink - Cortex-M Error
+10:43:13:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:43:18:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:43:28:  TCR调测工具（研发版）V1.0.0.4
+10:43:38:  发送指令到K18
+10:43:48:  Decode
+10:43:53:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:44:43:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:44:43:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:46:13:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:46:23:  20200918
+10:46:28:  TCR调测工具（研发版）V1.0.0.4
+10:46:33:  发送指令到K18
+10:46:38:  20200918
+10:46:43:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:46:58:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:47:28:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:47:43:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:48:38:  计算器
+10:48:48:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:49:43:  计算器
+10:49:48:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:49:58:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:50:38:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:50:43:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:50:48:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:50:53:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:50:58:  锁屏状态
+10:51:03:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:51:08:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:51:13:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:51:18:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:52:53:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:52:58:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:54:53:  JLink - Cortex-M Error
+10:54:58:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:55:13:  JLink - Cortex Error
+10:55:23:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:55:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:55:33:  Decode
+10:55:38:  TCR调测工具（研发版）V1.0.0.4
+10:55:48:  发送指令到K18
+10:55:53:  TCR调测工具（研发版）V1.0.0.4
+10:55:58:  Decode
+10:56:03:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+10:56:13:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:56:53:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:57:18:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:57:28:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:57:48:  μVision
+10:57:53:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:58:53:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:59:03:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:59:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:59:33:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:58:53:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:59:03:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:59:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:59:33:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:05:13:  JLink - Cortex-M Error
+11:05:18:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:05:53:  发送指令到K18
+11:05:58:  删除多个项目
+11:06:03:  20200918
+11:06:13:  KE18LOG.bat - 快捷方式
+11:06:18:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:07:03:  锁屏状态
+11:07:08:  20200918
+11:07:13:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:08:28:  eSpace
+11:08:33:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:08:43:  JLink - Cortex-M Error
+11:08:53:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:11:18:  网易有道词典
+11:11:23:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:11:38:  KE1xFP100M168SF0.pdf - Adobe Reader
+11:12:08:  20200918
+11:12:13:  02-学习资料
+11:12:23:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+11:13:33:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:13:43:  网易有道词典
+11:13:53:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:14:23:  μVision
+11:14:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:14:33:  网易有道词典
+11:14:38:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:14:23:  μVision
+11:14:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:14:33:  网易有道词典
+11:14:38:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:15:38:  网易有道词典
+11:15:48:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:16:28:  网易有道词典
+11:16:38:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:18:23:  μVision
+11:18:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:19:28:  JLink - Cortex-M Error
+11:19:33:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:21:28:  μVision
+11:21:33:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:22:23:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:22:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:22:53:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:23:08:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:23:33:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:24:03:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+11:24:08:  KE18-BOOT
+11:24:13:  TortoiseMerge
+11:24:18:  Application.c - TortoiseMerge
+11:24:28:  FlashDriver.c - TortoiseMerge
+11:24:33:  startup_MKE18F16.s - TortoiseMerge
+11:24:38:  KE18-BOOT
+11:24:43:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:25:43:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:25:58:  TCR调测工具（研发版）V1.0.0.4
+11:26:03:  发送指令到K18
+11:26:13:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:26:18:  发送指令到K18
+11:26:23:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:26:43:  计算器
+11:26:58:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:27:03:  发送指令到K18
+11:27:08:  TCR调测工具（研发版）V1.0.0.4
+11:27:13:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:27:18:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:27:23:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:27:33:  TCR调测工具（研发版）V1.0.0.4
+11:27:43:  发送指令到K18
+11:27:48:  TCR调测工具（研发版）V1.0.0.4
+11:27:53:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:28:03:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:28:08:  μVision
+11:28:13:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:28:18:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:28:23:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:28:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:29:13:  JLink - Cortex-M Error
+11:29:23:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:29:28:  μVision
+11:29:38:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:29:48:  TCR调测工具（研发版）V1.0.0.4
+11:29:58:  发送指令到K18
+11:30:03:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:28:08:  μVision
+11:28:13:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:28:18:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:28:23:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:28:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:29:13:  JLink - Cortex-M Error
+11:29:23:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:29:28:  μVision
+11:29:38:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:29:48:  TCR调测工具（研发版）V1.0.0.4
+11:29:58:  发送指令到K18
+11:30:03:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:30:28:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:31:23:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:31:43:  TCR调测工具（研发版）V1.0.0.4
+11:31:48:  发送指令到K18
+11:31:53:  TCR调测工具（研发版）V1.0.0.4
+11:32:03:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:33:33:  JLink - Cortex-M Error
+11:33:38:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:33:58:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:34:03:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:34:13:  TCR调测工具（研发版）V1.0.0.4
+11:34:18:  发送指令到K18
+11:34:23:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:34:33:  μVision
+11:34:38:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:35:53:  μVision
+11:35:58:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:38:33:  网易有道词典
+11:38:38:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:39:58:  (3条消息) 如何加密你的MC9S12(X)设备_夏日白云的boke-CSDN博客 - Google Chrome
+11:40:03:  锁屏状态
+11:40:08:  Backdoor key SCI输入密钥_百度搜索 - Google Chrome
+11:40:23:  汇编 STRB_百度搜索 - Google Chrome
+11:40:28:  https://www.baidu.com/link?url=sO8X_A8I-7C3X6AbXh8v57yNSl0DPsLbKjuKRCuLmsgUaI7jk8ERqUkOWBB9W07KibJ7t4OES7TJiuxe_aBtCLA5DdZPrxO1aAtdgW5zLZi&wd=&eqid=910115920000cc79000000025f642c25 - Google Chrome
+11:40:33:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:41:53:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:42:33:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:43:28:  02-学习资料
+11:43:33:  本地磁盘 (E:)
+11:43:38:  删除多个项目
+11:43:43:  锁屏状态
+11:43:48:  TCR调测工具（研发版）V1.0.0.4
+11:43:53:  打开
+11:43:58:  发送指令到K18
+11:44:03:  20200918
+11:44:08:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+11:44:13:  锁屏状态
+11:44:18:  μVision
+11:44:23:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:44:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:44:53:  网易有道词典
+11:45:03:  汇编 STRB_百度搜索 - Google Chrome
+11:44:08:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+11:44:13:  锁屏状态
+11:44:18:  μVision
+11:44:23:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:44:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:44:53:  网易有道词典
+11:45:03:  汇编 STRB_百度搜索 - Google Chrome
+11:45:08:  Invalid instruction codes and out-of bounds addresses_百度搜索 - Google Chrome
+11:45:13:  MCUXpresso SDK API Reference Manual: C90TFS Flash Driver - Google Chrome
+11:45:18:  翻译此页？
+11:45:33:  锁屏状态
+13:09:18:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:09:23:  网易有道词典
+13:09:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:09:53:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:10:09:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:10:19:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:10:24:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:10:34:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:10:39:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:10:49:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:10:59:  网易有道词典
+13:11:09:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:11:14:  网易有道词典
+13:11:39:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:12:14:  网易有道词典
+13:12:19:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:12:44:  网易有道词典
+13:12:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:13:54:  CRS
+13:13:59:  工作副本
+13:14:04:  TortoiseMerge
+13:14:09:  fsl_flash.c - TortoiseMerge
+13:14:19:  TortoiseMerge
+13:14:24:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+13:14:44:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:14:09:  fsl_flash.c - TortoiseMerge
+13:14:19:  TortoiseMerge
+13:14:24:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+13:14:44:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:15:24:  μVision
+13:15:29:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:16:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:17:59:  μVision
+13:18:04:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:21:09:  Decode
+13:21:14:  发送指令到K18
+13:21:19:  TCR调测工具（研发版）V1.0.0.4
+13:21:39:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:23:29:  锁屏状态
+13:23:34:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:23:44:  TCR调测工具（研发版）V1.0.0.4
+13:23:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:23:54:  Toolbox
+13:23:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:24:24:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:24:29:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:24:34:  TCR调测工具（研发版）V1.0.0.4
+13:24:39:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:24:44:  20200918
+13:24:49:  发送指令到K18
+13:24:54:  20200918
+13:24:59:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+13:25:09:  TCR调测工具（研发版）V1.0.0.4
+13:25:29:  发送指令到K18
+13:25:34:  20200918
+13:25:39:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+13:26:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:26:59:  TCR调测工具（研发版）V1.0.0.4
+13:27:04:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:27:49:  KE18-ESS
+13:27:54:  startup_MKE18F16.s - KE18-BOOT
+13:27:59:  KE18-BOOT
+13:28:04:  D:\CRS\KE18-BOOT - 工作副本 - TortoiseSVN
+13:28:09:  startup_MKE18F16.s - TortoiseMerge
+13:28:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:28:34:  Invalid instruction codes and out-of bounds addresses_百度搜索 - Google Chrome
+13:28:39:  ke18BSP_百度搜索 - Google Chrome
+13:28:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision (未响应)
+13:28:54:  Drivers
+13:28:59:  µVision IDE
+13:29:04:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision (未响应)
+13:29:09:  Ke18Bsp_百度搜索 - Google Chrome
+13:29:14:  Ke18Bsp _百度搜索 - Google Chrome
+13:29:19:  Ke18Bsp 下载_百度搜索 - Google Chrome
+13:29:24:  The world’s leading software development platform · GitHub - Google Chrome
+13:29:29:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:29:39:  CRS
+13:29:44:  The world’s leading software development platform · GitHub - Google Chrome
+13:29:59:  Sign in to GitHub · GitHub - Google Chrome
+13:28:09:  startup_MKE18F16.s - TortoiseMerge
+13:28:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:28:34:  Invalid instruction codes and out-of bounds addresses_百度搜索 - Google Chrome
+13:28:39:  ke18BSP_百度搜索 - Google Chrome
+13:28:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision (未响应)
+13:28:54:  Drivers
+13:28:59:  µVision IDE
+13:29:04:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision (未响应)
+13:29:09:  Ke18Bsp_百度搜索 - Google Chrome
+13:29:14:  Ke18Bsp _百度搜索 - Google Chrome
+13:29:19:  Ke18Bsp 下载_百度搜索 - Google Chrome
+13:29:24:  The world’s leading software development platform · GitHub - Google Chrome
+13:29:29:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:29:39:  CRS
+13:29:44:  The world’s leading software development platform · GitHub - Google Chrome
+13:29:59:  Sign in to GitHub · GitHub - Google Chrome
+13:30:09:  GitHub - Google Chrome
+13:30:14:  Search · Ke18Bsp - Google Chrome
+13:30:24:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:31:29:  Drivers
+13:31:44:  CRS
+13:31:54:  TCRControlCmdDLL
+13:31:59:  TCR调测工具（研发版）V1.0.0.4
+13:32:09:  TCRControlCmdDLL
+13:32:14:  发送指令到K18
+13:32:19:  TCR调测工具（研发版）V1.0.0.4
+13:32:24:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+13:32:44:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:32:54:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+13:33:09:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:33:14:  Search · Ke18Bsp - Google Chrome
+13:33:19:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:33:24:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:33:34:  Search · Ke18Bsp - Google Chrome
+13:33:39:  百度一下，你就知道 - Google Chrome
+13:33:44:  FLASH_SecurityBypass_百度搜索 - Google Chrome
+13:34:09:  飞思卡尔 FLASH_SecurityBypass_百度搜索 - Google Chrome
+13:34:14:  飞思卡尔HCS12系列 Flash的加密解密解决方法 - 单片机 - Google Chrome
+13:34:54:  Adobe Flash Player Security Bypass Vulnerability Jan14 (Mac OS X) - Google Chrome
+13:34:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:35:19:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+13:35:24:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:35:29:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+13:35:34:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:35:39:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:35:54:  网易有道词典
+13:36:09:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:36:14:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+13:36:34:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:37:14:  KE18-ESS
+13:37:19:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:39:59:  Adobe Flash Player Security Bypass Vulnerability Jan14 (Mac OS X) - Google Chrome
+13:40:04:  飞思卡尔 FLASH_SecurityBypass_百度搜索 - Google Chrome
+13:40:09:  callFlashRunCommand_百度搜索 - Google Chrome
+13:40:24:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:41:14:  JLink - Cortex-M Error
+13:41:24:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:41:29:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:41:49:  删除多个项目
+13:41:54:  TCR调测工具（研发版）V1.0.0.4
+13:41:59:  发送指令到K18
+13:42:04:  Decode
+13:42:09:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+13:42:14:  锁屏状态
+13:42:19:  CRS
+13:42:24:  startup_MKE18F16.s - “KE18-ESS”中的搜索结果
+13:42:29:  查找
+13:42:34:  startup_MKE18F16.s - 记事本
+13:43:04:  startup_MKE18F16.s - “KE18-ESS”中的搜索结果
+13:43:09:  startup_MKE18F16.s - KE18-BOOT
+13:43:14:  startup_MKE18F16.s - 记事本
+13:43:49:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:43:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:44:39:  Toolbox
+13:44:44:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:44:39:  Toolbox
+13:44:44:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:45:14:  Toolbox
+13:45:19:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:45:54:  网易有道词典
+13:46:24:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:46:29:  Toolbox
+13:46:34:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:46:39:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+13:46:44:  查找
+13:46:49:  startup_MKE18F16.s - 记事本
+13:46:59:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+13:47:04:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:47:29:  μVision
+13:47:34:  锁屏状态
+13:47:39:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:47:49:  CRS
+13:47:54:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+13:47:59:  startup_MKE18F16.s - 记事本
+13:48:04:  查找
+13:48:09:  startup_MKE18F16.s - 记事本
+13:48:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:48:24:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:48:39:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:49:34:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:49:39:  callFlashRunCommand_百度搜索 - Google Chrome
+13:49:44:  锁屏状态
+13:49:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:51:14:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:51:19:  网易有道词典
+13:51:24:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:51:29:  网易有道词典
+13:51:49:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:51:54:  网易有道词典
+13:51:59:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:52:09:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:52:14:  Toolbox
+13:52:19:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:52:39:  TCR调测工具（研发版）V1.0.0.4
+13:52:49:  发送指令到K18
+13:52:54:  20200918
+13:52:59:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+13:53:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:54:49:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:57:09:  网易有道词典
+13:57:24:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:57:39:  网易有道词典
+13:57:54:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:58:24:  网易有道词典
+13:58:44:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:59:54:  网易有道词典
+14:00:04:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:58:24:  网易有道词典
+13:58:44:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:59:54:  网易有道词典
+14:00:04:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:00:39:  网易有道词典
+14:00:44:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:00:59:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+14:01:04:  查找
+14:01:09:  startup_MKE18F16.s - 记事本
+14:01:39:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:02:04:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:02:19:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:02:29:  20200918
+14:02:34:  TCR调测工具（研发版）V1.0.0.4
+14:02:39:  发送指令到K18
+14:02:44:  20200918
+14:02:49:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+14:03:29:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:03:39:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+14:03:44:  锁屏状态
+14:03:54:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:03:59:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+14:04:04:  查找
+14:04:09:  startup_MKE18F16.s - 记事本
+14:04:14:  锁屏状态
+14:04:19:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:04:54:  20200918
+14:04:59:  TCR调测工具（研发版）V1.0.0.4
+14:05:14:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:05:19:  TCR调测工具（研发版）V1.0.0.4
+14:05:29:  发送指令到K18
+14:05:34:  20200918
+14:05:39:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+14:05:49:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+14:05:54:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:06:04:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:06:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:06:19:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+14:06:29:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:06:34:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:06:44:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:06:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:06:54:  锁屏状态
+14:06:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:08:19:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:08:24:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:08:34:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:09:04:  网易有道词典
+14:09:09:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:10:04:  网易有道词典
+14:10:44:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:10:54:  网易有道词典
+14:11:04:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:11:09:  网易有道词典
+14:11:19:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:11:24:  网易有道词典
+14:11:34:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:11:39:  网易有道词典
+14:11:49:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:12:09:  网易有道词典
+14:12:14:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:12:39:  网易有道词典
+14:12:44:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:12:59:  网易有道词典
+14:13:04:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:13:24:  网易有道词典
+14:13:39:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:13:49:  网易有道词典
+14:13:54:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:14:34:  网易有道词典
+14:14:39:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:14:34:  网易有道词典
+14:14:39:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:16:04:  startup_MKE18F16.s - 记事本
+14:16:09:  查找
+14:16:14:  startup_MKE18F16.s - 记事本
+14:16:49:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:17:09:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:18:24:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:18:34:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:19:19:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:19:34:  TCR调测工具（研发版）V1.0.0.4
+14:19:44:  发送指令到K18
+14:19:49:  Decode
+14:19:54:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+14:20:09:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:20:39:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:20:59:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:21:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:21:59:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:22:04:  锁屏状态
+14:22:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:22:19:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:23:34:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:24:04:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:24:09:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:24:29:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:24:39:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:25:24:  JLink - Cortex-M Error
+14:25:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:25:40:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:25:45:  TCR调测工具（研发版）V1.0.0.4
+14:25:55:  锁屏状态
+14:26:00:  TCR调测工具（研发版）V1.0.0.4
+14:26:05:  发送指令到K18
+14:26:10:  20200918
+14:26:15:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+14:26:35:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:27:00:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:27:05:  eSpace
+14:27:15:  固件设计中心
+14:27:20:  eSpace
+14:28:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:28:45:  网易有道词典
+14:28:55:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:29:30:  计算器
+14:28:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:28:45:  网易有道词典
+14:28:55:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:29:30:  计算器
+14:30:50:  startup_MKE18F16.s - 记事本
+14:30:55:  查找
+14:31:05:  startup_MKE18F16.s - 记事本
+14:43:55:  「开始」菜单
+14:44:00:  startup_MKE18F16.s - 记事本
+14:45:20:  锁屏状态
+14:45:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:45:45:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:46:00:  本地磁盘 (D:)
+14:46:05:  Drivers
+14:46:10:  FlashDriver
+14:46:15:  Ke18Bsp
+14:46:25:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:47:15:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+14:47:30:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:49:45:  startup_MKE18F16.s - 记事本
+14:49:55:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:50:55:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:51:20:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:51:40:  20200918
+14:51:45:  TCR调测工具（研发版）V1.0.0.4
+14:51:50:  发送指令到K18
+14:52:05:  Decode
+14:52:10:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+14:52:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:54:10:  μVision
+14:54:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:58:25:  μVision
+14:58:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:00:00:  Toolbox
+14:58:25:  μVision
+14:58:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:00:00:  Toolbox
+15:00:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:00:15:  发送指令到K18
+15:00:30:  TCR调测工具（研发版）V1.0.0.4
+15:00:35:  发送指令到K18
+15:00:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:00:45:  Ke18Bsp
+15:00:50:  KE18-ESS
+15:00:55:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+15:01:00:  startup_MKE18F16.s - TortoiseMerge
+15:01:05:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+15:01:10:  fsl_flash.c - TortoiseMerge
+15:01:25:  StepMotor.c - TortoiseMerge
+15:01:35:  TortoiseMerge
+15:01:40:  TortoiseSVN
+15:01:45:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+15:01:50:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:02:05:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.h (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:02:10:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.h • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:02:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:02:45:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.h • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:03:15:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.h (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:03:40:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.h • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:04:00:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.h (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:04:05:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:04:10:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:04:20:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:04:30:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:07:10:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:07:15:  D:\CRS\KE18-ESS\Applications\MemoryConfig.h (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:07:25:  D:\00-06\DRB--\Applications\MemoryConfig.h (DRB--) - Sublime Text (UNREGISTERED)
+15:07:30:  TCR调测工具（研发版）V1.0.0.4
+15:07:40:  D:\00-06\DRB--\Applications\MemoryConfig.h (DRB--) - Sublime Text (UNREGISTERED)
+15:07:50:  untitled (trunk) - Sublime Text (UNREGISTERED)
+15:08:00:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepromConfig.h (trunk) - Sublime Text (UNREGISTERED)
+15:08:30:  锁屏状态
+15:08:35:  计算器
+15:09:05:  D:\00-06\DRB--\Applications\MemoryConfig.h (DRB--) - Sublime Text (UNREGISTERED)
+15:09:10:  D:\CRS\KE18-ESS\Applications\MemoryConfig.h (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:09:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:09:25:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:09:35:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:09:50:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:10:20:  D:\CRS\KE18-ESS\Drivers\FlashDriver\SnbcFlashDriver.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:11:20:  D:\CRS\KE18-ESS\Drivers\FlashDriver\SnbcFlashDriver.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:11:35:  D:\CRS\KE18-ESS\Drivers\Ke18Bsp\fsl_flash.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:11:40:  D:\CRS\KE18-ESS\Drivers\FlashDriver\SnbcFlashDriver.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:12:10:  D:\CRS\KE18-ESS\Drivers\FlashDriver\SnbcFlashDriver.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:12:15:  D:\CRS\KE18-ESS\Drivers\FlashDriver\SnbcFlashDriver.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:12:20:  D:\CRS\KE18-ESS\Drivers\FlashDriver\SnbcFlashDriver.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:12:35:  D:\CRS\KE18-ESS\Drivers\FlashDriver\SnbcFlashDriver.h • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:12:40:  D:\CRS\KE18-ESS\Drivers\FlashDriver\SnbcFlashDriver.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:12:45:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:13:05:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:13:10:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:13:35:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:15:30:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:15:50:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:15:55:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:16:00:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.h (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:16:10:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:16:15:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+15:16:25:  μVision
+15:16:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:17:35:  Save As
+15:17:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:18:15:  KE18-ESS
+15:18:20:  startup.c - TortoiseMerge
+15:18:25:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+15:18:30:  TortoiseSVN
+15:18:35:  startup.c - TortoiseMerge
+15:18:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:19:10:  Save As
+15:19:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:19:30:  Add Files to Group 'Applications'
+15:19:40:  KE18-ESS
+15:19:45:  Applications
+15:19:50:  CRS
+15:19:55:  Applications
+15:20:00:  D:\CRS\KE18-UP\Applications - 工作副本 - TortoiseSVN
+15:20:05:  Applications
+15:20:15:  还原 失败！
+15:20:20:  CRS
+15:20:25:  回收
+15:20:30:  检出
+15:20:40:  新建文本文档.exe - 快捷方式
+15:20:45:  检出 失败！
+15:21:00:  KE18-UP
+15:21:05:  trunk - 检出 - TortoiseSVN
+15:21:20:  检出 完成！
+15:21:40:  KE18-UP
+15:21:45:  CRS
+15:21:50:  确认文件夹替换
+15:21:55:  正在复制 2,654 个项目(169 MB)
+15:22:05:  剩余 5 秒
+15:22:10:  KE18-UP
+15:22:25:  TortoiseMerge
+15:22:35:  AdapterCtrl.c - TortoiseMerge
+15:22:40:  TortoiseMerge
+15:22:45:  Init.c - TortoiseMerge
+15:22:50:  InstrExe.c - TortoiseMerge
+15:23:20:  InstrExe.h - TortoiseMerge
+15:23:25:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+15:23:30:  InstrExp.c - TortoiseMerge
+15:23:35:  InstrExp.h - TortoiseMerge
+15:23:40:  Update.c - TortoiseMerge
+15:23:45:  StepMotor.c - TortoiseMerge
+15:23:50:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+15:23:55:  eSpace
+15:24:05:  张健4
+15:24:20:  KE18-UP
+15:24:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:24:40:  KE18-UP
+15:24:45:  文件补丁  
+15:24:50:  MemoryConfig.h - TortoiseMerge
+15:25:15:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+15:25:20:  Update.c - TortoiseMerge
+15:25:25:  跳转列表
+15:25:30:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:26:25:  μVision
+15:26:30:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:26:40:  JLink - Cortex-M Error
+15:26:45:  发送指令到K18
+15:26:50:  TCR调测工具（研发版）V1.0.0.4
+15:26:55:  发送指令到K18
+15:27:15:  TCR调测工具（研发版）V1.0.0.4
+15:27:20:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:29:10:  TCR调测工具（研发版）V1.0.0.4
+15:29:15:  SECSplashWnd
+15:29:20:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:29:30:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:29:40:  TCR调测工具（研发版）V1.0.0.4
+15:29:45:  发送指令到K18
+15:30:00:  TCR调测工具（研发版）V1.0.0.4
+15:29:10:  TCR调测工具（研发版）V1.0.0.4
+15:29:15:  SECSplashWnd
+15:29:20:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:29:30:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:29:40:  TCR调测工具（研发版）V1.0.0.4
+15:29:45:  发送指令到K18
+15:30:00:  TCR调测工具（研发版）V1.0.0.4
+15:30:05:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:30:20:  μVision
+15:30:25:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:30:30:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:30:35:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:31:00:  μVision
+15:31:05:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:32:26:  JLink - Cortex-M Error
+15:32:31:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:32:36:  JLink - Cortex-M Error
+15:32:41:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:32:46:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:32:51:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:33:06:  TCR调测工具（研发版）V1.0.0.4
+15:33:11:  发送指令到K18
+15:33:21:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:33:41:  TCR调测工具（研发版）V1.0.0.4
+15:33:51:  发送指令到K18
+15:33:56:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:34:01:  发送指令到K18
+15:34:06:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:34:41:  TCR调测工具（研发版）V1.0.0.4
+15:34:46:  发送指令到K18
+15:35:01:  TCR调测工具（研发版）V1.0.0.4
+15:35:06:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:35:16:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:35:21:  μVision
+15:35:26:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:36:11:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:36:31:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:36:41:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:36:46:  μVision
+15:36:51:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:37:41:  TCR调测工具（研发版）V1.0.0.4
+15:37:46:  发送指令到K18
+15:38:06:  TCR调测工具（研发版）V1.0.0.4
+15:38:11:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:40:51:  JLink - Cortex-M Error
+15:40:56:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:41:06:  μVision
+15:41:11:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:42:01:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:43:06:  TCR调测工具（研发版）V1.0.0.4
+15:43:11:  发送指令到K18
+15:43:21:  TCR调测工具（研发版）V1.0.0.4
+15:43:31:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:43:36:  JLink - Cortex-M Error
+15:43:41:  发送指令到K18
+15:43:51:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:44:01:  eSpace
+15:44:11:  窦志远
+15:44:26:  eSpace
+15:44:31:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:44:36:  TCR调测工具（研发版）V1.0.0.4
+15:44:11:  窦志远
+15:44:26:  eSpace
+15:44:31:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:44:36:  TCR调测工具（研发版）V1.0.0.4
+15:45:26:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:45:36:  KE18-UP
+15:45:41:  D:\CRS\KE18-UP\Tools\CreateJK.exe
+15:45:46:  Tools
+15:45:56:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:46:11:  Tools
+15:46:21:  TCR调测工具（研发版）V1.0.0.4
+15:46:26:  打开
+15:46:31:  TCR调测工具（研发版）V1.0.0.4
+15:46:46:  打开
+15:46:51:  TCR调测工具（研发版）V1.0.0.4
+15:47:06:  打开
+15:47:11:  TCR调测工具（研发版）V1.0.0.4
+15:47:31:  BTCRTestTool
+15:47:36:  TCR调测工具（研发版）V1.0.0.4
+15:47:41:  跳转列表
+15:47:46:  TCR调测工具（研发版）V1.0.0.4
+15:47:56:  BTCRTestTool
+15:48:01:  TCR调测工具（研发版）V1.0.0.4
+15:48:16:  Tools
+15:48:26:  TCR调测工具（研发版）V1.0.0.4
+15:48:41:  「开始」菜单
+15:48:46:  桌面整理
+15:48:51:  Bus Hound
+15:49:06:  TCR调测工具（研发版）V1.0.0.4
+15:49:11:  Bus Hound
+15:49:31:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:49:41:  Bus Hound
+15:50:11:  TCR调测工具（研发版）V1.0.0.4
+15:54:01:  窦志远
+15:54:46:  本地磁盘 (D:)
+15:54:51:  00-18
+15:54:56:  CRS
+15:55:01:  主页 - Internet Explorer
+15:55:11:  登录页面 - 数据抓取工具 - Google Chrome
+15:55:16:  数据抓取工具 - Google Chrome
+15:55:56:  锁屏状态
+15:56:01:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+15:56:06:  锁屏状态
+15:56:16:  数据抓取工具 - Google Chrome
+15:56:21:  无标题 - Google Chrome
+15:56:26:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+15:56:31:  锁屏状态
+15:56:36:  个人周报-张开发 (48).xlsx  [受保护的视图] - Excel
+15:56:46:  个人周报-张开发 (48).xlsx - Excel
+15:59:16:  数据抓取工具 - Google Chrome
+15:59:21:  打开
+15:59:26:  数据抓取工具 - Google Chrome
+15:59:31:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+15:59:16:  数据抓取工具 - Google Chrome
+15:59:21:  打开
+15:59:26:  数据抓取工具 - Google Chrome
+15:59:31:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+16:00:06:  姚世龙
+16:00:21:  本地磁盘 (E:)
+16:00:26:  00-06
+16:00:31:  锁屏状态
+16:00:36:  5.1 BOOTLOADER测试.xls  [兼容模式] - Excel
+16:01:01:  姚世龙
+16:02:06:  锁屏状态
+16:02:11:  窦志远
+16:02:16:  张健4
+16:02:26:  第三季度   TD数据统计
+16:02:36:  正在打开 - Excel
+16:02:41:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [受保护的视图] - Excel
+16:02:56:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [共享] - Excel
+16:03:31:  张健4
+16:03:41:  姚世龙
+16:03:56:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+16:04:01:  开始
+16:04:06:  桌面整理
+16:04:21:  回收 
+16:04:26:  删除文件
+16:04:31:  桌面整理
+16:04:41:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:04:46:  姚世龙
+16:06:26:  eSpace
+16:06:56:  姚世龙
+16:07:06:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+16:07:21:  远程邮箱管理
+16:07:31:  Error
+16:07:36:  姚世龙
+16:10:21:  新标签页 - Google Chrome
+16:10:26:  TestDirector 8.0
+16:10:31:  姚世龙
+16:11:06:  Defect Details
+16:11:21:  TestDirector 8.0
+16:11:26:  Defect Details
+16:11:31:  姚世龙
+16:11:41:  锁屏状态
+16:11:46:  姚世龙
+16:11:51:  百度一下，你就知道 - Google Chrome
+16:11:56:  c语言检索_百度搜索 - Google Chrome
+16:12:01:  (3条消息) 使用C语言查看一个文件夹中所有文件及目录_麒麒川的博客-CSDN博客 - Google Chrome
+16:12:16:  姚世龙
+16:13:01:  TestDirector 8.0
+16:13:06:  Defect Details
+16:13:11:  TestDirector 8.0
+16:13:16:  姚世龙
+16:13:21:  c语言检索文目录下文件_百度搜索 - Google Chrome
+16:13:26:  姚世龙
+16:13:46:  新建文本文档.exe - 快捷方式
+16:13:51:  姚世龙
+16:13:56:  C语言如何实现遍历文件夹下的所有txt文件并在文件中搜索字符串_百度知道 - Google Chrome
+16:14:01:  怎样使用C语言列出某个目录下的文件?_百度知道 - Google Chrome
+16:14:06:  锁屏状态
+16:14:11:  新建文本文档.exe - 快捷方式
+16:14:16:  姚世龙
+16:14:31:  怎样使用C语言列出某个目录下的文件?_百度知道 - Google Chrome
+16:14:46:  姚世龙
+16:14:06:  锁屏状态
+16:14:11:  新建文本文档.exe - 快捷方式
+16:14:16:  姚世龙
+16:14:31:  怎样使用C语言列出某个目录下的文件?_百度知道 - Google Chrome
+16:14:46:  姚世龙
+16:16:01:  锁屏状态
+16:16:06:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+16:28:26:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+16:29:06:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+16:30:01:  固件设计中心
+16:28:26:  K18_0000_20200918080535.log - DRB.tat* - TextAnalysisTool.NET
+16:29:06:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+16:30:01:  固件设计中心
+16:30:06:  警告
+16:30:11:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [受保护的视图] - Excel
+16:30:41:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [共享] - Excel
+16:31:26:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [只读]  [共享] - Excel
+16:36:51:  Error
+16:36:56:  TestDirector 8.0
+16:37:11:  Defect Details
+16:37:31:  TestDirector 8.0
+16:37:36:  Defect Details
+16:37:51:  TestDirector 8.0
+16:37:56:  Defect Details
+16:38:21:  TestDirector 8.0
+16:38:26:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [只读]  [共享] - Excel
+16:39:56:  TestDirector 8.0
+16:40:01:  Defect Details
+16:40:06:  TestDirector 8.0
+16:40:11:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [只读]  [共享] - Excel
+16:40:36:  Defect Details
+16:40:46:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [只读]  [共享] - Excel
+16:41:16:  第三季度
+16:42:01:  Microsoft Excel
+16:42:06:  开始
+16:42:11:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [只读]  [共享] - Excel
+16:42:16:  副本待分析- 2020 年三 季度TD缺陷报表-固件设计中心22.xlsx  [共享] - Excel
+16:42:21:  Excel
+16:42:26:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [共享] - Excel
+16:42:46:  锁屏状态
+16:42:51:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [共享] - Excel
+16:43:41:  姚世龙
+16:43:51:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [共享] - Excel
+16:45:11:  副本待分析- 2020 年三 季度TD缺陷报表-固件设计中心22.xlsx  [共享] - Excel
+16:45:51:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [共享] - Excel
+16:47:31:  Microsoft Excel
+16:49:12:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [共享] - Excel
+16:50:12:  Microsoft Excel
+16:50:17:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [共享] - Excel
+16:50:22:  Microsoft Excel
+16:50:27:  桌面整理
+16:50:32:  副本024 二级评审会议纪要;评V1.01.xlsx - Excel
+16:50:37:  桌面整理
+16:50:42:  钞箱-TCR常见故障说明.xlsx - Excel
+16:50:47:  姚世龙
+16:50:52:  桌面整理
+16:50:57:  新建文件夹
+16:51:02:  回收 
+16:51:07:  桌面整理
+16:51:12:  截图.PNG - Windows 照片查看器
+16:51:17:  姚世龙
+16:51:22:  删除文件
+16:51:27:  新建Microsoft Excel 工作表 (2).xlsx - Excel
+16:51:32:  删除文件
+16:51:37:  新建文件夹 (4)
+16:51:42:  姚世龙
+16:51:47:  删除文件
+16:51:52:  锁屏状态
+16:51:57:  删除文件夹
+16:52:02:  Speed.xlsx - Excel
+16:52:07:  回收 
+16:52:12:  姚世龙
+16:52:17:  桌面整理
+16:52:27:  删除文件
+16:52:32:  桌面整理
+16:58:47:  跳转列表
+16:58:52:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [只读]  [共享] - Excel
+16:58:47:  跳转列表
+16:58:52:  待分析- 2020 年三 季度TD缺陷报表-固件设计中心.xlsx  [只读]  [共享] - Excel
+17:00:27:  开始
+17:00:37:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+17:01:42:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+17:01:47:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+17:05:32:  eSpace
+17:07:17:  锁屏状态

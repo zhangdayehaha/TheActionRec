@@ -1,0 +1,96 @@
+2020-11-22 23:45:00-- 00:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 00:00:00-- 00:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 00:15:00-- 00:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 00:30:00-- 00:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 00:45:00-- 01:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 01:00:00-- 01:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 01:15:00-- 01:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 01:30:01-- 01:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 01:45:01-- 02:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 02:00:01-- 02:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 02:15:01-- 02:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 02:30:01-- 02:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 02:45:01-- 03:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 03:00:01-- 03:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 03:15:01-- 03:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 03:30:02-- 03:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 03:45:02-- 04:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 04:00:02-- 04:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 04:15:02-- 04:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 04:30:02-- 04:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 04:45:02-- 05:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 05:00:02-- 05:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 05:15:03-- 05:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 05:30:03-- 05:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 05:45:03-- 06:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 06:00:03-- 06:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 06:15:03-- 06:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 06:30:03-- 06:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 06:45:03-- 07:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 07:00:03-- 07:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 07:15:04-- 07:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 07:30:04-- 07:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 07:45:04-- 08:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 08:00:04-- 08:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 08:15:04-- 08:30:04     :    一  ：TCR调测工具 V3.36   106/8.83分钟       二  ：锁屏状态   25/2.08分钟     三  ：钞箱配置   11/0.91分钟
+2020-11-23 08:30:04-- 08:45:04     :    一  ：Symbol 'LockInit(enum {...})' redeclared (Arg. no. 1: enum/enum) conflicts with line 42, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Middlewares\Lock\Lock.h - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   42/3.5分钟       二  ：TCR调测工具 V3.36   41/3.41分钟     三  ：\\192.168.28.3\文件共享\组织共享\技术中心项目组共享\02-识别产品线\06- 刘建生\06 固件日报\共享文件\CRS\结构图\CRS传感器距离.exb - CAXA电子图板2005(企业版)   19/1.58分钟
+2020-11-23 08:45:04-- 09:00:00     :    一  ：TCR调测工具 V3.36   161/13.4分钟       二  ：自动播放   15/1.25分钟     三  ：iTunes   2/0.16分钟
+2020-11-23 09:00:00-- 09:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 09:15:00-- 09:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 09:30:00-- 09:45:00     :    一  ：TCR调测工具 V3.36   56/4.66分钟       二  ：E:\深圳出差\44\Applications\FlowControl\TrackClear.c (44) - Sublime Text (UNREGISTERED)   46/3.83分钟     三  ：E:\深圳出差\44\Applications\FlowControl\TrackSensor\TrackSensor.c (44) - Sublime Text (UNREGISTERED)   40/3.33分钟
+2020-11-23 09:45:00-- 10:00:03     :    一  ：Symbol 'LockOpen(enum {...})' redeclared (Arg. no. 1: enum/enum) conflicts with line 43, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Middlewares\Lock\Lock.h - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   39/3.25分钟       二  ：E:\深圳出差\44\Applications\FlowControl\TrackSensor\TrackSensor.c (44) - Sublime Text (UNREGISTERED)   24/2.0分钟     三  ：E:\深圳出差\44\Applications\FlowControl\TrackClear.c (44) - Sublime Text (UNREGISTERED)   16/1.33分钟
+2020-11-23 10:00:03-- 10:15:00     :    一  ：于斌1   29/2.41分钟       二  ：Symbol 'LockOpen(enum {...})' redeclared (Arg. no. 1: enum/enum) conflicts with line 43, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Middlewares\Lock\Lock.h - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   26/2.16分钟     三  ：HistoryRecord.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   24/2.0分钟
+2020-11-23 10:15:00-- 10:30:00     :    一  ：InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   51/4.25分钟       二  ：PC-LINT使用说明(newest) - 南京廖华 - Google Chrome   29/2.41分钟     三  ：网易有道词典   24/2.0分钟
+2020-11-23 10:30:00-- 10:45:00     :    一  ：● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   33/2.75分钟       二  ：Symbol 'DebugLogBufCtrl' (line 25, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\LogHandle\LogHandle.c) not defined - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   18/1.5分钟     三  ：PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   17/1.41分钟
+2020-11-23 10:45:00-- 11:00:01     :    一  ：Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   39/3.25分钟       二  ：local typedef 'CASHOUT_STATE' (line 144, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Track\Track.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   29/2.41分钟     三  ：external 'TrackCashLeftCheck(void)' (line 230, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Track\Track.c) could be made static - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   25/2.08分钟
+2020-11-23 11:00:01-- 11:15:01     :    一  ：Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   122/10.1分钟       二  ：EepromDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   15/1.25分钟     三  ：● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   7/0.58分钟
+2020-11-23 11:15:01-- 11:30:01     :    一  ：Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   121/10.0分钟       二  ：● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   7/0.58分钟     三  ：设置 - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   6/0.5分钟
+2020-11-23 11:30:01-- 11:45:01     :    一  ：D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision   65/5.41分钟       二  ：Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   60/5.0分钟     三  ：锁屏状态   51/4.25分钟
+2020-11-23 11:45:01-- 12:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 12:00:01-- 12:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 12:15:02-- 12:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 12:30:02-- 12:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 12:45:02-- 13:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 13:00:02-- 13:15:03     :    一  ：锁屏状态   122/10.1分钟       二  ：D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision   58/4.83分钟     三  ：   0/0.0分钟
+2020-11-23 13:15:03-- 13:30:03     :    一  ：D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision   83/6.91分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   30/2.5分钟     三  ：D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 工作副本 - TortoiseSVN   16/1.33分钟
+2020-11-23 13:30:03-- 13:45:04     :    一  ：D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision   62/5.16分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   43/3.58分钟     三  ：发送邮件   30/2.5分钟
+2020-11-23 13:45:04-- 14:00:04     :    一  ：D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision   76/6.33分钟       二  ：Loss of precision (arg. no. 1) (16 bits to 8 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   59/4.91分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   41/3.41分钟
+2020-11-23 14:00:04-- 14:15:04     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   44/3.66分钟       二  ：Loss of precision (arg. no. 1) (16 bits to 8 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   21/1.75分钟     三  ：Windows Media Player   14/1.16分钟
+2020-11-23 14:15:04-- 14:30:04     :    一  ：D:\CRS\666\Applications\ImpellerCtrl\ImpellerCtrl.c (666) - Sublime Text (UNREGISTERED)   86/7.16分钟       二  ：问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   15/1.25分钟     三  ：Likely use of null pointer 'unknown-name' in left argument to operator '->' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PaperManage\PaperManage.c: line 1346] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   11/0.91分钟
+2020-11-23 14:30:04-- 14:45:04     :    一  ：PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   55/4.58分钟       二  ：StdList.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   55/4.58分钟     三  ：D:\CRS\666\Applications\ImpellerCtrl\ImpellerCtrl.c (666) - Sublime Text (UNREGISTERED)   23/1.91分钟
+2020-11-23 14:45:04-- 15:00:04     :    一  ：PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   51/4.25分钟       二  ：StdList.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   40/3.33分钟     三  ：FramDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   18/1.5分钟
+2020-11-23 15:00:04-- 15:15:04     :    一  ：Lock.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   70/5.83分钟       二  ：Symbol 'LockInit(enum {...})' redeclared (Arg. no. 1: enum/enum) conflicts with line 42, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Middlewares\Lock\Lock.h - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   21/1.75分钟     三  ：Unusual use of 'SYM' in argument to sizeof - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   17/1.41分钟
+2020-11-23 15:15:04-- 15:30:04     :    一  ：胡蕊   43/3.58分钟       二  ：D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision   28/2.33分钟     三  ：Lock.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   28/2.33分钟
+2020-11-23 15:30:04-- 15:45:00     :    一  ：于斌1   30/2.5分钟       二  ：Suspicious pointer-to-pointer conversion (area too small) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   19/1.58分钟     三  ：InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   9/0.75分钟
+2020-11-23 15:45:00-- 16:00:00     :    一  ：Suspicious pointer-to-pointer conversion (area too small) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   64/5.33分钟       二  ：PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   37/3.08分钟     三  ：Too few initializers for aggregate 'unknown-name' of type 'unsigned short [2]' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   21/1.75分钟
+2020-11-23 16:00:00-- 16:15:00     :    一  ：Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   72/6.0分钟       二  ：问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   20/1.66分钟     三  ：项目 - Google Chrome   8/0.66分钟
+2020-11-23 16:15:00-- 16:30:00     :    一  ：LowerPlate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   45/3.75分钟       二  ：macro 'PLATE_SPEED_DEFAULT' was defined differently in another module (line 33, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Middlewares\Plate\UpperPlate.c) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   24/2.0分钟     三  ：Open Issues - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   23/1.91分钟
+2020-11-23 16:30:00-- 16:45:02     :    一  ：副本024 二级评审会议纪要;评V1.01.xlsx - Excel   57/4.75分钟       二  ：Expression-like macro 'SENSOR_ADJUST_TARGET' not parenthesized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   34/2.83分钟     三  ：Open Issues - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   12/1.0分钟
+2020-11-23 16:45:02-- 17:00:02     :    一  ：D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision   34/2.83分钟       二  ：活动 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   25/2.08分钟     三  ：副本024 二级评审会议纪要;评V1.01.xlsx - Excel   22/1.83分钟
+2020-11-23 17:00:02-- 17:15:02     :    一  ：锁屏状态   80/6.66分钟       二  ：Too few initializers for aggregate 'sInstrStruct' of type 'const INSTR_STRUCT [98]' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   36/3.0分钟     三  ：活动 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   15/1.25分钟
+2020-11-23 17:15:02-- 17:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 17:30:02-- 17:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 17:45:03-- 18:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 18:00:03-- 18:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 18:15:03-- 18:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 18:30:03-- 18:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 18:45:03-- 19:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 19:00:03-- 19:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 19:15:04-- 19:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 19:30:04-- 19:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 19:45:04-- 20:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 20:00:04-- 20:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 20:15:04-- 20:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 20:30:04-- 20:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 20:45:04-- 21:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 21:00:00-- 21:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 21:15:00-- 21:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 21:30:00-- 21:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 21:45:00-- 22:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 22:00:00-- 22:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 22:15:00-- 22:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 22:30:01-- 22:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 22:45:01-- 23:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 23:00:01-- 23:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 23:15:01-- 23:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-23 23:30:01-- 23:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

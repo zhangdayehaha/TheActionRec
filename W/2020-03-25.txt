@@ -1,0 +1,926 @@
+08:09:11:  eSpace Login
+08:15:11:  
+08:15:16:  eSpace
+08:15:21:  
+08:15:26:  董鲁乾
+08:17:11:  库
+08:17:16:  「开始」菜单
+08:17:21:  收取邮件 - 张开发
+08:17:26:  
+08:17:51:  董鲁乾
+08:19:06:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:19:31:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+08:19:46:  董鲁乾
+08:20:46:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+08:20:56:  
+08:21:01:  新建文件夹 (2)
+08:21:06:  人民币版本DRB钞箱测试缺陷.xlsx - Excel
+08:21:11:  本地磁盘 (E:)
+08:21:16:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:21:46:  eSpace
+08:21:51:  董鲁乾
+08:22:06:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:22:11:  
+08:23:11:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+08:23:16:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:26:46:  D:\00-06\1T1Stop\trunk\Middlewares\Nfc\Nfc.c (trunk) - Sublime Text (UNREGISTERED)
+08:26:51:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:27:46:  计算器
+08:27:56:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:28:06:  
+08:28:11:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:28:36:  选择数据源
+08:28:41:  轴标签
+08:28:46:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:29:46:  查找和替换
+08:29:56:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:28:06:  
+08:28:11:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:28:36:  选择数据源
+08:28:41:  轴标签
+08:28:46:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:29:46:  查找和替换
+08:29:56:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:30:11:  查找和替换
+08:30:16:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:30:21:  查找和替换
+08:30:36:  Microsoft Excel
+08:30:41:  查找和替换
+08:30:51:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:35:21:  
+08:35:26:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:35:36:  
+08:35:41:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:36:01:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+08:36:11:  untitled (trunk) - Sublime Text (UNREGISTERED)
+08:36:26:  D:\00-KE64\7\trunk\Applications\FlowControl\FlowControl.c (trunk) - Sublime Text (UNREGISTERED)
+08:36:31:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:37:01:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+08:37:06:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:38:21:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+08:38:26:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:38:31:  
+08:38:36:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:39:21:  D:\00-KE64\7\trunk\Applications\FlowControl\Plate\PlateModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+08:39:26:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:40:36:  D:\00-KE64\7\trunk\Applications\FlowControl\Plate\PlateModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+08:40:41:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:40:46:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:41:21:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:43:51:  
+08:43:56:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:46:41:  D:\00-KE64\7\trunk\Applications\FlowControl\Plate\PlateModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+08:47:16:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:47:21:  
+08:48:01:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:48:56:  
+08:49:01:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:49:16:  
+08:49:21:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:49:46:  D:\00-KE64\7\trunk\Applications\FlowControl\Plate\PlateModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+08:49:51:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:49:56:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+08:50:01:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:50:06:  D:\00-KE64\7\trunk\Applications\FlowControl\Plate\PlateModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+08:50:51:  D:\00-KE64\7\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+08:51:16:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:51:21:  
+08:51:26:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:52:26:  文档
+08:52:31:  1.bmp - Windows 照片查看器
+08:52:36:  文档
+08:52:41:  图片
+08:52:51:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:53:06:  (41 封私信) 首页 - 知乎 - Google Chrome
+08:53:11:  www.allhistory.com - Google Chrome
+08:53:16:  班车管理系统 - Google Chrome
+08:53:26:  班车管理系统 [新北洋集团] - Google Chrome
+08:55:13:  *Python 3.7.3 Shell*
+08:56:43:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:56:48:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:33:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+08:57:38:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:48:  Bin
+08:58:09:  新北洋2020年节假日列表 (1).xlsx - Excel
+08:59:44:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:59:54:  锁屏状态
+08:59:59:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:09:  新北洋2020年节假日列表 (1).xlsx - Excel
+08:59:44:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:59:54:  锁屏状态
+08:59:59:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:00:59:  于斌1
+09:01:04:  主页 - Internet Explorer
+09:01:09:  新北洋OA信息化平台 - Internet Explorer
+09:01:19:  费用报销流程_新北洋 - Internet Explorer
+09:01:34:  http://oa.byintra.com/PrintReport/FYBXLC_XBY/FYBXLC_XBY.aspx?PR_CID=47847310-6e89-4190-84da-52d - Internet Explorer
+09:01:49:  于斌1
+09:01:54:  费用报销流程_新北洋 - Internet Explorer
+09:04:20:  于斌1
+09:04:25:  新建 Microsoft Excel 工作表.xlsx - Excel
+09:04:45:  eSpace
+09:04:50:  郑磊
+09:09:46:  新建 Microsoft Excel 工作表.xlsx - Excel
+09:09:51:  新北洋OA信息化平台 - Internet Explorer
+09:09:56:  新建 Microsoft Excel 工作表.xlsx - Excel
+09:10:01:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:11:01:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+09:11:31:  Subversion
+09:11:46:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+09:12:26:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:12:36:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+09:13:06:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:13:16:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+09:13:26:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:14:07:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:14:12:  untitled (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:14:22:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:14:42:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrReturn.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:14:47:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:14:07:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+09:14:12:  untitled (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:14:22:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:14:42:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrReturn.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:14:47:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:15:07:  于斌1
+09:15:27:  Subversion
+09:15:32:  下载文件.pdf - Adobe Reader
+09:15:37:  打印
+09:15:42:  发送至 OneNote 2013 文档 属性
+09:15:47:  打印
+09:15:52:  页面设置
+09:15:57:  打印
+09:16:02:  下载文件.pdf - Adobe Reader
+09:16:07:  收取邮件 - 张开发
+09:16:12:  锁屏状态
+09:16:17:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:16:37:  于斌1
+09:17:07:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:17:12:  CrystalReportViewer1.pdf - Adobe Reader
+09:17:17:  打印
+09:17:27:  于斌1
+09:17:32:  打印
+09:18:58:  CrystalReportViewer1.pdf
+09:19:03:  锁屏状态
+09:19:08:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:20:28:  Subversion
+09:20:33:  下载文件.pdf - Adobe Reader
+09:20:38:  打印
+09:20:53:  下载文件.pdf - Adobe Reader
+09:20:58:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:21:18:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.h (trunk) - Sublime Text (UNREGISTERED)
+09:21:33:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:25:14:  本地磁盘 (D:)
+09:25:24:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:26:54:  *Python 3.7.3 Shell*
+09:26:59:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:27:04:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+09:28:40:  D:\00-KE64\7\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+09:28:55:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+09:29:05:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:29:25:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+09:29:30:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:29:35:  D:\00-KE64\7\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+09:29:50:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:30:00:  D:\00-KE64\7\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:40:  D:\00-KE64\7\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+09:28:55:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+09:29:05:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:29:25:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+09:29:30:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:29:35:  D:\00-KE64\7\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+09:29:50:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:30:00:  D:\00-KE64\7\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+09:30:10:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:30:15:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+09:30:40:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+09:30:50:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackSelector\SelModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+09:30:55:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+09:31:00:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+09:31:10:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackSelector\SelModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+09:31:15:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+09:32:11:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:37:47:  D:\00-KE64\7\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+09:37:52:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:40:18:  LogExpert
+09:40:23:  文档
+09:40:28:  TheActtionRec
+09:40:33:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-25.txt
+09:40:58:  W
+09:41:08:  Windows 任务管理器
+09:41:13:  W
+09:41:23:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:41:53:  D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrReturn.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:42:18:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:42:53:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:43:24:  W
+09:43:29:  本地磁盘 (D:)
+09:43:34:  Subversion
+09:43:39:  更新日志.txt - 记事本
+09:44:09:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:44:34:  自动播放
+09:44:39:  iTunes
+09:45:04:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:44:09:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:44:34:  自动播放
+09:44:39:  iTunes
+09:45:04:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:45:09:  新标签页 - Google Chrome
+09:45:14:  请停用以开发者模式运行的扩展程序
+09:45:39:  (41 封私信) 首页 - 知乎 - Google Chrome
+09:48:10:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:49:31:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:49:36:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:54:12:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-25.txt
+09:54:42:  *Python 3.7.3 Shell*
+09:54:47:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-25.txt
+09:56:28:  *Python 3.7.3 Shell*
+09:56:33:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:56:48:  GifCam6.0
+09:56:53:  00-06
+09:56:58:  D:\00-06\1T2-Seclect-Aging - 工作副本 - TortoiseSVN
+09:57:03:  Selector.c - TortoiseMerge
+09:57:08:  D:\00-06\1T2-Seclect-Aging - 工作副本 - TortoiseSVN
+09:57:18:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:57:23:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.h (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:57:28:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:57:33:  D:\00-06\1T2-Seclect-Aging\Middlewares\Plate\LowerPlate.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:57:53:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:58:13:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:58:33:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:58:44:  D:\00-06\1T2-Seclect-Aging - 工作副本 - TortoiseSVN
+09:58:49:  UpperPlateCtrl.c - TortoiseMerge
+09:58:54:  D:\00-06\1T2-Seclect-Aging - 工作副本 - TortoiseSVN
+09:59:04:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:59:14:  桌面整理
+09:59:19:  eSpace Login
+09:59:24:  锁屏状态
+09:59:29:  eSpace Meeting
+09:59:34:  eSpace
+09:59:39:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:59:49:  便签管理器
+09:59:54:  1T2-Seclect-Aging
+09:59:59:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:58:13:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:58:33:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:58:44:  D:\00-06\1T2-Seclect-Aging - 工作副本 - TortoiseSVN
+09:58:49:  UpperPlateCtrl.c - TortoiseMerge
+09:58:54:  D:\00-06\1T2-Seclect-Aging - 工作副本 - TortoiseSVN
+09:59:04:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:59:14:  桌面整理
+09:59:19:  eSpace Login
+09:59:24:  锁屏状态
+09:59:29:  eSpace Meeting
+09:59:34:  eSpace
+09:59:39:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+09:59:49:  便签管理器
+09:59:54:  1T2-Seclect-Aging
+09:59:59:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:02:19:  锁屏状态
+10:02:24:  TCR钞箱老化EEP位清零
+10:02:39:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:02:44:  D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+10:02:54:  D:\00-06\1T1Stop\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+10:03:19:  TCR钞箱老化EEP位清零
+10:03:24:  回复: TCR钞箱老化EEP位清零 - 写邮件
+10:04:10:  Everything
+10:04:15:  回复: TCR钞箱老化EEP位清零 - 写邮件
+10:04:20:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:04:45:  回复: TCR钞箱老化EEP位清零 - 写邮件   10:04:24 已保存
+10:05:05:  D:\00-06\1T1Stop\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+10:05:15:  回复: TCR钞箱老化EEP位清零 - 写邮件   10:04:24 已保存
+10:05:25:  回复: TCR钞箱老化EEP位清零 - 写邮件   10:05:24 已保存
+10:06:25:  回复: TCR钞箱老化EEP位清零 - 写邮件   10:06:24 已保存
+10:06:45:  D:\00-06\1T1Stop\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+10:06:50:  D:\00-06\1T1Stop\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+10:06:55:  D:\00-06\1T1Stop\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+10:07:00:  回复: TCR钞箱老化EEP位清零 - 写邮件   10:06:24 已保存
+10:07:25:  回复: TCR钞箱老化EEP位清零 - 写邮件   10:07:24 已保存
+10:08:26:  回复: TCR钞箱老化EEP位清零 - 写邮件   10:08:25 已保存
+10:09:41:  V1.003
+10:09:46:  TCR调测工具 V3.36
+10:09:56:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:10:21:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:11:06:  指令 - Everything
+10:11:21:  本地磁盘 (E:)
+10:11:26:  新建文件夹(4)
+10:11:36:  日志
+10:11:46:  新建文件夹(4)
+10:11:51:  本地磁盘 (F:)
+10:11:56:  01-软件
+10:12:01:  TextAnalysisTool.NET
+10:12:06:  删除文件夹
+10:12:11:  本地磁盘 (F:)
+10:12:16:  示波器波形
+10:12:21:  本地磁盘 (E:)
+10:12:26:  CODE-INFORMATION
+10:12:31:  测试
+10:12:42:  钞箱模型
+10:12:47:  日志相关
+10:12:52:  查看
+10:12:57:  LogExpert
+10:13:07:  01-软件
+10:13:12:  00-TCR-information
+10:13:17:  软件相关
+10:13:22:  00-TCR-information
+10:13:27:  本地磁盘 (E:)
+10:13:37:  删除
+10:13:42:  工具软件
+10:13:47:  本地磁盘 (F:)
+10:13:52:  01-软件
+10:13:57:  删除文件夹
+10:14:02:  本地磁盘 (E:)
+10:14:07:  youdao
+10:14:12:  回收
+10:14:17:  本地磁盘 (E:)
+10:14:27:  Sublime Text Backups
+10:14:32:  00-06
+10:14:37:  Instruction
+10:14:42:  00-06
+10:14:47:  Sublime Text Backups 属性
+10:14:52:  本地磁盘 (E:)
+10:14:57:  CREO 2.0 M130
+10:15:02:  删除文件夹
+10:14:07:  youdao
+10:14:12:  回收
+10:14:17:  本地磁盘 (E:)
+10:14:27:  Sublime Text Backups
+10:14:32:  00-06
+10:14:37:  Instruction
+10:14:42:  00-06
+10:14:47:  Sublime Text Backups 属性
+10:14:52:  本地磁盘 (E:)
+10:14:57:  CREO 2.0 M130
+10:15:02:  删除文件夹
+10:15:07:  本地磁盘 (E:)
+10:15:17:  新建文件夹
+10:15:22:  本地磁盘 (E:)
+10:15:42:  hello.py - E:\hello.py (3.7.3)
+10:15:47:  本地磁盘 (F:)
+10:15:52:  本地磁盘 (E:)
+10:15:57:  波形
+10:16:02:  本地磁盘 (E:)
+10:16:07:  Packages.rar - WinRAR (非商业个人版)
+10:16:12:  本地磁盘 (E:)
+10:16:17:  本地磁盘 (D:)
+10:16:33:  删除文件夹
+10:16:43:  Setup - Image2Lcd
+10:16:48:  J-link
+10:16:53:  回收
+10:16:58:  00-记录 属性
+10:17:03:  记录
+10:17:08:  00-记录
+10:17:13:  记录 属性
+10:17:18:  记录
+10:17:33:  2019-11
+10:17:38:  记录
+10:17:48:  Class-Log-C1.py - D:\00-记录\记录\Class-Log-C1.py (3.7.3)
+10:17:53:  删除文件
+10:17:58:  记录
+10:18:13:  新建文件夹 (2)
+10:18:18:  本地磁盘 (F:)
+10:18:23:  记录
+10:18:28:  本地磁盘 (F:)
+10:18:33:  小程序
+10:18:38:  本地磁盘 (F:)
+10:18:43:  指令 - Everything
+10:18:58:  记录
+10:19:03:  Class - Everything
+10:19:08:  Class- - Everything
+10:19:53:  Class-Log-C1.py 属性
+10:19:58:  Class- - Everything
+10:20:03:  Class-Log-C1.py 属性
+10:20:08:  Class- - Everything
+10:20:13:  本地磁盘 (F:)
+10:20:18:  小程序
+10:20:23:  本地磁盘 (D:)
+10:20:34:  00-记录
+10:20:44:  记录
+10:20:49:  ZDRB.rar - WinRAR (非商业个人版)
+10:20:54:  记录
+10:20:59:  新建文件夹 (2)
+10:21:04:  文件检测python
+10:21:09:  便签管理器
+10:21:19:  便签条
+10:21:24:  便签管理器
+10:21:29:  便签条
+10:21:44:  新建文件夹 (4)
+10:21:49:  dist
+10:21:54:  keil.py - D:\00-记录\记录\文件检测python\dist\keil.py (3.7.3)
+10:21:59:  文件检测python
+10:22:14:  记录
+10:22:19:  正在准备 再循环
+10:22:24:  2019-07
+10:22:29:  hri
+10:22:34:  log
+10:22:39:  本地磁盘 (D:)
+10:22:49:  weibo
+10:22:54:  Release
+10:22:59:  LogExpert 属性
+10:23:04:  Release
+10:23:09:  删除文件夹
+10:23:14:  Sublime Text Backups
+10:23:19:  本地磁盘 (D:)
+10:23:24:  temp
+10:23:29:  text
+10:23:34:  TK
+10:23:39:  回收
+10:23:44:  VS
+10:23:49:  新建文件夹
+10:23:54:  新建文本文档.py - D:\新建文件夹\新建文本文档.py (3.7.3)
+10:23:59:  新建文件夹 (2)
+10:24:09:  20200120-系统测试71b
+10:24:14:  新建文件夹 (3)
+10:24:19:  桌面文件
+10:24:24:  回收 
+10:24:29:  C:\Windows\system32\cmd.exe
+10:24:54:  删除多个项目
+10:25:00:  本地磁盘 (D:)
+10:25:05:  删除多个项目
+10:25:10:  本地磁盘 (D:)
+10:25:20:  新建文件夹 (3)
+10:25:25:  新建文本文档.py - D:\新建文件夹 (3)\新建文本文档.py (3.7.3)
+10:25:30:  新建文件夹 (3)
+10:25:35:  hello.py - D:\新建文件夹 (3)\hello.py (3.7.3)
+10:25:40:  新建文件夹
+10:25:45:  data.txt - 记事本
+10:25:50:  test
+10:25:55:  新建文件夹 (3)
+10:26:00:  文件夹正在使用
+10:26:10:  删除文件夹
+10:26:15:  本地磁盘 (F:)
+10:26:20:  C:\Windows\system32\cmd.exe
+10:26:35:  本地磁盘 (E:)
+10:26:40:  00 间距过短
+10:26:45:  回收
+10:26:50:  本地磁盘 (E:)
+10:26:55:  00-Code
+10:27:00:  回收
+10:27:05:  本地磁盘 (F:)
+10:27:15:  1T2箱
+10:27:20:  C:\Windows\system32\cmd.exe
+10:27:25:  *Python 3.7.3 Shell*
+10:27:35:  C:\Windows\system32\cmd.exe
+10:28:10:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:28:15:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:29:40:  D:\00-06\1T2-Seclect-Aging\Rtos\MQXLITE\MQX1.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:29:55:  锁屏状态
+10:30:01:  D:\00-06\1T2-Seclect-Aging\Rtos\MQXLITE\MQX1.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:28:10:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:28:15:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:29:40:  D:\00-06\1T2-Seclect-Aging\Rtos\MQXLITE\MQX1.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:29:55:  锁屏状态
+10:30:01:  D:\00-06\1T2-Seclect-Aging\Rtos\MQXLITE\MQX1.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:30:31:  通用Boot模块发布 & 规范升级
+10:30:56:  文件夹正在使用
+10:31:01:  回收
+10:31:11:  本地磁盘 (F:)
+10:31:16:  删除文件夹
+10:31:21:  通用Boot模块发布 & 规范升级
+10:32:06:  034 固件升级文件设计及制作规范_V103.doc
+10:32:21:  本地磁盘 (F:)
+10:32:26:  程明昌.rar - WinRAR (非商业个人版)
+10:32:31:  新建文件夹 (3)
+10:32:36:  本地磁盘 (F:)
+10:32:51:  新建文件夹 (2)
+10:32:56:  Thedate.py - F:\新建文件夹 (2)\Thedate.py (3.7.3)
+10:33:01:  新建文件夹 (2)
+10:33:06:  本地磁盘 (F:)
+10:33:16:  新建文件夹
+10:33:21:  本地磁盘 (F:)
+10:33:26:  删除文件夹
+10:33:31:  本地磁盘 (F:)
+10:33:41:  电机
+10:33:46:  02-学习资料
+10:33:51:  回收
+10:33:56:  本地磁盘 (F:)
+10:34:01:  删除文件夹
+10:34:11:  本地磁盘 (F:)
+10:34:16:  机器视觉
+10:34:21:  Python 3.7.3 Shell
+10:34:26:  photo
+10:34:31:  新建文本文档.py - F:\测试\新建文件夹\新建文本文档.py (3.7.3)
+10:34:36:  新建文件夹 (2)
+10:34:41:  新建文本文档.py - F:\测试\新建文件夹 (2)\新建文本文档.py (3.7.3)
+10:34:46:  新建文件夹 (3)
+10:34:56:  ping.py - F:\测试\新建文件夹 (3)\ping.py (3.7.3)
+10:35:11:  新建文件夹 (3)
+10:35:22:  压缩文件名和参数
+10:35:27:  测试
+10:35:37:  小程序
+10:35:42:  机器视觉
+10:35:47:  压缩文件名和参数
+10:35:52:  本地磁盘 (F:)
+10:36:02:  W
+10:36:07:  PostWork
+10:36:12:  Everything-1.4.1.895.x64
+10:36:17:  dist
+10:36:27:  Class- - Everything
+10:36:32:  tesseract-ocr-setup-3.02.02 - Everything
+10:36:37:  本地磁盘 (F:)
+10:36:47:  07-集成测试
+10:36:52:  DRB电磁铁时间New.bmp - Windows 照片查看器
+10:36:57:  本地磁盘 (F:)
+10:37:02:  原理图
+10:37:07:  本地磁盘 (F:)
+10:37:12:  http.rar - WinRAR (非商业个人版)
+10:37:17:  新建文件夹 (3).rar - WinRAR (非商业个人版)
+10:37:22:  人脸识别 移动监测
+10:37:32:  tesseract-ocr-setup-3.02.02 - Everything
+10:37:37:  ,py - Everything
+10:37:42:  .py - Everything
+10:38:42:  新建文本文档_112025.py - E:\Sublime Text Backups\2020-03-17\D\python1\weibo\weibo\新建文本文档_112025.py (3.7.3)
+10:39:17:  .py - Everything
+10:39:22:  人脸识别 移动监测
+10:39:27:  小程序
+10:39:33:  图片
+10:39:38:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+10:39:48:  Python 3.7.3 Shell
+10:39:53:  Kill?
+10:39:58:  桌面整理
+10:40:03:  eSpace Login
+10:40:08:  图片
+10:40:13:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+10:40:18:  *Python 3.7.3 Shell*
+10:40:23:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+10:40:33:  Kill?
+10:40:38:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+10:41:03:  *Python 3.7.3 Shell*
+10:41:13:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+10:41:23:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+10:41:28:  Save Before Run or Check
+10:41:33:  *Python 3.7.3 Shell*
+10:41:38:  Kill?
+10:41:43:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+10:42:03:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+10:42:08:  *Python 3.7.3 Shell*
+10:42:18:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+10:42:33:  *Python 3.7.3 Shell*
+10:42:58:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+10:43:08:  Starting Fiddler...
+10:43:18:  Progress Telerik Fiddler Web Debugger
+10:43:23:  *Python 3.7.3 Shell*
+10:43:28:  Progress Telerik Fiddler Web Debugger
+10:44:34:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+10:44:44:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+10:44:49:  Progress Telerik Fiddler Web Debugger
+10:44:34:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+10:44:44:  *GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)*
+10:44:49:  Progress Telerik Fiddler Web Debugger
+10:45:59:  主页 - Internet Explorer
+10:46:04:  新北洋OA信息化平台 - Internet Explorer
+10:46:14:  Progress Telerik Fiddler Web Debugger
+10:46:39:  新北洋OA信息化平台 - Internet Explorer
+10:46:44:  Progress Telerik Fiddler Web Debugger
+10:46:49:  便签条
+10:46:54:  新北洋OA信息化平台 - Internet Explorer
+10:47:04:  Progress Telerik Fiddler Web Debugger
+10:47:09:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+10:47:19:  Progress Telerik Fiddler Web Debugger
+10:48:09:  GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)
+10:48:14:  图片
+10:48:34:  小程序
+10:48:54:  移动文件
+10:49:00:  本地磁盘 (F:)
+10:49:05:  小程序
+10:49:15:  D:\00-06\1T2-Seclect-Aging\Rtos\MQXLITE\MQX1.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:51:40:  Foxmail
+10:51:45:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:53:45:  *Python 3.7.3 Shell*
+10:54:01:  新标签页 - Google Chrome
+10:54:06:  请停用以开发者模式运行的扩展程序
+10:54:11:  新标签页 - Google Chrome
+10:54:16:  百度一下，你就知道 - Google Chrome
+10:54:21:  python_百度搜索 - Google Chrome
+10:54:36:  python 程序添加自启_百度搜索 - Google Chrome
+10:54:41:  Python exe 程序添加开机自动启_Python_wo446100076的专栏-CSDN博客 - Google Chrome
+10:54:46:  python 程序添加自启_百度搜索 - Google Chrome
+10:55:06:  python 服务器_百度搜索 - Google Chrome
+10:55:11:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:57:16:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+11:04:03:  Toolbox
+11:04:08:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+11:05:28:  新建文本文档.exe - 快捷方式
+11:05:33:  *Python 3.7.3 Shell*
+11:05:38:  新标签页 - Google Chrome
+11:05:48:  百度一下，你就知道 - Google Chrome
+11:05:53:  vps 防火墙 关掉_百度搜索 - Google Chrome
+11:05:58:  vps 翻墙_百度搜索 - Google Chrome
+11:06:03:  https://www.baidu.com/link?url=3J-1eL-ly4ElhuxQCq5GVWXzQ7dqf1UcfpC7s2J3-5Nt8aWIcmU-QyjCFxEGVEWcqx1b0Sfeud_Y8N9_Zk-e3q&wd=&eqid=e03bceb000015267000000025e7aca94 - Google Chrome
+11:06:08:  关于 VPS 和翻墙的那些事 - StarryVoid - Blog - Google Chrome
+11:11:09:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:15:35:  eSpace
+11:17:50:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:25:07:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:25:22:  网易有道词典
+11:25:32:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:25:47:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:26:02:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+11:26:33:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:26:38:  D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:26:43:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:27:53:  计算器
+11:28:48:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:28:48:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:30:18:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+11:30:23:  锁屏状态
+13:03:07:  *Python 3.7.3 Shell*
+13:03:12:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:18:40:  图片
+13:18:45:  W
+13:18:50:  2020-03-25.txt - 记事本
+13:19:56:  W
+13:20:26:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+13:21:06:  锁屏状态
+14:11:27:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:11:37:  00-06
+14:11:42:  正在创建压缩文件 1T2-Seclect-Aging.rar
+14:11:52:  00-06
+14:12:32:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:12:37:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:13:17:  D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:13:22:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+14:13:32:  运行
+14:13:38:  新建文本文档.exe - 快捷方式
+14:13:43:  00-06
+14:13:48:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+14:13:53:  网络错误
+14:14:03:  运行
+14:14:18:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+14:15:03:  Tools
+14:14:18:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+14:15:03:  Tools
+14:15:13:  网络错误
+14:15:18:  D:\00-06\1T2-Seclect-Aging\Tools\CreateJK.exe
+14:15:23:  新建文本文档.exe - 快捷方式
+14:15:28:  网络连接
+14:15:43:  192.168.28.2
+14:15:48:  资料共享
+14:16:03:  正在复制 1 个项目(46.4 MB)
+14:16:08:  资料共享
+14:17:39:  Everything
+14:17:44:  pack - Everything
+14:17:54:  回收站
+14:18:14:  锁屏状态
+14:18:19:  小程序
+14:18:34:  运行
+14:18:39:  文档
+14:19:04:  桌面整理
+14:20:44:  计算机
+14:21:20:  目标文件夹访问被拒绝
+14:21:25:  计算机
+14:21:35:  高级共享
+14:21:40:  运行
+14:21:45:  yf-zhangkaifa
+14:21:55:  网络错误
+14:22:10:  yf-zhangkaifa
+14:22:15:  老毛桃U盘 (G:)
+14:22:20:  高级共享
+14:22:30:  yf-zhangkaifa
+14:22:45:  G (\\yf-zhangkaifa) 属性
+14:22:50:  新建共享
+14:22:55:  运行
+14:23:00:  本地磁盘 (D:)
+14:23:10:  开始
+14:23:15:  桌面整理
+14:23:30:  回复: BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V10_MAIN_T03 - 写邮件
+14:23:35:  开始
+14:23:40:  网络错误
+14:23:45:  Tools
+14:23:50:  老毛桃U盘 (G:) 属性
+14:23:55:  高级共享
+14:24:05:  老毛桃U盘 (G:)
+14:24:15:  yf-zhangkaifa
+14:24:20:  老毛桃U盘 (G:)
+14:24:25:  文件共享
+14:24:30:  网络错误
+14:24:35:  桌面整理
+14:25:05:  锁屏状态
+14:43:30:  桌面整理
+14:43:35:  本地磁盘 (D:)
+14:43:40:  D:\00-06\1T2-Seclect-Aging\Tools\CreateJK.exe
+14:43:45:  TCR调测工具 V3.36
+14:43:50:  打开
+14:43:55:  TCR调测工具 V3.36
+14:44:15:  *Python 3.7.3 Shell*
+14:44:20:  TCR调测工具 V3.36
+14:44:15:  *Python 3.7.3 Shell*
+14:44:20:  TCR调测工具 V3.36
+14:45:10:  模块使能
+14:45:46:  TCR调测工具 V3.36
+14:45:51:  钞箱配置
+14:45:56:  TCR调测工具 V3.36
+14:46:31:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+14:46:36:  本地磁盘 (F:)
+14:46:41:  本地磁盘 (E:)
+14:46:46:  Tools
+14:46:51:  TCR调测工具 V3.36
+14:47:56:  钞箱配置
+14:48:16:  取款
+14:48:21:  BTCRTestTool
+14:48:41:  桌面整理
+14:48:46:  打开
+14:48:56:  删除多个项目
+14:49:01:  打开
+14:49:11:  TCR调测工具 V3.36
+14:49:52:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+14:50:02:  跳转列表
+14:50:07:  TCRControlCmdDLL
+14:50:12:  删除多个项目
+14:50:17:  20200325
+14:50:22:  Decode
+14:50:27:  TCRControlCmdDLL
+14:50:32:  20200325
+14:50:37:  Decode
+14:50:42:  K64_0000_20200325144936
+14:50:47:  跳转列表
+14:50:52:  01-软件
+14:50:57:  TextAnalysisTool.NET
+14:51:12:  BTCRTestTool (2) 属性
+14:51:17:  20200325
+14:51:22:  K64-_0000_20200325144936.log - [No filter file] - TextAnalysisTool.NET
+14:51:27:  K64_0000_20200325144936
+14:51:32:  TCR调测工具 V3.36
+14:52:53:  20200325
+14:53:03:  TCR调测工具 V3.36
+14:53:58:  打开
+14:54:08:  TCR调测工具 V3.36
+14:54:18:  桌面整理
+14:54:28:  打开
+14:54:33:  20200325
+14:54:38:  TCR调测工具 V3.36
+14:54:48:  20200325
+14:54:53:  *Python 3.7.3 Shell*
+14:54:58:  TCR调测工具 V3.36
+14:55:23:  20200325
+14:55:43:  Decode
+14:55:53:  Box_1__0000_20200325145520.log - [No filter file] - TextAnalysisTool.NET
+14:55:58:  K64_0000_20200325145520
+14:56:03:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+14:56:09:  Add Filter
+14:56:14:  Box_1__0000_20200325145520.log - [No filter file]* - TextAnalysisTool.NET
+14:58:24:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+14:58:29:  1T2-Seclect-Aging
+14:58:34:  Selector.c - TortoiseMerge
+14:58:54:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:59:39:  1T2-Seclect-Aging
+14:59:44:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+14:59:54:  Tools
+14:58:24:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+14:58:29:  1T2-Seclect-Aging
+14:58:34:  Selector.c - TortoiseMerge
+14:58:54:  D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+14:59:39:  1T2-Seclect-Aging
+14:59:44:  D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision
+14:59:54:  Tools
+15:00:10:  D:\00-06\1T2-Seclect-Aging\Tools\CreateJK.exe
+15:00:15:  打开
+15:00:25:  TCR调测工具 V3.36
+15:00:40:  1T2-Seclect-Aging
+15:00:45:  D:\00-06\1T2-Seclect-Aging - 工作副本 - TortoiseSVN
+15:00:55:  Selector.c - TortoiseMerge
+15:01:05:  D:\00-06\1T2-Seclect-Aging - 工作副本 - TortoiseSVN
+15:01:10:  Sensor.c - TortoiseMerge
+15:01:20:  TCR调测工具 V3.36
+15:02:50:  00-06
+15:03:05:  检出
+15:03:15:  branches - 检出 - TortoiseSVN
+15:03:25:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:03:40:  PlateCtrl
+15:03:45:  检出 完成！
+15:03:50:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:03:55:  BR-1-CashBox1T2
+15:04:01:  D:\00-06\list\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+15:06:16:  PlateCtrl
+15:06:21:  Project
+15:06:26:  D:\00-06\list\branches\BR-1-CashBox1T2\Tools\CreateJK.exe
+15:06:36:  打开
+15:06:46:  TCR调测工具 V3.36
+15:08:12:  打开
+15:08:22:  Tools
+15:08:27:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:08:32:  PlateCtrl
+15:08:37:  BR-1-CashBox1T2
+15:08:42:  Applications
+15:08:47:  TCR调测工具 V3.36
+15:08:52:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:08:57:  Track
+15:09:02:  BR-1-CashBox1T2
+15:09:12:  UpperPlateCtrl.c - TortoiseMerge
+15:09:22:  Track.c - TortoiseMerge
+15:09:27:  BR-1-CashBox1T2
+15:09:32:  1T2-Seclect-Aging
+15:09:37:  Track
+15:09:42:  BR-1-CashBox1T2
+15:09:52:  TCR调测工具 V3.36
+15:09:57:  list
+15:10:02:  00-06
+15:10:07:  Applications
+15:10:17:  PlateCtrl
+15:10:22:  D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+15:10:27:  00-06
+15:10:32:  branches
+15:10:37:  D:\00-06\list\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+15:10:42:  锁屏状态
+15:10:47:  TCR调测工具 V3.36
+15:11:03:  D:\00-06\list\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+15:11:23:  Instruction
+15:11:28:  branches
+15:11:33:  复制文件
+15:11:38:  D:\00-06\list\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+15:11:48:  BR-1-CashBox1T2
+15:11:53:  Tools
+15:11:58:  TCR调测工具 V3.36
+15:12:03:  打开
+15:12:08:  list
+15:12:13:  D:\00-06\list\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+15:12:18:  UpperPlateCtrl.c - TortoiseMerge
+15:12:23:  D:\00-06\list\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+15:12:28:  Track.c - TortoiseMerge
+15:12:38:  TCR调测工具 V3.36
+15:14:23:  发送指令到K06
+15:14:28:  TCR调测工具 V3.36
+15:14:23:  发送指令到K06
+15:14:28:  TCR调测工具 V3.36
+15:15:19:  跳转列表
+15:15:24:  BTCRTestTool V3.36
+15:15:29:  20200325
+15:15:44:  TCR调测工具 V3.36
+15:16:04:  20200325
+15:16:19:  LOG
+15:16:24:  Box_1__0000_20200325151559.log - [No filter file]* - TextAnalysisTool.NET
+15:17:54:  TCR调测工具 V3.36
+15:17:59:  发送指令到K06
+15:18:14:  TCR调测工具 V3.36
+15:18:19:  发送指令到K06
+15:18:24:  TCR调测工具 V3.36
+15:19:10:  打开
+15:19:15:  TCR调测工具 V3.36
+15:20:40:  K64_0000_20200325151559
+15:20:45:  00-06
+15:20:50:  12
+15:20:55:  mostnew
+15:21:00:  BR-1-CashBox1T2
+15:21:05:  D:\00-06\mostnew\branches\BR-1-CashBox1T2 - 更新 - TortoiseSVN
+15:21:10:  BR-1-CashBox1T2
+15:21:15:  D:\00-06\mostnew\branches\BR-1-CashBox1T2 - 还原 - TortoiseSVN
+15:21:20:  BR-1-CashBox1T2
+15:21:25:  Project
+15:21:30:  D:\00-06\mostnew\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+15:21:40:  TCR调测工具 V3.36
+15:22:06:  BR-1-CashBox1T2
+15:22:11:  D:\00-06\mostnew\branches\BR-1-CashBox1T2\Tools\CreateJK.exe
+15:22:16:  Tools
+15:22:21:  TCR调测工具 V3.36
+15:22:31:  打开
+15:22:41:  TCR调测工具 V3.36
+15:24:21:  打开
+15:24:36:  TCR调测工具 V3.36
+15:25:01:  发送指令到K06
+15:25:21:  TCR调测工具 V3.36
+16:43:26:  Tools
+16:44:37:  内部样机明细表--自研TCR--TCR机芯44-8台费用化(5台借用)--36台ERP账上（31台借用）---钞箱45--全部在ERP账上（44台借用）3-18.xlsx
+16:44:42:  内部样机明细表--自研TCR--TCR机芯44-8台费用化(5台借用)--36台ERP账上（31台借用）---钞箱45--全部在ERP账上（44台借用）3-18.xlsx  [只读] - Excel
+16:44:37:  内部样机明细表--自研TCR--TCR机芯44-8台费用化(5台借用)--36台ERP账上（31台借用）---钞箱45--全部在ERP账上（44台借用）3-18.xlsx
+16:44:42:  内部样机明细表--自研TCR--TCR机芯44-8台费用化(5台借用)--36台ERP账上（31台借用）---钞箱45--全部在ERP账上（44台借用）3-18.xlsx  [只读] - Excel
+16:45:52:  内部样机明细表--自研TCR--TCR机芯44-8台费用化(5台借用)--36台ERP账上（31台借用）---钞箱45--全部在ERP账上（44台借用）.xlsx  [只读] - Excel
+16:48:03:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:48:08:  内部样机明细表--自研TCR--TCR机芯44-8台费用化(5台借用)--36台ERP账上（31台借用）---钞箱45--全部在ERP账上（44台借用）3-18.xlsx
+16:48:13:  回复: 关于大家锁借用的TCR以及钞箱的账务沟通 - 写邮件
+16:48:18:  转发: 关于大家锁借用的TCR以及钞箱的账务沟通 - 写邮件
+16:48:23:  发送邮件
+16:55:20:  未命名 - 写邮件
+16:56:20:  未命名 - 写邮件   16:56:16 已保存
+16:57:20:  未命名 - 写邮件   16:57:16 已保存
+16:58:21:  未命名 - 写邮件   16:58:16 已保存
+16:59:21:  未命名 - 写邮件   16:59:16 已保存
+16:58:21:  未命名 - 写邮件   16:58:16 已保存
+16:59:21:  未命名 - 写邮件   16:59:16 已保存
+17:00:16:  未命名 - 写邮件   17:00:16 已保存
+17:00:21:  guihu - 写邮件   17:00:16 已保存
+17:00:26:  TCR 归还样机 - 写邮件   17:00:16 已保存
+17:00:31:  TCR 归还样机有误 - 写邮件   17:00:16 已保存
+17:00:41:  关于TCR归还样机有误 - 写邮件   17:00:16 已保存
+17:00:46:  关于TCR归还样机状态有 - 写邮件   17:00:16 已保存
+17:00:51:  关于TCR归还样机状态 - 写邮件   17:00:16 已保存
+17:01:01:  42 CRS现金循环模块
+17:01:06:  运行
+17:01:11:  192.168.28.47
+17:01:16:  样机配置履历表
+17:01:21:  K06
+17:01:26:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:01:32:  Excel
+17:01:37:  BTCR-1100-固件更改记录_V100.xls  [受保护的视图] - Excel
+17:01:42:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+17:02:22:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:02:27:  固件版本
+17:02:37:  模具1.0
+17:02:42:  样机配置履历表
+17:02:47:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+17:03:02:  固件版本
+17:03:07:  K06
+17:03:12:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+17:05:23:  D:\00-06\1T1Stop\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+17:05:43:  D:\00-06\1T1Stop\trunk\Applications\Initial\Initial.c (trunk) - Sublime Text (UNREGISTERED)
+17:05:48:  D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+17:05:58:  D:\00-06\1T1Stop\trunk\Applications\CashBoxInfo\CashBoxInfo.c (trunk) - Sublime Text (UNREGISTERED)

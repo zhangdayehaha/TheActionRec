@@ -1,0 +1,1297 @@
+08:06:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+08:06:10:  阿根廷发货样机测试（6台）--12月7日
+08:06:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+08:06:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+08:06:55:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+08:07:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.h (gfgd) - Sublime Text (UNREGISTERED)
+08:07:10:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+08:07:25:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+08:09:20:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+08:10:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c • (gfgd) - Sublime Text (UNREGISTERED)
+08:13:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.h (gfgd) - Sublime Text (UNREGISTERED)
+08:13:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c • (gfgd) - Sublime Text (UNREGISTERED)
+08:13:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.h (gfgd) - Sublime Text (UNREGISTERED)
+08:13:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c • (gfgd) - Sublime Text (UNREGISTERED)
+08:15:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.h (gfgd) - Sublime Text (UNREGISTERED)
+08:15:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.h (gfgd) - Sublime Text (UNREGISTERED)
+08:15:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c • (gfgd) - Sublime Text (UNREGISTERED)
+08:15:15:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+08:15:40:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+08:16:20:  JLink - Cortex-M Error
+08:16:25:  Tools
+08:16:30:  E:\深圳出差\gfgd\Tools\CreateJK.exe
+08:16:45:  CRS调测工具（研发版）V1.0.2.1
+08:16:55:  打开
+08:17:00:  CRS调测工具（研发版）V1.0.2.1
+08:17:50:  自动播放
+08:18:30:  CRS调测工具（研发版）V1.0.2.1
+08:19:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+08:19:25:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c • (gfgd) - Sublime Text (UNREGISTERED)
+08:19:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+08:20:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c • (gfgd) - Sublime Text (UNREGISTERED)
+08:20:15:  gfgd
+08:20:20:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+08:20:25:  CashSlot.c Revision 744 - TortoiseMerge
+08:20:35:  钞箱配置
+08:20:40:  CRS调测工具（研发版）V1.0.2.1
+08:20:55:  取款
+08:21:00:  CRS调测工具（研发版）V1.0.2.1
+08:21:15:  gfgd
+08:21:20:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+08:21:25:  TrackClear.c - TortoiseMerge
+08:21:30:  TrackModule.c - TortoiseMerge
+08:21:40:  TrackSensor.c - TortoiseMerge
+08:21:45:  InstrProc1D.c - TortoiseMerge
+08:21:55:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+08:22:00:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+08:24:00:  TrackSensor.c - TortoiseMerge
+08:24:30:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+08:24:35:  TrackSensor.c - TortoiseMerge
+08:24:50:  TrackModule.c - TortoiseMerge
+08:24:55:  TrackClear.c - TortoiseMerge
+08:25:05:  eSpace
+08:25:25:  DRB钞箱缺陷
+08:25:35:  Excel
+08:25:45:  新建Microsoft Excel 工作表.xlsx - Excel
+08:25:50:  锁屏状态
+08:25:55:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:26:05:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:26:15:  发货DRB钞箱测试缺陷.xlsx  [受保护的视图] - Excel
+08:26:45:  发货DRB钞箱测试缺陷.xlsx  [只读] - Excel
+08:27:25:  gfgd
+08:27:30:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+08:27:35:  gfgd
+08:27:45:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+08:27:50:  TrackSensor.c - TortoiseMerge
+08:28:05:  TrackClear.c - TortoiseMerge
+08:28:10:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+08:29:05:  gfgd
+08:29:10:  历史记录
+08:29:15:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+08:29:20:  gfgd
+08:29:25:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+08:29:35:  gfgd
+08:29:45:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:29:50:  D:\CRS\666\Middlewares\StepMotor\StepMotor.c (666) - Sublime Text (UNREGISTERED)
+08:29:55:  D:\CRS\666\Applications\Application.c (666) - Sublime Text (UNREGISTERED)
+08:30:00:  D:\CRS\666\Applications\SensorCheck\SensorCheck.c (666) - Sublime Text (UNREGISTERED)
+08:28:05:  TrackClear.c - TortoiseMerge
+08:28:10:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+08:29:05:  gfgd
+08:29:10:  历史记录
+08:29:15:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+08:29:20:  gfgd
+08:29:25:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+08:29:35:  gfgd
+08:29:45:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:29:50:  D:\CRS\666\Middlewares\StepMotor\StepMotor.c (666) - Sublime Text (UNREGISTERED)
+08:29:55:  D:\CRS\666\Applications\Application.c (666) - Sublime Text (UNREGISTERED)
+08:30:00:  D:\CRS\666\Applications\SensorCheck\SensorCheck.c (666) - Sublime Text (UNREGISTERED)
+08:30:15:  D:\CRS\666\Middlewares\StepMotor\StepMotorConfig.c (666) - Sublime Text (UNREGISTERED)
+08:30:55:  D:\CRS\666\Middlewares\StepMotor\StepMotor.c (666) - Sublime Text (UNREGISTERED)
+08:31:00:  D:\CRS\666\Middlewares\StepMotor\StepMotorConfig.c (666) - Sublime Text (UNREGISTERED)
+08:31:15:  D:\CRS\666\Applications\InstrExp\InstrExp.c (666) - Sublime Text (UNREGISTERED)
+08:31:20:  D:\CRS\666\Applications\TrackMotorCtrl\TrackMotorCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:31:30:  D:\CRS\666\Middlewares\Component\Component.c (666) - Sublime Text (UNREGISTERED)
+08:31:45:  D:\CRS\666\Middlewares\StepMotor\StepMotor.c (666) - Sublime Text (UNREGISTERED)
+08:31:50:  D:\CRS\666\Middlewares\Component\Component.c (666) - Sublime Text (UNREGISTERED)
+08:32:35:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+08:32:50:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+08:32:55:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:33:30:  D:\CRS\666\Middlewares\Component\Component.c (666) - Sublime Text (UNREGISTERED)
+08:33:35:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:36:31:  打开文件夹
+08:54:42:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:00:27:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+09:02:07:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:02:12:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+09:11:37:  新标签页 - Google Chrome
+09:12:02:  锁屏状态
+09:12:07:  主页 - Internet Explorer
+09:12:12:  系统登录 - Internet Explorer
+09:12:17:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+09:18:07:  DRB传感器.txt - 记事本
+09:18:22:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+09:19:37:  新北洋OA信息化平台 - Internet Explorer
+09:19:42:  http://plmapp.byintra.com/Windchill/ - Internet Explorer
+09:19:47:  Windchill - Internet Explorer
+09:19:57:  Windchill - 主页 - Internet Explorer
+09:21:32:  更改通告 - 55046 - Internet Explorer
+09:21:37:  编辑更改通告 - Internet Explorer
+09:22:12:  日历 - Internet Explorer
+09:22:17:  编辑更改通告 - Internet Explorer
+09:22:57:  Windchill - Internet Explorer
+09:23:02:  用户 - Internet Explorer
+09:23:07:  编辑更改通告 - Internet Explorer
+09:23:12:  Windchill - Internet Explorer
+09:23:17:  用户 - Internet Explorer
+09:23:32:  编辑更改通告 - Internet Explorer
+09:23:42:  固件设计中心
+09:23:47:  锁屏状态
+09:23:52:  固件设计中心
+09:24:07:  于斌1
+09:24:17:  编辑更改通告 - Internet Explorer
+09:24:42:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+09:25:47:  编辑更改通告 - Internet Explorer
+09:25:57:  更改通告 - 55046 - Internet Explorer
+09:26:17:  锁屏状态
+09:26:22:  编辑更改通告 - Internet Explorer
+09:26:32:  更改通告 - 55046 - Internet Explorer
+09:26:42:  编辑更改通告 - Internet Explorer
+09:26:52:  更改通告 - 55046 - Internet Explorer
+09:27:22:  Windchill - 主页 - Internet Explorer
+09:28:02:  Windchill - Internet Explorer
+09:28:07:  Windchill - 主页 - Internet Explorer
+09:28:22:  自主研发_更改请求 - 59398 - Internet Explorer
+09:29:17:  新北洋OA信息化平台 - Internet Explorer
+09:29:22:  Windchill - 主页 - Internet Explorer
+09:28:07:  Windchill - 主页 - Internet Explorer
+09:28:22:  自主研发_更改请求 - 59398 - Internet Explorer
+09:29:17:  新北洋OA信息化平台 - Internet Explorer
+09:29:22:  Windchill - 主页 - Internet Explorer
+09:30:17:  自主研发_更改请求 - 59398 - Internet Explorer
+09:30:22:  产品 - Internet Explorer
+09:30:27:  Windchill - 主页 - Internet Explorer
+09:30:37:  自主研发_更改请求 - 59398 - Internet Explorer
+09:31:12:  查看设计更改通知单 - Internet Explorer
+09:33:27:  自主研发_更改请求 - 59398 - Internet Explorer
+09:34:07:  产品 - 16 金融基础部件 - Internet Explorer
+09:40:07:  自动播放
+09:40:37:  eSpace
+09:40:47:  阎晓文
+09:41:27:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+09:41:32:  产品 - 16 金融基础部件 - Internet Explorer
+09:41:47:  警告
+09:41:57:  DRB钞箱缺陷
+09:42:02:  阎晓文
+09:43:42:  eSpace
+09:43:47:  阎晓文
+09:45:17:  ID-12 2#DRB钞箱10元上腔取款第294张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X074602B8检查发现上腔无纸币，下腔有1张10元纸币。
+09:46:22:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+09:46:32:  ID-12 2#DRB钞箱10元上腔取款第294张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X074602B8检查发现上腔无纸币，下腔有1张10元纸币。
+09:46:37:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+09:46:42:  DRB钞箱缺陷
+09:46:47:  ID-3 （10元、5元混合面额）执行大额存款。上腔5元纸币第17张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B5，检查发现纸币卡在压板与导向板之间。
+09:46:52:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+09:46:57:  ID-3 （10元、5元混合面额）执行大额存款。上腔5元纸币第17张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B5，检查发现纸币卡在压板与导向板之间。
+09:47:02:  DRB钞箱缺陷
+09:47:07:  fenxi
+09:47:12:  正在复制 201 个项目(482 MB)
+09:47:22:  剩余 45 秒
+09:47:37:  剩余 30 秒
+09:47:42:  剩余 25 秒
+09:47:47:  剩余 20 秒
+09:47:52:  于斌1
+09:48:12:  DRB钞箱缺陷
+09:48:17:  ID-12 2#DRB钞箱10元上腔取款第294张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X074602B8检查发现上腔无纸币，下腔有1张10元纸币。
+09:48:27:  gfgd
+09:48:32:  于斌1
+09:48:37:  本地磁盘 (E:)
+09:48:42:  gfgd
+09:48:47:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+09:48:52:  gfgd
+09:48:57:  于斌1
+09:49:02:  gfgd
+09:49:22:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+09:49:37:  Tools
+09:49:52:  BNE-R1200M_MASTER_K64_FV1000_FEDADV10_MAIN_T09 - 写邮件
+09:50:02:  Foxmail
+09:53:42:  gfgd
+09:53:47:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+09:53:52:  TrackClear.c - TortoiseMerge
+09:53:57:  TortoiseMerge
+09:54:02:  TrackSensor.c - TortoiseMerge
+09:54:07:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+09:54:42:  TortoiseMerge
+09:54:47:  TrackSensor.c - TortoiseMerge
+09:54:52:  TrackModule.c - TortoiseMerge
+09:54:57:  提交
+09:55:02:  提交 完成！
+09:55:07:  gfgd
+09:55:12:  Tool
+09:55:17:  LogDecrypt
+09:55:22:  C:\Windows\system32\cmd.exe
+09:55:27:  管理员: C:\Windows\system32\cmd.exe
+09:56:17:  「开始」菜单
+09:56:27:  新标签页 - Google Chrome
+09:57:42:  5#DRB上腔10元反向盘点第96张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B4.rar
+09:57:52:  Everything
+09:57:57:  MG - Everything
+09:58:02:  M - Everything
+09:58:07:  M. - Everything
+09:58:12:  M.*?64 - Everything
+09:58:22:  eSpace
+09:58:27:  冯宁
+09:58:52:  Subversion
+09:59:17:  百度一下，你就知道 - Google Chrome
+09:59:32:  mingw64 编译exe_百度搜索 - Google Chrome
+09:59:37:  MinGW-w64安装教程——著名C/C++编译器GCC的Windows版本 - 『潇洒の背影』 - 博客园 - Google Chrome
+09:58:07:  M. - Everything
+09:58:12:  M.*?64 - Everything
+09:58:22:  eSpace
+09:58:27:  冯宁
+09:58:52:  Subversion
+09:59:17:  百度一下，你就知道 - Google Chrome
+09:59:32:  mingw64 编译exe_百度搜索 - Google Chrome
+09:59:37:  MinGW-w64安装教程——著名C/C++编译器GCC的Windows版本 - 『潇洒の背影』 - 博客园 - Google Chrome
+10:00:07:  「开始」菜单
+10:00:12:  管理员: C:\Windows\system32\cmd.exe
+10:00:22:  MinGW-w64安装教程——著名C/C++编译器GCC的Windows版本 - 『潇洒の背影』 - 博客园 - Google Chrome
+10:00:27:  mingw64 编译exe_百度搜索 - Google Chrome
+10:00:37:  (3条消息) MinGW-w64如何编译32位程序-CSDN论坛 - Google Chrome
+10:00:47:  mingw64 编译exe_百度搜索 - Google Chrome
+10:00:52:  mingw64 指令 exe_百度搜索 - Google Chrome
+10:00:57:  mingw c++ 命令行_Mingw-w64在win10下的安装使用_weixin_39969611的博客-CSDN博客 - Google Chrome
+10:01:02:  (3条消息) mingw c++ 命令行_Mingw-w64在win10下的安装使用_weixin_39969611的博客-CSDN博客 - Google Chrome
+10:01:07:  Subversion
+10:01:12:  系统
+10:01:17:  环境变量
+10:01:22:  编辑系统变量
+10:01:32:  环境变量
+10:01:37:  管理员: C:\Windows\system32\cmd.exe
+10:01:52:  系统
+10:01:57:  mingw64 指令 exe_百度搜索 - Google Chrome
+10:02:17:  mingw64 生成 exe_百度搜索 - Google Chrome
+10:02:32:  mingw64 如何生成 exe_百度搜索 - Google Chrome
+10:02:42:  MinGW 中如何生成独立于MinGW环境的可执行文件_Allen恒思凝_新浪博客 - Google Chrome
+10:02:47:  mingw64 如何生成 exe_百度搜索 - Google Chrome
+10:02:57:  Subversion
+10:03:02:  Everything
+10:03:07:  mingw
+10:03:12:  mingw - Everything
+10:03:17:  cb-mingw
+10:03:22:  mingw - Everything
+10:03:27:  x86_64-w64-mingw32
+10:03:37:  mingw64 如何生成 exe_百度搜索 - Google Chrome
+10:03:42:  MinGW x64 for Windows安装 - Google Chrome
+10:03:57:  x86_64-w64-mingw32 (未响应)
+10:04:02:  管理员: C:\Windows\system32\cmd.exe
+10:04:07:  计算机 (未响应)
+10:04:12:  mingw64 - Everything
+10:04:22:  Subversion
+10:04:27:  00-06
+10:04:32:  LogDecrypt
+10:04:47:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:04:52:  LogDecrypt
+10:04:57:  管理员: C:\Windows\system32\cmd.exe
+10:05:07:  系统属性
+10:05:12:  Subversion
+10:05:42:  mingw64
+10:05:52:  Subversion
+10:06:07:  yourbill-master
+10:06:12:  Subversion
+10:06:27:  mingw64
+10:06:37:  8.1.0
+10:06:42:  系统
+10:06:47:  环境变量
+10:06:52:  编辑用户变量
+10:07:02:  环境变量
+10:07:27:  mingw64
+10:07:42:  Subversion
+10:07:47:  mingw64 - Everything
+10:07:52:  mingw64
+10:08:07:  Windchill - 主页 - Internet Explorer
+10:08:42:  任务 - SNBC_WF_ECN_55046-提交更改通告 - Internet Explorer
+10:09:12:  重新分配 - Internet Explorer
+10:09:27:  任务 - SNBC_WF_ECN_55046-提交更改通告 - Internet Explorer
+10:09:37:  环境变量
+10:09:42:  mingw64
+10:09:47:  bin
+10:09:52:  编辑用户变量
+10:09:57:  环境变量
+10:10:07:  Decode
+10:10:12:  管理员: C:\Windows\system32\cmd.exe
+10:10:22:  Decode
+10:10:27:  LogDecrypt
+10:10:32:  MinGW x64 for Windows安装 - Google Chrome
+10:10:47:  LogDecrypt
+10:10:52:  管理员: C:\Windows\system32\cmd.exe
+10:11:02:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:11:27:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:11:42:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:11:47:  管理员: C:\Windows\system32\cmd.exe - gcc  log_decrypt_class.c
+10:11:52:  管理员: C:\Windows\system32\cmd.exe
+10:11:57:  2
+10:12:02:  删除文件
+10:12:07:  管理员: C:\Windows\system32\cmd.exe
+10:12:12:  Decode
+10:12:17:  LogDecrypt
+10:12:22:  Decode
+10:12:27:  管理员: C:\Windows\system32\cmd.exe
+10:12:32:  Decode
+10:12:37:  删除多个项目
+10:12:42:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:12:47:  LogDecrypt
+10:12:57:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:13:37:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:13:42:  LogDecrypt
+10:13:47:  管理员: C:\Windows\system32\cmd.exe
+10:13:52:  LogDecrypt
+10:13:57:  Decode
+10:14:02:  管理员: C:\Windows\system32\cmd.exe
+10:14:22:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:14:32:  管理员: C:\Windows\system32\cmd.exe
+10:14:37:  LogDecrypt
+10:14:22:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:14:32:  管理员: C:\Windows\system32\cmd.exe
+10:14:37:  LogDecrypt
+10:20:28:  Decode
+10:20:38:  管理员: C:\Windows\system32\cmd.exe
+10:20:48:  LogDecrypt
+10:20:53:  管理员: C:\Windows\system32\cmd.exe
+10:21:13:  LogDecrypt
+10:21:18:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:21:38:  管理员: C:\Windows\system32\cmd.exe
+10:21:48:  Decode
+10:21:53:  管理员: C:\Windows\system32\cmd.exe
+10:22:03:  5#DRB上腔10元反向盘点第96张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B4.rar
+10:22:18:  DRB钞箱缺陷
+10:22:23:  ID-12 2#DRB钞箱10元上腔取款第294张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X074602B8检查发现上腔无纸币，下腔有1张10元纸币。
+10:22:28:  目标文件夹访问被拒绝
+10:22:33:  ID-12 2#DRB钞箱10元上腔取款第294张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X074602B8检查发现上腔无纸币，下腔有1张10元纸币。
+10:22:38:  目标文件夹访问被拒绝
+10:22:43:  ID-6 反向盘点入上腔时，上腔（10元)纸币进入下腔（1元）
+10:22:48:  ID-2 20元反向盘点入上腔220张，报钞箱口 钞口满 返回码0X075E0700。检查发现纸币蓬松。
+10:23:03:  转发: 最新CRS工具 - 写邮件
+10:23:43:  发送邮件
+10:23:48:  ID-2 20元反向盘点入上腔220张，报钞箱口 钞口满 返回码0X075E0700。检查发现纸币蓬松。
+10:23:53:  本地磁盘 (C:)
+10:23:58:  DRB钞箱缺陷
+10:24:03:  本地磁盘 (D:)
+10:24:13:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+10:24:38:  fenxi
+10:24:43:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+10:24:48:  2#DRB钞箱5元大额存款入上腔第7张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X834602B6
+10:24:58:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+10:25:08:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:25:13:  Decode
+10:25:18:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:25:23:  Tool
+10:25:28:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:25:33:  管理员: C:\Windows\system32\cmd.exe
+10:25:43:  Decode
+10:25:48:  管理员: C:\Windows\system32\cmd.exe
+10:26:08:  于斌1
+10:26:13:  管理员: C:\Windows\system32\cmd.exe
+10:26:28:  于斌1
+10:26:38:  管理员: C:\Windows\system32\cmd.exe
+10:26:43:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+10:27:18:  于斌1
+10:27:23:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+10:28:48:  本地磁盘 (D:)
+10:28:53:  44
+10:28:58:  本地磁盘 (E:)
+10:29:03:  E:\深圳出差\gfgd\Tools\CreateJK.exe
+10:29:08:  Tools
+10:29:13:  BNE-R1200M_MASTER_K64_FV1000_FEDADV10_MAIN_T09 - 写邮件
+10:29:23:  管理员: C:\Windows\system32\cmd.exe
+10:29:28:  本地磁盘 (D:)
+10:29:33:  管理员: C:\Windows\system32\cmd.exe
+10:29:38:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:29:58:  本地磁盘 (D:)
+10:30:03:  管理员: C:\Windows\system32\cmd.exe
+10:28:48:  本地磁盘 (D:)
+10:28:53:  44
+10:28:58:  本地磁盘 (E:)
+10:29:03:  E:\深圳出差\gfgd\Tools\CreateJK.exe
+10:29:08:  Tools
+10:29:13:  BNE-R1200M_MASTER_K64_FV1000_FEDADV10_MAIN_T09 - 写邮件
+10:29:23:  管理员: C:\Windows\system32\cmd.exe
+10:29:28:  本地磁盘 (D:)
+10:29:33:  管理员: C:\Windows\system32\cmd.exe
+10:29:38:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:29:58:  本地磁盘 (D:)
+10:30:03:  管理员: C:\Windows\system32\cmd.exe
+10:30:08:  管理员: C:\Windows\system32\cmd.exe - gcc  log_decrypt_class.c
+10:30:13:  LogDecrypt
+10:31:48:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+10:32:08:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+10:32:53:  于斌1
+10:33:18:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+10:34:58:  荆文波
+10:35:03:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+10:35:08:  锁屏状态
+10:35:13:  于斌1
+10:35:23:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+10:35:48:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c • (gfgd) - Sublime Text (UNREGISTERED)
+10:36:03:  本地磁盘 (E:)
+10:36:08:  gfgd
+10:36:13:  E:\深圳出差\gfgd\Tools\CreateJK.exe
+10:36:18:  BNE-R1200M_MASTER_K64_FV1000_FEDADV10_MAIN_T09 - 写邮件
+10:36:23:  发送邮件
+10:36:33:  LogDecrypt
+10:36:38:  管理员: C:\Windows\system32\cmd.exe
+10:36:43:  本地磁盘 (D:)
+10:36:48:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+10:36:53:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:36:58:  管理员: C:\Windows\system32\cmd.exe
+10:37:13:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:37:18:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:37:23:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:37:28:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:37:38:  RB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:37:43:  管理员: C:\Windows\system32\cmd.exe
+10:37:48:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:38:13:  管理员: C:\Windows\system32\cmd.exe
+10:38:18:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:38:33:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:38:43:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:38:53:  于斌1
+10:39:03:  荆文波
+10:39:13:  eSpace
+10:39:18:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:39:48:  Decode
+10:39:53:  LogDecrypt
+10:39:58:  管理员: C:\Windows\system32\cmd.exe
+10:40:03:  LogDecrypt
+10:40:08:  本地磁盘 (D:)
+10:40:13:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+10:40:18:  复制文件
+10:40:23:  管理员: C:\Windows\system32\cmd.exe
+10:40:38:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:41:13:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:41:18:  管理员: C:\Windows\system32\cmd.exe
+10:41:23:  本地磁盘 (D:)
+10:41:28:  Tool
+10:41:33:  管理员: C:\Windows\system32\cmd.exe
+10:41:43:  本地磁盘 (D:)
+10:41:53:  RB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:41:58:  管理员: C:\Windows\system32\cmd.exe
+10:42:23:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:42:28:  管理员: C:\Windows\system32\cmd.exe
+10:42:33:  RB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:42:38:  本地磁盘 (D:)
+10:42:43:  LogDecrypt
+10:42:48:  管理员: C:\Windows\system32\cmd.exe
+10:42:53:  RB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:42:58:  管理员: C:\Windows\system32\cmd.exe
+10:43:03:  RB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:43:28:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:44:43:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:44:48:  RB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:44:53:  LogDecrypt
+10:45:03:  管理员: C:\Windows\system32\cmd.exe
+10:44:43:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:44:48:  RB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:44:53:  LogDecrypt
+10:45:03:  管理员: C:\Windows\system32\cmd.exe
+10:45:13:  RB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:45:18:  管理员: C:\Windows\system32\cmd.exe
+10:45:28:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:46:13:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:46:38:  管理员: C:\Windows\system32\cmd.exe
+10:46:43:  LogDecrypt
+10:46:48:  管理员: C:\Windows\system32\cmd.exe
+10:46:53:  RB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:46:58:  管理员: C:\Windows\system32\cmd.exe
+10:47:08:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:47:33:  管理员: C:\Windows\system32\cmd.exe
+10:47:43:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:49:13:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:49:23:  RB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:49:28:  管理员: C:\Windows\system32\cmd.exe
+10:49:43:  RB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:49:48:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:52:03:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:52:08:  2
+10:52:13:  管理员: C:\Windows\system32\cmd.exe
+10:52:38:  Decode
+10:52:43:  2
+10:52:48:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+10:52:53:  管理员: C:\Windows\system32\cmd.exe
+10:52:58:  2
+10:53:03:  Decode
+10:53:13:  锁屏状态
+10:53:18:  1
+10:53:23:  管理员: C:\Windows\system32\cmd.exe
+10:53:28:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:53:33:  确认文件夹替换
+10:53:38:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+10:53:48:  删除多个项目
+10:53:53:  Subversion
+10:54:18:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+10:54:28:  荆文波
+10:54:53:  Decode
+10:54:58:  5元1元各300张随机混合，执行大额存款报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B
+10:55:08:  5#DRB上腔10元反向盘点第96张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B4
+10:55:13:  Decode
+10:55:18:  mingw64 如何生成 exe_百度搜索 - Google Chrome
+10:55:43:  荆文波
+10:55:48:  K64_0000_20201208094623
+10:55:58:  Box_3__0000_20201208094623.log - DRB.tat* - TextAnalysisTool.NET
+10:56:18:  K64_0000_20201208094527
+10:56:23:  K64_0000_20201208094623
+10:56:28:  Box_2__0000_20201208094623.log - DRB.tat* - TextAnalysisTool.NET
+10:57:13:  荆文波
+10:57:18:  Box_2__0000_20201208094623.log - DRB.tat* - TextAnalysisTool.NET
+10:58:13:  回复: 5#DRB上腔10元反向盘点第96张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B4.rar - 写邮件
+10:58:33:  Box_2__0000_20201208094623.log - DRB.tat* - TextAnalysisTool.NET
+10:58:43:  回复: 5#DRB上腔10元反向盘点第96张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B4.rar - 写邮件
+10:59:03:  Box_2__0000_20201208094623.log - DRB.tat* - TextAnalysisTool.NET
+10:59:13:  回复: 5#DRB上腔10元反向盘点第96张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B4.rar - 写邮件   10:59:12 已保存
+10:59:48:  Box_2__0000_20201208094623.log - DRB.tat* - TextAnalysisTool.NET
+10:59:53:  回复: 5#DRB上腔10元反向盘点第96张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B4.rar - 写邮件   10:59:12 已保存
+10:58:13:  回复: 5#DRB上腔10元反向盘点第96张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B4.rar - 写邮件
+10:58:33:  Box_2__0000_20201208094623.log - DRB.tat* - TextAnalysisTool.NET
+10:58:43:  回复: 5#DRB上腔10元反向盘点第96张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B4.rar - 写邮件
+10:59:03:  Box_2__0000_20201208094623.log - DRB.tat* - TextAnalysisTool.NET
+10:59:13:  回复: 5#DRB上腔10元反向盘点第96张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B4.rar - 写邮件   10:59:12 已保存
+10:59:48:  Box_2__0000_20201208094623.log - DRB.tat* - TextAnalysisTool.NET
+10:59:53:  回复: 5#DRB上腔10元反向盘点第96张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B4.rar - 写邮件   10:59:12 已保存
+11:00:13:  回复: 5#DRB上腔10元反向盘点第96张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B4.rar - 写邮件   11:00:12 已保存
+11:01:03:  TextAnalysisTool.NET
+11:01:08:  5#DRB上腔10元反向盘点第96张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B4
+11:01:13:  5元1元各300张随机混合，执行大额存款报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B
+11:01:18:  5#DRB上腔10元反向盘点第96张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B4
+11:01:23:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+11:01:28:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:01:53:  管理员: C:\Windows\system32\cmd.exe - gcc  log_decrypt_class.c
+11:01:58:  LogDecrypt
+11:02:03:  删除多个项目
+11:02:08:  删除文件夹
+11:02:23:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+11:02:33:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:03:03:  自动播放
+11:03:18:  新建文本文档.exe - 快捷方式
+11:03:33:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:03:38:  锁屏状态
+11:03:43:  新标签页 - Google Chrome
+11:03:48:  百度一下，你就知道 - Google Chrome
+11:03:53:  _wfopen wenjianm_百度搜索 - Google Chrome
+11:03:58:  _wfopen 文件名太长 不写入_百度搜索 - Google Chrome
+11:04:13:  C语言 fopen 文件名太长 不写入_百度搜索 - Google Chrome
+11:04:23:  fopen的文件名里有字符串变量就无法写入文件-CSDN论坛 - Google Chrome
+11:04:28:  (3条消息) fopen的文件名里有字符串变量就无法写入文件-CSDN论坛 - Google Chrome
+11:04:38:  (3条消息) fopen函数遇到全文件名超过260个字符怎么办_u010463663的博客-CSDN博客 - Google Chrome
+11:05:23:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:05:43:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+11:05:48:  (3条消息) fopen函数遇到全文件名超过260个字符怎么办_u010463663的博客-CSDN博客 - Google Chrome
+11:05:53:  CSDN - Google Chrome
+11:05:58:  (3条消息) fopen函数遇到全文件名超过260个字符怎么办_u010463663的博客-CSDN博客 - Google Chrome
+11:06:18:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+11:06:23:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:07:58:  (3条消息) fopen函数遇到全文件名超过260个字符怎么办_u010463663的博客-CSDN博客 - Google Chrome
+11:08:03:  C语言 fopen 文件名太长 不写入_百度搜索 - Google Chrome
+11:08:08:  我在linux下面用fopen函数创建文件，发现文件名长度不能超过8个字符，多余会被截除，请问是为什么？_百度知道 - Google Chrome
+11:08:13:  https://www.baidu.com/link?url=0k-NFN_X-yWgklunibeqUoBcfU-2Sr55uB5eOhzB4WHgOm9DnE4_niTglaql9MvJ&wd=&eqid=b65ee4c500003b04000000025fceed2a - Google Chrome
+11:08:18:  (3条消息) 怎样使fopen()支持长文件名？-CSDN论坛 - Google Chrome
+11:08:23:  C语言 fopen 文件名太长 不写入_百度搜索 - Google Chrome
+11:08:28:  C语言中的fopen（）函数打开文件时，文件名有什么限制吗？_百度知道 - Google Chrome
+11:08:33:  C语言 fopen 文件名太长 不写入_百度搜索 - Google Chrome
+11:08:38:  fopen函数遇到全文件名超过260个字符怎么办_u010463663的博客-CSDN博客 - Google Chrome
+11:08:43:  (3条消息) fopen函数遇到全文件名超过260个字符怎么办_u010463663的博客-CSDN博客 - Google Chrome
+11:09:23:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:10:08:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:10:18:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:10:33:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:10:38:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:11:28:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:11:38:  管理员: C:\Windows\system32\cmd.exe
+11:11:58:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:12:03:  管理员: C:\Windows\system32\cmd.exe
+11:12:13:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:12:23:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:12:38:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:13:08:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:13:13:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:16:03:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:17:03:  C语言 fopen 文件名太长 不写入_百度搜索 - Google Chrome
+11:17:08:  C语言swprintf函数的正确用法 | 坏蛋的博客 - Google Chrome
+11:17:28:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:18:48:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:19:03:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:19:18:  管理员: C:\Windows\system32\cmd.exe - gcc  log_decrypt_class.c
+11:19:23:  管理员: C:\Windows\system32\cmd.exe
+11:19:43:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:19:48:  管理员: C:\Windows\system32\cmd.exe
+11:20:23:  删除文件夹
+11:20:28:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+11:20:33:  管理员: C:\Windows\system32\cmd.exe
+11:20:53:  锁屏状态
+11:21:03:  C语言swprintf函数的正确用法 | 坏蛋的博客 - Google Chrome
+11:21:08:  (3条消息) fopen函数遇到全文件名超过260个字符怎么办_u010463663的博客-CSDN博客 - Google Chrome
+11:21:19:  于斌1
+11:21:34:  (3条消息) 踩坑：文件路径过长问题（超过260字符）_IT老五-CSDN博客_文件路径过长 - Google Chrome
+11:21:59:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:25:49:  「开始」菜单
+11:26:19:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+11:26:24:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+11:26:34:  fenxi
+11:26:39:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+11:26:44:  正在从 CRSTesttool.rar 中提取
+11:26:49:  CRSTesttool
+11:26:54:  CashRecyclerTool
+11:26:59:  eSpace
+11:27:04:  荆文波
+11:27:14:  Box_2__0000_20201208094623.log - DRB.tat* - TextAnalysisTool.NET
+11:27:59:  荆文波
+11:28:34:  CRSTesttool
+11:28:49:  CashRecyclerTool
+11:28:54:  Windows 任务管理器
+11:29:29:  CashRecyclerTool
+11:29:34:  锁屏状态
+11:29:39:  Windows 任务管理器
+11:28:34:  CRSTesttool
+11:28:49:  CashRecyclerTool
+11:28:54:  Windows 任务管理器
+11:29:29:  CashRecyclerTool
+11:29:34:  锁屏状态
+11:29:39:  Windows 任务管理器
+11:30:19:  CashRecyclerTool
+11:30:24:  于斌1
+11:30:39:  CRSTesttool
+11:30:49:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+11:30:54:  CRSTesttool
+11:31:04:  CashRecyclerTool
+11:31:09:  Windows 任务管理器
+11:31:19:  新北洋安全助手
+11:31:24:  Windows 任务管理器
+11:31:29:  CashRecyclerTool
+11:31:44:  CRSTesttool
+11:31:49:  Windows 任务管理器
+11:32:04:  TCR小组
+11:32:24:  CRSTesttool
+11:32:29:  CashRecyclerTool
+11:32:34:  CRSTesttool
+11:32:39:  CRS调测工具（研发版）V1.0.2.1
+11:32:49:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+11:33:14:  CRS调测工具（研发版）V1.0.2.1
+11:33:24:  打开
+11:33:29:  CRS调测工具（研发版）V1.0.2.1
+11:33:39:  CRSTestTool
+11:33:44:  打开
+11:33:49:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+11:33:59:  CRS调测工具（研发版）V1.0.2.1
+11:34:19:  打开
+11:34:24:  CRS调测工具（研发版）V1.0.2.1
+11:34:29:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+11:34:39:  CRS调测工具（研发版）V1.0.2.1
+11:34:59:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+11:35:49:  CRSTestTool
+11:35:59:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+11:36:44:  CRS调测工具（研发版）V1.0.2.1
+11:36:49:  打开
+11:36:59:  CRS调测工具（研发版）V1.0.2.1
+11:37:09:  CRSTestTool
+11:37:14:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+11:37:29:  CRSTestTool
+11:37:34:  CRS调测工具（研发版）V1.0.2.1
+11:37:44:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+11:38:54:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:39:39:  本地磁盘 (D:)
+11:39:44:  Project
+11:39:49:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+11:40:19:  锁屏状态
+13:14:50:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+13:14:50:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+13:16:25:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:16:35:  C:\Users\zhangkaifa\Documents\weiboping (2).py (DRB--) - Sublime Text (UNREGISTERED)
+13:16:40:  选择文件夹
+13:16:50:  D:\00-06\BOOT\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+13:16:55:  D:\00-06\BOOT\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+13:17:00:  D:\00-06\BOOT\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+13:17:15:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:17:35:  D:\00-06\BOOT\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+13:18:00:  D:\00-06\BOOT\trunk\Applications\ErrCode\ErrCode.h (trunk) - Sublime Text (UNREGISTERED)
+13:18:10:  CRS调测工具（研发版）V1.0.2.1
+13:18:15:  计算器
+13:18:20:  锁屏状态
+13:18:25:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:18:35:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.h (gfgd) - Sublime Text (UNREGISTERED)
+13:18:40:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:18:45:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.h (gfgd) - Sublime Text (UNREGISTERED)
+13:18:50:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:19:15:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+13:19:20:  E:\深圳出差\gfgd\Applications\CanComm\CanComm.c (gfgd) - Sublime Text (UNREGISTERED)
+13:19:30:  CRS调测工具（研发版）V1.0.2.1
+13:19:40:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:19:55:  μVision
+13:20:10:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:20:25:  CRS调测工具（研发版）V1.0.2.1
+13:20:35:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:21:00:  CRSTestTool
+13:21:05:  CRS调测工具（研发版）V1.0.2.1
+13:21:15:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:21:30:  CRSTestTool
+13:21:35:  打开
+13:21:40:  CRS调测工具（研发版）V1.0.2.1
+13:21:50:  CRSTestTool
+13:21:55:  CRS调测工具（研发版）V1.0.2.1
+13:22:05:  打开
+13:22:15:  CRS调测工具（研发版）V1.0.2.1
+13:22:25:  CRSTestTool
+13:22:30:  CRS调测工具（研发版）V1.0.2.1
+13:23:35:  发送指令到K06
+13:23:40:  CRS调测工具（研发版）V1.0.2.1
+13:23:50:  锁屏状态
+13:23:55:  log
+13:24:00:  CRS调测工具（研发版）V1.0.2.1
+13:24:05:  20201208
+13:24:10:  K64_0000_20201208132252.log - DRB.tat* - TextAnalysisTool.NET
+13:24:35:  选择文件夹
+13:24:45:  D:\00-06\1T1-82\Applications\Instruction\InstrHandle.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:24:50:  D:\00-06\1T1-82\Applications\Instruction\InstrExecute.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:25:00:  D:\00-06\1T1-82\Applications\Instruction\InstrHandle.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:25:05:  D:\00-06\1T1-82\Applications\Instruction\InstrExecute.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:25:15:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:25:30:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+13:25:35:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:25:45:  CRS调测工具（研发版）V1.0.2.1
+13:25:50:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:26:05:  CRS调测工具（研发版）V1.0.2.1
+13:26:10:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:26:15:  CRS调测工具（研发版）V1.0.2.1
+13:26:20:  锁屏状态
+13:26:25:  CRS调测工具（研发版）V1.0.2.1
+13:26:30:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:26:40:  CRS调测工具（研发版）V1.0.2.1
+13:26:45:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:27:45:  CRS调测工具（研发版）V1.0.2.1 (未响应)
+13:27:50:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:27:55:  CRS调测工具（研发版）V1.0.2.1
+13:28:06:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:28:11:  发送指令到K06
+13:28:21:  CRS调测工具（研发版）V1.0.2.1
+13:28:26:  发送指令到K06
+13:28:31:  CRS调测工具（研发版）V1.0.2.1
+13:28:36:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:29:16:  钞箱配置
+13:29:31:  锁屏状态
+13:29:36:  TCR调测工具 V3.36
+13:29:46:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:30:01:  D:\00-06\1T1-82\Applications\Instruction\InstrExecute.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:28:06:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:28:11:  发送指令到K06
+13:28:21:  CRS调测工具（研发版）V1.0.2.1
+13:28:26:  发送指令到K06
+13:28:31:  CRS调测工具（研发版）V1.0.2.1
+13:28:36:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:29:16:  钞箱配置
+13:29:31:  锁屏状态
+13:29:36:  TCR调测工具 V3.36
+13:29:46:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:30:01:  D:\00-06\1T1-82\Applications\Instruction\InstrExecute.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:30:11:  Toolbox
+13:30:16:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:30:21:  V1.014
+13:30:26:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:31:11:  CRS调测工具（研发版）V1.0.2.1
+13:31:26:  CRSTestTool
+13:31:31:  CRS调测工具（研发版）V1.0.2.1
+13:31:46:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:31:51:  CRS调测工具（研发版）V1.0.2.1
+13:32:01:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:32:06:  CRSTestTool
+13:32:11:  锁屏状态
+13:32:16:  CRS调测工具（研发版）V1.0.2.1
+13:32:46:  CRSTestTool
+13:32:51:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:33:01:  CRS调测工具（研发版）V1.0.2.1
+13:33:06:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:33:26:  CRS调测工具（研发版）V1.0.2.1
+13:33:36:  CRSTestTool
+13:33:41:  CRS调测工具（研发版）V1.0.2.1
+13:33:46:  打开
+13:33:51:  CRS调测工具（研发版）V1.0.2.1
+13:34:11:  CRSTestTool
+13:34:16:  CRS调测工具（研发版）V1.0.2.1
+13:34:21:  CRSTestTool
+13:34:26:  CRS调测工具（研发版）V1.0.2.1
+13:34:31:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:34:36:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+13:34:41:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:36:11:  CRS调测工具（研发版）V1.0.2.1
+13:36:46:  打开
+13:36:51:  CRS调测工具（研发版）V1.0.2.1
+13:37:06:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:37:16:  CRS调测工具（研发版）V1.0.2.1
+13:37:21:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:37:36:  Toolbox
+13:37:41:  CRS调测工具（研发版）V1.0.2.1
+13:38:06:  打开
+13:38:11:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:38:26:  CRS调测工具（研发版）V1.0.2.1
+13:38:31:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:38:51:  CRSTestTool
+13:38:56:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:39:11:  CRSTestTool
+13:39:16:  CRS调测工具（研发版）V1.0.2.1
+13:39:31:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:39:51:  CRS调测工具（研发版）V1.0.2.1
+13:39:56:  CRSTestTool
+13:40:06:  CRS调测工具（研发版）V1.0.2.1
+13:40:16:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:40:31:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:40:41:  E:\深圳出差\gfgd\Applications\Common\AppCommon.h (gfgd) - Sublime Text (UNREGISTERED)
+13:40:46:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:41:01:  E:\深圳出差\gfgd\Applications\Update\Version.c (gfgd) - Sublime Text (UNREGISTERED)
+13:41:21:  E:\深圳出差\gfgd\Applications\Update\Version.h (gfgd) - Sublime Text (UNREGISTERED)
+13:41:26:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:43:01:  E:\深圳出差\gfgd\Applications\Update\Version.c (gfgd) - Sublime Text (UNREGISTERED)
+13:43:06:  E:\深圳出差\gfgd\Applications\Update\Version.h (gfgd) - Sublime Text (UNREGISTERED)
+13:43:21:  E:\深圳出差\gfgd\Applications\Update\Version.c (gfgd) - Sublime Text (UNREGISTERED)
+13:43:26:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.h (gfgd) - Sublime Text (UNREGISTERED)
+13:43:31:  E:\深圳出差\gfgd\Applications\Update\Version.c (gfgd) - Sublime Text (UNREGISTERED)
+13:43:36:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:43:41:  E:\深圳出差\gfgd\Applications\Update\Version.c (gfgd) - Sublime Text (UNREGISTERED)
+13:43:46:  CRS调测工具（研发版）V1.0.2.1
+13:43:56:  E:\深圳出差\gfgd\Applications\Update\Version.c (gfgd) - Sublime Text (UNREGISTERED)
+13:44:31:  E:\深圳出差\gfgd\Applications\Update\Version.h (gfgd) - Sublime Text (UNREGISTERED)
+13:44:36:  E:\深圳出差\gfgd\Applications\Update\Version.c (gfgd) - Sublime Text (UNREGISTERED)
+13:44:31:  E:\深圳出差\gfgd\Applications\Update\Version.h (gfgd) - Sublime Text (UNREGISTERED)
+13:44:36:  E:\深圳出差\gfgd\Applications\Update\Version.c (gfgd) - Sublime Text (UNREGISTERED)
+13:45:21:  E:\深圳出差\gfgd\Applications\Common\AppCommon.h (gfgd) - Sublime Text (UNREGISTERED)
+13:45:26:  E:\深圳出差\gfgd\Applications\Update\Version.c (gfgd) - Sublime Text (UNREGISTERED)
+13:45:36:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:45:56:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:46:31:  E:\深圳出差\gfgd\Applications\Update\Version.c (gfgd) - Sublime Text (UNREGISTERED)
+13:46:36:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:47:16:  E:\深圳出差\gfgd\Applications\Update\Version.c (gfgd) - Sublime Text (UNREGISTERED)
+13:47:21:  E:\深圳出差\gfgd\Applications\Update\Version.h (gfgd) - Sublime Text (UNREGISTERED)
+13:47:26:  E:\深圳出差\gfgd\Applications\Update\Version.c (gfgd) - Sublime Text (UNREGISTERED)
+13:47:31:  E:\深圳出差\gfgd\Applications\Update\Version.h (gfgd) - Sublime Text (UNREGISTERED)
+13:47:41:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:47:56:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:48:26:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:48:31:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:49:06:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:49:46:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:50:06:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+13:50:11:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:50:26:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:50:56:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:52:16:  CRS调测工具（研发版）V1.0.2.1
+13:52:21:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:52:26:  CRS调测工具（研发版）V1.0.2.1
+13:52:36:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:52:46:  CRS调测工具（研发版）V1.0.2.1
+13:52:51:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:54:26:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:54:31:  E:\深圳出差\gfgd\Applications\Update\Version.c (gfgd) - Sublime Text (UNREGISTERED)
+13:54:51:  D:\00-06\1T1-82\Applications\Instruction\InstrExecute.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:54:56:  E:\深圳出差\gfgd\Applications\Update\Version.c (gfgd) - Sublime Text (UNREGISTERED)
+13:55:01:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:55:36:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+13:55:51:  锁屏状态
+13:56:01:  D:\00-06\BOOT\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+13:56:11:  D:\00-06\BOOT\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+13:56:31:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+13:56:41:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+13:56:51:  CRS调测工具（研发版）V1.0.2.1
+13:57:06:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+13:57:11:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:57:46:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:57:51:  CRS调测工具（研发版）V1.0.2.1
+13:58:01:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:58:11:  CRS调测工具（研发版）V1.0.2.1
+13:58:16:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:58:41:  CRS调测工具（研发版）V1.0.2.1
+13:58:46:  V1.014
+13:58:51:  CRS调测工具（研发版）V1.0.2.1
+13:58:56:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:59:11:  CRSTestTool
+13:59:16:  Windows 任务管理器
+13:59:21:  锁屏状态
+13:59:26:  CRS调测工具（研发版）V1.0.2.1
+13:59:31:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:59:46:  CRS调测工具（研发版）V1.0.2.1
+13:58:11:  CRS调测工具（研发版）V1.0.2.1
+13:58:16:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:58:41:  CRS调测工具（研发版）V1.0.2.1
+13:58:46:  V1.014
+13:58:51:  CRS调测工具（研发版）V1.0.2.1
+13:58:56:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:59:11:  CRSTestTool
+13:59:16:  Windows 任务管理器
+13:59:21:  锁屏状态
+13:59:26:  CRS调测工具（研发版）V1.0.2.1
+13:59:31:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:59:46:  CRS调测工具（研发版）V1.0.2.1
+14:00:11:  eSpace
+14:00:21:  CRSTestTool
+14:00:26:  戚晓东
+14:01:06:  所有笔记本 - 张开发 - 印象笔记
+14:01:11:  0-工作 - 张开发 - 印象笔记
+14:01:26:  戚晓东
+14:03:46:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:04:21:  CRSTestTool
+14:04:26:  锁屏状态
+14:04:31:  CRS调测工具（研发版）V1.0.2.1
+14:04:41:  正在打开 - Word
+14:04:46:  TD回复格式.docx [兼容模式] - Word
+14:05:51:  锁屏状态
+14:06:01:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+14:06:11:  TD回复格式.docx [兼容模式] - Word
+14:06:56:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+14:08:51:  戚晓东
+14:09:41:  TD回复格式.docx [兼容模式] - Word
+14:09:51:  戚晓东
+14:11:36:  新标签页 - Google Chrome
+14:11:46:  班车管理系统 - Google Chrome
+14:11:51:  班车管理系统 [新北洋集团] - Google Chrome
+14:13:01:  锁屏状态
+14:13:11:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+14:15:26:  戚晓东
+14:15:31:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+14:15:46:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:15:56:  CRS调测工具（研发版）V1.0.2.1
+14:16:01:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:16:16:  K64_0000_20201208132252.log - DRB.tat* - TextAnalysisTool.NET
+14:16:21:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:17:51:  TD回复格式.docx [兼容模式] - Word
+14:17:56:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:18:36:  TD回复格式.docx [兼容模式] - Word
+14:18:41:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:19:41:  TD回复格式.docx [兼容模式] - Word
+14:19:51:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:23:51:  TD回复格式.docx [兼容模式] - Word
+14:24:36:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:26:51:  吉哲
+14:27:01:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:28:01:  TD回复格式.docx [兼容模式] - Word
+14:28:11:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:28:11:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:33:16:  TD回复格式.docx [兼容模式] - Word
+14:33:21:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:33:51:  TD回复格式.docx [兼容模式] - Word
+14:34:01:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:34:41:  戚晓东
+14:35:21:  TD回复格式.docx [兼容模式] - Word
+14:35:36:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:39:06:  TD回复格式.docx [兼容模式] - Word
+14:39:11:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:39:41:  TD回复格式.docx [兼容模式] - Word
+14:39:46:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:45:31:  锁屏状态
+14:45:36:  TD回复格式.docx [兼容模式] - Word
+14:45:41:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:46:36:  TD回复格式.docx [兼容模式] - Word
+14:47:16:  eSpace
+14:47:21:  TD回复格式.docx [兼容模式] - Word
+14:47:26:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:49:06:  TD回复格式.docx [兼容模式] - Word
+14:49:26:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:49:56:  TD回复格式.docx [兼容模式] - Word
+14:50:01:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:52:51:  戚晓东
+14:52:56:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:53:01:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+14:53:06:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:56:41:  D:\CRS\666\Middlewares\Component\Component.c (666) - Sublime Text (UNREGISTERED)
+14:56:51:  D:\CRS\666\Middlewares\StepMotor\StepMotorConfig.c (666) - Sublime Text (UNREGISTERED)
+14:57:01:  D:\CRS\666\Middlewares\StepMotor\StepMotorConfig.c • (666) - Sublime Text (UNREGISTERED)
+14:57:11:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+14:57:21:  μVision
+14:57:31:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+14:59:26:  CRS调测工具（研发版）V1.0.2.1
+14:59:26:  CRS调测工具（研发版）V1.0.2.1
+15:00:06:  发送指令到K18
+15:00:11:  CRS调测工具（研发版）V1.0.2.1
+15:00:36:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:04:46:  TD回复格式.docx [兼容模式] - Word
+15:05:26:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:09:01:  TD回复格式.docx [兼容模式] - Word
+15:10:01:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:12:56:  新建文本文档.exe - 快捷方式
+15:13:01:  新标签页 - Google Chrome
+15:13:06:  百度一下，你就知道 - Google Chrome
+15:13:11:  首页 - 知乎 - Google Chrome
+15:13:16:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+15:13:21:  (99+ 封私信 / 80 条消息) 字帖有用吗 - 搜索结果 - 知乎 - Google Chrome
+15:13:41:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:18:01:  μVision
+15:18:06:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:21:21:  新建Microsoft Excel 工作表.xlsx - Excel
+15:27:56:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:28:11:  新建Microsoft Excel 工作表.xlsx - Excel
+15:29:01:  锁屏状态
+15:29:06:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:29:41:  952 • (trunk) - Sublime Text (UNREGISTERED)
+15:29:46:  ,952 • (trunk) - Sublime Text (UNREGISTERED)
+15:29:51:  952 • (trunk) - Sublime Text (UNREGISTERED)
+15:28:11:  新建Microsoft Excel 工作表.xlsx - Excel
+15:29:01:  锁屏状态
+15:29:06:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:29:41:  952 • (trunk) - Sublime Text (UNREGISTERED)
+15:29:46:  ,952 • (trunk) - Sublime Text (UNREGISTERED)
+15:29:51:  952 • (trunk) - Sublime Text (UNREGISTERED)
+15:30:06:  ,952,949,941,928,910,888,863,835,805,773,740,707,6 • (trunk) - Sublime Text (UNREGISTERED)
+15:30:11:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:35:16:  CRS调测工具（研发版）V1.0.2.1
+15:35:21:  打开
+15:35:36:  CRS调测工具（研发版）V1.0.2.1
+15:35:41:  桌面整理
+15:35:46:  CRS调测工具（研发版）V1.0.2.1
+15:36:31:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+15:36:36:  桌面整理
+15:36:46:  CRS调测工具（研发版）V1.0.2.1
+15:37:11:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:43:06:  CRS调测工具（研发版）V1.0.2.1
+15:43:51:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012081542.log
+15:44:21:  CRS调测工具（研发版）V1.0.2.1
+15:44:31:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:44:36:  CRS调测工具（研发版）V1.0.2.1
+15:44:51:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:44:21:  CRS调测工具（研发版）V1.0.2.1
+15:44:31:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:44:36:  CRS调测工具（研发版）V1.0.2.1
+15:44:51:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:45:07:  CRS调测工具（研发版）V1.0.2.1
+15:45:22:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012081544.log
+15:46:12:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:46:17:  CRS调测工具（研发版）V1.0.2.1
+15:47:17:  提交或返工
+15:47:42:  CRS调测工具（研发版）V1.0.2.1
+15:48:17:  本地磁盘 (E:)
+15:48:22:  666
+15:48:27:  ImpellerCtrl.c - TortoiseMerge
+15:48:37:  D:\CRS\666 - 工作副本 - TortoiseSVN
+15:48:42:  666
+15:48:57:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012081544.log
+15:49:02:  锁屏状态
+15:49:07:  主页 - Internet Explorer
+15:49:12:  系统登录 - Internet Explorer
+15:49:17:  新北洋OA信息化平台 - Internet Explorer
+15:49:27:  Windchill - Internet Explorer
+15:49:32:  Windchill - 主页 - Internet Explorer
+15:49:42:  工程更改任务 - 58693 - Internet Explorer
+15:49:47:  产品 - Internet Explorer
+15:49:52:  Windchill - 主页 - Internet Explorer
+15:49:57:  任务 - SNBC_WF_ECA_58693-提交或返工 - Internet Explorer
+15:50:12:  用户 - 张开发 (zhangkaifa: snbc) - Internet Explorer
+15:50:22:  任务 - SNBC_WF_ECA_58693-提交或返工 - Internet Explorer
+15:50:27:  Windchill - 主页 - Internet Explorer
+15:50:37:  任务 - SNBC_WF_ECA_58693-提交或返工 - Internet Explorer
+15:50:57:  于斌1
+15:51:02:  任务 - SNBC_WF_ECA_58693-提交或返工 - Internet Explorer
+15:51:07:  重新分配 - Internet Explorer
+15:51:27:  于斌1
+15:51:32:  重新分配 - Internet Explorer
+15:51:37:  任务 - SNBC_WF_ECA_58693-提交或返工 - Internet Explorer
+15:51:42:  重新分配 - Internet Explorer
+15:51:52:  于斌1
+15:51:57:  任务 - SNBC_WF_ECA_58693-提交或返工 - Internet Explorer
+15:52:07:  TheActtionRec
+15:52:12:  2020-12-04.txt - 记事本
+15:52:22:  2020-12-02.txt - 记事本
+15:52:32:  于斌1
+15:53:07:  W
+15:53:12:  2020-11-30.txt - 记事本
+15:53:17:  2020-12-01.txt - 记事本
+15:53:32:  于斌1
+15:54:37:  W
+15:54:42:  收取邮件 - 张开发
+15:54:47:  W
+15:54:52:  删除多个项目
+15:54:57:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+15:55:07:  Decode
+15:55:12:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:55:22:  于斌1
+15:55:27:  LOG
+15:55:32:  Box_3__0000_20201208091645.log - DRB.tat* - TextAnalysisTool.NET
+15:56:07:  K64_0000_20201208091645
+15:56:22:  Box_2__0000_20201208091645.log - DRB.tat* - TextAnalysisTool.NET
+15:56:27:  K64_0000_20201208091559
+15:56:32:  Box_2__0000_20201208091559.log - DRB.tat* - TextAnalysisTool.NET
+15:56:42:  K64_0000_20201208091645
+15:56:47:  Box_2__0000_20201208091645.log - DRB.tat* - TextAnalysisTool.NET
+15:56:52:  K64_0000_20201208091559
+15:56:57:  Box_2__0000_20201208091559.log - DRB.tat* - TextAnalysisTool.NET
+15:57:02:  K64_0000_20201208091645
+15:57:07:  Box_2__0000_20201208091645.log - DRB.tat* - TextAnalysisTool.NET
+15:57:12:  K64_0000_20201208091645
+15:57:22:  LOG
+15:57:27:  Box_2__0000_20201208091346.log - DRB.tat* - TextAnalysisTool.NET
+15:57:32:  LOG
+15:57:37:  Box_2__0000_20201208091245.log - DRB.tat* - TextAnalysisTool.NET
+15:57:47:  20201208.rar
+15:57:52:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+15:58:07:  20201208
+15:58:12:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:58:32:  Decode
+15:58:37:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:58:47:  K64_0000_20201208092712
+15:58:52:  Box_2__0000_20201208092712.log - DRB.tat* - TextAnalysisTool.NET
+15:58:57:  K64_0000_20201208092712
+15:59:02:  Box_2__0000_20201208092601.log - DRB.tat* - TextAnalysisTool.NET
+15:59:07:  K64_0000_20201208092325
+15:59:12:  Box_2__0000_20201208092325.log - DRB.tat* - TextAnalysisTool.NET
+15:59:17:  K64_0000_20201208092244
+15:59:22:  Box_2__0000_20201208092244.log - DRB.tat* - TextAnalysisTool.NET
+15:59:27:  K64_0000_20201208091836
+15:59:32:  Box_2__0000_20201208091836.log - DRB.tat* - TextAnalysisTool.NET
+15:58:07:  20201208
+15:58:12:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:58:32:  Decode
+15:58:37:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:58:47:  K64_0000_20201208092712
+15:58:52:  Box_2__0000_20201208092712.log - DRB.tat* - TextAnalysisTool.NET
+15:58:57:  K64_0000_20201208092712
+15:59:02:  Box_2__0000_20201208092601.log - DRB.tat* - TextAnalysisTool.NET
+15:59:07:  K64_0000_20201208092325
+15:59:12:  Box_2__0000_20201208092325.log - DRB.tat* - TextAnalysisTool.NET
+15:59:17:  K64_0000_20201208092244
+15:59:22:  Box_2__0000_20201208092244.log - DRB.tat* - TextAnalysisTool.NET
+15:59:27:  K64_0000_20201208091836
+15:59:32:  Box_2__0000_20201208091836.log - DRB.tat* - TextAnalysisTool.NET
+16:00:07:  Decode
+16:00:12:  上腔20元出钞不顺
+16:00:17:  K64_0000_20201208091645
+16:00:27:  Box_2__0000_20201208091559.log - DRB.tat* - TextAnalysisTool.NET
+16:00:32:  K64_0000_20201208091346
+16:00:37:  Box_2__0000_20201208091346.log - DRB.tat* - TextAnalysisTool.NET
+16:00:42:  LOG
+16:00:47:  Box_3__0000_20201208091245.log - DRB.tat* - TextAnalysisTool.NET
+16:01:07:  K64_0000_20201208091559
+16:01:12:  LOG
+16:01:17:  Box_3__0000_20201208091645.log - DRB.tat* - TextAnalysisTool.NET
+16:01:52:  Add Filter
+16:01:57:  Box_3__0000_20201208091645.log - DRB.tat* - TextAnalysisTool.NET
+16:02:37:  LOG
+16:02:42:  K64-_0000_20201208091559.log - DRB.tat* - TextAnalysisTool.NET
+16:02:52:  Edit Filter
+16:02:57:  K64-_0000_20201208091559.log - DRB.tat* - TextAnalysisTool.NET
+16:03:07:  LOG
+16:03:12:  K64-_0000_20201208091346.log - DRB.tat* - TextAnalysisTool.NET
+16:03:17:  LOG
+16:03:22:  K64-_0000_20201208091346.log - DRB.tat* - TextAnalysisTool.NET
+16:03:37:  K64_0000_20201208091245
+16:03:42:  K64-_0000_20201208091245.log - DRB.tat* - TextAnalysisTool.NET
+16:03:47:  LOG
+16:04:12:  K64_0000_20201208091346
+16:04:17:  LOG
+16:04:27:  K64-_0000_20201208091346.log - DRB.tat* - TextAnalysisTool.NET
+16:04:57:  计算器
+16:05:27:  K64-_0000_20201208091346.log - DRB.tat* - TextAnalysisTool.NET
+16:05:32:  计算器
+16:05:42:  K64-_0000_20201208091346.log - DRB.tat* - TextAnalysisTool.NET
+16:06:12:  K64_0000_20201208091559
+16:06:17:  Box_3__0000_20201208091645.log - DRB.tat* - TextAnalysisTool.NET
+16:09:02:  Add Filter
+16:09:12:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+16:09:22:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+16:09:32:  Box_3__0000_20201208091645.log - DRB.tat* - TextAnalysisTool.NET
+16:10:52:  0-工作 - 张开发 - 印象笔记
+16:10:57:  戚晓东
+16:11:02:  Box_3__0000_20201208091645.log - DRB.tat* - TextAnalysisTool.NET
+16:11:37:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:11:42:  KE18LOG.bat - 快捷方式
+16:11:47:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:12:02:  Box_3__0000_20201208091645.log - DRB.tat* - TextAnalysisTool.NET
+16:12:27:  回复: 上腔20元出钞不顺.rar - 写邮件
+16:13:22:  Box_3__0000_20201208091645.log - DRB.tat* - TextAnalysisTool.NET
+16:13:37:  回复: 上腔20元出钞不顺.rar - 写邮件   16:13:25 已保存
+16:14:27:  回复: 上腔20元出钞不顺.rar - 写邮件   16:14:25 已保存
+16:14:27:  回复: 上腔20元出钞不顺.rar - 写邮件   16:14:25 已保存
+16:15:27:  回复: 上腔20元出钞不顺.rar - 写邮件   16:15:25 已保存
+16:15:32:  Box_3__0000_20201208091645.log - DRB.tat* - TextAnalysisTool.NET
+16:15:52:  CRS调测工具（研发版）V1.0.2.1
+16:16:07:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:16:12:  KE18LOG.bat - 快捷方式
+16:16:17:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:16:22:  KE18LOG.bat - 快捷方式
+16:16:27:  SEGGER J-Link V6.10b - Target device settings
+16:16:37:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:16:57:  发送指令到K18
+16:17:12:  CRS调测工具（研发版）V1.0.2.1
+16:17:17:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012081616.log
+16:17:27:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:17:37:  锁屏状态
+16:17:42:  新建Microsoft Excel 工作表.xlsx - Excel
+16:18:27:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:18:32:  952 • (trunk) - Sublime Text (UNREGISTERED)
+16:18:37:  ,952,948,938,920,897,869,837,802,765,727,689,651,6 • (trunk) - Sublime Text (UNREGISTERED)
+16:18:42:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:19:17:  锁屏状态
+16:19:32:  发送指令到K18
+16:19:37:  CRS调测工具（研发版）V1.0.2.1
+16:19:42:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012081619.log
+16:19:47:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:20:07:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012081619.log
+16:20:12:  新建Microsoft Excel 工作表.xlsx - Excel
+16:25:27:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:25:37:  952 • (trunk) - Sublime Text (UNREGISTERED)
+16:25:42:  952,941,910,863,805,740,674,610,550,494,458,429,40 • (trunk) - Sublime Text (UNREGISTERED)
+16:25:47:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:26:07:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012081619.log
+16:26:12:  发送指令到K18
+16:26:17:  CRS调测工具（研发版）V1.0.2.1
+16:26:22:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012081626.log
+16:26:37:  CRS调测工具（研发版）V1.0.2.1
+16:29:42:  于斌1
+16:29:42:  于斌1
+16:30:32:  Dialog
+16:30:37:  CRS调测工具（研发版）V1.0.2.1
+16:32:17:  Dialog
+16:33:42:  CRS调测工具（研发版）V1.0.2.1
+16:33:47:  Dialog
+16:33:52:  CRS调测工具（研发版）V1.0.2.1
+16:42:17:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012081626.log
+16:42:27:  桌面整理
+16:42:42:  CRS调测工具（研发版）V1.0.2.1
+16:47:32:  新建Microsoft Excel 工作表.xlsx - Excel
+16:48:52:  锁屏状态
+16:48:57:  952 • (trunk) - Sublime Text (UNREGISTERED)
+16:49:02:  952,943,917,877,826,769,709,649,591,537,487,457,43 • (trunk) - Sublime Text (UNREGISTERED)
+16:49:12:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:49:47:  Toolbox
+16:49:52:  CRS调测工具（研发版）V1.0.2.1
+16:51:37:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012081626.log
+16:51:42:  CRS调测工具（研发版）V1.0.2.1
+16:51:57:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012081651.log
+16:52:17:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:52:32:  新建Microsoft Excel 工作表.xlsx - Excel
+16:53:17:  戚晓东
+16:54:22:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:54:47:  锁屏状态
+16:54:52:  戚晓东
+16:54:57:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:55:07:  戚晓东
+16:55:17:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:55:27:  CRS调测工具（研发版）V1.0.2.1
+16:56:12:  CashRecyclerTool 属性
+16:56:17:  CRSTesttool
+16:56:27:  CRS调测工具（研发版）V1.0.2.1
+16:56:32:  打开
+16:56:42:  CRSTestTool
+16:56:47:  打开
+16:56:52:  CRS调测工具（研发版）V1.0.2.1
+16:56:57:  戚晓东
+16:57:22:  CRS调测工具（研发版）V1.0.2.1
+16:57:37:  发送指令到K18
+16:57:42:  CRS调测工具（研发版）V1.0.2.1
+16:57:47:  锁屏状态
+16:57:52:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:58:12:  新建Microsoft Excel 工作表.xlsx - Excel
+16:58:27:  952 • (trunk) - Sublime Text (UNREGISTERED)
+16:58:32:  ,952,945,924,891,848,800,747,693,640,588,540,495,4 • (trunk) - Sublime Text (UNREGISTERED)
+16:58:37:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:58:47:  戚晓东
+16:58:52:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:59:02:  CRS调测工具（研发版）V1.0.2.1
+16:59:07:  发送指令到K18
+16:59:17:  CRS调测工具（研发版）V1.0.2.1
+16:59:47:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:59:57:  新建Microsoft Excel 工作表.xlsx - Excel
+16:58:12:  新建Microsoft Excel 工作表.xlsx - Excel
+16:58:27:  952 • (trunk) - Sublime Text (UNREGISTERED)
+16:58:32:  ,952,945,924,891,848,800,747,693,640,588,540,495,4 • (trunk) - Sublime Text (UNREGISTERED)
+16:58:37:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:58:47:  戚晓东
+16:58:52:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:59:02:  CRS调测工具（研发版）V1.0.2.1
+16:59:07:  发送指令到K18
+16:59:17:  CRS调测工具（研发版）V1.0.2.1
+16:59:47:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:59:57:  新建Microsoft Excel 工作表.xlsx - Excel
+17:02:12:  952 • (trunk) - Sublime Text (UNREGISTERED)
+17:02:17:  952,948,938,920,897,869,837,802,765,727,689,651,61 • (trunk) - Sublime Text (UNREGISTERED)
+17:02:22:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+17:02:42:  CRS调测工具（研发版）V1.0.2.1
+17:04:47:  新建Microsoft Excel 工作表.xlsx - Excel
+17:05:17:  952,948,938,920,897,869,837,802,765,727,689,651,61 • (trunk) - Sublime Text (UNREGISTERED)
+17:05:22:  ,952 • (trunk) - Sublime Text (UNREGISTERED)
+17:05:27:  新建Microsoft Excel 工作表.xlsx - Excel
+17:05:32:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+17:05:52:  CRS调测工具（研发版）V1.0.2.1
+17:06:22:  锁屏状态

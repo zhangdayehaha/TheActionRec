@@ -1,0 +1,605 @@
+08:02:05:  SECSplashWnd
+08:02:20:  μVision
+08:02:25:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:03:05:  库
+08:03:10:  本地磁盘 (D:)
+08:03:15:  00-06
+08:03:20:  Project
+08:03:25:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:04:50:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision (未响应)
+08:04:55:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:09:41:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:09:46:  选择文件夹
+08:09:56:  untitled (trunk) - Sublime Text (UNREGISTERED)
+08:10:06:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+08:10:26:  D:\00-KE64\6\trunk\Middlewares\Encryption\EncryApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:10:36:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c (trunk) - Sublime Text (UNREGISTERED)
+08:16:31:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+08:17:01:  本地磁盘 (F:)
+08:17:06:  图片
+08:17:11:  *Python 3.7.3 Shell*
+08:17:16:  图片
+08:17:21:  TheActtionRec
+08:17:26:  LogExpert
+08:17:31:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003091718.log
+08:17:36:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-09.txt
+08:17:51:  
+08:17:56:  Bin
+08:18:01:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+08:18:35:  Bin
+08:18:40:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+08:19:00:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:19:05:  Bin
+08:19:20:  iTunes
+08:19:25:  自动播放
+08:19:30:  Bin
+08:19:55:  锁屏状态
+08:20:00:  新标签页 - Google Chrome
+08:18:40:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+08:19:00:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:19:05:  Bin
+08:19:20:  iTunes
+08:19:25:  自动播放
+08:19:30:  Bin
+08:19:55:  锁屏状态
+08:20:00:  新标签页 - Google Chrome
+08:20:09:  www.zhihu.com - Google Chrome
+08:20:14:  新建文本文档.exe - 快捷方式
+08:20:19:  首页 - 知乎 - Google Chrome
+08:20:24:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+08:24:35:  Bin
+08:24:35:  Bin
+08:25:17:  锁屏状态
+08:25:22:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+08:26:48:  Bin
+08:27:33:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+08:27:43:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+08:27:53:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+08:30:25:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+08:30:30:  锁屏状态
+08:30:35:  新建文本文档.exe - 快捷方式
+08:30:40:  新标签页 - Google Chrome
+08:30:50:  班车管理系统 - Google Chrome
+08:32:41:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+08:33:06:  新建文本文档.exe - 快捷方式
+08:33:11:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+08:33:51:  新标签页 - Google Chrome
+08:33:56:  首页 - 知乎 - Google Chrome
+08:34:01:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+08:36:38:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+08:39:04:  AB钞箱导向板摆块+摆块集钞结构固件程序
+08:39:14:  桌面整理
+08:39:34:  TCR调测工具 V3.36
+08:39:44:  打开
+08:40:04:  桌面整理
+08:39:04:  AB钞箱导向板摆块+摆块集钞结构固件程序
+08:39:14:  桌面整理
+08:39:34:  TCR调测工具 V3.36
+08:39:44:  打开
+08:40:04:  桌面整理
+08:40:11:  TCR调测工具 V3.36
+08:40:26:  打开
+08:40:31:  TCR调测工具 V3.36
+08:40:41:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+08:40:46:  锁屏状态
+08:40:51:  *Python 3.7.3 Shell*
+08:43:16:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+08:43:46:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+08:44:21:  TCR调测工具 V3.36
+08:44:27:  C:\Users\zhangkaifa\Desktop\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB.EEP (trunk) - Sublime Text (UNREGISTERED)
+08:44:47:  计算器
+08:45:02:  选择文件夹
+08:44:21:  TCR调测工具 V3.36
+08:44:27:  C:\Users\zhangkaifa\Desktop\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB.EEP (trunk) - Sublime Text (UNREGISTERED)
+08:44:47:  计算器
+08:45:02:  选择文件夹
+08:45:13:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\Track\Track.c • (8) - Sublime Text (UNREGISTERED)
+08:46:34:  新建文本文档.exe - 快捷方式
+08:46:39:  BTCRTestTool V3.36
+08:46:44:  20200309
+08:46:49:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+08:46:54:  Box_1__22134_20200309105411.log - [No filter file] - TextAnalysisTool.NET
+08:47:04:  Add Filter
+08:47:09:  Box_1__22134_20200309105411.log - [No filter file]* - TextAnalysisTool.NET
+08:49:50:  K64_22134_20200309105411
+08:50:00:  C:\Users\zhangkaifa\Desktop\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB.EEP (trunk) - Sublime Text (UNREGISTERED)
+08:49:50:  K64_22134_20200309105411
+08:50:00:  C:\Users\zhangkaifa\Desktop\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB.EEP (trunk) - Sublime Text (UNREGISTERED)
+08:50:17:  C:\Users\zhangkaifa\AppData\Roaming\Foxmail7\Temp-4976-20200310083854\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_RB.EEP (trunk) - Sublime Text (UNREGISTERED)
+08:50:22:  C:\Users\zhangkaifa\Desktop\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB.EEP (trunk) - Sublime Text (UNREGISTERED)
+08:50:37:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:50:42:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MemoryConfig.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:50:57:  D:\00-06\Thespace\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+08:51:07:  D:\00-06\Thespace\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:51:37:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MemoryConfig.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:51:42:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+08:51:48:  *Python 3.7.3 Shell*
+08:51:53:  锁屏状态
+08:54:44:  *Python 3.7.3 Shell*
+08:54:49:  新标签页 - Google Chrome
+08:54:54:  班车管理系统 - Google Chrome
+08:54:59:  班车管理系统 [新北洋集团] - Google Chrome
+08:54:44:  *Python 3.7.3 Shell*
+08:54:49:  新标签页 - Google Chrome
+08:54:54:  班车管理系统 - Google Chrome
+08:54:59:  班车管理系统 [新北洋集团] - Google Chrome
+08:55:16:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+08:55:41:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+08:55:46:  新标签页 - Google Chrome
+08:56:01:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:00:01:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:00:01:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:02:28:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:04:44:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:05:44:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:06:24:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:08:46:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:11:01:  (36 封私信 / 80 条消息) 百里玄策 - 搜索结果 - 知乎 - Google Chrome
+09:12:41:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:12:51:  (36 封私信 / 80 条消息) 百里玄策 - 搜索结果 - 知乎 - Google Chrome
+09:14:57:  (36 封私信 / 80 条消息) 百里玄策怎么玩 - 搜索结果 - 知乎 - Google Chrome
+09:14:57:  (36 封私信 / 80 条消息) 百里玄策怎么玩 - 搜索结果 - 知乎 - Google Chrome
+09:15:14:  有谁知道百里玄策应该怎么玩吗？我想专注练百里玄策，谢谢？ - 知乎 - Google Chrome
+09:15:19:  (36 封私信 / 80 条消息) 百里玄策怎么玩 - 搜索结果 - 知乎 - Google Chrome
+09:15:24:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:18:51:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:18:51:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:20:17:  (36 封私信 / 99+ 条消息) 首页 - 知乎 - Google Chrome
+09:20:22:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:20:27:  TortoiseSVN 项目监视器
+09:20:52:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:21:32:  (36 封私信 / 99+ 条消息) 首页 - 知乎 - Google Chrome
+09:22:02:  首页 - 知乎 - Google Chrome
+09:22:07:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:24:18:  如果你有20万，你是选择买车还是从家里再凑20万付个房子首付? - 知乎 - Google Chrome
+09:24:23:  K64_22134_20200309105411
+09:24:28:  Subversion
+09:24:33:  letgo
+09:24:38:  C:\Windows\system32\cmd.exe
+09:24:53:  爬取结果
+09:24:18:  如果你有20万，你是选择买车还是从家里再凑20万付个房子首付? - 知乎 - Google Chrome
+09:24:23:  K64_22134_20200309105411
+09:24:28:  Subversion
+09:24:33:  letgo
+09:24:38:  C:\Windows\system32\cmd.exe
+09:24:53:  爬取结果
+09:25:35:  *zuiduo.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\zuiduo.py (3.7.3)*
+09:25:40:  Figure 1
+09:25:50:  zuiduo.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\zuiduo.py (3.7.3)
+09:25:55:  Figure 1
+09:26:00:  zuiduo.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\zuiduo.py (3.7.3)
+09:26:06:  *Python 3.7.3 Shell*
+09:26:11:  Figure 1
+09:26:16:  爬取结果
+09:26:21:  C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\如果你有20万，你是选择买车还是从家里再凑20万付个房子首付.txt (trunk) - Sublime Text (UNREGISTERED)
+09:27:16:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:28:32:  爬取结果
+09:28:42:  工具软件
+09:28:47:  本地磁盘 (E:)
+09:28:52:  01-软件
+09:28:57:  修复工具
+09:29:02:  C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\如果你有20万，你是选择买车还是从家里再凑20万付个房子首付.txt (trunk) - Sublime Text (UNREGISTERED)
+09:28:32:  爬取结果
+09:28:42:  工具软件
+09:28:47:  本地磁盘 (E:)
+09:28:52:  01-软件
+09:28:57:  修复工具
+09:29:02:  C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\如果你有20万，你是选择买车还是从家里再凑20万付个房子首付.txt (trunk) - Sublime Text (UNREGISTERED)
+09:30:36:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:31:47:  新标签页 - Google Chrome
+09:31:52:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:32:02:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:34:19:  计算器
+09:34:39:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:34:19:  计算器
+09:34:39:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:35:58:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:37:39:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:38:49:  收取邮件 - 张开发
+09:38:59:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:38:49:  收取邮件 - 张开发
+09:38:59:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:40:41:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:41:01:  Toolbox
+09:41:06:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:42:46:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:42:51:  首页 - 知乎 - Google Chrome
+09:42:56:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:43:06:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+09:43:36:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\MemoryConfig.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:43:46:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:44:17:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Sensor\Sensor.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:44:32:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:44:47:  开始
+09:44:52:  原理图- 一体两箱控制板  EXTFEDU6V1.0.PDF - Adobe Reader
+09:44:17:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Sensor\Sensor.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:44:32:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:44:47:  开始
+09:44:52:  原理图- 一体两箱控制板  EXTFEDU6V1.0.PDF - Adobe Reader
+09:45:18:  Adobe Reader
+09:45:28:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:45:58:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:48:08:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:48:08:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:52:57:  1T2集成测试 - OneNote
+09:53:07:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:53:17:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:53:22:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:54:02:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:54:18:  RTT_SeggerLog_202001030850.log 属性
+09:54:28:  接收
+09:54:33:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:54:48:  接收 (未响应)
+09:54:53:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:54:18:  RTT_SeggerLog_202001030850.log 属性
+09:54:28:  接收
+09:54:33:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:54:48:  接收 (未响应)
+09:54:53:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:55:18:  接收
+09:56:18:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:58:34:  接收
+09:58:54:  新建文件夹
+09:59:04:  新标签页 - Google Chrome
+09:59:09:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:58:34:  接收
+09:58:54:  新建文件夹
+09:59:04:  新标签页 - Google Chrome
+09:59:09:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:00:12:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:01:07:  无标题 - Google Chrome
+10:01:12:  (36 封私信 / 80 条消息) 哪个英雄能单挑过元歌，从一级到十五级那种? - 知乎 - Google Chrome
+10:01:17:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:03:42:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:06:34:  首页 - 知乎 - Google Chrome
+10:06:39:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:07:05:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:07:25:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:10:26:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:14:08:  *Python 3.7.3 Shell*
+10:14:29:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:14:35:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:14:08:  *Python 3.7.3 Shell*
+10:14:29:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:14:35:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:19:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:19:13:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:19:18:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:19:23:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\PeripheralDriver\GpioDriver\GpioDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:19:28:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:19:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\PeripheralDriver\GpioDriver\GpioDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:19:53:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:19:58:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:19:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:19:13:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:19:18:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:19:23:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\PeripheralDriver\GpioDriver\GpioDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:19:28:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:19:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\PeripheralDriver\GpioDriver\GpioDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:19:53:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:19:58:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:20:31:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:20:46:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:21:26:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:22:37:  *Python 3.7.3 Shell*
+10:22:42:  Toolbox
+10:22:47:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:23:22:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:23:27:  新建文本文档.exe - 快捷方式
+10:23:32:  00-06
+10:23:37:  SECSplashWnd
+10:23:42:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:24:22:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:24:27:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:24:22:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:24:27:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:25:44:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:25:49:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:26:59:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:27:04:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:27:14:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:31:11:  Tools
+10:31:21:  BR-1-CashBox1T2
+10:31:26:  D:\00-06\8\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+10:31:31:  InstrExecute.c - TortoiseMerge
+10:31:46:  InstrReturn.c - TortoiseMerge
+10:31:51:  MotorCtrl.c - TortoiseMerge
+10:31:56:  PaperManage.c - TortoiseMerge
+10:32:01:  State.c - TortoiseMerge
+10:32:06:  Track.c - TortoiseMerge
+10:32:11:  SensorDriver.c - TortoiseMerge
+10:32:16:  D:\00-06\8\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+10:32:21:  Selector.c - TortoiseMerge
+10:32:51:  D:\00-06\8\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+10:32:56:  Selector.c - TortoiseMerge
+10:33:41:  D:\00-06\8\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+10:33:46:  Selector.c - TortoiseMerge
+10:33:56:  Sensor.c - TortoiseMerge
+10:34:01:  μVision
+10:34:06:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:34:11:  BR-1-CashBox1T2
+10:34:16:  Tools
+10:34:27:  删除文件
+10:34:32:  Tools
+10:34:37:  D:\00-06\8\branches\BR-1-CashBox1T2\Tools\CreateJK.exe
+10:34:57:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:34:06:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:34:11:  BR-1-CashBox1T2
+10:34:16:  Tools
+10:34:27:  删除文件
+10:34:32:  Tools
+10:34:37:  D:\00-06\8\branches\BR-1-CashBox1T2\Tools\CreateJK.exe
+10:34:57:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:35:17:  D:\00-06\8\branches\BR-1-CashBox1T2\Tools\CreateJK.exe
+10:38:32:  TCR调测工具 V3.36
+10:38:42:  Tools
+10:38:47:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:38:52:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+10:39:17:  TCR调测工具 V3.36
+10:38:32:  TCR调测工具 V3.36
+10:38:42:  Tools
+10:38:47:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:38:52:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+10:39:17:  TCR调测工具 V3.36
+10:40:53:  桌面整理
+10:40:58:  C:\Users\zhangkaifa\Desktop\112.gif - Internet Explorer
+10:41:03:  确认文件替换
+10:41:08:  正在从 BTCRTestTool V3.41.rar 中提取
+10:41:13:  新建文本文档.exe - 快捷方式
+10:41:18:  BTCRTestTool V3.41
+10:41:23:  TCR调测工具（研发版）V3.41
+10:41:33:  V1.003
+10:41:43:  TCR调测工具 V3.07
+10:42:38:  发送指令到K06
+10:42:48:  TCR调测工具 V3.07
+10:42:58:  D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:43:23:  BTCRTestTool V3.41
+10:43:28:  8
+10:43:33:  D:\00-06\8\branches\BR-1-CashBox1T2\Tools\CreateJK.exe
+10:43:38:  TCR调测工具 V3.07
+10:43:43:  打开
+10:43:53:  TCR调测工具 V3.07
+10:44:13:  发送指令到K06
+10:44:23:  TCR调测工具 V3.07
+10:44:13:  发送指令到K06
+10:44:23:  TCR调测工具 V3.07
+10:45:19:  错误码
+10:45:24:  查找
+10:45:29:  ErrCode_list_txt_flg.txt - 记事本
+10:45:34:  TCR调测工具 V3.07
+10:45:39:  查找
+10:45:44:  ErrCode_list_txt_flg.txt - 记事本
+10:45:49:  TCR调测工具 V3.07
+10:45:59:  TCR调测工具 V3.36
+10:46:04:  取款
+10:46:09:  TCR调测工具 V3.36
+10:46:19:  ErrCode_list_txt_flg.txt - 记事本
+10:46:24:  查找
+10:46:34:  TCR调测工具 V3.36
+10:46:39:  打开
+10:46:54:  TCR调测工具 V3.36
+10:47:04:  取款
+10:47:14:  TCR调测工具 V3.36
+10:47:19:  TCR调测工具 V3.07
+10:47:29:  错误码
+10:47:34:  TCR错误码表-20190718.xlsx  [受保护的视图] - Excel
+10:47:54:  锁屏状态
+10:48:04:  TCR错误码表-20190718.xlsx  [受保护的视图] - Excel
+10:48:14:  错误码
+10:48:19:  查找
+10:48:34:  TCR调测工具 V3.07
+10:49:14:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:49:55:  新建文本文档.exe - 快捷方式
+10:48:14:  错误码
+10:48:19:  查找
+10:48:34:  TCR调测工具 V3.07
+10:49:14:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:49:55:  新建文本文档.exe - 快捷方式
+10:50:15:  错误码
+10:50:25:  查找
+10:50:30:  TCR调测工具 V3.07
+10:52:30:  新建文本文档.exe - 快捷方式
+10:52:35:  错误码
+10:52:40:  取款
+10:52:45:  钞箱配置
+10:53:00:  TCR调测工具 V3.36
+10:53:10:  新标签页 - Google Chrome
+10:53:20:  首页 - 知乎 - Google Chrome
+10:53:25:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:54:05:  TCR调测工具 V3.36
+10:55:01:  TCR调测工具 V3.07
+10:54:05:  TCR调测工具 V3.36
+10:55:01:  TCR调测工具 V3.07
+10:55:16:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:55:26:  TCR调测工具 V3.07
+10:58:21:  J-Link RTT Viewer V6.32h | Configuration
+10:58:26:  计算器
+10:58:51:  发送指令到K06
+10:59:16:  TCR调测工具 V3.07
+10:58:21:  J-Link RTT Viewer V6.32h | Configuration
+10:58:26:  计算器
+10:58:51:  发送指令到K06
+10:59:16:  TCR调测工具 V3.07
+11:00:32:  计算器
+11:00:52:  TCR调测工具 V3.07
+11:01:37:  跳转列表
+11:01:42:  (36 封私信 / 99+ 条消息) 首页 - 知乎 - Google Chrome
+11:02:17:  TCR调测工具 V3.07
+11:02:27:  TCR调测工具 V3.36
+11:02:32:  取款
+11:02:37:  (36 封私信 / 99+ 条消息) 首页 - 知乎 - Google Chrome
+11:02:47:  TCR调测工具 V3.36
+11:03:02:  TrayIcon
+11:03:17:  TCR调测工具 V3.36
+11:04:32:  (36 封私信 / 99+ 条消息) 首页 - 知乎 - Google Chrome
+11:04:57:  TCR调测工具 V3.07
+11:04:32:  (36 封私信 / 99+ 条消息) 首页 - 知乎 - Google Chrome
+11:04:57:  TCR调测工具 V3.07
+11:06:38:  发送指令到K06
+11:06:43:  TCR调测工具 V3.07
+11:07:43:  V1.003
+11:07:48:  TCR调测工具 V3.36
+11:09:53:  TCR调测工具 V3.07
+11:09:53:  TCR调测工具 V3.07
+11:10:44:  BTCRTestTool 属性
+11:10:49:  BTCRTestTool V3.07
+11:10:54:  BTCRTestTool V3.07 (未响应)
+11:11:29:  log
+11:11:34:  TCR调测工具 V3.07
+11:11:44:  (36 封私信 / 99+ 条消息) 首页 - 知乎 - Google Chrome
+11:11:49:  TCR调测工具 V3.07
+11:19:11:  锁屏状态
+13:22:13:  TCR调测工具 V3.07
+13:23:12:  *Python 3.7.3 Shell*
+13:23:22:  TCR调测工具 V3.07
+13:23:32:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003091718.log
+13:23:37:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003091353.log
+13:23:42:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-09.txt
+13:23:47:  Tools
+13:23:53:  文档
+13:23:58:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-10.txt
+13:25:43:  TCR调测工具 V3.07
+13:26:18:  V1.003
+13:26:23:  取款
+13:26:28:  TCR调测工具 V3.36
+13:28:24:  TCR调测工具 V3.07
+13:28:29:  
+13:28:49:  TCR调测工具 V3.07
+13:29:04:  发送指令到K06
+13:29:09:  TCR调测工具 V3.07
+13:29:59:  错误码
+13:30:04:  网络错误
+13:28:24:  TCR调测工具 V3.07
+13:28:29:  
+13:28:49:  TCR调测工具 V3.07
+13:29:04:  发送指令到K06
+13:29:09:  TCR调测工具 V3.07
+13:29:59:  错误码
+13:30:04:  网络错误
+13:30:09:  本地磁盘 (E:)
+13:30:14:  8
+13:30:19:  BR-1-CashBox1T2
+13:30:24:  InstrExecute.c - TortoiseMerge
+13:30:34:  InstrReturn.c - TortoiseMerge
+13:30:39:  MotorCtrl.c - TortoiseMerge
+13:30:44:  D:\00-06\8\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+13:30:49:  
+13:30:54:  TCR调测工具 V3.07
+13:33:29:  
+13:34:09:  TCR调测工具 V3.07
+13:34:54:  
+13:34:59:  TCR调测工具 V3.07
+13:35:39:  TCR调测工具 V3.36
+13:35:44:  取款
+13:35:49:  TCR调测工具 V3.36
+13:38:29:  TCR调测工具 V3.07
+13:38:34:  
+13:38:39:  TCR调测工具 V3.07
+13:39:04:  (36 封私信 / 99+ 条消息) 首页 - 知乎 - Google Chrome
+13:39:14:  新建文本文档.exe - 快捷方式
+13:39:19:  首页 - 知乎 - Google Chrome
+13:39:24:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:40:59:  
+13:41:04:  TCR调测工具 V3.07
+13:42:34:  
+13:42:39:  TCR调测工具 V3.07
+13:42:49:  
+13:43:04:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:43:09:  取款
+13:43:14:  
+13:43:19:  BR-1-CashBox1T2
+13:43:24:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-10.txt
+13:43:34:  BR-1-CashBox1T2
+13:43:39:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-10.txt
+13:43:44:  本地磁盘 (F:)
+13:44:39:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:45:49:  本地磁盘 (F:)
+13:46:04:  TCR调测工具 V3.36
+13:46:09:  TCR调测工具 V3.07
+13:47:34:  
+13:47:39:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:47:49:  TCR调测工具 V3.07
+13:48:14:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:49:29:  TCR调测工具 V3.07
+13:49:44:  TCR调测工具 V3.36
+13:49:54:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:49:59:  TCR调测工具 V3.36
+13:50:44:  
+13:50:54:  KE06LOG.bat - 记事本
+13:52:09:  TCR调测工具 V3.36
+13:52:14:  TCR调测工具 V3.07
+13:52:24:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:52:44:  TCR调测工具 V3.07
+13:53:14:  
+13:53:19:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:53:44:  TCR调测工具 V3.07
+13:54:09:  取款
+13:54:24:  TCR调测工具 V3.36
+13:55:54:  TCR调测工具 V3.07
+13:55:59:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:56:14:  TCR调测工具 V3.07
+13:57:19:  
+13:57:24:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:57:59:  TCR调测工具 V3.07
+13:58:14:  取款
+13:58:24:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:58:39:  TCR调测工具 V3.36
+13:59:54:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:58:14:  取款
+13:58:24:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:58:39:  TCR调测工具 V3.36
+13:59:54:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+14:00:24:  TCR调测工具 V3.07
+14:00:29:  BTCRTestTool 属性
+14:00:34:  BTCRTestTool V3.07
+14:00:39:  TCRControlCmdDLL
+14:00:44:  20200310
+14:00:49:  新建文件夹
+14:00:54:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:01:04:  Box_1_FirmLog_22134_20200310135953.log - [No filter file] - TextAnalysisTool.NET
+14:01:09:  Decode
+14:01:14:  20200310
+14:01:19:  Box_1_FirmLog_22134_20200310135953.log - [No filter file] - TextAnalysisTool.NET
+14:01:34:  Add Filter
+14:01:39:  Box_1_FirmLog_22134_20200310135953.log - [No filter file]* - TextAnalysisTool.NET
+14:02:14:  TCR调测工具 V3.07
+14:02:29:  
+14:02:49:  TCR调测工具 V3.07
+14:02:59:  
+14:03:04:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+14:03:14:  TCR调测工具 V3.07
+14:03:29:  
+14:03:54:  (36 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+14:04:09:  TCR调测工具 V3.07
+14:04:54:  
+14:04:59:  发送指令到K06
+14:05:34:  TCR调测工具 V3.07
+14:05:39:  发送指令到K06
+14:05:44:  
+14:05:54:  00-06
+14:05:59:  BR-1-CashBox1T2
+14:06:04:  D:\00-06\8\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+14:06:09:  InstrExecute.c - TortoiseMerge
+14:06:14:  D:\00-06\8\branches\BR-1-CashBox1T2 - 工作副本 - TortoiseSVN
+14:06:19:  发送指令到K06
+14:06:24:  TCR调测工具 V3.07
+14:06:29:  发送指令到K06
+14:06:34:  TCR调测工具 V3.07
+14:06:49:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:06:54:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:06:59:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Selector\Selector.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:07:04:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\StepMotorDriver\StepMotorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:07:09:  TCR调测工具 V3.07
+14:07:34:  
+14:07:39:  TCR调测工具 V3.07
+14:07:44:  
+14:08:24:  TCR调测工具 V3.36
+14:08:29:  取款
+14:08:34:  
+14:09:49:  TCR调测工具 V3.36
+14:09:54:  TCR调测工具 V3.07
+14:09:59:  InstrExecute.c - TortoiseMerge
+14:10:34:  TCR调测工具 V3.07
+14:12:49:  08tcr测试过程记录
+14:12:54:  最新固件
+14:13:24:  K64

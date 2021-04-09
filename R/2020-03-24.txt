@@ -1,0 +1,16 @@
+2020-03-24 08:04:10-- 08:30:01     :    一  ：新建文件夹 (2)   55/4.58分钟       二  ：   51/4.25分钟     三  ：副本人民币版本DRB钞箱测试缺陷.xlsx - Excel   31/2.58分钟
+2020-03-24 08:30:01-- 09:00:01     :    一  ：(41 封私信) 首页 - 知乎 - Google Chrome   304/25.3分钟       二  ：Box_2__BTCR-1100190803000009_20200323085130.log - [No filter file]* - TextAnalysisTool.NET   34/2.83分钟     三  ：   9/0.75分钟
+2020-03-24 09:00:01-- 09:30:01     :    一  ：(41 封私信) 首页 - 知乎 - Google Chrome   109/9.08分钟       二  ：D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision   92/7.66分钟     三  ：人民币版本DRB钞箱测试缺陷.xlsx - Excel   27/2.25分钟
+2020-03-24 09:30:01-- 10:00:02     :    一  ：人民币版本DRB钞箱测试缺陷.xlsx - Excel   202/16.8分钟       二  ：Box_2__BTCR-1100190803000009_20200320160638.log - [No filter file]* - TextAnalysisTool.NET   58/4.83分钟     三  ：   17/1.41分钟
+2020-03-24 10:00:02-- 10:30:02     :    一  ：人民币版本DRB钞箱测试缺陷.xlsx - Excel   128/10.6分钟       二  ：陈忠   52/4.33分钟     三  ：Box_2__BTCR-1100190803000009_20200321104346.log - [No filter file]* - TextAnalysisTool.NET   48/4.0分钟
+2020-03-24 10:30:02-- 11:00:02     :    一  ：人民币版本DRB钞箱测试缺陷.xlsx - Excel   199/16.5分钟       二  ：陈忠   53/4.41分钟     三  ：20180613 TCR内部指令手册_V001.xlsx  [受保护的视图] - Excel   36/3.0分钟
+2020-03-24 11:00:02-- 11:30:02     :    一  ：陈忠   93/7.75分钟       二  ：人民币版本DRB钞箱测试缺陷.xlsx - Excel   45/3.75分钟     三  ：   40/3.33分钟
+2020-03-24 14:17:49-- 14:30:02     :    一  ：D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision   77/6.41分钟       二  ：JLink - Cortex-M Error   26/2.16分钟     三  ：LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-24.txt   16/1.33分钟
+2020-03-24 14:30:02-- 14:45:00     :    一  ：D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision   162/13.5分钟       二  ：GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)   7/0.58分钟     三  ：*Python 3.7.3 Shell*   5/0.41分钟
+2020-03-24 14:45:00-- 15:00:04     :    一  ：D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   33/2.75分钟       二  ：(41 封私信) 首页 - 知乎 - Google Chrome   33/2.75分钟     三  ：*Python 3.7.3 Shell*   31/2.58分钟
+2020-03-24 15:00:04-- 15:15:03     :    一  ：陈忠   64/5.33分钟       二  ：D:\00-06\1T1Stop\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   39/3.25分钟     三  ：锁屏状态   38/3.16分钟
+2020-03-24 15:15:03-- 15:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-24 15:30:00-- 15:45:01     :    一  ：锁屏状态   42/3.5分钟       二  ：D:\00-KE64\7\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)   24/2.0分钟     三  ：TCR调测工具 V3.07   19/1.58分钟
+2020-03-24 15:45:01-- 16:00:00     :    一  ：陈忠   58/4.83分钟       二  ：Bus Hound   47/3.91分钟     三  ：D:\00-KE64\7\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)   21/1.75分钟
+2020-03-24 16:00:00-- 16:15:04     :    一  ：Bus Hound   47/3.91分钟       二  ：D:\00-KE64\7\trunk\Applications\InstrExp\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)   21/1.75分钟     三  ：(41 封私信) 首页 - 知乎 - Google Chrome   21/1.75分钟
+2020-03-24 16:15:04-- 16:30:02     :    一  ：Bin   104/8.66分钟       二  ：(41 封私信) 首页 - 知乎 - Google Chrome   66/5.5分钟     三  ：D:\00-KE64\7\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)   9/0.75分钟

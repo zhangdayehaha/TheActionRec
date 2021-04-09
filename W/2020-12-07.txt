@@ -1,0 +1,941 @@
+08:12:21:  阿根廷样机缺陷.xlsx
+08:12:51:  警告
+08:12:56:  阿根廷发货样机缺陷
+08:13:01:  ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票
+08:13:11:  TcrFirmwareLogDecode.exe
+08:13:16:  ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票
+08:13:31:  CRS
+08:13:36:  新建文件夹 (2)
+08:13:51:  ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票
+08:13:56:  Decode
+08:14:01:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:14:06:  Decode
+08:14:56:  LOG
+08:14:06:  Decode
+08:14:56:  LOG
+08:15:06:  K64_0000_20201203144046
+08:15:11:  K64-_0000_20201203144046.log - DRB.tat* - TextAnalysisTool.NET
+08:15:16:  LOG
+08:15:21:  K64_0000_20201203143719
+08:15:26:  K64-_0000_20201203143719.log - DRB.tat* - TextAnalysisTool.NET
+08:15:41:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012051504.log
+08:15:46:  LogExpert - D:\fenxi\新建文件夹 (2)\ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票\Decode\LOG\K64_0000_20201203143719\K64-_0000_20201203143719.log
+08:16:11:  K64_0000_20201203143719
+08:16:26:  ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票
+08:16:31:  1606999069078.jpg - Windows 照片查看器
+08:16:36:  1606998996331.jpg - Windows 照片查看器
+08:16:41:  1606999129777.jpg - Windows 照片查看器
+08:16:56:  ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票
+08:17:01:  于斌1
+08:17:36:  本地磁盘 (D:)
+08:17:41:  ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票
+08:17:46:  K64_0000_20201203144046
+08:17:51:  LogExpert - D:\fenxi\新建文件夹 (2)\ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票\Decode\LOG\K64_0000_20201203144046\K64-_0000_20201203144046.log
+08:18:06:  ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票
+08:18:11:  LogExpert
+08:18:16:  LogExpert - D:\fenxi\新建文件夹 (2)\ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票\Decode\LOG\K64_0000_20201203143719\K64-_0000_20201203143719.log
+08:18:26:  于斌1
+08:19:11:  LogExpert - D:\fenxi\新建文件夹 (2)\ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票\Decode\LOG\K64_0000_20201203143719\K64-_0000_20201203143719.log
+08:19:51:  于斌1
+08:20:21:  LogExpert - D:\fenxi\新建文件夹 (2)\ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票\Decode\LOG\K64_0000_20201203143719\K64-_0000_20201203143719.log
+08:20:31:  于斌1
+08:20:41:  LogExpert - D:\fenxi\新建文件夹 (2)\ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票\Decode\LOG\K64_0000_20201203143719\K64-_0000_20201203143719.log
+08:21:01:  锁屏状态
+08:21:06:  LogExpert - D:\fenxi\新建文件夹 (2)\ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票\Decode\LOG\K64_0000_20201203143719\K64-_0000_20201203143719.log
+08:21:36:  于斌1
+08:22:16:  LogExpert - D:\fenxi\新建文件夹 (2)\ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票\Decode\LOG\K64_0000_20201203143719\K64-_0000_20201203143719.log
+08:24:51:  CashBox_Boot
+08:24:56:  Foxmail
+08:25:01:  LogExpert - D:\fenxi\新建文件夹 (2)\ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票\Decode\LOG\K64_0000_20201203143719\K64-_0000_20201203143719.log
+08:25:36:  计算器
+08:25:41:  LogExpert - D:\fenxi\新建文件夹 (2)\ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票\Decode\LOG\K64_0000_20201203143719\K64-_0000_20201203143719.log
+08:28:01:  BTCR-1100_BOX1T1_KE06_FV1010_EXTFEDUV21_BOOT_T01
+08:28:06:  桌面整理
+08:28:11:  BTCR-1100_BOX1T1_KE06_FV1010_EXTFEDUV21_BOOT_T01
+08:28:16:  跳转列表
+08:28:31:  「开始」菜单
+08:28:56:  J-Link Commander V6.32h
+08:29:01:  SEGGER J-Link V6.32h - Target device settings
+08:29:36:  J-Link Commander V6.32h
+08:29:41:  「开始」菜单
+08:29:46:  SEGGER J-Flash V6.32h - [D:\00-06\DRB--\Tools\J-Link\MKE06.jflash]
+08:29:56:  J-Flash V6.32h
+08:30:01:  J-Flash V6.32h Error
+08:28:06:  桌面整理
+08:28:11:  BTCR-1100_BOX1T1_KE06_FV1010_EXTFEDUV21_BOOT_T01
+08:28:16:  跳转列表
+08:28:31:  「开始」菜单
+08:28:56:  J-Link Commander V6.32h
+08:29:01:  SEGGER J-Link V6.32h - Target device settings
+08:29:36:  J-Link Commander V6.32h
+08:29:41:  「开始」菜单
+08:29:46:  SEGGER J-Flash V6.32h - [D:\00-06\DRB--\Tools\J-Link\MKE06.jflash]
+08:29:56:  J-Flash V6.32h
+08:30:01:  J-Flash V6.32h Error
+08:30:06:  新建文件夹 (6)
+08:30:11:  SEGGER J-Flash V6.32h - [D:\00-06\DRB--\Tools\J-Link\MKE06.jflash *]
+08:36:31:  于斌1
+08:36:41:  00-18
+08:36:46:  SEGGER J-Flash V6.32h - [D:\00-06\DRB--\Tools\J-Link\MKE06.jflash *]
+08:36:51:  于斌1
+08:36:56:  trunk
+08:37:01:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+08:37:11:  00-06
+08:37:21:   - 版本库浏览器 - TortoiseSVN
+08:37:36:  锁屏状态
+08:37:41:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/trunk - 日志信息 - TortoiseSVN
+08:37:46:  trunk - 检出 - TortoiseSVN
+08:37:56:  检出 完成！
+08:38:51:  SECSplashWnd
+08:38:56:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+08:39:42:  SEGGER J-Flash V6.32h - [D:\00-06\DRB--\Tools\J-Link\MKE06.jflash *]
+08:40:12:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+08:40:47:  锁屏状态
+08:40:52:  Project
+08:40:57:  SEGGER J-Flash V6.32h - [D:\00-06\DRB--\Tools\J-Link\MKE06.jflash]
+08:41:12:  Save data file as
+08:41:22:  J-Flash V6.32h
+08:41:27:  开始
+08:41:32:  未命名 - 写邮件
+08:41:37:  T88 - 写邮件
+08:41:42:  桌面整理
+09:03:22:  新建文本文档.exe - 快捷方式
+09:03:27:  桌面整理
+09:03:52:  于斌1
+09:03:57:  eSpace
+09:04:02:  程明昌
+09:04:07:  桌面整理
+09:04:12:  CRS调测工具（研发版）V1.0.2.1
+09:04:57:  打开
+09:05:07:  本地磁盘 (E:)
+09:05:12:  666
+09:05:22:  D:\CRS\666 - 日志信息 - TortoiseSVN
+09:05:32:  666
+09:05:42:  打开
+09:05:47:  CRS调测工具（研发版）V1.0.2.1
+09:05:57:  打开
+09:06:02:  CRS调测工具（研发版）V1.0.2.1
+09:06:12:  戚晓东
+09:07:12:  CRS调测工具（研发版）V1.0.2.1
+09:07:17:  eSpace
+09:07:22:  通道电机测试
+09:07:27:  CRS调测工具（研发版）V1.0.2.1
+09:07:57:  戚晓东
+09:08:02:  新标签页 - Google Chrome
+09:08:07:  D:\CRS\666\Middlewares\Component\Component.c (666) - Sublime Text (UNREGISTERED)
+09:08:12:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+09:09:57:  D:\CRS\666\Middlewares\StepMotor\StepMotor.c (666) - Sublime Text (UNREGISTERED)
+09:10:42:  666
+09:10:47:  00-06
+09:11:12:  1T1-Stop-Length
+09:11:17:  00-06
+09:11:22:  trunk
+09:11:27:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+09:11:37:  StepMotorDriver.c Revision 4164 - TortoiseMerge
+09:11:42:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+09:11:47:  Plate.c Revision 4164 - TortoiseMerge
+09:11:57:  StepMotor.c Revision 4164 - TortoiseMerge
+09:12:12:  trunk
+09:12:17:  Middlewares
+09:12:22:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor - 工作副本 - TortoiseSVN
+09:12:27:  StepMotor
+09:12:32:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor - 日志信息 - TortoiseSVN
+09:12:37:  StepMotor.c Revision 4155 - TortoiseMerge
+09:12:42:  1T1-Stop-Length
+09:12:47:  DRB--
+09:12:52:  D:\00-06\DRB--\Middlewares\StepMotor - 日志信息 - TortoiseSVN
+09:13:17:  DRB--
+09:13:27:  D:\00-06\DRB-- - 日志信息 - TortoiseSVN
+09:13:32:  00-06
+09:13:37:  svnn
+09:13:42:  检出
+09:13:47:   - 版本库浏览器 - TortoiseSVN
+09:13:57:  BR-1-CashBox1T2 - 检出 - TortoiseSVN
+09:14:07:  svnn
+09:14:12:  StepMotor
+09:14:17:  D:\00-06\svnn\Middlewares\StepMotor - 日志信息 - TortoiseSVN
+09:14:37:  StepMotor
+09:14:57:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:15:02:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+09:14:07:  svnn
+09:14:12:  StepMotor
+09:14:17:  D:\00-06\svnn\Middlewares\StepMotor - 日志信息 - TortoiseSVN
+09:14:37:  StepMotor
+09:14:57:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:15:02:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+09:17:12:  svnn
+09:17:17:  计算器
+09:18:07:  eSpace
+09:18:12:  svnn
+09:19:22:  新建Microsoft Excel 工作表.xlsx - Excel
+09:19:37:  eSpace
+09:19:42:  戚晓东
+09:20:32:  新建Microsoft Excel 工作表.xlsx - Excel
+09:20:47:  LogExpert - D:\fenxi\新建文件夹 (2)\ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票\Decode\LOG\K64_0000_20201203143719\K64-_0000_20201203143719.log
+09:21:52:  计算器
+09:22:07:  LogExpert - D:\fenxi\新建文件夹 (2)\ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票\Decode\LOG\K64_0000_20201203143719\K64-_0000_20201203143719.log
+09:22:37:  荆文波
+09:24:17:  ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票
+09:24:22:  LogExpert - D:\fenxi\新建文件夹 (2)\ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票\Decode\LOG\K64_0000_20201203143719\K64-_0000_20201203143719.log
+09:27:32:  戚晓东
+09:32:07:  自动播放
+09:33:22:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:33:27:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:33:58:  ● CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:34:03:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:34:13:  ● CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:34:18:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+09:34:28:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:34:33:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:34:43:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:34:48:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:34:58:  ● CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:35:03:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:35:28:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+09:41:00:  【周报更新】TCR/DRB和CRS周报更新
+09:41:05:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+09:41:51:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:41:56:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+09:50:21:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:50:26:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+09:50:31:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:00:17:  ● CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+10:00:22:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:10:37:  eSpace
+10:10:42:  程明昌
+10:11:02:  戚晓东
+10:11:07:  程明昌
+10:11:47:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:12:17:  程明昌
+10:12:37:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+10:14:07:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+10:14:07:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+10:15:32:  主页 - Internet Explorer
+10:15:37:  新建文本文档.exe - 快捷方式
+10:15:42:  主页 - Internet Explorer
+10:15:47:  系统登录 - Internet Explorer
+10:15:52:  新北洋OA信息化平台 - Internet Explorer
+10:16:22:  BNE-R1200M_固件集成测试方案_V100.xls  [兼容模式] - Excel
+10:16:27:  新建Microsoft Excel 工作表.xlsx - Excel
+10:16:37:  2020年新北洋张村食堂12.7-12.13日菜谱.xlsx  [受保护的视图] - Excel
+10:16:42:  新建Microsoft Excel 工作表.xlsx - Excel
+10:20:12:  eSpace
+10:20:17:  新建Microsoft Excel 工作表.xlsx - Excel
+10:24:27:  明昌小工具
+10:24:32:  新建文件夹 (3)
+10:24:37:  weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)
+10:25:17:  新建文件夹 (3)
+10:25:22:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+10:25:27:  程明昌
+10:25:32:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+10:28:02:  eSpace
+10:28:17:  svnn
+10:28:22:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+10:28:17:  svnn
+10:28:22:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+10:34:02:  eSpace
+10:34:07:  于斌1
+10:34:32:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+10:34:37:  于斌1
+10:35:02:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+10:41:17:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:46:37:  eSpace
+10:46:42:  程明昌
+10:47:27:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:47:32:  程明昌
+10:47:42:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:48:27:  程明昌
+10:49:27:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:50:12:  程明昌
+10:50:27:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:53:27:  程明昌
+10:53:52:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:53:57:  程明昌
+10:54:02:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:54:17:  本地磁盘 (D:)
+10:54:22:  44
+10:54:27:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+10:54:32:  TrackSensor.c Revision 737 - TortoiseMerge
+10:55:12:  E:\深圳出差\gfgd\Applications\FlowControl\CashSlot\CashSlot.c (gfgd) - Sublime Text (UNREGISTERED)
+10:55:17:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+10:55:22:  TrackSensor.c Revision 737 - TortoiseMerge
+10:55:32:  新北洋OA信息化平台 - Internet Explorer
+10:55:37:  戚晓东
+10:55:42:  CRS调测工具（研发版）V1.0.2.1
+10:55:47:  戚晓东
+10:55:52:  新北洋OA信息化平台 - Internet Explorer
+10:56:02:  戚晓东
+10:56:12:  新北洋OA信息化平台 - Internet Explorer
+10:56:17:  戚晓东
+10:59:22:  D:\CRS\666\Middlewares\StepMotor\StepMotor.c (666) - Sublime Text (UNREGISTERED)
+10:59:27:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+10:59:32:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+10:59:22:  D:\CRS\666\Middlewares\StepMotor\StepMotor.c (666) - Sublime Text (UNREGISTERED)
+10:59:27:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+10:59:32:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+11:00:32:  E:\深圳出差\gfgd\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+11:00:57:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+11:01:37:  E:\深圳出差\gfgd\Applications\Update\Update.c (gfgd) - Sublime Text (UNREGISTERED)
+11:01:42:  戚晓东
+11:02:02:  E:\深圳出差\gfgd\Applications\Update\Update.c (gfgd) - Sublime Text (UNREGISTERED)
+11:02:07:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+11:03:42:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c • (gfgd) - Sublime Text (UNREGISTERED)
+11:04:07:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+11:04:12:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c • (gfgd) - Sublime Text (UNREGISTERED)
+11:05:07:  于斌1
+11:06:47:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c • (gfgd) - Sublime Text (UNREGISTERED)
+11:08:12:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+11:08:22:  This is an unregistered copy
+11:08:27:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+11:09:52:  戚晓东
+11:10:07:  下载
+11:10:12:  本地磁盘 (D:)
+11:13:22:  TCR
+11:13:32:  4#样机缺陷
+11:13:37:  TcrFirmwareLogDecode.exe
+11:13:42:  ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票
+11:13:47:  fenxi
+11:13:52:  ID-5 4#20元大额取款第337张报钞箱口 500ms纸币未进入 返回码0X015E0900检查发现钞箱内1张溢钞。1张竖直钞票
+11:14:02:  戚晓东
+11:15:37:  新建Microsoft Excel 工作表.xlsx - Excel
+11:15:42:  TCR+DRB+CRS 项目周报.xlsx  [受保护的视图] - Excel
+11:15:47:  TCR+DRB+CRS 项目周报.xlsx  [共享] - Excel
+11:17:07:  戚晓东
+11:17:52:  于斌1
+11:17:57:  戚晓东
+11:18:07:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+11:18:27:  戚晓东
+11:18:47:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+11:19:37:  戚晓东
+11:19:42:  深圳出差
+11:19:47:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+11:19:52:  gfgd
+11:19:57:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+11:20:02:  gfgd
+11:20:07:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+11:20:32:  于斌1
+11:20:47:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+11:21:07:  于斌1
+11:21:37:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+11:21:42:  InstrProc1D.c - TortoiseMerge
+11:21:52:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+11:21:57:  TrackSensor.c Revision 737 - TortoiseMerge
+11:22:22:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+11:22:37:  44
+11:22:42:  1T1-Stop-Length
+11:25:57:  DRB--
+11:26:02:  于斌1
+11:26:12:  DRB--
+11:26:22:  TrackSensor.c Revision 737 - TortoiseMerge
+11:26:27:  DRB--
+11:26:42:  本地磁盘 (E:)
+11:26:47:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+11:26:52:  于斌1
+11:26:57:  gfgd
+11:27:47:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+11:27:57:  gfgd
+11:28:07:  跳转列表
+11:28:12:  gfgd
+11:28:27:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+11:28:32:  gfgd
+11:28:42:  清理
+11:28:47:  gfgd
+11:29:07:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+11:29:12:  新建Microsoft Excel 工作表.xlsx - Excel
+11:29:17:  BNE-R1200M_固件集成测试方案_V100.xls  [兼容模式] - Excel
+11:29:27:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:28:07:  跳转列表
+11:28:12:  gfgd
+11:28:27:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+11:28:32:  gfgd
+11:28:42:  清理
+11:28:47:  gfgd
+11:29:07:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+11:29:12:  新建Microsoft Excel 工作表.xlsx - Excel
+11:29:17:  BNE-R1200M_固件集成测试方案_V100.xls  [兼容模式] - Excel
+11:29:27:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:30:22:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+11:30:27:  TortoiseMerge
+11:30:32:  BvCtrl.c Revision 742 - TortoiseMerge
+11:31:07:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+11:31:17:  TortoiseMerge
+12:52:13:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+13:17:39:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+13:30:04:  设置
+13:30:04:  设置
+13:30:14:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+13:31:19:  所有笔记本 - 张开发 - 印象笔记
+13:31:29:  冲突的修改 - 张开发 - 印象笔记
+13:31:34:  0-工作 - 张开发 - 印象笔记
+13:31:39:  1-记录 - 张开发 - 印象笔记
+13:32:19:  0-工作 - 张开发 - 印象笔记
+13:32:24:  所有笔记本 - 张开发 - 印象笔记
+13:32:29:  提高自身 - 张开发 - 印象笔记
+13:32:34:  2-财务分配 - 张开发 - 印象笔记
+13:32:44:  本地磁盘 (D:)
+13:32:49:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+13:41:29:  DRB传感器.txt - 记事本
+13:41:39:  收取邮件 - 张开发
+13:41:59:  DRB传感器.txt - 记事本
+13:42:04:  00-18
+13:42:09:  00-06
+13:42:14:  1T1-82
+13:42:19:  00-06
+13:42:29:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+13:42:44:  DRB传感器.txt - 记事本
+13:42:59:  于斌1
+13:43:04:  eSpace
+13:43:14:  于斌1
+13:44:09:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:44:29:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:44:49:  锁屏状态
+13:44:54:  计算器
+13:44:09:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:44:29:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:44:49:  锁屏状态
+13:44:54:  计算器
+13:45:09:  本地磁盘 (D:)
+13:45:14:  删除文件夹
+13:45:24:  新建文件夹 (2)
+13:45:29:  K64_0000_20201207133255.log - DRB.tat* - TextAnalysisTool.NET
+13:45:34:  计算器
+13:45:44:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.h (gfgd) - Sublime Text (UNREGISTERED)
+13:45:49:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:46:29:  K64_0000_20201207133255.log - DRB.tat* - TextAnalysisTool.NET
+13:46:34:  新建文件夹 (2)
+13:46:44:  Decode
+13:46:59:  K64_0000_20201207132951.log - DRB.tat* - TextAnalysisTool.NET
+13:47:34:  Decode
+13:48:09:  K64_0000_20201207133255.log - DRB.tat* - TextAnalysisTool.NET
+13:48:14:  Decode
+13:48:29:  K64_0000_20201207133255.log - DRB.tat* - TextAnalysisTool.NET
+13:48:34:  K64_0000_20201207132951.log - DRB.tat* - TextAnalysisTool.NET
+13:49:09:  桌面整理
+13:49:14:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:49:29:  BNE-R1200M_固件集成测试方案_V100.xls  [兼容模式] - Excel
+13:49:34:  Add Filter
+13:49:44:  K64_0000_20201207132951.log - DRB.tat* - TextAnalysisTool.NET
+13:49:59:  Edit Filter
+13:50:04:  K64_0000_20201207132951.log - DRB.tat* - TextAnalysisTool.NET
+13:50:14:  Edit Filter
+13:50:19:  K64_0000_20201207132951.log - DRB.tat* - TextAnalysisTool.NET
+13:51:14:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:51:19:  K64_0000_20201207132951.log - DRB.tat* - TextAnalysisTool.NET
+13:52:19:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:52:24:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1A.c (gfgd) - Sublime Text (UNREGISTERED)
+13:52:54:  K64_0000_20201207132951.log - DRB.tat* - TextAnalysisTool.NET
+14:01:24:  Add Filter
+14:04:04:  eSpace
+14:04:34:  方俊杰
+14:04:54:  新建文件夹 (4)
+14:04:59:  新建文件夹 (2)
+14:05:14:  查找和替换
+14:05:19:  附件7：2019环翠区：万名大学生聚集计划生活津贴申请名单.xlsx - Excel
+14:05:29:  Microsoft Excel
+14:05:34:  查找和替换
+14:05:39:  附件6：2019高区：万名大学生聚集计划生活津贴申请名单.xlsx - Excel
+14:05:49:  新建文件夹 (2)
+14:05:54:  附件7：2019环翠区：万名大学生聚集计划生活津贴申请名单.xlsx - Excel
+14:05:59:  查找和替换
+14:06:04:  附件7：2019环翠区：万名大学生聚集计划生活津贴申请名单.xlsx - Excel
+14:06:09:  BNE-R1200M_固件集成测试方案_V100.xls  [兼容模式] - Excel
+14:06:34:  关于申报“2020年万名大学生聚集计划生活津贴”和“博士硕士住房补助”的说明.docx
+14:08:29:  CRS项目组-国庆加班申请.xlsx
+14:10:59:  BNE-R1200M_固件集成测试方案_V100.xls  [兼容模式] - Excel
+14:11:09:  Windows 资源管理器
+14:11:14:  组织共享
+14:11:19:  192.168.28.5
+14:11:59:  192.168.28.3
+14:12:04:  文件共享
+14:12:14:  技术中心
+14:12:19:  07-费用报销自检表
+14:12:24:  06-培训学习课件
+14:12:29:  技术中心
+14:12:39:  联系 - “技术中心”中的搜索结果
+14:12:49:  20180801战略采购中心 人员职责分工 及 联系方式.pdf - Adobe Reader
+14:12:54:  联系 - “技术中心”中的搜索结果
+14:12:59:  新建文件夹 (2)
+14:13:24:  联系 - “技术中心”中的搜索结果
+14:13:29:  新建文件夹 (2)
+14:14:04:  吉哲
+14:20:14:  自动播放
+14:20:19:  新标签页 - Google Chrome
+14:20:24:  新建文本文档.exe - 快捷方式
+14:21:04:  联系 - “技术中心”中的搜索结果
+14:21:14:  BNE-R1200M_固件集成测试方案_V100.xls  [兼容模式] - Excel
+14:21:24:  新标签页 - Google Chrome
+14:21:29:  无标题 - Google Chrome
+14:21:34:  登录 - 支付宝 - Google Chrome
+14:21:49:  支付宝 知托付！ - Google Chrome
+14:22:05:  我的账单 - 支付宝 - Google Chrome
+14:22:35:  新建文本文档.exe - 快捷方式
+14:22:40:  BNE-R1200M_固件集成测试方案_V100.xls  [兼容模式] - Excel
+14:22:45:  本地磁盘 (D:)
+14:22:50:  跳转列表
+14:22:55:  alipay_record_20201207_1422_1.csv - Excel
+14:27:10:  新标签页 - Google Chrome
+14:27:15:  百度一下，你就知道 - Google Chrome
+14:27:25:  苹果通讯只有一个月_百度搜索 - Google Chrome
+14:27:30:  苹果手机的通话记录只能保留多长时间或多少条？我的怎么只能保留到2月中旬？（只能保留不到一个月），请问怎么才能保留更多通话记录【苹果手机吧吧】_百度贴吧 - Google Chrome
+14:27:35:  苹果通讯只有一个月_百度搜索 - Google Chrome
+14:27:45:  https://www.baidu.com/link?url=q-7nNvL0ZdkpKBCNYnIz379ssmHNLMogYaFMEajaZ5eYal1Xyy5uZmO_zQOG9ybAIV74aCTG2mWAl8gbNFjtSj83IizA4nq0Zp6KPOVe_CS&wd=&eqid=eb001fde0027d2c4000000025fcdcb5e - Google Chrome
+14:27:50:  苹果通通话记录只有一个月_百度搜索 - Google Chrome
+14:28:00:  新建文本文档.exe - 快捷方式
+14:28:05:  alipay_record_20201207_1422_1.csv - Excel
+14:28:15:  BNE-R1200M_固件集成测试方案_V100.xls  [兼容模式] - Excel
+14:28:35:  eSpace
+14:28:45:  方俊杰
+14:28:55:  eSpace
+14:28:05:  alipay_record_20201207_1422_1.csv - Excel
+14:28:15:  BNE-R1200M_固件集成测试方案_V100.xls  [兼容模式] - Excel
+14:28:35:  eSpace
+14:28:45:  方俊杰
+14:28:55:  eSpace
+14:30:50:  于斌1
+14:42:15:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:51:35:  锁屏状态
+14:51:40:  00-06
+14:51:45:  SECSplashWnd
+14:51:50:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:52:05:  00-06
+14:52:10:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+14:52:20:  trunk
+14:52:25:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:52:35:  KE06LOG.bat - 快捷方式 (2)
+14:52:50:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:55:00:  KE06LOG.bat - 快捷方式 (2)
+14:55:10:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:55:40:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision (未响应)
+14:55:45:  trunk
+14:55:50:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:56:05:  Toolbox
+14:56:20:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012071456.log
+14:56:25:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:56:30:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012071456.log
+14:56:40:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:57:00:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012071456.log
+14:57:30:  00-06
+14:57:35:  svnn
+14:57:40:   - 版本库浏览器 - TortoiseSVN
+14:57:55:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/trunk - 日志信息 - TortoiseSVN
+14:58:05:  trunk - 检出 - TortoiseSVN
+14:58:15:  μVision
+14:58:20:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+14:59:40:  μVision
+14:59:45:  Cortex JLink/JTrace Target Driver Setup
+14:59:50:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+14:58:05:  trunk - 检出 - TortoiseSVN
+14:58:15:  μVision
+14:58:20:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+14:59:40:  μVision
+14:59:45:  Cortex JLink/JTrace Target Driver Setup
+14:59:50:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+15:00:20:  Watch 1
+15:00:25:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+15:01:55:  荆文波
+15:02:00:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+15:02:05:  KE06LOG.bat - 快捷方式 (2)
+15:02:10:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+15:02:20:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012071502.log
+15:02:40:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+15:02:45:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012071502.log
+15:03:00:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+15:03:20:  回复: K64_0000_20201207135401
+15:03:55:  回复: 回复: K64_0000_20201207135401 - 写邮件
+15:04:15:  发送邮件
+15:04:20:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+15:04:45:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012071502.log
+15:05:00:  于斌1
+15:05:35:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012071502.log
+15:06:10:  于斌1
+15:08:55:  锁屏状态
+15:09:00:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1A.c (gfgd) - Sublime Text (UNREGISTERED)
+15:09:10:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:09:15:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\TrackModule.c (gfgd) - Sublime Text (UNREGISTERED)
+15:09:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:09:55:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\TrackModule.c (gfgd) - Sublime Text (UNREGISTERED)
+15:10:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\SensorApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:10:10:  E:\深圳出差\gfgd\Drivers\SensorDriver\SensorRcv.h (gfgd) - Sublime Text (UNREGISTERED)
+15:10:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\SensorApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:10:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\SensorCheck.c (gfgd) - Sublime Text (UNREGISTERED)
+15:10:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:10:55:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c • (gfgd) - Sublime Text (UNREGISTERED)
+15:11:20:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManage.c (gfgd) - Sublime Text (UNREGISTERED)
+15:11:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:12:05:  eSpace
+15:12:10:  赖伟光
+15:12:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:13:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:14:20:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:14:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.h (gfgd) - Sublime Text (UNREGISTERED)
+15:14:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:14:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:14:20:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:14:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.h (gfgd) - Sublime Text (UNREGISTERED)
+15:14:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:14:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:15:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:15:55:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c • (gfgd) - Sublime Text (UNREGISTERED)
+15:16:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:16:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:16:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.h (gfgd) - Sublime Text (UNREGISTERED)
+15:16:55:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:18:20:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.h (gfgd) - Sublime Text (UNREGISTERED)
+15:18:25:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:18:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:18:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:18:55:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:19:25:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:19:55:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:20:20:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:20:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:21:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c • (gfgd) - Sublime Text (UNREGISTERED)
+15:21:51:  深圳出差
+15:21:56:  gfgd
+15:22:11:  E:\深圳出差\gfgd - 更新 - TortoiseSVN
+15:22:16:  gfgd
+15:22:21:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+15:22:46:  Project
+15:22:51:  E:\深圳出差\gfgd\Tools\CreateJK.exe
+15:22:56:  Tools
+15:23:01:  CreateJK - 写邮件
+15:24:51:  BNE-R1200M_MASTER_K64_FV1000_FEDADV10_MAIN_T09 - 写邮件
+15:24:56:  发送邮件
+15:25:01:  Tools
+15:27:51:  赖伟光
+15:27:56:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:28:36:  Project
+15:28:41:  gfgd
+15:28:46:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+15:29:01:  TrackSensor.c - TortoiseMerge
+15:29:06:  TrackClear.c - TortoiseMerge
+15:29:21:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+15:29:31:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012071502.log
+15:29:36:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+15:29:46:  K64_0000_20201207132951.log - DRB.tat* - TextAnalysisTool.NET
+15:29:56:  赖伟光
+15:28:36:  Project
+15:28:41:  gfgd
+15:28:46:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+15:29:01:  TrackSensor.c - TortoiseMerge
+15:29:06:  TrackClear.c - TortoiseMerge
+15:29:21:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+15:29:31:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012071502.log
+15:29:36:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+15:29:46:  K64_0000_20201207132951.log - DRB.tat* - TextAnalysisTool.NET
+15:29:56:  赖伟光
+15:30:56:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:31:06:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:31:21:  赖伟光
+15:31:26:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:31:56:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:32:06:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:33:01:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:33:06:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:33:56:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c • (gfgd) - Sublime Text (UNREGISTERED)
+15:35:16:  赖伟光
+15:35:21:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c • (gfgd) - Sublime Text (UNREGISTERED)
+15:36:01:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:36:06:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.h (gfgd) - Sublime Text (UNREGISTERED)
+15:36:11:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:36:16:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c • (gfgd) - Sublime Text (UNREGISTERED)
+15:36:36:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\TrackModule.c (gfgd) - Sublime Text (UNREGISTERED)
+15:36:41:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c • (gfgd) - Sublime Text (UNREGISTERED)
+15:37:26:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.h (gfgd) - Sublime Text (UNREGISTERED)
+15:37:31:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c • (gfgd) - Sublime Text (UNREGISTERED)
+15:39:36:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:39:51:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.h (gfgd) - Sublime Text (UNREGISTERED)
+15:40:16:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:40:21:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.h (gfgd) - Sublime Text (UNREGISTERED)
+15:40:26:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:40:56:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.h (gfgd) - Sublime Text (UNREGISTERED)
+15:41:01:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:42:56:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c • (gfgd) - Sublime Text (UNREGISTERED)
+15:43:41:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\SensorApp.h (gfgd) - Sublime Text (UNREGISTERED)
+15:43:46:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c • (gfgd) - Sublime Text (UNREGISTERED)
+15:44:46:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\SensorApp.h (gfgd) - Sublime Text (UNREGISTERED)
+15:44:51:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c • (gfgd) - Sublime Text (UNREGISTERED)
+15:44:46:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\SensorApp.h (gfgd) - Sublime Text (UNREGISTERED)
+15:44:51:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c • (gfgd) - Sublime Text (UNREGISTERED)
+15:45:06:  赖伟光
+15:45:36:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c • (gfgd) - Sublime Text (UNREGISTERED)
+15:45:46:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:45:56:  赖伟光
+15:46:31:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:46:51:  赖伟光
+15:48:31:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:49:36:  赖伟光
+15:49:51:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:51:21:  赖伟光
+15:51:41:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+15:51:46:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c • (gfgd) - Sublime Text (UNREGISTERED)
+15:51:51:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:51:56:  锁屏状态
+15:52:01:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+15:52:11:  E:\深圳出差\gfgd\Tools\CreateJK.exe
+15:52:21:  BNE-R1200M_MASTER_K64_FV1000_FEDADV10_MAIN_T09 - 写邮件
+15:57:46:  赖伟光
+15:59:06:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:59:46:  赖伟光
+15:59:51:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+16:00:01:  DRB传感器.txt - 记事本
+15:59:06:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+15:59:46:  赖伟光
+15:59:51:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+16:00:01:  DRB传感器.txt - 记事本
+16:00:06:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+16:00:26:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\TrackModule.c (gfgd) - Sublime Text (UNREGISTERED)
+16:01:16:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:01:26:  Tools
+16:01:36:  BNE-R1200M_MASTER_K64_FV1000_FEDADV10_MAIN_T09 - 写邮件
+16:01:41:  Tools
+16:02:01:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+16:02:16:  于斌1
+16:02:21:  赖伟光
+16:02:26:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+16:04:31:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\TrackModule.c (gfgd) - Sublime Text (UNREGISTERED)
+16:04:36:  E:\深圳出差\gfgd\Applications\EepHisApp\EepHisApp.c (gfgd) - Sublime Text (UNREGISTERED)
+16:04:41:  E:\深圳出差\gfgd\Applications\EepHisApp\HistoryStruct.h (gfgd) - Sublime Text (UNREGISTERED)
+16:05:16:  E:\深圳出差\gfgd\Applications\EepHisApp\HistoryStruct.h • (gfgd) - Sublime Text (UNREGISTERED)
+16:05:36:  E:\深圳出差\gfgd\Applications\EepHisApp\HistoryStruct.h (gfgd) - Sublime Text (UNREGISTERED)
+16:05:41:  E:\深圳出差\gfgd\Applications\EepHisApp\HistoryStruct.h • (gfgd) - Sublime Text (UNREGISTERED)
+16:05:51:  E:\深圳出差\gfgd\Applications\EepHisApp\HistoryStruct.h (gfgd) - Sublime Text (UNREGISTERED)
+16:06:06:  E:\深圳出差\gfgd\Applications\EepHisApp\HistoryStruct.h • (gfgd) - Sublime Text (UNREGISTERED)
+16:06:11:  E:\深圳出差\gfgd\Applications\EepHisApp\HistoryStruct.h (gfgd) - Sublime Text (UNREGISTERED)
+16:06:21:  E:\深圳出差\gfgd\Applications\EepHisApp\EepHisApp.c (gfgd) - Sublime Text (UNREGISTERED)
+16:06:36:  赖伟光
+16:07:11:  E:\深圳出差\gfgd\Applications\EepHisApp\EepHisApp.c • (gfgd) - Sublime Text (UNREGISTERED)
+16:08:06:  E:\深圳出差\gfgd\Applications\EepHisApp\EepHisApp.c (gfgd) - Sublime Text (UNREGISTERED)
+16:08:26:  赖伟光
+16:08:41:  E:\深圳出差\gfgd\Applications\EepHisApp\EepHisApp.c (gfgd) - Sublime Text (UNREGISTERED)
+16:08:56:  E:\深圳出差\gfgd\Applications\EepHisApp\EepHisApp.c • (gfgd) - Sublime Text (UNREGISTERED)
+16:09:01:  E:\深圳出差\gfgd\Applications\EepHisApp\HistoryStruct.h (gfgd) - Sublime Text (UNREGISTERED)
+16:09:06:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+16:09:26:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:09:46:  Tools
+16:09:51:  E:\深圳出差\gfgd\Tools\CreateJK.exe
+16:09:56:  未命名 - 写邮件
+16:10:01:  BNE-R1200M_MASTER_K64_FV1000_FEDADV10_MAIN_T09 - 写邮件
+16:10:06:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:10:11:  赖伟光
+16:10:36:  DRB传感器.txt - 记事本
+16:10:41:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:11:06:  E:\深圳出差\gfgd\Applications\FlowControl\TrackClear.c (gfgd) - Sublime Text (UNREGISTERED)
+16:11:31:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\TrackModule.c • (gfgd) - Sublime Text (UNREGISTERED)
+16:11:36:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\TrackModule.c (gfgd) - Sublime Text (UNREGISTERED)
+16:12:01:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\SensorApp.h (gfgd) - Sublime Text (UNREGISTERED)
+16:12:21:  新建文件夹 (2)
+16:12:26:  Decode
+16:12:31:  LOG
+16:12:36:  K64_0000_20201207160649
+16:12:41:  K64_0000_20201207160547.log - DRB.tat* - TextAnalysisTool.NET
+16:12:56:  K64_0000_20201207160643.log - DRB.tat* - TextAnalysisTool.NET
+16:13:01:  K64_0000_20201207160649.log - DRB.tat* - TextAnalysisTool.NET
+16:13:11:  于斌1
+16:13:36:  K64_0000_20201207160649.log - DRB.tat* - TextAnalysisTool.NET
+16:13:51:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+16:13:56:  TortoiseMerge
+16:14:01:  CashSlot.c - TortoiseMerge
+16:14:06:  TrackClear.c - TortoiseMerge
+16:14:11:  TrackModule.c - TortoiseMerge
+16:14:16:  TrackSensor.c - TortoiseMerge
+16:14:36:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+16:14:46:  TrackSensor.c - TortoiseMerge
+16:14:51:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+16:14:56:  TrackSensor.c - TortoiseMerge
+16:14:06:  TrackClear.c - TortoiseMerge
+16:14:11:  TrackModule.c - TortoiseMerge
+16:14:16:  TrackSensor.c - TortoiseMerge
+16:14:36:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+16:14:46:  TrackSensor.c - TortoiseMerge
+16:14:51:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+16:14:56:  TrackSensor.c - TortoiseMerge
+16:15:11:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+16:15:16:  TrackModule.c - TortoiseMerge
+16:15:21:  TrackClear.c - TortoiseMerge
+16:15:26:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+16:16:51:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:17:11:  Tools
+16:17:16:  E:\深圳出差\gfgd\Tools\CreateJK.exe
+16:17:21:  锁屏状态
+16:17:26:  CRS调测工具（研发版）V1.0.2.1
+16:17:31:  打开
+16:17:41:  CRS调测工具（研发版）V1.0.2.1
+16:20:51:  锁屏状态
+16:20:56:  BNE-R1200M_MASTER_K64_FV1000_FEDADV10_MAIN_T09 - 写邮件
+16:21:01:  吉哲
+16:21:11:  Tools
+16:22:31:  CRS调测工具（研发版）V1.0.2.1
+16:22:51:  gfgd
+16:22:56:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+16:23:01:  TortoiseMerge
+16:23:06:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+16:23:11:  CRS调测工具（研发版）V1.0.2.1
+16:24:16:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\TrackModule.c (gfgd) - Sublime Text (UNREGISTERED)
+16:24:31:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:24:36:  CRS调测工具（研发版）V1.0.2.1
+16:24:46:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:24:51:  CRS调测工具（研发版）V1.0.2.1
+16:25:01:  E:\深圳出差\gfgd\Tools\CreateJK.exe
+16:25:06:  CRS调测工具（研发版）V1.0.2.1
+16:27:01:  CashRecyclerTool 属性
+16:27:06:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+16:27:11:  Decode
+16:27:16:  K64_0000_20201207162643.log - DRB.tat* - TextAnalysisTool.NET
+16:27:21:  Add Filter
+16:27:31:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:27:36:  K64_0000_20201207162643.log - DRB.tat* - TextAnalysisTool.NET
+16:27:41:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:28:21:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.h (gfgd) - Sublime Text (UNREGISTERED)
+16:28:26:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:29:46:  赖伟光
+16:28:21:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.h (gfgd) - Sublime Text (UNREGISTERED)
+16:28:26:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:29:46:  赖伟光
+16:30:36:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:31:16:  赖伟光
+16:31:31:  K64_0000_20201207162643.log - DRB.tat* - TextAnalysisTool.NET
+16:31:36:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:31:41:  赖伟光
+16:31:56:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:32:01:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\TrackModule.c (gfgd) - Sublime Text (UNREGISTERED)
+16:32:16:  于斌1
+16:32:26:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\TrackModule.c (gfgd) - Sublime Text (UNREGISTERED)
+16:32:31:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+16:32:36:  于斌1
+16:32:46:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\TrackModule.c (gfgd) - Sublime Text (UNREGISTERED)
+16:33:11:  E:\深圳出差\gfgd\Applications\FlowControl\BV\BvCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+16:34:07:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:34:17:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+16:34:22:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:34:27:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+16:34:32:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:34:47:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+16:34:57:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:35:02:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+16:35:37:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:35:47:  K64_0000_20201207162643.log - DRB.tat* - TextAnalysisTool.NET
+16:36:17:  Add Filter
+16:36:22:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+16:36:27:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:38:32:  K64_0000_20201207162643.log - DRB.tat* - TextAnalysisTool.NET
+16:38:37:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:38:47:  K64_0000_20201207162643.log - DRB.tat* - TextAnalysisTool.NET
+16:38:52:  锁屏状态
+16:38:57:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:39:02:  E:\深圳出差\gfgd\Drivers\SensorDriver\SensorRcv.h (gfgd) - Sublime Text (UNREGISTERED)
+16:39:07:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:39:37:  于斌1
+16:39:57:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:40:32:  K64_0000_20201207162643.log - DRB.tat* - TextAnalysisTool.NET
+16:40:42:  于斌1
+16:41:07:  赖伟光
+16:42:02:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:42:12:  K64_0000_20201207162643.log - DRB.tat* - TextAnalysisTool.NET
+16:42:17:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:42:32:  K64_0000_20201207162643.log - DRB.tat* - TextAnalysisTool.NET
+16:42:37:  Add Filter
+16:42:47:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:42:52:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\SensorApp.c (gfgd) - Sublime Text (UNREGISTERED)
+16:43:22:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:43:37:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c • (gfgd) - Sublime Text (UNREGISTERED)
+16:43:57:  E:\深圳出差\gfgd\Drivers\SensorDriver\SensorRcv.h (gfgd) - Sublime Text (UNREGISTERED)
+16:44:12:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:44:22:  2#DRB钞箱5元大额存款入上腔第7张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X834602B6.rar
+16:44:37:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:44:47:  新建文件夹 (2)
+16:44:52:  荆文波
+16:45:02:  2#DRB钞箱5元大额存款入上腔第7张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X834602B6
+16:44:12:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:44:22:  2#DRB钞箱5元大额存款入上腔第7张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X834602B6.rar
+16:44:37:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:44:47:  新建文件夹 (2)
+16:44:52:  荆文波
+16:45:02:  2#DRB钞箱5元大额存款入上腔第7张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X834602B6
+16:45:07:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:45:12:  Box_3__0000_20201207163614.log - DRB.tat* - TextAnalysisTool.NET
+16:46:27:  Decode
+16:46:37:  2#DRB钞箱5元大额存款入上腔第7张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X834602B6
+16:46:47:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+16:46:52:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+16:46:57:  2222
+16:47:02:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:47:07:  2#DRB钞箱5元大额存款入上腔第7张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X834602B6
+16:47:12:  LOG
+16:47:17:  Box_3__0000_20201207163531.log - DRB.tat* - TextAnalysisTool.NET
+16:47:22:  LOG
+16:47:27:  Box_3__0000_20201207163614.log - DRB.tat* - TextAnalysisTool.NET
+16:48:12:  TCRControlCmdDLL
+16:48:22:  新建文件夹 (2)
+16:48:27:  爆仓问题(1)
+16:48:32:  新建文件夹 (3)
+16:48:42:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+16:48:47:  Decode
+16:48:57:  K18_0000_20201207143206
+16:49:02:  删除文件夹
+16:49:07:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:49:12:  新建文件夹 (3)
+16:49:17:  2#DRB5元下腔取款第34张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B9 检查发现DRB下腔堆叠正常，无卡钞现象，回收箱纸币堆叠杂乱且异常扭曲。
+16:49:22:  Decode
+16:49:27:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:49:37:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:49:42:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:49:47:  打开
+16:49:52:  CRS调测工具（研发版）V1.0.2.1
+16:51:37:  LOG
+16:51:42:  Box_3__0000_20201207143405.log - DRB.tat* - TextAnalysisTool.NET
+16:55:32:  CRS调测工具（研发版）V1.0.2.1
+16:55:37:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:55:47:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:56:07:  E:\深圳出差\gfgd\Drivers\SensorDriver\SensorRcv.h (gfgd) - Sublime Text (UNREGISTERED)
+16:56:17:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:56:27:  保密资产&东鑫路不能停车
+16:56:32:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:56:42:  回复: 2#DRB钞箱5元大额存款入上腔第7张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X834602B6.rar - 写邮件
+16:57:42:  回复: 2#DRB钞箱5元大额存款入上腔第7张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X834602B6.rar - 写邮件   16:57:40 已保存
+16:58:32:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:58:37:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:58:47:  E:\深圳出差\gfgd\Tools\CreateJK.exe
+16:58:52:  打开
+16:58:57:  CRS调测工具（研发版）V1.0.2.1
+16:59:07:  赖伟光
+16:59:12:  CRS调测工具（研发版）V1.0.2.1
+16:59:17:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:59:32:  CRS调测工具（研发版）V1.0.2.1
+16:59:42:  荆文波
+16:59:47:  CRS调测工具（研发版）V1.0.2.1
+16:58:32:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:58:37:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:58:47:  E:\深圳出差\gfgd\Tools\CreateJK.exe
+16:58:52:  打开
+16:58:57:  CRS调测工具（研发版）V1.0.2.1
+16:59:07:  赖伟光
+16:59:12:  CRS调测工具（研发版）V1.0.2.1
+16:59:17:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+16:59:32:  CRS调测工具（研发版）V1.0.2.1
+16:59:42:  荆文波
+16:59:47:  CRS调测工具（研发版）V1.0.2.1
+17:00:27:  V1.014
+17:00:32:  CRS调测工具（研发版）V1.0.2.1
+17:01:52:  Tools
+17:01:57:  CRS调测工具（研发版）V1.0.2.1
+17:02:17:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+17:02:27:  eSpace
+17:02:32:  赖伟光
+17:03:22:  Box_3__0000_20201207143405.log - DRB.tat* - TextAnalysisTool.NET
+17:03:27:  TCRControlCmdDLL
+17:03:32:  K64_0000_20201207162643.log - DRB.tat* - TextAnalysisTool.NET
+17:03:42:  锁屏状态
+17:32:37:  赖伟光
+17:32:42:  锁屏状态
+17:32:47:  CRS调测工具（研发版）V1.0.2.1
+17:33:57:  2#DRB钞箱5元大额存款入上腔第7张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X834602B6
+17:34:07:  K64_0000_20201207143405
+17:34:12:  2#DRB钞箱5元大额存款入上腔第7张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X834602B6
+17:34:17:  K64_0000_20201207163614
+17:34:22:  Box_3__0000_20201207163614.log - DRB.tat* - TextAnalysisTool.NET
+17:34:27:  K64_0000_20201207163531
+17:34:32:  Box_3__0000_20201207163531.log - DRB.tat* - TextAnalysisTool.NET
+17:39:02:  eSpace
+17:39:12:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\TrackSensor.c (gfgd) - Sublime Text (UNREGISTERED)
+17:39:17:  锁屏状态

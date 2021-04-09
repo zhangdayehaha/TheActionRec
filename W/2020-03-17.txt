@@ -1,0 +1,847 @@
+08:11:37:  eSpace Login
+08:11:42:  
+08:12:02:  本地磁盘 (D:)
+08:12:07:  eSpace
+08:12:12:  42 CRS现金循环模块
+08:12:17:  06 固件日报
+08:12:22:  正在打开 - Excel
+08:12:27:  
+08:12:32:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+08:12:37:  
+08:12:42:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:12:47:  untitled (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:12:52:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:14:12:  D:\00-06\1T2-Aging\Applications\MotorCtrl\MotorCtrl.h (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:14:17:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:15:57:  D:\00-06\1T2-Aging\Applications\State\State.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:16:02:  于斌1
+08:16:37:  D:\00-06\1T2-Aging\Applications\State\State.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:16:47:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:17:12:  跳转列表
+08:17:17:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:18:07:  D:\00-06\1T2-Aging\Applications\State\State.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:18:37:  D:\00-06\1T2-Aging\Middlewares\Lock\Lock.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:18:42:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:18:57:  「开始」菜单
+08:19:02:  
+08:19:07:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:19:22:  D:\00-06\1T2-Aging\Applications\State\State.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:20:27:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:21:37:  新建文本文档.exe - 快捷方式
+08:21:42:  吉哲
+08:21:47:  新标签页 - Google Chrome
+08:21:52:  D视图和M视图_百度搜索 - Google Chrome
+08:22:02:  D视图_百度搜索 - Google Chrome
+08:22:17:  吉哲
+08:22:22:  
+08:22:27:  吉哲
+08:22:32:  主控板集成测试方案-报告
+08:22:37:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:22:47:  
+08:22:53:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:23:03:  于斌1
+08:23:23:  
+08:23:28:  D:\00-06\1T2-Aging\Applications\State\State.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:24:48:  
+08:24:53:  D:\00-06\1T2-Aging\Applications\State\State.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:25:33:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:25:53:  
+08:25:58:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:26:08:  
+08:26:13:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:27:24:  
+08:27:29:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:27:34:  吉哲
+08:27:44:  新标签页 - Google Chrome
+08:27:49:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:28:04:  D:\00-06\1T2-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:28:19:  TCR调测工具 V3.07
+08:28:24:  
+08:28:34:  TCR调测工具 V3.07
+08:28:39:  Everything
+08:28:54:  TCR测试程序
+08:28:59:  BTCR自测工具 V1.2.0.1
+08:29:04:  钞票类型设置
+08:29:24:  BTCR自测工具 V1.2.0.1
+08:28:19:  TCR调测工具 V3.07
+08:28:24:  
+08:28:34:  TCR调测工具 V3.07
+08:28:39:  Everything
+08:28:54:  TCR测试程序
+08:28:59:  BTCR自测工具 V1.2.0.1
+08:29:04:  钞票类型设置
+08:29:24:  BTCR自测工具 V1.2.0.1
+08:30:09:  钞票类型设置
+08:30:14:  BTCR自测工具 V1.2.0.1
+08:30:39:  钞票类型设置
+08:30:44:  BTCR自测工具 V1.2.0.1
+08:30:54:  钞票类型设置
+08:30:59:  BTCR自测工具 V1.2.0.1
+08:32:29:  运行
+08:32:34:  Program Manager
+08:32:39:  08tcr测试过程记录
+08:32:59:  样机配置履历表
+08:33:04:  20191205BV多币种混点
+08:33:24:  桌面整理
+08:33:29:  正在复制 4 个项目(29.3 MB)
+08:33:34:  吉哲
+08:33:39:  BTCR自测工具 V1.2.0.1
+08:33:54:  选择文件夹
+08:34:04:  BTCR自测工具 V1.2.0.1
+08:34:09:  BTCR自测工具 V1.2.0.1 (未响应)
+08:35:49:  样机配置履历表
+08:35:54:  20190802_BV最新全套程序-新版人民币
+08:35:59:  BTCR自测工具 V1.2.0.1
+08:36:34:  20191205BV多币种混点
+08:36:39:  
+08:36:44:  20191212_TCR支持多币种混点版本
+08:36:49:  BTCR自测工具 V1.2.0.1
+08:37:04:  钞票类型设置
+08:37:14:  BTCR自测工具 V1.2.0.1
+08:37:49:  
+08:37:54:  BTCR自测工具 V1.2.0.1
+08:38:34:  钞票类型设置
+08:38:39:  BTCR自测工具 V1.2.0.1
+08:38:49:  钞票类型设置
+08:38:59:  BTCR自测工具 V1.2.0.1
+08:39:14:  钞票类型设置
+08:39:24:  BTCR自测工具 V1.2.0.1
+08:39:34:  钞票类型设置
+08:39:44:  BTCR自测工具 V1.2.0.1
+08:39:49:  钞票类型设置
+08:39:54:  BTCR自测工具 V1.2.0.1
+08:40:04:  钞票类型设置
+08:40:14:  BTCR自测工具 V1.2.0.1
+08:40:19:  钞票类型设置
+08:40:24:  BTCR自测工具 V1.2.0.1
+08:40:29:  钞票类型设置
+08:40:39:  BTCR自测工具 V1.2.0.1
+08:40:44:  钞票类型设置
+08:40:59:  BTCR自测工具 V1.2.0.1
+08:41:14:  钞票类型设置
+08:41:19:  BTCR自测工具 V1.2.0.1
+08:41:34:  钞票类型设置
+08:41:49:  BTCR自测工具 V1.2.0.1
+08:41:54:  钞票类型设置
+08:41:59:  BTCR自测工具 V1.2.0.1
+08:42:04:  钞票类型设置
+08:42:09:  BTCR自测工具 V1.2.0.1
+08:42:29:  钞票类型设置
+08:42:49:  PostWork.py - 快捷方式
+08:42:59:  BTCR自测工具 V1.2.0.1
+08:43:14:  新建文件夹
+08:43:19:  20191205BV多币种混点
+08:43:24:  新建文件夹
+08:43:29:  BTCR自测工具 V1.2.0.1
+08:43:39:  eSpace
+08:43:44:  吉哲
+08:43:49:  
+08:43:54:  百度一下，你就知道 - Google Chrome
+08:44:04:  M视图_百度搜索 - Google Chrome
+08:44:34:  M视图是什么_百度搜索 - Google Chrome
+08:44:39:  什么是 M视图_百度搜索 - Google Chrome
+08:45:09:  什么是 D视图_百度搜索 - Google Chrome
+08:45:19:  BTCR自测工具 V1.2.0.1 (未响应)
+08:45:24:  eSpace
+08:45:29:  20190802_BV最新全套程序-新版人民币
+08:45:54:  
+08:45:59:  D:\00-06\1T2-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:46:09:  D:\00-06\1T2-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:46:14:  D:\00-06\1T2-Aging\Middlewares\Plate\UpperPlate.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:46:19:  D:\00-06\1T2-Aging\Applications\MotorCtrl\MotorCtrl.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:46:39:  D:\00-06\1T2-Aging\Applications\Instruction\InstrHandle.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:47:19:  
+08:47:34:  D:\00-06\1T2-Aging\Applications\Instruction\InstrHandle.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:48:29:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:48:39:  
+08:48:44:  1T2-Aging
+08:48:49:  Project
+08:48:54:  
+08:48:59:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+08:51:05:  于斌1
+08:52:05:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+08:52:10:  吉哲
+08:52:35:  
+08:52:40:  于斌1
+08:52:50:  吉哲
+08:53:10:  于斌1
+08:53:20:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+08:53:30:  Project
+08:53:35:  7
+08:53:40:  D:\00-KE64\7\trunk - 日志信息 - TortoiseSVN
+08:53:50:  trunk
+08:53:55:  BR-4-India
+08:54:00:  D:\00-KE64\7\branches\BR-4-India - 日志信息 - TortoiseSVN
+08:54:10:  PageManage.c Revision 3525 - TortoiseMerge
+08:54:25:  D:\00-KE64\7\branches\BR-4-India - 日志信息 - TortoiseSVN
+08:54:30:  7
+08:54:35:  trunk
+08:54:40:  D:\00-KE64\7\trunk - 日志信息 - TortoiseSVN
+08:54:55:  FlowControl.c Revision 3589 - TortoiseMerge
+08:55:00:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:56:15:  
+08:56:20:  C:\Windows\py.exe
+08:56:25:  
+08:56:30:  C:\Windows\py.exe
+08:56:40:  
+08:56:45:  TheActtionRec
+08:56:50:  W
+08:56:55:  跳转列表
+08:57:00:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-17.txt
+08:57:20:  
+08:57:25:  BTCR自测工具 V1.2.0.1
+08:57:30:  钞票类型设置
+08:57:35:  BTCR自测工具 V1.2.0.1
+08:58:25:  
+08:58:30:  本地磁盘 (E:)
+08:58:35:  python1
+08:58:40:  weibo
+08:58:50:  
+08:59:00:  移动或复制工作表
+08:59:05:  Microsoft Excel
+08:59:10:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:59:15:  
+08:59:20:  移动或复制工作表
+08:59:25:  Microsoft Excel
+08:59:40:  2.xlsx - Excel
+08:59:45:  BTCR自测工具 V1.2.0.1
+08:59:50:  
+08:59:55:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:00:00:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+08:58:25:  
+08:58:30:  本地磁盘 (E:)
+08:58:35:  python1
+08:58:40:  weibo
+08:58:50:  
+08:59:00:  移动或复制工作表
+08:59:05:  Microsoft Excel
+08:59:10:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:59:15:  
+08:59:20:  移动或复制工作表
+08:59:25:  Microsoft Excel
+08:59:40:  2.xlsx - Excel
+08:59:45:  BTCR自测工具 V1.2.0.1
+08:59:50:  
+08:59:55:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:00:00:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:00:10:  新建文本文档.exe - 快捷方式
+09:00:15:  
+09:00:20:  新标签页 - Google Chrome
+09:00:25:  微博 - Google Chrome
+09:01:05:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:01:10:  便签条
+09:01:15:  微博 - Google Chrome
+09:01:30:  便签条
+09:02:15:  weibo
+09:02:20:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:02:25:  
+09:02:30:  C:\Windows\system32\cmd.exe
+09:02:45:  
+09:02:55:  C:\Windows\system32\cmd.exe
+09:03:35:  mwiebo.py - D:\python1\weibo\weibo\spiders\mwiebo.py (3.7.3)
+09:03:45:  C:\Windows\system32\cmd.exe
+09:03:50:  weibo
+09:03:55:  C:\Windows\system32\cmd.exe
+09:04:05:  微博 - Google Chrome
+09:04:45:  便签条
+09:04:50:  微博 - Google Chrome
+09:05:00:  weibo
+09:05:10:  C:\Windows\system32\cmd.exe
+09:05:15:  weibo
+09:05:20:  C:\Windows\system32\cmd.exe
+09:05:30:  2.xlsx - Excel
+09:05:45:  weibo
+09:05:50:  pipelines.py - D:\python1\weibo\weibo\pipelines.py (3.7.3)
+09:06:30:  C:\Windows\system32\cmd.exe
+09:06:35:  
+09:06:45:  C:\Windows\system32\cmd.exe
+09:06:55:  2.xlsx - Excel
+09:07:05:  C:\Windows\system32\cmd.exe
+09:07:10:  guandian.xlsx - Excel
+09:08:55:  Microsoft Excel
+09:09:00:  2.xlsx - Excel
+09:12:00:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:12:20:  
+09:12:25:  D:\00-06\1T2-Aging\Applications\MotorCtrl\MotorCtrl.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:12:35:  weibo
+09:12:45:  微博 - Google Chrome
+09:13:10:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:14:00:  百度一下，你就知道 - Google Chrome
+09:14:10:  微博 网页版_百度搜索 - Google Chrome
+09:14:25:  https://www.baidu.com/link?url=i5LBMjBM2fEHzBUQxD5QhdKVcxPIpROkzWLzc1KlIah7eGKcrUBHTsyPInT1Sv5B&wd=&eqid=ece25c17000e8e6c000000025e70246e - Google Chrome
+09:14:30:  WAP版发微博的微博_微博 - Google Chrome
+09:14:35:  微博 wap_百度搜索 - Google Chrome
+09:14:50:  微博_百度搜索 - Google Chrome
+09:14:55:  微博 手机版_百度搜索 - Google Chrome
+09:15:05:  微博 手机版 网页版_百度搜索 - Google Chrome
+09:15:10:  https://www.baidu.com/link?url=0dv7OEX9IbtIKNLqbSMuXDAS0ZGAx2OmYnInAOla6CM1vz3x44NUTpzwTVU_NHeuZEFZOU-BtDQMttXMlaNfdYVwiCySSFzVlsBN0YZu8US&wd=&eqid=b7d07c680006ee13000000025e702494 - Google Chrome
+09:15:15:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:16:10:  新建文本文档.exe - 快捷方式
+09:16:15:  小仙女官方下载 - Internet Explorer
+09:16:20:  Internet 选项
+09:16:30:  跳转列表
+09:16:35:  Internet Explorer 属性
+09:16:40:  登录新浪微博网页版的几种方式-百度经验 - Google Chrome
+09:16:55:  
+09:17:10:  新标签页 - Google Chrome
+09:17:20:  
+09:17:30:  http://192.168.28.228:7100/ - Internet Explorer
+09:17:35:  新标签页 - Google Chrome
+09:17:40:  
+09:17:45:  192.168.28.228 - Google Chrome
+09:17:50:  一卡通平台系统 [] - Google Chrome
+09:18:00:  
+09:18:05:  Cancel update?
+09:18:10:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:19:00:  Progress Telerik Fiddler Web Debugger
+09:19:05:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:19:15:  Progress Telerik Fiddler Web Debugger
+09:19:25:  实时考勤管理系统 [新北洋集团] - Google Chrome
+09:20:15:  Progress Telerik Fiddler Web Debugger
+09:21:15:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:21:20:  Progress Telerik Fiddler Web Debugger
+09:21:45:  实时考勤管理系统 [新北洋集团] - Google Chrome
+09:21:55:  实时门禁管理系统 - Google Chrome
+09:22:00:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:22:10:  实时考勤管理系统 [新北洋集团] - Google Chrome
+09:22:15:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:22:20:  无标题 - Google Chrome
+09:22:25:  实时考勤管理系统 [新北洋集团] - Google Chrome
+09:22:30:  Progress Telerik Fiddler Web Debugger
+09:22:40:  实时考勤管理系统 [新北洋集团] - Google Chrome
+09:22:50:  卡片管理中心 - Google Chrome
+09:23:00:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:23:05:  实时考勤管理系统 [新北洋集团] - Google Chrome
+09:23:40:  实时门禁管理系统 - Google Chrome
+09:24:05:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:24:20:  实时考勤管理系统 [新北洋集团] - Google Chrome
+09:24:35:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:24:40:  实时考勤管理系统 [新北洋集团] - Google Chrome
+09:25:00:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:25:05:  实时考勤管理系统 [新北洋集团] - Google Chrome
+09:25:10:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:25:15:  192.168.28.228:7102 - Google Chrome
+09:25:20:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:28:45:  提示
+09:28:50:  Progress Telerik Fiddler Web Debugger
+09:28:55:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:29:00:  Progress Telerik Fiddler Web Debugger
+09:29:05:  一卡通平台系统 [] - Google Chrome
+09:29:15:  Progress Telerik Fiddler Web Debugger
+09:30:00:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:28:45:  提示
+09:28:50:  Progress Telerik Fiddler Web Debugger
+09:28:55:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:29:00:  Progress Telerik Fiddler Web Debugger
+09:29:05:  一卡通平台系统 [] - Google Chrome
+09:29:15:  Progress Telerik Fiddler Web Debugger
+09:30:00:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:30:05:  Progress Telerik Fiddler Web Debugger
+09:31:45:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:31:50:  Progress Telerik Fiddler Web Debugger
+09:32:05:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:33:50:  192.168.28.228:7101/default.asp - Google Chrome
+09:33:55:  卡片管理中心 - Google Chrome
+09:34:30:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:34:50:  实时考勤管理系统 [新北洋集团] - Google Chrome
+09:34:55:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:37:40:  班车管理系统 - Google Chrome
+09:38:15:  实时门禁管理系统 - Google Chrome
+09:38:40:  404 File Not Found - Google Chrome
+09:38:45:  :: - Google Chrome
+09:38:55:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:39:00:  Progress Telerik Fiddler Web Debugger
+09:39:15:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:41:25:  :: - Google Chrome
+09:41:30:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:42:40:  班车管理系统 [新北洋集团] - Google Chrome
+09:42:50:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:43:15:  Progress Telerik Fiddler Web Debugger
+09:45:20:  于斌1
+09:45:40:  
+09:46:25:  于斌1
+09:46:35:  
+09:46:40:  于斌1
+09:46:45:  Progress Telerik Fiddler Web Debugger
+09:47:40:  于斌1
+09:48:00:  Progress Telerik Fiddler Web Debugger
+09:49:20:  于斌1
+09:49:30:  Progress Telerik Fiddler Web Debugger
+09:51:00:  
+09:51:05:  新标签页 - Google Chrome
+09:51:10:  实时考勤管理系统 - Google Chrome
+09:51:20:  404 File Not Found - Google Chrome
+09:51:25:  一卡通平台系统 [] - Google Chrome
+09:51:35:  Progress Telerik Fiddler Web Debugger
+09:52:25:  一卡通平台系统 [新北洋集团] - Google Chrome
+09:52:30:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:52:50:  iTunes
+09:52:55:  自动播放
+09:55:35:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:55:50:  新标签页 - Google Chrome
+09:55:55:  设置 - Google Chrome
+09:56:10:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:02:40:  设置 - Google Chrome
+10:03:25:  新建文本文档.exe - 快捷方式
+10:03:30:  
+10:03:40:  百度一下，你就知道 - Google Chrome
+10:03:45:  m.weibo_百度搜索 - Google Chrome
+10:04:00:  老版网页版微博入口_百度搜索 - Google Chrome
+10:04:10:  404 Not Found - Google Chrome
+10:04:15:  老版网页版微博入口_百度搜索 - Google Chrome
+10:04:25:  https://www.baidu.com/link?url=tgfJqYWtJKVhTRN02g5WIRan8eVYoTQhIxV4qijhp7UlhIZulvLykzlVpCBau4LlR8RTyb5Tl-sc8orGCltxhcgFcToVy_N1SHcU8LcQZ0e&wd=&eqid=a8dbc83f000a3d11000000025e703023 - Google Chrome
+10:04:30:  旧版首页 - 微博API - Google Chrome
+10:04:40:  老版网页版微博入口_百度搜索 - Google Chrome
+10:05:15:  微博旧版网页版_百度搜索 - Google Chrome
+10:05:35:  Starting Fiddler...
+10:05:40:  Progress Telerik Fiddler Web Debugger
+10:05:55:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:06:10:  
+10:06:45:  旧版首页 - 微博API - Google Chrome
+10:06:50:  https://m.weibo.cn/comments/hotflow?id=4481411425996580&mid=4481411425996580&max_id=1 - Google Chrome
+10:07:00:  微博-出错了 - Google Chrome
+10:07:05:  微博 - Google Chrome
+10:07:20:  Progress Telerik Fiddler Web Debugger
+10:10:50:  微博搞笑 - Google Chrome
+10:10:55:  Progress Telerik Fiddler Web Debugger
+10:12:05:  跳转列表
+10:12:10:  新标签页 - Google Chrome
+10:12:15:  api/container/getIndex?uid=1713926427&t=7&luicode=10000011&lfid=100103type%3D1_7%26t%3D7%26q%3D微博搞笑&containerid=1076031713926427 - Google Chrome
+10:12:20:  Progress Telerik Fiddler Web Debugger
+10:12:25:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&lfid=100103type%3D1_7%26t%3D7%26q%3D微博搞笑&containerid=1076031713926427 - Google Chrome
+10:12:35:  扩展程序 - Google Chrome
+10:12:40:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&lfid=100103type%3D1_7%26t%3D7%26q%3D微博搞笑&containerid=1076031713926427 - Google Chrome
+10:12:55:  Progress Telerik Fiddler Web Debugger
+10:13:25:  
+10:13:30:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&lfid=100103type%3D1_7%26t%3D7%26q%3D微博搞笑&containerid=1076031713926427 - Google Chrome
+10:14:30:  Progress Telerik Fiddler Web Debugger
+10:14:40:  weibo
+10:14:55:  重命名
+10:15:00:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+10:15:05:  weibo
+10:15:30:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+10:15:40:  weibo - Everything
+10:15:45:  微博 - Everything
+10:15:50:  微博评论.py - C:\Users\zhangkaifa\Downloads\scrapy\微博爬取\微博评论.py (3.7.3)
+10:15:55:  json动态加载微博评论.py - C:\Users\zhangkaifa\Desktop\TCRTestTool_20190510-002\json动态加载微博评论.py (3.7.3)
+10:16:05:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+10:18:05:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+10:18:10:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+10:18:15:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+10:18:20:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+10:19:35:  关于大家锁借用的TCR以及钞箱的账务沟通
+10:21:00:  内部样机明细表--自研TCR--TCR机芯44-8台费用化(5台借用)--36台ERP账上（31台借用）---钞箱45--全部在ERP账上（44台借用）.xlsx  [只读] - Excel
+10:21:05:  
+10:21:15:  内部样机明细表--自研TCR--TCR机芯44-8台费用化(5台借用)--36台ERP账上（31台借用）---钞箱45--全部在ERP账上（44台借用）.xlsx  [只读] - Excel
+10:21:55:  关于大家锁借用的TCR以及钞箱的账务沟通
+10:23:00:  内部样机明细表--自研TCR--TCR机芯44-8台费用化(5台借用)--36台ERP账上（31台借用）---钞箱45--全部在ERP账上（44台借用）.xlsx  [只读] - Excel
+10:23:05:  
+10:23:10:  内部样机明细表--自研TCR--TCR机芯44-8台费用化(5台借用)--36台ERP账上（31台借用）---钞箱45--全部在ERP账上（44台借用）.xlsx  [只读] - Excel
+10:23:15:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+10:23:30:  Progress Telerik Fiddler Web Debugger
+10:23:35:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+10:24:20:  
+10:24:25:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&lfid=100103type%3D1_7%26t%3D7%26q%3D微博搞笑&containerid=1076031713926427 - Google Chrome
+10:24:40:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+10:24:55:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+10:25:05:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+10:25:15:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+10:25:20:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+10:25:25:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+10:25:30:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+10:25:35:  weibo
+10:25:40:  SyntaxError
+10:25:45:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:25:50:  Python 3.7.3 Shell
+10:25:55:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:26:00:  Save Before Run or Check
+10:26:05:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:26:25:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:26:30:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:26:35:  Python 3.7.3 Shell
+10:26:40:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:26:55:  Python 3.7.3 Shell
+10:27:00:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:27:05:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:27:10:  *Python 3.7.3 Shell*
+10:27:15:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:27:20:  Python 3.7.3 Shell
+10:27:25:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:27:30:  Python 3.7.3 Shell
+10:27:35:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:27:40:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:27:50:  微博 - Everything
+10:27:55:  json动态加载微博评论.py - C:\Users\zhangkaifa\Desktop\TCRTestTool_20190510-002\json动态加载微博评论.py (3.7.3)
+10:28:00:  微博 - Everything
+10:28:05:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:28:20:  Python 3.7.3 Shell
+10:28:25:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:28:30:  微博 - Everything
+10:28:35:  json动态加载微博评论.py - C:\Users\zhangkaifa\Desktop\TCRTestTool_20190510-002\json动态加载微博评论.py (3.7.3)
+10:28:45:  *Python 3.7.3 Shell*
+10:28:50:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:28:55:  *Python 3.7.3 Shell*
+10:29:00:  Python 3.7.3 Shell
+10:29:25:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:29:40:  *Python 3.7.3 Shell*
+10:29:45:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:28:05:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:28:20:  Python 3.7.3 Shell
+10:28:25:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:28:30:  微博 - Everything
+10:28:35:  json动态加载微博评论.py - C:\Users\zhangkaifa\Desktop\TCRTestTool_20190510-002\json动态加载微博评论.py (3.7.3)
+10:28:45:  *Python 3.7.3 Shell*
+10:28:50:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:28:55:  *Python 3.7.3 Shell*
+10:29:00:  Python 3.7.3 Shell
+10:29:25:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:29:40:  *Python 3.7.3 Shell*
+10:29:45:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:30:10:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:30:15:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:30:25:  Python 3.7.3 Shell
+10:30:30:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:30:35:  Python 3.7.3 Shell
+10:30:40:  *Python 3.7.3 Shell*
+10:30:50:  Python 3.7.3 Shell
+10:30:55:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:31:15:  Python 3.7.3 Shell
+10:31:25:  Subprocess Startup Error
+10:31:30:  Python 3.7.3 Shell
+10:31:35:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:31:40:  Python 3.7.3 Shell
+10:31:55:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:32:10:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:32:30:  *Python 3.7.3 Shell*
+10:32:35:  Python 3.7.3 Shell
+10:32:50:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:33:35:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&lfid=100103type%3D1_7%26t%3D7%26q%3D微博搞笑&containerid=1076031713926427 - Google Chrome
+10:33:45:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011 - Google Chrome
+10:33:55:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011containerid=1076031713926427 - Google Chrome
+10:34:00:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011containerid=1076031713926427&lfid=100103type%3D1_7%26t%3D7%26q%3D微博搞笑& - Google Chrome
+10:34:05:  
+10:34:10:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+10:34:20:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&lfid=100103type%3D1_7%26t%3D7%26q%3D微博搞笑&containerid=1076031713926427 - Google Chrome
+10:34:35:  微博 - Everything
+10:34:40:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+10:34:50:  weibo
+10:34:55:  *Python 3.7.3 Shell*
+10:35:00:  Python 3.7.3 Shell
+10:35:05:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:35:25:  spiders
+10:35:30:  mwiebo.py - D:\python1\weibo\weibo\spiders\mwiebo.py (3.7.3)
+10:36:10:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:36:30:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:37:05:  *Python 3.7.3 Shell*
+10:37:15:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:37:45:  mwiebo.py - D:\python1\weibo\weibo\spiders\mwiebo.py (3.7.3)
+10:38:00:  Search Dialog
+10:38:10:  mwiebo.py - D:\python1\weibo\weibo\spiders\mwiebo.py (3.7.3)
+10:38:15:  Search Dialog
+10:38:25:  mwiebo.py - D:\python1\weibo\weibo\spiders\mwiebo.py (3.7.3)
+10:38:30:  cookie.txt - 记事本
+10:38:45:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:38:50:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:39:00:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:39:15:  *Python 3.7.3 Shell*
+10:39:35:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:39:40:  Save Before Run or Check
+10:39:45:  *Python 3.7.3 Shell*
+10:39:55:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:41:00:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:41:05:  *Python 3.7.3 Shell*
+10:41:10:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:41:30:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:41:35:  *Python 3.7.3 Shell*
+10:42:00:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:42:05:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:42:35:  Python 3.7.3 Shell
+10:42:45:  *Python 3.7.3 Shell*
+10:43:00:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:43:05:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:43:15:  Save Before Run or Check
+10:43:20:  *Python 3.7.3 Shell*
+10:43:25:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:43:30:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:43:35:  *Python 3.7.3 Shell*
+10:43:40:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:43:45:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:44:25:  *Python 3.7.3 Shell*
+10:44:30:  Python 3.7.3 Shell
+10:44:35:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:44:40:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:44:45:  Python 3.7.3 Shell
+10:44:55:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:45:05:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:45:15:  Python 3.7.3 Shell
+10:45:20:  *Python 3.7.3 Shell*
+10:45:25:  Python 3.7.3 Shell
+10:45:30:  Progress Telerik Fiddler Web Debugger
+10:46:00:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:46:05:  mwiebo.py - D:\python1\weibo\weibo\spiders\mwiebo.py (3.7.3)
+10:47:10:  cookie.txt - 记事本
+10:47:30:  mwiebo.py - D:\python1\weibo\weibo\spiders\mwiebo.py (3.7.3)
+10:47:40:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:47:55:  Save Before Run or Check
+10:48:00:  Python 3.7.3 Shell
+10:48:05:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:48:30:  Progress Telerik Fiddler Web Debugger
+10:48:40:  TextWizard [94 => 128 chars]
+10:48:45:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:48:50:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:49:10:  *Python 3.7.3 Shell*
+10:49:15:  Python 3.7.3 Shell
+10:49:20:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:49:25:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:49:45:  *Python 3.7.3 Shell*
+10:49:50:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:50:10:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427 - Google Chrome
+10:50:15:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:50:40:  Python 3.7.3 Shell
+10:50:45:  Progress Telerik Fiddler Web Debugger
+10:50:55:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:51:10:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:51:20:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:51:30:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:51:35:  SyntaxError
+10:51:40:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:51:55:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:52:00:  Python 3.7.3 Shell
+10:52:10:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:52:20:  weibo
+10:52:25:  mwiebo.py - D:\python1\weibo\weibo\spiders\mwiebo.py (3.7.3)
+10:52:45:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:53:15:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:53:35:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:53:40:  Python 3.7.3 Shell
+10:53:45:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:53:50:  Progress Telerik Fiddler Web Debugger
+10:54:00:  Save Before Run or Check
+10:54:05:  Python 3.7.3 Shell
+10:54:10:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:54:25:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:54:40:  *Python 3.7.3 Shell*
+10:54:45:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:54:55:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:55:05:  Python 3.7.3 Shell
+10:55:25:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:55:30:  *Python 3.7.3 Shell*
+10:55:35:  Python 3.7.3 Shell
+10:55:40:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:55:50:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:55:55:  Python 3.7.3 Shell
+10:56:00:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:56:05:  *Python 3.7.3 Shell*
+10:56:10:  Python 3.7.3 Shell
+10:56:15:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:56:20:  Progress Telerik Fiddler Web Debugger
+10:56:25:  mwiebo.py - D:\python1\weibo\weibo\spiders\mwiebo.py (3.7.3)
+10:56:35:  spiders
+10:56:40:  
+10:56:45:  C:\Windows\system32\cmd.exe
+10:56:50:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:56:55:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:57:15:  C:\Windows\system32\cmd.exe
+10:57:25:  Python 3.7.3 Shell
+10:57:30:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:57:35:  Save Before Run or Check
+10:57:40:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+10:57:45:  Python 3.7.3 Shell
+10:57:50:  Python 3.7.3 Shell (未响应)
+10:57:55:  Python
+10:58:00:  weibo
+10:58:05:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:58:10:  Python 3.7.3 Shell
+10:58:20:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:58:25:  *Python 3.7.3 Shell*
+10:58:30:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:58:35:  Python 3.7.3 Shell
+10:58:45:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+10:58:50:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+10:59:05:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+10:59:30:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+10:59:35:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+10:59:40:  *Python 3.7.3 Shell*
+10:59:45:  Python 3.7.3 Shell
+10:59:50:  weibo
+10:59:55:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:58:05:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:58:10:  Python 3.7.3 Shell
+10:58:20:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:58:25:  *Python 3.7.3 Shell*
+10:58:30:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+10:58:35:  Python 3.7.3 Shell
+10:58:45:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+10:58:50:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+10:59:05:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+10:59:30:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+10:59:35:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+10:59:40:  *Python 3.7.3 Shell*
+10:59:45:  Python 3.7.3 Shell
+10:59:50:  weibo
+10:59:55:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:00:25:  Save Before Run or Check
+11:00:30:  *Python 3.7.3 Shell*
+11:00:40:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:00:45:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427 - Google Chrome
+11:01:30:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+11:01:40:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+11:01:50:  Python 3.7.3 Shell
+11:02:05:  weibo
+11:02:10:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:02:25:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427 - Google Chrome
+11:02:30:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:02:35:  *Python 3.7.3 Shell*
+11:02:45:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:02:50:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427 - Google Chrome
+11:03:00:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:03:10:  SyntaxError
+11:03:15:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:03:20:  *Python 3.7.3 Shell*
+11:03:25:  Kill?
+11:03:30:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:03:35:  *Python 3.7.3 Shell*
+11:04:05:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:04:10:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427 - Google Chrome
+11:04:15:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:04:25:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427 - Google Chrome
+11:04:30:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:04:55:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427 - Google Chrome
+11:05:00:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:05:05:  
+11:05:10:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427 - Google Chrome
+11:05:55:  
+11:06:00:  Progress Telerik Fiddler Web Debugger
+11:06:15:  微博 - Google Chrome
+11:06:20:  Progress Telerik Fiddler Web Debugger
+11:06:40:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427 - Google Chrome
+11:06:50:  Progress Telerik Fiddler Web Debugger
+11:07:10:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&lfid=100103type%3D1_7%26t%3D7%26q%3D微博搞笑&type=uid&value=1713926427&containerid=1076031713926427&since_id=4480491186556647 - Google Chrome
+11:07:25:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&lfid=100103type%3D1_7%26t%3D7%26q%3D微博搞笑&type=uid&value=1713926427&containerid=1076031713926427&since_id=4478512314460101 - Google Chrome
+11:07:40:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427&since_id=4478512314460101 - Google Chrome
+11:07:45:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427&since_id=4477375238795625 - Google Chrome
+11:07:50:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:08:15:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427 - Google Chrome
+11:08:30:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427&since_id= 4480491186556647 - Google Chrome
+11:08:35:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:09:05:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427&since_id= 4480491186556647 - Google Chrome
+11:09:10:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:09:15:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:09:25:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:09:50:  *Python 3.7.3 Shell*
+11:09:55:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:10:00:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:10:05:  *Python 3.7.3 Shell*
+11:10:10:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:10:15:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427&since_id= 4480491186556647 - Google Chrome
+11:10:25:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:10:30:  *Python 3.7.3 Shell*
+11:10:35:  
+11:10:40:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427&since_id=0 - Google Chrome
+11:10:45:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:11:15:  *Python 3.7.3 Shell*
+11:11:20:  Python 3.7.3 Shell
+11:11:30:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:11:35:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427&since_id=0 - Google Chrome
+11:11:40:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:11:50:  *Python 3.7.3 Shell*
+11:12:00:  Python 3.7.3 Shell
+11:12:10:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:12:15:  *Python 3.7.3 Shell*
+11:12:20:  Python 3.7.3 Shell
+11:12:25:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:12:40:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:12:45:  *Python 3.7.3 Shell*
+11:12:50:  Python 3.7.3 Shell
+11:12:55:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:13:00:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:13:10:  Save Before Run or Check
+11:13:15:  *Python 3.7.3 Shell*
+11:13:20:  Python 3.7.3 Shell
+11:13:30:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:13:40:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:13:45:  *Python 3.7.3 Shell*
+11:13:50:  Expand huge output?
+11:13:55:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:14:00:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:14:05:  *Python 3.7.3 Shell*
+11:14:20:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:14:25:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427&since_id=0 - Google Chrome
+11:14:30:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:14:35:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:14:40:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:14:45:  Save Before Run or Check
+11:14:50:  *Python 3.7.3 Shell*
+11:15:00:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:15:05:  *Python 3.7.3 Shell*
+11:15:20:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:15:25:  *Python 3.7.3 Shell*
+11:15:35:  Kill?
+11:15:50:  Save Before Run or Check
+11:16:00:  *Python 3.7.3 Shell*
+11:16:05:  Python 3.7.3 Shell
+11:16:10:  Save Before Run or Check
+11:16:15:  *Python 3.7.3 Shell*
+11:16:20:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:16:25:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427&since_id=0 - Google Chrome
+11:16:35:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:16:40:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427&since_id=0 - Google Chrome
+11:16:50:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:17:00:  *Python 3.7.3 Shell*
+11:17:10:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:17:15:  *Python 3.7.3 Shell*
+11:17:25:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:17:30:  *Python 3.7.3 Shell*
+11:17:40:  Kill?
+11:17:45:  *Python 3.7.3 Shell*
+11:18:10:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:18:20:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:18:25:  weibo
+11:18:30:  mwiebo.py - D:\python1\weibo\weibo\spiders\mwiebo.py (3.7.3)
+11:19:05:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:19:15:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+11:19:20:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+11:19:30:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+11:19:45:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+11:20:15:  mwiebo.py - D:\python1\weibo\weibo\spiders\mwiebo.py (3.7.3)
+11:20:20:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:20:25:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+11:20:30:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+11:20:35:  mwiebo.py - D:\python1\weibo\weibo\spiders\mwiebo.py (3.7.3)
+11:20:40:  *Python 3.7.3 Shell*
+11:20:50:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:20:55:  spiders
+11:21:00:  weibo
+11:21:05:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:21:10:  *Python 3.7.3 Shell*
+11:21:15:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:21:25:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3) (未响应)
+11:21:30:  Subprocess Startup Error
+11:21:35:  *Python 3.7.3 Shell*
+11:21:40:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:21:50:  *Python 3.7.3 Shell*
+11:21:55:  Python 3.7.3 Shell
+11:22:00:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:22:05:  *Python 3.7.3 Shell*
+11:22:10:  *新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)*
+11:22:20:  *Python 3.7.3 Shell*
+11:22:40:  Kill?
+11:22:45:  https://m.weibo.cn/api/container/getIndex?uid=1713926427&t=7&luicode=10000011&containerid=1076031713926427&since_id=0 - Google Chrome
+11:24:00:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+11:24:10:  D:\python1\weibo\weibo\新建文本文档.py • (trunk) - Sublime Text (UNREGISTERED)
+11:24:20:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:24:25:  *Python 3.7.3 Shell*
+11:24:30:  Kill?
+11:24:35:  D:\python1\weibo\weibo\新建文本文档.py (trunk) - Sublime Text (UNREGISTERED)
+11:24:45:  新建文本文档.py - D:\python1\weibo\weibo\新建文本文档.py (3.7.3)
+11:24:50:  微博 - Everything
+11:24:55:  weibo
+11:25:15:  
+11:25:20:  收取邮件 - 张开发
+11:25:25:  weibo
+11:25:30:  固件一室
+11:25:40:  weibo
+11:25:45:  微博话题爬取.py - D:\python1\weibo\weibo\微博话题爬取.py (3.7.3)
+11:26:00:  weibo
+11:26:05:  C:\Windows\py.exe
+11:26:15:  weibo

@@ -1,0 +1,96 @@
+2020-08-12 23:45:02-- 00:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 00:00:02-- 00:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 00:15:03-- 00:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 00:30:03-- 00:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 00:45:03-- 01:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 01:00:03-- 01:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 01:15:03-- 01:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 01:30:04-- 01:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 01:45:04-- 02:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 02:00:04-- 02:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 02:15:04-- 02:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 02:30:04-- 02:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 02:45:04-- 03:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 03:00:00-- 03:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 03:15:00-- 03:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 03:30:00-- 03:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 03:45:00-- 04:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 04:00:00-- 04:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 04:15:00-- 04:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 04:30:01-- 04:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 04:45:01-- 05:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 05:00:01-- 05:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 05:15:01-- 05:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 05:30:01-- 05:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 05:45:01-- 06:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 06:00:02-- 06:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 06:15:02-- 06:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 06:30:02-- 06:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 06:45:02-- 07:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 07:00:02-- 07:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 07:15:03-- 07:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 07:30:03-- 07:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 07:45:03-- 08:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 08:00:03-- 08:15:03     :    一  ：D:\00-06\DRB-MOSTNEW\Project\CashBox_1T2.uvprojx - μVision   127/10.5分钟       二  ：eSpace   38/3.16分钟     三  ：锁屏状态   3/0.25分钟
+2020-08-13 08:15:03-- 08:30:04     :    一  ：吉哲   50/4.16分钟       二  ：D:\00-06\DRB-MOSTNEW - 工作副本 - TortoiseSVN   42/3.5分钟     三  ：StepMotorDriver.c - TortoiseMerge   23/1.91分钟
+2020-08-13 08:30:04-- 08:45:04     :    一  ：计算器   86/7.16分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.h (trunk) - Sublime Text (UNREGISTERED)   20/1.66分钟     三  ：选择文件夹   14/1.16分钟
+2020-08-13 08:45:04-- 09:00:04     :    一  ：D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)   92/7.66分钟       二  ：D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)   18/1.5分钟     三  ：D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)   15/1.25分钟
+2020-08-13 09:00:04-- 09:15:04     :    一  ：InstrExe.c - CRS - Visual Studio Code [管理员]   62/5.16分钟       二  ：● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]   59/4.91分钟     三  ：于斌1   15/1.25分钟
+2020-08-13 09:15:04-- 09:30:00     :    一  ：D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)   60/5.0分钟       二  ：● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]   53/4.41分钟     三  ：D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)   30/2.5分钟
+2020-08-13 09:30:00-- 09:45:00     :    一  ：D:\00-18\CRS\Applications\BarCtrl\BarCtrl.c (CRS) - Sublime Text (UNREGISTERED)   94/7.83分钟       二  ：荆文波   46/3.83分钟     三  ：D:\00-18\CRS\Applications\ImpellerCtrl\ImpellerCtrl.c (CRS) - Sublime Text (UNREGISTERED)   19/1.58分钟
+2020-08-13 09:45:00-- 10:00:00     :    一  ：D:\00-18\CRS\Applications\BarCtrl\BarCtrl.c (CRS) - Sublime Text (UNREGISTERED)   176/14.6分钟       二  ：D:\00-18\CRS\Applications\BarCtrl\BarCtrl.h (CRS) - Sublime Text (UNREGISTERED)   2/0.16分钟     三  ：于斌1   1/0.08分钟
+2020-08-13 10:00:00-- 10:15:00     :    一  ：D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)   49/4.08分钟       二  ：D:\00-18\CRS\Applications\BarCtrl\BarCtrl.c (CRS) - Sublime Text (UNREGISTERED)   36/3.0分钟     三  ：C:\Users\zhangkaifa\AppData\Roaming\Foxmail7\Temp-4628-20200810131900\Attach\00-TCR 暂存挡钞爪实施方案20180608.exb - CAXA电子图板2005(企业版)   31/2.58分钟
+2020-08-13 10:15:00-- 10:30:04     :    一  ：D:\00-18\CRS\Project\ke18_rtt.uvprojx - μVision   17/1.41分钟       二  ：ARM.CMSIS.5.1.0_百度搜索 - Google Chrome   16/1.33分钟     三  ：CMSIS - Everything   12/1.0分钟
+2020-08-13 10:30:04-- 10:45:03     :    一  ：D:\00-18\CRS\Project\ke18_rtt.uvprojx - μVision   99/8.25分钟       二  ：eSpace   18/1.5分钟     三  ：刘锐   13/1.08分钟
+2020-08-13 10:45:03-- 11:00:04     :    一  ：D:\00-18\CRS\Project\ke18_rtt.uvprojx - μVision   111/9.25分钟       二  ：D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)   32/2.66分钟     三  ：D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)   7/0.58分钟
+2020-08-13 11:00:04-- 11:15:00     :    一  ：D:\00-18\CRS\Project\ke18_rtt.uvprojx - μVision   148/12.3分钟       二  ：μVision   13/1.08分钟     三  ：浏览文件夹   4/0.33分钟
+2020-08-13 11:15:00-- 11:30:01     :    一  ：D:\00-18\CRS\Project\ke18_rtt.uvprojx - μVision   179/14.9分钟       二  ：μVision   1/0.08分钟     三  ：   0/0.0分钟
+2020-08-13 11:30:01-- 11:45:01     :    一  ：D:\00-18\CRS\Project\ke18_rtt.uvprojx - μVision   178/14.8分钟       二  ：μVision   2/0.16分钟     三  ：   0/0.0分钟
+2020-08-13 11:45:01-- 12:00:01     :    一  ：锁屏状态   166/13.8分钟       二  ：D:\00-18\CRS\Project\ke18_rtt.uvprojx - μVision   14/1.16分钟     三  ：   0/0.0分钟
+2020-08-13 12:00:01-- 12:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 12:15:01-- 12:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 12:30:01-- 12:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 12:45:02-- 13:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 13:00:02-- 13:15:02     :    一  ：锁屏状态   179/14.9分钟       二  ：D:\00-18\CRS\Project\ke18_rtt.uvprojx - μVision   1/0.08分钟     三  ：   0/0.0分钟
+2020-08-13 13:15:02-- 13:30:02     :    一  ：D:\00-18\CRS\Project\ke18_rtt.uvprojx - μVision   120/10.0分钟       二  ：keil5 include 但还是未定义_百度搜索 - Google Chrome   10/0.83分钟     三  ：网易有道词典   7/0.58分钟
+2020-08-13 13:30:02-- 13:45:02     :    一  ：D:\00-18\CRS\Project\ke18_rtt.uvprojx - μVision   73/6.08分钟       二  ：网易有道词典   71/5.91分钟     三  ：Applications   9/0.75分钟
+2020-08-13 13:45:02-- 14:00:02     :    一  ：D:\00-18\CRS-1 - 复制（分支/标记） - TortoiseSVN   44/3.66分钟       二  ：输入日志信息   22/1.83分钟     三  ：D:\00-06\DRB-PRESS - 版本库浏览器 - TortoiseSVN   15/1.25分钟
+2020-08-13 14:00:02-- 14:15:03     :    一  ：D:\00-18\CRS-1\Project\ke18_rtt.uvprojx - μVision   62/5.16分钟       二  ：CRC   20/1.66分钟     三  ：D:\00-18\CRS-1 - 复制（分支/标记） - TortoiseSVN   10/0.83分钟
+2020-08-13 14:15:03-- 14:30:04     :    一  ：D:\00-18\CRS-1\Project\ke18_rtt.uvprojx - μVision   21/1.75分钟       二  ：D:\00-18\CRS-1 - 提交 - TortoiseSVN   15/1.25分钟     三  ：1-aa   15/1.25分钟
+2020-08-13 14:30:04-- 14:45:04     :    一  ：http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K18_MAIN/branches/l - 版本库浏览器 - TortoiseSVN   27/2.25分钟       二  ：00-18   12/1.0分钟     三  ：1-aa   11/0.91分钟
+2020-08-13 14:45:04-- 15:00:04     :    一  ：SeparatorCtrl.c - CRS-MiddleContral - Visual Studio Code [管理员]   54/4.5分钟       二  ：BarCtrl.c - CRS - Visual Studio Code [管理员]   18/1.5分钟     三  ：CRS-MiddleContral   13/1.08分钟
+2020-08-13 15:00:04-- 15:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 15:15:00-- 15:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 15:30:00-- 15:45:00     :    一  ：SeparatorCtrl.c - CRS-MiddleContral - Visual Studio Code [管理员]   159/13.2分钟       二  ：管理员: C:\Windows\system32\cmd.exe   20/1.66分钟     三  ：新建文本文档.exe - 快捷方式   1/0.08分钟
+2020-08-13 15:45:00-- 16:00:00     :    一  ：D:\00-18\CRS-MiddleContral\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   79/6.58分钟       二  ：D:\00-18\CRS-MiddleContral\Applications\ImpellerCtrl\ImpellerCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   35/2.91分钟     三  ：管理员: C:\Windows\system32\cmd.exe   21/1.75分钟
+2020-08-13 16:00:00-- 16:15:00     :    一  ：D:\00-18\CRS-MiddleContral\Applications\ImpellerCtrl\ImpellerCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   160/13.3分钟       二  ：锁屏状态   16/1.33分钟     三  ：D:\00-18\CRS-MiddleContral\Applications\ImpellerCtrl\ImpellerCtrl.c • (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   3/0.25分钟
+2020-08-13 16:15:00-- 16:30:00     :    一  ：D:\00-18\CRS-MiddleContral\Applications\ImpellerCtrl\ImpellerCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   92/7.66分钟       二  ：D:\00-18\CRS-MiddleContral\Applications\ImpellerCtrl\ImpellerCtrl.c • (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   30/2.5分钟     三  ：D:\00-18\CRS-MiddleContral\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   17/1.41分钟
+2020-08-13 16:30:00-- 16:45:00     :    一  ：D:\00-18\CRS-MiddleContral\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   76/6.33分钟       二  ：D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision   44/3.66分钟     三  ：TCR调测工具 V3.36   31/2.58分钟
+2020-08-13 16:45:00-- 17:00:00     :    一  ：D:\00-18\CRS-MiddleContral\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   78/6.5分钟       二  ：D:\00-18\CRS-MiddleContral\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   51/4.25分钟     三  ：D:\00-18\CRS-MiddleContral\Applications\ImpellerCtrl\ImpellerCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   26/2.16分钟
+2020-08-13 17:00:00-- 17:15:01     :    一  ：锁屏状态   108/9.0分钟       二  ：D:\00-18\CRS-MiddleContral\Applications\ImpellerCtrl\ImpellerCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   25/2.08分钟     三  ：D:\00-18\CRS-MiddleContral\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   9/0.75分钟
+2020-08-13 17:15:01-- 17:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 17:30:01-- 17:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 17:45:01-- 18:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 18:00:01-- 18:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 18:15:01-- 18:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 18:30:01-- 18:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 18:45:01-- 19:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 19:00:01-- 19:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 19:15:02-- 19:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 19:30:02-- 19:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 19:45:02-- 20:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 20:00:02-- 20:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 20:15:02-- 20:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 20:30:02-- 20:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 20:45:02-- 21:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 21:00:03-- 21:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 21:15:03-- 21:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 21:30:03-- 21:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 21:45:03-- 22:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 22:00:03-- 22:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 22:15:03-- 22:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 22:30:03-- 22:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 22:45:04-- 23:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 23:00:04-- 23:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 23:15:04-- 23:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-13 23:30:04-- 23:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

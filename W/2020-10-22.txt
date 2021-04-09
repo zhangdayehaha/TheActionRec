@@ -1,0 +1,883 @@
+08:04:38:  ClassLog333.py - [C:\Users\zhangkaifa\AppData\Local\Temp\ClassLog333.py] - ClassLog333.py - PyCharm Community Edition 2017.1.5
+08:06:13:  新建文件夹
+08:06:18:  C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201021170003.log (DRB--) - Sublime Text (UNREGISTERED)
+08:06:23:  C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201021170003.log • (DRB--) - Sublime Text (UNREGISTERED)
+08:06:28:  新建文件夹
+08:06:43:  桌面整理
+08:06:53:  log2.txt - 记事本
+08:06:58:  查找
+08:07:03:  log2.txt - 记事本
+08:07:08:  log0.txt - 记事本
+08:07:18:  查找
+08:07:23:  新建文件夹
+08:07:28:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+08:07:53:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+08:08:08:  新建文件夹
+08:08:13:  *Python 3.7.3 Shell*
+08:08:18:  新建文件夹
+08:08:23:  *Python 3.7.3 Shell*
+08:08:48:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+08:08:58:  C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201021170003.log (DRB--) - Sublime Text (UNREGISTERED)
+08:19:28:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+08:19:38:  *Python 3.7.3 Shell*
+08:19:48:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+08:20:13:  SyntaxError
+08:20:18:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+08:20:23:  Save Before Run or Check
+08:20:28:  *Python 3.7.3 Shell*
+08:20:33:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+08:20:53:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+08:21:03:  新建文件夹
+08:21:08:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+08:21:13:  新建文件夹
+08:21:18:  删除多个项目
+08:21:23:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+08:21:48:  新建文件夹
+08:29:53:  00-18
+08:29:58:  本地磁盘 (E:)
+08:30:03:  深圳出差
+08:29:53:  00-18
+08:29:58:  本地磁盘 (E:)
+08:30:03:  深圳出差
+08:30:13:  KE18-ESS
+08:30:18:  新建文本文档.exe - 快捷方式
+08:30:23:  KE18-ESS
+08:30:33:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+08:30:38:  CRS
+08:30:43:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+08:30:48:  KE18-UP
+08:30:53:  CRS
+08:30:58:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+08:31:03:  InstrExe.c - TortoiseMerge
+08:31:08:  D:\CRS\KE18-UP - 日志信息 - TortoiseSVN
+08:31:23:  KE18-UP
+08:31:28:  Update.c - TortoiseMerge
+08:31:48:  ImpellerCtrl.c - TortoiseMerge
+08:31:58:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+08:32:03:  TortoiseSVN
+08:32:08:  CRS
+08:32:13:  5555
+08:32:18:  D:\CRS\5555 - 更新 - TortoiseSVN
+08:32:23:  CRS
+08:32:43:  01-KE18
+08:32:48:  新建文件夹
+08:32:53:  D:\01-KE18\新建文件夹 - 日志信息 - TortoiseSVN
+08:32:58:  01-KE18
+08:33:03:  D:\01-KE18 - 日志信息 - TortoiseSVN
+08:33:08:  CRS
+08:33:18:  KE18-UP
+08:33:23:  确认文件夹替换
+08:33:28:  文件访问被拒绝
+08:33:33:  正在复制 2,190 个项目(144 MB)
+08:33:43:  剩余 5 秒
+08:33:48:  剩余 10 秒
+08:33:53:  5555
+08:34:03:  AdapterCtrl.c - TortoiseMerge
+08:34:08:  TortoiseSVN
+08:34:13:  Init.c - TortoiseMerge
+08:34:33:  InstrExe.c - TortoiseMerge
+08:35:28:  InstrExe.h - TortoiseMerge
+08:35:33:  InstrExp.c - TortoiseMerge
+08:35:43:  D:\CRS\5555 - 工作副本 - TortoiseSVN
+08:35:48:  PlateCtrl.c - TortoiseMerge
+08:36:28:  TortoiseMerge
+08:36:33:  PPCtrl.c - TortoiseMerge
+08:36:38:  SensorCheck.c - TortoiseMerge
+08:36:43:  D:\CRS\5555 - 工作副本 - TortoiseSVN
+08:37:03:  Update.c - TortoiseMerge
+08:37:23:  D:\CRS\5555 - 工作副本 - TortoiseSVN
+08:37:28:  Update.h - TortoiseMerge
+08:37:48:  Update.c - TortoiseMerge
+08:37:58:  本地磁盘 (D:)
+08:38:03:  KE18-UP
+08:38:08:  Update.c - TortoiseMerge
+08:38:13:  荆文波
+08:38:18:  张健4
+08:38:23:  历史记录管理器
+08:38:28:  张健4
+08:38:33:  Update.c - TortoiseMerge
+08:38:48:  KE18-UP
+08:38:53:  工作副本
+08:38:58:  Update.c - TortoiseMerge
+08:39:03:  Update.h - TortoiseMerge
+08:43:23:  5555
+08:43:43:  D:\CRS\5555 - 工作副本 - TortoiseSVN
+08:43:48:  InstrExe.c - TortoiseMerge
+08:43:53:  InstrExe.h - TortoiseMerge
+08:43:58:  InstrExp.c - TortoiseMerge
+08:44:03:  Update.c - TortoiseMerge
+08:44:23:  D:\CRS\5555 - 工作副本 - TortoiseSVN
+08:44:33:  DebugConfig.h - TortoiseMerge
+08:44:38:  TortoiseMerge
+08:44:43:  Project
+08:44:48:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+08:44:23:  D:\CRS\5555 - 工作副本 - TortoiseSVN
+08:44:33:  DebugConfig.h - TortoiseMerge
+08:44:38:  TortoiseMerge
+08:44:43:  Project
+08:44:48:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+08:48:28:  Microsoft Windows
+08:48:48:  新建文件夹
+08:48:58:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+08:49:08:  CRS
+08:49:13:  D:\CRS\KE18-BOOT - 工作副本 - TortoiseSVN
+08:49:18:  Boot.c - TortoiseMerge
+08:49:23:  GpioApp.h - TortoiseMerge
+08:49:28:  D:\CRS\KE18-BOOT - 工作副本 - TortoiseSVN
+08:49:33:  文件补丁  
+08:49:38:  TortoiseMerge
+08:49:43:  startup_MKE18F16.s - TortoiseMerge
+08:49:53:  UpdateInfor.h - TortoiseMerge
+08:49:58:  D:\CRS\KE18-BOOT - 工作副本 - TortoiseSVN
+08:50:03:  Application.c - TortoiseMerge
+08:50:13:  KE18-BOOT
+08:50:18:  Project
+08:50:28:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:51:28:  μVision
+08:51:33:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:51:48:  μVision
+08:51:53:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:52:08:  μVision
+08:52:13:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:52:28:  μVision
+08:52:33:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:52:58:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+08:53:08:  TCR调测工具（研发版）V1.0.0.4
+08:53:13:  打开
+08:53:38:  TCR调测工具（研发版）V1.0.0.4
+08:53:58:  打开
+08:54:03:  TCR调测工具（研发版）V1.0.0.4
+08:54:23:  CRS
+08:54:28:  Windows 资源管理器
+08:54:33:  G
+08:54:38:  正在复制 
+08:54:43:  正在复制 669 个项目(52.1 MB)
+08:54:48:  剩余 15 分钟
+08:55:48:  KE18-BOOT
+09:07:58:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:10:33:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010220909.log
+09:10:43:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:13:28:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010220913.log
+09:13:33:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:14:58:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010220913.log
+09:15:03:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:14:58:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010220913.log
+09:15:03:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:15:48:  工作副本
+09:15:58:  D:\CRS\5555 - 工作副本 - TortoiseSVN
+09:16:03:  TortoiseMerge
+09:16:08:  D:\CRS\5555 - 工作副本 - TortoiseSVN
+09:16:13:  文件补丁  
+09:16:18:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:35:24:  KE06LOG.bat - 快捷方式 (2)
+09:35:29:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:35:44:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010220913.log
+09:35:49:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010220935.log
+09:35:59:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:47:59:  KE18-BOOT
+09:48:04:  5555
+09:48:14:  D:\CRS\5555 - 提交 - TortoiseSVN
+09:48:19:  InstrExe.c - TortoiseMerge
+09:48:29:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+09:48:39:  D:\CRS\5555 - 提交 - TortoiseSVN
+09:48:49:  Update.h - TortoiseMerge
+09:48:54:  Update.c - TortoiseMerge
+09:49:04:  历史记录
+09:49:09:  D:\CRS\5555 - 提交 - TortoiseSVN
+09:50:39:  MemoryConfig.h - TortoiseMerge
+09:50:54:  D:\CRS\5555 - 提交 - TortoiseSVN
+09:50:59:  InstrExp.c - TortoiseMerge
+09:51:04:  InstrExe.h - TortoiseMerge
+09:51:09:  D:\CRS\5555 - 提交 - TortoiseSVN
+09:52:04:  InstrExp.c - TortoiseMerge
+09:52:14:  提交 完成！
+09:52:19:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:52:29:  Tools
+09:52:39:  本地磁盘 (D:)
+09:52:44:  D:\CRS\5555\Tools\CreateJK.exe
+09:52:59:  Tools
+09:53:14:  本地磁盘 (D:)
+09:53:59:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:54:24:  Toolbox
+09:54:29:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:09:49:  新标签页 - Google Chrome
+10:09:54:  本地磁盘 (D:)
+10:09:59:  钞箱1T2集成测试方案
+10:10:09:  5.19 压钞托板测试.xls  [兼容模式] - Excel
+10:10:14:  锁屏状态
+10:10:24:  正在打开 - Excel
+10:10:29:  5.6 步进电机测试V1.1.xls  [兼容模式] - Excel
+10:13:34:  钞箱1T2集成测试方案
+10:13:39:  正在打开 - Excel
+10:13:44:  5.6 步进电机测试V1.1.xls  [兼容模式] - Excel
+10:13:49:  钞箱1T2集成测试方案
+10:15:19:  本地磁盘 (D:)
+10:15:24:  删除多个项目
+10:15:29:  爆仓问题(1)
+10:15:34:  10元1元混合面额大额存款第217张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X894602B6
+10:15:39:  Decode
+10:16:09:  K64_BTCR-1100200600510420_20201022082652
+10:16:14:  Box_4__BTCR-1100200600510420_20201022082652.log - [No filter file] - TextAnalysisTool.NET
+10:16:19:  打开
+10:16:24:  Box_4__BTCR-1100200600510420_20201022082652.log - DRB.tat - TextAnalysisTool.NET
+10:19:04:  荆文波
+10:19:24:  Box_4__BTCR-1100200600510420_20201022082652.log - DRB.tat - TextAnalysisTool.NET
+10:19:29:  荆文波
+10:20:59:  Box_4__BTCR-1100200600510420_20201022082652.log - DRB.tat - TextAnalysisTool.NET
+10:21:04:  K64_BTCR-1100200600510420_20201022082652
+10:21:44:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:28:04:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010221027.log
+10:32:24:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:35:34:  V1.003
+10:35:39:  TCR调测工具 V3.36
+10:36:34:  钞箱配置
+10:36:49:  取款
+10:36:54:  TCR调测工具 V3.36
+10:37:29:  取款
+10:37:34:  TCR调测工具 V3.36
+10:39:09:  通道电机测试
+10:39:14:  TCR调测工具 V3.36
+10:39:19:  TCR调测工具（研发版）V1.0.0.4
+10:39:24:  通道电机测试
+10:39:39:  TCR调测工具 V3.36
+10:42:24:  发送指令到K06
+10:42:29:  TCR调测工具 V3.36
+10:42:34:  打开
+10:42:49:  TCR调测工具 V3.36
+10:49:14:  未命名 - 写邮件
+10:49:24:  K64_BTCR-1100200600510420_20201022082652
+10:49:29:  DRB--
+10:49:34:  本地磁盘 (D:)
+10:49:39:  Tools
+10:49:44:  未命名 - 写邮件
+10:49:49:  Tools
+10:50:04:  BNE-R1200M_CS_KE18_FV1000_EXTFEDAD1V10_MAIN_T00 - 写邮件
+10:55:34:  TCR调测工具 V3.36
+10:55:39:  TCR调测工具（研发版）V1.0.0.4
+10:55:54:  打开
+10:56:14:  BTCRTestTool
+10:56:24:  TCR调测工具（研发版）V1.0.0.4
+10:56:39:  锁屏状态
+10:56:44:  TCR调测工具（研发版）V1.0.0.4
+10:57:04:  BTCRTestTool
+10:57:24:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:58:14:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+10:58:34:  TCR调测工具（研发版）V1.0.0.4
+10:58:39:  打开
+10:58:44:  TCR调测工具（研发版）V1.0.0.4
+10:58:14:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+10:58:34:  TCR调测工具（研发版）V1.0.0.4
+10:58:39:  打开
+10:58:44:  TCR调测工具（研发版）V1.0.0.4
+11:00:49:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:01:54:  本地磁盘 (D:)
+11:01:59:  5555
+11:02:04:  D:\CRS\5555 - 工作副本 - TortoiseSVN
+11:02:09:  D:\CRS\5555 - 日志信息 - TortoiseSVN
+11:02:19:  InstrExe.c Revision 584 - TortoiseMerge
+11:02:34:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:02:39:  InstrExe.c Revision 584 - TortoiseMerge
+11:02:49:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:02:54:  D:\CRS\5555 - 日志信息 - TortoiseSVN
+11:03:04:  InstrExp.h Revision 584 - TortoiseMerge
+11:03:29:  D:\CRS\5555 - 日志信息 - TortoiseSVN
+11:03:39:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:03:44:  D:\CRS\5555 - 日志信息 - TortoiseSVN
+11:03:49:  InstrExp.h Revision 584 - TortoiseMerge
+11:03:54:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:04:14:  Cortex JLink/JTrace Target Driver Setup
+11:04:24:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:04:29:  TCR调测工具（研发版）V1.0.0.4
+11:04:44:  BTCRTestTool
+11:04:54:  TCR调测工具（研发版）V1.0.0.4
+11:05:04:  打开
+11:05:19:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+11:05:24:  InstrExp.h Revision 584 - TortoiseMerge
+11:05:34:  5555
+11:05:44:  历史记录
+11:05:49:  D:\CRS\5555 - 提交 - TortoiseSVN
+11:05:59:  张健4
+11:06:09:  TCR调测工具（研发版）V1.0.0.4
+11:06:24:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:07:04:  TCR调测工具（研发版）V1.0.0.4
+11:07:09:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:07:19:  5555
+11:07:24:  TCR调测工具（研发版）V1.0.0.4
+11:07:39:  Tools
+11:10:04:  CRS
+11:10:09:  G
+11:10:14:  正在复制 1,927 个项目(144 MB)
+11:10:19:  正在复制 2,671 个项目(163 MB)
+11:10:24:  剩余 5 分钟 30 秒
+11:10:54:  文件访问被拒绝
+11:11:09:  剩余 4 分钟
+11:11:54:  剩余 2 分钟 15 秒
+11:12:14:  剩余 60 秒
+11:12:29:  剩余 45 秒
+11:12:44:  剩余 60 秒
+11:13:04:  剩余 45 秒
+11:13:14:  G
+11:15:45:  Program Manager
+11:15:50:  ARM - Everything
+11:15:55:  ARM.CM - Everything
+11:16:00:  ARM.CMSIS. - Everything
+11:16:05:  G
+11:16:10:  正在复制 1 个项目(106 MB)
+11:16:15:  DFP - Everything
+11:16:20:  DFP.1 - Everything
+11:16:30:  剩余 5 秒
+11:16:35:  正在复制 1 个项目(88.9 MB)
+11:16:45:  G
+11:27:55:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:28:35:  TCR调测工具（研发版）V1.0.0.4
+11:29:00:  传感器AD值测试
+11:29:05:  TCR调测工具（研发版）V1.0.0.4
+11:28:35:  TCR调测工具（研发版）V1.0.0.4
+11:29:00:  传感器AD值测试
+11:29:05:  TCR调测工具（研发版）V1.0.0.4
+11:31:05:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:39:00:  本地磁盘 (D:)
+11:39:05:  D:\CRS\5555 - 日志信息 - TortoiseSVN
+11:39:15:  InstrExp.h Revision 584 - TortoiseMerge
+11:39:30:  InstrExp.c Revision 584 - TortoiseMerge
+11:39:35:  D:\CRS\5555 - 日志信息 - TortoiseSVN
+11:39:45:  InstrExe.c Revision 584 - TortoiseMerge
+11:39:50:  Init.c Revision 584 - TortoiseMerge
+11:39:55:  锁屏状态
+11:40:00:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:40:35:  锁屏状态
+13:07:11:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+13:07:16:  G
+13:07:26:  D:\CRS\5555 - 日志信息 - TortoiseSVN
+13:07:36:  5555
+13:08:56:  eSpace
+13:09:06:  锁屏状态
+13:09:21:  新标签页 - Google Chrome
+13:09:46:  自动播放
+13:18:36:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+13:23:41:  TCR调测工具 V3.36
+13:23:56:  打开
+13:24:01:  TCR调测工具 V3.36
+13:24:51:  钞箱配置
+13:25:01:  取款
+13:25:11:  TCR调测工具 V3.36
+13:25:46:  00-06
+13:25:56:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:26:26:  DRB--
+13:26:31:  D:\00-06\DRB--\Tools\CreateJK.exe
+13:26:36:  打开
+13:26:41:  TCR调测工具 V3.36
+13:28:31:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:28:31:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:30:06:  D:\00-06\DRB--\Tools\CreateJK.exe
+13:30:11:  打开
+13:30:16:  TCR调测工具 V3.36
+13:30:56:  取款
+13:31:01:  TCR调测工具 V3.36
+13:32:16:  eSpace
+13:32:21:  TCR调测工具 V3.36
+13:32:31:  取款
+13:32:36:  TCR调测工具 V3.36
+13:32:56:  跳转列表
+13:33:01:  log
+13:33:06:  20201022
+13:33:16:  LOG
+13:33:26:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:33:31:  开发，DRB最快速度是否可以匹配到12.5张/秒的速度要求？
+13:34:41:  Fw: 开发，DRB最快速度是否可以匹配到12.5张/秒的速度要求？ - 写邮件
+13:35:26:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:35:31:  锁屏状态
+13:35:36:  D:\00-06\DRB--\Tools\CreateJK.exe
+13:35:41:  TCR调测工具 V3.36
+13:36:31:  计算器
+13:36:56:  取款
+13:37:01:  TCR调测工具 V3.36
+13:37:36:  Windows 资源管理器
+13:37:41:  20201022
+13:37:46:  Decode
+13:37:51:  K64_BTCR-1100190803000_20201022133700
+13:37:56:  Box_1__BTCR-1100190803000_20201022133700.log - DRB.tat - TextAnalysisTool.NET
+13:40:56:  TCR调测工具 V3.36
+13:41:31:  取款
+13:41:36:  TCR调测工具 V3.36
+13:43:41:  本地磁盘 (D:)
+13:43:46:  Tools
+13:43:51:  44
+13:43:56:  LogHandle.c - TortoiseMerge
+13:44:06:  44
+13:44:11:  未命名 - 写邮件
+13:44:16:  发送邮件
+13:44:06:  44
+13:44:11:  未命名 - 写邮件
+13:44:16:  发送邮件
+13:48:11:  Tools
+13:48:16:  新建文件夹
+13:48:26:  C:\Windows\py.exe
+13:48:36:  新建文件夹
+13:48:46:  C:\Windows\py.exe
+13:48:51:  log0.txt - 记事本
+13:48:56:  Decode
+13:49:41:  log1.txt - 记事本
+13:49:46:  新建文件夹
+13:49:51:  Decode
+13:50:16:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+13:50:21:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+13:51:06:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+13:51:16:  Save Before Run or Check
+13:51:21:  log2.txt - 记事本
+13:51:26:  Decode
+13:51:51:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+13:52:31:  *Python 3.7.3 Shell*
+13:52:36:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+13:52:46:  Decode
+13:52:51:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+13:54:01:  *Python 3.7.3 Shell*
+13:54:06:  log2.txt - 记事本
+13:54:16:  log0.txt - 记事本
+13:54:26:  log1.txt - 记事本
+13:54:51:  log2.txt - 记事本
+13:55:21:  log1.txt - 记事本
+13:55:31:  Decode
+13:55:36:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+13:56:31:  *Python 3.7.3 Shell*
+13:56:36:  Decode
+13:56:46:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+13:56:56:  log0.txt - 记事本
+13:57:01:  Decode
+13:57:06:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+13:57:31:  log2.txt - 记事本
+13:57:36:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+13:58:06:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+13:58:11:  *Python 3.7.3 Shell*
+13:58:16:  log2.txt - 记事本
+13:59:21:  Decode
+13:59:31:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+13:59:36:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+13:59:46:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+13:59:51:  Save Before Run or Check
+13:59:56:  *Python 3.7.3 Shell*
+14:00:01:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+13:58:06:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+13:58:11:  *Python 3.7.3 Shell*
+13:58:16:  log2.txt - 记事本
+13:59:21:  Decode
+13:59:31:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+13:59:36:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+13:59:46:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+13:59:51:  Save Before Run or Check
+13:59:56:  *Python 3.7.3 Shell*
+14:00:01:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:00:06:  *Python 3.7.3 Shell*
+14:00:16:  Kill?
+14:00:21:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:00:26:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:00:31:  *Python 3.7.3 Shell*
+14:00:36:  Expand huge output?
+14:00:41:  Kill?
+14:00:46:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:00:56:  *Python 3.7.3 Shell*
+14:01:11:  Expand huge output?
+14:01:16:  *Python 3.7.3 Shell*
+14:03:11:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:03:16:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:03:41:  *Python 3.7.3 Shell*
+14:03:56:  C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\log2.txt (DRB--) - Sublime Text (UNREGISTERED)
+14:04:06:  D:\00-06\DRB--\Applications\PaperManage\PaperManage.c (DRB--) - Sublime Text (UNREGISTERED)
+14:04:11:  *Python 3.7.3 Shell*
+14:04:36:  Python 3.7.3 Shell
+14:05:11:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:05:21:  log0.txt - 记事本
+14:05:26:  Python 3.7.3 Shell
+14:06:12:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:06:47:  *Python 3.7.3 Shell*
+14:07:47:  Python 3.7.3 Shell
+14:10:02:  Decode
+14:10:07:  K18_0000_20201022134558.log - [No filter file] - TextAnalysisTool.NET
+14:10:57:  Decode
+14:11:02:  Python 3.7.3 Shell
+14:11:42:  LOG
+14:11:57:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:12:52:  Python 3.7.3 Shell
+14:12:57:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:13:12:  Python 3.7.3 Shell
+14:13:22:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:13:27:  Save Before Run or Check
+14:13:32:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:13:37:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:13:42:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:13:47:  Python 3.7.3 Shell
+14:13:52:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:13:57:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:14:02:  Python 3.7.3 Shell
+14:14:12:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:14:32:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:14:47:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:14:52:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:14:12:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:14:32:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:14:47:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:14:52:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:15:07:  开始
+14:15:12:  网易有道词典
+14:15:32:  Python 3.7.3 Shell
+14:15:37:  Save Before Run or Check
+14:15:42:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:15:47:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:15:52:  Python 3.7.3 Shell
+14:15:57:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:16:02:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:16:07:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:16:12:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:16:17:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:16:22:  Python 3.7.3 Shell
+14:16:27:  SyntaxError
+14:16:32:  Python 3.7.3 Shell
+14:16:37:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:16:42:  Python 3.7.3 Shell
+14:16:47:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:16:52:  Python 3.7.3 Shell
+14:16:57:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:17:02:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:17:22:  Python 3.7.3 Shell
+14:17:27:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:17:32:  Python 3.7.3 Shell
+14:17:37:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:17:42:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:17:47:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:17:52:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:17:57:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:18:12:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:18:32:  Python 3.7.3 Shell
+14:18:37:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:18:52:  Python 3.7.3 Shell
+14:19:22:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:20:12:  Python 3.7.3 Shell
+14:20:17:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:20:22:  Python 3.7.3 Shell
+14:20:27:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:20:32:  Python 3.7.3 Shell
+14:20:42:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:20:47:  *Python 3.7.3 Shell*
+14:20:52:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:20:57:  *Python 3.7.3 Shell*
+14:21:02:  Decode
+14:21:17:  TCR小组
+14:21:52:  *Python 3.7.3 Shell*
+14:21:57:  log2.txt - 记事本
+14:22:02:  Decode
+14:22:07:  log2.txt - 记事本
+14:22:12:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:22:17:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:25:17:  Save Before Run or Check
+14:25:22:  *Python 3.7.3 Shell*
+14:25:27:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:25:32:  log2.txt - 记事本
+14:25:47:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:25:52:  log2.txt - 记事本
+14:26:12:  log1.txt - 记事本
+14:26:17:  log2.txt - 记事本
+14:26:47:  log1.txt - 记事本
+14:26:52:  K18_0000_20201022134558.log - [No filter file] - TextAnalysisTool.NET
+14:26:57:  Decode
+14:27:02:  K18_0000_20201022134558.log - [No filter file] - TextAnalysisTool.NET
+14:27:22:  log2.txt - 记事本
+14:30:07:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:30:32:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:30:37:  *Python 3.7.3 Shell*
+14:32:42:  新建文本文档.exe - 快捷方式
+14:32:47:  新标签页 - Google Chrome
+14:32:52:  *Python 3.7.3 Shell*
+14:32:57:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:33:02:  新标签页 - Google Chrome
+14:33:27:  自动播放
+14:33:32:  百度一下，你就知道 - Google Chrome
+14:33:37:  python return_百度搜索 - Google Chrome
+14:33:42:  Python replace()方法 | 菜鸟教程 - Google Chrome
+14:34:07:  python replace函数_百度搜索 - Google Chrome
+14:34:12:  python 删除字符_百度搜索 - Google Chrome
+14:34:17:  Python字符串中删除特定字符 - 土堆碎念 - 博客园 - Google Chrome
+14:34:52:  自动播放
+14:35:02:  Python字符串中删除特定字符 - 土堆碎念 - 博客园 - Google Chrome
+14:35:32:  python删除字符串中的指定字符_百度搜索 - Google Chrome
+14:35:42:  python删除字符串 改变原有_百度搜索 - Google Chrome
+14:35:47:  Python字符串中删除特定字符 - 土堆碎念 - 博客园 - Google Chrome
+14:36:12:  自动播放
+14:36:18:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:36:23:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:37:23:  Python 3.7.3 Shell
+14:37:53:  Python字符串中删除特定字符 - 土堆碎念 - 博客园 - Google Chrome
+14:37:58:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:38:03:  Python 3.7.3 Shell
+14:38:18:  网易有道词典
+14:38:23:  Python 3.7.3 Shell
+14:38:43:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:38:48:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:38:58:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:39:03:  Python 3.7.3 Shell
+14:39:08:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:39:33:  Python 3.7.3 Shell
+14:39:38:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:39:43:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:39:53:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:39:58:  Python 3.7.3 Shell
+14:40:03:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:40:18:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:40:28:  Python 3.7.3 Shell
+14:40:33:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:40:38:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:40:43:  Python 3.7.3 Shell
+14:40:58:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:41:03:  *新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)*
+14:41:08:  Python 3.7.3 Shell
+14:41:13:  新建文本文档.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\LOG\新建文本文档.py (3.7.3)
+14:41:28:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:41:43:  *Python 3.7.3 Shell*
+14:42:08:  Kill?
+14:42:13:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:42:18:  Kill?
+14:42:23:  log2.txt - 记事本
+14:42:28:  log0.txt - 记事本
+14:42:33:  log2.txt - 记事本
+14:42:38:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:42:58:  Python 3.7.3 Shell
+14:43:03:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:43:08:  记事本
+14:43:14:  Decode
+14:43:19:  CashBoxDareV2.3.py - C:\Users\zhangkaifa\Desktop\CashBoxDareV2.3.py (3.7.3)
+14:43:29:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:43:39:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:45:39:  *Python 3.7.3 Shell*
+14:45:44:  删除多个项目
+14:45:49:  Decode
+14:45:54:  Kill?
+14:45:59:  Decode
+14:46:04:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:46:09:  删除文件夹
+14:46:14:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:46:49:  *Python 3.7.3 Shell*
+14:46:54:  Kill?
+14:46:59:  Decode
+14:47:14:  KE18
+14:47:19:  Kill?
+14:47:24:  KE18
+14:47:29:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:47:44:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:48:09:  python删除字符串 改变原有_百度搜索 - Google Chrome
+14:48:14:  python删除空格_百度搜索 - Google Chrome
+14:48:19:  Python中常见字符串去除空格的方法总结 - 清单范 - 博客园 - Google Chrome
+14:48:24:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:48:29:  Python中常见字符串去除空格的方法总结 - 清单范 - 博客园 - Google Chrome
+14:48:34:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:48:54:  删除多个项目
+14:48:59:  *Python 3.7.3 Shell*
+14:49:04:  Decode
+14:49:14:  KE18
+14:49:34:  44
+14:49:39:  LogHandle.c - TortoiseMerge
+14:52:14:  新建文件夹
+14:52:19:  KE18
+14:52:24:  Decode
+14:52:29:  管理员: C:\Windows\system32\cmd.exe
+14:52:44:  python删除空格字符串_百度搜索 - Google Chrome
+14:52:49:  python打包命令 - spotfg - 博客园 - Google Chrome
+14:52:54:  Python打包方法——Pyinstaller (转) - 中国人醒来了 - 博客园 - Google Chrome
+14:53:04:  管理员: C:\Windows\system32\cmd.exe
+14:53:09:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F ClassLog333.py
+14:53:24:  锁屏状态
+14:53:29:  Decode
+14:53:34:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:53:49:  Kill?
+14:53:54:  Decode
+14:54:04:  ClassLog333 - 写邮件
+14:54:09:  发送邮件
+14:55:29:  Decode
+14:55:34:  ESC_0000_20201022134558.log - [No filter file] - TextAnalysisTool.NET
+14:55:39:  KE18
+14:55:44:  CS_0000_20201022134558.log - [No filter file] - TextAnalysisTool.NET
+14:55:59:  K64_BTCR-1100190803000_20201022133700
+14:56:04:  Tools
+14:56:14:  本地磁盘 (D:)
+14:59:14:  F0656
+14:59:34:  Windows 任务管理器
+14:59:54:  CRS
+14:59:59:  Tools
+15:00:04:  KE18-UP
+14:59:14:  F0656
+14:59:34:  Windows 任务管理器
+14:59:54:  CRS
+14:59:59:  Tools
+15:00:04:  KE18-UP
+15:00:09:  doc
+15:00:14:  KE18-UP
+15:00:34:  Decode
+15:00:39:  CS_0000_20201022134558.log - [No filter file] - TextAnalysisTool.NET
+15:10:09:  「开始」菜单
+15:10:19:  CS_0000_20201022134558.log - [No filter file] - TextAnalysisTool.NET
+15:10:34:  新建文本文档.exe - 快捷方式
+15:10:39:  程明昌
+15:10:49:  CS_0000_20201022134558.log - [No filter file] - TextAnalysisTool.NET
+15:11:19:  程明昌
+15:11:49:  CS_0000_20201022134558.log - [No filter file] - TextAnalysisTool.NET
+15:21:29:  eSpace
+15:29:39:  取款
+15:29:44:  TCR调测工具 V3.36
+15:29:39:  取款
+15:29:44:  TCR调测工具 V3.36
+15:30:34:  取款
+15:30:39:  TCR调测工具 V3.36
+15:32:04:  取款
+15:32:09:  TCR调测工具 V3.36
+15:32:39:  取款
+15:32:44:  TCR调测工具 V3.36
+15:33:34:  BTCRTestTool 属性
+15:33:39:  log
+15:33:44:  20201022
+15:33:59:  Decode
+15:34:04:  LOG
+15:34:09:  K64_BTCR-1100190803000_20201022153241
+15:34:14:  打开
+15:34:19:  Box_1__BTCR-1100190803000_20201022153241.log - DRB.tat - TextAnalysisTool.NET
+15:35:24:  Decode
+15:35:29:  20201022
+15:35:34:  Box_1__BTCR-1100190803000_20201022153241.log - DRB.tat - TextAnalysisTool.NET
+15:35:44:  Add Filter
+15:35:49:  Box_1__BTCR-1100190803000_20201022153241.log - DRB.tat* - TextAnalysisTool.NET
+15:36:39:  20201022
+15:36:44:  下腔5元普通取款第48张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X094601B5
+15:36:49:  LOG
+15:36:54:  Decode
+15:36:59:  20201022
+15:37:04:  Decode
+15:37:09:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:37:29:  Decode
+15:37:34:  K64_BTCR-1100200600510420_20201022135948
+15:37:39:  Box_4__BTCR-1100200600510420_20201022135948.log - DRB.tat* - TextAnalysisTool.NET
+15:38:14:  TCR调测工具 V3.36
+15:39:19:  取款
+15:39:24:  TCR调测工具 V3.36
+15:40:14:  荆文波
+15:40:19:  Box_4__BTCR-1100200600510420_20201022135948.log - DRB.tat* - TextAnalysisTool.NET
+15:40:39:  荆文波
+15:40:54:  Box_4__BTCR-1100200600510420_20201022135948.log - DRB.tat* - TextAnalysisTool.NET
+15:41:49:  荆文波
+15:43:09:  Box_4__BTCR-1100200600510420_20201022135948.log - DRB.tat* - TextAnalysisTool.NET
+15:43:39:  荆文波
+15:43:49:  TCR调测工具 V3.36
+15:44:14:  跳转列表
+15:44:19:  TCR调测工具 V3.36
+15:44:24:  取款
+15:44:29:  TCR调测工具 V3.36
+15:44:14:  跳转列表
+15:44:19:  TCR调测工具 V3.36
+15:44:24:  取款
+15:44:29:  TCR调测工具 V3.36
+15:46:14:  发送指令到K06
+15:46:29:  TCR调测工具 V3.36
+15:46:44:  发送指令到K06
+15:46:49:  TCR调测工具 V3.36
+15:47:24:  托板控制
+15:47:44:  TCR调测工具 V3.36
+15:50:24:  荆文波
+15:50:39:  TCR调测工具 V3.36
+15:50:49:  荆文波
+15:51:09:  TCR调测工具 V3.36
+15:52:54:  荆文波
+15:53:04:  TCR调测工具 V3.36
+15:54:19:  取款
+15:54:29:  TCR调测工具 V3.36
+15:55:19:  荆文波
+16:06:19:  K64_BTCR-1100200600510420_20201022135948
+16:06:24:  荆文波
+16:09:49:  K64_BTCR-1100200600510420_20201022135948
+16:10:34:  Box_4__BTCR-1100200600510420_20201022135948.log - DRB.tat* - TextAnalysisTool.NET
+16:22:40:  TCR调测工具 V3.36
+16:23:10:  可接收
+16:23:15:  取款
+16:23:25:  TCR调测工具 V3.36
+16:23:55:  K64_BTCR-1100200600510420_20201022135948
+16:24:00:  TCRControlCmdDLL
+16:24:05:  20201022
+16:24:20:  K64_BTCR-1100190803000_20201022162321
+16:24:25:  Box_1__BTCR-1100190803000_20201022162321.log - DRB.tat* - TextAnalysisTool.NET
+16:25:50:  K64_BTCR-1100190803000_20201022162321
+16:26:15:  跳转列表
+16:26:20:  Box_1__BTCR-1100190803000_20201022162321.log - DRB.tat* - TextAnalysisTool.NET
+16:27:05:  「开始」菜单
+16:27:10:  计算器
+16:27:25:  Box_1__BTCR-1100190803000_20201022162321.log - DRB.tat* - TextAnalysisTool.NET
+16:28:05:  K64_BTCR-1100190803000_20201022162321
+16:28:20:  正在打开 - Excel
+16:28:25:  TheDateInfo.xls  [兼容模式] - Excel
+16:28:50:  计算器
+16:29:00:  Box_1__BTCR-1100190803000_20201022162321.log - DRB.tat* - TextAnalysisTool.NET
+16:29:15:  计算器
+16:29:25:  Box_1__BTCR-1100190803000_20201022162321.log - DRB.tat* - TextAnalysisTool.NET
+16:29:30:  计算器
+16:29:35:  Box_1__BTCR-1100190803000_20201022162321.log - DRB.tat* - TextAnalysisTool.NET
+16:28:05:  K64_BTCR-1100190803000_20201022162321
+16:28:20:  正在打开 - Excel
+16:28:25:  TheDateInfo.xls  [兼容模式] - Excel
+16:28:50:  计算器
+16:29:00:  Box_1__BTCR-1100190803000_20201022162321.log - DRB.tat* - TextAnalysisTool.NET
+16:29:15:  计算器
+16:29:25:  Box_1__BTCR-1100190803000_20201022162321.log - DRB.tat* - TextAnalysisTool.NET
+16:29:30:  计算器
+16:29:35:  Box_1__BTCR-1100190803000_20201022162321.log - DRB.tat* - TextAnalysisTool.NET
+16:30:30:  D:\00-KE64\10\Middlewares\DigitLed\DigitLed.c (10) - Sublime Text (UNREGISTERED)
+16:30:35:  计算器
+16:30:45:  Box_1__BTCR-1100190803000_20201022162321.log - DRB.tat* - TextAnalysisTool.NET
+16:30:55:  TCR调测工具 V3.36
+16:33:30:  取款
+16:33:35:  TCR调测工具 V3.36
+16:35:05:  取款
+16:35:45:  跳转列表
+16:35:50:  TCRControlCmdDLL
+16:35:55:  回收
+16:36:00:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:36:05:  Box_1__BTCR-1100190803000_20201022163332.log - DRB.tat* - TextAnalysisTool.NET
+16:43:15:  取款
+16:43:20:  TCR调测工具 V3.36
+16:45:10:  取款
+16:45:15:  TCR调测工具 V3.36
+16:46:50:  取款
+16:46:55:  TCR调测工具 V3.36
+17:01:45:  Box_1__BTCR-1100190803000_20201022163332.log - DRB.tat* - TextAnalysisTool.NET
+17:01:50:  TheDateInfo.xls  [兼容模式] - Excel
+17:02:05:  44
+17:02:15:  本地磁盘 (D:)
+17:02:25:  跳转列表
+17:02:30:  KE18-UP
+17:02:45:  新标签页 - Google Chrome
+17:02:55:  百度一下，你就知道 - Google Chrome
+17:03:10:  https://www.baidu.com/link?url=Ev9eObOhSG-gES_REE0hAuAfw9wuE8j0Lyc_9pPt1d5mqildoWS1a6liBSN9IYDzUGr2-a9UwC-ZfLITwjIPlGSzZ8IzbP4jS_67cnEPX7a&wd=&eqid=eae3fa8e0003d7b7000000025f914ac8 - Google Chrome
+17:03:15:  (99+ 封私信 / 80 条消息) 在电脑上可以使用什么软件写C语言？ - 知乎 - Google Chrome
+17:03:20:  用什么写C程序_百度搜索 - Google Chrome
+17:03:25:  Visual C++ 6.0 生成EXE_百度搜索 - Google Chrome
+17:03:35:  Visual C++ 6.0_百度搜索 - Google Chrome
+17:04:15:  锁屏状态
+17:24:00:  Visual C++ 6.0_百度搜索 - Google Chrome
+17:24:10:  DFP.1.4 - Everything
+17:24:15:  visu - Everything
+17:24:20:  visual.c - Everything
+17:24:25:  My Code Snippets
+17:24:30:  Visual C++ 6.0_百度搜索 - Google Chrome
+17:46:05:  D:\00-KE64\10\Middlewares\DigitLed\DigitLed.c (10) - Sublime Text (UNREGISTERED)
+17:46:25:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+17:47:10:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+17:47:20:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+17:47:30:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+17:47:35:  本地磁盘 (D:)
+17:47:40:  Project
+17:47:45:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+17:49:25:  Tools
+17:50:40:  TCR调测工具 V3.36
+17:51:00:  打开
+17:51:05:  TCR调测工具 V3.36
+17:51:25:  BTCRTestTool
+17:51:55:  TCR调测工具 V3.36
+17:52:00:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+17:52:05:  D:\00-KE64\10\Applications\FunctionApp\EepHisApp\EepromConfig.h (10) - Sublime Text (UNREGISTERED)
+17:52:15:  D:\00-KE64\10\Applications\Initialization\Initial.c (10) - Sublime Text (UNREGISTERED)
+17:52:25:  D:\00-KE64\10\Applications\FlowControl\FlowControl.c (10) - Sublime Text (UNREGISTERED)
+17:52:30:  读写ERROM
+17:52:45:  D:\00-KE64\10\Applications\FunctionApp\EepHisApp\EepromConfig.h (10) - Sublime Text (UNREGISTERED)

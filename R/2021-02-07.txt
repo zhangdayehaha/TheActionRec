@@ -1,0 +1,69 @@
+2021-02-06 23:45:00-- 00:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 00:00:00-- 00:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 00:15:00-- 00:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 00:30:00-- 00:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 00:45:01-- 01:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 01:00:01-- 01:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 01:15:01-- 01:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 01:30:01-- 01:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 01:45:01-- 02:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 02:00:01-- 02:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 02:15:01-- 02:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 02:30:02-- 02:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 02:45:02-- 03:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 03:00:02-- 03:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 03:15:02-- 03:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 03:30:02-- 03:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 03:45:02-- 04:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 04:00:03-- 04:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 04:15:03-- 04:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 04:30:03-- 04:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 04:45:03-- 05:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 05:00:03-- 05:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 05:15:03-- 05:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 05:30:03-- 05:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 05:45:04-- 06:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 06:00:04-- 06:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 06:15:04-- 06:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 06:30:04-- 06:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 06:45:04-- 07:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 07:00:04-- 07:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 07:15:00-- 07:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 07:30:00-- 07:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 07:45:00-- 08:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 08:00:00-- 08:15:00     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)   73/6.08分钟       二  ：D:\00-06\meger\Applications\PlateCtrl\PlateCtrl.c (meger) - Sublime Text (UNREGISTERED)   69/5.75分钟     三  ：锁屏状态   17/1.41分钟
+2021-02-07 08:15:00-- 08:30:00     :    一  ：D:\00-06\meger\Applications\PlateCtrl\PlateCtrl.c (meger) - Sublime Text (UNREGISTERED)   161/13.4分钟       二  ：3-日常 - 张开发 - 印象笔记   4/0.33分钟     三  ：回收站   4/0.33分钟
+2021-02-07 08:30:00-- 08:45:01     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   164/13.6分钟       二  ：eSpace   12/1.0分钟     三  ：设置 - trunk - Visual Studio Code [管理员]   3/0.25分钟
+2021-02-07 08:45:01-- 09:00:01     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   78/6.5分钟       二  ：● PaperManage.c - trunk - Visual Studio Code [管理员]   44/3.66分钟     三  ：计算器   24/2.0分钟
+2021-02-07 09:00:01-- 09:15:01     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   155/12.9分钟       二  ：2021年新北洋张村食堂2.1-2.7日菜谱.xlsx  [受保护的视图] - Excel   6/0.5分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)   6/0.5分钟
+2021-02-07 09:15:01-- 09:30:01     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   111/9.25分钟       二  ：● PaperManage.c - trunk - Visual Studio Code [管理员]   68/5.66分钟     三  ：eSpace   1/0.08分钟
+2021-02-07 09:30:01-- 09:45:01     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   176/14.6分钟       二  ：eSpace   4/0.33分钟     三  ：   0/0.0分钟
+2021-02-07 09:45:01-- 10:00:01     :    一  ：GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)   37/3.08分钟       二  ：PaperManage.c - trunk - Visual Studio Code [管理员]   34/2.83分钟     三  ：计算器   34/2.83分钟
+2021-02-07 10:00:01-- 10:15:02     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   132/11.0分钟       二  ：丛柏屹   10/0.83分钟     三  ：*GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*   8/0.66分钟
+2021-02-07 10:15:02-- 10:30:02     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   114/9.5分钟       二  ：丛柏屹   50/4.16分钟     三  ：吉哲   12/1.0分钟
+2021-02-07 10:30:02-- 10:45:02     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   80/6.66分钟       二  ：吉哲   28/2.33分钟     三  ：.jpg - Everything   16/1.33分钟
+2021-02-07 10:45:02-- 11:00:02     :    一  ：吉哲   71/5.91分钟       二  ：Adobe Photoshop CS3 Extended   44/3.66分钟     三  ：imagefiles   27/2.25分钟
+2021-02-07 11:00:02-- 11:15:02     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   60/5.0分钟       二  ：吉哲   47/3.91分钟     三  ：imagefiles   33/2.75分钟
+2021-02-07 11:15:02-- 11:30:03     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   143/11.9分钟       二  ：● PaperManage.c - trunk - Visual Studio Code [管理员]   19/1.58分钟     三  ：吉哲   8/0.66分钟
+2021-02-07 11:30:03-- 11:45:03     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   86/7.16分钟       二  ：锁屏状态   49/4.08分钟     三  ：D:\00-06\meger\Applications\PlateCtrl\PlateCtrl.c (meger) - Sublime Text (UNREGISTERED)   19/1.58分钟
+2021-02-07 11:45:03-- 12:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 12:00:03-- 12:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 12:15:03-- 12:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 12:30:03-- 12:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 12:45:03-- 13:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-07 13:00:03-- 13:15:04     :    一  ：锁屏状态   133/11.0分钟       二  ：PaperManage.c - trunk - Visual Studio Code [管理员]   47/3.91分钟     三  ：   0/0.0分钟
+2021-02-07 13:15:04-- 13:30:04     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   120/10.0分钟       二  ：● PaperManage.c - trunk - Visual Studio Code [管理员]   31/2.58分钟     三  ：「开始」菜单   26/2.16分钟
+2021-02-07 13:30:04-- 13:45:04     :    一  ：K64-_0000_20210207104234.log - DRB.tat* - TextAnalysisTool.NET   116/9.66分钟       二  ：20180613 TCR内部指令手册_V001.xlsx - Excel   24/2.0分钟     三  ：「开始」菜单   13/1.08分钟
+2021-02-07 13:45:04-- 14:00:04     :    一  ：K64-_0000_20210207104234.log - DRB.tat* - TextAnalysisTool.NET   133/11.0分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   9/0.75分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)   9/0.75分钟
+2021-02-07 14:00:04-- 14:15:04     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)   71/5.91分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c • (trunk) - Sublime Text (UNREGISTERED)   58/4.83分钟     三  ：K64-_0000_20210207104234.log - DRB.tat* - TextAnalysisTool.NET   25/2.08分钟
+2021-02-07 14:15:04-- 14:30:00     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c • (trunk) - Sublime Text (UNREGISTERED)   41/3.41分钟       二  ：吉哲   31/2.58分钟     三  ：imagefiles   24/2.0分钟
+2021-02-07 14:30:00-- 14:45:00     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   61/5.08分钟       二  ：Attach   40/3.33分钟     三  ：● PaperManage.c - trunk - Visual Studio Code [管理员]   38/3.16分钟
+2021-02-07 14:45:00-- 15:00:00     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   157/13.0分钟       二  ：自动播放   22/1.83分钟     三  ：数据抓取工具 - Google Chrome   1/0.08分钟
+2021-02-07 15:00:00-- 15:15:01     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   88/7.33分钟       二  ：● PaperManage.c - trunk - Visual Studio Code [管理员]   54/4.5分钟     三  ：‘以艾草灼龙女额’是什么意思？_百度知道 - Google Chrome   20/1.66分钟
+2021-02-07 15:15:01-- 15:30:01     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   83/6.91分钟       二  ：eSpace   61/5.08分钟     三  ：SensorDriver.c - TortoiseMerge   19/1.58分钟
+2021-02-07 15:30:01-- 15:45:02     :    一  ：D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision   44/3.66分钟       二  ：SensorDriver.c - TortoiseMerge   29/2.41分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   18/1.5分钟
+2021-02-07 15:45:02-- 16:00:02     :    一  ：SensorDriver.c - TortoiseMerge   39/3.25分钟       二  ：DRB   19/1.58分钟     三  ：项目概况 - 禅道 - Google Chrome   18/1.5分钟
+2021-02-07 16:00:02-- 16:15:01     :    一  ：D:\00-06\DRB\Drivers\SensorDriver\SensorDriver.h (DRB) - Sublime Text (UNREGISTERED)   33/2.75分钟       二  ：阎晓文   28/2.33分钟     三  ：吉哲   25/2.08分钟
+2021-02-07 16:15:01-- 16:30:03     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   21/1.75分钟       二  ：12.py - D:\fenxi\12.py (3.7.3)   20/1.66分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c • (trunk) - Sublime Text (UNREGISTERED)   19/1.58分钟
+2021-02-07 16:30:03-- 16:45:03     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)   106/8.83分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c • (trunk) - Sublime Text (UNREGISTERED)   71/5.91分钟     三  ：员工自助 - Internet Explorer   2/0.16分钟
+2021-02-07 16:45:03-- 17:00:03     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)   146/12.1分钟       二  ：TD回复格式.docx [兼容模式] - Word   34/2.83分钟     三  ：   0/0.0分钟

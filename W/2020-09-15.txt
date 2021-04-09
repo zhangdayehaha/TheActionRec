@@ -1,0 +1,1437 @@
+08:09:49:  各位看看各自的考核比是否需要调整，如有问题请今天上午反馈
+08:10:14:  Decode
+08:13:29:  20200914
+08:13:34:  TCRControlCmdDLL
+08:13:44:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:13:49:  TCRControlCmdDLL
+08:13:54:  V1.009
+08:13:59:  20200915
+08:14:04:  TCR调测工具（研发版）V1.0.0.4
+08:14:09:  读写ERROM
+08:14:14:  TCR调测工具（研发版）V1.0.0.4
+08:14:24:  传感器AD值测试
+08:14:29:  TCR调测工具（研发版）V1.0.0.4
+08:14:34:  Project
+08:14:39:  深圳出差
+08:14:44:  传感器AD值测试
+08:14:59:  TCR调测工具（研发版）V1.0.0.4
+08:15:04:  读写ERROM
+08:14:09:  读写ERROM
+08:14:14:  TCR调测工具（研发版）V1.0.0.4
+08:14:24:  传感器AD值测试
+08:14:29:  TCR调测工具（研发版）V1.0.0.4
+08:14:34:  Project
+08:14:39:  深圳出差
+08:14:44:  传感器AD值测试
+08:14:59:  TCR调测工具（研发版）V1.0.0.4
+08:15:04:  读写ERROM
+08:15:29:  传感器AD值测试
+08:15:39:  TCR调测工具（研发版）V1.0.0.4
+08:15:49:  深圳出差
+08:15:54:  本地磁盘 (D:)
+08:15:59:  于斌1
+08:16:29:  20200908~CRS EEPROM分布.xlsx
+08:16:44:  C:\Users\zhangkaifa\AppData\Roaming\Foxmail7\Temp-7852-20200907085146\Attach\BNE-R1200M_Master_K64_FV1000_FEDADV10_V101.EEP (KE18-ESS) - Sublime Text (UNREGISTERED)
+08:16:49:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+08:16:54:  BNE-R1200M_Master_K64_FV1000_FEDADV10_V101.EEP
+08:17:04:  桌面整理
+08:17:09:  TCR调测工具（研发版）V1.0.0.4
+08:17:14:  打开
+08:17:19:  TCR调测工具（研发版）V1.0.0.4
+08:17:24:  传感器AD值测试
+08:17:29:  00-18
+08:17:34:  BTCRTestTool (2) 属性
+08:17:39:  20200915
+08:17:44:  TCR调测工具（研发版）V1.0.0.4
+08:17:54:  打开
+08:18:04:  TCR调测工具（研发版）V1.0.0.4
+08:18:19:  打开
+08:18:24:  TCR调测工具（研发版）V1.0.0.4
+08:18:29:  20200915
+08:18:34:  K18_0000_20200915081353.log - [No filter file]* - TextAnalysisTool.NET
+08:18:39:  Decode
+08:18:44:  K18_0000_20200915081353.log - [No filter file] - TextAnalysisTool.NET
+08:19:54:  锁屏状态
+08:19:59:  K64_0000_20200915081353.log - [No filter file] - TextAnalysisTool.NET
+08:20:39:  Add Filter
+08:20:49:  ESC[TRACE]:26021    Rcv:57 01 00 02 00 00 00 00 5B • (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+08:20:54:  K64_0000_20200915081353.log - [No filter file] - TextAnalysisTool.NET
+08:20:59:  [TRACE]:269077    CanS:cs, 57 01 00 02 00 00 00 00 • (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+08:21:14:  CanS:cs, 57 01 00 02 00 00 00 00 a2 ea 4c a3 9 • (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+08:21:24:  57 01 00 02 00 00 00 00 a2 ea 4c a3 97 8b 4f a • (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+08:21:59:  计算器
+08:22:09:  57 01 00 02 00 00 00 00 a2 ea 4c a3 97 8b 4f a • (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+08:22:19:  D:\CRS\KE18-BOOT-CUR\Applications\InstrExp\InstrExecute.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+08:23:04:  D:\CRS\KE18-BOOT-CUR\Applications\InstrExp\InstrHandle.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+08:23:09:  D:\CRS\KE18-BOOT-CUR\Applications\InstrExp\InstrExecute.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+08:23:14:  D:\CRS\KE18-BOOT-CUR\Applications\InstrExp\InstrHandle.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+08:23:19:  K64_0000_20200915081353.log - [No filter file] - TextAnalysisTool.NET
+08:23:34:  D:\CRS\KE18-BOOT-CUR\Applications\InstrExp\InstrHandle.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+08:23:44:  K64_0000_20200915081353.log - [No filter file] - TextAnalysisTool.NET
+08:23:49:  K18_0000_20200915081353.log - [No filter file] - TextAnalysisTool.NET
+08:25:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:26:29:  K18_0000_20200915081353.log - [No filter file] - TextAnalysisTool.NET
+08:26:39:  K64_0000_20200915081353.log - [No filter file] - TextAnalysisTool.NET
+08:27:14:  D:\00-KE64\CRS-64\Applications\InstrExplain\InstrExp.c (CRS-64) - Sublime Text (UNREGISTERED)
+08:27:19:  D:\00-KE64\CRS-64\Applications\CanComm\CanComm.c (CRS-64) - Sublime Text (UNREGISTERED)
+08:27:24:  D:\00-KE64\CRS-64\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64) - Sublime Text (UNREGISTERED)
+08:27:29:  D:\00-KE64\CRS-64\Applications\InstrExplain\InstrExp.c (CRS-64) - Sublime Text (UNREGISTERED)
+08:27:34:  D:\00-KE64\CRS-64\Applications\CanComm\CanComm.c (CRS-64) - Sublime Text (UNREGISTERED)
+08:28:04:  D:\00-KE64\CRS-64\Middlewares\LogicTimer\LogicTimer.c (CRS-64) - Sublime Text (UNREGISTERED)
+08:28:09:  D:\00-KE64\CRS-64\Applications\CanComm\CanComm.c (CRS-64) - Sublime Text (UNREGISTERED)
+08:28:14:  D:\00-KE64\CRS-64\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c (CRS-64) - Sublime Text (UNREGISTERED)
+08:28:39:  锁屏状态
+08:28:44:  D:\00-KE64\CRS-64\Project\k64_rtt.uvprojx - μVision
+08:28:54:  Decode
+08:29:19:  本地磁盘 (D:)
+08:29:24:  D:\00-KE64\CRS-64\Tools\CreateJK.exe
+08:29:29:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:28:09:  D:\00-KE64\CRS-64\Applications\CanComm\CanComm.c (CRS-64) - Sublime Text (UNREGISTERED)
+08:28:14:  D:\00-KE64\CRS-64\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c (CRS-64) - Sublime Text (UNREGISTERED)
+08:28:39:  锁屏状态
+08:28:44:  D:\00-KE64\CRS-64\Project\k64_rtt.uvprojx - μVision
+08:28:54:  Decode
+08:29:19:  本地磁盘 (D:)
+08:29:24:  D:\00-KE64\CRS-64\Tools\CreateJK.exe
+08:29:29:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:32:04:  V1.009
+08:32:09:  打开
+08:32:14:  TCR调测工具（研发版）V1.0.0.4
+08:32:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:32:54:  D:\00-KE64\CRS-64\Tools\CreateJK.exe
+08:32:59:  跳转列表
+08:33:09:  2020-09-09.txt - 记事本
+08:33:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:33:24:  20200915
+08:33:29:  回收
+08:33:34:  TCR调测工具（研发版）V1.0.0.4
+08:33:39:  Visual Studio Code
+08:33:44:  TCR调测工具（研发版）V1.0.0.4
+08:33:49:  打开
+08:33:54:  TCR调测工具（研发版）V1.0.0.4
+08:34:04:  BTCRTestTool
+08:34:09:  20200915
+08:34:14:  Decode
+08:34:19:  K18_0000_20200915083204.log - [No filter file] - TextAnalysisTool.NET
+08:34:24:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:34:39:  K18_0000_20200915083204.log - [No filter file] - TextAnalysisTool.NET
+08:35:14:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+08:35:19:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:35:54:  K18_0000_20200915083204.log - [No filter file] - TextAnalysisTool.NET
+08:35:59:  CRS样机踢钞轮相位不一致
+08:36:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:36:24:  TCR调测工具（研发版）V1.0.0.4
+08:36:34:  锁屏状态
+08:36:39:  打开
+08:36:44:  TCR调测工具（研发版）V1.0.0.4
+08:36:54:  20200915
+08:36:59:  TCR调测工具（研发版）V1.0.0.4
+08:37:14:  删除多个项目
+08:37:19:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:37:34:  20200915
+08:37:39:  TCR调测工具（研发版）V1.0.0.4
+08:37:44:  20200915
+08:37:49:  K18_0000_20200915083706.log - [No filter file] - TextAnalysisTool.NET
+08:37:54:  锁屏状态
+08:37:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:38:24:  TCR调测工具（研发版）V1.0.0.4
+08:38:34:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:38:44:  TCR调测工具（研发版）V1.0.0.4
+08:38:54:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:38:59:  删除多个项目
+08:39:04:  20200915
+08:39:19:  K18_0000_20200915083706.log - [No filter file] - TextAnalysisTool.NET
+08:39:29:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:39:54:  20200915
+08:39:59:  K18_0000_20200915083706.log - [No filter file] - TextAnalysisTool.NET
+08:40:09:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:40:44:  20200915
+08:40:54:  K18_0000_20200915083706.log - [No filter file] - TextAnalysisTool.NET
+08:41:04:  打开
+08:41:14:  Decode
+08:41:19:  锁屏状态
+08:41:24:  Decode
+08:41:29:  K18_0000_20200915083706.log - [No filter file] - TextAnalysisTool.NET
+08:41:54:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:42:14:  Add Filter
+08:42:24:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:43:34:  TCR调测工具（研发版）V1.0.0.4
+08:43:44:  打开
+08:43:49:  TCR调测工具（研发版）V1.0.0.4
+08:43:54:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:47:24:  TCR调测工具（研发版）V1.0.0.4
+08:47:29:  删除多个项目
+08:47:34:  TCR调测工具（研发版）V1.0.0.4
+08:47:44:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:47:49:  20200915
+08:47:54:  K18_0000_20200915083706.log - [No filter file] - TextAnalysisTool.NET
+08:47:59:  K18_0000_20200915084721.log - [No filter file] - TextAnalysisTool.NET
+08:48:14:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+08:48:19:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+08:49:09:  20200915
+08:49:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:49:34:  K18_0000_20200915084721.log - [No filter file] - TextAnalysisTool.NET
+08:49:39:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:50:49:  μVision
+08:50:54:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:51:14:  V1.009
+08:51:19:  TCR调测工具（研发版）V1.0.0.4
+08:51:34:  BTCRTestTool
+08:51:39:  跳转列表
+08:51:44:  锁屏状态
+08:51:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:51:54:  Decode
+08:51:59:  K18_0000_20200915085113.log - [No filter file] - TextAnalysisTool.NET
+08:54:39:  Decode
+08:54:44:  K64_0000_20200915085113.log - [No filter file] - TextAnalysisTool.NET
+08:55:04:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+08:55:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:56:44:  20200915
+08:56:49:  K18_0000_20200915085113.log - [No filter file] - TextAnalysisTool.NET
+08:57:09:  20200915
+08:57:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:57:39:  于斌1
+08:57:44:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:58:04:  20200915
+08:58:09:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:58:29:  TCR调测工具（研发版）V1.0.0.4
+08:58:44:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:58:59:  TCR调测工具（研发版）V1.0.0.4
+08:59:04:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:59:24:  打开
+08:59:29:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:59:44:  TCR调测工具（研发版）V1.0.0.4
+08:59:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:00:04:  TCR调测工具（研发版）V1.0.0.4
+08:58:09:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:58:29:  TCR调测工具（研发版）V1.0.0.4
+08:58:44:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:58:59:  TCR调测工具（研发版）V1.0.0.4
+08:59:04:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:59:24:  打开
+08:59:29:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+08:59:44:  TCR调测工具（研发版）V1.0.0.4
+08:59:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:00:04:  TCR调测工具（研发版）V1.0.0.4
+09:00:19:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:00:34:  TCR调测工具（研发版）V1.0.0.4
+09:00:39:  跳转列表
+09:00:44:  TCR调测工具（研发版）V1.0.0.4
+09:00:54:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:01:09:  TCR调测工具（研发版）V1.0.0.4
+09:01:24:  打开
+09:01:29:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:01:39:  TCR调测工具（研发版）V1.0.0.4
+09:01:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:01:54:  TCR调测工具（研发版）V1.0.0.4
+09:01:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:02:29:  回收 
+09:02:34:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:03:59:  TCR调测工具（研发版）V1.0.0.4
+09:04:09:  BTCRTestTool
+09:04:19:  20200915
+09:04:24:  跳转列表
+09:04:29:  K18_0000_20200915090153.log - [No filter file] - TextAnalysisTool.NET
+09:05:14:  于斌1
+09:05:39:  K18_0000_20200915090153.log - [No filter file] - TextAnalysisTool.NET
+09:05:54:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:10:54:  于斌1
+09:11:19:  V1.009
+09:11:24:  TCR调测工具（研发版）V1.0.0.4
+09:11:34:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:12:34:  TCR调测工具（研发版）V1.0.0.4
+09:12:39:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:12:44:  TCR调测工具（研发版）V1.0.0.4
+09:12:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:12:59:  Decode
+09:13:09:  K18_0000_20200915091240.log - [No filter file] - TextAnalysisTool.NET
+09:13:29:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+09:13:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:14:24:  跳转列表
+09:14:29:  TCR调测工具（研发版）V1.0.0.4
+09:14:34:  打开
+09:14:39:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:14:49:  TCR调测工具（研发版）V1.0.0.4
+09:14:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:15:04:  TCR调测工具（研发版）V1.0.0.4
+09:14:24:  跳转列表
+09:14:29:  TCR调测工具（研发版）V1.0.0.4
+09:14:34:  打开
+09:14:39:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:14:49:  TCR调测工具（研发版）V1.0.0.4
+09:14:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:15:04:  TCR调测工具（研发版）V1.0.0.4
+09:15:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:17:54:  BTCRTestTool
+09:17:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:18:14:  TCR调测工具（研发版）V1.0.0.4
+09:18:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:19:24:  「开始」菜单
+09:19:29:  计算器
+09:19:44:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:20:04:  回复: CRS样机踢钞轮相位不一致
+09:20:09:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:24:59:  TCR调测工具（研发版）V1.0.0.4
+09:25:09:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:25:44:  TCR调测工具（研发版）V1.0.0.4
+09:25:59:  跳转列表
+09:26:04:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:26:29:  TCR调测工具（研发版）V1.0.0.4
+09:26:39:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:27:24:  TCR调测工具（研发版）V1.0.0.4
+09:27:34:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:27:59:  Decode
+09:28:04:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:28:14:  TCR调测工具（研发版）V1.0.0.4
+09:28:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:28:45:  Decode
+09:28:50:  K18_0000_20200915092811.log - [No filter file] - TextAnalysisTool.NET
+09:29:10:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:28:14:  TCR调测工具（研发版）V1.0.0.4
+09:28:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:28:45:  Decode
+09:28:50:  K18_0000_20200915092811.log - [No filter file] - TextAnalysisTool.NET
+09:29:10:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:30:15:  TCR调测工具（研发版）V1.0.0.4
+09:30:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:30:35:  20200915
+09:30:40:  K18_0000_20200915093011.log - [No filter file] - TextAnalysisTool.NET
+09:31:05:  K64_0000_20200915093011.log - [No filter file] - TextAnalysisTool.NET
+09:31:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:34:15:  D:\00-KE64\CRS-64\Project\k64_rtt.uvprojx - μVision
+09:34:20:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:34:25:  TCR调测工具（研发版）V1.0.0.4
+09:34:45:  Decode
+09:34:50:  K18_0000_20200915093423.log - [No filter file] - TextAnalysisTool.NET
+09:35:05:  Decode
+09:35:10:  K64_0000_20200915093423.log - [No filter file] - TextAnalysisTool.NET
+09:35:25:  V1.009
+09:35:30:  TCR调测工具（研发版）V1.0.0.4
+09:35:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:35:55:  K64_0000_20200915093423.log - [No filter file] - TextAnalysisTool.NET
+09:36:30:  Decode
+09:36:35:  K18_0000_20200915093423.log - [No filter file] - TextAnalysisTool.NET
+09:36:45:  Add Filter
+09:36:50:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+09:36:55:  D:\CRS\KE18-ESS\Applications\Init\Init.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+09:37:05:  D:\CRS\KE18-ESS\Rtos\RTT\examples\kernel\cpuusage.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+09:37:25:  K18_0000_20200915093423.log - [No filter file] - TextAnalysisTool.NET
+09:37:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:38:25:  TCR调测工具（研发版）V1.0.0.4
+09:38:35:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:39:30:  TCR调测工具（研发版）V1.0.0.4
+09:39:45:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:39:50:  TCR调测工具（研发版）V1.0.0.4
+09:39:55:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:40:00:  TCR调测工具（研发版）V1.0.0.4
+09:40:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:40:10:  TCR调测工具（研发版）V1.0.0.4
+09:40:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:40:20:  TCR调测工具（研发版）V1.0.0.4
+09:40:35:  打开
+09:40:40:  TCR调测工具（研发版）V1.0.0.4
+09:41:00:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:41:15:  打开
+09:41:20:  TCR调测工具（研发版）V1.0.0.4
+09:41:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:43:05:  TCR调测工具（研发版）V1.0.0.4
+09:43:10:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:43:30:  TCR调测工具（研发版）V1.0.0.4
+09:43:35:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:43:55:  TCR调测工具（研发版）V1.0.0.4
+09:44:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:44:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:45:05:  电气工具柜笔记本不可借
+09:45:10:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:45:25:  TCR调测工具（研发版）V1.0.0.4
+09:45:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:46:55:  TCR调测工具（研发版）V1.0.0.4
+09:47:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:47:35:  TCR调测工具（研发版）V1.0.0.4
+09:47:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:49:30:  TCR调测工具（研发版）V1.0.0.4
+09:49:45:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:50:30:  TCR调测工具（研发版）V1.0.0.4
+09:50:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:51:45:  TCR调测工具（研发版）V1.0.0.4
+09:52:05:  20200915
+09:52:10:  K18_0000_20200915095040.log - [No filter file] - TextAnalysisTool.NET
+09:52:25:  TCR调测工具（研发版）V1.0.0.4
+09:52:35:  Decode
+09:52:40:  K18_0000_20200915095040.log - [No filter file] - TextAnalysisTool.NET
+09:52:45:  Add Filter
+09:52:50:  D:\CRS\KE18-ESS\Rtos\RTT\examples\kernel\cpuusage.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+09:52:55:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+09:53:10:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:53:35:  TCR调测工具（研发版）V1.0.0.4
+09:53:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:53:50:  TCR调测工具（研发版）V1.0.0.4
+09:53:55:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:55:30:  荆文波
+09:55:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:57:00:  TCR调测工具（研发版）V1.0.0.4
+09:57:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:57:25:  TCR调测工具（研发版）V1.0.0.4
+09:57:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:57:35:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+09:57:40:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+09:58:05:  D:\CRS\KE18-ESS\Applications\Update\Update.h (KE18-ESS) - Sublime Text (UNREGISTERED)
+09:58:10:  D:\CRS\KE18-ESS\Applications\Update\Update.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+09:58:20:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+09:58:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:59:15:  TCR调测工具（研发版）V1.0.0.4
+09:59:50:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+09:58:05:  D:\CRS\KE18-ESS\Applications\Update\Update.h (KE18-ESS) - Sublime Text (UNREGISTERED)
+09:58:10:  D:\CRS\KE18-ESS\Applications\Update\Update.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+09:58:20:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+09:58:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:59:15:  TCR调测工具（研发版）V1.0.0.4
+09:59:50:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:00:25:  D:\CRS\KE18-ESS\Rtos\RTT\src\thread.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:00:30:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:01:05:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:01:35:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:02:15:  D:\CRS\KE18-ESS\FwLib\RingBuffer\RingBufferModule.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:02:25:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:02:30:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:02:40:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:02:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:03:35:  TCR调测工具（研发版）V1.0.0.4
+10:03:55:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:04:15:  20200915
+10:04:20:  Add Filter
+10:04:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:04:30:  K18_0000_20200915095711.log - [No filter file] - TextAnalysisTool.NET
+10:04:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:05:05:  Tools
+10:05:10:  KE18-ESS
+10:05:15:  InstrExp.c - TortoiseMerge
+10:06:35:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+10:06:40:  Init.c - TortoiseMerge
+10:06:45:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+10:06:50:  SystemConfig.h - TortoiseMerge
+10:07:00:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:07:30:  TCR调测工具（研发版）V1.0.0.4
+10:07:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:07:45:  跳转列表
+10:07:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:08:15:  Decode
+10:08:20:  K18_0000_20200915100728.log - [No filter file] - TextAnalysisTool.NET
+10:08:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:09:40:  V1.009
+10:09:45:  TCR调测工具（研发版）V1.0.0.4
+10:10:15:  打开
+10:10:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:13:45:  锁屏状态
+10:13:50:  D:\CRS\KE18-BOOT-CUR\Applications\InstrExp\InstrExecute.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+10:14:00:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:14:50:  D:\CRS\KE18-BOOT-CUR\Applications\InstrExp\InstrExecute.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+10:14:50:  D:\CRS\KE18-BOOT-CUR\Applications\InstrExp\InstrExecute.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+10:15:20:  D:\CRS\KE18-BOOT-CUR\Applications\InstrExp\InstrHandle.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+10:15:40:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:16:00:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:16:05:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:16:20:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:16:35:  D:\CRS\KE18-BOOT-CUR\Applications\InstrExp\InstrExecute.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+10:17:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:18:25:  KE18-ESS
+10:18:30:  TCR调测工具（研发版）V1.0.0.4
+10:18:45:  20200915
+10:18:50:  TCR调测工具（研发版）V1.0.0.4
+10:19:05:  BTCRTestTool
+10:19:10:  Decode
+10:19:15:  K18_0000_20200915101828.log - [No filter file] - TextAnalysisTool.NET
+10:20:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:20:40:  计算器
+10:21:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:21:25:  TCR调测工具（研发版）V1.0.0.4
+10:21:30:  打开
+10:21:35:  TCR调测工具（研发版）V1.0.0.4
+10:21:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:22:00:  锁屏状态
+10:22:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:22:35:  计算器
+10:22:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:22:50:  计算器
+10:23:10:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:23:20:  计算器
+10:23:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:24:05:  V1.009
+10:24:10:  TCR调测工具（研发版）V1.0.0.4
+10:24:20:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:25:30:  V1.009
+10:25:35:  TCR调测工具（研发版）V1.0.0.4
+10:25:45:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:26:10:  TCR调测工具（研发版）V1.0.0.4
+10:26:20:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:26:40:  计算器
+10:26:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:28:00:  Enter Byte(s) at 0x0004938D
+10:28:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:28:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:30:20:  TCR调测工具（研发版）V1.0.0.4
+10:30:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:32:20:  TCR调测工具（研发版）V1.0.0.4
+10:32:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:32:40:  TCR调测工具（研发版）V1.0.0.4
+10:32:45:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:33:15:  TCR调测工具（研发版）V1.0.0.4
+10:33:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:34:10:  TCR调测工具（研发版）V1.0.0.4
+10:34:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:34:35:  TCR调测工具（研发版）V1.0.0.4
+10:34:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:34:50:  20200915
+10:35:00:  K18_0000_20200915103433.log - [No filter file] - TextAnalysisTool.NET
+10:35:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:37:10:  删除多个项目
+10:37:20:  TCR调测工具（研发版）V1.0.0.4
+10:37:25:  20200915
+10:37:35:  K18_0000_20200915103712.log - [No filter file] - TextAnalysisTool.NET
+10:37:50:  A4 92 7B 42 A4 92 7B 42 A4 92 7B 42 A5 10 7B 42 5B • (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+10:37:55:  计算器
+10:38:05:  Add Filter
+10:38:15:  K18_0000_20200915103712.log - [No filter file] - TextAnalysisTool.NET
+10:38:20:  计算器
+10:38:35:  K18_0000_20200915103712.log - [No filter file] - TextAnalysisTool.NET
+10:38:50:  计算器
+10:39:40:  D:\CRS\KE18-BOOT-CUR\Applications\InstrExp\InstrExecute.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+10:40:55:  K18_0000_20200915103712.log - [No filter file] - TextAnalysisTool.NET
+10:41:10:  D:\CRS\KE18-BOOT-CUR\Applications\InstrExp\InstrExecute.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+10:41:45:  于斌1
+10:42:15:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:42:20:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:42:25:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:43:00:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:43:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:43:25:  TCR调测工具（研发版）V1.0.0.4
+10:43:30:  打开
+10:43:35:  TCR调测工具（研发版）V1.0.0.4
+10:43:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:44:45:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:44:45:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:45:15:  D:\CRS\KE18-ESS\Applications\Update\Update.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:45:25:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:45:30:  D:\CRS\KE18-ESS\Applications\Update\Update.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:45:40:  20200915
+10:45:45:  K18_0000_20200915103712.log - [No filter file] - TextAnalysisTool.NET
+10:45:50:  K18_0000_20200915104322.log - [No filter file] - TextAnalysisTool.NET
+10:46:55:  D:\CRS\KE18-ESS\Applications\Update\Update.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:47:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:47:15:  Toolbox
+10:47:20:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:47:25:  TCR调测工具（研发版）V1.0.0.4
+10:47:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:47:35:  BTCRTestTool
+10:47:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:47:45:  D:\CRS\KE18-BOOT-CUR\Applications\InstrExp\InstrExecute.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+10:47:50:  D:\CRS\KE18-BOOT-CUR\Applications\Update\Update.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+10:47:55:  D:\CRS\KE18-BOOT-CUR\Applications\InstrExp\InstrExecute.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+10:48:00:  D:\CRS\KE18-BOOT-CUR\Applications\Update\Update.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+10:48:50:  D:\CRS\KE18-ESS\Applications\Update\Update.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:49:00:  D:\CRS\KE18-ESS\Applications\Update\Update.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:49:10:  D:\CRS\KE18-ESS\Applications\Update\Update.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+10:49:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:49:55:  μVision
+10:50:00:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:50:30:  TCR调测工具（研发版）V1.0.0.4
+10:50:35:  打开
+10:50:40:  TCR调测工具（研发版）V1.0.0.4
+10:50:45:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:51:15:  TCR调测工具（研发版）V1.0.0.4
+10:51:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:53:01:  TCR调测工具（研发版）V1.0.0.4
+10:53:11:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:53:16:  BTCRTestTool
+10:53:31:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:53:41:  Project
+10:53:46:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:55:51:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:58:36:  TCR调测工具（研发版）V1.0.0.4
+10:59:01:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:59:11:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+10:58:36:  TCR调测工具（研发版）V1.0.0.4
+10:59:01:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+10:59:11:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:04:06:  Project
+11:04:11:  Tools
+11:04:16:  KE18-ESS
+11:04:21:  D:\CRS\KE18-ESS\Tools\CreateJK.exe
+11:04:26:  TCR调测工具（研发版）V1.0.0.4
+11:04:31:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:04:56:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:05:16:  D:\CRS\KE18-ESS\Tools\CreateJK.exe
+11:05:26:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:05:31:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:05:56:  打开
+11:06:01:  TCR调测工具（研发版）V1.0.0.4
+11:06:11:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:06:16:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:08:51:  D:\CRS\KE18-BOOT-CUR\Applications\Update\Update.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+11:08:56:  D:\CRS\KE18-BOOT-CUR\Applications\InstrExp\InstrHandle.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+11:09:01:  D:\CRS\KE18-BOOT-CUR\Applications\InstrExp\InstrExecute.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+11:09:06:  D:\CRS\KE18-BOOT-CUR\Applications\Update\Update.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+11:09:26:  D:\CRS\KE18-BOOT-CUR\Applications\MemoryConfig.h (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+11:09:31:  D:\CRS\KE18-BOOT-CUR\Applications\Update\Update.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+11:09:41:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:09:51:  D:\CRS\KE18-BOOT-CUR\Applications\Update\Update.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+11:10:01:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:12:31:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:12:41:  TCR调测工具（研发版）V1.0.0.4
+11:12:56:  BTCRTestTool
+11:13:06:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:13:46:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:15:31:  μVision
+11:15:36:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:15:46:  μVision
+11:15:51:  Cortex JLink/JTrace Target Driver Setup
+11:15:56:  TCR调测工具（研发版）V1.0.0.4
+11:16:06:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:16:26:  μVision
+11:16:31:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:16:41:  Cortex JLink/JTrace Target Driver Setup
+11:16:51:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:17:01:  20200915
+11:17:06:  TCR调测工具（研发版）V1.0.0.4
+11:17:16:  Decode
+11:17:21:  K18_0000_20200915105259.log - [No filter file] - TextAnalysisTool.NET
+11:17:26:  TCR调测工具（研发版）V1.0.0.4
+11:17:31:  Decode
+11:17:36:  K18_0000_20200915105259.log - [No filter file] - TextAnalysisTool.NET
+11:17:46:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:17:51:  JLink - Cortex-M Error
+11:17:56:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:18:21:  JLink - Cortex-M Error
+11:18:26:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:19:21:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:20:26:  本地磁盘 (D:)
+11:20:31:  CRS
+11:20:36:  D:\CRS\KE18-BOOT - 工作副本 - TortoiseSVN
+11:20:41:  GpioApp.c - TortoiseMerge
+11:20:46:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:20:51:  TCR调测工具（研发版）V1.0.0.4
+11:21:06:  KE18-BOOT
+11:21:11:  D:\CRS\KE18-BOOT - 日志信息 - TortoiseSVN
+11:21:26:  Initial.c Revision 1012 - TortoiseMerge
+11:21:31:  D:\CRS\KE18-BOOT - 日志信息 - TortoiseSVN
+11:21:41:  KE18-BOOT
+11:21:46:  eSpace
+11:21:51:  张健4
+11:22:36:  TCR调测工具（研发版）V1.0.0.4
+11:23:16:  张健4
+11:23:41:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:23:51:  Cortex JLink/JTrace Target Driver Setup
+11:28:36:  张健4
+11:29:16:  KE18-BOOT
+11:29:36:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+11:29:41:  startup_MKE18F16.s - 记事本
+11:29:46:  张健4
+11:29:56:  查找
+11:30:01:  张健4
+11:28:36:  张健4
+11:29:16:  KE18-BOOT
+11:29:36:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+11:29:41:  startup_MKE18F16.s - 记事本
+11:29:46:  张健4
+11:29:56:  查找
+11:30:01:  张健4
+11:30:11:  startup_MKE18F16.s - 记事本
+11:30:16:  张健4
+11:30:26:  startup_MKE18F16.s - 记事本
+11:30:36:  张健4
+11:30:41:  查找
+11:30:46:  startup_MKE18F16.s - 记事本
+11:30:51:  张健4
+11:31:21:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:31:31:  选择文件夹
+11:31:36:  untitled (DRB--) - Sublime Text (UNREGISTERED)
+11:31:41:  D:\00-06\DRB--\Applications\Initial\Initial.c (DRB--) - Sublime Text (UNREGISTERED)
+11:31:46:  D:\00-06\DRB--\Applications\Instruction\InstrHandle.c (DRB--) - Sublime Text (UNREGISTERED)
+11:31:56:  张健4
+11:32:46:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+11:33:01:  D:\00-06\DRB--\Applications\State\State.c (DRB--) - Sublime Text (UNREGISTERED)
+11:33:16:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+11:33:21:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c • (DRB--) - Sublime Text (UNREGISTERED)
+11:33:41:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+11:33:46:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c • (DRB--) - Sublime Text (UNREGISTERED)
+11:34:01:  张健4
+11:34:41:  D:\00-06\DRB--\Middlewares\Sensor\Sensor.c (DRB--) - Sublime Text (UNREGISTERED)
+11:35:16:  D:\00-06\DRB--\Drivers\SensorDriver\SensorDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+11:35:41:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+11:35:51:  D:\00-06\DRB--\Middlewares\Sensor\Sensor.c (DRB--) - Sublime Text (UNREGISTERED)
+11:35:56:  D:\00-06\DRB--\Applications\Instruction\InstrHandle.c (DRB--) - Sublime Text (UNREGISTERED)
+11:36:01:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c • (DRB--) - Sublime Text (UNREGISTERED)
+11:36:11:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+11:36:36:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c • (DRB--) - Sublime Text (UNREGISTERED)
+11:36:41:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+11:36:51:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c • (DRB--) - Sublime Text (UNREGISTERED)
+11:37:11:  张健4
+11:37:31:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c • (DRB--) - Sublime Text (UNREGISTERED)
+11:37:41:  张健4
+11:37:51:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+11:38:21:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c • (DRB--) - Sublime Text (UNREGISTERED)
+11:39:01:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+11:39:31:  张健4
+11:40:11:  本地磁盘 (D:)
+11:40:16:  回复: 降成本样机问题
+11:40:21:  DRB--
+11:40:26:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:40:41:  Project
+11:40:46:  Tools
+11:41:06:  D:\00-06\DRB--\Tools\CreateJK.exe
+11:41:11:  Tools
+11:41:16:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V11_MAIN_T14 - 写邮件
+13:11:42:  张健4
+13:12:42:  EXTFEDAD2V10中部控制板.PDF
+13:12:47:  EXTFEDAD2V10中部控制板.PDF - Adobe Reader
+13:15:42:  张健4
+13:15:52:  startup_MKE18F16.s - 记事本
+13:15:57:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:16:42:  EXTFEDAD2V10中部控制板.PDF - Adobe Reader
+13:20:07:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+13:21:47:  方俊杰
+13:22:12:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+13:22:32:  方俊杰
+13:23:12:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+13:23:17:  D:\00-06\DRB--\Drivers\SensorDriver\SensorDriver.c (DRB--) - Sublime Text (UNREGISTERED)
+13:23:42:  D:\00-06\DRB--\Applications\MemoryConfig.h (DRB--) - Sublime Text (UNREGISTERED)
+13:23:52:  D:\00-06\DRB--\Middlewares\Sensor\Sensor.c (DRB--) - Sublime Text (UNREGISTERED)
+13:23:57:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+13:24:02:  D:\00-06\DRB--\Middlewares\Sensor\Sensor.c (DRB--) - Sublime Text (UNREGISTERED)
+13:24:17:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+13:24:22:  D:\00-06\DRB--\Middlewares\Sensor\Sensor.c (DRB--) - Sublime Text (UNREGISTERED)
+13:24:27:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+13:24:47:  D:\00-06\DRB--\Middlewares\Sensor\Sensor.c (DRB--) - Sublime Text (UNREGISTERED)
+13:24:52:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+13:25:07:  D:\00-06\DRB--\Applications\Instruction\InstrHandle.c (DRB--) - Sublime Text (UNREGISTERED)
+13:25:12:  D:\00-06\DRB--\Applications\Instruction\InstrHandle.h (DRB--) - Sublime Text (UNREGISTERED)
+13:25:22:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+13:32:02:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:33:42:  跳转列表
+13:33:47:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:33:57:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009151333.log
+13:34:07:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:34:27:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009151333.log
+13:34:52:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:35:02:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009151334.log
+13:35:27:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:35:57:  Options for Target 'CashBox_1T2_1.0'
+13:36:07:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:38:47:  自动播放
+13:38:52:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:39:32:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009151339.log
+13:39:52:  方俊杰
+13:47:12:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:48:02:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:49:52:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:49:57:  Toolbox
+13:50:02:  TCR调测工具（研发版）V1.0.0.4
+13:50:07:  BTCRTestTool
+13:50:12:  TCR调测工具（研发版）V1.0.0.4
+13:50:27:  BTCRTestTool
+13:50:37:  TCR调测工具（研发版）V1.0.0.4
+13:50:47:  打开
+13:50:52:  TCR调测工具（研发版）V1.0.0.4
+13:50:57:  BTCRTestTool
+13:51:07:  TCR调测工具（研发版）V1.0.0.4
+13:51:12:  打开
+13:51:17:  TCR调测工具（研发版）V1.0.0.4
+13:51:27:  BTCRTestTool
+13:51:37:  TCR调测工具（研发版）V1.0.0.4
+13:51:42:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:52:12:  TCR调测工具（研发版）V1.0.0.4
+13:52:17:  打开
+13:52:22:  TCR调测工具（研发版）V1.0.0.4
+13:52:42:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:53:32:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:53:42:  打开
+13:53:47:  TCR调测工具（研发版）V1.0.0.4
+13:53:52:  BTCRTestTool
+13:54:02:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:55:12:  TCR调测工具（研发版）V1.0.0.4
+13:55:42:  Toolbox
+13:55:47:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:56:12:  TCR调测工具（研发版）V1.0.0.4
+13:56:17:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:57:08:  打开
+13:57:13:  TCR调测工具（研发版）V1.0.0.4
+13:57:28:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:58:28:  跳转列表
+13:58:33:  20200915
+13:58:38:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:58:53:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:59:18:  TCR调测工具（研发版）V1.0.0.4
+13:59:33:  BTCRTestTool
+13:59:38:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:59:43:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:58:28:  跳转列表
+13:58:33:  20200915
+13:58:38:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:58:53:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:59:18:  TCR调测工具（研发版）V1.0.0.4
+13:59:33:  BTCRTestTool
+13:59:38:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:59:43:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:00:23:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:00:48:  D:\00-KE64\CRS-64\Project\k64_rtt.uvprojx - μVision
+14:00:53:  TCR调测工具（研发版）V1.0.0.4
+14:01:08:  BTCRTestTool
+14:01:18:  Toolbox
+14:01:23:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:02:18:  D:\00-KE64\CRS-64\Project\k64_rtt.uvprojx - μVision
+14:02:23:  eSpace
+14:02:28:  戚晓东
+14:03:33:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:03:48:  密码锁
+14:03:53:  0-工作 - 张开发 - 印象笔记
+14:03:58:  印象笔记
+14:04:18:  「开始」菜单
+14:04:28:  升级流程 - OneNote
+14:05:53:  新建文件夹 (3).rar - WinRAR (非商业个人版)
+14:05:58:  1.选择CPU.pdf - Adobe Reader
+14:07:38:  034 固件升级文件设计及制作规范_V100.doc [兼容模式] - Word
+14:07:43:  使用说明.docx [兼容模式] - Word
+14:07:48:  新建文件夹 (3).rar - WinRAR (非商业个人版)
+14:07:58:  未命名图片.png
+14:08:08:  新建文件夹 (3)(1).rar - WinRAR (非商业个人版)
+14:08:13:  1.选择CPU.pdf - Adobe Reader
+14:08:38:  1、查询避让名称 - 印象笔记
+14:09:13:  无标题笔记 - 印象笔记
+14:09:23:  1.选择CPU.pdf - Adobe Reader
+14:09:28:  无标题笔记 - 印象笔记
+14:10:28:  1.选择CPU - 印象笔记
+14:16:08:  戚晓东
+14:17:03:  1.选择CPU - 印象笔记
+14:17:23:  新建文件夹 (3)(1).rar - WinRAR (非商业个人版)
+14:17:28:  0-工作 - 张开发 - 印象笔记
+14:17:33:  Bus Hound
+14:17:43:  D:\CRS\KE18-ESS\Applications\Update\Update.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+14:17:53:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+14:18:13:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:18:28:  打开
+14:18:38:  TCR调测工具（研发版）V1.0.0.4
+14:18:58:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:23:18:  D:\CRS\KE18-BOOT-CUR\Applications\Initialization\Intial.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+14:23:33:  D:\CRS\KE18-BOOT-CUR\Applications\AppCommon.h (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+14:23:38:  D:\CRS\KE18-BOOT-CUR\Applications\Application.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+14:23:48:  D:\CRS\KE18-BOOT-CUR\Applications\Initialization\Intial.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+14:23:58:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:24:28:  本地磁盘 (D:)
+14:24:33:  KE18-ESS
+14:24:38:  Applications
+14:24:43:  KE18-ESS
+14:24:48:  Middlewares
+14:24:53:  KE18-ESS
+14:24:58:  Drivers
+14:25:03:  PeripheralDriver
+14:25:08:  FlashDriver
+14:25:18:  PeripheralDriver
+14:25:38:  Drivers
+14:25:43:  PeripheralDriver
+14:25:53:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:25:58:  PeripheralDriver
+14:26:03:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:26:23:  Tools
+14:26:28:  00-18
+14:26:33:  CRS
+14:26:38:  Init.c - TortoiseMerge
+14:26:43:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+14:26:48:  InstrExe.c - TortoiseMerge
+14:27:03:  InstrExe.h - TortoiseMerge
+14:27:08:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+14:27:13:  InstrExp.h - TortoiseMerge
+14:27:18:  TortoiseMerge
+14:27:23:  Update.c - TortoiseMerge
+14:27:38:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+14:27:43:  SystemConfig.h - TortoiseMerge
+14:27:48:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+14:27:53:  InstrExp.c - TortoiseMerge
+14:28:28:  TortoiseMerge
+14:28:33:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:28:58:  戚晓东
+14:29:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:29:38:  TCR调测工具（研发版）V1.0.0.4
+14:29:43:  打开
+14:29:48:  TCR调测工具（研发版）V1.0.0.4
+14:30:03:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+14:28:28:  TortoiseMerge
+14:28:33:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:28:58:  戚晓东
+14:29:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:29:38:  TCR调测工具（研发版）V1.0.0.4
+14:29:43:  打开
+14:29:48:  TCR调测工具（研发版）V1.0.0.4
+14:30:03:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExe.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+14:30:18:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:31:18:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c • (KE18-ESS) - Sublime Text (UNREGISTERED)
+14:31:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:31:58:  JLink - Cortex-M Error
+14:32:03:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:32:33:  跳转列表
+14:32:38:  TCR调测工具（研发版）V1.0.0.4
+14:33:23:  打开
+14:33:28:  TCR调测工具（研发版）V1.0.0.4
+14:33:43:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:33:48:  TCR调测工具（研发版）V1.0.0.4
+14:34:33:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:34:43:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+14:34:48:  InstrExp.c - TortoiseMerge
+14:35:03:  μVision
+14:35:08:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:36:58:  打开
+14:37:03:  TCR调测工具（研发版）V1.0.0.4
+14:37:13:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:41:18:  打开
+14:41:23:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:41:28:  V1.009
+14:41:33:  TCR调测工具（研发版）V1.0.0.4
+14:42:03:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:42:08:  TCR调测工具（研发版）V1.0.0.4
+14:42:18:  BTCRTestTool
+14:42:23:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:42:53:  TCR调测工具（研发版）V1.0.0.4
+14:43:08:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:43:53:  TCR调测工具（研发版）V1.0.0.4
+14:43:58:  打开
+14:44:03:  TCR调测工具（研发版）V1.0.0.4
+14:44:08:  BTCRTestTool
+14:44:13:  TCR调测工具（研发版）V1.0.0.4
+14:44:38:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:44:08:  BTCRTestTool
+14:44:13:  TCR调测工具（研发版）V1.0.0.4
+14:44:38:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:45:08:  桌面整理
+14:45:13:  eSpace
+14:45:18:  Visual Studio Code
+14:45:28:  CheckTheBookTital.py - DRB-- - Visual Studio Code
+14:45:38:  CheckTheBookTital.py - DRB-- - Visual Studio Code [管理员]
+14:48:18:  ● CheckTheBookTital.py - DRB-- - Visual Studio Code [管理员]
+14:48:24:  CheckTheBookTital.py - DRB-- - Visual Studio Code [管理员]
+14:48:29:  桌面整理
+14:48:34:  CheckTheBookTital.py - DRB-- - Visual Studio Code [管理员]
+14:48:49:  打开文件夹
+14:48:54:  CheckTheBookTital.py - DRB-- - Visual Studio Code [管理员]
+14:48:59:  欢迎使用 - KE18-ESS - Visual Studio Code [管理员]
+14:49:10:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:49:45:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+14:49:56:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:50:20:  ● InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:50:25:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:50:40:  ● InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:50:45:  InstrExp.h - KE18-ESS - Visual Studio Code [管理员]
+14:50:51:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:53:14:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+14:53:24:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:53:39:  ● InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:53:44:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:53:54:  ● InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:54:04:  SonarLint Rule Description - KE18-ESS - Visual Studio Code [管理员]
+14:54:29:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:55:45:  ● InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:55:50:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:57:00:  ● InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:57:11:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:57:36:  RingBufferModule.h - KE18-ESS - Visual Studio Code [管理员]
+14:57:41:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:58:21:  ● InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:58:26:  开始
+14:58:31:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+14:58:36:  扩展: Astyle - KE18-ESS - Visual Studio Code [管理员]
+14:58:46:  扩展: Python - KE18-ESS - Visual Studio Code [管理员]
+14:58:56:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:59:01:  开始
+14:59:06:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:59:16:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:00:02:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:58:21:  ● InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:58:26:  开始
+14:58:31:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+14:58:36:  扩展: Astyle - KE18-ESS - Visual Studio Code [管理员]
+14:58:46:  扩展: Python - KE18-ESS - Visual Studio Code [管理员]
+14:58:56:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:59:01:  开始
+14:59:06:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+14:59:16:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:00:02:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:00:17:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:00:32:  设置 - KE18-ESS - Visual Studio Code [管理员]
+15:00:37:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:06:07:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:07:07:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:07:17:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:07:27:  设置 - KE18-ESS - Visual Studio Code [管理员]
+15:07:32:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:08:38:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:08:43:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:09:28:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:09:33:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:09:38:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:09:43:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:17:58:  戚晓东
+15:18:13:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:26:43:  D:\00-06\DRB-- - 提交 - TortoiseSVN
+15:26:48:  KE18-ESS
+15:26:53:  Update.c - TortoiseMerge
+15:27:13:  eSpace
+15:27:18:  戚晓东
+15:28:03:  eSpace
+15:28:08:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:28:13:  ● CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:28:18:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:28:23:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:28:33:  ● CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:28:38:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:28:48:  设置 - KE18-ESS - Visual Studio Code [管理员]
+15:28:53:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:29:48:  CreateJK.exe，V1.0.0.25，新增功能说明，请各位知晓！
+15:30:03:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:28:08:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:28:13:  ● CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:28:18:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:28:23:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:28:33:  ● CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:28:38:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:28:48:  设置 - KE18-ESS - Visual Studio Code [管理员]
+15:28:53:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:29:48:  CreateJK.exe，V1.0.0.25，新增功能说明，请各位知晓！
+15:30:03:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:33:48:  设置 - KE18-ESS - Visual Studio Code [管理员]
+15:33:53:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:34:08:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:38:18:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:38:23:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:42:43:  ● CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:42:48:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:42:53:  新建文本文档.exe - 快捷方式
+15:42:58:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:43:03:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:47:08:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:47:13:  设置 - KE18-ESS - Visual Studio Code [管理员]
+15:47:18:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:51:53:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:51:58:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:54:48:  ● CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:54:53:  锁屏状态
+15:54:58:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:55:03:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:55:23:  ● CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:55:28:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:55:53:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:55:58:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+15:56:03:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+15:56:08:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+16:04:38:  新建文本文档.exe - 快捷方式
+16:07:53:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+16:08:23:  KE18-ESS
+16:08:28:  fenxi
+16:08:33:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+16:08:38:  Decode
+16:08:43:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:09:03:  戚晓东
+16:09:08:  K64_BTCR-1100190802300006_20200915102718
+16:09:13:  K64_BTCR-1100190802300006_20200915101921
+16:09:18:  K18_0000_20200915105259.log - [No filter file] - TextAnalysisTool.NET
+16:09:23:  K64-_BTCR-1100190802300006_20200915102718.log - [No filter file] - TextAnalysisTool.NET
+16:09:33:  K64_BTCR-1100190802300006_20200915102718
+16:09:38:  K18_BTCR-1100190802300006_20200915102318
+16:09:43:  K64-K18_BTCR-1100190802300006_20200915102318.log - [No filter file] - TextAnalysisTool.NET
+16:09:48:  K18_BTCR-1100190802300006_20200915102318
+16:09:53:  LOG
+16:09:58:  K64_BTCR-1100190802300006_20200915102318
+16:10:03:  K64-_BTCR-1100190802300006_20200915102318.log - [No filter file] - TextAnalysisTool.NET
+16:10:23:  LogExpert - D:\fenxi\20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。\20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。\Decode\LOG\K64_BTCR-1100190802300006_20200915102318\K64-_BTCR-1100190802300006_20200915102318.log
+16:10:38:  eSpace
+16:10:58:  K64-_BTCR-1100190802300006_20200915102318.log - [No filter file] - TextAnalysisTool.NET
+16:11:03:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+16:14:54:  YO - Everything
+16:14:59:  Everything
+16:14:54:  YO - Everything
+16:14:59:  Everything
+16:15:09:  有道词典 - Everything
+16:15:19:  Everything
+16:15:24:  youdao - Everything
+16:15:29:  杂
+16:15:44:  B75 (G:)
+16:16:04:  B75 (G:) 属性
+16:16:09:  高级共享
+16:16:14:  运行
+16:16:19:  正在复制 1 个项目(34.7 MB)
+16:16:29:  剩余 5 秒
+16:16:34:  G
+16:16:49:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+16:17:09:  主页 - Internet Explorer
+16:17:14:  新北洋OA信息化平台 - Internet Explorer
+16:17:19:  考勤异常 - Internet Explorer
+16:17:44:  员工自助 - Internet Explorer
+16:17:49:  我的薪酬 - Internet Explorer
+16:18:09:  新北洋OA信息化平台 - Internet Explorer
+16:18:34:  运行
+16:18:39:  Program Manager
+16:18:44:  01-办公软件
+16:18:49:  02-开发工具
+16:18:54:  新北洋OA信息化平台 - Internet Explorer
+16:18:59:  软件安装文件
+16:19:09:  01固件工具-必须使用目录中的版本
+16:19:14:  02-开发工具
+16:19:19:  99-其他工具
+16:19:29:  Everything
+16:19:34:  99-其他工具
+16:19:44:  新建文本文档.exe - 快捷方式
+16:19:49:  02-开发工具
+16:19:54:  新标签页 - Google Chrome
+16:19:59:  百度一下，你就知道 - Google Chrome
+16:20:09:  PC版 - 有道词典 - Google Chrome
+16:20:29:  新北洋OA信息化平台 - Internet Explorer
+16:20:34:  PC版 - 有道词典 - Google Chrome
+16:20:44:  新北洋2020年节假日列表.xlsx  [受保护的视图] - Excel
+16:21:14:  PC版 - 有道词典 - Google Chrome
+16:21:19:  新建文本文档.exe - 快捷方式
+16:21:24:  yf-zhangkaifa
+16:21:34:  B75 (G:)
+16:21:39:  运行
+16:21:59:  网络和共享中心
+16:22:24:  新建文本文档.exe - 快捷方式
+16:22:39:  Windows 任务管理器
+16:22:44:  K64_BTCR-1100190802300006_20200915102318
+16:22:59:  「开始」菜单
+16:23:09:  yf-zhangkaifa
+16:23:14:  Network Flyout
+16:23:24:  网络和共享中心
+16:23:39:  B75 (G:)
+16:23:44:  Network Flyout
+16:23:49:  网络和共享中心
+16:23:54:  Network Flyout
+16:24:04:  网络和共享中心
+16:24:53:  运行
+16:24:58:  G
+16:25:13:  正在复制 1 个项目(45.0 MB)
+16:25:18:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+16:25:23:  剩余 10 秒
+16:25:28:  桌面整理
+16:25:38:  D:\CRS\KE18-BOOT-CUR\Applications\Initialization\Intial.c (KE18-BOOT-CUR) - Sublime Text (UNREGISTERED)
+16:25:43:  桌面整理
+16:25:53:  Windows 任务管理器
+16:26:03:  桌面整理
+16:26:08:  Windows 任务管理器
+16:26:13:  eSpace Login
+16:26:23:  eSpace
+16:26:28:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+16:26:33:  新建文本文档.exe - 快捷方式
+16:26:38:  View Available Networks
+16:26:43:  TrayIcon
+16:26:48:  「开始」菜单
+16:26:53:  程序和功能
+16:26:58:  Uninstall
+16:27:08:  Beyond Compare 4 Uninstall
+16:27:13:  程序和功能
+16:27:18:  iVCam卸载向导
+16:27:28:  程序和功能
+16:27:43:  小孩桌面便签卸载程序
+16:27:48:  程序和功能
+16:27:53:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+16:27:58:  于斌1
+16:28:08:  eSpace
+16:28:13:  Network Flyout
+16:28:18:  网络和共享中心
+16:28:23:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+16:28:38:  「开始」菜单
+16:28:48:  主页 - Internet Explorer
+16:29:03:  iTunes
+16:29:08:  新北洋OA信息化平台 - Internet Explorer
+16:29:23:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+16:29:28:  新北洋OA信息化平台 - Internet Explorer
+16:29:33:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+16:29:48:  新北洋OA信息化平台 - Internet Explorer
+16:29:53:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+16:28:08:  eSpace
+16:28:13:  Network Flyout
+16:28:18:  网络和共享中心
+16:28:23:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+16:28:38:  「开始」菜单
+16:28:48:  主页 - Internet Explorer
+16:29:03:  iTunes
+16:29:08:  新北洋OA信息化平台 - Internet Explorer
+16:29:23:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+16:29:28:  新北洋OA信息化平台 - Internet Explorer
+16:29:33:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+16:29:48:  新北洋OA信息化平台 - Internet Explorer
+16:29:53:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+16:30:23:  eSpace
+16:30:28:  于斌1
+16:30:38:  D:\CRS\KE18-ESS\Applications\InstrExp\InstrExp.c (KE18-ESS) - Sublime Text (UNREGISTERED)
+16:37:23:  库
+16:37:28:  KE18-ESS
+16:37:38:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:39:03:  TCR调测工具（研发版）V1.0.0.4
+16:39:13:  打开
+16:39:18:  TCR调测工具（研发版）V1.0.0.4
+16:39:28:  BTCRTestTool
+16:39:33:  TCR调测工具（研发版）V1.0.0.4
+16:39:43:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:39:48:  KE18-ESS
+16:39:58:  Project
+16:40:03:  μVision
+16:40:08:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:40:18:  μVision
+16:40:23:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:41:23:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:41:33:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:41:53:  TCR调测工具（研发版）V1.0.0.4
+16:42:03:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:42:08:  TCR调测工具（研发版）V1.0.0.4
+16:42:28:  Project
+16:42:33:  本地磁盘 (D:)
+16:42:53:  自动播放
+16:42:58:  本地磁盘 (D:)
+16:43:08:  新标签页 - Google Chrome
+16:43:18:  www.baidu.com - Google Chrome
+16:43:23:  百度一下，你就知道 - Google Chrome
+16:43:33:  飞思卡尔 芯片加密怎么_百度搜索 - Google Chrome
+16:43:58:  飞思卡尔HCS12系列 Flash的加密解密解决方法 - 单片机 - Google Chrome
+16:44:08:  eSpace
+16:44:13:  张健4
+16:44:23:  飞思卡尔 芯片加密怎么_百度搜索 - Google Chrome
+16:44:08:  eSpace
+16:44:13:  张健4
+16:44:23:  飞思卡尔 芯片加密怎么_百度搜索 - Google Chrome
+16:45:53:  戚晓东
+16:45:58:  飞思卡尔 芯片加密怎么_百度搜索 - Google Chrome
+16:46:23:  张健4
+16:46:33:  飞思卡尔 芯片加密怎么_百度搜索 - Google Chrome
+16:46:43:  飞思卡尔 FSEC 0xFF_百度搜索 - Google Chrome
+16:46:53:  飞思卡尔MKE04Z128加密 - - 中国电子网技术论坛 - Google Chrome
+16:47:13:  张健4
+16:47:18:  00-06
+16:47:23:  本地磁盘 (D:)
+16:47:28:  startup_MKE18F16.s - “00-18”中的搜索结果
+16:47:33:  查找
+16:47:43:  张健4
+16:47:48:  startup_MKE18F16.s - 记事本
+16:47:53:  本地磁盘 (D:)
+16:47:58:  KE18-ESS
+16:48:03:  startup_MKE18F16.s - 记事本
+16:48:13:  查找
+16:48:18:  startup_MKE18F16.s - 记事本
+16:48:23:  飞思卡尔 FSEC 0xFF_百度搜索 - Google Chrome
+16:48:28:  飞思卡尔 FSEC EQU_百度搜索 - Google Chrome
+16:48:33:  KE FSEC EQU_百度搜索 - Google Chrome
+16:48:38:  KEA128单片机启动代码分析_weixin_34269583的博客-CSDN博客 - Google Chrome
+16:49:13:  KE FSEC EQU_百度搜索 - Google Chrome
+16:49:23:  FSEC EQU_百度搜索 - Google Chrome
+16:49:33:  (3条消息)Cortex M0+ Keil MDK启动文件详解_uunubt的专栏-CSDN博客 - Google Chrome
+16:50:03:  「开始」菜单
+16:50:08:  网易有道词典
+16:50:23:  (3条消息)Cortex M0+ Keil MDK启动文件详解_uunubt的专栏-CSDN博客 - Google Chrome
+16:50:43:  网易有道词典
+16:50:53:  (3条消息)Cortex M0+ Keil MDK启动文件详解_uunubt的专栏-CSDN博客 - Google Chrome
+16:51:08:  startup_MKE18F16.s - 记事本
+16:51:28:  计算器
+16:52:18:  网易有道词典
+16:52:23:  startup_MKE18F16.s - 记事本
+16:52:38:  网易有道词典
+16:52:43:  startup_MKE18F16.s - 记事本
+16:53:18:  Backdoor key access enabled_百度搜索 - Google Chrome
+16:53:28:  https://www.baidu.com/link?url=KSsNpTYS5BW4a9Znt11b9sXEZRbknGHPBmTxWakH9B-S7mq86-0QLzfHG4aEj2oxk14aYrlEIvl1wYxPmAlt2gNoQR7uMWubG3O5ajnIKvS&wd=&eqid=b85e9bab0000f191000000025f6080fc - Google Chrome
+16:53:33:  张健4
+16:53:48:  startup_MKE18F16.s - 记事本
+16:54:03:  所有笔记本 - 张开发 - 印象笔记
+16:54:08:  0-工作 - 张开发 - 印象笔记
+16:54:13:  印象笔记
+16:54:18:  0-工作 - 张开发 - 印象笔记
+16:54:23:  startup_MKE18F16.s - 记事本
+16:54:28:  Re: problems with back-door keys access for MCU se... - NXP Community - Google Chrome
+16:54:38:  翻译此页？
+16:54:53:  回复：MCU系列的后门钥匙访问问题...-NXP Community - Google Chrome
+16:55:28:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:55:43:  锁屏状态
+16:55:48:  startup_MKE18F16.s - 记事本
+16:55:53:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:56:08:  eSpace
+16:56:13:  张健4
+16:56:33:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:56:38:  张健4
+16:56:43:  回复：MCU系列的后门钥匙访问问题...-NXP Community - Google Chrome
+16:57:13:  董鲁乾
+16:57:53:  回复：MCU系列的后门钥匙访问问题...-NXP Community - Google Chrome
+16:58:28:  董鲁乾
+17:00:03:  回复：MCU系列的后门钥匙访问问题...-NXP Community - Google Chrome
+16:58:28:  董鲁乾
+17:00:03:  回复：MCU系列的后门钥匙访问问题...-NXP Community - Google Chrome
+17:00:43:  董鲁乾
+17:00:58:  回复：MCU系列的后门钥匙访问问题...-NXP Community - Google Chrome
+17:01:28:  张健4
+17:01:43:  回复：MCU系列的后门钥匙访问问题...-NXP Community - Google Chrome
+17:02:23:  张健4
+17:03:48:  回复：MCU系列的后门钥匙访问问题...-NXP Community - Google Chrome
+17:04:23:  张健4
+17:04:58:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+17:05:08:  μVision
+17:05:13:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+17:06:33:  张健4
+17:06:38:  Backdoor key access enabled_百度搜索 - Google Chrome
+17:06:48:  飞思卡尔 擦闪存_百度搜索 - Google Chrome
+17:06:58:  startup_MKE18F16.s - “KE18-ESS”中的搜索结果
+17:07:03:  本地磁盘 (E:)
+17:07:08:  本地磁盘 (D:)
+17:07:13:  CRS
+17:07:18:  KE18-BOOT
+17:07:23:  查找
+17:07:38:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+17:07:58:  「开始」菜单
+17:08:18:  Welcome to J-Flash
+17:08:28:  K - Everything
+17:08:33:  MKE18 - Everything
+17:08:38:  . - Everything
+17:08:43:  .jflash - Everything
+17:08:48:  Create New Project
+17:08:53:   Select device
+17:09:23:  Create New Project
+17:09:28:  SEGGER J-Flash V6.32h - [new project *]
+17:09:38:  J-Flash V6.32h Error
+17:09:43:  SEGGER J-Flash V6.32h - [new project *]
+17:09:53:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+17:09:58:  μVision
+17:10:03:  SEGGER J-Flash V6.32h - [new project *]
+17:10:23:  J-Flash V6.32h Error
+17:10:28:  「开始」菜单
+17:10:38:  J-Link Commander V6.32h
+17:11:03:  μVision
+17:11:08:  「开始」菜单
+17:11:13:  J-Link Commander V6.32h
+17:12:03:  飞思卡尔 擦闪存_百度搜索 - Google Chrome
+17:12:08:  startup_MKE18F16.s - 记事本
+17:12:23:  回复：MCU系列的后门钥匙访问问题...-NXP Community - Google Chrome
+17:13:03:  J-Link Commander V6.32h
+17:13:48:  回复：MCU系列的后门钥匙访问问题...-NXP Community - Google Chrome
+17:14:53:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+17:14:58:  μVision
+17:14:53:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+17:14:58:  μVision
+17:15:18:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+17:15:58:  锁屏状态
+17:42:03:  回复：MCU系列的后门钥匙访问问题...-NXP Community - Google Chrome
+17:42:38:  飞思卡尔 擦闪存_百度搜索 - Google Chrome
+17:43:13:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+17:43:18:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+17:43:58:  KE1xFP100M168SF0.pdf - Adobe Reader
+17:44:23:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+17:44:28:  计算器
+17:44:33:  飞思卡尔MKE04Z128加密 - - 中国电子网技术论坛 - Google Chrome
+17:44:38:  KEA128单片机启动代码分析_weixin_34269583的博客-CSDN博客 - Google Chrome
+17:44:43:  飞思卡尔MKE04Z128加密 - - 中国电子网技术论坛 - Google Chrome
+17:44:23:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+17:44:28:  计算器
+17:44:33:  飞思卡尔MKE04Z128加密 - - 中国电子网技术论坛 - Google Chrome
+17:44:38:  KEA128单片机启动代码分析_weixin_34269583的博客-CSDN博客 - Google Chrome
+17:44:43:  飞思卡尔MKE04Z128加密 - - 中国电子网技术论坛 - Google Chrome
+17:45:13:  bbs.21ic.com - Google Chrome
+17:45:33:  新北洋OA信息化平台 - Internet Explorer
+17:45:38:  http://oa.byintra.com/iPortal/publish/Default.aspx - Internet Explorer
+17:45:48:  主页 - Internet Explorer
+17:45:53:  系统登录 - Internet Explorer
+17:45:58:  新北洋OA信息化平台 - Internet Explorer
+17:46:08:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+17:46:13:  新北洋OA信息化平台 - Internet Explorer
+17:46:18:  community.nxp.com - Google Chrome
+17:46:28:  飞思卡尔MKE04Z128加密 - - 中国电子网技术论坛 - Google Chrome
+17:46:38:  KEA128单片机启动代码分析_weixin_34269583的博客-CSDN博客 - Google Chrome
+17:48:13:  自动播放
+17:50:28:  D:\00-KE64\CRS-64\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c (CRS-64) - Sublime Text (UNREGISTERED)
+17:50:33:  选择文件夹
+17:50:43:  untitled (trunk) - Sublime Text (UNREGISTERED)
+17:50:53:  D:\00-06\1T1-Stop-Length\trunk\Applications\ErrCode\ErrCode.h (trunk) - Sublime Text (UNREGISTERED)
+17:51:33:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+17:51:43:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+17:53:33:  DRB传感器.txt - 记事本
+17:56:03:  新建文本文档.exe - 快捷方式
+17:56:13:  KEA128单片机启动代码分析_weixin_34269583的博客-CSDN博客 - Google Chrome
+17:56:18:  张健4
+17:56:28:  飞思卡尔 Flash security byte (FSEC)_百度搜索 - Google Chrome
+17:56:33:  (3条消息)404 - Google Chrome
+17:56:38:  飞思卡尔 Flash security byte (FSEC)_百度搜索 - Google Chrome
+17:56:58:  飞思卡尔 flash configuration field_百度搜索 - Google Chrome
+17:57:03:  https://www.baidu.com/link?url=WW0WB1XLueaBZXD6nkxaamVHAzyiimJw7X4sHERT-ZKtSOq_XGwq5QV9Wz-0gieNuYemIfT7xJ5va5xZwC5KrmYXp8y-ubWgzH1xWkvYYieoG2s8gSNevz9j6ES-n7xvs_0FXS12v-DwzltzbJziYq&wd=&eqid=c0a4dbb1000434bc000000025f608fe7 - Google Chrome
+17:57:08:  转：使用CW10.x的PE禁用NMI不可屏蔽中断 - NXP MCU 技术论坛 - 中国电子技术论坛 - 广受欢迎的专业电子论坛! - Google Chrome
+17:58:08:  飞思卡尔 flash configuration field_百度搜索 - Google Chrome
+17:58:18:  【图文解说】基于飞思卡尔MC9S12XS的Flash擦除和写入操作_u012252959的博客-CSDN博客 - Google Chrome
+17:58:23:  (3条消息)【图文解说】基于飞思卡尔MC9S12XS的Flash擦除和写入操作_u012252959的博客-CSDN博客 - Google Chrome
+17:58:58:  community.nxp.com - Google Chrome
+17:59:03:  飞思卡尔 flash configuration field_百度搜索 - Google Chrome
+17:59:13:  www.baidu.com - Google Chrome
+17:59:18:  新建文本文档.exe - 快捷方式
+17:59:43:  自动播放
+17:58:08:  飞思卡尔 flash configuration field_百度搜索 - Google Chrome
+17:58:18:  【图文解说】基于飞思卡尔MC9S12XS的Flash擦除和写入操作_u012252959的博客-CSDN博客 - Google Chrome
+17:58:23:  (3条消息)【图文解说】基于飞思卡尔MC9S12XS的Flash擦除和写入操作_u012252959的博客-CSDN博客 - Google Chrome
+17:58:58:  community.nxp.com - Google Chrome
+17:59:03:  飞思卡尔 flash configuration field_百度搜索 - Google Chrome
+17:59:13:  www.baidu.com - Google Chrome
+17:59:18:  新建文本文档.exe - 快捷方式
+17:59:43:  自动播放
+18:02:23:  张健4
+18:02:43:  飞思卡尔 flash configuration field_百度搜索 - Google Chrome
+18:02:53:  「开始」菜单
+18:03:03:  Welcome to J-Flash
+18:03:08:  .jflash - Everything
+18:03:18:  Welcome to J-Flash
+18:03:23:   Select device
+18:03:48:  SEGGER J-Flash V6.32h - [new project *]
+18:03:53:  Project settings
+18:04:49:  SEGGER J-Flash V6.32h - [new project *]
+18:04:54:  Global settings
+18:04:59:  张健4
+18:08:29:  「开始」菜单
+18:08:34:  SEGGER J-Flash V6.32h
+18:08:39:  「开始」菜单
+18:08:44:  J-Link Commander V6.32h
+18:08:59:  张健4
+18:09:29:  飞思卡尔 flash configuration field_百度搜索 - Google Chrome
+18:09:39:  飞思卡尔 内存加密_百度搜索 - Google Chrome
+18:09:44:  飞思卡尔KL15芯片加密 - 百度文库 - Google Chrome
+18:10:04:  张健4
+18:10:09:  飞思卡尔KL15芯片加密 - 百度文库 - Google Chrome
+18:10:44:  张健4
+18:10:49:  「开始」菜单
+18:10:54:  Welcome to J-Flash
+18:11:04:  Create New Project
+18:11:09:   Select device
+18:11:19:  SEGGER J-Flash V6.32h - [new project *]
+18:11:24:  张健4
+18:11:39:  飞思卡尔KL15芯片加密 - 百度文库 - Google Chrome
+18:12:14:  锁屏状态
+18:12:19:  J-Flash V6.32h Error
+18:12:24:  SEGGER J-Flash V6.32h - [new project *]
+18:12:29:  J-Flash V6.32h Error
+18:12:34:  SEGGER J-Flash V6.32h - [new project *]
+18:12:54:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+18:13:04:  J-Flash V6.32h Error
+18:13:09:  SEGGER J-Flash V6.32h - [new project *]
+18:13:14:  Project settings
+18:13:44:  J-Flash V6.32h Error
+18:13:49:  SEGGER J-Flash V6.32h - [new project *]
+18:14:09:  μVision
+18:14:14:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+18:14:34:  μVision
+18:14:39:  跳转列表
+18:14:44:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+18:14:09:  μVision
+18:14:14:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+18:14:34:  μVision
+18:14:39:  跳转列表
+18:14:44:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+18:15:49:  EXTFEDAD2V10中部控制板.PDF
+18:15:59:  EXTFEDAD2V10中部控制板.PDF - Adobe Reader
+18:16:34:  Adobe Reader
+18:16:44:  「开始」菜单
+18:16:49:  J-Link Commander V6.32h
+18:17:39:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+18:17:49:  μVision
+18:17:54:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+18:17:59:  J-Link Commander V6.32h
+18:18:04:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+18:18:44:  startup_MKE18F16.s - 记事本
+18:19:04:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+18:19:19:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:19:24:  SEGGER J-Link V6.10b - Control panel
+18:19:29:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+18:20:04:  锁屏状态

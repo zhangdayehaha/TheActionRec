@@ -1,0 +1,1039 @@
+08:06:43:  LogExpert #1 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228140756\K64-_BTCR-1100200700510494_20201228140756.log
+08:06:48:  荆文波
+08:06:53:  LogExpert #1 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228140756\K64-_BTCR-1100200700510494_20201228140756.log
+08:15:18:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:16:13:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c • (trunk) - Sublime Text (UNREGISTERED)
+08:16:18:  本地磁盘 (E:)
+08:16:28:  E:\213815.txt (trunk) - Sublime Text (UNREGISTERED)
+08:16:33:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c • (trunk) - Sublime Text (UNREGISTERED)
+08:17:08:  E:\213815.txt (trunk) - Sublime Text (UNREGISTERED)
+08:17:13:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c • (trunk) - Sublime Text (UNREGISTERED)
+08:17:18:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+08:17:23:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:22:33:  0-工作 - 张开发 - 印象笔记
+08:22:48:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:24:48:  eSpace
+08:25:03:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:32:28:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:32:33:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:33:08:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:37:03:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:43:03:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision (未响应)
+08:43:08:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:43:13:  本地磁盘 (D:)
+08:43:18:  CRS
+08:43:23:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+08:43:28:  CRS调测工具（研发版）V1.0.2.1
+08:43:38:  打开
+08:43:43:  CRS调测工具（研发版）V1.0.2.1
+08:44:18:  Tools
+08:44:23:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:44:18:  Tools
+08:44:23:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:48:38:  CRS调测工具（研发版）V1.0.2.1
+08:50:38:  V1.014
+08:50:43:  CRS调测工具（研发版）V1.0.2.1
+08:50:48:  发送指令到K18
+08:50:58:  CRS调测工具（研发版）V1.0.2.1
+08:51:03:  发送指令到K18
+08:51:08:  CRS调测工具（研发版）V1.0.2.1
+08:51:48:  Windows 资源管理器
+08:51:53:  20210106
+08:51:58:  Decode
+08:52:03:  CS_0000_20210106085038.log - DRB.tat* - TextAnalysisTool.NET
+08:52:28:  CRS调测工具（研发版）V1.0.2.1
+08:52:33:  发送指令到K18
+08:53:03:  CRS调测工具（研发版）V1.0.2.1
+08:53:13:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:54:23:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+08:54:28:  CRS调测工具（研发版）V1.0.2.1
+08:54:38:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:54:58:  ● LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:55:18:  CRS调测工具（研发版）V1.0.2.1
+08:55:28:  发送指令到K18
+08:55:33:  CRS调测工具（研发版）V1.0.2.1
+08:55:38:  发送指令到K18
+08:55:43:  CRS调测工具（研发版）V1.0.2.1
+08:57:33:  500ms日志
+08:57:53:  Decode
+08:57:58:  20210106
+08:58:03:  CS_0000_20210106085038.log - DRB.tat* - TextAnalysisTool.NET
+08:58:23:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:58:58:  CS_0000_20210106085038.log - DRB.tat* - TextAnalysisTool.NET
+08:59:23:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:58:23:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:58:58:  CS_0000_20210106085038.log - DRB.tat* - TextAnalysisTool.NET
+08:59:23:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+09:01:14:  Tools
+09:01:19:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+09:01:24:  CRS调测工具（研发版）V1.0.2.1
+09:01:39:  打开
+09:01:49:  CRS调测工具（研发版）V1.0.2.1
+09:11:24:  锁屏状态
+09:11:45:  CRS调测工具（研发版）V1.0.2.1
+09:12:00:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+09:12:05:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+09:12:10:  Tools
+09:12:15:  ID-2 2#DRB钞箱上腔50元大额取款少一张，下腔10元盘点时多一张，检查发现一张50元进入下腔。12.28
+09:12:20:  本地磁盘 (D:)
+09:12:25:  00-06
+09:12:30:  svnn
+09:12:35:  D:\00-06\svnn - 日志信息 - TortoiseSVN
+09:13:30:  svnn
+09:13:35:  D:\00-06\svnn - 更新 - TortoiseSVN
+09:13:40:  更新 完成！
+09:13:45:  svnn
+09:13:55:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision (未响应)
+09:14:00:  D:\00-06\svnn\Project\CashBox.uvprojx - μVision
+09:14:40:  μVision
+09:14:45:  00-06
+09:14:50:  BR-1-CashBox1T2-Press
+09:15:00:  Project
+09:14:40:  μVision
+09:14:45:  00-06
+09:14:50:  BR-1-CashBox1T2-Press
+09:15:00:  Project
+09:15:05:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision
+09:15:35:  BR-1-CashBox1T2-Press
+09:15:40:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Tools\CreateJK.exe
+09:15:50:  Tools
+09:15:55:  锁屏状态
+09:19:40:  BR-1-CashBox1T2-Press
+09:19:45:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+09:19:55:  CRS调测工具（研发版）V1.0.2.1
+09:20:00:  BR-1-CashBox1T2-Press
+09:20:05:  跳转列表
+09:20:10:  BR-1-CashBox1T2-Press
+09:20:20:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision
+09:21:05:  BR-1-CashBox1T2-Press
+09:21:10:  Tools
+09:21:15:  锁屏状态
+09:23:00:  CS_0000_20210106085038.log - DRB.tat* - TextAnalysisTool.NET
+09:23:05:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision
+09:23:30:  锁屏状态
+09:23:40:  K64_BTCR-1100200700510494_20201228140756
+09:23:45:  00-06
+09:23:50:  svnn
+09:24:00:  00-06
+09:24:05:  检出
+09:24:10:   - 版本库浏览器 - TortoiseSVN
+09:24:20:  http://192.168.10.9:82/svn/BTCR-1100 - 版本库浏览器 - TortoiseSVN
+09:24:30:  选择版本
+09:24:35:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+09:24:45:  http://192.168.10.9:82/svn/BTCR-1100 - 版本库浏览器 - TortoiseSVN
+09:24:50:  BR-1-CashBox1T2-Press - 检出 - TortoiseSVN
+09:25:00:  检出 完成！
+09:25:10:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+09:26:00:  D:\00-06\232\Tools\CreateJK.exe
+09:26:10:  锁屏状态
+09:27:15:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+09:27:35:  锁屏状态
+09:32:40:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+09:33:25:  D:\00-06\232\Tools\CreateJK.exe
+09:33:30:  Tools
+09:33:35:  锁屏状态
+09:36:30:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+09:36:40:  Tools
+09:36:50:  锁屏状态
+09:53:10:  D:\00-06\meger\Applications\State\State.c • (gfgd) - Sublime Text (UNREGISTERED)
+09:53:20:  Save Changes?
+09:53:30:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c • (trunk) - Sublime Text (UNREGISTERED)
+09:53:35:  选择文件夹
+09:53:40:  E:\213815.txt (trunk) - Sublime Text (UNREGISTERED)
+09:53:45:  选择文件夹
+09:53:55:  untitled (meger) - Sublime Text (UNREGISTERED)
+09:54:10:  D:\00-06\meger\Middlewares\Sensor\Sensor.c (meger) - Sublime Text (UNREGISTERED)
+09:54:45:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.h (meger) - Sublime Text (UNREGISTERED)
+09:54:50:  D:\00-06\meger\Middlewares\Sensor\Sensor.c (meger) - Sublime Text (UNREGISTERED)
+09:55:35:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+09:56:55:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+09:57:45:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c • (meger) - Sublime Text (UNREGISTERED)
+09:57:50:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+09:58:05:  eSpace
+09:58:10:  潘超
+09:58:20:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+09:58:35:  232
+09:58:40:  TortoiseMerge
+09:58:45:  D:\00-06\232 - 日志信息 - TortoiseSVN
+09:59:40:  Sensor.c Revision 4149 - TortoiseMerge
+09:59:55:  D:\00-06\232 - 日志信息 - TortoiseSVN
+09:58:05:  eSpace
+09:58:10:  潘超
+09:58:20:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+09:58:35:  232
+09:58:40:  TortoiseMerge
+09:58:45:  D:\00-06\232 - 日志信息 - TortoiseSVN
+09:59:40:  Sensor.c Revision 4149 - TortoiseMerge
+09:59:55:  D:\00-06\232 - 日志信息 - TortoiseSVN
+10:00:05:  Sensor.c Revision 4154 - TortoiseMerge
+10:00:20:  232
+10:00:25:  00-06
+10:00:45:  BR-1-CashBox1T2-Press
+10:00:50:  SensorDriver.c - TortoiseMerge
+10:01:05:  UpperPlate.c - TortoiseMerge
+10:01:10:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 工作副本 - TortoiseSVN
+10:01:50:  BR-1-CashBox1T2-Press
+10:01:55:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+10:02:00:  D:\00-06\meger\Applications\Instruction\InstrExecute.c (meger) - Sublime Text (UNREGISTERED)
+10:02:10:  BR-1-CashBox1T2-Press
+10:02:15:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:02:20:  ● LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:02:25:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:03:00:  BR-1-CashBox1T2-Press
+10:03:05:  D:\00-06\meger\Applications\Instruction\InstrExecute.c (meger) - Sublime Text (UNREGISTERED)
+10:03:15:  BR-1-CashBox1T2-Press
+10:03:20:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+10:03:35:  BR-1-CashBox1T2-Press
+10:03:40:  D:\00-06\meger\Middlewares\Sensor\Sensor.c (meger) - Sublime Text (UNREGISTERED)
+10:04:05:  D:\00-06\meger\Middlewares\Sensor\Sensor.c • (meger) - Sublime Text (UNREGISTERED)
+10:04:10:  D:\00-06\meger\Middlewares\Sensor\Sensor.c (meger) - Sublime Text (UNREGISTERED)
+10:04:25:  D:\00-06\meger - 提交 - TortoiseSVN
+10:04:30:  InstrHandle.c - TortoiseMerge
+10:04:35:  D:\00-06\meger - 提交 - TortoiseSVN
+10:04:40:  MemoryConfig.h - TortoiseMerge
+10:04:45:  MotorCtrl.c - TortoiseMerge
+10:04:55:  D:\00-06\meger - 工作副本 - TortoiseSVN
+10:05:00:  PublicDriver.c - TortoiseMerge
+10:05:10:  PublicDriver.h - TortoiseMerge
+10:05:15:  SensorDriver.c - TortoiseMerge
+10:05:30:  Bldc.c - TortoiseMerge
+10:05:35:  D:\00-06\meger - 工作副本 - TortoiseSVN
+10:05:40:  SensorDriver.c - TortoiseMerge
+10:05:45:  LowerPlate.c - TortoiseMerge
+10:06:45:  UpperPlate.c - TortoiseMerge
+10:06:50:  D:\00-06\meger - 工作副本 - TortoiseSVN
+10:06:55:  D:\00-06\meger - 提交 - TortoiseSVN
+10:07:00:  历史记录
+10:07:05:  D:\00-06\meger - 提交 - TortoiseSVN
+10:07:30:  D:\00-06\meger\Middlewares\Sensor\Sensor.c - 提交 - TortoiseSVN
+10:07:35:  232
+10:07:45:  更新 完成！
+10:07:50:  D:\00-06\232 - 日志信息 - TortoiseSVN
+10:07:55:  232
+10:08:05:  μVision
+10:08:10:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+10:10:10:  V1.014
+10:10:15:  CRS调测工具（研发版）V1.0.2.1
+10:11:30:  CashRecyclerTool 属性
+10:11:35:  20210106
+10:11:40:  Decode
+10:11:45:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:11:50:  K64_0000_20210106101022
+10:11:55:  Box_5__0000_20210106101022.log - DRB.tat* - TextAnalysisTool.NET
+10:12:45:  本地磁盘 (D:)
+10:12:50:  D:\00-06\232\Tools\CreateJK.exe
+10:12:55:  CRS调测工具（研发版）V1.0.2.1
+10:13:05:  打开
+10:13:15:  CRS调测工具（研发版）V1.0.2.1
+10:14:40:  取款
+10:14:50:  CRS调测工具（研发版）V1.0.2.1
+10:14:40:  取款
+10:14:50:  CRS调测工具（研发版）V1.0.2.1
+10:17:15:  读写ERROM
+10:17:20:  CRS调测工具（研发版）V1.0.2.1
+10:20:20:  20210106
+10:20:30:  LOG
+10:20:35:  Box_5__0000_20210106101924.log - DRB.tat* - TextAnalysisTool.NET
+10:21:15:  删除文件夹
+10:21:20:  CRS调测工具（研发版）V1.0.2.1
+10:22:35:  20210106
+10:23:20:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:23:25:  20210106
+10:23:30:  LOG
+10:23:35:  Box_5__0000_20210106102139.log - DRB.tat* - TextAnalysisTool.NET
+10:23:45:  Decode
+10:23:50:  20210106
+10:23:55:  K64_0000_20210106102139.log - DRB.tat* - TextAnalysisTool.NET
+10:24:00:  CRS调测工具（研发版）V1.0.2.1
+10:24:05:  20210106
+10:24:25:  CRS调测工具（研发版）V1.0.2.1
+10:24:30:  取款
+10:24:35:  CRS调测工具（研发版）V1.0.2.1
+10:24:55:  20210106
+10:25:10:  LOG
+10:25:15:  Box_5__0000_20210106102440.log - DRB.tat* - TextAnalysisTool.NET
+10:25:30:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:25:35:  发送指令到K06
+10:25:45:  CRS调测工具（研发版）V1.0.2.1
+10:26:01:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+10:27:01:  CRS调测工具（研发版）V1.0.2.1
+10:27:41:  20210106
+10:27:46:  Decode
+10:27:51:  K64_0000_20210106102701
+10:27:56:  Box_5__0000_20210106102701.log - DRB.tat* - TextAnalysisTool.NET
+10:28:06:  20210106
+10:28:16:  CRS调测工具（研发版）V1.0.2.1
+10:28:21:  取款
+10:28:26:  CRS调测工具（研发版）V1.0.2.1
+10:28:36:  读写ERROM
+10:28:41:  取款
+10:28:46:  20210106
+10:28:51:  CRS调测工具（研发版）V1.0.2.1
+10:29:41:  删除多个项目
+10:29:46:  取款
+10:29:51:  20210106
+10:29:56:  CRS调测工具（研发版）V1.0.2.1
+10:30:01:  20210106
+10:28:06:  20210106
+10:28:16:  CRS调测工具（研发版）V1.0.2.1
+10:28:21:  取款
+10:28:26:  CRS调测工具（研发版）V1.0.2.1
+10:28:36:  读写ERROM
+10:28:41:  取款
+10:28:46:  20210106
+10:28:51:  CRS调测工具（研发版）V1.0.2.1
+10:29:41:  删除多个项目
+10:29:46:  取款
+10:29:51:  20210106
+10:29:56:  CRS调测工具（研发版）V1.0.2.1
+10:30:01:  20210106
+10:30:16:  Decode
+10:30:21:  Box_5__0000_20210106102701.log - DRB.tat* - TextAnalysisTool.NET
+10:30:26:  Box_5__0000_20210106102946.log - DRB.tat* - TextAnalysisTool.NET
+10:32:31:  锁屏状态
+10:32:36:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.c (meger) - Sublime Text (UNREGISTERED)
+10:32:46:  Box_5__0000_20210106102946.log - DRB.tat* - TextAnalysisTool.NET
+10:32:51:  Add Filter
+10:32:56:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.c (meger) - Sublime Text (UNREGISTERED)
+10:33:11:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+10:37:51:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.c (meger) - Sublime Text (UNREGISTERED)
+10:38:11:  Box_5__0000_20210106102946.log - DRB.tat* - TextAnalysisTool.NET
+10:38:31:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.c (meger) - Sublime Text (UNREGISTERED)
+10:39:41:  CRS调测工具（研发版）V1.0.2.1
+10:41:51:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+10:53:26:  自动播放
+10:54:21:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+11:03:21:  LogExpert #2 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101061103.log
+11:03:31:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+11:06:56:  μVision
+11:07:01:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+11:07:06:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+11:12:16:  CRS调测工具（研发版）V1.0.2.1
+11:12:56:  读写ERROM
+11:13:01:  CRS调测工具（研发版）V1.0.2.1
+11:14:06:  取款
+11:14:11:  CRS调测工具（研发版）V1.0.2.1
+11:14:06:  取款
+11:14:11:  CRS调测工具（研发版）V1.0.2.1
+11:21:01:  可接收
+11:21:06:  取款
+11:21:16:  20210106
+11:21:26:  Decode
+11:21:31:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:21:41:  Decode
+11:21:46:  Box_3__0000_20210106112002.log - DRB.tat* - TextAnalysisTool.NET
+11:22:11:  读写ERROM
+11:22:16:  取款
+11:22:21:  20210106
+11:22:31:  取款
+11:22:41:  CRS调测工具（研发版）V1.0.2.1
+11:23:31:  通道电机测试
+11:23:56:  CRS调测工具（研发版）V1.0.2.1
+11:24:21:  荆文波
+11:24:36:  20210106
+11:24:41:  Decode
+11:24:46:  Box_3__0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+11:25:46:  gfgd
+11:26:06:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+11:26:42:  CRS调测工具（研发版）V1.0.2.1
+11:26:47:  打开
+11:30:12:  CRS调测工具（研发版）V1.0.2.1
+11:31:32:  荆文波
+11:31:37:  CRS调测工具（研发版）V1.0.2.1
+11:31:42:  读写ERROM
+11:31:47:  CRS调测工具（研发版）V1.0.2.1
+11:35:52:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+11:37:17:  LogExpert #3 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101061103.log
+11:37:22:  J-Link V6.10b Device Selection
+11:37:27:  J-Link V6.10b Error
+11:37:32:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+11:37:37:  J-Link V6.10b Device Selection
+11:37:42:  J-Link V6.10b Error
+11:37:47:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+11:37:52:  J-Link V6.10b Device Selection
+11:37:57:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+11:38:12:  eSpace
+11:38:17:  SEGGER J-Link V6.10b - Control panel
+11:38:22:  Blank
+11:38:27:  JLink - Cortex-M Error
+11:38:32:  BOOT
+11:38:42:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+11:38:57:  μVision
+11:39:02:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+11:39:07:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+11:39:27:  KE06LOG.bat - 快捷方式 (2)
+11:39:32:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+11:39:47:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101061139.log
+11:39:52:  锁屏状态
+13:14:42:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101061139.log
+13:14:47:  Box_3__0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:15:02:  CRS调测工具（研发版）V1.0.2.1
+13:14:42:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101061139.log
+13:14:47:  Box_3__0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:15:02:  CRS调测工具（研发版）V1.0.2.1
+13:15:38:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101061139.log
+13:15:58:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+13:16:48:  印象笔记
+13:17:08:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+13:17:18:  LogExpert #1 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228140756\K64-_BTCR-1100200700510494_20201228140756.log
+13:17:23:  KE06LOG.bat - 快捷方式 (2)
+13:17:28:  LogExpert
+13:17:33:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101061317.log
+13:17:38:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+13:18:28:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101061317.log
+13:19:03:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+13:19:28:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101061317.log
+13:19:33:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+13:19:38:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101061317.log
+13:19:58:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+13:20:03:  μVision
+13:20:08:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+13:20:33:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101061317.log
+13:20:38:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+13:21:53:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101061317.log
+13:23:18:  荆文波
+13:23:28:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+13:24:58:  CRS调测工具（研发版）V1.0.2.1
+13:27:33:  K64_0000_20210106112237
+13:27:38:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:27:43:  Box_3__0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:27:53:  锁屏状态
+13:27:58:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:28:18:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:28:33:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:28:58:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:29:08:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:29:13:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:29:23:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:29:38:  CRS调测工具（研发版）V1.0.2.1
+13:29:43:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:29:48:  CRS调测工具（研发版）V1.0.2.1
+13:28:18:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:28:33:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:28:58:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:29:08:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:29:13:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:29:23:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:29:38:  CRS调测工具（研发版）V1.0.2.1
+13:29:43:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:29:48:  CRS调测工具（研发版）V1.0.2.1
+13:30:38:  读写ERROM
+13:30:43:  CRS调测工具（研发版）V1.0.2.1
+13:30:48:  取款
+13:31:03:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:31:08:  于斌1
+13:31:33:  本地磁盘 (D:)
+13:31:38:  深圳出差
+13:31:43:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+13:31:48:  gfgd
+13:31:58:  更新 完成！
+13:32:03:  TortoiseSVN
+13:32:13:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+13:32:45:  于斌1
+13:33:25:  gfgd
+13:33:35:  选择文件夹
+13:33:40:  untitled (gfgd) - Sublime Text (UNREGISTERED)
+13:34:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:34:10:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:34:20:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:35:05:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:35:15:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:36:10:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:36:20:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:36:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:36:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:36:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:36:55:  E:\深圳出差\gfgd\Applications\FlowControl\TrackMotor\TrackMotor.h (gfgd) - Sublime Text (UNREGISTERED)
+13:37:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:37:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:37:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.h (gfgd) - Sublime Text (UNREGISTERED)
+13:37:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:38:20:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:38:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.h (gfgd) - Sublime Text (UNREGISTERED)
+13:38:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:39:00:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:40:30:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+13:40:35:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:40:40:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.h (gfgd) - Sublime Text (UNREGISTERED)
+13:40:45:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:41:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackMotor\TrackMotor.h (gfgd) - Sublime Text (UNREGISTERED)
+13:41:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:41:20:  E:\深圳出差\gfgd\Applications\FlowControl\TrackMotor\TrackMotor.h (gfgd) - Sublime Text (UNREGISTERED)
+13:41:25:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:41:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:41:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:41:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:42:00:  gfgd
+13:42:05:  FlowControl
+13:42:15:  TrackModule
+13:42:25:  GateModule.c Revision 845 - TortoiseMerge
+13:42:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c - 日志信息 - TortoiseSVN
+13:42:35:  GateModule.c Revision 836 - TortoiseMerge
+13:42:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c - 日志信息 - TortoiseSVN
+13:42:45:  GateModule.c Revision 822 - TortoiseMerge
+13:42:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c - 日志信息 - TortoiseSVN
+13:42:55:  GateModule.c Revision 813 - TortoiseMerge
+13:43:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c - 日志信息 - TortoiseSVN
+13:43:10:  GateModule.c Revision 807 - TortoiseMerge
+13:43:15:  GateModule.c Revision 798 - TortoiseMerge
+13:43:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c - 日志信息 - TortoiseSVN
+13:43:45:  GateModule.c Revision 796 - TortoiseMerge
+13:43:55:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c - 日志信息 - TortoiseSVN
+13:44:05:  GateModule.c Revision 794 - TortoiseMerge
+13:44:15:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c - 日志信息 - TortoiseSVN
+13:44:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:44:40:  E:\深圳出差\gfgd\Applications\Common\MotorCommon.h (gfgd) - Sublime Text (UNREGISTERED)
+13:44:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:44:50:  选择文件夹
+13:44:05:  GateModule.c Revision 794 - TortoiseMerge
+13:44:15:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c - 日志信息 - TortoiseSVN
+13:44:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:44:40:  E:\深圳出差\gfgd\Applications\Common\MotorCommon.h (gfgd) - Sublime Text (UNREGISTERED)
+13:44:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:44:50:  选择文件夹
+13:45:20:  untitled (10) - Sublime Text (UNREGISTERED)
+13:45:25:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+13:46:05:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+13:46:10:  D:\00-KE64\10\Applications\FlowControl\TrackMotor\MotorModuleIF.c (10) - Sublime Text (UNREGISTERED)
+13:46:30:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+13:46:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:46:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:46:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.h (gfgd) - Sublime Text (UNREGISTERED)
+13:46:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:48:00:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:48:10:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:48:25:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:48:55:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.h (gfgd) - Sublime Text (UNREGISTERED)
+13:49:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:49:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:49:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c - 日志信息 - TortoiseSVN
+13:49:55:  文件补丁  
+13:50:00:  GateModule.c Revision 813 - TortoiseMerge
+13:50:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c - 日志信息 - TortoiseSVN
+13:50:10:  GateModule.c Revision 728 - TortoiseMerge
+13:50:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c - 日志信息 - TortoiseSVN
+13:50:40:  GateModule.c Revision 698 - TortoiseMerge
+13:50:55:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c - 日志信息 - TortoiseSVN
+13:51:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:51:20:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:51:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.h (gfgd) - Sublime Text (UNREGISTERED)
+13:51:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:51:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.h (gfgd) - Sublime Text (UNREGISTERED)
+13:51:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:51:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:52:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:52:05:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:52:35:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:52:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:52:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:52:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:53:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:53:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:53:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:53:40:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:53:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:53:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:54:25:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+13:55:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:56:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:56:20:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:57:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:58:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:58:15:  E:\深圳出差\gfgd\Applications\Common\AppCommon.h (gfgd) - Sublime Text (UNREGISTERED)
+13:58:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:58:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:58:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:10:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:15:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:59:20:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:58:15:  E:\深圳出差\gfgd\Applications\Common\AppCommon.h (gfgd) - Sublime Text (UNREGISTERED)
+13:58:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:58:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:58:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:10:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:15:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:59:20:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c • (gfgd) - Sublime Text (UNREGISTERED)
+14:00:10:  E:\深圳出差\gfgd\Applications\FlowControl\TrackMotor\TrackMotor.h (gfgd) - Sublime Text (UNREGISTERED)
+14:00:20:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c • (gfgd) - Sublime Text (UNREGISTERED)
+14:00:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+14:01:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c • (gfgd) - Sublime Text (UNREGISTERED)
+14:01:10:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+14:01:21:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.h • (gfgd) - Sublime Text (UNREGISTERED)
+14:01:26:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:04:11:  「开始」菜单
+14:04:16:  计算器
+14:05:11:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:05:31:  Options for Target 'release'
+14:05:37:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:06:39:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+14:06:44:  E:\深圳出差\gfgd\Tools\CreateJK.exe
+14:06:49:  取款
+14:06:54:  CRS调测工具（研发版）V1.0.2.1
+14:08:29:  Dialog
+14:08:34:  CRS调测工具（研发版）V1.0.2.1
+14:08:39:  取款
+14:08:44:  CRS调测工具（研发版）V1.0.2.1
+14:09:59:  打开
+14:10:14:  CRS调测工具（研发版）V1.0.2.1
+14:11:24:  Applications
+14:11:29:  深圳出差
+14:11:44:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+14:11:49:  本地磁盘 (D:)
+14:11:54:  232
+14:11:59:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+14:12:09:  Tools
+14:12:39:  D:\00-06\232\Tools\CreateJK.exe
+14:12:44:  Tools
+14:12:49:  CRS调测工具（研发版）V1.0.2.1
+14:12:54:  打开
+14:12:59:  CRS调测工具（研发版）V1.0.2.1
+14:13:34:  锁屏状态
+14:13:39:  CRS调测工具（研发版）V1.0.2.1
+14:15:09:  Tools
+14:15:24:  CRS调测工具（研发版）V1.0.2.1
+14:15:49:  本地磁盘 (D:)
+14:15:54:  本地磁盘 (E:)
+14:16:04:  06- 刘建生
+14:16:14:  Dialog
+14:16:19:  CRS调测工具（研发版）V1.0.2.1
+14:16:29:  06 固件日报
+14:16:34:  钞箱1T2集成测试方案
+14:16:44:  Excel
+14:16:54:  CRS调测工具（研发版）V1.0.2.1
+14:17:09:  读写ERROM
+14:17:14:  Dialog
+14:17:19:  CRS调测工具（研发版）V1.0.2.1
+14:17:24:  5.12 直流电机功能测试 .xlsx  [受保护的视图] - Excel
+14:17:29:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:17:59:  CRS调测工具（研发版）V1.0.2.1
+14:18:09:  查找
+14:18:14:  Dialog
+14:18:24:  CRS调测工具（研发版）V1.0.2.1
+14:18:39:  eSpace
+14:18:44:  王亮杰
+14:19:19:  K64-_0000_20210106112237.log - DRB.tat* - TextAnalysisTool.NET
+14:19:24:  CRS调测工具（研发版）V1.0.2.1
+14:19:34:  钞箱配置
+14:19:44:  取款
+14:19:49:  CRS调测工具（研发版）V1.0.2.1
+14:20:09:  20210106
+14:20:29:  LOG
+14:20:34:  K64_0000_20210106141949
+14:20:54:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c • (trunk) - Sublime Text (UNREGISTERED)
+14:20:59:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:19:  计算器
+14:23:09:  王亮杰
+14:23:29:  K64_0000_20210106141949
+14:23:34:  Box_3__0000_20210106141949.log - DRB.tat* - TextAnalysisTool.NET
+14:23:39:  发送指令到K06
+14:23:49:  CRS调测工具（研发版）V1.0.2.1
+14:23:54:  王亮杰
+14:23:59:  计算器
+14:24:04:  CRS调测工具（研发版）V1.0.2.1
+14:25:44:  K64_0000_20210106141949
+14:25:49:  CRS调测工具（研发版）V1.0.2.1
+14:25:54:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+14:25:59:  CRS调测工具（研发版）V1.0.2.1
+14:27:59:  取款
+14:28:04:  CRS调测工具（研发版）V1.0.2.1
+14:28:19:  K64_0000_20210106141949
+14:28:24:  20210106
+14:28:39:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:28:44:  Decode
+14:28:49:  LOG
+14:28:54:  Box_2__0000_20210106142801.log - DRB.tat* - TextAnalysisTool.NET
+14:29:49:  K64-_0000_20210106142801.log - DRB.tat* - TextAnalysisTool.NET
+14:28:19:  K64_0000_20210106141949
+14:28:24:  20210106
+14:28:39:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:28:44:  Decode
+14:28:49:  LOG
+14:28:54:  Box_2__0000_20210106142801.log - DRB.tat* - TextAnalysisTool.NET
+14:29:49:  K64-_0000_20210106142801.log - DRB.tat* - TextAnalysisTool.NET
+14:31:50:  Edit Filter
+14:31:55:  K64-_0000_20210106142801.log - DRB.tat* - TextAnalysisTool.NET
+14:35:50:  Add Filter
+14:35:55:  K64-_0000_20210106142801.log - DRB.tat* - TextAnalysisTool.NET
+14:36:10:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+14:37:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (10) - Sublime Text (UNREGISTERED)
+14:37:35:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+14:38:50:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+14:38:55:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+14:39:40:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+14:39:55:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+14:40:05:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:40:10:  06 固件日报
+14:40:15:  本地磁盘 (E:)
+14:40:20:  深圳出差
+14:40:25:  E:\深圳出差\gfgd\Tools\CreateJK.exe
+14:40:35:  Tools
+14:40:40:  打开
+14:40:45:  CRS调测工具（研发版）V1.0.2.1
+14:43:25:  取款
+14:43:30:  CRS调测工具（研发版）V1.0.2.1
+14:43:55:  本地磁盘 (E:)
+14:44:00:  gfgd
+14:44:05:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+14:44:10:  CashBoxModuleApp.c - TortoiseMerge
+14:44:15:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+14:44:20:  GateModule.c - TortoiseMerge
+14:44:05:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+14:44:10:  CashBoxModuleApp.c - TortoiseMerge
+14:44:15:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+14:44:20:  GateModule.c - TortoiseMerge
+14:45:30:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+14:45:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c - 日志信息 - TortoiseSVN
+14:45:45:  GateModule.c Revision 845 - TortoiseMerge
+14:45:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c - 日志信息 - TortoiseSVN
+14:45:55:  GateModule.c Revision 688 - TortoiseMerge
+14:46:15:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c - 日志信息 - TortoiseSVN
+14:46:20:  GateModule.c - TortoiseMerge
+14:46:45:  gfgd
+14:46:50:  eSpace
+14:48:55:  gfgd
+14:49:00:  CRS调测工具（研发版）V1.0.2.1
+14:49:55:  CRSTestTool
+14:50:00:  钞箱传感器
+14:50:05:  CRS调测工具（研发版）V1.0.2.1
+14:53:10:  钞箱传感器
+14:53:15:  CRS调测工具（研发版）V1.0.2.1
+14:53:20:  K64_0000_20210106142801
+14:53:25:  20210106
+14:53:30:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:53:45:  K64_0000_20210106145225
+14:53:50:  Box_2__0000_20210106145225.log - DRB.tat* - TextAnalysisTool.NET
+14:54:10:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+14:54:15:  Box_2__0000_20210106145225.log - DRB.tat* - TextAnalysisTool.NET
+14:54:30:  K64_0000_20210106145225
+14:54:40:  Box_2__0000_20210106145225.log - DRB.tat* - TextAnalysisTool.NET
+14:54:50:  K64-_0000_20210106145225.log - DRB.tat* - TextAnalysisTool.NET
+14:54:55:  Box_2__0000_20210106145225.log - DRB.tat* - TextAnalysisTool.NET
+14:55:15:  CRS调测工具（研发版）V1.0.2.1
+14:56:40:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+14:56:55:  发送指令到K06
+14:57:25:  CRS调测工具（研发版）V1.0.2.1
+14:57:30:  发送指令到K06
+14:57:35:  CRS调测工具（研发版）V1.0.2.1
+14:57:40:  发送指令到K06
+14:57:45:  CRS调测工具（研发版）V1.0.2.1
+14:59:40:  钞箱配置
+14:59:45:  CRS调测工具（研发版）V1.0.2.1
+14:59:55:  取款
+15:00:00:  CRS调测工具（研发版）V1.0.2.1
+14:59:40:  钞箱配置
+14:59:45:  CRS调测工具（研发版）V1.0.2.1
+14:59:55:  取款
+15:00:00:  CRS调测工具（研发版）V1.0.2.1
+15:00:20:  取款
+15:00:25:  CRS调测工具（研发版）V1.0.2.1
+15:01:00:  20210106
+15:01:05:  Decode
+15:01:10:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:01:15:  K64_0000_20210106150023
+15:01:20:  Box_2__0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:01:40:  gfgd
+15:01:45:  00-06
+15:01:55:  UpperPlate.c - TortoiseMerge
+15:02:00:  Update.c.mine - TortoiseMerge
+15:02:05:  TortoiseSVN
+15:02:10:  μVision
+15:02:15:  Box_2__0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:04:15:  于斌1
+15:04:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:05:10:  Box_2__0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:06:25:  K64-_0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:10:50:  Box_2__0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:11:35:  K64-_0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:11:40:  Edit Filter
+15:11:45:  K64-_0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:12:00:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:12:15:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:12:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.h (gfgd) - Sublime Text (UNREGISTERED)
+15:12:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+15:13:20:  K64-_0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:13:25:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+15:13:55:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:14:00:  E:\深圳出差\gfgd\Applications\Common\MotorCommon.h (gfgd) - Sublime Text (UNREGISTERED)
+15:14:05:  K64-_0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:14:10:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:14:20:  K64-_0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:14:25:  计算器
+15:14:30:  K64-_0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:14:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:14:50:  K64-_0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:15:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:14:05:  K64-_0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:14:10:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:14:20:  K64-_0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:14:25:  计算器
+15:14:30:  K64-_0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:14:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:14:50:  K64-_0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:15:00:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:15:05:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.h (gfgd) - Sublime Text (UNREGISTERED)
+15:15:10:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:15:15:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.h (gfgd) - Sublime Text (UNREGISTERED)
+15:15:20:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:15:30:  K64-_0000_20210106150023.log - DRB.tat* - TextAnalysisTool.NET
+15:15:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:15:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (10) - Sublime Text (UNREGISTERED)
+15:15:55:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+15:16:20:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:16:30:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+15:16:35:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+15:35:45:  潘超
+15:36:10:  eSpace
+15:36:15:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+15:40:25:  eSpace
+15:41:30:  μVision
+15:41:35:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+15:42:05:  CRS调测工具（研发版）V1.0.2.1
+15:43:40:  于斌1
+15:43:45:  CRS调测工具（研发版）V1.0.2.1
+15:43:50:  查找
+15:44:00:  CRS调测工具（研发版）V1.0.2.1
+15:44:05:  查找
+15:44:10:  20210106
+15:44:15:  Decode
+15:44:25:  Box_3__0000_20210106154335.log - DRB.tat* - TextAnalysisTool.NET
+15:44:35:  CRS调测工具（研发版）V1.0.2.1
+15:45:00:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+15:44:05:  查找
+15:44:10:  20210106
+15:44:15:  Decode
+15:44:25:  Box_3__0000_20210106154335.log - DRB.tat* - TextAnalysisTool.NET
+15:44:35:  CRS调测工具（研发版）V1.0.2.1
+15:45:00:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+15:45:05:  CRS调测工具（研发版）V1.0.2.1
+15:45:15:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+15:45:50:  μVision
+15:45:55:  D:\00-06\232\Project\CashBox_1T2.uvprojx - μVision
+15:46:05:  CRS调测工具（研发版）V1.0.2.1
+15:46:25:  记事本
+15:46:30:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:46:35:  CRS调测工具（研发版）V1.0.2.1
+15:46:55:  发送指令到K06
+15:47:00:  CRS调测工具（研发版）V1.0.2.1
+15:47:20:  Save Changes?
+15:47:25:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.c (meger) - Sublime Text (UNREGISTERED)
+15:47:30:  D:\00-06\meger\Applications\Instruction\InstrHandle.c (meger) - Sublime Text (UNREGISTERED)
+15:47:35:  D:\00-06\meger\Applications\Instruction\InstrHandle.h (meger) - Sublime Text (UNREGISTERED)
+15:47:40:  CRS调测工具（研发版）V1.0.2.1
+15:48:10:  发送指令到K06
+15:48:25:  CRS调测工具（研发版）V1.0.2.1
+15:48:30:  K64_0000_20210106154335
+15:48:35:  CRS调测工具（研发版）V1.0.2.1
+15:48:50:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+15:48:55:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.c (gfgd) - Sublime Text (UNREGISTERED)
+15:49:00:  计算器
+15:49:05:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.h (gfgd) - Sublime Text (UNREGISTERED)
+15:49:10:  20210106
+15:49:15:  CRS调测工具（研发版）V1.0.2.1
+15:49:30:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.h (gfgd) - Sublime Text (UNREGISTERED)
+15:49:55:  CRS调测工具（研发版）V1.0.2.1
+15:50:00:  K64_0000_20210106154835
+15:50:05:  Box_3__0000_20210106154835.log - DRB.tat* - TextAnalysisTool.NET
+15:50:30:  K64_0000_20210106154835
+15:50:35:  K64-_0000_20210106154835.log - DRB.tat* - TextAnalysisTool.NET
+15:51:05:  D:\00-06\meger\Applications\Instruction\InstrHandle.h (meger) - Sublime Text (UNREGISTERED)
+15:51:10:  D:\00-06\meger\Applications\PlateCtrl\PressurePlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+15:51:15:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+15:51:20:  D:\00-06\meger\Applications\PlateCtrl\PressurePlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+15:51:25:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+15:51:35:  D:\00-06\meger\Applications\ErrCode\ErrCode.h (meger) - Sublime Text (UNREGISTERED)
+15:51:45:  D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+15:51:55:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+15:52:00:  D:\00-06\meger\Applications\ErrCode\ErrCode.h (meger) - Sublime Text (UNREGISTERED)
+15:52:10:  K64-_0000_20210106154835.log - DRB.tat* - TextAnalysisTool.NET
+15:52:15:  CRS调测工具（研发版）V1.0.2.1
+15:52:20:  发送指令到K06
+15:52:35:  CRS调测工具（研发版）V1.0.2.1
+15:52:40:  K64_0000_20210106154835
+15:52:45:  20210106
+15:52:50:  Decode
+15:52:55:  20210106
+15:53:00:  K64_0000_20210106155232
+15:53:05:  Box_3__0000_20210106155232.log - DRB.tat* - TextAnalysisTool.NET
+15:54:00:  CRS调测工具（研发版）V1.0.2.1
+15:54:40:  20210106
+15:54:45:  K64_0000_20210106155359.log - DRB.tat* - TextAnalysisTool.NET
+15:55:20:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:55:30:  K64_0000_20210106155359.log - DRB.tat* - TextAnalysisTool.NET
+15:55:35:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:55:45:  K64_0000_20210106155359.log - DRB.tat* - TextAnalysisTool.NET
+15:56:50:  CRS调测工具（研发版）V1.0.2.1
+15:58:15:  读写ERROM
+15:58:20:  CRS调测工具（研发版）V1.0.2.1
+15:59:20:  Dialog
+15:59:25:  CRS调测工具（研发版）V1.0.2.1
+15:59:30:  读写ERROM
+15:59:35:  CRS调测工具（研发版）V1.0.2.1
+15:58:15:  读写ERROM
+15:58:20:  CRS调测工具（研发版）V1.0.2.1
+15:59:20:  Dialog
+15:59:25:  CRS调测工具（研发版）V1.0.2.1
+15:59:30:  读写ERROM
+15:59:35:  CRS调测工具（研发版）V1.0.2.1
+16:00:35:  取款
+16:00:45:  CRS调测工具（研发版）V1.0.2.1
+16:01:00:  Decode
+16:01:05:  20210106
+16:01:10:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:01:15:  K64_0000_20210106160040
+16:01:20:  Box_3__0000_20210106160040.log - DRB.tat* - TextAnalysisTool.NET
+16:01:25:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:02:10:  Box_3__0000_20210106160040.log - DRB.tat* - TextAnalysisTool.NET
+16:02:25:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:02:30:  Box_3__0000_20210106160040.log - DRB.tat* - TextAnalysisTool.NET
+16:02:40:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:02:45:  Tools
+16:02:50:  E:\深圳出差\gfgd\Tools\CreateJK.exe
+16:03:00:  CRS调测工具（研发版）V1.0.2.1
+16:07:35:  取款
+16:07:45:  CRS调测工具（研发版）V1.0.2.1
+16:08:30:  20210106
+16:08:40:  K64_0000_20210106160741
+16:08:45:  Box_3__0000_20210106160741.log - DRB.tat* - TextAnalysisTool.NET
+16:09:25:  K64-_0000_20210106160741.log - DRB.tat* - TextAnalysisTool.NET
+16:10:30:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:10:35:  K64-_0000_20210106160741.log - DRB.tat* - TextAnalysisTool.NET
+16:10:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+16:11:00:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:11:25:  K64-_0000_20210106160741.log - DRB.tat* - TextAnalysisTool.NET
+16:11:55:  K64_0000_20210106160741
+16:12:00:  Box_3__0000_20210106160741.log - DRB.tat* - TextAnalysisTool.NET
+16:12:25:  CRS调测工具（研发版）V1.0.2.1
+16:12:30:  于斌1
+16:13:50:  Box_3__0000_20210106160741.log - DRB.tat* - TextAnalysisTool.NET
+16:13:55:  K64-_0000_20210106160741.log - DRB.tat* - TextAnalysisTool.NET
+16:14:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+16:14:50:  CRS调测工具（研发版）V1.0.2.1
+16:15:00:  K64-_0000_20210106160741.log - DRB.tat* - TextAnalysisTool.NET
+16:14:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+16:14:50:  CRS调测工具（研发版）V1.0.2.1
+16:15:00:  K64-_0000_20210106160741.log - DRB.tat* - TextAnalysisTool.NET
+16:15:05:  Box_3__0000_20210106160741.log - DRB.tat* - TextAnalysisTool.NET
+16:15:30:  CRS调测工具（研发版）V1.0.2.1
+16:17:00:  锁屏状态
+16:17:05:  CRS调测工具（研发版）V1.0.2.1
+16:17:15:  可接收
+16:17:20:  钞箱配置
+16:17:30:  CRS调测工具（研发版）V1.0.2.1
+16:17:35:  锁屏状态
+16:17:40:  钞箱配置
+16:17:50:  Box_3__0000_20210106160741.log - DRB.tat* - TextAnalysisTool.NET
+16:18:15:  钞箱配置
+16:18:20:  CRS调测工具（研发版）V1.0.2.1
+16:27:35:  K64_0000_20210106160741
+16:28:31:  CRS调测工具（研发版）V1.0.2.1
+16:29:11:  取款
+16:29:16:  CRS调测工具（研发版）V1.0.2.1
+16:29:36:  20210106
+16:29:46:  Decode
+16:29:51:  K64_0000_20210106162916
+16:29:56:  Box_1__0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:28:31:  CRS调测工具（研发版）V1.0.2.1
+16:29:11:  取款
+16:29:16:  CRS调测工具（研发版）V1.0.2.1
+16:29:36:  20210106
+16:29:46:  Decode
+16:29:51:  K64_0000_20210106162916
+16:29:56:  Box_1__0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:31:26:  本地磁盘 (D:)
+16:42:01:  CRS调测工具（研发版）V1.0.2.1
+16:42:06:  Box_1__0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:42:31:  TCRControlCmdDLL
+16:42:36:  K64_0000_20210106162916
+16:42:41:  K64-_0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:43:01:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+16:43:26:  K64-_0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:44:41:  CRS调测工具（研发版）V1.0.2.1
+16:44:46:  K64_0000_20210106162916
+16:44:51:  Box_1__0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:44:41:  CRS调测工具（研发版）V1.0.2.1
+16:44:46:  K64_0000_20210106162916
+16:44:51:  Box_1__0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:45:21:  Add Filter
+16:45:31:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.c (meger) - Sublime Text (UNREGISTERED)
+16:45:56:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.h (meger) - Sublime Text (UNREGISTERED)
+16:46:01:  Box_1__0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:46:06:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.h (meger) - Sublime Text (UNREGISTERED)
+16:46:11:  锁屏状态
+16:46:16:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.c (meger) - Sublime Text (UNREGISTERED)
+16:46:31:  Box_1__0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:46:36:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.c (meger) - Sublime Text (UNREGISTERED)
+16:46:46:  Box_1__0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:46:51:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.c (meger) - Sublime Text (UNREGISTERED)
+16:47:26:  K64-_0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:47:36:  Add Filter
+16:47:46:  K64-_0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:48:16:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+16:48:51:  K64-_0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:49:01:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+16:49:16:  K64-_0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:49:36:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.c (gfgd) - Sublime Text (UNREGISTERED)
+16:49:41:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+16:49:46:  锁屏状态
+16:49:51:  K64-_0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:49:56:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxCmd.h (gfgd) - Sublime Text (UNREGISTERED)
+16:50:01:  K64-_0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:50:11:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.h (gfgd) - Sublime Text (UNREGISTERED)
+16:50:16:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+16:50:21:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+16:50:51:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c • (gfgd) - Sublime Text (UNREGISTERED)
+16:51:26:  K64-_0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:51:31:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+16:51:41:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:51:46:  K64-_0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:52:01:  K64_0000_20210106162916
+16:52:06:  Box_1__0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:52:16:  D:\00-06\meger\Applications\MotorCtrl\MotorCtrl.c (meger) - Sublime Text (UNREGISTERED)
+16:52:21:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+16:52:26:  CRS调测工具（研发版）V1.0.2.1
+16:52:41:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+16:52:46:  Add Filter
+16:52:56:  K64-_0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:53:06:  Box_1__0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:53:26:  锁屏状态
+16:53:31:  K64-_0000_20210106162916.log - DRB.tat* - TextAnalysisTool.NET
+16:53:46:  Dialog
+16:53:51:  Windows 任务管理器
+16:53:56:  V1.014
+16:54:01:  Dialog
+16:54:11:  CRS调测工具（研发版）V1.0.2.1
+16:54:16:  取款
+16:54:21:  CRS调测工具（研发版）V1.0.2.1
+16:54:41:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:55:11:  Tools
+16:55:21:  打开
+16:55:31:  CRS调测工具（研发版）V1.0.2.1
+16:57:06:  Tools
+16:57:11:  CRS调测工具（研发版）V1.0.2.1
+16:58:56:  取款
+16:59:01:  CRS调测工具（研发版）V1.0.2.1
+16:58:56:  取款
+16:59:01:  CRS调测工具（研发版）V1.0.2.1
+17:00:41:  K64_0000_20210106162916
+17:00:46:  Decode
+17:00:51:  K64_0000_20210106170007.log - DRB.tat* - TextAnalysisTool.NET
+17:01:46:  Decode
+17:01:56:  K64_0000_20210106170007
+17:02:01:  Box_5__0000_20210106170007.log - DRB.tat* - TextAnalysisTool.NET
+17:02:06:  CRS调测工具（研发版）V1.0.2.1
+17:03:36:  Box_5__0000_20210106170007.log - DRB.tat* - TextAnalysisTool.NET
+17:03:41:  CRS调测工具（研发版）V1.0.2.1
+17:05:26:  回收
+17:05:31:  发送指令到K06
+17:05:41:  CRS调测工具（研发版）V1.0.2.1
+17:05:46:  取款
+17:05:51:  CRS调测工具（研发版）V1.0.2.1
+17:06:16:  20210106
+17:06:21:  Decode
+17:06:26:  Box_5__0000_20210106170546.log - DRB.tat* - TextAnalysisTool.NET
+17:06:46:  锁屏状态

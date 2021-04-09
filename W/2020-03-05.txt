@@ -1,0 +1,1291 @@
+08:01:23:  打印
+08:01:38:  Dialog
+08:01:48:  PostWork.py - 快捷方式
+08:01:53:  
+08:01:58:  PostWork.py - 快捷方式
+08:02:03:  Subversion
+08:04:59:  PostWork.py - 快捷方式
+08:05:04:  
+08:05:14:  本地磁盘 (F:)
+08:05:24:  本地磁盘 (D:)
+08:05:29:  本地磁盘 (F:)
+08:06:04:  本地磁盘 (D:)
+08:06:09:  00-06
+08:06:19:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:07:09:  
+08:07:14:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:11:14:  
+08:11:19:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:12:09:  「开始」菜单
+08:12:14:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:12:39:  
+08:12:44:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:15:04:  「开始」菜单
+08:15:19:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:15:49:  计算器
+08:15:59:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:20:34:  计算器
+08:20:44:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:20:54:  计算器
+08:20:59:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:21:24:  eSpace Login
+08:21:29:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:21:34:  eSpace
+08:21:39:  固件设计中心
+08:21:44:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:23:24:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\测试\测试\BTCRTestTool V3.07\log\TCRControlCmdDLL\20200304\Decode\FirmLog__20200304101452.log
+08:23:29:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-04.txt
+08:23:39:  00-06
+08:23:44:  文档
+08:23:49:  TheActtionRec
+08:23:59:  R
+08:24:09:  W
+08:24:14:  LogExpert
+08:24:19:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-05.txt
+08:24:44:  W
+08:24:49:  新建文件夹 (2) 属性
+08:24:54:  新建文件夹 (2)
+08:25:04:  dist
+08:25:09:  PostWork
+08:25:14:  config.ini - 记事本
+08:25:34:  职工医疗证明文件.pdf - Adobe Reader
+08:25:44:  打印
+08:25:49:  PostWork
+08:25:54:  运行
+08:25:59:  新建文件夹 (2)
+08:26:04:  PostWork
+08:26:09:  config.ini - 记事本
+08:26:14:  PostWork
+08:26:19:  本地磁盘 (F:)
+08:26:24:  职工医疗证明文件.pdf - Adobe Reader
+08:26:29:  职工医疗证明文件.pdf
+08:26:34:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:26:44:  库
+08:26:49:  00-06
+08:26:54:  提交
+08:26:59:  SECSplashWnd
+08:27:04:  D:\00-06\12\Project\CashBox_1T2.uvprojx - μVision
+08:30:54:  Project
+08:30:59:  文档
+08:31:04:  图片
+08:31:09:  12
+08:31:14:  MotorCtrl.c-revBASE.svn001.tmp.c <--> MotorCtrl.c - 文本比较(T) - Beyond Compare
+08:31:19:  PaperManage.c-revBASE.svn001.tmp.c <--> PaperManage.c - 文本比较(T) - Beyond Compare
+08:31:24:  Track.c-revBASE.svn001.tmp.c <--> Track.c - 文本比较(T) - Beyond Compare
+08:31:29:  D:\00-06\12 - 提交 - TortoiseSVN
+08:31:39:  Sensor.c-revBASE.svn001.tmp.c <--> Sensor.c - 文本比较(T) - Beyond Compare
+08:31:44:  12
+08:31:59:  提交
+08:32:04:  D:\00-06\12 - 日志信息 - TortoiseSVN
+08:32:14:  D:\00-06\12 - 提交 - TortoiseSVN
+08:32:39:  
+08:32:49:  D:\00-06\12 - 提交 - TortoiseSVN
+08:33:54:  D:\00-06\12 - 日志信息 - TortoiseSVN
+08:34:09:  D:\00-06\12 - 提交 - TortoiseSVN
+08:34:14:  D:\00-06\12 - 日志信息 - TortoiseSVN
+08:34:24:  D:\00-06\12 - 提交 - TortoiseSVN
+08:34:59:  D:\00-06\12 - 日志信息 - TortoiseSVN
+08:35:14:  Selector.c-rev3217.svn000.tmp.c <--> Selector.c-rev3218.svn000.tmp.c - 文本比较(T) - Beyond Compare
+08:35:19:  D:\00-06\12 - 日志信息 - TortoiseSVN
+08:35:24:  Lock.c-rev3217.svn000.tmp.c <--> Lock.c-rev3218.svn000.tmp.c - 文本比较(T) - Beyond Compare
+08:35:29:  D:\00-06\12 - 日志信息 - TortoiseSVN
+08:35:34:  D:\00-06\12 - 提交 - TortoiseSVN
+08:35:39:  D:\00-06\12 - 日志信息 - TortoiseSVN
+08:36:59:  D:\00-06\12 - 提交 - TortoiseSVN
+08:37:24:  Sensor.c-revBASE.svn001.tmp.c <--> Sensor.c - 文本比较(T) - Beyond Compare
+08:37:29:  D:\00-06\12 - 提交 - TortoiseSVN
+08:37:39:  PaperManage.c-revBASE.svn001.tmp.c <--> PaperManage.c - 文本比较(T) - Beyond Compare
+08:37:44:  D:\00-06\12 - 提交 - TortoiseSVN
+08:37:54:  D:\00-06\12 - 日志信息 - TortoiseSVN
+08:38:29:  D:\00-06\12 - 提交 - TortoiseSVN
+08:38:39:  D:\00-06\12 - 日志信息 - TortoiseSVN
+08:39:34:  版本 - Everything
+08:39:49:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-05.txt
+08:39:54:  班车管理系统 - Google Chrome
+08:40:04:  班车管理系统 [新北洋集团] - Google Chrome
+08:40:19:  
+08:40:24:  版本 - Everything
+08:40:29:  001 固件版本管理规定_V107.doc [兼容模式] - Word
+08:40:59:  版本 - Everything
+08:41:04:  SNBC-YF-017-001-V2.2 SVN源代码版本管理规定.doc [兼容模式] - Word
+08:41:14:  D:\00-06\12 - 日志信息 - TortoiseSVN
+08:41:19:  D:\00-06\12 - 提交 - TortoiseSVN
+08:41:29:  提交 完成！
+08:41:34:  D:\00-06\12 - 日志信息 - TortoiseSVN
+08:41:49:  00-06
+08:42:04:  检出
+08:42:14:   - 版本库浏览器 - TortoiseSVN
+08:42:19:  trunk - 检出 - TortoiseSVN
+08:42:29:  
+08:42:54:  检出 完成！
+08:43:04:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:43:09:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+08:43:24:  
+08:43:34:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+08:44:04:  
+08:44:24:  iTunes
+08:45:14:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+08:47:24:  00-06
+08:47:34:  12
+08:47:39:  新建文本文档.exe - 快捷方式
+08:47:44:  
+08:48:04:  12
+08:48:09:  D:\00-06\12 - 日志信息 - TortoiseSVN
+08:48:14:  00-06
+08:48:19:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+08:48:24:  1T1
+08:48:29:  D:\00-06\1T1 - 提交 - TortoiseSVN
+08:48:34:  打开方式
+08:48:39:  D:\00-06\1T1\milestone.txt (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:48:59:  D:\00-06\1T1\milestone.txt • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:49:19:  D:\00-06\12 - 日志信息 - TortoiseSVN
+08:49:24:  D:\00-06\1T1\milestone.txt • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:49:29:  D:\00-06\12 - 日志信息 - TortoiseSVN
+08:49:34:  D:\00-06\1T1\milestone.txt • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:49:39:  D:\00-06\12 - 日志信息 - TortoiseSVN
+08:49:44:  D:\00-06\1T1 - 工作副本 - TortoiseSVN
+08:49:49:  D:\00-06\1T1 - 日志信息 - TortoiseSVN
+08:50:19:  PaperManage.c-revBASE.svn001.tmp.c <--> PaperManage.c - 文本比较(T) - Beyond Compare
+08:51:09:  TrackCtrl.c-revBASE.svn001.tmp.c <--> TrackCtrl.c - 文本比较(T) - Beyond Compare
+08:51:24:  DebugConfig.h-revBASE.svn001.tmp.h <--> DebugConfig.h - 文本比较(T) - Beyond Compare
+08:51:29:  Sensor.c-revBASE.svn001.tmp.c <--> Sensor.c - 文本比较(T) - Beyond Compare
+08:51:39:  milestone.txt-revBASE.svn001.tmp.txt <--> milestone.txt - 文本比较(T) - Beyond Compare
+08:51:49:  D:\00-06\1T1 - 提交 - TortoiseSVN
+08:51:54:  D:\00-06\1T1 - 日志信息 - TortoiseSVN
+08:52:09:  D:\00-06\1T1 - 提交 - TortoiseSVN
+08:52:44:  milestone.txt-revBASE.svn003.tmp.txt <--> milestone.txt - 文本比较(T) - Beyond Compare
+08:52:54:  D:\00-06\1T1 - 提交 - TortoiseSVN
+08:53:14:  
+08:53:19:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+08:53:24:  D:\00-06\1T1 - 提交 - TortoiseSVN
+08:53:34:  D:\00-06\1T1 - 日志信息 - TortoiseSVN
+08:53:49:  D:\00-06\1T1 - 提交 - TortoiseSVN
+08:53:54:  1T1
+08:53:59:  trunk
+08:54:04:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+08:54:09:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:54:14:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+08:54:35:  00-06
+08:54:40:  BR-1-CashBox1T2
+08:54:45:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+08:54:50:  
+08:54:55:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:55:30:  
+08:55:35:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+08:55:40:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:57:15:  Project
+08:57:25:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+08:57:30:  Project
+08:57:35:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:57:40:  BOOT
+08:57:50:  D:\00-06\BOOT - 更新 - TortoiseSVN
+08:57:55:  更新 完成！
+08:58:00:  BOOT
+08:58:10:  Project
+08:58:15:  回收
+08:58:20:  检出
+08:58:25:  FW_BTCR-1100_K06_BOOT - 检出 - TortoiseSVN
+08:58:30:  eSpace
+08:58:35:  
+08:59:05:  BOOT
+08:59:15:  tags
+08:59:20:  Project
+08:59:30:  新标签页 - Google Chrome
+08:59:35:  桌面整理
+08:59:40:  
+08:59:45:  eSpace Login
+08:59:50:  
+09:00:00:  桌面整理
+08:58:10:  Project
+08:58:15:  回收
+08:58:20:  检出
+08:58:25:  FW_BTCR-1100_K06_BOOT - 检出 - TortoiseSVN
+08:58:30:  eSpace
+08:58:35:  
+08:59:05:  BOOT
+08:59:15:  tags
+08:59:20:  Project
+08:59:30:  新标签页 - Google Chrome
+08:59:35:  桌面整理
+08:59:40:  
+08:59:45:  eSpace Login
+08:59:50:  
+09:00:00:  桌面整理
+09:00:15:  
+09:00:20:  Network Flyout
+09:00:25:  网络和共享中心
+09:00:35:  
+09:00:40:  eSpace Login
+09:00:45:  eSpace
+09:01:25:  新标签页 - Google Chrome
+09:01:35:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+09:02:35:  选择文件夹
+09:02:45:  D:\00-06\1T1\milestone.txt (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:02:50:  untitled (trunk) - Sublime Text (UNREGISTERED)
+09:03:00:  D:\00-06\BOOT\trunk\FwLib\DebugLog\DebugConfig_Demo.h (trunk) - Sublime Text (UNREGISTERED)
+09:03:10:  D:\00-06\BOOT\trunk\FwLib\Config\DebugConfig.h (trunk) - Sublime Text (UNREGISTERED)
+09:03:15:  D:\00-06\BOOT\trunk\FwLib\Config\DebugConfig.h • (trunk) - Sublime Text (UNREGISTERED)
+09:03:35:  D:\00-06\1T1\milestone.txt (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:03:40:  新标签页 - Google Chrome
+09:03:45:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:04:05:  怎样知道QQ好友谁把你设成特别关心？ - 知乎 - Google Chrome
+09:04:10:  (34 封私信 / 80 条消息) 怎样知道QQ好友谁把你设成特别关心？ - 知乎 - Google Chrome
+09:05:35:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:05:40:  (34 封私信 / 89 条消息) 首页 - 知乎 - Google Chrome
+09:06:05:  (34 封私信 / 80 条消息) 如何评价《王者荣耀》3月4日体验服推出的新英雄“镜”? - 知乎 - Google Chrome
+09:06:10:  (34 封私信 / 90 条消息) 如何评价《王者荣耀》3月4日体验服推出的新英雄“镜”? - 知乎 - Google Chrome
+09:11:06:  首页 - 知乎 - Google Chrome
+09:11:11:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:12:21:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:12:26:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+09:12:41:  
+09:12:46:  新标签页 - Google Chrome
+09:12:51:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:12:56:  (34 封私信 / 89 条消息) 首页 - 知乎 - Google Chrome
+09:13:01:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:13:11:  (34 封私信 / 80 条消息) 如何评价《王者荣耀》3月4日体验服推出的新英雄“镜”? - 知乎 - Google Chrome
+09:13:16:  Project
+09:13:21:  scrapy
+09:13:26:  letgo
+09:13:36:  C:\Windows\system32\cmd.exe
+09:13:46:  letgo
+09:13:51:  C:\Windows\system32\cmd.exe
+09:13:56:  爬取结果
+09:14:06:  C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\如何评价《王者荣耀》3月4日体验服推出的新英雄“镜”.txt (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:14:11:  
+09:14:16:  C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\如何评价《王者荣耀》3月4日体验服推出的新英雄“镜”.txt (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:18:21:  
+09:18:26:  C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\如何评价《王者荣耀》3月4日体验服推出的新英雄“镜”.txt (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:19:11:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:19:16:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+09:19:31:  首页 - 知乎 - Google Chrome
+09:19:36:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:19:41:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+09:19:51:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:19:56:  微博 - Google Chrome
+09:20:06:  王者荣耀 - Google Chrome
+09:20:11:  微博 - Google Chrome
+09:20:56:  安装应用？
+09:21:01:  微博 - Google Chrome
+09:22:31:  百度一下，你就知道 - Google Chrome
+09:22:41:  镜 正式服_百度搜索 - Google Chrome
+09:22:51:  话说新英雄镜什么时候能上架正式服啊？【王者荣耀吧】_百度贴吧 - Google Chrome
+09:22:56:  镜 正式服_百度搜索 - Google Chrome
+09:23:01:  王者荣耀镜什么时候出 王者荣耀镜正式服上线时间_18183王者荣耀专区 - Google Chrome
+09:23:11:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:26:36:  爬取结果
+09:26:41:  trunk
+09:26:46:  D:\00-06\BOOT\trunk - 提交 - TortoiseSVN
+09:26:51:  BOOT
+09:26:56:  工作副本
+09:27:01:  D:\00-06\12 - 日志信息 - TortoiseSVN
+09:27:06:  
+09:27:11:  12
+09:27:41:  D:\00-06\12 - 日志信息 - TortoiseSVN
+09:27:46:  12
+09:27:51:  D:\00-06\BOOT\trunk - 日志信息 - TortoiseSVN
+09:28:01:  D:\00-06\BOOT\trunk - 提交 - TortoiseSVN
+09:28:26:  D:\00-06\BOOT\trunk - 日志信息 - TortoiseSVN
+09:28:31:  D:\00-06\BOOT\trunk - 提交 - TortoiseSVN
+09:28:36:  D:\00-06\BOOT\trunk - 日志信息 - TortoiseSVN
+09:28:56:  milestone.txt-rev3048.svn000.tmp.txt <--> milestone.txt-rev3049.svn000.tmp.txt - 文本比较(T) - Beyond Compare
+09:29:01:  D:\00-06\BOOT\trunk - 提交 - TortoiseSVN
+09:29:06:  00-06
+09:29:11:  milestone.txt - 记事本
+09:29:16:  D:\00-06\BOOT\trunk\milestone.txt (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:29:21:  D:\00-06\BOOT\trunk\milestone.txt • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:29:46:  trunk
+09:29:51:  D:\00-06\BOOT\trunk - 提交 - TortoiseSVN
+09:29:56:  D:\00-06\BOOT\trunk - 日志信息 - TortoiseSVN
+09:28:26:  D:\00-06\BOOT\trunk - 日志信息 - TortoiseSVN
+09:28:31:  D:\00-06\BOOT\trunk - 提交 - TortoiseSVN
+09:28:36:  D:\00-06\BOOT\trunk - 日志信息 - TortoiseSVN
+09:28:56:  milestone.txt-rev3048.svn000.tmp.txt <--> milestone.txt-rev3049.svn000.tmp.txt - 文本比较(T) - Beyond Compare
+09:29:01:  D:\00-06\BOOT\trunk - 提交 - TortoiseSVN
+09:29:06:  00-06
+09:29:11:  milestone.txt - 记事本
+09:29:16:  D:\00-06\BOOT\trunk\milestone.txt (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:29:21:  D:\00-06\BOOT\trunk\milestone.txt • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:29:46:  trunk
+09:29:51:  D:\00-06\BOOT\trunk - 提交 - TortoiseSVN
+09:29:56:  D:\00-06\BOOT\trunk - 日志信息 - TortoiseSVN
+09:30:06:  D:\00-06\BOOT\trunk - 提交 - TortoiseSVN
+09:30:16:  trunk
+09:30:21:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+09:30:26:  「开始」菜单
+09:30:31:  D:\00-06\BOOT\trunk\milestone.txt (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:31:36:  D:\00-06\BOOT\trunk\FwLib\Config\DebugConfig.h (trunk) - Sublime Text (UNREGISTERED)
+09:31:41:  00-06
+09:31:46:  
+09:31:51:  branches
+09:31:56:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:32:01:  BR-1-CashBox1T2
+09:32:06:  12
+09:32:11:  D:\00-06\12 - 日志信息 - TortoiseSVN
+09:32:26:  12
+09:32:31:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:38:21:  变幻线
+09:38:36:  
+09:38:41:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:38:46:  职工医疗证明文件.pdf
+09:38:51:  职工医疗证明文件.pdf - Adobe Reader
+09:39:01:  
+09:39:26:  设置产品编号与查询步骤.docx
+09:40:06:  
+09:40:16:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:41:01:  
+09:41:06:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:41:11:  D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\Log\Log.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:41:16:  D:\00-06\8\branches\BR-1-CashBox1T2\Drivers\SpiFlashDriver\SpiFlashDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:41:31:  选择文件夹
+09:41:36:  untitled (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:41:41:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:41:56:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Nfc\Nfc.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:42:16:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:42:36:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:43:11:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:44:31:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:44:36:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:45:06:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:45:11:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:45:26:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:46:16:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:46:26:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:46:31:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:47:21:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:47:36:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Log\Log.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:47:41:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:47:46:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SpiFlashDriver\SpiFlashDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:48:01:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:49:36:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SpiFlashDriver\SpiFlashDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:49:41:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:50:01:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:50:06:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SpiFlashDriver\SpiFlashDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:50:16:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Log\Log.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:50:21:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:50:41:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SpiFlashDriver\SpiFlashDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:50:51:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:50:56:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:51:06:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:51:11:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:51:21:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:51:46:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:55:36:  
+09:55:41:  新标签页 - Google Chrome
+09:55:46:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-05.txt
+09:55:51:  
+10:00:21:  本地磁盘 (E:)
+10:00:26:  logo.txt - 记事本
+10:00:31:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:00:36:  ESET NOD32 Antivirus
+10:00:41:  
+10:01:11:  新标签页 - Google Chrome
+10:01:16:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:02:06:  本地磁盘 (D:)
+10:02:11:  
+10:02:16:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SpiFlashDriver\SpiFlashDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:02:21:  本地磁盘 (D:)
+10:02:26:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-05.txt
+10:02:31:  本地磁盘 (E:)
+10:02:36:  Bin
+10:02:41:  W
+10:02:46:  WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\WorkTime.py (3.7.3)
+10:02:51:  Figure 1
+10:03:01:  WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\WorkTime.py (3.7.3)
+10:03:11:  Figure 1
+10:03:16:  新标签页 - Google Chrome
+10:03:21:  
+10:03:26:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:04:51:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:05:31:  
+10:05:36:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:06:31:  
+10:06:36:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:06:46:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:09:31:  D:\00-KE64\6\trunk\Applications\FlowControl\FlowControl.c (trunk) - Sublime Text (UNREGISTERED)
+10:09:36:  本地磁盘 (F:)
+10:09:41:  20200228
+10:09:46:  本地磁盘 (F:)
+10:10:01:  
+10:10:11:  Windows 任务管理器
+10:10:16:  库
+10:10:21:  本地磁盘 (E:)
+10:10:26:  本地磁盘 (F:)
+10:10:31:  小程序
+10:10:41:  用户
+10:10:46:  本地磁盘 (C:)
+10:10:51:  用户 属性
+10:10:56:  共享
+10:11:01:  本地磁盘 (C:)
+10:11:11:  Users
+10:11:16:  本地磁盘 (F:)
+10:11:26:  文件共享
+10:11:31:  本地磁盘 (F:)
+10:11:46:  python3.7 安装包
+10:11:51:  PostWork.PY - F:\01-软件\python3.7 安装包\PostWork.PY (3.7.3)
+10:11:56:  python3.7 安装包
+10:12:01:  01-软件
+10:12:06:  新建文件夹 (2)
+10:12:21:  
+10:12:26:  新建文件夹 (2)
+10:12:31:  01-软件
+10:12:41:  yf-zhangkaifa
+10:12:46:  dist
+10:12:51:  文件共享
+10:13:06:  PostWork
+10:13:11:  
+10:13:16:  PostWork
+10:13:21:  config.ini - 记事本
+10:13:31:  PostWork
+10:13:36:  config.ini - 记事本
+10:13:56:  PostWork
+10:14:01:  config.ini - 记事本
+10:14:06:  
+10:14:11:  eSpace Login
+10:14:16:  dist
+10:14:21:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:14:26:  
+10:14:31:  刘锐
+10:15:06:  yf-zhangkaifa
+10:15:11:  PostWork
+10:15:21:  dist
+10:15:26:  PostWork
+10:15:36:  PostWork.exe 属性
+10:15:41:  刘锐
+10:15:46:  yf-zhangkaifa
+10:15:51:  PostWork
+10:16:16:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:18:41:  刘锐
+10:18:46:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:19:11:  刘锐
+10:19:26:  PostWork
+10:19:31:  
+10:19:36:  config.ini - 记事本
+10:19:41:  刘锐
+10:20:46:  PostWork
+10:20:51:  
+10:20:56:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:23:01:  刘锐
+10:23:21:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:23:36:  刘锐
+10:24:11:  
+10:24:26:  刘锐
+10:24:51:  \\yf-zhangkaifa\dist\PostWork\PostWork.exe
+10:25:01:  PostWork
+10:25:16:  
+10:25:21:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+10:25:36:  刘锐
+10:25:51:  
+10:25:56:  PostWork
+10:26:01:  运行
+10:26:12:  Startup
+10:26:22:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:26:27:  新标签页 - Google Chrome
+10:26:32:  班车管理系统 - Google Chrome
+10:26:37:  班车管理系统 [新北洋集团] - Google Chrome
+10:26:52:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:26:57:  刘锐
+10:27:02:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:27:07:  
+10:27:12:  刘锐
+10:27:57:  
+10:28:02:  PostWork
+10:28:12:  code.bmp - Windows 照片查看器
+10:28:17:  Windows 照片查看器
+10:28:22:  PostWork
+10:28:32:  Windows
+10:28:37:  \\yf-zhangkaifa\dist\PostWork\win32api.pyd (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:28:42:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:28:47:  PostWork
+10:28:52:  Specify file encoding
+10:28:57:  PostWork
+10:29:02:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:29:07:  
+10:29:12:  PostWork
+10:29:17:  00-06
+10:29:32:  检出
+10:29:42:   - 版本库浏览器 - TortoiseSVN
+10:29:47:  BR-1-CashBox1T2 - 检出 - TortoiseSVN
+10:30:02:  检出 完成！
+10:28:12:  code.bmp - Windows 照片查看器
+10:28:17:  Windows 照片查看器
+10:28:22:  PostWork
+10:28:32:  Windows
+10:28:37:  \\yf-zhangkaifa\dist\PostWork\win32api.pyd (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:28:42:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:28:47:  PostWork
+10:28:52:  Specify file encoding
+10:28:57:  PostWork
+10:29:02:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:29:07:  
+10:29:12:  PostWork
+10:29:17:  00-06
+10:29:32:  检出
+10:29:42:   - 版本库浏览器 - TortoiseSVN
+10:29:47:  BR-1-CashBox1T2 - 检出 - TortoiseSVN
+10:30:02:  检出 完成！
+10:30:07:  1T2-Aging
+10:30:12:  
+10:30:17:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:30:22:  选择文件夹
+10:30:32:  untitled (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:30:42:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:30:47:  
+10:30:52:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:30:57:  D:\00-06\8\branches\BR-1-CashBox1T2\Drivers\SpiFlashDriver\SpiFlashDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:31:02:  选择文件夹
+10:31:17:  untitled (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:31:22:  D:\00-06\branches-Aging\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:31:42:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:31:47:  D:\00-06\1T2-Aging\Applications\State\State.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:32:17:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:32:52:  刘锐
+10:34:22:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:34:47:  刘锐
+10:35:52:  dist
+10:35:57:  新建文件夹 (2)
+10:36:07:  刘锐
+10:36:27:  启动
+10:36:32:  刘锐
+10:36:47:  
+10:36:52:  Project
+10:37:02:  1T2-Aging
+10:37:17:  Project
+10:37:22:  1T2-Aging
+10:37:27:  刘锐
+10:37:47:  本地磁盘 (F:)
+10:37:57:  dist
+10:38:02:  PostWork
+10:38:17:  dist
+10:38:22:  本地磁盘 (F:)
+10:38:27:  正在复制 2,164 个项目(239 MB)
+10:38:32:  刘锐
+10:38:42:  
+10:39:02:  本地磁盘 (F:)
+10:39:12:  PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)
+10:39:42:  *PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)*
+10:39:47:  PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)
+10:39:52:  新建文件夹 (2)
+10:39:57:  本地磁盘 (F:)
+10:40:02:  PostWork
+10:40:12:  F:\dist\PostWork\PostWork.exe
+10:40:17:  本地磁盘 (F:)
+10:40:22:  本地磁盘 (D:)
+10:40:27:  文件检测python
+10:40:32:  管理员: C:\Windows\system32\cmd.exe
+10:40:42:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -D PostWork.py
+10:40:47:  本地磁盘 (F:)
+10:40:52:  新建文件夹 (2)
+10:40:57:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-05.txt
+10:41:02:  新建文件夹 (2)
+10:41:12:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:41:22:  D:\00-06\1T2-Aging\Middlewares\Lock\Lock.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:41:27:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:41:32:  新建文件夹 (2)
+10:41:37:  1T2-Aging
+10:41:42:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -D PostWork.py
+10:41:47:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+10:42:02:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -D PostWork.py
+10:42:32:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+10:42:57:  
+10:43:02:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:43:07:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+10:43:57:  μVision
+10:44:02:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+10:44:07:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:44:12:  选择文件夹
+10:44:17:  untitled (1T1) - Sublime Text (UNREGISTERED)
+10:44:27:  D:\00-06\1T1\Applications\State\State.c (1T1) - Sublime Text (UNREGISTERED)
+10:44:37:  D:\00-06\1T1\Applications\MemoryConfig.h (1T1) - Sublime Text (UNREGISTERED)
+10:44:42:  
+10:44:47:  D:\00-06\1T2-Aging\Applications\MemoryConfig.h (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:44:57:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+10:45:02:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -D PostWork.py
+10:45:07:  管理员: C:\Windows\system32\cmd.exe
+10:45:17:  Project
+10:45:22:  新建文件夹 (2)
+10:45:32:  yf-zhangkaifa
+10:45:37:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -D PostWork.py
+10:45:47:  新建文件夹 (2)
+10:45:52:  PostWork
+10:45:57:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+10:46:02:  
+10:46:07:  D:\00-06\1T2-Aging\Applications\MemoryConfig.h (1T2-Aging) - Sublime Text (UNREGISTERED)
+10:46:12:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+10:46:27:  
+10:46:32:  D:\00-06\1T1\Applications\State\State.c (1T1) - Sublime Text (UNREGISTERED)
+10:46:47:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+10:47:02:  D:\00-06\1T1\Applications\State\State.c (1T1) - Sublime Text (UNREGISTERED)
+10:47:07:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+10:47:32:  管理员: C:\Windows\system32\cmd.exe
+10:47:37:  PostWork
+10:47:47:  新建文件夹 (2)
+10:47:52:  dist
+10:47:57:  本地磁盘 (F:)
+10:48:02:  PostWork
+10:48:07:  F:\新建文件夹 (2)\dist\PostWork\PostWork.exe
+10:48:12:  本地磁盘 (F:)
+10:48:17:  PostWork
+10:48:22:  F:\dist\PostWork\PostWork.exe
+10:48:27:  PostWork
+10:48:37:  F:\dist\PostWork\PostWork.exe
+10:48:42:  PostWork
+10:48:52:  本地磁盘 (F:)
+10:48:57:  新建文件夹 (2)
+10:49:02:  PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)
+10:49:07:  *PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)*
+10:49:37:  PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)
+10:49:47:  新建文件夹 (2)
+10:49:52:  *Python 3.7.3 Shell*
+10:49:57:  Python 3.7.3 Shell
+10:50:02:  PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)
+10:51:42:  *PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)*
+10:53:07:  新建文件夹 (2)
+10:53:12:  打开方式
+10:53:17:  F:\新建文件夹 (2)\PostWork.py (1T1) - Sublime Text (UNREGISTERED)
+10:54:47:  新标签页 - Google Chrome
+10:54:52:  D:\00-06\1T1\Applications\State\State.c (1T1) - Sublime Text (UNREGISTERED)
+10:54:57:  新标签页 - Google Chrome
+10:55:02:  百度一下，你就知道 - Google Chrome
+10:55:07:  python 获取_百度搜索 - Google Chrome
+10:55:12:  
+10:55:22:  Python获取当前时间的前一天，前一周，前一个月的时间_Python_贾己人的博客-CSDN博客 - Google Chrome
+10:55:37:  python 获取一周日期_百度搜索 - Google Chrome
+10:55:47:  Python获取昨天，今天，明天，本周，上周，本月，上月，本季，本年，去年时间。 - 青花メ - 博客园 - Google Chrome
+10:56:02:  D:\00-06\1T1\Applications\State\State.c (1T1) - Sublime Text (UNREGISTERED)
+10:56:07:  新建文件夹 (2)
+10:56:12:  PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)
+10:56:17:  新建文件夹 (2)
+10:56:32:  *Thedate.py - F:\新建文件夹 (2)\Thedate.py (3.7.3)*
+10:56:57:  SyntaxError
+10:57:02:  Thedate.py - F:\新建文件夹 (2)\Thedate.py (3.7.3)
+10:57:07:  Python 3.7.3 Shell
+10:57:12:  Thedate.py - F:\新建文件夹 (2)\Thedate.py (3.7.3)
+10:57:17:  Python 3.7.3 Shell
+10:57:22:  Thedate.py - F:\新建文件夹 (2)\Thedate.py (3.7.3)
+10:57:27:  Python 3.7.3 Shell
+10:57:37:  Thedate.py - F:\新建文件夹 (2)\Thedate.py (3.7.3)
+10:57:52:  Save Before Run or Check
+10:57:57:  Thedate.py - F:\新建文件夹 (2)\Thedate.py (3.7.3)
+10:58:02:  *Thedate.py - F:\新建文件夹 (2)\Thedate.py (3.7.3)*
+10:58:07:  
+10:58:12:  *Thedate.py - F:\新建文件夹 (2)\Thedate.py (3.7.3)*
+10:58:32:  *PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)*
+10:58:37:  *Thedate.py - F:\新建文件夹 (2)\Thedate.py (3.7.3)*
+10:59:42:  「开始」菜单
+10:59:52:  计算机管理
+10:58:07:  
+10:58:12:  *Thedate.py - F:\新建文件夹 (2)\Thedate.py (3.7.3)*
+10:58:32:  *PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)*
+10:58:37:  *Thedate.py - F:\新建文件夹 (2)\Thedate.py (3.7.3)*
+10:59:42:  「开始」菜单
+10:59:52:  计算机管理
+11:00:17:  
+11:00:22:  新建触发器
+11:00:42:  计算机管理
+11:00:47:  D:\00-06\1T1\Applications\State\State.c (1T1) - Sublime Text (UNREGISTERED)
+11:00:57:  
+11:01:02:  PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)
+11:01:32:  新建文件夹 (2)
+11:01:37:  管理员: C:\Windows\system32\cmd.exe
+11:01:42:  00-记录
+11:01:47:  文件检测python
+11:01:57:  管理员: C:\Windows\system32\cmd.exe
+11:02:07:  python 获取一周日期_百度搜索 - Google Chrome
+11:02:17:  pyinstaller -W_百度搜索 - Google Chrome
+11:02:22:  使用PyQt5从零进行大数据app构建（十三）pyinstaller打包讲解 -F，-D，-w，-c，以及--hidden-import的用法_Python_infent的博客-CSDN博客 - Google Chrome
+11:02:27:  管理员: C:\Windows\system32\cmd.exe
+11:02:32:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F -w PostWork.py
+11:02:52:  记录
+11:02:57:  dist
+11:03:02:  新建文件夹 (2)
+11:03:07:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F -w PostWork.py
+11:04:02:  
+11:04:07:  使用PyQt5从零进行大数据app构建（十三）pyinstaller打包讲解 -F，-D，-w，-c，以及--hidden-import的用法_Python_infent的博客-CSDN博客 - Google Chrome
+11:04:12:  管理员: C:\Windows\system32\cmd.exe
+11:04:17:  dist
+11:04:32:  PostWork
+11:04:37:  dist
+11:04:47:  Windows 任务管理器
+11:05:02:  dist
+11:05:17:  config.ini - 记事本
+11:05:32:  dist
+11:05:47:  
+11:05:52:  dist
+11:05:57:  新标签页 - Google Chrome
+11:06:02:  班车管理系统 - Google Chrome
+11:06:07:  班车管理系统 [新北洋集团] - Google Chrome
+11:06:12:  dist
+11:06:22:  PostWork
+11:06:27:  dist
+11:06:37:  新建文件夹 (2)
+11:06:42:  dist
+11:06:47:  PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)
+11:06:52:  *PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)*
+11:07:37:  新建文件夹 (2)
+11:07:42:  *Python 3.7.3 Shell*
+11:07:47:  新建文件夹 (2)
+11:07:52:  删除文件夹
+11:07:57:  00-06
+11:08:02:  文件检测python
+11:08:07:  管理员: C:\Windows\system32\cmd.exe
+11:08:17:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -D PostWork.py
+11:08:27:  本地磁盘 (F:)
+11:08:32:  dist
+11:09:02:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -D PostWork.py
+11:09:22:  dist
+11:09:47:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -D PostWork.py
+11:10:02:  管理员: C:\Windows\system32\cmd.exe
+11:10:07:  PostWork
+11:10:22:  F:\新建文件夹 (2)\dist\PostWork\PostWork.exe
+11:10:32:  PostWork
+11:10:42:  dist
+11:10:47:  管理员: C:\Windows\system32\cmd.exe
+11:10:52:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -D -w PostWork.py
+11:11:02:  dist
+11:11:07:  PostWork-Debug
+11:11:12:  dist
+11:11:27:  PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)
+11:11:37:  *PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)*
+11:11:52:  PostWork.py - F:\新建文件夹 (2)\PostWork.py (3.7.3)
+11:11:57:  dist
+11:12:02:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -D -w PostWork.py
+11:12:22:  dist
+11:12:57:  PostWork-Debug
+11:13:07:  dist
+11:13:12:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -D -w PostWork.py
+11:13:27:  dist
+11:13:32:  PostWork
+11:13:47:  班车管理系统 [新北洋集团] - Google Chrome
+11:13:52:  dist
+11:14:42:  班车管理系统 [新北洋集团] - Google Chrome
+11:14:47:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+13:37:27:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+13:38:12:  D:\00-06\1T2-Aging\Applications\MemoryConfig.h (1T2-Aging) - Sublime Text (UNREGISTERED)
+13:38:17:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+13:38:27:  D:\00-06\1T2-Aging\Applications\PlateCtrl\PlateCtrl.h (1T2-Aging) - Sublime Text (UNREGISTERED)
+13:38:32:  11.gif
+13:39:12:  
+13:39:17:  运行
+13:39:27:  班车管理系统 - Google Chrome
+13:39:37:  班车管理系统 [新北洋集团] - Google Chrome
+13:39:47:  
+13:39:52:  Bin
+13:40:12:  本地磁盘 (F:)
+13:40:17:  dist
+13:40:32:  config.ini - 记事本
+13:40:52:  D:\00-06\1T1\Applications\State\State.c (1T1) - Sublime Text (UNREGISTERED)
+13:40:57:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+13:42:07:  D:\00-06\1T2-Aging\Applications\Instruction\InstrHandle.c • (1T2-Aging) - Sublime Text (UNREGISTERED)
+13:42:22:  D:\00-06\1T2-Aging\Applications\Instruction\InstrHandle.h (1T2-Aging) - Sublime Text (UNREGISTERED)
+13:42:32:  D:\00-06\1T2-Aging\Applications\Instruction\InstrHandle.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+13:42:37:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+13:42:47:  D:\00-06\1T2-Aging\Applications\Instruction\InstrHandle.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+13:42:52:  
+13:43:47:  eSpace
+13:43:52:  于斌1
+13:43:57:  
+13:44:12:  选择文件夹
+13:44:17:  untitled (trunk) - Sublime Text (UNREGISTERED)
+13:44:22:  于斌1
+13:44:27:  untitled (trunk) - Sublime Text (UNREGISTERED)
+13:45:02:  D:\00-KE64\6\trunk\Applications\FlowControl\FlowControl.c (trunk) - Sublime Text (UNREGISTERED)
+13:45:17:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.h (trunk) - Sublime Text (UNREGISTERED)
+13:45:22:  D:\00-KE64\6\trunk\Applications\FlowControl\FlowControl.c (trunk) - Sublime Text (UNREGISTERED)
+13:45:27:  D:\00-KE64\6\trunk\Applications\InstrExp\InstrSUBProcess.h (trunk) - Sublime Text (UNREGISTERED)
+13:45:32:  D:\00-KE64\6\trunk\Applications\FlowControl\FlowControl.c (trunk) - Sublime Text (UNREGISTERED)
+13:47:07:  00-KE64
+13:47:12:  
+13:47:17:  D:\00-KE64\6\trunk\Applications\FlowControl\FlowControl.c (trunk) - Sublime Text (UNREGISTERED)
+13:47:22:  D:\00-KE64\6\trunk\Project\k64_rtt.uvprojx - μVision
+13:48:02:  D:\00-KE64\6\trunk\Applications\FlowControl\FlowControl.c (trunk) - Sublime Text (UNREGISTERED)
+13:48:07:  μVision
+13:48:12:  D:\00-KE64\6\trunk\Project\k64_rtt.uvprojx - μVision
+13:48:52:  
+13:48:57:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+13:50:22:  μVision
+13:50:27:  Options for Target 'CashBox_1T2_Debug'
+13:50:37:  D:\00-06\1T2-Aging\Project\CashBox_1T2.uvprojx - μVision
+13:50:42:  Project
+13:50:47:  BR-1-CashBox1T2
+13:50:52:  
+13:50:57:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+13:51:57:  
+13:52:07:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+13:57:17:  
+13:57:22:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+13:58:17:  计算器
+13:58:32:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+13:58:47:  
+13:58:52:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+13:58:57:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-05.txt
+13:59:02:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-05.txt
+13:59:17:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+13:59:22:  D:\00-KE64\6\trunk\Applications\FlowControl\FlowControl.c (trunk) - Sublime Text (UNREGISTERED)
+13:59:27:  选择文件夹
+13:59:37:  C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (Bin) - Sublime Text (UNREGISTERED)
+13:58:17:  计算器
+13:58:32:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+13:58:47:  
+13:58:52:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+13:58:57:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-05.txt
+13:59:02:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-05.txt
+13:59:17:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+13:59:22:  D:\00-KE64\6\trunk\Applications\FlowControl\FlowControl.c (trunk) - Sublime Text (UNREGISTERED)
+13:59:27:  选择文件夹
+13:59:37:  C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (Bin) - Sublime Text (UNREGISTERED)
+14:00:57:  
+14:01:02:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:01:52:  
+14:01:57:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:05:47:  Toolbox
+14:05:52:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:06:37:  
+14:06:47:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:07:02:  KE06LOG.bat - 快捷方式 (2)
+14:07:07:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:07:57:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:08:12:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:08:17:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:08:22:  便签条
+14:08:42:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:08:47:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:09:27:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:09:32:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:09:37:  
+14:09:42:  D:\00-KE64\6\trunk\Applications\FlowControl\FlowControl.c (trunk) - Sublime Text (UNREGISTERED)
+14:09:47:  D:\00-KE64\6\trunk\Drivers\K64Bsp\fsl_rcm.h (trunk) - Sublime Text (UNREGISTERED)
+14:10:47:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:11:02:  D:\00-KE64\6\trunk\Drivers\K64Bsp\fsl_rcm.h (trunk) - Sublime Text (UNREGISTERED)
+14:11:22:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+14:11:27:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:11:47:  D:\00-KE64\6\trunk\Drivers\K64Bsp\fsl_rcm.h (trunk) - Sublime Text (UNREGISTERED)
+14:12:07:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:12:27:  D:\00-KE64\6\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+14:12:42:  选择文件夹
+14:12:52:  untitled (trunk) - Sublime Text (UNREGISTERED)
+14:12:57:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:13:12:  untitled (trunk) - Sublime Text (UNREGISTERED)
+14:13:17:  D:\00-06\BOOT\trunk\Pclint\PC-LINT-KEIL.txt (trunk) - Sublime Text (UNREGISTERED)
+14:13:32:  D:\00-KE64\6\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+14:13:37:  
+14:13:42:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:13:47:  网易有道词典
+14:13:57:  
+14:14:12:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:14:22:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:14:57:  D:\00-KE64\6\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+14:15:02:  D:\00-KE64\6\trunk\Rtos\Rtthread\kernel\libcpu\arm\am335x\start_iar.s (trunk) - Sublime Text (UNREGISTERED)
+14:15:07:  D:\00-KE64\6\trunk\Rtos\Rtthread\kernel\libcpu\risc-v\e310\entry_gcc.S (trunk) - Sublime Text (UNREGISTERED)
+14:15:12:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:15:32:  D:\00-KE64\6\trunk\Rtos\Rtthread\kernel\libcpu\risc-v\e310\entry_gcc.S (trunk) - Sublime Text (UNREGISTERED)
+14:15:52:  D:\00-KE64\6\trunk\Applications\Application.c (trunk) - Sublime Text (UNREGISTERED)
+14:16:02:  D:\00-KE64\6\trunk\Rtos\Rtthread\kernel\src\thread.c (trunk) - Sublime Text (UNREGISTERED)
+14:16:27:  D:\00-KE64\6\trunk\Rtos\Rtthread\kernel\src\object.c (trunk) - Sublime Text (UNREGISTERED)
+14:16:47:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:17:12:  D:\00-KE64\6\trunk\Rtos\Rtthread\kernel\src\thread.c (trunk) - Sublime Text (UNREGISTERED)
+14:17:17:  D:\00-06\BOOT\trunk\Pclint\PC-LINT-KEIL.txt (trunk) - Sublime Text (UNREGISTERED)
+14:17:37:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:17:42:  D:\00-06\BOOT\trunk\Pclint\PC-LINT-KEIL.txt (trunk) - Sublime Text (UNREGISTERED)
+14:18:37:  D:\00-KE64\6\trunk\Rtos\Rtthread\kernel\src\thread.c (trunk) - Sublime Text (UNREGISTERED)
+14:18:42:  D:\00-06\BOOT\trunk\Pclint\PC-LINT-KEIL.txt (trunk) - Sublime Text (UNREGISTERED)
+14:18:52:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:19:02:  MKE06P80M48SF0RM.pdf - Adobe Reader
+14:20:12:  网易有道词典
+14:20:22:  MKE06P80M48SF0RM.pdf - Adobe Reader
+14:20:32:  「开始」菜单
+14:20:37:  网易有道词典
+14:20:47:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:20:52:  
+14:20:57:  D:\00-KE64\6\trunk\Applications\FlowControl\FlowControl.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:02:  D:\00-KE64\6\trunk\Rtos\Rtthread\kernel\libcpu\risc-v\e310\entry_gcc.S (trunk) - Sublime Text (UNREGISTERED)
+14:21:12:  
+14:21:17:  D:\00-KE64\6\trunk\Rtos\Rtthread\kernel\libcpu\risc-v\e310\entry_gcc.S (trunk) - Sublime Text (UNREGISTERED)
+14:21:22:  D:\00-KE64\6\trunk\Applications\StateCheck\StateCheck.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:32:  
+14:21:37:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+14:21:42:  D:\00-KE64\6\trunk\Applications\FlowControl\FlowControl.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:47:  选择文件夹
+14:21:52:  untitled (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:21:57:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:22:42:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:22:52:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:23:12:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:24:07:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:24:17:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:24:22:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:24:37:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:24:52:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:24:57:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:25:02:  
+14:25:07:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051424.log
+14:25:17:  MKE06P80M48SF0RM.pdf - Adobe Reader
+14:25:37:  
+14:25:42:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051424.log
+14:25:47:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:25:52:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051424.log
+14:25:57:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:26:02:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051424.log
+14:26:07:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:26:57:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051424.log
+14:27:02:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-05.txt
+14:27:07:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-05.txt
+14:27:12:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051424.log
+14:27:22:  MKE06P80M48SF0RM.pdf - Adobe Reader
+14:27:47:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051424.log
+14:27:52:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+14:27:57:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:28:07:  MKE06P80M48SF0RM.pdf - Adobe Reader
+14:28:17:  网易有道词典
+14:28:42:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051424.log
+14:28:47:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:28:52:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051424.log
+14:29:02:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:28:07:  MKE06P80M48SF0RM.pdf - Adobe Reader
+14:28:17:  网易有道词典
+14:28:42:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051424.log
+14:28:47:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:28:52:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051424.log
+14:29:02:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:34:27:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:34:32:  选择文件夹
+14:34:42:  untitled (trunk) - Sublime Text (UNREGISTERED)
+14:34:47:  D:\00-06\Thespace\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:07:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:12:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c • (trunk) - Sublime Text (UNREGISTERED)
+14:35:17:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:22:  D:\00-06\Thespace\trunk\FwLib\Config\DebugConfig.h (trunk) - Sublime Text (UNREGISTERED)
+14:35:27:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:47:  跳转列表
+14:35:52:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+14:35:57:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:36:02:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+14:36:12:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+14:36:32:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+14:36:42:  D:\00-06\Thespace\trunk\Drivers\BldcDriver\BldcDriver.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:32:  网易有道词典
+14:37:37:  D:\00-06\Thespace\trunk\Drivers\BldcDriver\BldcDriver.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:47:  D:\00-06\Thespace\trunk\Drivers\PeripheralDriver\GpioDriver\GpioDriver.h (trunk) - Sublime Text (UNREGISTERED)
+14:37:52:  
+14:38:07:  Thespace
+14:38:12:  trunk
+14:38:17:  SECSplashWnd
+14:38:22:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:40:22:  KE06LOG.bat - 快捷方式 (2)
+14:40:27:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:41:32:  BOOT
+14:41:37:  Project
+14:41:42:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+14:42:02:  Options for Target 'CashBox_Boot_1T1'
+14:42:07:  Cortex JLink/JTrace Target Driver Setup
+14:42:17:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+14:42:27:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:42:52:  
+14:42:57:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:43:02:  JLink - Cortex-M Error
+14:43:32:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:44:12:  SEGGER J-Link V6.10b - Target device settings
+14:44:17:  Project
+14:44:27:  
+14:44:32:  D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision
+14:44:37:  Project
+14:44:42:  BOOT
+14:44:47:  Thespace
+14:44:52:  D:\00-06\Thespace\trunk - 提交 - TortoiseSVN
+14:44:57:  State.c-revBASE.svn001.tmp.c <--> State.c - 文本比较(T) - Beyond Compare
+14:45:12:  D:\00-06\Thespace\trunk - 提交 - TortoiseSVN
+14:45:17:  SECSplashWnd
+14:45:22:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:45:32:  Sublime Text
+14:45:37:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:46:12:  
+14:46:17:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:48:07:  42 CRS现金循环模块
+14:48:12:  钞箱集成测试方案-报告
+14:48:17:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+14:48:22:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+14:50:22:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:50:27:  D:\00-06\Thespace\trunk\Drivers\BldcDriver\BldcDriver.c (trunk) - Sublime Text (UNREGISTERED)
+14:50:32:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:50:37:  μVision
+14:50:42:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:51:07:  
+14:51:12:  打开
+14:51:17:  
+14:51:22:  State - 写邮件
+14:51:27:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051424.log
+14:52:07:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:52:22:  
+14:52:27:  KE06LOG.bat - 快捷方式 (2)
+14:52:32:  
+14:52:47:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:52:52:  打开
+14:52:57:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:53:02:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:53:07:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:53:12:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:53:17:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:53:32:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051452.log
+14:53:37:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+14:53:47:  打开
+14:53:52:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+14:53:57:  State - 写邮件
+14:54:07:  
+14:54:12:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051424.log
+14:54:17:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:54:27:  State - 写邮件
+14:54:32:  QQMAIL_CAMERA_DESKVIEW
+14:54:42:  State - 写邮件
+14:54:47:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+14:59:47:  变幻线
+14:59:47:  变幻线
+15:04:48:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051406.log
+15:06:58:  
+15:07:03:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+15:07:13:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:07:23:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+15:07:28:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:09:03:  Toolbox
+15:09:08:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:14:43:  TCR调测工具 V3.36
+15:15:03:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:16:18:  TCR调测工具 V3.36
+15:16:48:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:17:23:  
+15:17:28:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+15:17:53:  1T2集成测试 - OneNote
+15:17:58:  DATASHEET SEARCH SITE | WWW.ALLDATASHEET.COM - Adobe Reader
+15:18:03:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+15:18:08:  
+15:18:13:  Everything
+15:18:18:  一体 - Everything
+15:18:23:  E - Everything
+15:18:28:  EXT - Everything
+15:18:33:  
+15:18:38:  04 钞箱控制板 EXTFEDUV2.1.PDF - Adobe Reader
+15:20:03:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:24:28:  
+15:24:33:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+15:24:38:  D:\00-06\Thespace\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+15:24:53:  D:\00-06\Thespace\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+15:25:28:  
+15:25:33:  04 钞箱控制板 EXTFEDUV2.1.PDF - Adobe Reader
+15:26:13:  
+15:26:18:  D:\00-06\Thespace\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+15:26:28:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+15:26:33:  D:\00-06\Thespace\trunk\Drivers\BldcDriver\BldcDriver.c (trunk) - Sublime Text (UNREGISTERED)
+15:26:38:  D:\00-06\Thespace\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+15:26:43:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+15:26:53:  04 钞箱控制板 EXTFEDUV2.1.PDF - Adobe Reader
+15:27:08:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+15:27:43:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:28:03:  确认
+15:28:13:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:29:08:  LangSelectWindow
+15:29:23:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:28:13:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:29:08:  LangSelectWindow
+15:29:23:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:31:18:  04 钞箱控制板 EXTFEDUV2.1.PDF - Adobe Reader
+15:31:23:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:32:18:  04 钞箱控制板 EXTFEDUV2.1.PDF - Adobe Reader
+15:35:53:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:38:13:  
+15:38:23:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+15:38:38:  
+15:42:23:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:42:28:  
+15:42:38:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051542.log
+15:43:13:  04 钞箱控制板 EXTFEDUV2.1.PDF - Adobe Reader
+15:43:23:  
+15:43:28:  04 钞箱控制板 EXTFEDUV2.1.PDF - Adobe Reader
+15:44:13:  
+15:44:18:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+15:44:38:  04 钞箱控制板 EXTFEDUV2.1.PDF - Adobe Reader
+15:45:23:  
+15:45:28:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+15:49:03:  D:\00-06\Thespace\trunk\Drivers\BldcDriver\BldcDriver.c (trunk) - Sublime Text (UNREGISTERED)
+15:49:13:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+15:49:23:  D:\00-06\Thespace\trunk\Drivers\BldcDriver\BldcDriver.c (trunk) - Sublime Text (UNREGISTERED)
+15:50:43:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+15:51:13:  04 钞箱控制板 EXTFEDUV2.1.PDF - Adobe Reader
+15:51:28:  阅读未加标签文档
+15:51:33:  04 钞箱控制板 EXTFEDUV2.1.PDF - Adobe Reader
+15:52:58:  
+15:53:03:  D:\00-06\Thespace\trunk\Drivers\BldcDriver\BldcDriver.c (trunk) - Sublime Text (UNREGISTERED)
+15:54:08:  D:\00-06\Thespace\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+15:54:18:  D:\00-06\Thespace\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+15:55:13:  阅读未加标签文档
+15:55:18:  原理图- 一体两箱控制板  EXTFEDU6V1.0.PDF - Adobe Reader
+15:58:53:  于斌1
+15:58:58:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:59:03:  
+15:59:08:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+15:59:13:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+15:59:23:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:59:28:  00-06
+15:59:33:  6
+15:59:38:  μVision
+15:59:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+15:58:53:  于斌1
+15:58:58:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:59:03:  
+15:59:08:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+15:59:13:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+15:59:23:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+15:59:28:  00-06
+15:59:33:  6
+15:59:38:  μVision
+15:59:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:02:23:  原理图- 一体两箱控制板  EXTFEDU6V1.0.PDF - Adobe Reader
+16:03:23:  
+16:03:28:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:03:33:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Sensor\Sensor.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:03:38:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:03:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:03:53:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:04:23:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:04:33:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:05:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:05:08:  
+16:05:58:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:06:23:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:06:33:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:06:38:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:07:18:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:07:38:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:07:53:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Sensor\Sensor.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:08:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:08:08:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:08:13:  μVision
+16:08:18:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:08:38:  JLink - Cortex Error
+16:08:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:09:03:  于斌1
+16:09:08:  
+16:09:13:  于斌1
+16:09:18:  
+16:09:58:  于斌1
+16:10:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:10:28:  Toolbox
+16:10:33:  J-Link V6.10b Device Selection
+16:10:38:  SEGGER J-Link V6.10b - Target device settings
+16:10:58:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:11:13:  JLink - Cortex-M Error
+16:11:18:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:12:08:  μVision
+16:12:48:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:13:43:  
+16:13:48:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:14:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Sensor\Sensor.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:14:08:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:14:13:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\PeripheralDriver\GpioDriver\GpioDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:14:18:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:14:23:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:14:58:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Sensor\Sensor.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:15:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:15:13:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:15:18:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:15:23:  
+16:15:28:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:15:43:  
+16:15:48:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:16:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:16:13:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:16:23:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:16:28:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:16:33:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:17:28:  
+16:17:38:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Sensor\Sensor.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:17:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:17:58:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:18:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Sensor\Sensor.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:18:08:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:18:18:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:18:28:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Sensor\Sensor.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:18:33:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:18:38:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Sensor\Sensor.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:18:48:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\SensorDriver\SensorDriver.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:18:58:  μVision
+16:19:03:  
+16:19:13:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:19:48:  原理图- 一体两箱控制板  EXTFEDU6V1.0.PDF - Adobe Reader
+16:20:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:20:18:  原理图- 一体两箱控制板  EXTFEDU6V1.0.PDF - Adobe Reader
+16:21:53:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:24:58:  μVision
+16:25:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:25:08:  μVision
+16:25:13:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:25:58:  Toolbox
+16:26:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:26:33:  
+16:26:38:  原理图- 一体两箱控制板  EXTFEDU6V1.0.PDF - Adobe Reader
+16:26:53:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:26:58:  
+16:27:03:  原理图- 一体两箱控制板  EXTFEDU6V1.0.PDF - Adobe Reader
+16:28:08:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:28:08:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:31:03:  
+16:31:13:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:35:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Sensor\Sensor.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:35:08:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:35:28:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:35:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:36:08:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:36:23:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:36:28:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:36:33:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:36:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:37:23:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:37:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:37:48:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:38:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:38:33:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:38:48:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:39:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:39:13:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:39:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:40:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:40:53:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:40:58:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:41:18:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:41:33:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:43:28:  
+16:43:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:45:28:  
+16:45:53:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051645.log
+16:50:23:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:53:53:  
+16:53:58:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:54:03:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051645.log
+16:54:08:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:55:08:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051645.log
+16:55:28:  计算器
+16:55:33:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051645.log
+16:55:38:  计算器
+16:55:53:  
+16:56:03:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051645.log
+16:56:08:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:56:13:  
+16:56:18:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:56:28:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051645.log
+16:56:58:  
+16:57:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:57:13:  D:\00-06\6\branches\BR-1-CashBox1T2\Cpu\MKE06Z4.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:57:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Cpu\Vectors_Config.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:57:58:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\main.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:58:33:  D:\00-06\6\branches\BR-1-CashBox1T2\Cpu\MKE06Z4.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:58:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\M24SRDriver\drv_I2C_M24SR.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:59:13:  D:\00-06\6\branches\BR-1-CashBox1T2\Rtos\MQXLITE\kernel\sched.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:59:18:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051645.log
+16:59:23:  D:\00-06\6\branches\BR-1-CashBox1T2\Rtos\MQXLITE\kernel\sched.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:59:38:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+16:58:33:  D:\00-06\6\branches\BR-1-CashBox1T2\Cpu\MKE06Z4.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:58:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Drivers\M24SRDriver\drv_I2C_M24SR.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:59:13:  D:\00-06\6\branches\BR-1-CashBox1T2\Rtos\MQXLITE\kernel\sched.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:59:18:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003051645.log
+16:59:23:  D:\00-06\6\branches\BR-1-CashBox1T2\Rtos\MQXLITE\kernel\sched.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+16:59:38:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+17:01:48:  μVision
+17:01:53:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision

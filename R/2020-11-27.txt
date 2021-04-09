@@ -1,0 +1,69 @@
+2020-11-26 23:45:04-- 00:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 00:00:04-- 00:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 00:15:04-- 00:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 00:30:00-- 00:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 00:45:00-- 01:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 01:00:00-- 01:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 01:15:00-- 01:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 01:30:00-- 01:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 01:45:00-- 02:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 02:00:00-- 02:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 02:15:00-- 02:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 02:30:00-- 02:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 02:45:00-- 03:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 03:00:01-- 03:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 03:15:01-- 03:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 03:30:01-- 03:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 03:45:01-- 04:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 04:00:01-- 04:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 04:15:01-- 04:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 04:30:01-- 04:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 04:45:01-- 05:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 05:00:01-- 05:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 05:15:02-- 05:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 05:30:02-- 05:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 05:45:02-- 06:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 06:00:02-- 06:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 06:15:02-- 06:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 06:30:02-- 06:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 06:45:02-- 07:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 07:00:02-- 07:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 07:15:02-- 07:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 07:30:02-- 07:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 07:45:03-- 08:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 08:00:03-- 08:15:04     :    一  ：锁屏状态   66/5.5分钟       二  ：D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)   48/4.0分钟     三  ：K18_0000_20201109151103.log - [No filter file]* - TextAnalysisTool.NET   16/1.33分钟
+2020-11-27 08:15:04-- 08:30:04     :    一  ：D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)   42/3.5分钟       二  ：D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)   19/1.58分钟     三  ：计算器   16/1.33分钟
+2020-11-27 08:30:04-- 08:45:00     :    一  ：CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET   76/6.33分钟       二  ：D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)   66/5.5分钟     三  ：Decode   17/1.41分钟
+2020-11-27 08:45:00-- 09:00:00     :    一  ：D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)   126/10.5分钟       二  ：CS_0000_20201109112748.log - [No filter file]* - TextAnalysisTool.NET   20/1.66分钟     三  ：CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET   16/1.33分钟
+2020-11-27 09:00:00-- 09:15:00     :    一  ：D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)   67/5.58分钟       二  ：Project   56/4.66分钟     三  ：D:\CRS\106\Project\ke18_rtt.uvprojx - μVision   21/1.75分钟
+2020-11-27 09:15:00-- 09:30:00     :    一  ：E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision   49/4.08分钟       二  ：CRS调测工具（研发版）V1.0.2.1   32/2.66分钟     三  ：E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)   17/1.41分钟
+2020-11-27 09:30:00-- 09:45:00     :    一  ：D:\CRS\666\Project\ke18_rtt.uvprojx - μVision   69/5.75分钟       二  ：E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision   26/2.16分钟     三  ：CRS调测工具（研发版）V1.0.2.1   16/1.33分钟
+2020-11-27 09:45:00-- 10:00:01     :    一  ：CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET   72/6.0分钟       二  ：D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)   39/3.25分钟     三  ：TCR调测工具（研发版）V1.0.0.4   13/1.08分钟
+2020-11-27 10:00:01-- 10:15:01     :    一  ：CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET   45/3.75分钟       二  ：D:\CRS\106\Project\ke18_rtt.uvprojx - μVision   33/2.75分钟     三  ：异常20201127.xlsx   23/1.91分钟
+2020-11-27 10:15:01-- 10:30:01     :    一  ：D:\CRS\106\Project\ke18_rtt.uvprojx - μVision   57/4.75分钟       二  ：D:\CRS\106\Middlewares\Component\Component.c (106) - Sublime Text (UNREGISTERED)   48/4.0分钟     三  ：D:\CRS\106\Middlewares\StepMotor\StepMotor.c (106) - Sublime Text (UNREGISTERED)   29/2.41分钟
+2020-11-27 10:30:01-- 10:45:01     :    一  ：D:\CRS\106\Middlewares\StepMotor\StepMotor.c (106) - Sublime Text (UNREGISTERED)   80/6.66分钟       二  ：CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET   14/1.16分钟     三  ：D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c • (106) - Sublime Text (UNREGISTERED)   13/1.08分钟
+2020-11-27 10:45:01-- 11:00:01     :    一  ：InstrReturn.c - trunk - Visual Studio Code [管理员]   52/4.33分钟       二  ：D:\CRS\106\Middlewares\StepMotor\StepMotor.c (106) - Sublime Text (UNREGISTERED)   36/3.0分钟     三  ：CS_0000_20201127104017.log - [No filter file]* - TextAnalysisTool.NET   34/2.83分钟
+2020-11-27 11:00:01-- 11:15:02     :    一  ：InstrReturn.c - trunk - Visual Studio Code [管理员]   172/14.3分钟       二  ：CheckTheBookTital.py - trunk - Visual Studio Code [管理员]   3/0.25分钟     三  ：设置 - trunk - Visual Studio Code [管理员]   2/0.16分钟
+2020-11-27 11:15:02-- 11:30:02     :    一  ：InstrReturn.c - trunk - Visual Studio Code [管理员]   85/7.08分钟       二  ：InstrExecute.c - trunk - Visual Studio Code [管理员]   30/2.5分钟     三  ：selenium + opencv突破滑动验证 - 郭楷丰 - 博客园 - Google Chrome   15/1.25分钟
+2020-11-27 11:30:02-- 11:45:02     :    一  ：锁屏状态   55/4.58分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)   54/4.5分钟     三  ：InstrExecute.c - trunk - Visual Studio Code [管理员]   36/3.0分钟
+2020-11-27 11:45:02-- 12:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 12:00:02-- 12:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 12:15:02-- 12:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 12:30:02-- 12:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 12:45:02-- 13:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 13:00:03-- 13:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-27 13:15:03-- 13:30:03     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)   35/2.91分钟       二  ：锁屏状态   26/2.16分钟     三  ：*weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)*   22/1.83分钟
+2020-11-27 13:30:03-- 13:45:03     :    一  ：D:\00-06\1T1-Stop-Length\trunk\FwLib\DebugLog\DebugLog.h (trunk) - Sublime Text (UNREGISTERED)   44/3.66分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)   40/3.33分钟     三  ：Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome   19/1.58分钟
+2020-11-27 13:45:03-- 14:00:04     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)   58/4.83分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)   36/3.0分钟     三  ：Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome   31/2.58分钟
+2020-11-27 14:00:04-- 14:15:04     :    一  ：Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome   81/6.75分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\BldcPid\BldcPid.c (trunk) - Sublime Text (UNREGISTERED)   20/1.66分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)   17/1.41分钟
+2020-11-27 14:15:04-- 14:30:04     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)   52/4.33分钟       二  ：CRS调测工具（研发版）V1.0.2.1   44/3.66分钟     三  ：TCR调测工具（研发版）V1.0.0.4   26/2.16分钟
+2020-11-27 14:30:04-- 14:45:04     :    一  ：LogExpert - D:\fenxi\爆仓问题(1)\20201112\20201112\Decode\ESC_12345678_20201112175118.log   32/2.66分钟       二  ：代码规则 - Google Chrome   20/1.66分钟     三  ：CRS调测工具（研发版）V1.0.2.1   17/1.41分钟
+2020-11-27 14:45:04-- 15:00:04     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   37/3.08分钟       二  ：活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome   24/2.0分钟     三  ：问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome   15/1.25分钟
+2020-11-27 15:00:04-- 15:15:00     :    一  ：个人周报-张开发 (55).xlsx - Excel   53/4.41分钟       二  ：PlateCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome   21/1.75分钟     三  ：InstrExecute.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome   15/1.25分钟
+2020-11-27 15:15:00-- 15:30:00     :    一  ：InstrExecute.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome   33/2.75分钟       二  ：TCR+DRB+CRS 项目周报.xlsx  [共享] - Excel   29/2.41分钟     三  ：周报及工作日志.xlsx - Excel   29/2.41分钟
+2020-11-27 15:30:00-- 15:45:00     :    一  ：移动打卡审批 - Internet Explorer   76/6.33分钟       二  ：补签卡流程 - Internet Explorer   66/5.5分钟     三  ：异常20201127.xlsx - Excel   22/1.83分钟
+2020-11-27 15:45:00-- 16:00:00     :    一  ：移动打卡审批 - Internet Explorer   42/3.5分钟       二  ：Plate.c - TortoiseMerge   31/2.58分钟     三  ：PaperManage.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome   22/1.83分钟
+2020-11-27 16:00:00-- 16:15:00     :    一  ：活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome   32/2.66分钟       二  ：于斌1   14/1.16分钟     三  ：LowerPlate.c - TortoiseMerge   13/1.08分钟
+2020-11-27 16:15:00-- 16:30:01     :    一  ：Symbol '__thumb_startup(void)' redeclared (void/no • (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)   72/6.0分钟       二  ：问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome   51/4.25分钟     三  ：活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome   33/2.75分钟
+2020-11-27 16:30:01-- 16:45:01     :    一  ：K64_BTCR-1100200600510420_20201127161057.log - DRB.tat* - TextAnalysisTool.NET   59/4.91分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)   42/3.5分钟     三  ：Symbol '__thumb_startup(void)' redeclared (void/no • (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)   31/2.58分钟
+2020-11-27 16:45:01-- 17:00:01     :    一  ：K64_BTCR-1100200600510420_20201127161057.log - DRB.tat* - TextAnalysisTool.NET   79/6.58分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)   67/5.58分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)   33/2.75分钟

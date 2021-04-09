@@ -1,0 +1,536 @@
+13:46:34:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:46:44:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:46:49:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:47:04:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:47:09:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:47:19:  桌面整理
+13:47:24:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+13:48:04:  开始
+13:48:09:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:48:44:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:48:54:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:49:04:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:49:09:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:49:19:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:49:59:  SeparatorCtrl.h - CRS - Visual Studio Code [管理员]
+13:50:44:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:51:44:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:52:09:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:52:14:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:52:19:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:52:34:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+13:52:39:  桌面整理
+13:52:44:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00.doc [兼容模式] - Word
+13:54:59:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+13:55:09:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+13:55:34:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+13:55:59:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+13:56:19:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+13:57:54:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+13:58:09:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+13:58:14:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+13:58:24:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+13:58:54:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+13:58:09:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+13:58:14:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+13:58:24:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+13:58:54:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:01:04:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:01:09:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:02:14:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:02:49:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:02:59:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:03:24:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:03:39:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:04:54:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:04:59:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:05:09:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:05:14:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:05:24:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:05:54:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:06:04:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:06:09:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:06:14:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:06:34:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:07:14:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:07:19:  网易有道词典
+14:08:14:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:08:49:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:08:54:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:10:49:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:11:39:  ImpellerCtrl.h - CRS - Visual Studio Code [管理员]
+14:11:44:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:11:54:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:11:59:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:12:19:  于斌1
+14:12:29:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:12:34:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:12:39:  ImpellerCtrl.h - CRS - Visual Studio Code [管理员]
+14:12:44:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:12:59:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:13:49:  ImpellerCtrl.h - CRS - Visual Studio Code [管理员]
+14:13:54:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:14:15:  于斌1
+14:14:20:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:14:15:  于斌1
+14:14:20:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:16:05:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:16:10:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:16:20:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:17:00:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:17:05:  ImpellerCtrl.h - CRS - Visual Studio Code [管理员]
+14:17:10:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:17:35:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:17:40:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:18:10:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:18:20:  ImpellerCtrl.h - CRS - Visual Studio Code [管理员]
+14:18:35:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:18:45:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:19:00:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:19:40:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:19:50:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:20:05:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:20:10:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:20:15:  ● ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:20:20:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:21:40:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00.doc [兼容模式] - Word
+14:22:50:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:23:00:  2222.vsdx - Microsoft Visio
+14:23:15:  锁屏状态
+14:23:20:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:23:25:  2222.vsdx - Microsoft Visio
+14:28:10:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:29:40:  2222.vsdx - Microsoft Visio
+14:28:10:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:29:40:  2222.vsdx - Microsoft Visio
+14:31:35:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00.doc [兼容模式] - Word
+14:33:55:  更新目录
+14:34:00:  2222.vsdx - Microsoft Visio
+14:34:05:  桌面整理
+14:34:10:  继续阅读
+14:34:15:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+14:35:00:  Word
+14:35:05:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+14:36:35:  Microsoft Word
+14:36:40:  另存为
+14:36:45:  网易有道词典
+14:36:50:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+14:37:10:  桌面整理
+14:37:15:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00.doc [兼容模式] - Word
+14:38:50:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:39:35:  2222.vsdx - Microsoft Visio
+14:39:40:  继续阅读
+14:39:45:  运行
+14:39:50:  03 项目周报
+14:39:55:  固件集成测试方案
+14:40:00:  钞箱1T2集成测试方案
+14:40:05:  5.1 BOOTLOADER测试.xls  [受保护的视图] - Excel
+14:40:25:  Windows Installer
+14:40:30:  5.2 EEPROM测试.pptx [受保护的视图] - PowerPoint
+14:40:55:  正在打开 - Excel
+14:41:00:  5.3 历史记录功能测试V1.0--掉电记录.xls  [受保护的视图] - Excel
+14:41:05:  5.3 历史记录功能测试V1.0--掉电记录.xls  [只读]  [兼容模式] - Excel
+14:42:10:  钞箱1T2集成测试方案
+14:42:15:  5.2 EEPROM测试V1.0.xls  [受保护的视图] - Excel
+14:42:25:  钞箱1T2集成测试方案
+14:42:30:  5.4 日志功能测试.xls  [受保护的视图] - Excel
+14:43:00:  钞箱1T2集成测试方案
+14:43:05:  PowerPoint
+14:43:10:  钞箱1T2集成测试方案
+14:43:20:  5.6 步进电机测试V1.1.xls  [受保护的视图] - Excel
+14:44:00:  钞箱1T2集成测试方案
+14:44:05:  5.12 直流电机功能测试.xlsx  [受保护的视图] - Excel
+14:44:50:  钞箱集成测试方案-报告
+14:44:55:  5.12 直流电机功能测试V1.0.xls  [受保护的视图] - Excel
+14:44:05:  5.12 直流电机功能测试.xlsx  [受保护的视图] - Excel
+14:44:50:  钞箱集成测试方案-报告
+14:44:55:  5.12 直流电机功能测试V1.0.xls  [受保护的视图] - Excel
+14:45:15:  5.12 直流电机功能测试.xlsx  [受保护的视图] - Excel
+14:45:20:  5.12 直流电机功能测试V1.0.xls  [受保护的视图] - Excel
+14:45:25:  5.12 直流电机功能测试.xlsx  [受保护的视图] - Excel
+14:48:05:  Excel
+14:48:10:  5.12 直流电机功能测试.xlsx  [只读] - Excel
+14:49:25:  钞箱集成测试方案-报告
+14:49:30:  钞箱1T2集成测试方案
+14:49:35:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+14:50:25:  钞箱1T2集成测试方案
+14:50:30:  5.16.17 Can总线测试--VSUM.pptx [受保护的视图] - PowerPoint
+14:50:40:  正在打开 - Excel
+14:50:45:  5.18 传感器测试v1.1.xlsx  [受保护的视图] - Excel
+14:50:55:  钞箱1T2集成测试方案
+14:51:00:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx  [受保护的视图] - Excel
+14:51:10:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+14:51:25:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:51:50:  2222.vsdx - Microsoft Visio
+14:51:55:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+14:52:05:  桌面整理
+14:52:15:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+14:54:25:  Adobe Photoshop CS3 Extended
+14:54:30:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 66.7% (中间位置, RGB/8)]
+14:54:35:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 73.3% (中间位置, RGB/8)]
+14:54:40:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 88.7% (图层 5, RGB/8)]
+14:54:55:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 88.7% (形状 9, RGB/8)]
+14:55:15:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 88.7% (中间位置, RGB/8)]
+14:55:20:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 74.5% (中间位置, RGB/8)]
+14:55:40:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 74.5% (形状 10, RGB/8)]
+14:55:55:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 74.5% (Rasing位置, RGB/8)]
+14:56:00:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 90.1% (Rasing位置, RGB/8)]
+14:56:05:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 120% (Rasing位置, RGB/8)]
+14:56:10:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 192% (Rasing位置, RGB/8)]
+14:56:15:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 280% (图层 5, RGB/8)]
+14:56:20:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 280% (形状 1, 图层蒙版/8)]
+14:56:25:  拾色器
+14:56:30:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 280% (形状 1, 图层蒙版/8)]
+14:56:40:  拾取实色:
+14:56:45:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 280% (形状 1, 图层蒙版/8)]
+14:56:50:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 161% (图层 4, RGB/8)]
+14:56:55:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 100% (图层 4, RGB/8)]
+14:57:10:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 177% (形状 3, RGB/8)]
+14:57:15:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 92.4% (形状 3, RGB/8)]
+14:57:20:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 92.4% (形状 9, RGB/8)]
+14:57:25:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 112% (形状 9, RGB/8)]
+14:57:40:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 112% (形状 3, RGB/8)]
+14:57:55:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 76.3% (形状 3, RGB/8)]
+14:58:20:  拾取实色:
+14:59:10:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 76.3% (形状 1, 图层蒙版/8)]
+14:59:30:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 83.3% (形状 7, RGB/8)]
+14:59:40:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 339% (形状 7, RGB/8)]
+14:59:45:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 339% (图层 5, RGB/8)]
+14:59:55:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 158% (形状 11, RGB/8)]
+15:00:00:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 158% (形状 12, RGB/8)]
+14:58:20:  拾取实色:
+14:59:10:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 76.3% (形状 1, 图层蒙版/8)]
+14:59:30:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 83.3% (形状 7, RGB/8)]
+14:59:40:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 339% (形状 7, RGB/8)]
+14:59:45:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 339% (图层 5, RGB/8)]
+14:59:55:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 158% (形状 11, RGB/8)]
+15:00:00:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 158% (形状 12, RGB/8)]
+15:00:10:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 158% (形状 13, RGB/8)]
+15:00:15:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 89.4% (形状 11, RGB/8)]
+15:00:35:  确认另存为
+15:00:45:  插入图片
+15:00:50:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+15:02:20:  绘图 在 C:\Users\zhangkaifa\Desktop\... - Microsoft Visio
+15:03:40:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+15:04:05:  Microsoft Visio
+15:04:10:  桌面整理
+15:04:30:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00.doc [兼容模式] - Word
+15:04:55:  桌面整理
+15:05:00:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00 - 写邮件
+15:06:00:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00 - 写邮件   15:05:57 已保存
+15:06:50:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+15:11:45:  Word
+15:11:50:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+15:12:40:  桌面整理
+15:12:45:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00.doc [兼容模式] - Word
+15:12:50:  桌面整理
+15:12:55:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+15:13:15:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00 - 写邮件   15:12:57 已保存
+15:13:20:  桌面整理
+15:13:25:  于斌1
+15:13:40:  钞箱1T2集成测试方案
+15:13:45:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+15:14:05:  于斌1
+15:14:40:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+15:14:50:  于斌1
+15:14:55:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:14:05:  于斌1
+15:14:40:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+15:14:50:  于斌1
+15:14:55:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:17:25:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:18:05:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:18:10:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:18:15:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:18:40:  ImpellerCtrl.h - CRS - Visual Studio Code [管理员]
+15:18:45:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+15:18:50:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:18:55:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:19:15:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:19:25:  红1.png
+15:19:30:  红1
+15:19:35:  于斌1
+15:20:00:  锁屏状态
+15:20:05:  于斌1
+15:21:30:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:21:35:  SeparatorCtrl.h - CRS - Visual Studio Code [管理员]
+15:21:40:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:21:45:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:21:50:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:22:05:  于斌1
+15:22:30:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:22:35:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+15:22:45:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:23:00:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:23:15:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:23:25:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:24:20:  于斌1
+15:25:00:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:26:00:  SeparatorCtrl.h - CRS - Visual Studio Code [管理员]
+15:26:05:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:26:55:  于斌1
+15:27:05:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:28:36:  于斌1
+15:28:51:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:29:56:  于斌1
+15:28:36:  于斌1
+15:28:51:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:29:56:  于斌1
+15:30:06:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:30:36:  于斌1
+15:31:01:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:31:16:  于斌1
+15:31:26:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:32:11:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:32:21:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:35:11:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+15:35:16:  untitled (trunk) - Sublime Text (UNREGISTERED)
+15:35:21:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:37:21:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:38:51:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:39:06:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:39:56:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:40:01:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:42:01:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:45:56:  锁屏状态
+15:46:01:  TCR调测工具 V3.36
+15:46:26:  发送指令到K06
+15:46:36:  TCR调测工具 V3.36
+15:46:41:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:46:46:  发送指令到K06
+15:46:56:  TCR调测工具 V3.36
+15:47:01:  计算器
+15:48:11:  发送指令到K06
+15:48:21:  TCR调测工具 V3.36
+15:49:21:  μVision
+15:49:26:  本地磁盘 (D:)
+15:49:31:  Tools
+15:49:36:  TCR调测工具 V3.36
+15:50:06:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:50:41:  计算器
+15:50:56:  打开
+15:51:06:  TCR调测工具 V3.36
+15:51:21:  BTCRTestTool
+15:51:36:  TCR调测工具 V3.36
+15:52:16:  钞箱配置
+15:52:21:  TCR调测工具 V3.36
+15:52:31:  钞箱配置
+15:52:36:  可接收
+15:52:41:  TCR调测工具 V3.36
+15:56:01:  跳转列表
+15:56:06:  TCRControlCmdDLL
+15:56:11:  新建文本文档.exe - 快捷方式
+15:56:16:  20200629
+15:56:21:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:56:31:  打开
+15:56:36:  Box_1__0000_20200629155545.log - [No filter file] - TextAnalysisTool.NET
+15:56:41:  Box_1__0000_20200629155545.log - DRB-MOTOR.tat - TextAnalysisTool.NET
+15:57:01:  Tools
+15:57:06:  Project
+15:57:11:  DRB-PRESS
+15:57:16:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+15:57:21:  打开文件夹
+15:57:31:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:57:41:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:58:01:  Tools
+15:58:06:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:58:21:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:58:26:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:58:41:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+15:58:46:  untitled (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:58:51:  D:\00-06\DRB-PRESS\Drivers\SensorDriver\SensorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:58:56:  D:\00-06\DRB-PRESS\Drivers\SensorDriver\SensorDriver.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:59:01:  D:\00-06\DRB-PRESS\Drivers\SensorDriver\SensorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:59:06:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:59:11:  D:\00-06\DRB-PRESS\Middlewares\Sensor\Sensor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:59:31:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:59:41:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:59:51:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+15:59:56:  Tools
+16:00:01:  Project
+15:58:06:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:58:21:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:58:26:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:58:41:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+15:58:46:  untitled (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:58:51:  D:\00-06\DRB-PRESS\Drivers\SensorDriver\SensorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:58:56:  D:\00-06\DRB-PRESS\Drivers\SensorDriver\SensorDriver.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:59:01:  D:\00-06\DRB-PRESS\Drivers\SensorDriver\SensorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:59:06:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:59:11:  D:\00-06\DRB-PRESS\Middlewares\Sensor\Sensor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:59:31:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:59:41:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:59:51:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+15:59:56:  Tools
+16:00:01:  Project
+16:00:06:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:00:31:  Project
+16:00:36:  锁屏状态
+16:00:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:00:56:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+16:01:01:  TCR调测工具 V3.36
+16:01:06:  打开
+16:01:11:  TCR调测工具 V3.36
+16:01:26:  00-06
+16:01:31:  press2
+16:01:36:  D:\00-KE64\press2 - 更新 - TortoiseSVN
+16:01:41:  TCR调测工具 V3.36
+16:02:01:  D:\00-KE64\press2 - 更新 - TortoiseSVN
+16:02:06:  milestone.txt.mine - TortoiseMerge
+16:02:16:  更新 完成！
+16:02:21:  TCR调测工具 V3.36
+16:07:16:  发送指令到K06
+16:07:21:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:07:26:  发送指令到K06
+16:07:31:  TCR调测工具 V3.36
+16:07:36:  打开
+16:07:41:  TCR调测工具 V3.36
+16:07:56:  BTCRTestTool
+16:08:56:  TCR调测工具 V3.36
+16:09:01:  BTCRTestTool
+16:12:06:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:13:51:  press2
+16:14:01:  00-06
+16:14:06:  Tools
+16:14:16:  删除文件
+16:14:21:  Tools
+16:14:26:  红1.png
+16:14:36:  于斌1
+16:14:46:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 89.4% (形状 11, RGB/8)]
+16:14:51:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 195% (图层 0, RGB/8)]
+16:14:56:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 195% (形状 1, RGB/8)]
+16:14:06:  Tools
+16:14:16:  删除文件
+16:14:21:  Tools
+16:14:26:  红1.png
+16:14:36:  于斌1
+16:14:46:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 89.4% (形状 11, RGB/8)]
+16:14:51:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 195% (图层 0, RGB/8)]
+16:14:56:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 195% (形状 1, RGB/8)]
+16:15:21:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 195% (图层 0 副本, RGB/8)]
+16:15:26:  匹配颜色
+16:15:31:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 195% (图层 0 副本, RGB/8)]
+16:15:41:  替换颜色
+16:15:56:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 195% (图层 0 副本, RGB/8)]
+16:16:06:  可选颜色
+16:16:11:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 195% (图层 0 副本, RGB/8)]
+16:16:21:  匹配颜色
+16:16:31:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 195% (图层 0 副本, RGB/8)]
+16:16:51:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 285% (图层 0 副本, RGB/8)]
+16:17:01:  替换颜色
+16:17:16:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 285% (图层 0 副本, RGB/8)]
+16:17:36:  Adobe Photoshop CS3 Extended
+16:17:41:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 89.4% (形状 11, RGB/8)]
+16:18:01:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00.doc
+16:18:26:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc
+16:19:06:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:19:11:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 89.4% (形状 11, RGB/8)]
+16:19:16:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 100% (图层 0, RGB/8)]
+16:20:01:  色调分离
+16:20:06:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 100% (图层 0, RGB/8)]
+16:20:11:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 100% (图层 0 副本, RGB/8)]
+16:20:16:  替换颜色
+16:21:01:  选择目标颜色:
+16:21:06:  替换颜色
+16:21:21:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 100% (图层 0 副本, RGB/8)]
+16:21:41:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:22:16:  Adobe Photoshop CS3 Extended - [未标题-3.psd @ 89.4% (形状 11, RGB/8)]
+16:22:21:  色彩范围
+16:22:26:  于斌1
+16:22:31:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 257% (图层 0 副本, RGB/8)]
+16:22:41:  色彩范围
+16:23:01:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 257% (图层 0 副本, RGB/8)]
+16:23:06:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 257% (图层 1, RGB/8)]
+16:23:16:  色彩范围
+16:24:01:  Adobe Photoshop CS3 Extended - [7B198F7F-EE01-48EB-8178-BC4A75D351EE.png @ 257% (图层 0 副本, RGB/8)]
+16:24:06:  色彩范围
+16:24:26:  回复: BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00
+16:24:51:  Adobe Photoshop CS3 Extended
+16:24:56:  回复: BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00
+16:25:06:  于斌1
+16:25:11:  Word
+16:25:16:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [只读] [兼容模式] - Word
+16:32:56:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc
+16:33:01:  回复: BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00
+16:33:06:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [只读] [兼容模式] - Word
+16:57:01:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:57:06:  Visual Studio Code
+16:57:11:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+16:57:16:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+16:57:21:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+16:58:36:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+16:58:41:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+16:58:51:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+16:58:56:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+16:59:21:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+16:59:26:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+16:59:31:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [只读] [兼容模式] - Word
+16:58:36:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+16:58:41:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+16:58:51:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+16:58:56:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+16:59:21:  ● SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+16:59:26:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+16:59:31:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [只读] [兼容模式] - Word
+17:01:11:  eSpace
+17:01:16:  谭佳武
+17:06:36:  锁屏状态
+17:41:36:  谭佳武
+17:46:16:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [只读] [兼容模式] - Word
+17:49:01:  谭佳武
+17:52:01:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [只读] [兼容模式] - Word
+17:52:11:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+17:53:51:  谭佳武
+17:54:06:  锁屏状态
+17:54:16:  谭佳武
+17:57:51:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [只读] [兼容模式] - Word
+18:00:01:  谭佳武
+18:00:01:  谭佳武
+18:00:11:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [只读] [兼容模式] - Word
+18:13:06:  Microsoft Visio
+18:13:16:  2222.vsdx - Microsoft Visio
+18:14:37:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [只读] [兼容模式] - Word
+18:14:42:  2222.vsdx - Microsoft Visio
+18:14:37:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [只读] [兼容模式] - Word
+18:14:42:  2222.vsdx - Microsoft Visio
+18:18:37:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [只读] [兼容模式] - Word
+18:24:52:  另存为
+18:25:07:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+18:25:12:  于斌1
+18:25:17:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+18:25:22:  eSpace
+18:25:27:  历史记录管理器
+18:26:02:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+18:26:27:  于斌1
+18:26:47:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+18:35:17:  Microsoft Word
+18:35:22:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+18:36:47:  eSpace
+18:37:02:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+18:38:17:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+18:41:32:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+18:47:12:  谭佳武
+18:47:32:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+18:58:27:  谭佳武
+18:58:27:  谭佳武
+19:01:17:  桌面整理
+19:01:27:  谭佳武
+19:01:32:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+19:01:47:  谭佳武
+19:02:12:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+19:02:17:  谭佳武
+19:03:07:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+19:03:22:  锁屏状态
+19:03:27:  谭佳武
+19:04:57:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+19:07:52:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+19:07:57:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+19:08:07:  谭佳武
+19:08:17:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+19:08:22:  谭佳武
+19:08:32:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+19:08:37:  谭佳武
+19:08:52:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+19:08:57:  锁屏状态
+19:09:02:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+19:10:07:  锁屏状态

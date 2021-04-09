@@ -1,0 +1,1210 @@
+07:57:56:  DRB测试缺陷-3.17.xlsx  [只读] - Excel
+08:04:16:  Microsoft Windows
+08:08:32:  桌面整理
+08:09:07:  State.c - TortoiseMerge
+08:09:22:  K64_BTCR-1100200400210043_20210319144944
+08:09:27:  20210319
+08:15:47:  锁屏状态
+08:15:52:  新标签页 - Google Chrome
+08:16:02:  桌面整理
+08:16:12:  正在准备 再循环
+08:16:17:  新标签页 - Google Chrome
+08:16:56:  Tasks - To Do - Google Chrome
+08:17:01:  已计划日程 - To Do - Google Chrome
+08:17:16:  新标签页 - Google Chrome
+08:17:21:  20210319
+08:17:26:  新标签页 - Google Chrome
+08:18:10:  修改书签
+08:18:20:  新标签页 - Google Chrome
+08:18:30:  班车管理系统 - Google Chrome
+08:18:35:  班车管理系统 [新北洋集团] - Google Chrome
+08:18:45:  20210319
+08:19:00:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103181137.log
+08:19:05:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103151412.log
+08:19:10:  20210319
+08:20:19:  开始
+08:20:24:  C:\Users\zhangkaifa\Desktop\11234.gif - Internet Explorer
+08:20:39:  新北洋OA信息化平台 - Internet Explorer
+08:20:44:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+08:30:08:  State.c - TortoiseMerge
+08:30:28:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+08:30:58:  State.c - TortoiseMerge
+08:31:08:  本地磁盘 (D:)
+08:31:13:  00-06
+08:31:18:  DRB
+08:31:23:  TortoiseMerge
+08:31:28:  Initial.c - TortoiseMerge
+08:31:48:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+08:31:53:  跳转列表
+08:31:58:  TCRControlCmdDLL
+08:32:03:  20210319
+08:32:08:  Decode
+08:32:23:  文件夹正在使用
+08:32:28:  TheDateInfo.xls  [兼容模式] - Excel
+08:32:33:  LOG
+08:32:38:  Decode
+08:32:48:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:32:53:  eSpace
+08:35:33:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:36:53:  Decode
+08:36:58:  LOG
+08:37:08:  K64_BTCR-1100200400210043_20210319173055
+08:37:23:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+08:37:28:  锁屏状态
+08:37:33:  Box_1__BTCR-1100200400210043_20210319173055.log - DRB2.tat - TextAnalysisTool.NET
+08:37:43:  LOG
+08:37:48:  Box_1__BTCR-1100200400210043_20210319173805.log - DRB2.tat - TextAnalysisTool.NET
+08:38:18:  LOG
+08:38:23:  Box_1__BTCR-1100200400210043_20210319174241.log - DRB2.tat - TextAnalysisTool.NET
+08:38:48:  LOG
+08:38:53:  Box_1__BTCR-1100200400210043_20210319174335.log - DRB2.tat - TextAnalysisTool.NET
+08:40:18:  LOG
+08:40:23:  Box_1__BTCR-1100200400210043_20210319174241.log - DRB2.tat - TextAnalysisTool.NET
+08:42:08:  LOG
+08:42:43:  K64_BTCR-1100200400210043_20210319174335
+08:42:48:  Box_1__BTCR-1100200400210043_20210319174335.log - DRB2.tat - TextAnalysisTool.NET
+08:45:03:  TCR调测工具 V3.36
+08:45:03:  TCR调测工具 V3.36
+08:45:08:  钞箱配置
+08:45:28:  TCR调测工具 V3.36
+08:47:38:  钞箱配置
+08:47:43:  TCR调测工具 V3.36
+08:52:43:  库
+08:52:48:  trunk
+08:52:53:  Tools
+08:54:38:  【通知】公务卡提交文件&青年大学习
+08:54:58:  Tools
+08:55:03:  TCR调测工具 V3.36
+08:55:08:  盘点
+08:55:18:  TCR调测工具 V3.36
+08:58:53:  盘点
+08:58:58:  TCR调测工具 V3.36
+08:58:53:  盘点
+08:58:58:  TCR调测工具 V3.36
+09:01:54:  盘点
+09:01:59:  锁屏状态
+09:03:59:  TCR调测工具 V3.36
+09:04:04:  eSpace
+09:04:14:  TCR调测工具 V3.36
+09:05:59:  盘点
+09:06:04:  TCR调测工具 V3.36
+09:08:04:  TCRControlCmdDLL
+09:08:09:  Decode
+09:08:14:  20210320
+09:10:09:  Decode
+09:10:14:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:10:19:  Box_1__BTCR-1100200400210043_20210320090647.log - DRB2.tat - TextAnalysisTool.NET
+09:10:34:  Decode
+09:10:39:  20210320
+09:10:44:  Decode
+09:10:54:  K64_BTCR-1100200400210043_20210320090647
+09:10:59:  Box_1__BTCR-1100200400210043_20210320090647.log - DRB2.tat - TextAnalysisTool.NET
+09:11:09:  20210320
+09:12:39:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:13:04:  20210320
+09:13:14:  Decode
+09:13:19:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:13:24:  Box_1__BTCR-1100200400210043_20210320090647.log - DRB2.tat - TextAnalysisTool.NET
+09:13:44:  20210320
+09:13:54:  K64_BTCR-1100200400210043_20210320090647
+09:13:59:  K64-_BTCR-1100200400210043_20210320090647.log - DRB2.tat - TextAnalysisTool.NET
+09:14:04:  K64_BTCR-1100200400210043_20210320090647
+09:14:09:  20210320
+09:14:09:  20210320
+09:15:44:  eSpace
+09:15:54:  于斌1
+09:16:59:  20210320
+09:17:09:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:17:14:  20210320
+09:17:24:  回收
+09:17:29:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:17:34:  LOG
+09:17:39:  K64-_BTCR-1100200400210043_20210320090647.log - DRB2.tat - TextAnalysisTool.NET
+09:17:44:  Box_1__BTCR-1100200400210043_20210320090647.log - DRB2.tat - TextAnalysisTool.NET
+09:17:49:  于斌1
+09:17:54:  20210320
+09:18:04:  Decode
+09:18:09:  于斌1
+09:18:14:  锁屏状态
+09:18:19:  K64_BTCR-1100200400210043_20210320090647
+09:18:24:  Box_1__BTCR-1100200400210043_20210320090647.log - DRB2.tat - TextAnalysisTool.NET
+09:20:49:  taskeng.exe
+09:20:59:  新标签页 - Google Chrome
+09:21:04:  班车管理系统 - Google Chrome
+09:21:09:  班车管理系统 [新北洋集团] - Google Chrome
+09:21:14:  锁屏状态
+09:21:19:  Clash for Windows
+09:21:24:  班车管理系统 [新北洋集团] - Google Chrome
+09:21:44:  于斌1
+09:21:54:  Tools
+09:21:59:  本地磁盘 (F:)
+09:22:09:  dist
+09:22:14:  打开方式
+09:22:19:  dist
+09:22:24:  于斌1
+09:22:34:  Box_1__BTCR-1100200400210043_20210320090647.log - DRB2.tat - TextAnalysisTool.NET
+09:22:39:  20210320
+09:22:44:  本地磁盘 (F:)
+09:23:39:  「开始」菜单
+09:23:49:  本地磁盘 (F:)
+09:23:59:  PostWork
+09:24:14:  PostWork-Debug
+09:24:19:  dist
+09:24:24:  PostWork
+09:24:29:  文件共享
+09:24:44:  Box_1__BTCR-1100200400210043_20210320090647.log - DRB2.tat - TextAnalysisTool.NET
+09:25:44:  于斌1
+09:25:59:  Box_1__BTCR-1100200400210043_20210320090647.log - DRB2.tat - TextAnalysisTool.NET
+09:26:09:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:27:09:  新标签页 - Google Chrome
+09:27:14:  班车管理系统 - Google Chrome
+09:27:19:  班车管理系统 [新北洋集团] - Google Chrome
+09:27:29:  库
+09:27:34:  BTCRTestTool 属性
+09:27:39:  20210320
+09:27:44:  K64_BTCR-1100200400210043_20210320090647
+09:27:49:  Box_1__BTCR-1100200400210043_20210320090647.log - DRB2.tat - TextAnalysisTool.NET
+09:28:44:  运行
+09:28:59:  本地磁盘 (D:)
+09:29:04:  本地磁盘 (F:)
+09:29:19:  锁屏状态
+09:29:24:  本地磁盘 (F:)
+09:28:44:  运行
+09:28:59:  本地磁盘 (D:)
+09:29:04:  本地磁盘 (F:)
+09:29:19:  锁屏状态
+09:29:24:  本地磁盘 (F:)
+09:30:09:  新标签页 - Google Chrome
+09:30:14:  班车管理系统 - Google Chrome
+09:30:19:  班车管理系统 [新北洋集团] - Google Chrome
+09:31:24:  本地磁盘 (F:)
+09:31:29:  PostWork
+09:31:39:  PostWork.py - F:\PostWork\PostWork.py (3.7.3)
+09:32:09:  K64_BTCR-1100200400210043_20210320090647
+09:32:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:35:29:  Add Files to Group 'Middlewares'
+09:35:44:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:35:59:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+09:36:04:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:36:09:  00-06
+09:36:14:  Initial.c - TortoiseMerge
+09:36:24:  InstrExecute.c - TortoiseMerge
+09:36:34:  Box_1__BTCR-1100200400210043_20210320090647.log - DRB2.tat - TextAnalysisTool.NET
+09:37:34:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:37:39:  LogHandle.c - TortoiseMerge
+09:37:49:  LowerPlateCtrl.c - TortoiseMerge
+09:37:59:  TortoiseMerge
+09:38:04:  State.c - TortoiseMerge
+09:38:54:  Track.c - TortoiseMerge
+09:39:09:  TortoiseMerge
+09:39:14:  SpiFlashDriver.c - TortoiseMerge
+09:39:19:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:39:24:  DebugConfig.h - TortoiseMerge
+09:39:29:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:39:34:  Log.c - TortoiseMerge
+09:39:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:39:54:  untitled (DRB) - Sublime Text (UNREGISTERED)
+09:39:59:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+09:40:04:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+09:40:49:  μVision
+09:40:54:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:46:39:  TortoiseMerge
+09:46:44:  Log.c - TortoiseMerge
+09:46:49:  锁屏状态
+09:46:54:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+09:46:59:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+09:47:09:  D:\00-06\DRB\Middlewares\Selector\Selector.c (DRB) - Sublime Text (UNREGISTERED)
+09:47:14:  D:\00-06\DRB\FwLib\Config\DebugConfig.h (DRB) - Sublime Text (UNREGISTERED)
+09:47:29:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:47:34:  DebugConfig.h - TortoiseMerge
+09:47:39:  D:\00-06\DRB\FwLib\Config\DebugConfig.h • (DRB) - Sublime Text (UNREGISTERED)
+09:47:44:  TortoiseMerge
+09:47:59:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:48:04:  D:\00-06\DRB\SystemConfig.h (DRB) - Sublime Text (UNREGISTERED)
+09:48:09:  D:\00-06\DRB\SystemConfig.h • (DRB) - Sublime Text (UNREGISTERED)
+09:48:14:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:48:29:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:49:10:  DRB
+09:49:15:  Initial.c - TortoiseMerge
+09:49:20:  文件补丁  
+09:49:25:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:49:30:  LogHandle.c - TortoiseMerge
+09:49:45:  State.c - TortoiseMerge
+09:50:05:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+09:50:10:  Track.c - TortoiseMerge
+09:50:15:  DRB
+09:50:20:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+09:50:25:  D:\00-06\DRB - 提交 - TortoiseSVN
+09:50:35:  Middlewares
+09:50:40:  FwLib
+09:50:45:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle - 加入 - TortoiseSVN
+09:50:50:  DRB
+09:50:55:  D:\00-06\DRB - 提交 - TortoiseSVN
+09:51:00:  TortoiseMerge
+09:51:05:  CashBox_1T2.uvoptx - TortoiseMerge
+09:51:15:  D:\00-06\DRB - 提交 - TortoiseSVN
+09:51:30:  Update.c - TortoiseMerge
+09:51:35:  D:\00-06\DRB - 提交 - TortoiseSVN
+09:51:40:  InstrExecute.c - TortoiseMerge
+09:51:45:  D:\00-06\DRB - 提交 - TortoiseSVN
+09:52:15:  Track.c - TortoiseMerge
+09:52:30:  D:\00-06\DRB - 提交 - TortoiseSVN
+09:53:10:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+09:53:15:  D:\00-06\DRB - 提交 - TortoiseSVN
+09:53:20:  提交
+09:53:25:  μVision
+09:53:30:  本地磁盘 (D:)
+09:53:35:  DRB
+09:53:45:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+09:54:10:  历史记录
+09:54:15:  输入日志信息
+09:54:35:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+09:54:55:  输入日志信息
+09:55:05:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+09:55:15:  历史记录
+09:55:20:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+09:55:25:  输入日志信息
+09:55:40:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+09:55:45:  DRB
+09:55:50:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+09:56:05:  DRB
+09:56:10:  Windows 安全
+09:56:20:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+09:56:25:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/branches - 日志信息 - TortoiseSVN
+09:56:45:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+09:56:50:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+09:56:55:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+09:57:00:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+09:57:10:  要离线?
+09:57:15:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+09:57:20:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/branches - 日志信息 - TortoiseSVN
+09:57:35:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+09:57:50:  版本分支图
+09:57:55:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+09:58:05:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+09:58:10:  WinRAR
+09:58:15:  subproject0.txt - 记事本
+09:58:25:  KeilCompileInfo(3).zip - WinRAR (非商业个人版)
+09:58:30:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN - 日志信息 - TortoiseSVN
+09:58:45:  DRB
+09:58:55:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+09:59:05:  D:\00-06\DRB - 提交 - TortoiseSVN
+09:59:15:  subproject1.txt - 记事本
+09:59:25:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:59:35:  Folder Setup
+09:59:40:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:59:45:  Project
+09:59:50:  D:\00-06\DRB\Project - 日志信息 - TortoiseSVN
+09:59:55:  Project
+10:00:00:  DRB
+09:58:05:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+09:58:10:  WinRAR
+09:58:15:  subproject0.txt - 记事本
+09:58:25:  KeilCompileInfo(3).zip - WinRAR (非商业个人版)
+09:58:30:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN - 日志信息 - TortoiseSVN
+09:58:45:  DRB
+09:58:55:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+09:59:05:  D:\00-06\DRB - 提交 - TortoiseSVN
+09:59:15:  subproject1.txt - 记事本
+09:59:25:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:59:35:  Folder Setup
+09:59:40:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:59:45:  Project
+09:59:50:  D:\00-06\DRB\Project - 日志信息 - TortoiseSVN
+09:59:55:  Project
+10:00:00:  DRB
+10:00:05:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+10:00:15:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:00:25:  DRB
+10:00:30:  历史记录
+10:00:35:  D:\00-06\DRB - 提交 - TortoiseSVN
+10:01:00:  提交 失败！
+10:01:05:  D:\00-06\DRB - 提交 - TortoiseSVN
+10:01:10:  DRB
+10:01:15:  D:\00-06\DRB - 切换至分支/标记 - TortoiseSVN
+10:01:20:  Windows 安全
+10:01:25:   - 版本库浏览器 - TortoiseSVN
+10:01:30:  D:\00-06\DRB - 切换至分支/标记 - TortoiseSVN
+10:01:35:  D:\00-06\DRB - 切换 - TortoiseSVN
+10:01:45:  切换 完成！
+10:01:50:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+10:01:55:  00-06
+10:02:00:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+10:02:05:  D:\00-06\DRB - 提交 - TortoiseSVN
+10:02:20:  DRB
+10:02:25:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+10:02:30:  DRB
+10:02:40:  合并
+10:02:45:  Windows 安全
+10:02:50:   - 版本库浏览器 - TortoiseSVN
+10:03:10:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+10:03:15:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06.../BR-4-CashBox1T1_GD - 日志信息 - TortoiseSVN
+10:03:20:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/branches - 日志信息 - TortoiseSVN
+10:03:40:   - 版本库浏览器 - TortoiseSVN
+10:04:05:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+10:04:20:   - 版本库浏览器 - TortoiseSVN
+10:05:20:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+10:05:45:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K0.../BR-2-CashBox1T2-Press - 统计 - TortoiseSVN
+10:05:50:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+10:06:05:  WinRAR
+10:06:10:  subproject0.txt - 记事本
+10:06:20:   - 版本库浏览器 - TortoiseSVN
+10:06:25:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:06:45:  Options for Target 'CashBox_1T2'
+10:06:50:  Folder Setup
+10:06:55:  subproject0.txt - 记事本
+10:07:10:  Folder Setup
+10:07:15:  D:\00-06\DRB - 提交 - TortoiseSVN
+10:07:25:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:07:30:  Options for Target 'CashBox_1T2'
+10:07:35:  浏览文件夹
+10:07:45:  Folder Setup
+10:07:50:  浏览文件夹
+10:08:00:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:08:05:  D:\00-06\DRB - 提交 - TortoiseSVN
+10:08:10:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - 提交 - TortoiseSVN
+10:08:15:  svnn
+10:08:25:  D:\00-06\svnn - 日志信息 - TortoiseSVN
+10:08:30:  回收
+10:08:35:  BR-2-CashBox1T2-Press - 检出 - TortoiseSVN
+10:08:40:  DRB-1.3
+10:08:45:  Windows 安全
+10:08:50:  D:\00-06\DRB-1.3 - 版本库浏览器 - TortoiseSVN
+10:09:20:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K0.../BR-2-CashBox1T2-Press - 属性 - TortoiseSVN
+10:09:25:  D:\00-06\DRB-1.3 - 版本库浏览器 - TortoiseSVN
+10:09:30:  DRB-1.3
+10:09:35:  D:\00-06\DRB-1.3 - 日志信息 - TortoiseSVN
+10:09:50:  BR-1-CashBox1T2-Press.txt - 记事本
+10:10:00:  班车管理系统 [新北洋集团] - Google Chrome
+10:10:05:  新标签页 - Google Chrome
+10:10:10:  SonarQube - Google Chrome
+10:10:15:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:10:20:  项目 - Google Chrome
+10:11:15:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+10:11:20:  DRB
+10:11:35:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:11:45:  历史记录
+10:11:50:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:12:00:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+10:12:10:  DRB
+10:12:15:  Windows 安全
+10:12:20:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:12:25:  DRB
+10:12:30:  D:\00-06\DRB - 切换至分支/标记 - TortoiseSVN
+10:12:35:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+10:12:45:  D:\00-06\DRB - 切换 - TortoiseSVN
+10:12:55:  切换 完成！
+10:13:25:  DRB
+10:13:30:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+10:13:35:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:14:00:  输入日志信息
+10:14:05:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:14:10:  历史记录
+10:14:15:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:14:25:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/branches - 日志信息 - TortoiseSVN
+10:14:40:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:14:45:  DRB
+10:14:55:  D:\00-06\DRB - 重新定位 - TortoiseSVN
+10:14:05:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:14:10:  历史记录
+10:14:15:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:14:25:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/branches - 日志信息 - TortoiseSVN
+10:14:40:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:14:45:  DRB
+10:14:55:  D:\00-06\DRB - 重新定位 - TortoiseSVN
+10:15:05:  DRB
+10:15:15:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+10:15:40:  D:\00-06\DRB - 切换至分支/标记 - TortoiseSVN
+10:15:45:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+10:16:10:  00-06
+10:16:15:  Windows 安全
+10:16:20:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:16:30:  历史记录
+10:16:35:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:16:45:  输入日志信息
+10:17:05:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:17:30:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN (未响应)
+10:17:35:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:17:40:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+10:17:45:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+10:17:50:  版本范围: 
+10:18:00:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+10:18:05:  DRB
+10:18:10:  要离线?
+10:18:20:  D:\00-06\DRB - 日志信息 (离线) - TortoiseSVN
+10:18:30:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+10:18:40:  DRB
+10:18:55:  D:\00-06\DRB - 复制（分支/标记） - TortoiseSVN
+10:19:00:  Windows 安全
+10:19:05:   - 版本库浏览器 - TortoiseSVN
+10:19:15:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN - 日志信息 - TortoiseSVN
+10:19:20:  PaperManage.c Revision 4157 - TortoiseMerge
+10:19:25:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN - 日志信息 - TortoiseSVN
+10:19:55:   - 版本库浏览器 - TortoiseSVN
+10:20:10:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K0.../BR-2-CashBox1T2-Press - 属性 - TortoiseSVN
+10:20:15:   - 版本库浏览器 - TortoiseSVN
+10:20:40:  D:\00-06\DRB - 复制（分支/标记） - TortoiseSVN
+10:20:45:  WinRAR
+10:20:50:  subproject0.txt - 记事本
+10:21:00:  DRB
+10:21:10:  FwLib
+10:21:15:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle - 加入 - TortoiseSVN
+10:21:20:  FwLib
+10:21:25:  subproject1.txt - 记事本
+10:21:55:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:22:25:  subproject1.txt - 记事本
+10:22:50:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:22:55:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:24:10:  00-06
+10:24:15:  历史记录
+10:24:20:  D:\00-06\DRB - 提交 - TortoiseSVN
+10:24:25:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+10:24:45:  更新 失败！
+10:24:50:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+10:25:00:  TortoiseSVN
+10:25:10:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+10:25:20:  已改变的文件
+10:25:40:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+10:25:45:  已改变的文件
+10:25:50:  DRB
+10:26:15:  BR-1-CashBox1T2-Press.txt - 记事本
+10:26:20:  DRB
+10:26:30:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:26:35:  DRB
+10:26:40:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:27:00:  DRB
+10:27:10:  Middlewares
+10:27:15:  DRB
+10:27:25:  PrintService.c - TortoiseMerge
+10:27:30:  D:\00-06\DRB - 提交 - TortoiseSVN
+10:27:50:  新北洋OA信息化平台 - Internet Explorer
+10:27:55:  D:\00-06\DRB - 提交 - TortoiseSVN
+10:28:00:  http://tortoisesvn.net/ - Internet Explorer
+10:28:10:  KeilCompileInfo(8).zip - WinRAR (非商业个人版)
+10:28:15:  subproject2.txt - 记事本
+10:28:25:  subproject0.txt - 记事本
+10:28:35:  Options for Target 'CashBox_1T2'
+10:28:40:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:28:45:  subproject0.txt - 记事本
+10:29:05:  Options for Target 'CashBox_1T2'
+10:29:10:  Folder Setup
+10:29:20:  浏览文件夹
+10:29:25:  FlashCircRecordMoudle
+10:29:30:  inc
+10:29:35:  浏览文件夹
+10:29:45:  Folder Setup
+10:29:50:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:28:10:  KeilCompileInfo(8).zip - WinRAR (非商业个人版)
+10:28:15:  subproject2.txt - 记事本
+10:28:25:  subproject0.txt - 记事本
+10:28:35:  Options for Target 'CashBox_1T2'
+10:28:40:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:28:45:  subproject0.txt - 记事本
+10:29:05:  Options for Target 'CashBox_1T2'
+10:29:10:  Folder Setup
+10:29:20:  浏览文件夹
+10:29:25:  FlashCircRecordMoudle
+10:29:30:  inc
+10:29:35:  浏览文件夹
+10:29:45:  Folder Setup
+10:29:50:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:31:01:  DRB
+10:31:06:  历史记录
+10:31:11:  提交 失败！
+10:31:16:  D:\00-06\DRB - 提交 - TortoiseSVN
+10:31:21:  Windows 安全
+10:31:26:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:31:31:  DRB
+10:31:36:  D:\00-06\DRB - 切换至分支/标记 - TortoiseSVN
+10:31:41:  D:\00-06\DRB - 切换 - TortoiseSVN
+10:31:51:  DRB
+10:32:01:  D:\00-06\DRB - 提交 - TortoiseSVN
+10:32:06:  DRB
+10:32:11:  meger
+10:32:16:  D:\00-06\meger - 日志信息 - TortoiseSVN
+10:36:26:  subproject0.txt - 记事本
+10:36:36:  00-06
+10:36:41:  DRB
+10:36:46:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+10:37:21:  DRB
+10:37:26:  FlashCircRecordMoudle
+10:37:31:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\easyflash - 加入 - TortoiseSVN
+10:37:36:  FlashCircRecordMoudle
+10:37:41:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle - 版本库浏览器 - TortoiseSVN
+10:37:56:  FlashCircRecordMoudle
+10:38:01:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\easyflash - 工作副本 - TortoiseSVN
+10:38:06:  FlashCircRecordMoudle
+10:38:11:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\easyflash - 版本库浏览器 - TortoiseSVN
+10:38:41:  FlashCircRecordMoudle
+10:38:46:  easyflash
+10:38:51:  FlashCircRecordMoudle
+10:38:56:  FwLib
+10:39:01:  D:\00-06\DRB - 提交 - TortoiseSVN
+10:39:06:  历史记录
+10:39:11:  D:\00-06\DRB - 提交 - TortoiseSVN
+10:39:16:  提交
+10:40:16:  锁屏状态
+10:40:21:  项目 - Google Chrome
+10:40:41:  D:\00-06\meger - 日志信息 - TortoiseSVN
+10:40:46:  DRB
+10:40:51:  00-06
+10:40:56:  D:\00-06\meger - 工作副本 - TortoiseSVN
+10:41:01:  PaperManage.c - TortoiseMerge
+10:41:16:  meger
+10:41:21:  00-06
+10:41:36:  D:\00-06 - 复制（分支/标记） - TortoiseSVN
+10:41:56:  meger
+10:42:01:  D:\00-06\meger - 复制（分支/标记） - TortoiseSVN
+10:42:06:  Windows 安全
+10:42:11:  meger
+10:42:16:  D:\00-06\meger - 工作副本 - TortoiseSVN
+10:42:21:  PaperManage.c - TortoiseMerge
+10:43:11:  WinRAR
+10:43:16:  subproject0.txt - 记事本
+10:43:21:  subproject2.txt - 记事本
+10:43:26:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:43:31:  Folder Setup
+10:43:36:  浏览文件夹
+10:43:41:  Folder Setup
+10:43:46:  浏览文件夹
+10:44:06:  Folder Setup
+10:44:11:  浏览文件夹
+10:44:21:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:44:06:  Folder Setup
+10:44:11:  浏览文件夹
+10:44:21:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:45:06:  meger
+10:45:11:  D:\00-06\DRB - 提交 - TortoiseSVN
+10:45:21:  DRB
+10:45:26:  PaperManage.c - TortoiseMerge
+10:45:46:  DRB
+10:45:51:  00-06
+10:45:56:  meger
+10:46:01:  D:\00-06\meger - 工作副本 - TortoiseSVN
+10:46:11:  meger
+10:46:21:  D:\00-06\meger - 复制（分支/标记） - TortoiseSVN
+10:46:31:   - 版本库浏览器 - TortoiseSVN
+10:47:01:  创建文件夹(R)...
+10:47:31:  10
+10:47:36:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+10:47:41:  TortoiseMerge
+10:47:46:  PageManage.c Revision 4259 - TortoiseMerge
+10:47:56:  网易有道词典
+10:48:06:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+10:48:11:  创建文件夹(R)...
+10:48:16:  输入日志信息
+10:48:41:   - 版本库浏览器 - TortoiseSVN
+10:49:06:  输入日志信息
+10:49:11:   - 版本库浏览器 - TortoiseSVN
+10:49:21:  历史记录
+10:49:26:  D:\00-06\meger - 复制（分支/标记） - TortoiseSVN
+10:49:51:  复制 失败！
+10:49:56:  10
+10:50:06:  D:\00-06\meger - 工作副本 - TortoiseSVN
+10:50:21:  00-KE64
+10:50:26:  meger
+10:50:36:  D:\00-06\meger - 切换至分支/标记 - TortoiseSVN
+10:50:46:  D:\00-06\meger - 切换 - TortoiseSVN
+10:51:01:  UpperPlate.c.mine - TortoiseMerge
+10:51:11:  切换 完成！
+10:51:16:  Sensor.c.mine - TortoiseMerge
+10:51:26:  TortoiseSVN
+10:51:31:  切换 完成！
+10:51:51:  TortoiseSVN
+10:51:56:  切换 完成！
+10:52:01:  TortoiseMerge
+10:52:06:  PaperManage.c - TortoiseMerge
+10:52:11:  meger
+10:52:16:  D:\00-06\meger - 日志信息 - TortoiseSVN
+10:52:31:  D:\00-06\meger - 提交 - TortoiseSVN
+10:52:36:  D:\00-06\meger - 版本库浏览器 - TortoiseSVN
+10:52:51:  http://192.168.10.9:.../UV1-001-00-liumaolin-20190816_1T2_TheoryMachine_Bak - 日志信息 - TortoiseSVN
+10:53:11:  D:\00-06\meger - 版本库浏览器 - TortoiseSVN
+10:53:21:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTC.../SV1-000-11-fengning-20180808 - 日志信息 - TortoiseSVN
+10:53:26:  D:\00-06\meger - 版本库浏览器 - TortoiseSVN
+10:53:31:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+10:53:36:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/branches - 日志信息 - TortoiseSVN
+10:53:46:  D:\00-06\meger - 版本库浏览器 - TortoiseSVN
+10:53:51:  创建文件夹(R)...
+10:54:11:  输入日志信息
+10:54:26:  D:\00-06\meger - 版本库浏览器 - TortoiseSVN
+10:54:36:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+10:54:41:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/branches - 日志信息 - TortoiseSVN
+10:54:46:  输入日志信息
+10:54:56:  D:\00-06\meger - 版本库浏览器 - TortoiseSVN
+10:55:16:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+10:55:21:  要离线?
+10:55:26:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-.../BR-2-CashBox1T2-Press - 日志信息 (离线) - TortoiseSVN
+10:55:41:  D:\00-06\meger - 版本库浏览器 - TortoiseSVN
+10:56:06:  meger
+10:56:26:  PaperManage.c - TortoiseMerge
+10:56:31:  TortoiseMerge
+10:56:36:  PaperManage.c - TortoiseMerge
+10:56:41:  AdcDriver.c - TortoiseMerge
+10:56:46:  D:\00-06\meger - 工作副本 - TortoiseSVN
+10:56:51:  TortoiseSVN
+10:56:56:  SensorDriver.h - TortoiseMerge
+10:57:01:  PressurePlate.c - TortoiseMerge
+10:57:16:  D:\00-06\meger - 工作副本 - TortoiseSVN
+10:57:21:  LowerPlate.c - TortoiseMerge
+10:57:31:  TortoiseMerge
+10:57:36:  Track.c - TortoiseMerge
+10:57:41:  D:\00-06\meger - 工作副本 - TortoiseSVN
+10:57:51:  文件补丁  
+10:57:56:  PaperManage.c - TortoiseMerge
+10:58:11:  于斌1
+10:58:26:  PaperManage.c - TortoiseMerge
+10:58:31:  计算器
+10:59:11:  PaperManage.c - TortoiseMerge
+10:59:41:  D:\00-06\DRB\SystemConfig.h (DRB) - Sublime Text (UNREGISTERED)
+10:59:46:  选择文件夹
+10:59:51:  untitled (meger) - Sublime Text (UNREGISTERED)
+10:59:56:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:58:11:  于斌1
+10:58:26:  PaperManage.c - TortoiseMerge
+10:58:31:  计算器
+10:59:11:  PaperManage.c - TortoiseMerge
+10:59:41:  D:\00-06\DRB\SystemConfig.h (DRB) - Sublime Text (UNREGISTERED)
+10:59:46:  选择文件夹
+10:59:51:  untitled (meger) - Sublime Text (UNREGISTERED)
+10:59:56:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:01:06:  meger
+11:01:11:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+11:01:56:  DRB
+11:02:01:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+11:02:06:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/branches - 日志信息 - TortoiseSVN
+11:02:16:  DRB
+11:02:26:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+11:02:46:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/branches - 日志信息 - TortoiseSVN
+11:03:16:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+11:03:21:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+11:04:11:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+11:04:16:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+11:04:36:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+11:04:41:  BR-1-CashBox1T2.txt-revHEAD.svn000.tmp.txt - 记事本
+11:04:46:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+11:04:56:  DRB
+11:05:06:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:09:56:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+11:10:01:  DRB
+11:10:06:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+11:10:16:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+11:10:31:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+11:10:41:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-11.../BR-3-CashBox1T2-NearFull - 日志信息 - TortoiseSVN
+11:10:46:  于斌1
+11:10:51:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+11:11:01:  BR-1-CashBox1T2-NearFull.txt-revHEAD.svn000.tmp.txt - 记事本
+11:11:06:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+11:11:11:  BR-1-CashBox1T2-Press.txt-revHEAD.svn000.tmp.txt - 记事本
+11:11:16:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+11:11:21:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:11:26:  新北洋OA信息化平台 - Internet Explorer
+11:11:31:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:14:51:  新标签页 - Google Chrome
+11:14:56:  to-do.live.com - Google Chrome
+11:14:51:  新标签页 - Google Chrome
+11:14:56:  to-do.live.com - Google Chrome
+11:15:11:  新建文本文档.exe - 快捷方式
+11:15:16:  张开发.docx - Word
+11:15:52:  已计划日程 - To Do - Google Chrome
+11:16:17:  晚上七点收拾架子上的东西 - To Do - Google Chrome
+11:17:22:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:18:57:  office - Everything
+11:19:07:  Clash for Windows
+11:19:12:  Box_1__BTCR-1100200400210043_20210320090647.log - DRB2.tat - TextAnalysisTool.NET
+11:19:22:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:22:07:  DRB
+11:22:12:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+11:22:17:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+11:22:27:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/branches - 日志信息 - TortoiseSVN
+11:22:42:  打开文件
+11:22:47:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/branches - 日志信息 - TortoiseSVN
+11:22:57:  版本范围: 
+11:23:02:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/branches - 日志信息 - TortoiseSVN
+11:23:37:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+11:23:42:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+11:23:47:  版本范围: 
+11:23:52:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+11:23:57:  TortoiseSVN
+11:25:17:  DRB
+11:25:22:  D:\00-06\DRB - 版本库浏览器 - TortoiseSVN
+11:25:32:  DRB
+11:25:47:  00-06
+11:26:42:  网易有道词典
+11:26:47:  00-06
+11:26:57:  网易有道词典
+11:27:02:  00-06
+11:27:07:  网易有道词典
+11:27:12:  00-06
+11:27:27:  TortoiseSVN
+11:27:42:  00-06
+11:27:47:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+11:28:12:  DRB
+11:28:37:  D:\00-06\DRB - 切换至分支/标记 - TortoiseSVN
+11:28:42:  切换 失败！
+11:28:47:  TortoiseSVN
+11:28:57:  D:\00-06\DRB - 提交 - TortoiseSVN
+11:29:12:  追溯 - TortoiseSVN
+11:29:17:  D:/00-06/DRB/Tools/CreateJK.exe : 1-4276 - TortoiseBlame - TortoiseSVN
+11:29:27:  D:\00-06\DRB - 提交 - TortoiseSVN
+11:29:42:  00-06
+11:28:12:  DRB
+11:28:37:  D:\00-06\DRB - 切换至分支/标记 - TortoiseSVN
+11:28:42:  切换 失败！
+11:28:47:  TortoiseSVN
+11:28:57:  D:\00-06\DRB - 提交 - TortoiseSVN
+11:29:12:  追溯 - TortoiseSVN
+11:29:17:  D:/00-06/DRB/Tools/CreateJK.exe : 1-4276 - TortoiseBlame - TortoiseSVN
+11:29:27:  D:\00-06\DRB - 提交 - TortoiseSVN
+11:29:42:  00-06
+11:30:12:  设置 - TortoiseSVN
+11:30:32:  日志缓存统计
+11:30:37:  00-06
+11:30:52:  TortoiseSVN
+11:31:12:  00-06
+11:31:17:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+11:31:37:  要离线?
+11:31:42:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+11:32:02:  TortoiseSVN
+11:32:17:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+11:32:27:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+11:33:02:  已改变的文件
+11:33:07:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+11:33:12:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+11:33:37:  00-06
+11:33:42:  D:\00-06 - 版本库浏览器 - TortoiseSVN
+11:33:47:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN/branches - 日志信息 - TortoiseSVN
+11:34:32:  D:\00-06 - 版本库浏览器 - TortoiseSVN
+11:34:37:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+11:34:58:  00-06
+11:35:03:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+11:35:28:  已改变的文件
+11:35:33:  00-06
+11:35:53:   - 版本库浏览器 - TortoiseSVN
+11:35:58:  检出
+11:36:03:  BR-1-CashBox1T2 - 检出 - TortoiseSVN
+11:36:08:  23422
+11:36:13:  D:\00-06\23422 - 日志信息 - TortoiseSVN
+11:36:18:  TortoiseSVN
+11:36:23:  D:\00-06\23422 - 日志信息 - TortoiseSVN
+11:36:28:  复制 失败！
+11:36:33:  D:\00-06\23422 - 日志信息 - TortoiseSVN
+11:36:38:  00-06
+11:36:53:  TortoiseSVN
+11:36:58:  00-06
+11:37:18:  TortoiseSVN
+11:37:28:  00-06
+11:37:38:  D:\00-06 - 工作副本 - TortoiseSVN
+11:38:28:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+11:38:33:  D:\00-06\DRB - 提交 - TortoiseSVN
+11:38:38:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+11:38:43:  复制 失败！
+11:38:48:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+11:38:58:  TortoiseSVN
+11:39:38:  DRB
+11:39:43:  00-06
+11:39:48:  232
+11:39:58:  branches - 检出 - TortoiseSVN
+11:40:33:  锁屏状态
+13:20:29:  「开始」菜单
+13:23:34:  锁屏状态
+13:23:39:  TortoiseSVN
+13:23:44:  232
+13:24:09:  清理
+13:24:14:  232
+13:24:19:  BR-2-CashBox1T2-Press
+13:24:24:  232
+13:24:34:  D:\00-06\232\BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+13:24:39:  232
+13:24:44:  清理
+13:24:49:  TortoiseSVN
+13:24:54:  232
+13:25:14:  D:\00-06\232\BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+13:25:19:  要离线?
+13:25:24:  232
+13:25:29:  TortoiseSVN
+13:26:19:  找到的主题
+13:26:24:  TortoiseSVN
+13:27:04:  232
+13:27:09:  D:\00-06\232 - 版本库浏览器 - TortoiseSVN
+13:27:19:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+13:27:24:  D:\00-06\232 - 版本库浏览器 - TortoiseSVN
+13:27:49:  另存为(A)...
+13:27:54:  D:\00-06\232 - 版本库浏览器 - TortoiseSVN
+13:28:04:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+13:28:39:  选择版本
+13:28:44:  D:\00-06\232 - 版本库浏览器 - TortoiseSVN
+13:29:24:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN - 日志信息 - TortoiseSVN
+13:29:39:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+13:29:44:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN - 日志信息 - TortoiseSVN
+13:30:04:  D:\00-06\232 - 版本库浏览器 - TortoiseSVN
+13:28:39:  选择版本
+13:28:44:  D:\00-06\232 - 版本库浏览器 - TortoiseSVN
+13:29:24:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN - 日志信息 - TortoiseSVN
+13:29:39:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+13:29:44:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN - 日志信息 - TortoiseSVN
+13:30:04:  D:\00-06\232 - 版本库浏览器 - TortoiseSVN
+13:30:09:  版本分支图
+13:30:54:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MAIN - 版本分支图 - TortoiseSVN
+13:31:09:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06_MA.../BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+13:31:29:  D:\00-06\232 - 版本库浏览器 - TortoiseSVN
+13:31:34:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06.../BR-4-CashBox1T1_GD - 日志信息 - TortoiseSVN
+13:31:44:  新标签页 - Google Chrome
+13:31:49:  百度一下，你就知道 - Google Chrome
+13:31:54:  取消选择_百度搜索 - Google Chrome
+13:32:04:  取消选择复制、改名时停止_百度搜索 - Google Chrome
+13:32:29:  取消选择“复制、改名”时停止,以查看完整的历史列表_百度搜索 - Google Chrome
+13:32:39:  https://www.baidu.com/link?url=PY6DNG4XXmxIwyrBsKrLNSYO1sbFloI_m4KvxQozXaLWo5-fV6VYhENbs8sOFN9X5lfHcvTMg5XRZy0re_RIna&wd=&eqid=98713ac80000c73900000002605588e9 - Google Chrome
+13:32:44:  SVN改名后日志信息如何找回_百度知道 - Google Chrome
+13:33:04:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_K06.../BR-4-CashBox1T1_GD - 日志信息 - TortoiseSVN
+13:33:19:  新建文本文档.exe - 快捷方式
+13:33:34:  http://192.168.10.9:82/svn/BTCR-1100/FW_BTCR-1100_.../BR-2-CashBox1T2-Press - 日志信息 - TortoiseSVN
+13:33:39:  SVN改名后日志信息如何找回_百度知道 - Google Chrome
+13:33:44:  取消选择“复制、改名”时停止,以查看完整的历史列表_百度搜索 - Google Chrome
+13:33:54:  新建文本文档.exe - 快捷方式
+13:33:59:  www.baidu.com - Google Chrome
+13:34:04:  提醒事项更新在日历上_百度搜索 - Google Chrome
+13:34:09:  https://www.baidu.com/link?url=moQCa9kir5A43YLxT8vzt5kFpdjHlmWYAXJbLwLesdviQ3u3xkdF8uMpMxlODhC3&wd=&eqid=b91518d00000c6030000000260558949 - Google Chrome
+13:34:14:  苹果-如何让“提醒事项”里的内容出现在“日历”里 - V2EX - Google Chrome
+13:34:19:  提醒事项更新在日历上_百度搜索 - Google Chrome
+13:34:24:  (20 封私信 / 80 条消息) iphone里的“日历”和“提醒事项”能不能同步？ - 知乎 - Google Chrome
+13:35:09:  锁屏状态
+13:35:14:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+13:35:24:  232
+13:35:29:  DRB
+13:35:34:  Tools
+13:35:44:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:36:29:  DRB
+13:36:34:  D:\00-06\DRB\Tools\CreateJK.exe
+13:36:49:  Tools
+13:37:04:  D:\00-06\DRB\Tools - 日志信息 - TortoiseSVN
+13:37:09:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+13:37:24:  未命名 - 写邮件
+13:37:39:  回复: BTCR-1100_BOX1T2_KE06_FV1002_EXTFEDU6V13_MAIN_T23 - 写邮件
+13:38:34:  发送邮件
+13:38:39:  Tools
+13:38:49:  回复: BTCR-1100_BOX1T2_KE06_FV1002_EXTFEDU6V13_MAIN_T23 - 写邮件
+13:39:04:  Tools
+13:42:29:  TCR调测工具 V3.36
+13:46:24:  盘点
+13:46:29:  TCR调测工具 V3.36
+13:46:34:  新标签页 - Google Chrome
+13:46:39:  数据抓取工具 - Google Chrome
+13:46:59:  无标题 - Google Chrome
+13:47:04:  数据抓取工具 - Google Chrome
+13:47:14:  Excel
+13:47:19:  个人周报-张开发 (70).xlsx  [受保护的视图] - Excel
+13:47:24:  个人周报-张开发 (70).xlsx - Excel
+13:49:44:  打开
+13:49:49:  数据抓取工具 - Google Chrome
+13:49:54:  06- 刘建生
+13:50:04:  Excel
+13:50:09:  TCR+DRB+CRS 项目周报.xlsx  [受保护的视图] - Excel
+13:50:14:  Excel
+13:50:19:  TCR+DRB+CRS 项目周报.xlsx  [共享] - Excel (未响应)
+13:50:24:  TCR+DRB+CRS 项目周报.xlsx  [共享] - Excel
+13:50:39:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+13:50:44:  TCR调测工具 V3.36
+13:50:54:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+13:51:19:  Track.c Revision 4264 - TortoiseMerge
+13:51:24:  Log.c Revision 4264 - TortoiseMerge
+13:51:49:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+13:51:54:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:52:04:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision (未响应)
+13:52:09:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:52:24:  本地磁盘 (D:)
+13:52:29:  Tools
+13:52:34:  TCR调测工具 V3.36
+13:55:24:  回复: 【周报更新】TCR/DRB和CRS周报更新
+13:55:29:  Excel
+13:55:34:  TCR+DRB+CRS 项目周报.xlsx  [受保护的视图] - Excel
+13:55:44:  TCR+DRB+CRS 项目周报.xlsx - Excel
+13:58:14:  TCR调测工具 V3.36
+13:58:19:  BTCRTestTool 属性
+13:58:24:  20210320
+13:58:39:  Decode
+13:58:49:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:58:59:  Decode
+13:58:14:  TCR调测工具 V3.36
+13:58:19:  BTCRTestTool 属性
+13:58:24:  20210320
+13:58:39:  Decode
+13:58:49:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:58:59:  Decode
+14:00:19:  K64_BTCR-1100200400210043_20210320135814
+14:00:24:  K64-_BTCR-1100200400210043_20210320135814.log - DRB2.tat - TextAnalysisTool.NET
+14:00:29:  K64_BTCR-1100200400210043_20210320135434
+14:00:34:  Box_1__BTCR-1100200400210043_20210320135434.log - DRB2.tat - TextAnalysisTool.NET
+14:00:54:  20210320
+14:01:04:  Decode
+14:01:14:  K64_BTCR-1100200400210043_20210320135855
+14:01:19:  Box_1__BTCR-1100200400210043_20210320135855.log - DRB2.tat - TextAnalysisTool.NET
+14:01:49:  D:\00-06\DRB\SystemConfig.h (DRB) - Sublime Text (UNREGISTERED)
+14:01:54:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:02:14:  D:\00-06\DRB\FwLib\DebugLog\DebugLog.h (DRB) - Sublime Text (UNREGISTERED)
+14:02:19:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:02:24:  D:\00-06\DRB\FwLib\DebugLog\DebugLog.h (DRB) - Sublime Text (UNREGISTERED)
+14:02:29:  D:\00-06\DRB\FwLib\DebugLog\DebugConfig_Demo.h (DRB) - Sublime Text (UNREGISTERED)
+14:02:34:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:02:49:  D:\00-06\DRB\FwLib\Config\DebugConfig.h (DRB) - Sublime Text (UNREGISTERED)
+14:02:59:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:03:04:  D:\00-06\DRB\FwLib\Config\DebugConfig.h (DRB) - Sublime Text (UNREGISTERED)
+14:03:14:  Tools
+14:03:19:  D:\00-06\DRB\Tools\CreateJK.exe
+14:03:24:  打开
+14:03:29:  TCR调测工具 V3.36
+14:04:14:  盘点
+14:04:19:  TCR调测工具 V3.36
+14:05:44:  20210320
+14:06:04:  「开始」菜单
+14:06:14:  Bus Hound
+14:06:39:  20210320
+14:06:44:  Decode
+14:06:49:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:06:59:  Box_1__BTCR-1100200400210043_20210320140457.log - DRB2.tat - TextAnalysisTool.NET
+14:07:39:  Add Filter
+14:07:44:  D:\00-06\DRB\FwLib\Config\DebugConfig.h (DRB) - Sublime Text (UNREGISTERED)
+14:07:54:  Add Filter
+14:08:04:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:08:29:  「开始」菜单
+14:08:34:  计算器
+14:08:44:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:08:49:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c • (DRB) - Sublime Text (UNREGISTERED)
+14:08:59:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:09:04:  Box_1__BTCR-1100200400210043_20210320140457.log - DRB2.tat - TextAnalysisTool.NET
+14:09:09:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:09:29:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+14:09:34:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:09:59:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c • (DRB) - Sublime Text (UNREGISTERED)
+14:10:29:  Add Filter
+14:10:34:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c • (DRB) - Sublime Text (UNREGISTERED)
+14:11:09:  Box_1__BTCR-1100200400210043_20210320140457.log - DRB2.tat - TextAnalysisTool.NET
+14:11:20:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c • (DRB) - Sublime Text (UNREGISTERED)
+14:11:40:  Box_1__BTCR-1100200400210043_20210320140457.log - DRB2.tat - TextAnalysisTool.NET
+14:11:45:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c • (DRB) - Sublime Text (UNREGISTERED)
+14:12:25:  Box_1__BTCR-1100200400210043_20210320140457.log - DRB2.tat - TextAnalysisTool.NET
+14:12:30:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c • (DRB) - Sublime Text (UNREGISTERED)
+14:12:35:  Box_1__BTCR-1100200400210043_20210320140457.log - DRB2.tat - TextAnalysisTool.NET
+14:12:40:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c • (DRB) - Sublime Text (UNREGISTERED)
+14:12:45:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:12:50:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:12:55:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:13:00:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c • (DRB) - Sublime Text (UNREGISTERED)
+14:13:10:  D:\00-06\DRB\FwLib\Config\DebugConfig.h (DRB) - Sublime Text (UNREGISTERED)
+14:13:25:  Tools
+14:13:30:  D:\00-06\DRB\Tools\CreateJK.exe
+14:13:35:  打开
+14:13:40:  TCR调测工具 V3.36
+14:13:55:  Tools
+14:14:00:  20210320
+14:14:30:  Decode
+14:14:40:  Box_1__BTCR-1100200400210043_20210320141352.log - DRB2.tat - TextAnalysisTool.NET
+14:15:00:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+14:14:30:  Decode
+14:14:40:  Box_1__BTCR-1100200400210043_20210320141352.log - DRB2.tat - TextAnalysisTool.NET
+14:15:00:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+14:15:10:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:15:20:  D:\00-06\DRB\FwLib\Config\DebugConfig.h (DRB) - Sublime Text (UNREGISTERED)
+14:15:25:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:15:35:  Tools
+14:15:40:  Box_1__BTCR-1100200400210043_20210320141352.log - DRB2.tat - TextAnalysisTool.NET
+14:15:45:  TCR调测工具 V3.36
+14:16:05:  DRB
+14:16:35:  20210320
+14:16:40:  删除多个项目
+14:16:45:  LOG
+14:16:50:  Box_1__BTCR-1100200400210043_20210320141601.log - DRB2.tat - TextAnalysisTool.NET
+14:17:20:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:17:40:  D:\00-06\DRB\FwLib\Config\DebugConfig.h (DRB) - Sublime Text (UNREGISTERED)
+14:17:45:  TCR调测工具 V3.36
+14:17:50:  Box_1__BTCR-1100200400210043_20210320141601.log - DRB2.tat - TextAnalysisTool.NET
+14:17:55:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:18:25:  D:\00-06\DRB\FwLib\Config\DebugConfig.h (DRB) - Sublime Text (UNREGISTERED)
+14:18:30:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:18:50:  TCR调测工具 V3.36
+14:18:55:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:19:10:  TCR调测工具 V3.36
+14:19:15:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:19:20:  D:\00-06\DRB\FwLib\DebugLog\DebugLog.h (DRB) - Sublime Text (UNREGISTERED)
+14:19:25:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:19:35:  TCR调测工具 V3.36
+14:19:40:  D:\00-06\DRB\Tools\CreateJK.exe
+14:19:45:  Tools
+14:20:15:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+14:20:25:  Sensor.c - TortoiseMerge
+14:20:35:  DRB
+14:20:50:  打开
+14:20:55:  TCR调测工具 V3.36
+14:21:10:  Bus Hound
+14:21:15:  TCR调测工具 V3.36
+14:21:20:  Bus Hound
+14:22:00:  K64_BTCR-1100200400210043_20210320141601
+14:22:05:  20210320
+14:22:25:  Decode
+14:22:35:  K64_BTCR-1100200400210043_20210320142115
+14:22:40:  Box_1__BTCR-1100200400210043_20210320142115.log - DRB2.tat - TextAnalysisTool.NET
+14:23:40:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:23:45:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+14:23:50:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:24:05:  D:\00-06\DRB\Applications\Application.c (DRB) - Sublime Text (UNREGISTERED)
+14:24:10:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+14:24:15:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:24:20:  Box_1__BTCR-1100200400210043_20210320142115.log - DRB2.tat - TextAnalysisTool.NET
+14:24:35:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+14:24:40:  D:\00-06\DRB\Applications\Application.c (DRB) - Sublime Text (UNREGISTERED)
+14:24:50:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+14:24:55:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:25:00:  Add Filter
+14:25:05:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:25:15:  Add Filter
+14:25:20:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:25:30:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+14:25:35:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:25:50:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+14:25:55:  D:\00-06\DRB\Applications\Instruction\InstrExecute.c (DRB) - Sublime Text (UNREGISTERED)
+14:26:05:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:26:30:  D:\00-06\DRB\FwLib\DebugLog\DebugLog.h (DRB) - Sublime Text (UNREGISTERED)
+14:26:35:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:26:45:  Go To
+14:26:50:  Box_1__BTCR-1100200400210043_20210320142115.log - DRB2.tat - TextAnalysisTool.NET
+14:26:55:  TCR调测工具 V3.36
+14:27:00:  20210320
+14:27:15:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:27:30:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:27:35:  20210320
+14:28:50:  「开始」菜单
+14:29:05:  Bus Hound
+14:29:15:  20210320
+14:29:20:  Decode
+14:29:25:  K64_BTCR-1100200400210043_20210320142737
+14:29:35:  Box_1__BTCR-1100200400210043_20210320142737.log - DRB2.tat - TextAnalysisTool.NET
+14:28:50:  「开始」菜单
+14:29:05:  Bus Hound
+14:29:15:  20210320
+14:29:20:  Decode
+14:29:25:  K64_BTCR-1100200400210043_20210320142737
+14:29:35:  Box_1__BTCR-1100200400210043_20210320142737.log - DRB2.tat - TextAnalysisTool.NET
+14:30:30:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+14:30:35:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:30:50:  Tools
+14:30:55:  打开
+14:31:00:  TCR调测工具 V3.36
+14:31:50:  20210320
+14:31:55:  Decode
+14:32:05:  Box_1__BTCR-1100200400210043_20210320142737.log - DRB2.tat - TextAnalysisTool.NET
+14:32:10:  Box_1__BTCR-1100200400210043_20210320143112.log - DRB2.tat - TextAnalysisTool.NET
+14:32:20:  Add Filter
+14:32:25:  Box_1__BTCR-1100200400210043_20210320143112.log - DRB2.tat - TextAnalysisTool.NET
+14:32:30:  TCR调测工具 V3.36
+14:33:50:  打开
+14:34:05:  桌面整理
+14:34:10:  打开
+14:34:15:  桌面整理
+14:34:25:  TCR调测工具 V3.36
+14:34:55:  20210320
+14:35:00:  TCR调测工具 V3.36
+14:35:35:  盘点
+14:35:40:  可接收
+14:35:45:  TCR调测工具 V3.36
+14:36:10:  20210320
+14:36:15:  TCR调测工具 V3.36
+14:36:45:  20210320
+14:36:50:  回复: BTCR-1100_MASTER_K64_FV1030_FEDUV22_MAIN_T04 - 写邮件
+14:36:55:  20210320
+14:37:00:  TCR调测工具 V3.36
+14:37:20:  BTCRTestTool
+14:38:20:  TCR调测工具 V3.36
+14:40:20:  盘点
+14:40:25:  TCR调测工具 V3.36
+14:40:50:  untitled (10) - Sublime Text (UNREGISTERED)
+14:41:00:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+14:42:55:  钞箱配置
+14:43:00:  TCR调测工具 V3.36
+14:44:05:  删除文件
+14:44:20:  TCR调测工具 V3.36
+14:44:50:  锁屏状态
+14:44:55:  TCR调测工具 V3.36
+14:44:05:  删除文件
+14:44:20:  TCR调测工具 V3.36
+14:44:50:  锁屏状态
+14:44:55:  TCR调测工具 V3.36
+14:45:30:  BTCRTestTool
+14:45:35:  TCR调测工具 V3.36
+14:45:45:  跳转列表
+14:45:50:  TCR调测工具 V3.36
+14:48:45:  盘点
+14:48:50:  TCR调测工具 V3.36
+14:52:50:  钞箱配置
+14:53:05:  盘点
+14:53:15:  TCR调测工具 V3.36
+14:54:20:  BTCRTestTool
+14:54:40:  TCR调测工具 V3.36
+14:55:00:  20210320
+14:55:05:  TCR调测工具 V3.36
+14:57:30:  盘点
+14:57:35:  TCR调测工具 V3.36
+14:58:25:  盘点
+14:58:40:  TCR调测工具 V3.36
+14:58:45:  BTCRTestTool
+14:58:50:  TCR调测工具 V3.36
+14:58:25:  盘点
+14:58:40:  TCR调测工具 V3.36
+14:58:45:  BTCRTestTool
+14:58:50:  TCR调测工具 V3.36
+15:01:15:  盘点
+15:01:50:  TCR调测工具 V3.36
+15:02:45:  20210320
+15:02:55:  回复: BTCR-1100_MASTER_K64_FV1030_FEDUV22_MAIN_T04 - 写邮件
+15:03:25:  TCR调测工具 V3.36
+15:04:10:  盘点
+15:04:15:  TCR调测工具 V3.36
+15:04:50:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+15:05:00:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:06:10:  TCR调测工具 V3.36
+15:06:20:  盘点
+15:06:25:  TCR调测工具 V3.36
+15:06:55:  20210320
+15:07:20:  TCR调测工具 V3.36
+15:08:30:  20210320
+15:09:05:  TCR调测工具 V3.36
+15:09:15:  计算器
+15:09:55:  TCR调测工具 V3.36
+15:14:55:  盘点
+15:15:00:  TCR调测工具 V3.36
+15:14:55:  盘点
+15:15:00:  TCR调测工具 V3.36
+15:16:55:  桌面整理
+15:17:10:  打开
+15:17:15:  TCR调测工具 V3.36
+15:17:35:  BTCRTestTool
+15:18:05:  TCR调测工具 V3.36
+15:19:05:  可接收
+15:19:10:  TCR调测工具 V3.36
+15:20:00:  盘点
+15:20:05:  TCR调测工具 V3.36
+15:26:05:  BTCRTestTool
+15:26:15:  TCR调测工具 V3.36
+15:27:25:  钞箱配置
+15:27:30:  TCR调测工具 V3.36
+15:28:35:  取款
+15:28:40:  TCR调测工具 V3.36
+15:28:35:  取款
+15:28:40:  TCR调测工具 V3.36
+15:30:20:  取款
+15:30:25:  TCR调测工具 V3.36
+15:32:10:  取款
+15:32:15:  TCR调测工具 V3.36
+15:33:00:  取款
+15:33:10:  TCR调测工具 V3.36
+15:34:00:  取款
+15:34:05:  TCR调测工具 V3.36
+15:35:40:  取款
+15:35:45:  TCR调测工具 V3.36
+15:39:20:  取款
+15:39:25:  TCR调测工具 V3.36
+15:41:30:  取款
+15:41:35:  TCR调测工具 V3.36
+15:43:15:  取款
+15:43:20:  TCR调测工具 V3.36
+15:45:41:  搜索结果
+15:45:46:  锁屏状态

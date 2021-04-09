@@ -1,0 +1,431 @@
+08:06:25:  中国银行DRB样机（3台）发货测试~2021.1.4
+08:06:30:  警告
+08:06:35:  DRB-190900100005
+08:06:45:  问题记录
+08:06:50:  DRB-190900100005
+08:06:55:  捕获.JPG - Windows 照片查看器
+08:07:00:  捕获1.JPG - Windows 照片查看器
+08:07:05:  DRB-190900100005
+08:07:10:  fenxi
+08:07:15:  港币10元居左混合面向大额取款报钞箱口 500ms纸币未进入 返回码0X075E0900
+08:08:15:  ID-19-2 5#DRB钞箱下腔反向盘点第1张报钞箱口 钞口满，返回码035E0700
+08:08:20:  Decode
+08:08:30:  K64_BTCR-1100200600510420_20210104182013
+08:08:35:  Box_3__BTCR-1100200600510420_20210104182013.log - DRB.tat* - TextAnalysisTool.NET
+08:09:25:  荆文波
+08:11:25:  Box_3__BTCR-1100200600510420_20210104182013.log - DRB.tat* - TextAnalysisTool.NET
+08:11:50:  荆文波
+08:12:00:  本地磁盘 (D:)
+08:12:05:  fenxi
+08:14:10:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+08:14:25:  ID-21 DRB5#钞箱下腔反向盘点报1T2下层托板 托板移动到堆钞位置，到位超时，返回码03220401
+08:14:30:  Decode
+08:14:35:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+08:14:40:  本地磁盘 (E:)
+08:14:50:  D:\00-06\1T1-Stop-Length\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+08:14:55:  E:\213815.txt (trunk) - Sublime Text (UNREGISTERED)
+08:15:00:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c • (trunk) - Sublime Text (UNREGISTERED)
+08:14:10:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+08:14:25:  ID-21 DRB5#钞箱下腔反向盘点报1T2下层托板 托板移动到堆钞位置，到位超时，返回码03220401
+08:14:30:  Decode
+08:14:35:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+08:14:40:  本地磁盘 (E:)
+08:14:50:  D:\00-06\1T1-Stop-Length\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)
+08:14:55:  E:\213815.txt (trunk) - Sublime Text (UNREGISTERED)
+08:15:00:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c • (trunk) - Sublime Text (UNREGISTERED)
+08:15:55:  E:\213815.txt (trunk) - Sublime Text (UNREGISTERED)
+08:16:05:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+08:16:10:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:18:25:  K64_BTCR-1100200600510420_20210104182013
+08:18:30:  ID-19-2 5#DRB钞箱下腔反向盘点第1张报钞箱口 钞口满，返回码035E0700
+08:18:35:  LOG
+08:18:40:  K64_BTCR-1100200600510420_20210103114150
+08:18:50:  Box_3__BTCR-1100200600510420_20210103114150.log - DRB.tat* - TextAnalysisTool.NET
+08:20:00:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:20:05:  荆文波
+08:20:10:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:22:55:  Box_3__BTCR-1100200600510420_20210103114150.log - DRB.tat* - TextAnalysisTool.NET
+08:25:20:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:26:10:  Box_3__BTCR-1100200600510420_20210103114150.log - DRB.tat* - TextAnalysisTool.NET
+08:29:45:  计算器
+08:29:45:  计算器
+08:32:36:  Box_3__BTCR-1100200600510420_20210103114150.log - DRB.tat* - TextAnalysisTool.NET
+08:32:51:  计算器
+08:33:26:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:34:06:  计算器
+08:34:11:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:43:06:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:43:26:  本地磁盘 (C:)
+08:43:31:  KE18-VERSION1
+08:43:36:  μVision
+08:43:41:  Project
+08:43:56:  Tools
+08:44:01:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+08:44:06:  CRS调测工具（研发版）V1.0.2.1
+08:44:11:  打开
+08:44:21:  CRS调测工具（研发版）V1.0.2.1
+08:44:36:  发送指令到K18
+08:44:51:  CRS调测工具（研发版）V1.0.2.1
+08:44:06:  CRS调测工具（研发版）V1.0.2.1
+08:44:11:  打开
+08:44:21:  CRS调测工具（研发版）V1.0.2.1
+08:44:36:  发送指令到K18
+08:44:51:  CRS调测工具（研发版）V1.0.2.1
+08:45:16:  发送指令到K18
+08:45:21:  CRS调测工具（研发版）V1.0.2.1
+08:45:31:  发送指令到K18
+08:45:41:  CRS调测工具（研发版）V1.0.2.1
+08:45:51:  发送指令到K18
+08:46:01:  CRS调测工具（研发版）V1.0.2.1
+08:46:11:  计算器
+08:46:21:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:46:26:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:48:46:  0-工作 - 张开发 - 印象笔记
+08:48:51:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:50:21:  Box_3__BTCR-1100200600510420_20210103114150.log - DRB.tat* - TextAnalysisTool.NET
+08:51:56:  荆文波
+08:52:11:  Box_3__BTCR-1100200600510420_20210103114150.log - DRB.tat* - TextAnalysisTool.NET
+08:54:26:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:08:36:  荆文波
+09:08:41:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:08:46:  荆文波
+09:09:06:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:10:26:  荆文波
+09:11:06:  eSpace
+09:11:11:  王亮杰
+09:11:51:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:12:01:  荆文波
+09:15:21:  自动播放
+09:15:26:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:18:36:  0-工作 - 张开发 - 印象笔记
+09:18:41:  剪藏 - 张开发 - 印象笔记
+09:18:46:  0-工作 - 张开发 - 印象笔记
+09:18:51:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:34:36:  王亮杰
+09:34:41:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:35:01:  于斌1
+09:35:06:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:40:41:  王亮杰
+09:40:46:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:54:12:  于斌1
+09:54:17:  荆文波
+09:54:22:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+09:56:42:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:21:42:  ● LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:24:22:  自动播放
+10:24:32:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:27:47:  0-工作 - 张开发 - 印象笔记
+10:27:52:  荆文波
+10:27:57:  主页 - Internet Explorer
+10:28:02:  新北洋OA信息化平台 - Internet Explorer
+10:28:07:  荆文波
+10:28:12:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:28:07:  荆文波
+10:28:12:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:31:47:  中国银行DRB发货测试缺陷列表.xlsx - Excel
+10:33:47:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:38:22:  ID-6 反向盘点入上腔时，上腔（10元)纸币进入下腔（1元）
+10:38:27:  DRB-190900100005
+10:38:32:  问题记录
+10:38:42:  DRB-190900100002
+10:38:52:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+10:39:07:  Decode
+10:39:17:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:40:07:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:40:17:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:40:57:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:41:57:  LOG
+10:42:02:  Box_3__BTCR-1100200600510420_20210103114150.log - DRB.tat* - TextAnalysisTool.NET
+10:42:07:  Box_2__BTCR-1100200600510420_20201230153429.log - DRB.tat* - TextAnalysisTool.NET
+10:43:42:  荆文波
+10:43:57:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:44:07:  荆文波
+10:44:12:  Box_2__BTCR-1100200600510420_20201230153429.log - DRB.tat* - TextAnalysisTool.NET
+10:44:07:  荆文波
+10:44:12:  Box_2__BTCR-1100200600510420_20201230153429.log - DRB.tat* - TextAnalysisTool.NET
+10:52:07:  荆文波
+10:53:22:  Box_2__BTCR-1100200600510420_20201230153429.log - DRB.tat* - TextAnalysisTool.NET
+10:53:47:  中国银行DRB发货测试缺陷列表.xlsx - Excel
+10:56:02:  荆文波
+10:56:07:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:56:17:  荆文波
+10:56:47:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:57:47:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+10:57:57:  荆文波
+10:58:12:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+10:58:22:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+10:58:27:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+10:58:42:  荆文波
+10:58:57:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+10:58:12:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+10:58:22:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+10:58:27:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+10:58:42:  荆文波
+10:58:57:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+11:01:07:  荆文波
+11:01:27:  Box_2__BTCR-1100200600510420_20201230153429.log - DRB.tat* - TextAnalysisTool.NET
+11:01:42:  荆文波
+11:02:02:  Box_2__BTCR-1100200600510420_20201230153429.log - DRB.tat* - TextAnalysisTool.NET
+11:02:27:  荆文波
+11:02:57:  ID-14 下腔5元进行取款报钞箱口 500ms纸币未进入 返回码0X025E0900，纸币堆叠正常。
+11:03:07:  荆文波
+11:03:12:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+11:04:02:  荆文波
+11:04:42:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+11:21:47:  2020年下半年劳保发放 
+11:21:52:  2020年下半年劳保发放 - 技术中心20210105.xlsx
+11:22:07:  2020年下半年劳保发放 
+11:22:17:  2020年下半年劳保发放 - 技术中心20210105.xlsx
+11:22:47:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+11:26:52:  接收
+11:26:57:  删除多个项目
+11:27:02:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+11:28:42:  荆文波
+11:28:42:  荆文波
+11:31:12:  中国银行DRB发货测试缺陷列表.xlsx - Excel
+11:31:17:  DRB-190900100002
+11:31:22:  DRB-190900100005
+11:31:27:  ID-14 下腔5元进行取款报钞箱口 500ms纸币未进入 返回码0X025E0900，纸币堆叠正常。
+11:31:32:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+11:31:37:  ID-15 50英镑反向盘点第17张报通道传输过程中卡钞 超过最大长度持续有钞 返回码0X824602B9
+11:31:42:  1609400703232.jpg - Windows 照片查看器
+11:31:47:  1609400703240.jpg - Windows 照片查看器
+11:31:52:  Decode
+11:31:57:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+11:32:17:  LOG
+11:32:22:  Box_2__BTCR-1100200600510420_20201231153943.log - DRB.tat* - TextAnalysisTool.NET
+11:35:02:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+11:40:38:  锁屏状态
+13:18:53:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+13:24:58:  吉哲
+13:25:28:  ● Track.c - DRB-NearFull - Visual Studio Code [管理员]
+13:25:33:  E:\深圳出差\gfgd\Applications\FlowControl\TrackSensor\SensorApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:25:38:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c (gfgd) - Sublime Text (UNREGISTERED)
+13:25:43:  D:\00-06\meger\Applications\State\State.c (gfgd) - Sublime Text (UNREGISTERED)
+13:25:48:  D:\00-06\meger\Applications\State\State.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:27:28:  吉哲
+13:27:33:  D:\00-06\meger\Applications\State\State.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:27:38:  吉哲
+13:27:53:  D:\00-06\meger\Applications\State\State.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:28:08:  吉哲
+13:28:23:  D:\00-06\meger\Applications\State\State.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:28:28:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+13:28:33:  锁屏状态
+13:28:38:  本地磁盘 (E:)
+13:28:53:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c • (trunk) - Sublime Text (UNREGISTERED)
+13:28:08:  吉哲
+13:28:23:  D:\00-06\meger\Applications\State\State.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:28:28:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+13:28:33:  锁屏状态
+13:28:38:  本地磁盘 (E:)
+13:28:53:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c • (trunk) - Sublime Text (UNREGISTERED)
+13:33:03:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+13:36:03:  吉哲
+13:36:43:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+13:37:23:  eSpace
+13:37:28:  吉哲
+13:38:08:  荆文波
+13:38:18:  E:\213815.txt (trunk) - Sublime Text (UNREGISTERED)
+13:38:23:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c • (trunk) - Sublime Text (UNREGISTERED)
+13:38:28:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+13:38:33:  吉哲
+13:39:13:  锁屏状态
+13:39:18:  吉哲
+13:39:53:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:40:13:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+13:40:18:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:48:53:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+13:52:13:  锁屏状态
+13:52:18:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+14:06:08:  μVision
+14:06:13:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+14:07:24:  KE18-VERSION1
+14:07:29:  Tools
+14:07:34:  文档
+14:07:59:  2021-01-05.txt - 记事本
+14:08:09:  【通知】2021个人所得税事项
+14:12:24:  2021-01-05.txt - 记事本
+14:12:29:  W
+14:12:44:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+14:14:44:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+14:14:44:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+14:29:09:  新标签页 - Google Chrome
+14:29:24:  打开文件夹
+14:29:34:  新标签页 - Google Chrome
+14:29:39:  支付宝_百度搜索 - Google Chrome
+14:29:44:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+14:29:54:  登录 - 支付宝 - Google Chrome
+14:30:04:  我的支付宝 － 支付宝 - Google Chrome
+14:29:09:  新标签页 - Google Chrome
+14:29:24:  打开文件夹
+14:29:34:  新标签页 - Google Chrome
+14:29:39:  支付宝_百度搜索 - Google Chrome
+14:29:44:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+14:29:54:  登录 - 支付宝 - Google Chrome
+14:30:04:  我的支付宝 － 支付宝 - Google Chrome
+14:30:10:  我的账单 - 支付宝 - Google Chrome
+14:30:30:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+14:30:40:  文档
+14:30:45:  Subversion
+14:30:50:  中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:30:55:  alipay_record_20210105_1430_1.csv - Excel
+14:32:15:  中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:32:20:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+14:36:55:  TD回复格式.docx [兼容模式] - Word
+14:37:45:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+14:50:35:  荆文波
+14:54:45:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+14:56:25:  荆文波
+14:57:20:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+15:00:55:  荆文波
+15:06:05:  于斌1
+15:06:25:  荆文波
+15:07:00:  于斌1
+15:07:10:  荆文波
+15:07:25:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+15:09:15:  吉哲
+15:10:45:  网易有道词典
+15:11:10:  吉哲
+15:11:20:  荆文波
+15:11:25:  eSpace
+15:11:30:  吉哲
+15:13:55:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+15:14:10:  eSpace
+15:14:15:  于斌1
+15:14:35:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+15:14:10:  eSpace
+15:14:15:  于斌1
+15:14:35:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+15:16:15:  于斌1
+15:16:20:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+15:19:40:  跳转列表
+15:19:45:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+15:20:20:  荆文波
+15:21:10:  锁屏状态
+15:21:25:  荆文波
+15:22:40:  本地磁盘 (D:)
+15:22:45:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+15:22:55:  2020年下半年劳保发放 
+15:23:05:  中国银行DRB发货测试缺陷列表.xlsx - Excel
+15:23:15:  荆文波
+15:23:50:  问题记录
+15:23:55:  中国银行DRB发货测试缺陷列表.xlsx - Excel
+15:24:05:  DRB-190900100002
+15:24:20:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+15:24:30:  Decode
+15:24:35:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:25:00:  Decode
+15:25:05:  K64_BTCR-1100200700510494_20201228141034
+15:25:10:  Box_3__BTCR-1100200700510494_20201228141034.log - DRB.tat* - TextAnalysisTool.NET
+15:25:15:  K64_BTCR-1100200700510494_20201228141034
+15:25:25:  荆文波
+15:25:35:  LogExpert - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228141034\K64-_BTCR-1100200700510494_20201228141034.log
+15:26:10:  K64_BTCR-1100200700510494_20201228141034
+15:26:15:  Box_3__BTCR-1100200700510494_20201228141034.log - DRB.tat* - TextAnalysisTool.NET
+15:27:30:  荆文波
+15:27:35:  Box_3__BTCR-1100200700510494_20201228141034.log - DRB.tat* - TextAnalysisTool.NET
+15:27:55:  K64_BTCR-1100200700510494_20201228141034
+15:28:00:  Box_3__BTCR-1100200700510494_20201228140854.log - DRB.tat* - TextAnalysisTool.NET
+15:28:10:  K64-_BTCR-1100200700510494_20201228140854.log - DRB.tat* - TextAnalysisTool.NET
+15:28:15:  LogExpert #1 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228140854\K64-_BTCR-1100200700510494_20201228140854.log
+15:28:20:  荆文波
+15:28:25:  LogExpert #1 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228140854\K64-_BTCR-1100200700510494_20201228140854.log
+15:28:30:  荆文波
+15:28:55:  LogExpert #1 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228140854\K64-_BTCR-1100200700510494_20201228140854.log
+15:29:15:  LogExpert #2 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228141034\K64-_BTCR-1100200700510494_20201228141034.log
+15:29:45:  荆文波
+15:28:10:  K64-_BTCR-1100200700510494_20201228140854.log - DRB.tat* - TextAnalysisTool.NET
+15:28:15:  LogExpert #1 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228140854\K64-_BTCR-1100200700510494_20201228140854.log
+15:28:20:  荆文波
+15:28:25:  LogExpert #1 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228140854\K64-_BTCR-1100200700510494_20201228140854.log
+15:28:30:  荆文波
+15:28:55:  LogExpert #1 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228140854\K64-_BTCR-1100200700510494_20201228140854.log
+15:29:15:  LogExpert #2 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228141034\K64-_BTCR-1100200700510494_20201228141034.log
+15:29:45:  荆文波
+15:30:10:  LOG
+15:30:20:  LogExpert - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228140854\K64-_BTCR-1100200700510494_20201228140854.log
+15:30:40:  K64-_BTCR-1100200700510494_20201228140854.log - DRB.tat* - TextAnalysisTool.NET
+15:30:55:  LOG
+15:31:00:  LogExpert #1 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228140756\K64-_BTCR-1100200700510494_20201228140756.log
+15:31:55:  K64_BTCR-1100200700510494_20201228140756
+15:32:00:  Box_3__BTCR-1100200700510494_20201228140756.log - DRB.tat* - TextAnalysisTool.NET
+15:32:15:  荆文波
+15:33:06:  Box_3__BTCR-1100200700510494_20201228140756.log - DRB.tat* - TextAnalysisTool.NET
+15:33:11:  荆文波
+15:35:01:  Box_3__BTCR-1100200700510494_20201228140756.log - DRB.tat* - TextAnalysisTool.NET
+15:35:06:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+15:39:41:  荆文波
+15:39:51:  另存为
+15:39:56:  荆文波
+15:41:36:  CRS调测工具（研发版）V1.0.2.1
+15:42:46:  查找
+15:42:51:  Dialog
+15:43:01:  读写ERROM
+15:43:06:  CRS调测工具（研发版）V1.0.2.1
+15:43:41:  读写ERROM
+15:43:46:  CRS调测工具（研发版）V1.0.2.1
+15:46:36:  读写ERROM
+15:46:41:  CRS调测工具（研发版）V1.0.2.1
+15:47:21:  查找
+15:47:26:  CRS调测工具（研发版）V1.0.2.1
+15:47:31:  Dialog
+15:47:41:  CRS调测工具（研发版）V1.0.2.1
+15:47:46:  Dialog
+15:47:56:  CRS调测工具（研发版）V1.0.2.1
+15:48:41:  读写ERROM
+15:48:46:  CRS调测工具（研发版）V1.0.2.1
+15:50:36:  读写ERROM
+15:50:41:  CRS调测工具（研发版）V1.0.2.1
+15:54:01:  读写ERROM
+15:54:06:  CRS调测工具（研发版）V1.0.2.1
+15:57:16:  Dialog
+15:57:26:  读写ERROM
+15:57:31:  CRS调测工具（研发版）V1.0.2.1
+15:57:56:  读写ERROM
+15:58:06:  CRS调测工具（研发版）V1.0.2.1
+15:58:16:  Dialog
+15:58:21:  CRS调测工具（研发版）V1.0.2.1
+15:58:56:  Dialog
+15:59:06:  CRS调测工具（研发版）V1.0.2.1
+15:59:31:  CRS电气资料.xlsx
+15:58:06:  CRS调测工具（研发版）V1.0.2.1
+15:58:16:  Dialog
+15:58:21:  CRS调测工具（研发版）V1.0.2.1
+15:58:56:  Dialog
+15:59:06:  CRS调测工具（研发版）V1.0.2.1
+15:59:31:  CRS电气资料.xlsx
+16:00:36:  读写ERROM
+16:00:41:  CRS调测工具（研发版）V1.0.2.1
+16:05:26:  钞箱钞票数
+16:05:31:  钞箱使能
+16:05:36:  设置假币拒钞
+16:05:41:  CRS调测工具（研发版）V1.0.2.1
+16:11:36:  发送指令到K18
+16:11:41:  CRS调测工具（研发版）V1.0.2.1
+16:17:51:  CRS电气资料.xlsx
+16:17:56:  CRS调测工具（研发版）V1.0.2.1
+16:18:01:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+16:18:11:  中国银行DRB发货测试缺陷列表.xlsx - Excel
+16:18:51:  LogExpert #1 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228140756\K64-_BTCR-1100200700510494_20201228140756.log
+16:27:56:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+16:28:26:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:28:26:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:30:16:  荆文波
+16:30:46:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:39:12:  LogExpert #1 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228140756\K64-_BTCR-1100200700510494_20201228140756.log
+16:43:22:  荆文波
+16:51:07:  TD回复格式.docx [兼容模式] - Word
+16:51:22:  LogExpert #1 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228140756\K64-_BTCR-1100200700510494_20201228140756.log
+16:51:42:  TD回复格式.docx [兼容模式] - Word
+16:52:12:  LogExpert #1 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228140756\K64-_BTCR-1100200700510494_20201228140756.log
+16:52:22:  TD回复格式.docx [兼容模式] - Word
+16:55:12:  转发: 回复: 9259-0002531前维护，北辰德配置的程序
+16:55:32:  颜晓军
+16:55:52:  转发: 回复: 9259-0002531前维护，北辰德配置的程序
+16:58:22:  颜晓军
+16:58:22:  颜晓军
+17:02:02:  eSpace
+17:02:07:  颜晓军
+17:02:12:  TD回复格式.docx [兼容模式] - Word
+17:02:27:  LogExpert #1 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200700510494_20201228140756\K64-_BTCR-1100200700510494_20201228140756.log
+17:08:07:  锁屏状态

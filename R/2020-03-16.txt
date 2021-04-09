@@ -1,0 +1,16 @@
+2020-03-16 08:11:30-- 08:30:02     :    一  ：于斌1   77/6.41分钟       二  ：绘图1.vsd  [兼容模式] - Visio Professional   43/3.58分钟     三  ：超链接   26/2.16分钟
+2020-03-16 08:30:02-- 09:00:02     :    一  ：于斌1   126/10.5分钟       二  ：D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\StepMotor\StepMotor.c (8) - Sublime Text (UNREGISTERED)   72/6.0分钟     三  ：绘图1.vsd  [兼容模式] - Visio Professional   37/3.08分钟
+2020-03-16 09:00:02-- 09:30:02     :    一  ：Windows 任务管理器   44/3.66分钟       二  ：于斌1   40/3.33分钟     三  ：(36 封私信) 首页 - 知乎 - Google Chrome   29/2.41分钟
+2020-03-16 09:30:02-- 10:00:03     :    一  ：(36 封私信) 首页 - 知乎 - Google Chrome   72/6.0分钟       二  ：TCR调测工具 V3.36   70/5.83分钟     三  ：D:\00-06\8\branches\BR-1-CashBox1T2\Drivers\StepMotorDriver\StepMotorDriver.c (8) - Sublime Text (UNREGISTERED)   50/4.16分钟
+2020-03-16 10:00:03-- 10:30:03     :    一  ：吉哲   34/2.83分钟       二  ：(36 封私信) 只狼 - 搜索结果 - 知乎 - Google Chrome   6/0.5分钟     三  ：D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c (8) - Sublime Text (UNREGISTERED)   5/0.41分钟
+2020-03-16 11:15:08-- 11:30:03     :    一  ：DRB老化   60/5.0分钟       二  ：D:\00-06\8\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c (8) - Sublime Text (UNREGISTERED)   44/3.66分钟     三  ：TCR调测工具 V3.36   34/2.83分钟
+2020-03-16 15:11:13-- 15:15:03     :    一  ：LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-16.txt   1/0.08分钟       二  ：Bin   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-16 15:15:03-- 15:30:01     :    一  ：Add Filter   1/0.08分钟       二  ：D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-16 15:30:01-- 15:45:04     :    一  ：京东plus爱奇艺联名卡 2020_百度搜索 - Google Chrome   1/0.08分钟       二  ：现在京东plus会员 不送爱奇艺了，东哥膨胀了【酱香白酒吧】_百度贴吧 - Google Chrome   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-16 15:45:04-- 16:00:03     :    一  ：D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.c • (8) - Sublime Text (UNREGISTERED)   1/0.08分钟       二  ：D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.c (8) - Sublime Text (UNREGISTERED)   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-16 16:00:03-- 16:15:01     :    一  ：K64_0000_20200316155222   1/0.08分钟       二  ：20200316   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-16 16:15:01-- 16:30:04     :    一  ：Box_1__0000_20200316161211.log - [No filter file]* - TextAnalysisTool.NET   1/0.08分钟       二  ：D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.c (8) - Sublime Text (UNREGISTERED)   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-16 16:30:04-- 16:45:02     :    一  ：D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\Plate\LowerPlate.c (8) - Sublime Text (UNREGISTERED)   1/0.08分钟       二  ：D:\00-06\8\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-16 17:00:13-- 17:00:18     :    一  ：Kill?   1/0.08分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-16 17:00:30-- 17:00:35     :    一  ：Log   1/0.08分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-16 17:00:35-- 17:15:02     :    一  ：D:\00-06\1T2-Aging\Applications\State\State.c • (1T2-Aging) - Sublime Text (UNREGISTERED)   121/10.0分钟       二  ：D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)   0/0.0分钟     三  ：   0/0.0分钟

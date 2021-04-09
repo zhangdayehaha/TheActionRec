@@ -1,0 +1,983 @@
+08:00:15:  钞箱1T2集成测试方案
+08:05:20:  iTunes
+08:08:30:  钞箱1T2集成测试方案
+08:17:50:  PaperManage.c - trunk - Visual Studio Code [管理员]
+08:19:10:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+08:19:45:  网络和共享中心
+08:19:50:  网络连接
+08:20:05:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+08:20:25:  PaperManage.c - trunk - Visual Studio Code [管理员]
+08:20:35:  设置 - trunk - Visual Studio Code [管理员]
+08:20:40:  PaperManage.c - trunk - Visual Studio Code [管理员]
+08:25:03:  ● PaperManage.c - trunk - Visual Studio Code [管理员]
+08:27:17:  PaperManage.c - trunk - Visual Studio Code [管理员]
+08:32:22:  钞箱1T2集成测试方案
+08:32:27:  5.21拨叉功能测试模版_V1.0.xls  [兼容模式] - Excel
+08:33:07:  计算机
+08:33:12:  威海新北洋 (G:)
+08:33:22:  scope_151.png - Windows 照片查看器
+08:33:27:  威海新北洋 (G:)
+08:33:32:  钞箱1T2集成测试方案
+08:33:37:  锁屏状态
+08:33:42:  5.6 拨叉信号测试.pptx - PowerPoint
+08:34:17:  威海新北洋 (G:)
+08:34:32:  新建文件夹 (2)
+08:34:42:  插入图片
+08:34:52:  5.6 拨叉信号测试.pptx - PowerPoint
+08:37:06:  插入图片
+08:37:16:  5.6 拨叉信号测试.pptx - PowerPoint
+08:38:01:  新建文件夹 (2)
+08:38:06:  钞箱1T2集成测试方案
+08:38:16:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:38:51:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007210838.log
+08:39:06:  5.21拨叉功能测试模版_V1.0.xls  [兼容模式] - Excel
+08:39:16:  5.18 传感器测试v1.1.xlsx - Excel
+08:41:06:  拨叉信号 - Everything
+08:41:11:  传感器 - Everything
+08:41:21:  正在打开 - Excel
+08:41:26:  5.18 传感器测试v1.1.xlsx - Excel
+08:42:21:  钞箱1T2集成测试方案
+08:42:26:  本地磁盘 (D:)
+08:42:31:  波形
+08:42:36:  5.18 传感器测试v1.1.xlsx - Excel
+08:43:51:  固件集成测试方案
+08:43:56:  Windows Installer
+08:44:01:  5.18 传感器测试.pptx [受保护的视图] - PowerPoint
+08:44:26:  钞箱集成测试方案-报告
+08:44:36:  eSpace
+08:44:41:  吉哲
+08:44:51:  KE06LOG.bat - 快捷方式 (2)
+08:44:56:  5.18 传感器测试v1.1.xlsx - Excel
+08:44:26:  钞箱集成测试方案-报告
+08:44:36:  eSpace
+08:44:41:  吉哲
+08:44:51:  KE06LOG.bat - 快捷方式 (2)
+08:44:56:  5.18 传感器测试v1.1.xlsx - Excel
+08:45:31:  吉哲
+08:45:41:  5.18 传感器测试v1.1.xlsx - Excel
+08:46:11:  选择数据源
+08:46:16:  5.18 传感器测试v1.1.xlsx - Excel
+08:46:26:  选择数据源
+08:46:36:  吉哲
+08:46:46:  5.18 传感器测试v1.1.xlsx - Excel
+08:46:56:  吉哲
+08:47:01:  5.18 传感器测试v1.1.xlsx - Excel
+08:47:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:47:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+08:48:16:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+08:50:06:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+08:50:11:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+08:50:41:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+08:51:31:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+08:51:41:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c • (trunk) - Sublime Text (UNREGISTERED)
+08:51:46:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+08:51:51:  D:\00-06\1T1-Stop-Length\trunk\StopLength.patch (trunk) - Sublime Text (UNREGISTERED)
+08:51:56:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+08:52:01:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.h • (trunk) - Sublime Text (UNREGISTERED)
+08:52:06:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.h (trunk) - Sublime Text (UNREGISTERED)
+08:52:21:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+08:52:26:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.h (trunk) - Sublime Text (UNREGISTERED)
+08:52:36:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:53:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+08:53:36:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+08:54:06:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:54:16:  C:\Users\zhangkaifa\Desktop\CashBoxDareV2.3.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:54:21:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:54:31:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:54:36:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:54:56:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:55:01:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:55:06:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:55:16:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:55:56:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:56:11:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:56:56:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:58:46:  Toolbox
+08:58:51:  KE06LOG.bat - 快捷方式 (2)
+08:58:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007210858.log
+08:59:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:59:12:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007210858.log
+08:59:22:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:58:46:  Toolbox
+08:58:51:  KE06LOG.bat - 快捷方式 (2)
+08:58:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007210858.log
+08:59:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:59:12:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007210858.log
+08:59:22:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+09:01:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:01:22:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:01:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:01:37:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+09:02:37:  μVision
+09:02:42:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+09:02:52:  本地磁盘 (D:)
+09:02:57:  trunk
+09:03:02:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+09:03:07:  State.c - TortoiseMerge
+09:03:27:  PaperManage.c - TortoiseMerge
+09:03:57:  TortoiseMerge
+09:04:07:  PaperManage.c - TortoiseMerge
+09:04:12:  TrackCtrl.c - TortoiseMerge
+09:04:22:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+09:04:32:  Track.c - TortoiseMerge
+09:04:37:  Track.h - TortoiseMerge
+09:04:42:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+09:05:17:  trunk
+09:05:22:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+09:05:27:  milestone.txt - 记事本
+09:07:52:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+09:07:57:  PaperManage.c - TortoiseMerge
+09:08:12:  Update.c - TortoiseMerge
+09:08:17:  Track.c - TortoiseMerge
+09:08:22:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+09:08:27:  TortoiseMerge
+09:08:32:  milestone.txt - TortoiseMerge
+09:08:37:  trunk
+09:08:42:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+09:08:52:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+09:09:07:  Update.c - TortoiseMerge
+09:09:12:  Track.c - TortoiseMerge
+09:09:17:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+09:09:22:  milestone.txt - TortoiseMerge
+09:09:32:  milestone.txt - 记事本
+09:10:27:  trunk
+09:10:32:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+09:10:42:  提交 失败！
+09:10:52:  TortoiseSVN
+09:10:57:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+09:11:02:  trunk
+09:11:12:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+09:11:17:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+09:11:27:  trunk
+09:11:32:  milestone.txt.mine - TortoiseMerge
+09:11:37:  更新 完成！
+09:11:42:  trunk
+09:11:47:  milestone.txt - 记事本
+09:12:07:  trunk
+09:12:12:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+09:12:27:  trunk
+09:12:42:  milestone.txt - 记事本
+09:13:02:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+09:13:07:  State.c - TortoiseMerge
+09:13:12:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+09:13:17:  Track.c - TortoiseMerge
+09:13:22:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+09:13:27:  milestone.txt - TortoiseMerge
+09:13:32:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+09:13:37:  trunk
+09:13:47:  运行
+09:13:57:  样机配置履历表
+09:14:02:  固件版本
+09:14:12:  Excel
+09:14:17:  BTCR-1100-固件更改记录_V100.xls  [受保护的视图] - Excel
+09:14:22:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+09:14:32:  trunk
+09:14:37:  milestone.txt - 记事本
+09:14:42:  荆文波
+09:14:47:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+09:15:02:  5.18 传感器测试v1.1.xlsx - Excel
+09:14:12:  Excel
+09:14:17:  BTCR-1100-固件更改记录_V100.xls  [受保护的视图] - Excel
+09:14:22:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+09:14:32:  trunk
+09:14:37:  milestone.txt - 记事本
+09:14:42:  荆文波
+09:14:47:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+09:15:02:  5.18 传感器测试v1.1.xlsx - Excel
+09:15:07:  桌面整理
+09:15:12:  trunk
+09:15:17:  桌面整理
+09:15:22:  milestone - 写邮件
+09:15:27:  ch - 写邮件
+09:15:32:  钞箱 - 写邮件
+09:15:37:  1T1钞箱85版本 - 写邮件
+09:15:42:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+09:15:57:  5.18 传感器测试v1.1.xlsx - Excel
+09:16:02:  milestone.txt - 记事本
+09:16:07:  1T1钞箱85版本更改记录 - 写邮件
+09:16:22:  5.18 传感器测试v1.1.xlsx - Excel
+09:16:27:  荆文波
+09:17:17:  5.18 传感器测试v1.1.xlsx - Excel
+09:20:02:  荆文波
+09:20:12:  5.18 传感器测试v1.1.xlsx - Excel
+09:25:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:26:07:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007210858.log
+09:26:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:26:22:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:26:32:  D:\00-06\DRB-PRESS\Middlewares\Sensor\Sensor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:27:07:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:27:17:  D:\00-06\DRB-PRESS\Drivers\SensorDriver\SensorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:27:27:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:27:32:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:27:42:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:27:52:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:28:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:29:27:  5.18 传感器测试v1.1.xlsx - Excel
+09:29:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:29:27:  5.18 传感器测试v1.1.xlsx - Excel
+09:29:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:30:12:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007210930.log
+09:30:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:30:27:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007210930.log
+09:30:42:  锁屏状态
+09:30:47:  5.18 传感器测试v1.1.xlsx - Excel
+09:30:52:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007210930.log
+09:31:07:  5.18 传感器测试v1.1.xlsx - Excel
+09:31:17:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007210930.log
+09:31:32:  D:\00-06\DRB-PRESS\Applications\MemoryConfig.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:31:37:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:31:42:  D:\00-06\DRB-PRESS\Middlewares\Sensor\Sensor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:31:47:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:32:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:32:27:  5.18 传感器测试v1.1.xlsx - Excel
+09:33:07:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:33:12:  D:\00-06\DRB-PRESS\Applications\MemoryConfig.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:33:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:34:02:  计算器
+09:34:12:  5.18 传感器测试v1.1.xlsx - Excel
+09:34:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:37:02:  锁屏状态
+09:37:07:  计算器
+09:37:17:  5.18 传感器测试v1.1.xlsx - Excel
+09:37:32:  计算器
+09:37:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:37:42:  5.18 传感器测试v1.1.xlsx - Excel
+09:37:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:37:57:  5.18 传感器测试v1.1.xlsx - Excel
+09:38:42:  D:\00-06\DRB-PRESS\Middlewares\Sensor\Sensor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:39:17:  5.18 传感器测试v1.1.xlsx - Excel
+09:39:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:40:52:  5.18 传感器测试v1.1.xlsx - Excel
+09:41:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:43:42:  D:\00-06\DRB-PRESS\Middlewares\Sensor\Sensor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:43:47:  D:\00-06\DRB-PRESS\Applications\MemoryConfig.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:43:52:  D:\00-06\DRB-PRESS\Middlewares\Sensor\Sensor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:43:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:44:57:  5.18 传感器测试v1.1.xlsx - Excel
+09:44:57:  5.18 传感器测试v1.1.xlsx - Excel
+09:45:42:  锁屏状态
+09:45:47:  5.18 传感器测试v1.1.xlsx - Excel
+09:46:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:47:22:  锁屏状态
+09:47:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:47:37:  5.18 传感器测试v1.1.xlsx - Excel
+09:48:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:49:37:  5.18 传感器测试v1.1.xlsx - Excel
+09:49:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:49:57:  5.18 传感器测试v1.1.xlsx - Excel
+09:50:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:50:37:  5.18 传感器测试v1.1.xlsx - Excel
+09:51:07:  设置单元格格式
+09:51:12:  5.18 传感器测试v1.1.xlsx - Excel
+09:52:37:  trunk
+09:52:42:  固件集成测试方案
+09:52:47:  Windows Installer
+09:52:52:  5.18 传感器测试v1.1 .xlsx  [受保护的视图] - Excel
+09:53:07:  5.18 传感器测试v1.1.xlsx - Excel
+09:55:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:55:32:  计算器
+09:55:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:56:12:  5.18 传感器测试v1.1.xlsx - Excel
+09:57:07:  锁屏状态
+09:57:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:57:22:  5.18 传感器测试v1.1.xlsx - Excel
+09:57:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:58:22:  5.18 传感器测试v1.1.xlsx - Excel
+09:58:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:59:42:  5.18 传感器测试v1.1.xlsx - Excel
+09:58:22:  5.18 传感器测试v1.1.xlsx - Excel
+09:58:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:59:42:  5.18 传感器测试v1.1.xlsx - Excel
+10:00:37:  计算器
+10:01:02:  5.18 传感器测试v1.1.xlsx - Excel
+10:01:22:  计算器
+10:01:37:  5.18 传感器测试v1.1.xlsx - Excel
+10:01:47:  计算器
+10:01:57:  5.18 传感器测试v1.1.xlsx - Excel
+10:02:02:  计算器
+10:02:12:  5.18 传感器测试v1.1.xlsx - Excel
+10:02:17:  计算器
+10:02:22:  5.18 传感器测试v1.1.xlsx - Excel
+10:02:27:  计算器
+10:02:57:  5.18 传感器测试v1.1.xlsx - Excel
+10:03:02:  计算器
+10:03:07:  5.18 传感器测试v1.1.xlsx - Excel
+10:03:12:  计算器
+10:03:22:  5.18 传感器测试v1.1.xlsx - Excel
+10:03:32:  计算器
+10:03:37:  5.18 传感器测试v1.1.xlsx - Excel
+10:05:02:  00-06
+10:05:07:  trunk
+10:05:17:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:05:32:  5.18 传感器测试v1.1.xlsx - Excel
+10:05:37:  锁屏状态
+10:05:42:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:05:47:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+10:05:57:  Tools
+10:06:02:  固件版本
+10:06:07:  K06
+10:06:12:  Tools
+10:06:17:  5.18 传感器测试v1.1.xlsx - Excel
+10:14:22:  张开发的IPhone 
+10:14:27:  102APPLE
+10:14:37:  101APPLE
+10:14:42:  DCIM
+10:14:47:  100APPLE
+10:14:52:  100CLOUD
+10:14:57:  DCIM
+10:14:22:  张开发的IPhone 
+10:14:27:  102APPLE
+10:14:37:  101APPLE
+10:14:42:  DCIM
+10:14:47:  100APPLE
+10:14:52:  100CLOUD
+10:14:57:  DCIM
+10:15:07:  102APPLE
+10:15:12:  DCIM
+10:15:17:  102APPLE
+10:15:22:  DCIM
+10:15:27:  100APPLE
+10:15:42:  张开发的IPhone 
+10:15:47:  100APPLE
+10:15:52:  5.18 传感器测试v1.1.xlsx - Excel
+10:15:57:  自动播放
+10:16:02:  张开发的IPhone 
+10:16:07:  102APPLE
+10:16:22:  桌面整理
+10:16:27:  5.18 传感器测试v1.1.xlsx - Excel
+10:16:32:  插入图片
+10:16:37:  5.18 传感器测试v1.1.xlsx - Excel
+10:16:52:  插入图片
+10:16:57:  5.18 传感器测试v1.1.xlsx - Excel
+10:20:37:  eSpace
+10:20:42:  程明昌
+10:21:02:  新标签页 - Google Chrome
+10:21:12:  PaperManage.c - trunk - Visual Studio Code [管理员]
+10:21:17:  扩展: SonarLint For PClint - trunk - Visual Studio Code [管理员]
+10:21:22:  ● settings.json - trunk - Visual Studio Code [管理员]
+10:21:32:  SonarQube - Google Chrome
+10:21:52:  项目 - Google Chrome
+10:22:02:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+10:22:07:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+10:22:12:  Loss of precision (assignment) (float to unsigned short) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+10:22:27:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+10:22:32:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+10:22:37:  项目 - Google Chrome
+10:22:47:  Loss of precision (assignment) (float to unsigned short) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+10:22:57:  settings.json - trunk - Visual Studio Code [管理员]
+10:23:02:  锁屏状态
+10:23:07:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+10:23:17:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:23:47:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+10:24:02:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:24:07:  设置 - trunk - Visual Studio Code [管理员]
+10:24:12:  Visual Studio Code
+10:24:17:  设置 - 1T1-Stop-Length - Visual Studio Code [管理员]
+10:24:27:  TrackCtrl.c - 1T1-Stop-Length - Visual Studio Code [管理员]
+10:25:02:  扩展: Code Spell Checker - 1T1-Stop-Length - Visual Studio Code [管理员]
+10:25:12:  TrackCtrl.c - 1T1-Stop-Length - Visual Studio Code [管理员]
+10:26:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:26:27:  库
+10:26:32:  本地磁盘 (D:)
+10:26:37:  1T1-Stop-Length
+10:26:42:  trunk
+10:26:47:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+10:26:52:  TrackCtrl.c - TortoiseMerge
+10:26:57:  Project
+10:27:02:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:27:07:  锁屏状态
+10:27:12:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:27:27:  Project
+10:27:32:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+10:28:12:  Loss of precision (assignment) (float to unsigned short) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+10:28:17:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+10:28:22:  项目 - Google Chrome
+10:28:52:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+10:29:02:  TrackCtrl.c - 1T1-Stop-Length - Visual Studio Code [管理员]
+10:29:07:  打开文件夹
+10:29:17:  设置 - trunk - Visual Studio Code [管理员]
+10:29:22:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+10:29:27:  Track.c - trunk - Visual Studio Code [管理员]
+10:29:42:  PaperManage.c - trunk - Visual Studio Code [管理员]
+10:29:52:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+10:29:57:  欢迎使用 - Visual Studio Code [管理员]
+10:28:12:  Loss of precision (assignment) (float to unsigned short) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+10:28:17:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+10:28:22:  项目 - Google Chrome
+10:28:52:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+10:29:02:  TrackCtrl.c - 1T1-Stop-Length - Visual Studio Code [管理员]
+10:29:07:  打开文件夹
+10:29:17:  设置 - trunk - Visual Studio Code [管理员]
+10:29:22:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+10:29:27:  Track.c - trunk - Visual Studio Code [管理员]
+10:29:42:  PaperManage.c - trunk - Visual Studio Code [管理员]
+10:29:52:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+10:29:57:  欢迎使用 - Visual Studio Code [管理员]
+10:30:07:  Visual Studio Code
+10:30:12:  欢迎使用 - Visual Studio Code [管理员]
+10:30:52:  InstrExecute.c - trunk - Visual Studio Code
+10:30:57:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+10:31:22:  Visual Studio Code
+10:31:32:  Track.c - trunk - Visual Studio Code [管理员]
+10:31:52:  TrackCtrl.c - trunk - Visual Studio Code [管理员]
+10:31:57:  ● TrackCtrl.c - trunk - Visual Studio Code [管理员]
+10:32:02:  TrackCtrl.c - trunk - Visual Studio Code [管理员]
+10:32:42:  ● TrackCtrl.c - trunk - Visual Studio Code [管理员]
+10:32:52:  TrackCtrl.c - trunk - Visual Studio Code [管理员]
+10:33:22:  ● TrackCtrl.c - trunk - Visual Studio Code [管理员]
+10:33:32:  TrackCtrl.c - trunk - Visual Studio Code [管理员]
+10:34:17:  ● TrackCtrl.c - trunk - Visual Studio Code [管理员]
+10:34:22:  项目 - Google Chrome
+10:34:37:  TrackCtrl.c - trunk - Visual Studio Code [管理员]
+10:35:02:  ● TrackCtrl.c - trunk - Visual Studio Code [管理员]
+10:35:07:  TrackCtrl.c - trunk - Visual Studio Code [管理员]
+10:35:52:  Track.c - trunk - Visual Studio Code [管理员]
+10:35:57:  TrackCtrl.c - trunk - Visual Studio Code [管理员]
+10:36:02:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+10:36:07:  设置 - trunk - Visual Studio Code [管理员]
+10:36:32:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+10:37:07:  TrackCtrl.c - trunk - Visual Studio Code [管理员]
+10:37:22:  ● TrackCtrl.c - trunk - Visual Studio Code [管理员]
+10:37:27:  TrackCtrl.c - trunk - Visual Studio Code [管理员]
+10:37:32:  trunk
+10:37:37:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:37:42:  trunk
+10:37:47:  Tools
+10:38:02:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+10:38:07:  Tools
+10:38:12:  08tcr测试过程记录
+10:38:17:  最新固件
+10:38:22:  复制文件
+10:38:27:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:38:32:  项目 - Google Chrome
+10:38:37:  跳转列表
+10:38:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:42:13:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+10:42:23:  Tools
+10:42:28:  Project
+10:42:33:  trunk
+10:42:38:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+10:42:48:  trunk
+10:42:53:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+10:43:03:  TrackCtrl.c - TortoiseMerge
+10:43:08:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+10:43:13:  TortoiseSVN
+10:43:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:43:23:  μVision
+10:43:28:  Project
+10:43:33:  Tools
+10:43:43:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:43:48:  Tools
+10:44:03:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+10:44:18:  管理员: C:\Windows\system32\cmd.exe
+10:44:28:  管理员: C:\Windows\system32\cmd.exe - CreateJK.exe
+10:44:53:  未命名 - 写邮件
+10:44:58:  信息
+10:45:03:  85版本密钥 - 写邮件   10:44:58 已保存
+10:44:18:  管理员: C:\Windows\system32\cmd.exe
+10:44:28:  管理员: C:\Windows\system32\cmd.exe - CreateJK.exe
+10:44:53:  未命名 - 写邮件
+10:44:58:  信息
+10:45:03:  85版本密钥 - 写邮件   10:44:58 已保存
+10:45:28:  管理员: C:\Windows\system32\cmd.exe - CreateJK.exe
+10:45:43:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:46:03:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:46:53:  eSpace
+10:46:58:  于斌1
+10:47:08:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:53:48:  荆文波
+10:54:08:  锁屏状态
+10:54:13:  新标签页 - Google Chrome
+10:54:18:  TrackCtrl.c - trunk - Visual Studio Code
+10:54:43:  Visual Studio Code
+10:54:58:  TrackCtrl.c - trunk - Visual Studio Code
+10:55:23:  TrackCtrl.c - trunk - Visual Studio Code [管理员]
+10:55:33:  ● settings.json - trunk - Visual Studio Code [管理员]
+10:55:38:  新标签页 - Google Chrome
+10:55:43:  项目 - Google Chrome
+10:56:33:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+10:56:38:  K06
+10:56:43:  本地磁盘 (D:)
+10:56:48:  00-06
+10:56:53:  D:\00-06\DRB-PRESS - 日志信息 - TortoiseSVN
+10:57:03:  项目 - Google Chrome
+10:57:23:  settings.json - trunk - Visual Studio Code [管理员]
+10:57:28:  打开文件夹
+10:57:33:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+10:58:23:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+10:58:28:  Untitled-1.txt - DRB-PRESS - Visual Studio Code [管理员]
+10:58:33:  项目 - Google Chrome
+10:58:43:  创建新项目 - Google Chrome
+10:58:48:  项目 - Google Chrome
+10:59:03:  Duplicated Lines on New Code (%) - FW_BTCR-1100_K18_MAIN%branches%BR-4-TCR - Google Chrome
+10:59:08:  FW_BTCR-1100_K18_MAIN%branches%BR-4-TCR - Google Chrome
+10:59:18:  Undeclared identifier 'Image' - FW_BTCR-1100_K18_MAIN%branches%BR-4-TCR - Google Chrome
+10:59:23:  FW_BTCR-1100_K18_MAIN%branches%BR-4-TCR - Google Chrome
+10:59:28:  项目 - Google Chrome
+11:00:03:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+10:58:23:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+10:58:28:  Untitled-1.txt - DRB-PRESS - Visual Studio Code [管理员]
+10:58:33:  项目 - Google Chrome
+10:58:43:  创建新项目 - Google Chrome
+10:58:48:  项目 - Google Chrome
+10:59:03:  Duplicated Lines on New Code (%) - FW_BTCR-1100_K18_MAIN%branches%BR-4-TCR - Google Chrome
+10:59:08:  FW_BTCR-1100_K18_MAIN%branches%BR-4-TCR - Google Chrome
+10:59:18:  Undeclared identifier 'Image' - FW_BTCR-1100_K18_MAIN%branches%BR-4-TCR - Google Chrome
+10:59:23:  FW_BTCR-1100_K18_MAIN%branches%BR-4-TCR - Google Chrome
+10:59:28:  项目 - Google Chrome
+11:00:03:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+11:00:08:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:00:28:  荆文波
+11:00:43:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:00:53:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:01:08:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:01:13:  荆文波
+11:07:33:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:15:13:  于斌1
+11:15:18:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:15:23:  于斌1
+11:15:53:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:16:03:  荆文波
+11:16:13:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:16:18:  荆文波
+11:16:23:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:16:58:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:17:03:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:17:13:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:17:48:  eSpace
+11:17:53:  PlateCtrl.h - DRB-PRESS - Visual Studio Code [管理员]
+11:18:03:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:18:18:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:18:28:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:18:33:  荆文波
+11:18:43:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:19:08:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:19:13:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:19:18:  PlateCtrl.h - DRB-PRESS - Visual Studio Code [管理员]
+11:19:23:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:19:38:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:19:58:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:20:03:  PlateCtrl.h - DRB-PRESS - Visual Studio Code [管理员]
+11:20:08:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:20:48:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:23:23:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:23:53:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:25:08:  荆文波
+11:25:13:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:27:23:  荆文波
+11:27:28:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:28:48:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:28:53:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:29:08:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:29:13:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:29:18:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:29:23:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:29:28:  荆文波
+11:29:33:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:28:48:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:28:53:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:29:08:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:29:13:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:29:18:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:29:23:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:29:28:  荆文波
+11:29:33:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:30:08:  ● State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:30:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:30:48:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+11:30:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:31:23:  Toolbox
+11:31:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:32:18:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007210930.log
+11:32:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:32:33:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007211132.log
+11:32:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:33:08:  锁屏状态
+11:33:13:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:33:23:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007211132.log
+11:33:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:34:18:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007211132.log
+11:34:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:35:13:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007211132.log
+11:35:18:  姚世龙
+11:37:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:44:13:  DRB-PRESS
+11:44:18:  Tools
+11:44:23:  未命名 - 写邮件
+11:44:28:  确认
+11:44:33:  回复: DRB钞箱容量测试 - 写邮件
+11:44:38:  DRB测试 - 写邮件
+11:44:43:  DRB钞箱容量测试.xlsx
+11:44:13:  DRB-PRESS
+11:44:18:  Tools
+11:44:23:  未命名 - 写邮件
+11:44:28:  确认
+11:44:33:  回复: DRB钞箱容量测试 - 写邮件
+11:44:38:  DRB测试 - 写邮件
+11:44:43:  DRB钞箱容量测试.xlsx
+11:45:18:  Tools
+11:45:23:  锁屏状态
+13:16:19:  本地磁盘 (D:)
+13:16:49:  姚世龙
+13:16:54:  本地磁盘 (D:)
+13:17:04:  eSpace
+13:17:09:  荆文波
+13:17:14:  姚世龙
+13:18:54:  自动播放
+13:19:34:  姚世龙
+13:19:39:  项目 - Google Chrome
+13:19:44:  新建文本文档.exe - 快捷方式
+13:19:49:  新标签页 - Google Chrome
+13:19:54:  百度一下，你就知道 - Google Chrome
+13:19:59:  (78 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:20:04:  资讯类APP - 搜索结果 - 知乎 - Google Chrome
+13:20:09:  (78 封私信 / 80 条消息) 资讯类APP - 搜索结果 - 知乎 - Google Chrome
+13:21:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:23:54:  μVision
+13:24:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:24:19:  荆文波
+13:25:04:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:25:24:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:25:44:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:26:34:  荆文波
+13:26:39:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:27:54:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:24:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:49:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:04:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:19:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:24:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:44:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:24:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:49:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:04:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:19:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:24:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:44:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:30:19:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:30:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:36:29:  (78 封私信 / 80 条消息) 资讯类APP - 搜索结果 - 知乎 - Google Chrome
+13:36:39:  www.zhihu.com - Google Chrome
+13:36:44:  本地磁盘 (D:)
+13:36:54:  自动播放
+13:36:59:  (78 封私信 / 80 条消息) 新闻类APP - 搜索结果 - 知乎 - Google Chrome
+13:37:24:  (78 封私信 / 80 条消息) 资讯类APP - 搜索结果 - 知乎 - Google Chrome
+13:39:29:  本地磁盘 (D:)
+13:39:34:  Tools
+13:39:39:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+13:42:34:  Tools
+13:42:49:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V11_MAIN_T99 - 写邮件
+13:42:54:  DRBy - 写邮件
+13:42:59:  发送邮件
+13:43:04:  (78 封私信 / 80 条消息) 资讯类APP - 搜索结果 - 知乎 - Google Chrome
+13:47:55:  eSpace
+13:48:00:  姚世龙
+13:48:10:  新标签页 - Google Chrome
+13:48:20:  姚世龙
+13:48:35:  Tools
+13:50:55:  www.zhihu.com - Google Chrome
+13:51:05:  (78 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:51:15:  (78 封私信 / 80 条消息) 资讯类APP - 搜索结果 - 知乎 - Google Chrome
+13:51:20:  (78 封私信 / 80 条消息) 资讯获取的途径 - 搜索结果 - 知乎 - Google Chrome
+13:55:35:  (78 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:55:50:  Setup
+13:55:55:  (78 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:57:05:  锁屏状态
+13:57:10:  新建文本文档.exe - 快捷方式
+13:57:15:  荆文波
+13:57:40:  Tools
+13:58:50:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+13:59:05:  iTunes
+13:59:10:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+13:58:50:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+13:59:05:  iTunes
+13:59:10:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+14:05:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:06:15:  μVision
+14:06:20:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:08:25:  Toolbox
+14:08:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:11:20:  Tools
+14:11:25:  钞箱集成测试方案-报告
+14:11:30:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+14:11:35:  PowerPoint
+14:11:40:  5.18 传感器测试.pptx [受保护的视图] - PowerPoint
+14:14:05:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+14:14:05:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+14:18:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:19:55:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+14:21:45:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:22:50:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+14:26:05:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:28:15:  锁屏状态
+14:28:20:  正在打开 - Excel
+14:28:25:  5.18 传感器测试v1.1 .xlsx  [受保护的视图] - Excel
+14:28:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:28:35:  钞箱1T2集成测试方案
+14:28:40:  5.18 传感器测试v1.1.xlsx - Excel
+14:28:55:  钞箱1T2集成测试方案
+14:29:25:  5.18 传感器测试.pptx [受保护的视图] - PowerPoint
+14:29:30:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+14:28:15:  锁屏状态
+14:28:20:  正在打开 - Excel
+14:28:25:  5.18 传感器测试v1.1 .xlsx  [受保护的视图] - Excel
+14:28:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:28:35:  钞箱1T2集成测试方案
+14:28:40:  5.18 传感器测试v1.1.xlsx - Excel
+14:28:55:  钞箱1T2集成测试方案
+14:29:25:  5.18 传感器测试.pptx [受保护的视图] - PowerPoint
+14:29:30:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+14:30:20:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:30:50:  5.18 传感器测试.pptx [受保护的视图] - PowerPoint
+14:31:15:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+14:31:45:  5.18 传感器测试.pptx [受保护的视图] - PowerPoint
+14:31:50:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+14:32:35:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:33:30:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+14:35:10:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:36:35:  威海新北洋 (G:)
+14:36:40:  scope_156.png - Windows 照片查看器
+14:36:45:  scope_152.png - Windows 照片查看器
+14:36:50:  威海新北洋 (G:)
+14:36:55:  桌面
+14:37:00:  chuanganqi
+14:37:05:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:37:10:  42 CRS现金循环模块
+14:37:15:  钞箱集成测试方案-报告
+14:37:20:  DRB集成测试
+14:37:25:  chuanganqi
+14:37:30:  Windows Installer
+14:37:35:  5.18 传感器测试.pptx - PowerPoint
+14:38:10:  scope_155.png - Windows 照片查看器
+14:38:20:  插入图片
+14:38:25:  5.18 传感器测试.pptx - PowerPoint
+14:38:35:  插入图片
+14:38:40:  5.18 传感器测试.pptx - PowerPoint
+14:38:45:  插入图片
+14:38:50:  5.18 传感器测试.pptx - PowerPoint
+14:39:05:  scope_165.png - Windows 照片查看器
+14:39:10:  插入图片
+14:39:20:  scope_159.png - Windows 照片查看器
+14:39:25:  scope_161.png - Windows 照片查看器
+14:39:35:  scope_158.png - Windows 照片查看器
+14:39:40:  5.18 传感器测试.pptx - PowerPoint
+14:39:45:  插入图片
+14:39:50:  5.18 传感器测试.pptx - PowerPoint
+14:40:20:  插入图片
+14:40:25:  5.18 传感器测试.pptx - PowerPoint
+14:41:20:  chuanganqi
+14:41:25:  插入图片
+14:41:30:  5.18 传感器测试.pptx - PowerPoint
+14:42:05:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:42:25:  5.18 传感器测试.pptx - PowerPoint
+14:43:50:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:46:00:  Toolbox
+14:46:05:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:52:55:  chuanganqi
+14:53:30:  威海新北洋 (G:)
+14:53:50:  桌面
+14:53:55:  chuanganqi
+14:54:10:  威海新北洋 (G:)
+14:54:20:  chuanganqi
+14:54:25:  scope_166.png - Windows 照片查看器
+14:54:30:  5.18 传感器测试.pptx - PowerPoint
+14:54:35:  插入图片
+14:54:50:  5.18 传感器测试.pptx - PowerPoint
+14:55:05:  插入图片
+14:55:10:  5.18 传感器测试.pptx - PowerPoint
+14:55:25:  插入图片
+14:55:30:  5.18 传感器测试.pptx - PowerPoint
+14:56:20:  插入图片
+14:56:45:  5.18 传感器测试.pptx - PowerPoint
+14:56:55:  插入图片
+14:58:00:  5.18 传感器测试.pptx - PowerPoint
+14:58:45:  插入图片
+14:59:35:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+14:58:45:  插入图片
+14:59:35:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+15:00:25:  插入图片
+15:00:35:  5.18 传感器测试.pptx - PowerPoint
+15:00:45:  插入图片
+15:00:55:  5.18 传感器测试.pptx - PowerPoint
+15:01:00:  插入图片
+15:01:05:  5.18 传感器测试.pptx - PowerPoint
+15:01:40:  chuanganqi
+15:01:45:  钞箱1T2集成测试方案
+15:01:50:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+15:02:55:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+15:05:10:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:06:10:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+15:06:50:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:09:15:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+15:09:25:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:13:05:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+15:13:55:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:15:15:  Toolbox
+15:15:20:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:17:31:  钞箱1T2集成测试方案
+15:17:36:  威海新北洋 (G:)
+15:17:46:  新建文件夹 (2)
+15:17:51:  chuanganqi
+15:17:56:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+15:18:01:  scope_177.png - Windows 照片查看器
+15:18:06:  scope_179.png - Windows 照片查看器
+15:18:11:  scope_176.png - Windows 照片查看器
+15:18:16:  5.18 传感器测试.pptx - PowerPoint
+15:18:21:  chuanganqi
+15:18:26:  5.18 传感器测试.pptx - PowerPoint
+15:18:31:  插入图片
+15:18:36:  5.18 传感器测试.pptx - PowerPoint
+15:18:41:  插入图片
+15:18:46:  scope_179.png - Windows 照片查看器
+15:18:51:  5.18 传感器测试.pptx - PowerPoint
+15:18:56:  scope_179.png - Windows 照片查看器
+15:19:01:  插入图片
+15:19:11:  scope_179.png - Windows 照片查看器
+15:19:21:  插入图片
+15:19:26:  scope_179.png - Windows 照片查看器
+15:19:31:  scope_177.png - Windows 照片查看器
+15:19:36:  插入图片
+15:19:46:  5.18 传感器测试.pptx - PowerPoint
+15:20:01:  插入图片
+15:20:16:  5.18 传感器测试.pptx - PowerPoint
+15:20:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:21:41:  5.18 传感器测试.pptx - PowerPoint
+15:21:46:  威海新北洋 (G:)
+15:21:56:  5.18 传感器测试.pptx - PowerPoint
+15:22:01:  插入图片
+15:22:11:  5.18 传感器测试.pptx - PowerPoint
+15:22:16:  插入图片
+15:22:26:  5.18 传感器测试.pptx - PowerPoint
+15:22:41:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:28:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:28:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:34:21:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.h (trunk) - Sublime Text (UNREGISTERED)
+15:34:26:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:34:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:37:16:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:37:21:  跳转列表
+15:38:36:  威海新北洋 (G:)
+15:39:01:  5.18 传感器测试.pptx - PowerPoint
+15:39:21:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:39:31:  本地磁盘 (D:)
+15:39:41:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:39:46:  State.c - DRB-PRESS - Visual Studio Code [管理员]
+15:39:51:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:39:56:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+15:40:06:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:40:16:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:40:21:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:40:51:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:40:56:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:41:36:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:44:11:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:44:21:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+15:44:26:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:45:01:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:44:11:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:44:21:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+15:44:26:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:45:01:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:45:06:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+15:45:11:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:49:36:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:49:41:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+15:49:46:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:54:46:  新建文本文档.exe - 快捷方式
+15:54:56:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:55:01:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+15:55:06:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:58:51:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:59:41:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:58:51:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:59:41:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:03:46:  本地磁盘 (D:)
+16:03:56:  钞箱1T2集成测试方案
+16:04:11:  5.3 历史记录功能测试V1.0.xls  [兼容模式] - Excel
+16:04:21:  锁屏状态
+16:04:26:  钞箱1T2集成测试方案
+16:04:31:  5.4 日志功能测试.xls  [兼容模式] - Excel
+16:04:46:  钞箱1T2集成测试方案
+16:04:56:  新建文件夹
+16:05:01:  波形
+16:05:06:  钞箱1T2集成测试方案
+16:05:16:  传感器 - Everything
+16:05:21:  RIZHI - Everything
+16:05:26:  日志 - Everything
+16:05:51:  5.4 日志功能测试.xls  [兼容模式] - Excel
+16:05:56:  钞箱1T2集成测试方案
+16:06:16:  集成测试
+16:06:21:  集成测试 (未响应)
+16:06:31:  本地磁盘 (F:)
+16:06:41:  5.4 日志功能测试.xls  [兼容模式] - Excel
+16:06:51:  钞箱1T2集成测试方案
+16:07:01:  新建文本文档.exe - 快捷方式
+16:07:06:  集成测试
+16:07:16:  5.4 日志功能测试.xls  [兼容模式] - Excel
+16:07:21:  集成测试
+16:07:31:  钞箱1T2集成测试方案
+16:07:41:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+16:08:16:  Box_1__0000_20200720152618.log - DRB.tat* - TextAnalysisTool.NET
+16:11:01:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+16:36:27:  于斌1,吉哲,张开发
+16:36:52:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+16:44:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:44:42:  钞箱1T2集成测试方案
+16:44:52:  5.4 日志功能测试.xls  [兼容模式] - Excel
+16:44:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:44:42:  钞箱1T2集成测试方案
+16:44:52:  5.4 日志功能测试.xls  [兼容模式] - Excel
+16:45:17:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:22:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:27:  D:\00-06\DRB-PRESS\Middlewares\Log\Log.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:37:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:47:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:52:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:46:07:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:47:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:47:22:  JLink - Cortex-M Error
+16:47:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:47:42:  μVision
+16:47:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:48:02:  μVision
+16:48:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:49:52:  μVision
+16:49:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:04:12:  eSpace
+17:04:17:  于斌1,吉哲,张开发
+17:04:32:  eSpace
+17:05:12:  于斌1,吉哲,张开发
+17:05:22:  eSpace
+17:05:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:08:42:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+17:09:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:17:02:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+17:17:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:22:17:  D:\00-06\DRB-PRESS\Drivers\SpiFlashDriver\SpiFlashDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:22:22:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\SpiDriver\SnbcSpiDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:22:47:  本地磁盘 (E:)
+17:22:52:  06 固件日报
+17:22:57:  主控板集成测试方案-报告
+17:23:07:  Windows Installer
+17:23:12:  5.2 EEPROM信号测试v1.0.pptx [受保护的视图] - PowerPoint
+17:23:57:  主控板集成测试方案-报告
+17:24:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:36:27:  Toolbox
+17:36:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:59:37:  于斌1
+17:59:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:59:47:  于斌1
+17:59:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:59:37:  于斌1
+17:59:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:59:47:  于斌1
+17:59:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:01:12:  于斌1
+18:01:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:03:17:  于斌1
+18:03:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:07:27:  「开始」菜单
+18:07:32:  姚世龙
+18:07:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:09:03:  锁屏状态

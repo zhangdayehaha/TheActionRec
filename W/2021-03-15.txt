@@ -1,0 +1,1006 @@
+07:54:37:  DRB测试--3.12日
+07:54:42:  测试日志
+07:54:52:  系统测试记录
+07:54:57:  测试日志
+07:58:37:  自动播放
+07:59:42:  DRB测试--3.12日
+07:58:37:  自动播放
+07:59:42:  DRB测试--3.12日
+08:00:27:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:10:53:  DRB测试缺陷.xlsx
+08:11:08:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+08:11:13:  eSpace
+08:11:18:  丛柏屹
+08:11:23:  DRB测试缺陷.xlsx
+08:11:28:  丛柏屹
+08:12:38:  转发: BTCR-1100_MASTER_K64_FV1030_FEDUV22_MAIN_T04_RMB_0309 - 写邮件
+08:13:33:  丛柏屹
+08:14:08:  DRB测试缺陷.xlsx
+08:14:08:  DRB测试缺陷.xlsx
+08:15:13:  网络错误
+08:15:18:  运行
+08:15:23:  网络错误
+08:15:28:  测试日志
+08:15:33:  20210314
+08:15:38:  测试日志
+08:15:43:  巴西-3.13
+08:15:48:  file://192.168.28.47/08tcr%E6%B5%8B%E8%AF%95%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%95/%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E8%AE%B0%E5%BD%95/DRB%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%97%A5%E5%BF%97/%E5%B7%B4%E8%A5%BF
+08:15:53:  fenxi
+08:15:58:  港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+08:16:13:  缺陷日志
+08:16:18:  2、100、50混合面额执行大额存款，软件报通道传输过程中卡钞，超过最大长度持续有钞，884602B4
+08:16:23:  IMG_6715.JPG - Windows 照片查看器
+08:16:28:  IMG_6714.JPG - Windows 照片查看器
+08:16:38:  IMG_6715.JPG - Windows 照片查看器
+08:16:48:  2、100、50混合面额执行大额存款，软件报通道传输过程中卡钞，超过最大长度持续有钞，884602B4
+08:16:53:  正在复制 209 个项目(74.0 MB)
+08:17:03:  主页 - Internet Explorer
+08:17:13:  新北洋OA信息化平台 - Internet Explorer
+08:17:23:  员工自助 - Internet Explorer
+08:17:28:  新北洋OA信息化平台 - Internet Explorer
+08:17:33:  20210314
+08:17:38:  Decode
+08:17:48:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:18:38:  LOG
+08:18:48:  Box_3__BTCR-1100200600510420_20210314112845.log - DRB.tat* - TextAnalysisTool.NET
+08:18:58:  K64_BTCR-1100200600510420_20210314112706
+08:19:03:  Box_3__BTCR-1100200600510420_20210314112706.log - DRB.tat* - TextAnalysisTool.NET
+08:19:18:  K64_BTCR-1100200600510420_20210314112638
+08:19:23:  Box_3__BTCR-1100200600510420_20210314112638.log - DRB.tat* - TextAnalysisTool.NET
+08:19:28:  K64_BTCR-1100200600510420_20210314112556
+08:19:33:  Box_3__BTCR-1100200600510420_20210314112556.log - DRB.tat* - TextAnalysisTool.NET
+08:19:43:  K64_BTCR-1100200600510420_20210314112515
+08:19:48:  Box_3__BTCR-1100200600510420_20210314112515.log - DRB.tat* - TextAnalysisTool.NET
+08:20:03:  Box_3__BTCR-1100200600510420_20210314112444.log - DRB.tat* - TextAnalysisTool.NET
+08:20:08:  K64_BTCR-1100200600510420_20210314112327
+08:20:13:  Box_3__BTCR-1100200600510420_20210314112327.log - DRB.tat* - TextAnalysisTool.NET
+08:20:23:  K64_BTCR-1100200600510420_20210314112130
+08:20:28:  Box_3__BTCR-1100200600510420_20210314112130.log - DRB.tat* - TextAnalysisTool.NET
+08:20:43:  Box_3__BTCR-1100200600510420_20210314112004.log - DRB.tat* - TextAnalysisTool.NET
+08:20:53:  K64_BTCR-1100200600510420_20210314111855
+08:20:58:  Box_3__BTCR-1100200600510420_20210314111855.log - DRB.tat* - TextAnalysisTool.NET
+08:21:08:  K64_BTCR-1100200600510420_20210314111748
+08:21:13:  Box_3__BTCR-1100200600510420_20210314111748.log - DRB.tat* - TextAnalysisTool.NET
+08:21:18:  Box_3__BTCR-1100200600510420_20210314111721.log - DRB.tat* - TextAnalysisTool.NET
+08:21:28:  K64_BTCR-1100200600510420_20210314111628
+08:21:33:  Box_3__BTCR-1100200600510420_20210314111628.log - DRB.tat* - TextAnalysisTool.NET
+08:21:43:  K64_BTCR-1100200600510420_20210314111459
+08:21:48:  Box_3__BTCR-1100200600510420_20210314111459.log - DRB.tat* - TextAnalysisTool.NET
+08:21:58:  LOG
+08:22:03:  Box_3__BTCR-1100200600510420_20210314111002.log - DRB.tat* - TextAnalysisTool.NET
+08:25:23:  回复: DRB测试--3.14日
+08:25:33:  Box_3__BTCR-1100200600510420_20210314111002.log - DRB.tat* - TextAnalysisTool.NET
+08:30:08:  LOG
+08:30:13:  Box_3__BTCR-1100200600510420_20210314110824.log - DRB.tat* - TextAnalysisTool.NET
+08:31:03:  K64_BTCR-1100200600510420_20210314110539
+08:31:23:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+08:31:38:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+08:32:18:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.h (DRB) - Sublime Text (UNREGISTERED)
+08:32:23:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+08:34:03:  Box_3__BTCR-1100200600510420_20210314110824.log - DRB.tat* - TextAnalysisTool.NET
+08:34:08:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+08:34:48:  Box_3__BTCR-1100200600510420_20210314110824.log - DRB.tat* - TextAnalysisTool.NET
+08:35:08:  Box_3__BTCR-1100200600510420_20210314110539.log - DRB.tat* - TextAnalysisTool.NET
+08:37:43:  IMG_6715.JPG - Windows 照片查看器
+08:38:03:  K64_BTCR-1100200600510420_20210314111002
+08:38:08:  Box_3__BTCR-1100200600510420_20210314111002.log - DRB.tat* - TextAnalysisTool.NET
+08:39:48:  计算器
+08:40:33:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+08:40:38:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.h (DRB) - Sublime Text (UNREGISTERED)
+08:40:43:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+08:41:08:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+08:45:48:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+08:46:23:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+08:46:38:  D:\00-06\DRB\Applications\PlateCtrl\PlateCtrl.h (DRB) - Sublime Text (UNREGISTERED)
+08:46:43:  D:\00-06\DRB\Middlewares\Plate\PlateCommon.h (DRB) - Sublime Text (UNREGISTERED)
+08:46:48:  This is an unregistered copy
+08:46:53:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+08:46:58:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+08:47:03:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+08:47:08:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+08:48:13:  于斌1
+08:48:28:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+08:48:38:  于斌1
+08:48:43:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+08:48:53:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+08:48:58:  于斌1
+08:49:13:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+08:49:28:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+08:49:33:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:50:38:  本地磁盘 (D:)
+08:50:43:  Tools
+08:50:48:  D:\00-06\DRB\Tools\CreateJK.exe
+08:53:38:  Tools
+08:53:48:  TCR调测工具 V3.36
+08:53:53:  打开
+08:53:58:  TCR调测工具 V3.36
+08:56:48:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:56:53:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+08:57:28:  TCR调测工具 V3.36
+08:58:43:  钞箱传感器
+08:58:48:  所有笔记本 - 张开发 - 印象笔记
+08:58:53:  0-工作 - 张开发 - 印象笔记
+08:59:03:  TCR调测工具 V3.36
+08:58:43:  钞箱传感器
+08:58:48:  所有笔记本 - 张开发 - 印象笔记
+08:58:53:  0-工作 - 张开发 - 印象笔记
+08:59:03:  TCR调测工具 V3.36
+09:02:03:  K64-_BTCR-1100200600510420_20210314111002.log - DRB.tat* - TextAnalysisTool.NET
+09:02:43:  网易有道词典
+09:03:33:  于斌1
+09:03:38:  06- 刘建生
+09:03:43:  TCR
+09:03:48:  主控板集成测试方案-报告
+09:03:53:  于斌1
+09:04:03:  主控板集成测试方案-报告
+09:04:08:  锁屏状态
+09:04:13:  6.2.2.6 钞箱测试1T2 .xls  [受保护的视图] - Excel
+09:04:18:  主控板集成测试方案-报告
+09:04:23:  6.2.2.6 钞箱测试1T2 (2).xls  [受保护的视图] - Excel
+09:04:33:  于斌1
+09:04:58:  Tools
+09:05:03:  00-06
+09:05:38:  主页 - Internet Explorer
+09:05:48:  新北洋OA信息化平台 - Internet Explorer
+09:05:58:  K64-_BTCR-1100200600510420_20210314111002.log - DRB.tat* - TextAnalysisTool.NET
+09:06:18:  TCR调测工具 V3.36
+09:06:33:  eSpace
+09:06:38:  0-工作 - 张开发 - 印象笔记
+09:06:43:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+09:12:28:  BNE-C52（DRB）样机状态及关键部件配置表20210311
+09:14:03:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:14:48:  KE06LOG.bat - 快捷方式 (2)
+09:14:58:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103150914.log
+09:14:48:  KE06LOG.bat - 快捷方式 (2)
+09:14:58:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103150914.log
+09:15:08:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:15:43:  锁屏状态
+09:15:48:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103150914.log
+09:16:18:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:16:28:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103150914.log
+09:17:08:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:18:53:  getbookdoor.py - D:\fenxi\1111\getbookdoor.py (3.7.3)
+09:19:23:  新标签页 - Google Chrome
+09:19:28:  班车管理系统 - Google Chrome
+09:19:38:  班车管理系统 [新北洋集团] - Google Chrome
+09:22:33:  getbookdoor.py - D:\fenxi\1111\getbookdoor.py (3.7.3)
+09:23:43:  DRB测试缺陷.xlsx
+09:24:18:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:24:23:  回复: 回复: DRB测试--3.14日 - 写邮件
+09:25:23:  回复: 回复: DRB测试--3.14日 - 写邮件   09:25:22 已保存
+09:25:28:  丛柏屹
+09:26:23:  新建文件夹 (3)
+09:26:28:  10
+09:26:33:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+09:26:43:  丛柏屹
+09:27:23:  于斌1
+09:27:38:  丛柏屹
+09:29:03:  于斌1
+09:29:13:  DRB测试缺陷.xlsx
+09:29:48:  丛柏屹
+09:29:03:  于斌1
+09:29:13:  DRB测试缺陷.xlsx
+09:29:48:  丛柏屹
+09:30:08:  于斌1
+09:30:23:  丛柏屹
+09:31:43:  2、100、50混合面额执行大额存款，软件报通道传输过程中卡钞，超过最大长度持续有钞，884602B4
+09:31:48:  测试日志
+09:32:03:  丛柏屹
+09:32:08:  本地磁盘 (D:)
+09:32:13:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+09:32:18:  正在复制 500 个项目(208 MB)
+09:32:28:  剩余 20 秒
+09:32:33:  剩余 25 秒
+09:32:38:  剩余 10 秒
+09:32:48:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+09:33:23:  丛柏屹
+09:33:53:  20210313
+09:34:23:  DRB测试缺陷.xlsx
+09:34:28:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:34:33:  回复: 回复: DRB测试--3.14日 - 写邮件   09:25:22 已保存
+09:34:58:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:36:14:  设置单元格格式
+09:36:19:  回复: 回复: DRB测试--3.14日 - 写邮件   09:35:22 已保存
+09:36:24:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:36:29:  回复: 回复: DRB测试--3.14日 - 写邮件   09:36:22 已保存
+09:37:24:  回复: 回复: DRB测试--3.14日 - 写邮件   09:37:22 已保存
+09:38:24:  回复: 回复: DRB测试--3.14日 - 写邮件   09:38:22 已保存
+09:38:34:  K64-_BTCR-1100200600510420_20210314111002.log - DRB.tat* - TextAnalysisTool.NET
+09:38:39:  回复: 回复: DRB测试--3.14日 - 写邮件   09:38:22 已保存
+09:39:24:  回复: 回复: DRB测试--3.14日 - 写邮件   09:39:22 已保存
+09:40:24:  回复: 回复: DRB测试--3.14日 - 写邮件   09:40:22 已保存
+09:41:24:  回复: 回复: DRB测试--3.14日 - 写邮件   09:41:22 已保存
+09:41:54:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:41:59:  回复: 回复: DRB测试--3.14日 - 写邮件   09:41:22 已保存
+09:42:24:  回复: 回复: DRB测试--3.14日 - 写邮件   09:42:23 已保存
+09:42:39:  K64-_BTCR-1100200600510420_20210314111002.log - DRB.tat* - TextAnalysisTool.NET
+09:42:49:  fenxi
+09:42:54:  港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+09:42:59:  K18_BTCR-1100200600510420_20210314095512
+09:43:04:  LOG
+09:43:09:  Box_3__BTCR-1100200600510420_20210314111855.log - DRB.tat* - TextAnalysisTool.NET
+09:43:19:  Box_3__BTCR-1100200600510420_20210314112004.log - DRB.tat* - TextAnalysisTool.NET
+09:43:24:  LOG
+09:43:29:  Box_3__BTCR-1100200600510420_20210314112130.log - DRB.tat* - TextAnalysisTool.NET
+09:43:34:  K64_BTCR-1100200600510420_20210314112327
+09:43:39:  Box_3__BTCR-1100200600510420_20210314112327.log - DRB.tat* - TextAnalysisTool.NET
+09:43:44:  LOG
+09:43:49:  Box_3__BTCR-1100200600510420_20210314112515.log - DRB.tat* - TextAnalysisTool.NET
+09:44:04:  LOG
+09:44:09:  20210313
+09:44:14:  LOG
+09:44:19:  K64_BTCR-1100200600510420_20210313160418
+09:44:24:  Box_3__BTCR-1100200600510420_20210313160418.log - DRB.tat* - TextAnalysisTool.NET
+09:44:34:  K64_BTCR-1100200600510420_20210313160600
+09:44:39:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+09:44:54:  Box_3__BTCR-1100200600510420_20210313160725.log - DRB.tat* - TextAnalysisTool.NET
+09:45:04:  K64_BTCR-1100200600510420_20210313160756
+09:44:09:  20210313
+09:44:14:  LOG
+09:44:19:  K64_BTCR-1100200600510420_20210313160418
+09:44:24:  Box_3__BTCR-1100200600510420_20210313160418.log - DRB.tat* - TextAnalysisTool.NET
+09:44:34:  K64_BTCR-1100200600510420_20210313160600
+09:44:39:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+09:44:54:  Box_3__BTCR-1100200600510420_20210313160725.log - DRB.tat* - TextAnalysisTool.NET
+09:45:04:  K64_BTCR-1100200600510420_20210313160756
+09:45:09:  Box_3__BTCR-1100200600510420_20210313160756.log - DRB.tat* - TextAnalysisTool.NET
+09:45:19:  K64_BTCR-1100200600510420_20210313160829
+09:45:24:  K64_BTCR-1100200600510420_20210313160418
+09:45:29:  K64-_BTCR-1100200600510420_20210313160418.log - DRB.tat* - TextAnalysisTool.NET
+09:45:39:  K64_BTCR-1100200600510420_20210313160600
+09:45:44:  K64-_BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+09:46:19:  LOG
+09:46:34:  丛柏屹
+09:46:39:  K64-_BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+09:46:59:  K64_BTCR-1100200600510420_20210313160600
+09:53:09:  于斌1
+09:53:29:  K64_BTCR-1100200600510420_20210313160600
+09:53:34:  锁屏状态
+09:53:39:  K64_BTCR-1100200600510420_20210313160600
+09:53:44:  于斌1
+09:53:59:  K64-_BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+09:54:24:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+09:54:29:  D:\00-06\DRB\Applications\Instruction\InstrReturn.c (DRB) - Sublime Text (UNREGISTERED)
+09:54:44:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+09:54:54:  K64-_BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+09:55:49:  D:\00-06\DRB\Applications\Instruction\InstrReturn.c (DRB) - Sublime Text (UNREGISTERED)
+09:55:54:  D:\00-06\DRB\Applications\Instruction\InstrHandle.h (DRB) - Sublime Text (UNREGISTERED)
+09:55:59:  D:\00-06\DRB\Applications\Instruction\InstrReturn.c (DRB) - Sublime Text (UNREGISTERED)
+09:56:19:  K64-_BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+09:56:24:  Edit Filter
+09:56:29:  K64-_BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+09:57:29:  回复: 回复: DRB测试--3.14日 - 写邮件   09:42:23 已保存
+09:57:39:  DRB测试缺陷.xlsx
+09:57:49:  K64-_BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+09:58:34:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+09:58:54:  Add Filter
+09:59:04:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+09:59:09:  Edit Filter
+09:59:14:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+09:59:24:  Add Filter
+09:59:34:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+09:58:34:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+09:58:54:  Add Filter
+09:59:04:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+09:59:09:  Edit Filter
+09:59:14:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+09:59:24:  Add Filter
+09:59:34:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB.tat* - TextAnalysisTool.NET
+10:00:14:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+10:00:19:  K64-_BTCR-1100200600510420_20210313160600.log - [No filter file] - TextAnalysisTool.NET
+10:00:24:  K64-_BTCR-1100200600510420_20210313160600.log - DRB.tat - TextAnalysisTool.NET
+10:00:39:  另存为
+10:00:44:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB2.tat - TextAnalysisTool.NET
+10:00:49:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat - TextAnalysisTool.NET
+10:00:59:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB2.tat - TextAnalysisTool.NET
+10:01:09:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat - TextAnalysisTool.NET
+10:01:14:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB2.tat - TextAnalysisTool.NET
+10:01:19:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat - TextAnalysisTool.NET
+10:01:29:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB2.tat - TextAnalysisTool.NET
+10:01:34:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat - TextAnalysisTool.NET
+10:02:34:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB2.tat - TextAnalysisTool.NET
+10:05:24:  于斌1
+10:05:29:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB2.tat - TextAnalysisTool.NET
+10:08:54:  Add Filter
+10:08:59:  Box_3__BTCR-1100200600510420_20210313160600.log - DRB2.tat - TextAnalysisTool.NET
+10:10:09:  计算器
+10:10:34:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat - TextAnalysisTool.NET
+10:12:29:  eSpace
+10:12:34:  赖伟光
+10:12:49:  未命名 - 写邮件
+10:12:54:  K64-_BTCR-1100200600510420_20210313160600 - 写邮件
+10:12:59:  钞箱 - 写邮件
+10:13:04:  钞箱入钞纸币信息 - 写邮件
+10:13:44:  钞箱入钞纸币信息 - 写邮件   10:13:40 已保存
+10:14:44:  钞箱入钞纸币信息 - 写邮件   10:14:40 已保存
+10:14:44:  钞箱入钞纸币信息 - 写邮件   10:14:40 已保存
+10:15:39:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat - TextAnalysisTool.NET
+10:16:19:  K64_BTCR-1100200600510420_20210313160600
+10:16:24:  1111
+10:16:29:  00-06
+10:16:34:  Tools
+10:16:39:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V13_MAIN_T99 - 写邮件
+10:19:04:  赖伟光
+10:23:59:  Tools
+10:24:09:  5.18 传感器测试v1.1.xlsx - Excel
+10:25:04:  Tools
+10:25:14:  桌面整理
+10:25:19:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+10:25:24:  本地磁盘 (D:)
+10:25:29:  正在打开 - Excel
+10:25:34:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+10:25:44:  本地磁盘 (D:)
+10:25:49:  5.22 - Everything
+10:26:04:  正在打开 - Excel
+10:26:09:  5.22 钞箱托板功能测试V1.0 (1).xls: 2021/3/5 8:48 (未保存的文件)  [只读]  [兼容模式] - Excel
+10:26:29:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+10:26:44:  5.22 - Everything
+10:26:54:  5.22 钞箱托板功能测试V1.0 (1).xls: 2021/3/5 8:48 (未保存的文件)  [只读]  [兼容模式] - Excel
+10:27:14:  于斌1
+10:28:04:  5.22 钞箱托板功能测试V1.0 (1).xls: 2021/3/5 8:48 (未保存的文件)  [只读]  [兼容模式] - Excel
+10:28:09:  于斌1
+10:28:19:  5.22 钞箱托板功能测试V1.0 (1).xls: 2021/3/5 8:48 (未保存的文件)  [只读]  [兼容模式] - Excel
+10:28:24:  于斌1
+10:28:39:  eSpace
+10:28:49:  5.22 钞箱托板功能测试V1.0 (1).xls: 2021/3/5 8:48 (未保存的文件)  [只读]  [兼容模式] - Excel
+10:29:09:  于斌1
+10:29:19:  5.22 钞箱托板功能测试V1.0 (1).xls: 2021/3/5 8:48 (未保存的文件)  [只读]  [兼容模式] - Excel
+10:28:09:  于斌1
+10:28:19:  5.22 钞箱托板功能测试V1.0 (1).xls: 2021/3/5 8:48 (未保存的文件)  [只读]  [兼容模式] - Excel
+10:28:24:  于斌1
+10:28:39:  eSpace
+10:28:49:  5.22 钞箱托板功能测试V1.0 (1).xls: 2021/3/5 8:48 (未保存的文件)  [只读]  [兼容模式] - Excel
+10:29:09:  于斌1
+10:29:19:  5.22 钞箱托板功能测试V1.0 (1).xls: 2021/3/5 8:48 (未保存的文件)  [只读]  [兼容模式] - Excel
+10:31:29:  Microsoft Excel
+10:31:34:  另存为
+10:31:59:  Excel 帮助
+10:32:04:  3.xlsx  [兼容模式] - Excel
+10:32:09:  赖伟光
+10:32:39:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat - TextAnalysisTool.NET
+10:33:14:  于斌1
+10:33:24:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat - TextAnalysisTool.NET
+10:33:29:  Edit Filter
+10:33:34:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat* - TextAnalysisTool.NET
+10:33:39:  赖伟光
+10:34:04:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat* - TextAnalysisTool.NET
+10:34:19:  赖伟光
+10:34:44:  于斌1
+10:34:49:  赖伟光
+10:34:59:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat* - TextAnalysisTool.NET
+10:35:24:  赖伟光
+10:35:34:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat* - TextAnalysisTool.NET
+10:35:59:  赖伟光
+10:37:04:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+10:37:54:  赖伟光
+10:37:59:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+10:38:09:  选择文件夹
+10:38:19:  untitled (select) - Sublime Text (UNREGISTERED)
+10:38:24:  D:\00-KE64\select\Applications\FlowControl\PageManage\PageManageIn.c (select) - Sublime Text (UNREGISTERED)
+10:38:54:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat* - TextAnalysisTool.NET
+10:41:24:  赖伟光
+10:41:54:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat* - TextAnalysisTool.NET
+10:42:34:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+10:42:59:  赖伟光
+10:43:09:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+10:43:29:  于斌1
+10:43:34:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+10:44:10:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+10:44:20:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+10:44:25:  赖伟光
+10:44:30:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+10:44:35:  赖伟光
+10:44:40:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+10:44:50:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageOut.h (10) - Sublime Text (UNREGISTERED)
+10:44:55:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+10:44:10:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+10:44:20:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+10:44:25:  赖伟光
+10:44:30:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+10:44:35:  赖伟光
+10:44:40:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+10:44:50:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageOut.h (10) - Sublime Text (UNREGISTERED)
+10:44:55:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+10:45:10:  赖伟光
+10:45:20:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+10:46:00:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManage.h (10) - Sublime Text (UNREGISTERED)
+10:46:05:  D:\00-06\DRB\Middlewares\Selector\Selector.c (10) - Sublime Text (UNREGISTERED)
+10:46:10:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+10:46:25:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+10:46:55:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat* - TextAnalysisTool.NET
+10:47:10:  D:\00-06\DRB\Applications\Instruction\InstrReturn.c (DRB) - Sublime Text (UNREGISTERED)
+10:47:25:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat* - TextAnalysisTool.NET
+10:47:30:  D:\00-KE64\select\Applications\FlowControl\PageManage\PageManageIn.c (select) - Sublime Text (UNREGISTERED)
+10:47:35:  D:\00-KE64\select\Applications\CanComm\CashBoxComm\CashBoxComm.c (select) - Sublime Text (UNREGISTERED)
+10:48:10:  D:\00-06\DRB\Applications\Instruction\InstrReturn.c (DRB) - Sublime Text (UNREGISTERED)
+10:48:15:  D:\00-KE64\select\Applications\CanComm\CashBoxComm\CashBoxComm.c (select) - Sublime Text (UNREGISTERED)
+10:48:20:  D:\00-KE64\select\Applications\FlowControl\PageManage\PageManageIn.c (select) - Sublime Text (UNREGISTERED)
+10:49:20:  D:\00-06\DRB\Applications\Instruction\InstrReturn.h (DRB) - Sublime Text (UNREGISTERED)
+10:49:25:  D:\00-KE64\select\Applications\FlowControl\PageManage\PageManageIn.c (select) - Sublime Text (UNREGISTERED)
+10:50:05:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat* - TextAnalysisTool.NET
+10:51:05:  D:\00-KE64\select\Applications\FlowControl\PageManage\PageManageIn.c (select) - Sublime Text (UNREGISTERED)
+10:51:15:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat* - TextAnalysisTool.NET
+10:51:25:  Add Filter
+10:51:35:  fenxi
+10:51:40:  港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+10:51:50:  20210313
+10:51:55:  LOG
+10:52:00:  LogExpert #5 - D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\巴西-3.13\20210313\Decode\LOG\K64_BTCR-1100200600510420_20210313160600\K64-_BTCR-1100200600510420_20210313160600.log
+10:53:10:  于斌1
+10:53:20:  K64-_BTCR-1100200600510420_20210313160600 - 写邮件
+11:01:50:  赖伟光
+11:02:10:  D:\00-KE64\select\Applications\FlowControl\PageManage\PageManageIn.c (select) - Sublime Text (UNREGISTERED)
+11:03:05:  赖伟光
+11:03:45:  D:\00-KE64\select\Applications\FlowControl\PageManage\PageManageIn.c (select) - Sublime Text (UNREGISTERED)
+11:04:15:  D:\00-KE64\select\Applications\FlowControl\PageManage\PageManageOut.c (select) - Sublime Text (UNREGISTERED)
+11:04:45:  D:\00-KE64\select\Applications\FlowControl\PageManage\PageManageIn.c (select) - Sublime Text (UNREGISTERED)
+11:04:55:  赖伟光
+11:05:10:  K64-_BTCR-1100200600510420_20210313160600.log - DRB2.tat* - TextAnalysisTool.NET
+11:05:15:  赖伟光
+11:05:25:  于斌1
+11:05:35:  D:\00-KE64\select\Applications\FlowControl\PageManage\PageManageIn.c (select) - Sublime Text (UNREGISTERED)
+11:05:50:  于斌1
+11:08:00:  回复: 回复: DRB测试--3.14日
+11:08:30:  于斌1
+11:08:55:  回复: 回复: DRB测试--3.14日
+11:10:15:  于斌1
+11:11:40:  回复: 回复: DRB测试--3.14日
+11:13:15:  http://oa.byintra.com/iBPM/BPM/DecryptUlt.aspx?TASKID=0125080846b196b19052640f92f833&ASSIGNEDTO - Internet Explorer
+11:13:20:  新北洋OA信息化平台 - Internet Explorer
+11:26:40:  回复: 回复: DRB测试--3.14日 - 写邮件
+11:27:40:  回复: 回复: DRB测试--3.14日 - 写邮件   11:27:37 已保存
+11:28:40:  回复: 回复: DRB测试--3.14日 - 写邮件   11:28:37 已保存
+11:29:40:  回复: 回复: DRB测试--3.14日 - 写邮件   11:29:37 已保存
+11:28:40:  回复: 回复: DRB测试--3.14日 - 写邮件   11:28:37 已保存
+11:29:40:  回复: 回复: DRB测试--3.14日 - 写邮件   11:29:37 已保存
+11:30:35:  新北洋OA信息化平台 - Internet Explorer
+11:31:40:  D:\00-KE64\select\Applications\FlowControl\PageManage\PageManageIn.c (select) - Sublime Text (UNREGISTERED)
+11:32:30:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:34:40:  回复: 回复: DRB测试--3.14日
+11:36:20:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:39:45:  于斌1
+11:40:05:  锁屏状态
+13:14:26:  于斌1
+13:14:26:  于斌1
+13:18:52:  系统登录 - Internet Explorer
+13:18:57:  新北洋OA信息化平台 - Internet Explorer
+13:19:02:  考勤异常 - Internet Explorer
+13:19:07:  锁屏状态
+13:19:17:  新北洋OA信息化平台 - Internet Explorer
+13:19:37:  费用报销流程_新北洋 - Internet Explorer
+13:19:42:  员工自助 - Internet Explorer
+13:19:47:  新北洋OA信息化平台 - Internet Explorer
+13:20:12:  支款申请 - Internet Explorer
+13:20:17:  员工自助 - Internet Explorer
+13:20:22:  新北洋OA信息化平台 - Internet Explorer
+13:20:27:  1_需求申请人_支款申请 - Internet Explorer
+13:20:37:  新北洋OA信息化平台 - Internet Explorer
+13:20:42:  费用报销流程_新北洋 - Internet Explorer
+13:21:17:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103150914.log
+13:21:27:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:23:42:  3.xlsx  [兼容模式] - Excel
+13:25:17:  13 DRB开发文档
+13:25:22:  钞箱1T2集成测试方案
+13:25:32:  正在打开 - Excel
+13:25:37:  正在打开 - 5.22 钞箱托板功能测试V1.0 .xls
+13:25:42:  5.22 钞箱托板功能测试V1.0 .xls  [受保护的视图] - Excel
+13:25:52:  钞箱1T2集成测试方案
+13:25:57:  桌面整理
+13:26:07:  3.xlsx - Excel
+13:26:22:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+13:26:52:  王亮杰
+13:27:17:  计算器
+13:27:27:  王亮杰
+13:28:07:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+13:28:52:  3.xlsx - Excel
+13:28:57:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+13:28:07:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+13:28:52:  3.xlsx - Excel
+13:28:57:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+13:34:57:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:35:37:  于斌1
+13:35:47:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:35:57:  于斌1
+13:36:17:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:36:27:  于斌1
+13:36:37:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:36:42:  于斌1
+13:36:47:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:36:52:  于斌1
+13:37:27:  eSpace
+13:37:32:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:37:47:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+13:37:52:  于斌1
+13:38:02:  D:\00-06\DRB\Applications\Instruction\InstrReturn.c (DRB) - Sublime Text (UNREGISTERED)
+13:38:07:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+13:38:12:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+13:38:17:  于斌1
+13:38:27:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+13:38:47:  于斌1
+13:40:02:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+13:40:42:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:41:12:  计算器
+13:41:47:  于斌1
+13:42:02:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:45:17:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+13:45:27:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+13:45:52:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:45:57:  于斌1
+13:46:07:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:46:17:  于斌1
+13:46:22:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:46:52:  eSpace
+13:46:57:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:49:07:  于斌1
+13:49:17:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:50:52:  于斌1
+13:51:02:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:51:17:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103151350.log
+13:51:32:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+13:51:52:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+13:52:12:  D:\00-06\DRB\Middlewares\Plate\PlateCommon.h (DRB) - Sublime Text (UNREGISTERED)
+13:52:42:  D:\00-06\DRB\Middlewares\Plate\PlateCommon.h • (DRB) - Sublime Text (UNREGISTERED)
+13:53:12:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+13:53:22:  D:\00-06\DRB\Middlewares\Plate\PlateCommon.h • (DRB) - Sublime Text (UNREGISTERED)
+13:53:42:  D:\00-06\DRB\Middlewares\Plate\PlateCommon.h (DRB) - Sublime Text (UNREGISTERED)
+13:53:47:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+13:53:57:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c • (DRB) - Sublime Text (UNREGISTERED)
+13:54:22:  D:\00-06\DRB\Middlewares\Plate\PlateCommon.h (DRB) - Sublime Text (UNREGISTERED)
+13:54:27:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:54:42:  于斌1
+13:54:57:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+13:55:22:  LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103151355.log
+13:55:27:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+13:56:52:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+13:58:32:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+13:58:37:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+13:59:02:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+13:59:32:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+13:58:32:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+13:58:37:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+13:59:02:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+13:59:32:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+14:00:22:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:01:12:  于斌1
+14:02:12:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:02:37:  于斌1
+14:02:52:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:03:57:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:04:07:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+14:04:42:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:05:17:  Toolbox
+14:05:22:  跳转列表
+14:05:32:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:05:52:  KE06LOG.bat - 快捷方式 (2)
+14:05:57:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:06:07:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c • (DRB) - Sublime Text (UNREGISTERED)
+14:06:12:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:07:07:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103151405.log
+14:07:17:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103151406.log
+14:07:32:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:07:42:  「开始」菜单
+14:07:47:  计算器
+14:07:57:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:08:07:  无RCS04
+14:08:12:  接收
+14:08:27:  文件正在使用
+14:08:32:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:08:47:  对象
+14:08:52:  浏览
+14:09:02:  对象
+14:09:07:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:09:22:  LogExpert #1 - C:\Users\zhangkaifa\Pictures\RTT_SeggerLog_202103151406-上腔full到底部.log
+14:09:27:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:09:53:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:10:03:  KE06LOG.bat - 快捷方式 (2)
+14:10:08:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:10:28:  LogExpert
+14:10:33:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103151409.log
+14:10:43:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:10:53:  计算器
+14:11:03:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:11:18:  接收
+14:11:33:  文件正在使用
+14:11:38:  接收
+14:11:48:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:11:53:  浏览
+14:12:03:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:12:18:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:12:43:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103151412.log
+14:12:53:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:12:58:  计算器
+14:13:03:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:13:23:  计算器
+14:13:33:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:15:33:  00-06
+14:15:38:  SECSplashWnd
+14:15:43:  跳转列表
+14:15:48:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:17:38:  Project
+14:17:43:  Tools
+14:17:53:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T99 - 写邮件
+14:18:03:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:18:53:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:22:18:  fenxi
+14:22:23:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+14:22:28:  巴西-3.13
+14:22:33:  LOG
+14:22:38:  K64_BTCR-1100200600510420_20210313160418
+14:22:43:  Box_3__BTCR-1100200600510420_20210313160418.log - DRB2.tat* - TextAnalysisTool.NET
+14:22:48:  K64_BTCR-1100200600510420_20210313160418
+14:22:53:  K64_BTCR-1100200600510420_20210313160209
+14:23:03:  Box_3__BTCR-1100200600510420_20210313160209.log - DRB2.tat* - TextAnalysisTool.NET
+14:23:18:  K64_BTCR-1100200600510420_20210313160209
+14:23:23:  K64_BTCR-1100200600510420_20210313160243
+14:23:28:  Box_3__BTCR-1100200600510420_20210313160243.log - DRB2.tat* - TextAnalysisTool.NET
+14:23:38:  Box_3__BTCR-1100200600510420_20210313160315.log - DRB2.tat* - TextAnalysisTool.NET
+14:23:43:  K64_BTCR-1100200600510420_20210313160315
+14:23:48:  Box_3__BTCR-1100200600510420_20210313160350.log - DRB2.tat* - TextAnalysisTool.NET
+14:30:13:  K64_BTCR-1100200600510420_20210313160350
+14:30:18:  TextAnalysisTool.NET
+14:30:23:  K64状态机分析 - 写邮件
+14:30:28:  TextAnalysisTool.NET
+14:30:33:  00-06
+14:30:38:  Project
+14:30:43:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:31:08:  Tools
+14:31:13:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+14:31:18:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T99 - 写邮件
+14:33:28:  日志
+14:33:38:  K64_0000_20210315142608.log - DRB2.tat* - TextAnalysisTool.NET
+14:33:53:  于斌1
+14:34:03:  K64_0000_20210315142608.log - DRB2.tat* - TextAnalysisTool.NET
+14:34:18:  Edit Filter
+14:34:23:  K64_0000_20210315142608.log - DRB2.tat* - TextAnalysisTool.NET
+14:34:33:  Edit Filter
+14:34:38:  K64_0000_20210315142608.log - DRB2.tat* - TextAnalysisTool.NET
+14:34:58:  于斌1
+14:35:08:  Add Filter
+14:35:13:  于斌1
+14:35:18:  K64_0000_20210315142608.log - DRB2.tat* - TextAnalysisTool.NET
+14:35:33:  计算器
+14:35:43:  K64_0000_20210315142608.log - DRB2.tat* - TextAnalysisTool.NET
+14:36:18:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+14:36:33:  K64_0000_20210315142608.log - DRB2.tat* - TextAnalysisTool.NET
+14:36:48:  计算器
+14:36:58:  于斌1
+14:37:03:  K64_0000_20210315142608.log - DRB2.tat* - TextAnalysisTool.NET
+14:37:23:  于斌1
+14:37:38:  K64_0000_20210315142544.log - DRB2.tat* - TextAnalysisTool.NET
+14:37:48:  计算器
+14:38:03:  于斌1
+14:38:08:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:38:13:  于斌1
+14:38:23:  未命名 - 写邮件
+14:38:38:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:40:33:  V1.003
+14:40:38:  TCR调测工具 V3.36
+14:45:38:  于斌1
+14:45:48:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:49:38:  于斌1
+14:49:43:  TCR调测工具 V3.36
+14:50:33:  钞箱配置
+14:50:38:  TCR调测工具 V3.36
+14:51:53:  BTCRTestTool V3.36
+14:52:03:  20210315
+14:52:48:  Decode
+14:52:53:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:52:58:  Decode
+14:53:03:  LOG
+14:53:08:  Box_4__0000_20210315145055.log - DRB2.tat* - TextAnalysisTool.NET
+14:53:33:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:53:43:  Box_4__0000_20210315145055.log - DRB2.tat* - TextAnalysisTool.NET
+14:54:03:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:54:53:  TCR调测工具 V3.36
+14:59:28:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:59:33:  TCR调测工具 V3.36
+14:59:28:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+14:59:33:  TCR调测工具 V3.36
+15:01:48:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+15:01:53:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:02:13:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+15:03:23:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:03:28:  TCR调测工具 V3.36
+15:03:33:  20210315
+15:03:38:  Decode
+15:03:53:  LOG
+15:03:58:  Box_4__0000_20210315150034.log - DRB2.tat* - TextAnalysisTool.NET
+15:04:43:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:04:58:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+15:06:13:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c • (DRB) - Sublime Text (UNREGISTERED)
+15:06:23:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:06:28:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c • (DRB) - Sublime Text (UNREGISTERED)
+15:06:33:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:06:38:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c • (DRB) - Sublime Text (UNREGISTERED)
+15:06:53:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+15:06:58:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:07:13:  Box_4__0000_20210315150034.log - DRB2.tat* - TextAnalysisTool.NET
+15:07:28:  于斌1
+15:07:33:  Box_4__0000_20210315150034.log - DRB2.tat* - TextAnalysisTool.NET
+15:07:43:  于斌1
+15:08:38:  K64_0000_20210315141443.log - DRB2.tat* - TextAnalysisTool.NET
+15:08:58:  计算器
+15:09:13:  K64_0000_20210315141443.log - DRB2.tat* - TextAnalysisTool.NET
+15:10:08:  计算器
+15:10:13:  于斌1
+15:10:33:  K64_0000_20210315141630.log - DRB2.tat* - TextAnalysisTool.NET
+15:10:38:  计算器
+15:10:58:  于斌1
+15:11:03:  K64_0000_20210315141630.log - DRB2.tat* - TextAnalysisTool.NET
+15:11:23:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+15:11:58:  K64_0000_20210315141630.log - DRB2.tat* - TextAnalysisTool.NET
+15:13:08:  于斌1
+15:13:18:  K64_0000_20210315141630.log - DRB2.tat* - TextAnalysisTool.NET
+15:13:43:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+15:13:53:  K64_0000_20210315141630.log - DRB2.tat* - TextAnalysisTool.NET
+15:13:58:  TCR调测工具 V3.36
+15:14:58:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:14:58:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:15:13:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+15:16:03:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:16:43:  K64_0000_20210315150034
+15:16:48:  Box_4__0000_20210315150034.log - DRB2.tat* - TextAnalysisTool.NET
+15:18:13:  TCR调测工具 V3.36
+15:18:18:  0-工作 - 张开发 - 印象笔记
+15:18:23:  TCR调测工具 V3.36
+15:18:33:  Box_4__0000_20210315150034.log - DRB2.tat* - TextAnalysisTool.NET
+15:19:18:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:19:23:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+15:20:03:  TCR调测工具 V3.36
+15:20:43:  计算器
+15:20:48:  丛柏屹
+15:22:03:  计算器
+15:22:08:  TCR调测工具 V3.36
+15:22:53:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+15:22:58:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:23:03:  TCR调测工具 V3.36
+15:23:08:  丛柏屹
+15:23:13:  TCR调测工具 V3.36
+15:23:18:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+15:23:23:  TCR调测工具 V3.36
+15:24:59:  丛柏屹
+15:26:29:  TCR调测工具 V3.36
+15:28:14:  收取邮件 - 张开发
+15:29:49:  TCR调测工具 V3.36
+15:29:59:  fenxi
+15:30:04:  港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+15:28:14:  收取邮件 - 张开发
+15:29:49:  TCR调测工具 V3.36
+15:29:59:  fenxi
+15:30:04:  港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+15:30:09:  20210315
+15:30:14:  3、人民币10元、20元大额存款存入钞箱后，执行下腔室盘点流程，软件报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B4
+15:30:19:  港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+15:30:39:  20210315
+15:30:44:  港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+15:30:49:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:31:09:  Decode
+15:32:09:  K64_BTCR-1100200600510420_20210315151448
+15:32:19:  K64-_BTCR-1100200600510420_20210315151448.log - DRB2.tat* - TextAnalysisTool.NET
+15:32:24:  K64_BTCR-1100200600510420_20210315150439
+15:32:29:  K64-_BTCR-1100200600510420_20210315150439.log - DRB2.tat* - TextAnalysisTool.NET
+15:32:49:  LOG
+15:32:54:  K64_BTCR-1100200600510420_20210315135111
+15:32:59:  Decode
+15:33:04:  K64_BTCR-1100200600510420_20210315151448
+15:33:09:  K64-_BTCR-1100200600510420_20210315151448.log - DRB2.tat* - TextAnalysisTool.NET
+15:33:54:  LOG
+15:33:59:  K64_BTCR-1100200600510420_20210315150950
+15:34:04:  K64-_BTCR-1100200600510420_20210315150950.log - DRB2.tat* - TextAnalysisTool.NET
+15:34:09:  K64_BTCR-1100200600510420_20210315151448
+15:34:14:  K64-_BTCR-1100200600510420_20210315150950.log - DRB2.tat* - TextAnalysisTool.NET
+15:34:19:  锁屏状态
+15:34:24:  K64-_BTCR-1100200600510420_20210315151448.log - DRB2.tat* - TextAnalysisTool.NET
+15:34:44:  K64_BTCR-1100200600510420_20210315151448
+15:34:54:  LOG
+15:35:04:  K64_BTCR-1100200600510420_20210315151448
+15:35:09:  K64-_BTCR-1100200600510420_20210315151448.log - DRB2.tat* - TextAnalysisTool.NET
+15:36:34:  K64-_BTCR-1100200600510420_20210315150950.log - DRB2.tat* - TextAnalysisTool.NET
+15:36:49:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+15:36:54:  eSpace
+15:36:59:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:37:04:  K64-_BTCR-1100200600510420_20210315150950.log - DRB2.tat* - TextAnalysisTool.NET
+15:37:19:  LOG
+15:37:29:  K64_BTCR-1100200600510420_20210315150950
+15:37:34:  K64-_BTCR-1100200600510420_20210315150439.log - DRB2.tat* - TextAnalysisTool.NET
+15:37:49:  TCR调测工具 V3.36
+15:37:54:  Edit Filter
+15:37:59:  K64-_BTCR-1100200600510420_20210315150439.log - DRB2.tat* - TextAnalysisTool.NET
+15:38:34:  K64_BTCR-1100200600510420_20210315150439
+15:38:44:  K64-_BTCR-1100200600510420_20210315150439.log - DRB2.tat* - TextAnalysisTool.NET
+15:39:49:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:39:59:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+15:40:04:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:40:14:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+15:40:24:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:40:44:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+15:40:49:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:41:04:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+15:41:24:  K64-_BTCR-1100200600510420_20210315150439.log - DRB2.tat* - TextAnalysisTool.NET
+15:41:39:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+15:42:04:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:43:29:  TCR调测工具 V3.36
+15:44:54:  LOG
+15:44:59:  删除多个项目
+15:45:04:  可接收
+15:44:54:  LOG
+15:44:59:  删除多个项目
+15:45:04:  可接收
+15:45:09:  TCR调测工具 V3.36
+15:46:39:  20210315
+15:48:09:  Decode
+15:48:14:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:48:24:  K64_0000_20210315154505
+15:48:29:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+15:48:59:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+15:49:04:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+15:49:59:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+15:50:24:  TCR调测工具 V3.36
+15:50:54:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+15:51:19:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+15:51:39:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+15:53:39:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:53:44:  00-06
+15:53:49:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+15:53:54:  Initial.c - TortoiseMerge
+15:53:59:  Separate.c - TortoiseMerge
+15:54:09:  Update.c - TortoiseMerge
+15:54:14:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+15:54:24:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:56:04:  Tools
+15:56:14:  打开
+15:56:24:  TCR调测工具 V3.36
+15:59:59:  20210315
+15:59:59:  20210315
+16:00:14:  锁屏状态
+16:00:19:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+16:00:29:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:00:44:  20210315
+16:03:29:  TCR调测工具 V3.36
+16:03:44:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:04:04:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+16:04:09:  D:\00-06\DRB\Applications\MemoryConfig.h (DRB) - Sublime Text (UNREGISTERED)
+16:04:14:  D:\00-06\DRB\Applications\MemoryConfig.h • (DRB) - Sublime Text (UNREGISTERED)
+16:04:24:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+16:04:29:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:04:59:  μVision
+16:05:04:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:05:14:  锁屏状态
+16:05:19:  20210315
+16:05:24:  Decode
+16:06:34:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:06:39:  Decode
+16:06:44:  00-06
+16:06:49:  D:\00-06\DRB\Tools\CreateJK.exe
+16:06:54:  打开
+16:06:59:  TCR调测工具 V3.36
+16:07:44:  打开
+16:07:49:  TCR调测工具 V3.36
+16:08:04:  BTCRTestTool
+16:08:09:  TCR调测工具 V3.36
+16:10:54:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:11:09:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:16:25:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+16:16:30:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+16:16:45:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+16:17:00:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:17:10:  Tools
+16:17:40:  D:\00-06\DRB\Tools\CreateJK.exe
+16:17:45:  Tools
+16:17:55:  打开
+16:18:00:  BTCRTestTool
+16:18:05:  TCR调测工具 V3.36
+16:19:50:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+16:19:55:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+16:20:15:  TCR调测工具 V3.36
+16:20:20:  托板控制
+16:23:45:  TCR调测工具 V3.36
+16:23:55:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+16:24:10:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+16:24:30:  于斌1
+16:24:40:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+16:25:15:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+16:26:45:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+16:26:55:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+16:27:25:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.h (DRB) - Sublime Text (UNREGISTERED)
+16:27:30:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103151412.log
+16:27:35:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+16:27:40:  计算器
+16:27:45:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+16:28:30:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:28:35:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+16:29:10:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+16:28:30:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:28:35:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+16:29:10:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+16:30:15:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+16:30:25:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+16:30:50:  锁屏状态
+16:31:00:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+16:38:30:  Microsoft Excel - 兼容性检查器
+16:38:40:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+16:38:50:  eSpace
+16:39:00:  丛柏屹
+16:39:05:  eSpace
+16:40:30:  于斌1
+16:40:35:  eSpace
+16:40:40:  系统登录 - Internet Explorer
+16:40:45:  我的薪酬 - Internet Explorer
+16:40:55:  D:\00-06\DRB\Middlewares\Plate\UpperPlate.c (DRB) - Sublime Text (UNREGISTERED)
+16:41:00:  于斌1
+16:41:30:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+16:41:45:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:41:50:  BTCRTestTool 属性
+16:41:55:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+16:42:05:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:42:10:  DRB
+16:42:15:  D:\00-06\DRB - 提交 - TortoiseSVN
+16:42:20:  SystemConfig.h - TortoiseMerge
+16:42:25:  D:\00-06\DRB - 提交 - TortoiseSVN
+16:42:30:  UpperPlate.c - TortoiseMerge
+16:42:35:  SpiFlashDriver.c - TortoiseMerge
+16:42:40:  TortoiseMerge
+16:42:45:  Update.c - TortoiseMerge
+16:42:50:  D:\00-06\DRB - 提交 - TortoiseSVN
+16:42:55:  Initial.c - TortoiseMerge
+16:43:00:  D:\00-06\DRB - 提交 - TortoiseSVN
+16:43:30:  UpperPlate.c - TortoiseMerge
+16:43:35:  D:\00-06\DRB - 提交 - TortoiseSVN
+16:43:40:  MemoryConfig.h - TortoiseMerge
+16:43:45:  D:\00-06\DRB - 提交 - TortoiseSVN
+16:44:35:  于斌1
+16:44:55:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+16:45:00:  于斌1
+16:44:35:  于斌1
+16:44:55:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+16:45:00:  于斌1
+16:45:05:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+16:45:15:  于斌1
+16:45:55:  eSpace
+16:46:15:  于斌1
+16:46:45:  eSpace
+16:46:55:  于斌1
+16:49:50:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+16:49:55:  于斌1
+16:50:05:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+16:50:15:  本地磁盘 (F:)
+16:50:30:  于斌1
+16:51:10:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+16:51:55:  于斌1
+16:52:40:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+16:52:50:  于斌1
+16:53:00:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+16:53:25:  于斌1
+16:53:35:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+16:53:45:  于斌1
+16:54:55:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+16:55:20:  于斌1
+16:57:40:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+16:57:50:  于斌1
+16:58:35:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+16:59:10:  eSpace
+16:59:30:  于斌1
+16:58:35:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+16:59:10:  eSpace
+16:59:30:  于斌1
+17:00:20:  TD仓库与产品对应关系查询接口网页
+17:00:35:  于斌1
+17:00:45:  eSpace
+17:00:50:  于斌1
+17:01:20:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+17:01:25:  于斌1
+17:01:45:  eSpace
+17:01:50:  Box_4__0000_20210315154505.log - DRB2.tat* - TextAnalysisTool.NET
+17:02:05:  于斌1
+17:02:20:  本地磁盘 (F:)
+17:02:25:  共享文件
+17:02:30:  于斌1
+17:02:35:  TCR
+17:02:40:  固件集成测试方案
+17:02:45:  主控板集成测试方案-报告
+17:02:55:  6.2.2.6 钞箱测试1T2 (2).xls  [受保护的视图] - Excel
+17:03:00:  于斌1
+17:03:10:  6.2.2.6 钞箱测试1T2 (2).xls  [受保护的视图] - Excel
+17:03:30:  于斌1
+17:04:10:  6.2.2.6 钞箱测试1T2 (2).xls  [受保护的视图] - Excel
+17:04:15:  锁屏状态

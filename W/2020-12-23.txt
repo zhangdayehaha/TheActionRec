@@ -1,0 +1,516 @@
+07:57:00:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+07:57:10:  自动播放
+07:57:55:  锁屏状态
+07:58:00:  自动播放
+08:06:55:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+08:32:55:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:33:10:  新建文本文档.exe - 快捷方式
+08:33:20:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:33:35:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:33:40:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+08:33:45:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:34:06:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:41:12:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:41:27:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+08:41:32:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:49:37:  eSpace
+08:49:42:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:50:07:  Project
+08:50:12:  本地磁盘 (D:)
+08:50:17:  00-18
+08:50:22:  深圳出差
+08:50:27:  gfgd
+08:50:32:  E:\深圳出差\gfgd - 版本库浏览器 - TortoiseSVN
+08:50:47:  gfgd
+08:50:52:  本地磁盘 (D:)
+08:50:57:  KE18-UP
+08:51:02:  D:\CRS\KE18-UP - TortoiseMerge
+08:51:07:  KE18-ESS
+08:51:12:  D:\CRS\KE18-ESS - 日志信息 - TortoiseSVN
+08:51:17:  KE18-ESS
+08:51:32:  更新 完成！
+08:51:57:  KE18-ESS
+08:52:22:  本地磁盘 (D:)
+08:52:27:  CRS
+08:52:32:  KE18-ESS
+08:52:42:  深圳出差
+08:52:47:  gfgd
+08:52:52:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+08:52:57:  E:\深圳出差\gfgd - 版本库浏览器 - TortoiseSVN
+08:53:12:  TortoiseSVN
+08:53:17:  E:\深圳出差\gfgd - 版本库浏览器 - TortoiseSVN
+08:53:27:  http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K64_MA.../BR-6-Version1 - 日志信息 - TortoiseSVN
+08:53:32:  gfgd
+08:53:37:  本地磁盘 (D:)
+08:53:42:  KE18-ESS
+08:53:52:  D:\CRS\KE18-ESS - 复制（分支/标记） - TortoiseSVN
+08:53:57:   - 版本库浏览器 - TortoiseSVN
+08:54:17:  D:\CRS\KE18-ESS - 复制（分支/标记） - TortoiseSVN
+08:54:22:  Windows 安全
+08:54:27:  D:\CRS\KE18-ESS - 复制（分支/标记） - TortoiseSVN
+08:54:32:   - 版本库浏览器 - TortoiseSVN
+08:54:42:  D:\CRS\KE18-ESS - 复制（分支/标记） - TortoiseSVN
+08:54:57:  历史记录
+08:55:02:  http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K18_MAIN/trunk - 日志信息 - TortoiseSVN
+08:55:07:  D:\CRS\KE18-ESS - 复制（分支/标记） - TortoiseSVN
+08:55:12:  KE18-ESS
+08:55:17:  D:\CRS\KE18-ESS - 版本库浏览器 - TortoiseSVN
+08:55:27:  http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K64_MA.../BR-6-Version1 - 日志信息 - TortoiseSVN
+08:55:32:  D:\CRS\KE18-ESS - 版本库浏览器 - TortoiseSVN
+08:55:37:  D:\CRS\KE18-ESS - 复制（分支/标记） - TortoiseSVN
+08:55:42:  http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K18_MAIN/trunk - 日志信息 - TortoiseSVN
+08:55:47:  D:\CRS\KE18-ESS - 复制（分支/标记） - TortoiseSVN
+08:56:17:  D:\CRS\KE18-ESS - 复制 - TortoiseSVN
+08:56:22:  复制 完成！
+08:56:27:  D:\CRS\KE18-ESS - 切换至分支/标记 - TortoiseSVN
+08:56:32:  D:\CRS\KE18-ESS - 切换 - TortoiseSVN
+08:56:37:  切换 完成！
+08:56:42:  D:\CRS\KE18-ESS - 版本库浏览器 - TortoiseSVN
+08:56:52:  http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K18_MAIN/.../4-version1 - 日志信息 - TortoiseSVN
+08:57:02:  CRS
+08:57:07:  新北洋OA信息化平台 - Internet Explorer
+08:57:12:  员工自助 - Internet Explorer
+08:57:17:  Employee-facing registry content - Internet Explorer
+08:57:22:  绩效评价 - Internet Explorer
+08:57:32:  绩效申请 - Internet Explorer
+08:57:37:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+08:57:42:  Employee-facing registry content - Internet Explorer
+08:57:47:  绩效申请 - Internet Explorer
+08:57:52:  员工自助 - Internet Explorer
+08:57:57:  Oracle | PeopleSoft Enterprise 登录 - Internet Explorer
+08:58:02:  员工自助 - Internet Explorer
+08:58:07:  Employee-facing registry content - Internet Explorer
+08:58:12:  绩效申请 - Internet Explorer
+08:58:17:  新北洋OA信息化平台 - Internet Explorer
+08:58:27:  CRS
+08:58:32:  D:\CRS\666 - 工作副本 - TortoiseSVN
+08:58:37:  ImpellerCtrl.c - TortoiseMerge
+08:58:47:  CRS
+08:59:02:   - 版本库浏览器 - TortoiseSVN
+08:59:17:  trunk - 检出 - TortoiseSVN
+08:59:32:  检出 完成！
+08:59:52:  锁屏状态
+08:59:57:  Project
+09:00:02:  选择文件夹
+08:58:07:  Employee-facing registry content - Internet Explorer
+08:58:12:  绩效申请 - Internet Explorer
+08:58:17:  新北洋OA信息化平台 - Internet Explorer
+08:58:27:  CRS
+08:58:32:  D:\CRS\666 - 工作副本 - TortoiseSVN
+08:58:37:  ImpellerCtrl.c - TortoiseMerge
+08:58:47:  CRS
+08:59:02:   - 版本库浏览器 - TortoiseSVN
+08:59:17:  trunk - 检出 - TortoiseSVN
+08:59:32:  检出 完成！
+08:59:52:  锁屏状态
+08:59:57:  Project
+09:00:02:  选择文件夹
+09:00:12:  untitled (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:01:17:  Re: 回复: 巴西版机芯测试架发货样机测试问题反馈
+09:01:32:  Foxmail
+09:01:42:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:02:12:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:04:27:  于斌1
+09:04:47:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:05:38:  锁屏状态
+09:05:43:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:08:23:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:08:28:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:09:03:  于斌1
+09:09:08:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:09:13:  D:\CRS\KE18-VERSION1\Applications\PlateCtrl\PlateCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:09:53:  D:\CRS\KE18-VERSION1\Applications\CashManage\CashManage.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:09:58:  D:\CRS\KE18-VERSION1\Applications\PlateCtrl\PlateCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:17:48:  Project
+09:17:53:  CRS
+09:18:18:  0-工作 - 张开发 - 印象笔记
+09:18:23:  印象笔记
+09:19:03:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:19:08:  eSpace
+09:19:18:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:19:28:  印象笔记
+09:20:28:  绩效考核 - 印象笔记
+09:21:18:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:21:38:  绩效考核 - 印象笔记
+09:21:53:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:22:23:  绩效考核 - 印象笔记
+09:28:03:  0-工作 - 张开发 - 印象笔记
+09:29:08:  DRB传感器.txt - 记事本
+09:29:18:  桌面整理
+09:29:28:  0-工作 - 张开发 - 印象笔记
+09:29:08:  DRB传感器.txt - 记事本
+09:29:18:  桌面整理
+09:29:28:  0-工作 - 张开发 - 印象笔记
+09:40:28:  绩效考核 - 印象笔记
+09:40:38:  0-工作 - 张开发 - 印象笔记
+09:56:58:  D:\CRS\KE18-VERSION1\Applications\PlateCtrl\PlateCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:58:03:  0-工作 - 张开发 - 印象笔记
+09:58:23:  D:\CRS\KE18-VERSION1\Applications\PlateCtrl\PlateCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:58:23:  D:\CRS\KE18-VERSION1\Applications\PlateCtrl\PlateCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:00:23:  0-工作 - 张开发 - 印象笔记
+10:01:03:  D:\CRS\KE18-VERSION1\Applications\PlateCtrl\PlateCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:01:48:  0-工作 - 张开发 - 印象笔记
+10:02:13:  D:\CRS\KE18-VERSION1\Applications\PlateCtrl\PlateCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:03:28:  绩效考核 - 印象笔记
+10:04:39:  D:\CRS\KE18-VERSION1\Applications\PlateCtrl\PlateCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:05:29:  Everything
+10:05:34:  s - Everything
+10:05:39:  双月 - Everything
+10:05:44:  正在打开 - Excel
+10:05:49:  3月-四月 员工能力提升双月测评计划表--固件一室--张开发 .xlsx - Excel
+10:05:59:  双月 - Everything
+10:06:04:  6月-7月 员工能力提升双月测评计划表--固件一室--张开发.xlsx - Excel
+10:06:19:  双月 - Everything
+10:06:54:  绩效考核 - 印象笔记
+10:09:29:  双月 - Everything
+10:09:34:  0-工作 - 张开发 - 印象笔记
+10:11:14:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrReturn.c (10) - Sublime Text (UNREGISTERED)
+10:11:19:  锁屏状态
+10:11:24:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrReturn.c (10) - Sublime Text (UNREGISTERED)
+10:12:14:  本地磁盘 (D:)
+10:12:19:  绩效考核 - 印象笔记
+10:12:24:  本地磁盘 (D:)
+10:13:04:  绩效考核 - 印象笔记
+10:21:19:  本地磁盘 (D:)
+10:21:24:  0-工作 - 张开发 - 印象笔记
+10:21:34:  绩效考核 - 印象笔记
+10:21:39:  0-工作 - 张开发 - 印象笔记
+10:22:04:  本地磁盘 (D:)
+10:22:09:  eSpace
+10:22:14:  于斌1
+10:22:34:  D:\CRS\KE18-VERSION1\Applications\PlateCtrl\PlateCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:22:44:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:22:49:  于斌1
+10:22:59:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:23:39:  于斌1
+10:23:54:  0-工作 - 张开发 - 印象笔记
+10:24:49:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:25:04:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:25:29:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:34:04:  D:\CRS\KE18-VERSION1\Applications\PPCtrl\PPCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:34:14:  eSpace
+10:34:19:  于斌1
+10:34:29:  eSpace
+10:34:49:  D:\CRS\KE18-VERSION1\Applications\PPCtrl\PPCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:34:54:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:37:49:  0-工作 - 张开发 - 印象笔记
+10:39:39:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:41:09:  0-工作 - 张开发 - 印象笔记
+10:41:39:  桌面整理
+10:41:49:  TD回复格式.docx [兼容模式] - Word
+10:41:59:  新建Microsoft Word 文档.docx - Word
+10:47:44:  0-工作 - 张开发 - 印象笔记
+10:47:49:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:47:59:  0-工作 - 张开发 - 印象笔记
+10:48:04:  桌面整理
+10:48:09:  0-工作 - 张开发 - 印象笔记
+10:48:19:  张开发-人员统计.xlsx - Excel
+10:48:24:  0-工作 - 张开发 - 印象笔记
+10:48:54:  新建Microsoft Word 文档.docx - Word
+10:48:59:  0-工作 - 张开发 - 印象笔记
+10:50:29:  新建Microsoft Word 文档.docx - Word
+10:52:39:  修改样式
+10:52:49:  新建Microsoft Word 文档.docx - Word
+10:53:04:  0-工作 - 张开发 - 印象笔记
+10:53:09:  开始
+10:53:14:  新建Microsoft Word 文档.docx - Word
+10:53:24:  0-工作 - 张开发 - 印象笔记
+10:53:54:  新建Microsoft Word 文档.docx - Word
+10:53:59:  0-工作 - 张开发 - 印象笔记
+10:54:19:  Evernote
+10:54:24:  绩效考核 - 印象笔记
+10:55:04:  公开分享
+10:55:24:  新建Microsoft Word 文档.docx - Word
+10:56:14:  绩效考核 - 印象笔记
+10:56:19:  新建Microsoft Word 文档.docx - Word
+10:57:20:  绩效考核 - 印象笔记
+10:57:25:  新建Microsoft Word 文档.docx - Word
+10:57:50:  公开分享
+10:58:00:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:59:40:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+10:59:40:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+11:09:30:  Shell模块发布
+11:11:15:  于斌1
+11:11:30:  Shell模块发布
+11:11:35:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+11:12:00:  于斌1
+11:12:25:  0-工作 - 张开发 - 印象笔记
+11:12:35:  于斌1
+11:13:10:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+11:17:05:  0-工作 - 张开发 - 印象笔记
+11:17:45:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+11:19:45:  0-工作 - 张开发 - 印象笔记
+11:19:55:  TD回复格式.docx [兼容模式] - Word
+11:20:00:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+11:23:20:  eSpace
+11:23:40:  锁屏状态
+11:23:45:  系统登录 - Internet Explorer
+11:23:50:  员工自助 - Internet Explorer
+11:23:55:  Employee-facing registry content - Internet Explorer
+11:24:00:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+11:29:55:  桌面整理
+11:29:55:  桌面整理
+11:30:05:  张开发.docx - Word
+11:30:15:  未命名 - 写邮件
+11:30:20:  张开发 - 写邮件
+11:30:30:  张开发.docx - Word
+11:30:40:  张开发 - 写邮件
+11:31:15:  张开发 - 写邮件   11:31:15 已保存
+11:33:35:  确认
+11:33:40:  张开发.docx - Word
+11:33:45:  发送邮件
+11:33:50:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+11:34:45:  0-工作 - 张开发 - 印象笔记
+11:34:50:  2-财务分配 - 张开发 - 印象笔记
+11:35:00:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+11:35:15:  2-财务分配 - 张开发 - 印象笔记
+11:35:25:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+11:39:55:  2-财务分配 - 张开发 - 印象笔记
+11:40:00:  0-工作 - 张开发 - 印象笔记
+11:40:35:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+11:40:40:  锁屏状态
+13:11:07:  转发: 转发：12月15日出差工作详情
+13:11:22:  fenxi
+13:14:17:  爆仓问题(1)
+13:14:22:  5元1元各300张随机混合，执行大额存款报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B
+13:14:27:  20201215
+13:14:32:  Decode
+13:14:37:  K64_0000_20201215153612.log - DRB.tat* - TextAnalysisTool.NET
+13:14:47:  Decode
+13:14:52:  K64_0000_20201215153612.log - DRB.tat* - TextAnalysisTool.NET
+13:14:57:  Box_3__0000_20201215153612.log - DRB.tat* - TextAnalysisTool.NET
+13:15:02:  K64_0000_20201215153612
+13:14:17:  爆仓问题(1)
+13:14:22:  5元1元各300张随机混合，执行大额存款报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B
+13:14:27:  20201215
+13:14:32:  Decode
+13:14:37:  K64_0000_20201215153612.log - DRB.tat* - TextAnalysisTool.NET
+13:14:47:  Decode
+13:14:52:  K64_0000_20201215153612.log - DRB.tat* - TextAnalysisTool.NET
+13:14:57:  Box_3__0000_20201215153612.log - DRB.tat* - TextAnalysisTool.NET
+13:15:02:  K64_0000_20201215153612
+13:15:07:  Box_3__0000_20201215153340.log - DRB.tat* - TextAnalysisTool.NET
+13:18:17:  K64_0000_20201215153340
+13:18:22:  LOG
+13:18:27:  锁屏状态
+13:18:37:  Box_3__0000_20201215153247.log - DRB.tat* - TextAnalysisTool.NET
+13:18:52:  K64_0000_20201215153247
+13:18:57:  K64_0000_20201215153036
+13:19:02:  LOG
+13:19:07:  Box_3__0000_20201215153121.log - DRB.tat* - TextAnalysisTool.NET
+13:20:32:  计算器
+13:20:37:  K64_0000_20201215153121
+13:20:42:  Box_3__0000_20201215153121.log - DRB.tat* - TextAnalysisTool.NET
+13:22:42:  K64_0000_20201215153247
+13:22:47:  Box_3__0000_20201215153247.log - DRB.tat* - TextAnalysisTool.NET
+13:22:52:  K64_0000_20201215153340
+13:22:57:  Box_3__0000_20201215153340.log - DRB.tat* - TextAnalysisTool.NET
+13:24:07:  eSpace
+13:24:17:  Box_3__0000_20201215153340.log - DRB.tat* - TextAnalysisTool.NET
+13:24:52:  K64_0000_20201215153121
+13:24:57:  Box_3__0000_20201215153121.log - DRB.tat* - TextAnalysisTool.NET
+13:28:12:  2-财务分配 - 张开发 - 印象笔记
+13:28:22:  0-工作 - 张开发 - 印象笔记
+13:28:27:  Box_3__0000_20201215153121.log - DRB.tat* - TextAnalysisTool.NET
+13:29:22:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+13:29:57:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+13:30:02:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+13:28:12:  2-财务分配 - 张开发 - 印象笔记
+13:28:22:  0-工作 - 张开发 - 印象笔记
+13:28:27:  Box_3__0000_20201215153121.log - DRB.tat* - TextAnalysisTool.NET
+13:29:22:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+13:29:57:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+13:30:02:  D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+13:30:12:  K64_0000_20201215153121
+13:30:17:  KE18-VERSION1
+13:30:22:  μVision
+13:30:27:  C:\Program Files\TortoiseSVN\bin\SubWCRev.exe
+13:30:32:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+13:31:37:  TD回复格式.docx [兼容模式] - Word
+13:31:42:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+13:31:57:  Box_3__0000_20201215153121.log - DRB.tat* - TextAnalysisTool.NET
+13:33:32:  eSpace
+13:34:07:  20201126
+13:34:12:  fenxi
+13:34:42:  5元1元各300张随机混合，执行大额存款报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B
+13:34:47:  20201215
+13:34:57:  K64_0000_20201215153612
+13:35:02:  Box_3__0000_20201215153340.log - DRB.tat* - TextAnalysisTool.NET
+13:36:07:  K64_0000_20201215153340
+13:36:12:  K64-_0000_20201215153340.log - DRB.tat* - TextAnalysisTool.NET
+13:37:42:  K64-_0000_20201215153247.log - DRB.tat* - TextAnalysisTool.NET
+13:37:47:  K64_0000_20201215153247
+13:37:52:  K64_0000_20201215153121
+13:38:02:  K64-_0000_20201215153121.log - DRB.tat* - TextAnalysisTool.NET
+13:42:38:  Add Filter
+13:42:48:  K64-_0000_20201215153121.log - DRB.tat* - TextAnalysisTool.NET
+13:45:43:  Add Filter
+13:45:53:  K64-_0000_20201215153121.log - DRB.tat* - TextAnalysisTool.NET
+13:46:13:  Edit Filter
+13:46:18:  K64-_0000_20201215153121.log - DRB.tat* - TextAnalysisTool.NET
+13:47:13:  Add Filter
+13:47:18:  Edit Filter
+13:47:23:  K64-_0000_20201215153121.log - DRB.tat* - TextAnalysisTool.NET
+13:47:38:  K64_0000_20201215153121
+13:47:43:  5元1元各300张随机混合，执行大额存款报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B
+13:47:48:  LOG
+13:56:18:  工作亮点
+13:56:23:  CRS
+13:56:38:  正在创建压缩文件 KE18-VERSION1.rar
+13:56:53:  CRS
+13:56:58:  运行
+13:57:03:  KE18-VERSION1
+13:57:08:  新建文本文档.exe - 快捷方式
+13:57:13:  D:\CRS\KE18-VERSION1 - 版本库浏览器 - TortoiseSVN
+13:57:28:  KE18-VERSION1
+13:57:33:  D:\CRS\KE18-VERSION1 - 版本库浏览器 - TortoiseSVN
+13:57:58:  http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K18_MAIN/.../4-version1 - 日志信息 - TortoiseSVN
+13:58:03:  D:\CRS\KE18-VERSION1 - 版本库浏览器 - TortoiseSVN
+13:58:13:  http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K18_MAIN/trunk - 日志信息 - TortoiseSVN
+13:58:28:  D:\CRS\KE18-VERSION1 - 版本库浏览器 - TortoiseSVN
+13:58:33:  KE18-ESS
+13:58:38:  D:\CRS\KE18-ESS - 日志信息 - TortoiseSVN
+13:58:43:  D:\CRS\KE18-ESS - 统计 - TortoiseSVN
+13:58:48:  KE18-ESS
+13:58:53:  D:\CRS\KE18-ESS - 日志信息 - TortoiseSVN
+13:58:58:  CRS
+13:59:03:  KE18-VERSION1
+13:59:08:  192.168.28.2
+13:59:13:  CRS
+13:59:18:  正在复制 1 个项目(44.0 MB)
+13:59:23:  资料共享
+13:58:13:  http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K18_MAIN/trunk - 日志信息 - TortoiseSVN
+13:58:28:  D:\CRS\KE18-VERSION1 - 版本库浏览器 - TortoiseSVN
+13:58:33:  KE18-ESS
+13:58:38:  D:\CRS\KE18-ESS - 日志信息 - TortoiseSVN
+13:58:43:  D:\CRS\KE18-ESS - 统计 - TortoiseSVN
+13:58:48:  KE18-ESS
+13:58:53:  D:\CRS\KE18-ESS - 日志信息 - TortoiseSVN
+13:58:58:  CRS
+13:59:03:  KE18-VERSION1
+13:59:08:  192.168.28.2
+13:59:13:  CRS
+13:59:18:  正在复制 1 个项目(44.0 MB)
+13:59:23:  资料共享
+16:35:46:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:35:51:  0-工作 - 张开发 - 印象笔记
+16:36:36:  所有笔记本 - 张开发 - 印象笔记
+16:37:41:  0-工作 - 张开发 - 印象笔记
+16:38:01:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:38:16:  PeopleSoft 会话已过期 - Internet Explorer
+16:38:21:  Oracle | PeopleSoft Enterprise 登录 - Internet Explorer
+16:38:41:  Employee-facing registry content - Internet Explorer
+16:38:46:  绩效申请 - Internet Explorer
+16:39:06:  绩效评价 - Internet Explorer
+16:39:21:  绩效申请 - Internet Explorer
+16:39:31:  0-工作 - 张开发 - 印象笔记
+16:39:46:  绩效申请 - Internet Explorer
+16:39:56:  绩效评价 - Internet Explorer
+16:40:01:  绩效申请 - Internet Explorer
+16:40:06:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+16:40:51:  Employee-facing registry content - Internet Explorer
+16:40:56:  绩效评价 - Internet Explorer
+16:41:01:  绩效申请 - Internet Explorer
+16:41:26:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+16:41:46:  新北洋OA信息化平台 - Internet Explorer
+16:41:51:  Employee-facing registry content - Internet Explorer
+16:41:56:  绩效申请 - Internet Explorer
+16:52:21:  「开始」菜单
+16:52:26:  绩效申请 - Internet Explorer
+16:52:31:  新北洋OA信息化平台 - Internet Explorer
+16:55:26:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+16:56:01:  μVision
+16:56:06:  Cortex JLink/JTrace Target Driver Setup
+16:56:11:  Options for Target 'CashSlot'
+16:56:16:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+16:56:26:  CRS调测工具（研发版）V1.0.2.1
+16:56:31:  发送指令到K18
+16:56:41:  CRS调测工具（研发版）V1.0.2.1
+16:56:46:  发送指令到K18
+16:56:51:  CRS调测工具（研发版）V1.0.2.1
+16:57:01:  发送指令到K18
+16:57:11:  CRS调测工具（研发版）V1.0.2.1
+16:57:16:  发送指令到K18
+16:57:21:  CRS调测工具（研发版）V1.0.2.1
+16:57:26:  CashRecyclerTool 属性
+16:57:31:  TCRControlCmdDLL
+16:57:36:  Decode
+16:57:41:  CS_0000_20201221152314.log - DRB.tat* - TextAnalysisTool.NET
+16:58:21:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+16:59:16:  发送指令到K18
+16:59:26:  CRS调测工具（研发版）V1.0.2.1
+16:59:46:  发送指令到K18
+16:59:51:  CRS调测工具（研发版）V1.0.2.1
+16:58:21:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+16:59:16:  发送指令到K18
+16:59:26:  CRS调测工具（研发版）V1.0.2.1
+16:59:46:  发送指令到K18
+16:59:51:  CRS调测工具（研发版）V1.0.2.1
+17:00:06:  20201221
+17:00:11:  CS_0000_20201221152314.log - DRB.tat* - TextAnalysisTool.NET
+17:00:36:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:01:06:  发送指令到K18
+17:01:21:  CRS调测工具（研发版）V1.0.2.1
+17:01:26:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:02:01:  发送指令到K18
+17:02:06:  CRS调测工具（研发版）V1.0.2.1
+17:02:11:  发送指令到K18
+17:02:16:  CRS调测工具（研发版）V1.0.2.1
+17:02:21:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:02:41:  CRS调测工具（研发版）V1.0.2.1
+17:03:16:  发送指令到K18
+17:03:21:  锁屏状态
+17:03:26:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+17:03:31:  CS_0000_20201221152314.log - DRB.tat* - TextAnalysisTool.NET
+17:03:41:  CRS调测工具（研发版）V1.0.2.1
+17:03:46:  Decode
+17:03:51:  CS_0000_20201221152314.log - DRB.tat* - TextAnalysisTool.NET
+17:04:01:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:04:11:  CRS调测工具（研发版）V1.0.2.1
+17:04:16:  Call Stack + Locals
+17:04:21:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:04:46:  发送指令到K18
+17:04:51:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:05:31:  发送指令到K18
+17:05:36:  CRS调测工具（研发版）V1.0.2.1
+17:05:41:  发送指令到K18
+17:05:46:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:33:31:  发送指令到K18
+17:33:46:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:33:56:  发送指令到K18
+17:34:01:  CRS调测工具（研发版）V1.0.2.1
+17:34:06:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:34:41:  自动播放
+17:34:46:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:35:01:  发送指令到K18
+17:35:06:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:35:11:  跳转列表
+17:35:16:  CRSTesttool
+17:35:21:  20201221
+17:35:31:  Decode
+17:35:36:  CS_0000_20201221152314.log - DRB.tat* - TextAnalysisTool.NET
+17:36:06:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:36:26:  CS_0000_20201221152314.log - DRB.tat* - TextAnalysisTool.NET
+17:36:31:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:37:01:  发送指令到K18
+17:37:21:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:37:36:  发送指令到K18
+17:37:41:  CRS调测工具（研发版）V1.0.2.1
+17:37:46:  发送指令到K18
+17:37:56:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:39:06:  发送指令到K18
+17:39:11:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:48:31:  发送指令到K18
+17:48:41:  CRS调测工具（研发版）V1.0.2.1
+17:48:46:  发送指令到K18
+17:48:56:  CRS调测工具（研发版）V1.0.2.1
+17:49:06:  发送指令到K18
+17:49:32:  CRS调测工具（研发版）V1.0.2.1
+17:50:02:  发送指令到K18
+17:50:17:  CRS调测工具（研发版）V1.0.2.1
+17:50:57:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:51:32:  发送指令到K18
+17:51:47:  CRS调测工具（研发版）V1.0.2.1
+17:51:57:  发送指令到K18
+17:52:02:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+17:52:17:  锁屏状态

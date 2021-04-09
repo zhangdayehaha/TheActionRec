@@ -1,0 +1,471 @@
+08:08:19:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:08:24:  新北洋OA信息化平台 - Internet Explorer
+08:08:34:  锁屏状态
+08:08:39:  【培训】明天上午9:10培训会
+08:09:09:  新北洋OA信息化平台 - Internet Explorer
+08:09:39:  费用报销流程_新北洋 - Internet Explorer
+08:15:34:  新北洋OA信息化平台 - Internet Explorer
+08:16:14:  费用报销流程_新北洋 - Internet Explorer
+08:16:34:  Subversion
+08:16:39:  invoice4b4163bc2252af9b9051.pdf - Adobe Reader
+08:17:04:  eSpace
+08:17:19:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.c (gfgd) - Sublime Text (UNREGISTERED)
+08:19:19:  选择文件夹
+08:19:29:  untitled (trunk) - Sublime Text (UNREGISTERED)
+08:19:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:27:24:  荆文波
+08:27:44:  本地磁盘 (D:)
+08:27:49:  港币10元居左混合面向大额取款报钞箱口 500ms纸币未进入 返回码0X075E0900
+08:28:04:  大额存款第3张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B6
+08:28:09:  Decode
+08:28:14:  K64_BTCR-1100200600510420_20210113095124
+08:28:19:  K64-_BTCR-1100200600510420_20210113095124.log - DRB.tat* - TextAnalysisTool.NET
+08:28:24:  荆文波
+08:28:29:  K64-_BTCR-1100200600510420_20210113095124.log - DRB.tat* - TextAnalysisTool.NET
+08:28:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:28:44:  锁屏状态
+08:28:49:  本地磁盘 (D:)
+08:28:54:  Project
+08:28:59:  锁屏状态
+08:29:04:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision (未响应)
+08:29:09:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:28:09:  Decode
+08:28:14:  K64_BTCR-1100200600510420_20210113095124
+08:28:19:  K64-_BTCR-1100200600510420_20210113095124.log - DRB.tat* - TextAnalysisTool.NET
+08:28:24:  荆文波
+08:28:29:  K64-_BTCR-1100200600510420_20210113095124.log - DRB.tat* - TextAnalysisTool.NET
+08:28:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:28:44:  锁屏状态
+08:28:49:  本地磁盘 (D:)
+08:28:54:  Project
+08:28:59:  锁屏状态
+08:29:04:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision (未响应)
+08:29:09:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:32:09:  KE06LOG.bat - 快捷方式 (2)
+08:32:14:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:32:19:  LogExpert - D:\fenxi\6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。\Decode\LOG\K64_BTCR-1100200700510494_20201228152024\K64-_BTCR-1100200700510494_20201228152024.log
+08:32:39:  LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101140832.log
+08:32:54:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:33:29:  LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101140832.log
+08:34:04:  记事本
+08:34:09:  荆文波
+08:34:24:  ErrCode_list_txt_flg.txt - 记事本
+08:34:29:  荆文波
+08:34:44:  Decode
+08:34:49:  荆文波
+08:34:54:  Project
+08:35:24:  荆文波
+08:35:44:  删除多个项目
+08:35:49:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+08:35:54:  大额存款第3张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B6
+08:35:59:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:36:04:  K64_0000_20210113141857
+08:36:09:  Box_2__0000_20210113141857.log - DRB.tat* - TextAnalysisTool.NET
+08:36:19:  K64_BTCR-1100200600510420_20210113095124
+08:36:24:  K64-_BTCR-1100200600510420_20210113095124.log - DRB.tat* - TextAnalysisTool.NET
+08:36:39:  Box_2__0000_20210113141857.log - DRB.tat* - TextAnalysisTool.NET
+08:36:54:  荆文波
+08:36:59:  K64_0000_20210113141857
+08:37:09:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:40:49:  唐燕
+08:41:09:  新北洋OA信息化平台 - Internet Explorer
+08:41:19:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:41:54:  Toolbox
+08:41:59:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:42:49:  LogExpert #2 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101140842.log
+08:43:49:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:43:59:  LogExpert #2 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101140842.log
+08:44:04:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:44:24:  LogExpert #2 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101140842.log
+08:44:34:  RTT_SeggerLog_202101140842.log - DRB.tat* - TextAnalysisTool.NET
+08:44:24:  LogExpert #2 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101140842.log
+08:44:34:  RTT_SeggerLog_202101140842.log - DRB.tat* - TextAnalysisTool.NET
+08:46:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+08:46:54:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:46:59:  RTT_SeggerLog_202101140842.log - DRB.tat* - TextAnalysisTool.NET
+08:48:29:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:48:44:  RTT_SeggerLog_202101140842.log - DRB.tat* - TextAnalysisTool.NET
+08:50:04:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+08:50:09:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:50:59:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:51:19:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:51:34:  D:\00-06\1T1-Stop-Length\trunk\FwLib\Config\DebugConfig.h (trunk) - Sublime Text (UNREGISTERED)
+08:51:39:  RTT_SeggerLog_202101140842.log - DRB.tat* - TextAnalysisTool.NET
+08:51:49:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:52:04:  RTT_SeggerLog_202101140842.log - DRB.tat* - TextAnalysisTool.NET
+08:52:24:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:52:29:  RTT_SeggerLog_202101140842.log - DRB.tat* - TextAnalysisTool.NET
+08:52:34:  Add Filter
+08:52:44:  RTT_SeggerLog_202101140842.log - DRB.tat* - TextAnalysisTool.NET
+08:52:49:  Add Filter
+08:53:04:  荆文波
+08:53:09:  RTT_SeggerLog_202101140842.log - DRB.tat* - TextAnalysisTool.NET
+08:53:49:  新北洋OA信息化平台 - Internet Explorer
+08:53:59:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:54:04:  跳转列表
+08:55:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:55:59:  RTT_SeggerLog_202101140842.log - DRB.tat* - TextAnalysisTool.NET
+08:56:29:  计算器
+08:56:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:56:44:  D:\00-06\1T1-Stop-Length\trunk\Drivers\BldcDriver\BldcDriver.h (trunk) - Sublime Text (UNREGISTERED)
+08:56:49:  计算器
+08:56:59:  RTT_SeggerLog_202101140842.log - DRB.tat* - TextAnalysisTool.NET
+08:59:09:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:59:09:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+09:00:34:  RTT_SeggerLog_202101140900.log - DRB.tat* - TextAnalysisTool.NET
+09:01:59:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.h (trunk) - Sublime Text (UNREGISTERED)
+09:02:09:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:02:19:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:02:39:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+09:03:04:  RTT_SeggerLog_202101140900.log - DRB.tat* - TextAnalysisTool.NET
+09:03:34:  Add Filter
+09:03:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:03:54:  RTT_SeggerLog_202101140900.log - DRB.tat* - TextAnalysisTool.NET
+13:18:11:  新北洋OA信息化平台 - Internet Explorer
+13:18:16:  http://oa.byintra.com/iBPM/BPM/DecryptUlt.aspx?Mode=Apply&TASKID=0113087c4db916a8d758ae30bb7693 - Internet Explorer
+13:18:21:  费用报销流程_新北洋 - Internet Explorer
+13:18:26:  RTT_SeggerLog_202101140900.log - DRB.tat* - TextAnalysisTool.NET
+13:20:21:  新北洋OA信息化平台 - Internet Explorer
+13:20:26:  唐燕
+13:20:31:  RTT_SeggerLog_202101140900.log - DRB.tat* - TextAnalysisTool.NET
+13:22:06:  LogExpert #3 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101140900.log
+13:22:21:  RTT_SeggerLog_202101140900.log - DRB.tat* - TextAnalysisTool.NET
+13:24:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:24:51:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+13:27:16:  RTT_SeggerLog_202101140900.log - DRB.tat* - TextAnalysisTool.NET
+13:40:16:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+13:40:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+13:40:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+13:41:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:41:56:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+13:43:56:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+13:45:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.h (trunk) - Sublime Text (UNREGISTERED)
+13:45:16:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+13:46:51:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+13:47:16:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+13:47:36:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+13:51:06:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+13:51:31:  LogExpert #3 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101140900.log
+13:53:06:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+13:53:16:  LogExpert #3 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101140900.log
+13:53:56:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+13:54:26:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+13:57:36:  D:\00-06\1T1-Stop-Length\trunk\FwLib\StdSnbc\StdMacro.h (trunk) - Sublime Text (UNREGISTERED)
+13:58:01:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:00:16:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:00:26:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:00:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:02:56:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:03:01:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:03:21:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:03:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:08:41:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:09:36:  KE06LOG.bat - 快捷方式 (2)
+14:09:41:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:09:51:  RTT_SeggerLog_202101141409.log - DRB.tat* - TextAnalysisTool.NET
+14:10:51:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:12:06:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.h (trunk) - Sublime Text (UNREGISTERED)
+14:12:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:19:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:19:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:19:56:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:20:06:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.h (trunk) - Sublime Text (UNREGISTERED)
+14:20:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.h • (trunk) - Sublime Text (UNREGISTERED)
+14:20:41:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:22:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:23:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:23:36:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:23:56:  μVision
+14:24:01:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:24:51:  RTT_SeggerLog_202101141409.log - DRB.tat* - TextAnalysisTool.NET
+14:24:56:  RTT_SeggerLog_202101141424.log - DRB.tat* - TextAnalysisTool.NET
+14:25:41:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:26:11:  RTT_SeggerLog_202101141424.log - DRB.tat* - TextAnalysisTool.NET
+14:26:41:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:01:  RTT_SeggerLog_202101141424.log - DRB.tat* - TextAnalysisTool.NET
+14:27:06:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:27:21:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:27:36:  RTT_SeggerLog_202101141424.log - DRB.tat* - TextAnalysisTool.NET
+14:27:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:21:  RTT_SeggerLog_202101141424.log - DRB.tat* - TextAnalysisTool.NET
+14:28:36:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:21:  RTT_SeggerLog_202101141424.log - DRB.tat* - TextAnalysisTool.NET
+14:29:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:28:21:  RTT_SeggerLog_202101141424.log - DRB.tat* - TextAnalysisTool.NET
+14:28:36:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:21:  RTT_SeggerLog_202101141424.log - DRB.tat* - TextAnalysisTool.NET
+14:29:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:30:21:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:30:26:  μVision
+14:30:31:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:31:01:  KE06LOG.bat - 快捷方式 (2)
+14:31:06:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:31:11:  锁屏状态
+14:31:16:  RTT_SeggerLog_202101141430.log - DRB.tat* - TextAnalysisTool.NET
+14:32:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:34:41:  RTT_SeggerLog_202101141430.log - DRB.tat* - TextAnalysisTool.NET
+14:36:41:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:37:01:  RTT_SeggerLog_202101141430.log - DRB.tat* - TextAnalysisTool.NET
+14:37:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:38:16:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:38:36:  RTT_SeggerLog_202101141430.log - DRB.tat* - TextAnalysisTool.NET
+14:39:16:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:39:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:39:51:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:40:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:40:16:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:40:26:  RTT_SeggerLog_202101141430.log - DRB.tat* - TextAnalysisTool.NET
+14:40:36:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:40:41:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:40:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:41:56:  RTT_SeggerLog_202101141430.log - DRB.tat* - TextAnalysisTool.NET
+14:42:11:  查找
+14:42:16:  记事本
+14:42:21:  RTT_SeggerLog_202101141430.log - DRB.tat* - TextAnalysisTool.NET
+14:42:51:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:44:01:  RTT_SeggerLog_202101141443.log - DRB.tat* - TextAnalysisTool.NET
+14:44:56:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:44:56:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:45:21:  RTT_SeggerLog_202101141443.log - DRB.tat* - TextAnalysisTool.NET
+14:45:26:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:45:31:  RTT_SeggerLog_202101141443.log - DRB.tat* - TextAnalysisTool.NET
+14:46:01:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:46:16:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:46:56:  锁屏状态
+14:47:01:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:47:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:47:46:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:48:06:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:48:26:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:48:36:  RTT_SeggerLog_202101141448.log - DRB.tat* - TextAnalysisTool.NET
+14:49:36:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:50:21:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:50:26:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:50:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:50:56:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:51:06:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:51:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:51:41:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:51:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:51:51:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:51:56:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:52:01:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:52:06:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:52:16:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:59:06:  KE06LOG.bat - 快捷方式 (2)
+14:59:11:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:59:16:  RTT_SeggerLog_202101141459.log - DRB.tat* - TextAnalysisTool.NET
+14:59:31:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:59:36:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:59:06:  KE06LOG.bat - 快捷方式 (2)
+14:59:11:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:59:16:  RTT_SeggerLog_202101141459.log - DRB.tat* - TextAnalysisTool.NET
+14:59:31:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:59:36:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:02:26:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+15:02:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:03:06:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+15:03:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:03:56:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+15:04:01:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:04:31:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:04:46:  锁屏状态
+15:04:51:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:05:31:  KE06LOG.bat - 快捷方式 (2)
+15:05:36:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:05:46:  RTT_SeggerLog_202101141505.log - DRB.tat* - TextAnalysisTool.NET
+15:05:56:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:06:01:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+15:06:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:06:41:  RTT_SeggerLog_202101141505.log - DRB.tat* - TextAnalysisTool.NET
+15:07:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:07:46:  RTT_SeggerLog_202101141505.log - DRB.tat* - TextAnalysisTool.NET
+15:08:01:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:08:21:  RTT_SeggerLog_202101141505.log - DRB.tat* - TextAnalysisTool.NET
+15:08:26:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:08:31:  RTT_SeggerLog_202101141505.log - DRB.tat* - TextAnalysisTool.NET
+15:08:56:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:09:21:  RTT_SeggerLog_202101141505.log - DRB.tat* - TextAnalysisTool.NET
+15:09:56:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:12:21:  RTT_SeggerLog_202101141505.log - DRB.tat* - TextAnalysisTool.NET
+15:12:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:12:56:  RTT_SeggerLog_202101141505.log - DRB.tat* - TextAnalysisTool.NET
+15:14:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:14:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+15:14:56:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:14:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:14:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+15:14:56:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:15:46:  RTT_SeggerLog_202101141505.log - DRB.tat* - TextAnalysisTool.NET
+15:15:51:  RTT_SeggerLog_202101141515.log - DRB.tat* - TextAnalysisTool.NET
+15:16:26:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:16:56:  RTT_SeggerLog_202101141515.log - DRB.tat* - TextAnalysisTool.NET
+15:17:41:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:17:56:  RTT_SeggerLog_202101141515.log - DRB.tat* - TextAnalysisTool.NET
+15:18:21:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:18:26:  RTT_SeggerLog_202101141515.log - DRB.tat* - TextAnalysisTool.NET
+15:18:51:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:19:11:  RTT_SeggerLog_202101141515.log - DRB.tat* - TextAnalysisTool.NET
+15:19:16:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:19:26:  RTT_SeggerLog_202101141515.log - DRB.tat* - TextAnalysisTool.NET
+15:19:41:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:19:46:  RTT_SeggerLog_202101141515.log - DRB.tat* - TextAnalysisTool.NET
+15:19:51:  锁屏状态
+15:19:56:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:20:06:  RTT_SeggerLog_202101141515.log - DRB.tat* - TextAnalysisTool.NET
+15:21:21:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:21:46:  锁屏状态
+15:21:51:  RTT_SeggerLog_202101141515.log - DRB.tat* - TextAnalysisTool.NET
+15:22:06:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:24:22:  RTT_SeggerLog_202101141515.log - DRB.tat* - TextAnalysisTool.NET
+15:24:32:  计算器
+15:24:52:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:24:57:  D:\00-06\1T1-Stop-Length\trunk\Drivers\BldcDriver\BldcDriver.h (trunk) - Sublime Text (UNREGISTERED)
+15:25:02:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.h (trunk) - Sublime Text (UNREGISTERED)
+15:25:07:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.h (trunk) - Sublime Text (UNREGISTERED)
+15:25:12:  计算器
+15:25:17:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:25:22:  RTT_SeggerLog_202101141515.log - DRB.tat* - TextAnalysisTool.NET
+15:27:12:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:30:57:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+15:31:02:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:31:12:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+15:31:17:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:32:52:  KE06LOG.bat - 快捷方式 (2)
+15:32:57:  RTT_SeggerLog_202101141515.log - DRB.tat* - TextAnalysisTool.NET
+15:33:02:  RTT_SeggerLog_202101141532.log - DRB.tat* - TextAnalysisTool.NET
+15:35:02:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:35:17:  RTT_SeggerLog_202101141532.log - DRB.tat* - TextAnalysisTool.NET
+15:38:22:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:38:27:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+15:38:32:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:38:42:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+15:38:57:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:39:22:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+15:40:07:  计算器
+15:40:12:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:40:17:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+15:40:37:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:40:42:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+15:40:57:  μVision
+15:41:02:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:44:17:  RTT_SeggerLog_202101141544.log - DRB.tat* - TextAnalysisTool.NET
+15:44:17:  RTT_SeggerLog_202101141544.log - DRB.tat* - TextAnalysisTool.NET
+15:45:17:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:45:37:  RTT_SeggerLog_202101141544.log - DRB.tat* - TextAnalysisTool.NET
+15:45:42:  RTT_SeggerLog_202101141545.log - DRB.tat* - TextAnalysisTool.NET
+15:47:37:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:48:02:  RTT_SeggerLog_202101141547.log - DRB.tat* - TextAnalysisTool.NET
+15:51:02:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:51:22:  RTT_SeggerLog_202101141547.log - DRB.tat* - TextAnalysisTool.NET
+15:51:32:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:51:42:  RTT_SeggerLog_202101141547.log - DRB.tat* - TextAnalysisTool.NET
+15:54:02:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:54:12:  RTT_SeggerLog_202101141547.log - DRB.tat* - TextAnalysisTool.NET
+15:55:17:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:55:37:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:56:37:  LogExpert #3 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101141556.log
+15:56:52:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:56:57:  RTT_SeggerLog_202101141556.log - DRB.tat* - TextAnalysisTool.NET
+15:58:57:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:59:02:  RTT_SeggerLog_202101141556.log - DRB.tat* - TextAnalysisTool.NET
+15:58:57:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:59:02:  RTT_SeggerLog_202101141556.log - DRB.tat* - TextAnalysisTool.NET
+16:00:37:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:00:47:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+16:02:02:  RTT_SeggerLog_202101141556.log - DRB.tat* - TextAnalysisTool.NET
+16:02:07:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+16:05:22:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:07:37:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:07:57:  本地磁盘 (D:)
+16:08:02:  00-06
+16:08:07:  Project
+16:08:22:  W
+16:08:27:  2021-01-14.txt - 记事本
+16:08:47:  W
+16:08:52:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:09:52:  RTT_SeggerLog_202101141609.log - DRB.tat* - TextAnalysisTool.NET
+16:12:02:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:12:32:  锁屏状态
+16:12:37:  RTT_SeggerLog_202101141609.log - DRB.tat* - TextAnalysisTool.NET
+16:13:37:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:14:07:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:14:22:  RTT_SeggerLog_202101141609.log - DRB.tat* - TextAnalysisTool.NET
+16:14:57:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:14:07:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:14:22:  RTT_SeggerLog_202101141609.log - DRB.tat* - TextAnalysisTool.NET
+16:14:57:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:15:07:  RTT_SeggerLog_202101141609.log - DRB.tat* - TextAnalysisTool.NET
+16:15:27:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:15:47:  RTT_SeggerLog_202101141615.log - DRB.tat* - TextAnalysisTool.NET
+16:16:57:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:17:12:  RTT_SeggerLog_202101141615.log - DRB.tat* - TextAnalysisTool.NET
+16:17:32:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+16:17:47:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:18:17:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:19:12:  KE06LOG.bat - 快捷方式 (2)
+16:19:17:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:19:27:  RTT_SeggerLog_202101141619.log - DRB.tat* - TextAnalysisTool.NET
+16:20:22:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:20:32:  RTT_SeggerLog_202101141619.log - DRB.tat* - TextAnalysisTool.NET
+16:21:42:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:21:52:  RTT_SeggerLog_202101141619.log - DRB.tat* - TextAnalysisTool.NET
+16:23:07:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:23:17:  RTT_SeggerLog_202101141619.log - DRB.tat* - TextAnalysisTool.NET
+16:25:12:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:25:52:  RTT_SeggerLog_202101141619.log - DRB.tat* - TextAnalysisTool.NET
+16:27:37:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:29:07:  Watch 1
+16:29:12:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:29:27:  RTT_SeggerLog_202101141629.log - DRB.tat* - TextAnalysisTool.NET
+16:29:07:  Watch 1
+16:29:12:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:29:27:  RTT_SeggerLog_202101141629.log - DRB.tat* - TextAnalysisTool.NET
+16:33:27:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:33:32:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:33:37:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+16:33:47:  RTT_SeggerLog_202101141629.log - DRB.tat* - TextAnalysisTool.NET
+16:33:52:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+16:34:22:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:35:22:  Toolbox
+16:35:27:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:35:47:  RTT_SeggerLog_202101141629.log - DRB.tat* - TextAnalysisTool.NET
+16:35:52:  RTT_SeggerLog_202101141635.log - DRB.tat* - TextAnalysisTool.NET
+16:36:07:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+16:36:12:  RTT_SeggerLog_202101141635.log - DRB.tat* - TextAnalysisTool.NET
+16:37:17:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:37:57:  RTT_SeggerLog_202101141637.log - DRB.tat* - TextAnalysisTool.NET
+16:39:42:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:40:02:  RTT_SeggerLog_202101141639.log - DRB.tat* - TextAnalysisTool.NET
+16:42:17:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:42:42:  RTT_SeggerLog_202101141642.log - DRB.tat* - TextAnalysisTool.NET
+16:43:17:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:43:27:  KE06LOG.bat - 快捷方式 (2)
+16:43:32:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:43:42:  RTT_SeggerLog_202101141643.log - DRB.tat* - TextAnalysisTool.NET
+16:44:52:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:44:57:  KE06LOG.bat - 快捷方式 (2)
+16:45:02:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:44:52:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:44:57:  KE06LOG.bat - 快捷方式 (2)
+16:45:02:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:45:47:  Toolbox
+16:45:52:  KE06LOG.bat - 快捷方式 (2)
+16:45:57:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:47:02:  RTT_SeggerLog_202101141643.log - DRB.tat* - TextAnalysisTool.NET
+16:47:07:  RTT_SeggerLog_202101141645.log - DRB.tat* - TextAnalysisTool.NET
+16:50:57:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:51:37:  RTT_SeggerLog_202101141645.log - DRB.tat* - TextAnalysisTool.NET
+16:51:47:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:51:57:  RTT_SeggerLog_202101141645.log - DRB.tat* - TextAnalysisTool.NET
+16:52:02:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:53:27:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:53:57:  新北洋OA信息化平台 - Internet Explorer
+16:54:02:  SEGGER J-Link V6.32h - Control panel
+16:54:07:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:54:22:  RTT_SeggerLog_202101141645.log - DRB.tat* - TextAnalysisTool.NET
+16:54:27:  RTT_SeggerLog_202101141654.log - DRB.tat* - TextAnalysisTool.NET
+17:04:42:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+17:04:47:  RTT_SeggerLog_202101141654.log - DRB.tat* - TextAnalysisTool.NET
+17:05:32:  eSpace
+17:05:37:  锁屏状态

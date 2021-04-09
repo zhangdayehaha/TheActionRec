@@ -1,0 +1,577 @@
+08:03:46:  明天上午9:00评审
+08:04:11:  NO,20200806
+08:04:31:  DRB
+08:04:36:  明天上午9:00评审
+08:04:46:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:04:51:  于斌1
+08:04:56:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:05:06:  00-06
+08:05:11:  DRB-PRESS
+08:05:21:  eSpace
+08:05:31:  吉哲
+08:05:36:  跳转列表
+08:05:41:  DRB-PRESS
+08:05:51:  本地磁盘 (E:)
+08:05:56:  本地磁盘 (D:)
+08:06:11:  警告
+08:06:16:  NO,20200806
+08:06:26:  01各模块知识共享
+08:06:31:  01固件相关
+08:06:36:  08评审相关
+08:06:41:  2020年
+08:06:51:  DRB-PRESS
+08:06:56:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+08:07:01:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+08:07:06:  LowerPlateCtrl.c - TortoiseMerge
+08:07:11:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+08:07:16:  PressurePlateCtrl.c - TortoiseMerge
+08:07:21:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+08:07:26:  CapDriver.c - TortoiseMerge
+08:07:31:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+08:07:36:  LowerPlate.c - TortoiseMerge
+08:07:41:  PressurePlate.c - TortoiseMerge
+08:07:46:  UpperPlate.c - TortoiseMerge
+08:07:51:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+08:07:56:  StepMotor.c - TortoiseMerge
+08:08:06:  TortoiseMerge
+08:08:11:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+08:08:16:  LowerPlate.c - TortoiseMerge
+08:08:21:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+08:08:26:  Selector.c - TortoiseMerge
+08:08:31:  StepMotor.c - TortoiseMerge
+08:08:36:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+08:08:46:  LowerPlate.c - TortoiseMerge
+08:08:51:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:08:56:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+08:09:21:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:09:26:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+08:09:31:  D:\00-06\DRB-PRESS - 日志信息 - TortoiseSVN
+08:09:41:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:09:46:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+08:09:56:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:10:01:  提交
+08:10:06:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:10:16:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:10:26:  DRB-PRESS
+08:10:31:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:11:26:  DRB-PRESS
+08:12:06:  D:\00-06\DRB-PRESS - 日志信息 - TortoiseSVN
+08:12:31:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:12:36:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:12:41:  www.baidu.com - Google Chrome
+08:12:46:  D:\00-06\DRB-PRESS - 日志信息 - TortoiseSVN
+08:13:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:13:11:  本地磁盘 (D:)
+08:13:16:  DRB集成测试
+08:13:21:  计算机
+08:13:36:  威海新北洋 (G:)
+08:13:41:  运行
+08:13:46:  威海新北洋 (G:) 属性
+08:13:56:  运行
+08:14:01:  G
+08:14:06:  正在复制 30 个项目(19.2 MB)
+08:14:16:  剩余 20 秒
+08:14:21:  剩余 60 秒
+08:14:36:  剩余 3 分钟
+08:14:51:  剩余 2 分钟 30 秒
+08:14:06:  正在复制 30 个项目(19.2 MB)
+08:14:16:  剩余 20 秒
+08:14:21:  剩余 60 秒
+08:14:36:  剩余 3 分钟
+08:14:51:  剩余 2 分钟 30 秒
+08:15:41:  G
+08:16:11:  本地磁盘 (D:)
+08:16:16:  正在打开 - Excel
+08:16:21:  5.1 BOOTLOADER测试.xls  [兼容模式] - Excel
+08:16:31:  钞箱1T2集成测试方案
+08:16:41:  5.2 EEPROM测试V1.0.xls  [兼容模式] - Excel
+08:17:11:  钞箱1T2集成测试方案
+08:17:16:  5.3 历史记录功能测试V1.0.xls  [兼容模式] - Excel
+08:17:46:  钞箱1T2集成测试方案
+08:17:51:  5.4 日志功能测试.xls  [兼容模式] - Excel
+08:20:16:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:20:21:  D:\00-06\DRB-PRESS\Applications\LogHandle\LogHandle.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:20:26:  D:\00-06\DRB-PRESS\Middlewares\Log\Log.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:27:26:  钞箱1T2集成测试方案
+08:27:31:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+08:27:36:  5.4 日志信号测试v1.0.pptx - PowerPoint
+08:30:31:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+08:30:36:  5.6 步进电机测试V1.1.xls  [兼容模式] - Excel
+08:30:41:  5.4 日志功能测试.xls  [兼容模式] - Excel (未响应)
+08:30:46:  5.6 步进电机测试V1.1.xls  [兼容模式] - Excel
+08:31:11:  钞箱1T2集成测试方案
+08:31:16:  5.6 步进电机测试V1.1.xls  [兼容模式] - Excel
+08:33:36:  Microsoft Excel
+08:33:41:  钞箱1T2集成测试方案
+08:33:46:  5.12 直流电机功能测试 .xlsx - Excel
+08:34:36:  5.4 日志功能测试.xls  [兼容模式] - Excel
+08:34:41:  钞箱1T2集成测试方案
+08:35:56:  5.19 压钞托板测试.xls  [兼容模式] - Excel
+08:38:56:  钞箱1T2集成测试方案
+08:39:06:  正在打开 - Excel
+08:39:11:  5.20 电磁铁功能测试_V1.0.xls  [兼容模式] - Excel
+08:40:26:  钞箱1T2集成测试方案
+08:40:31:  5.20 电磁铁测试1.pptx - PowerPoint
+08:41:16:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+08:42:16:  钞箱1T2集成测试方案
+08:42:21:  5.21 NFC信号.pptx - PowerPoint
+08:42:31:  钞箱1T2集成测试方案
+08:42:36:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+08:45:01:  正在打开 - Excel
+08:45:01:  正在打开 - Excel
+08:45:06:  5.23 拨叉功能测试模版_V1.0.xls  [兼容模式] - Excel
+08:45:11:  钞箱1T2集成测试方案
+08:45:16:  5.23 拨叉信号测试.pptx - PowerPoint
+08:45:41:  6.2.1 钞箱指令解释功能测试V1.0.xls  [兼容模式] - Excel
+08:46:11:  钞箱1T2集成测试方案
+08:46:16:  6.3.1 钞箱产品规格V1.1.xls  [兼容模式] - Excel
+08:46:21:  钞箱1T2集成测试方案
+08:46:26:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+08:46:46:  Microsoft Excel
+08:46:51:  DRB集成测试
+08:46:56:  yf-zhangkaifa
+08:47:01:  删除文件夹
+08:47:06:  G
+08:47:11:  锁屏状态
+08:47:16:  删除 30 个项目(19.2 MB)
+08:47:26:  剩余 5 秒
+08:47:31:  G
+08:47:41:  正在复制 30 个项目(19.2 MB)
+08:47:51:  剩余 20 秒
+08:47:56:  剩余 60 秒
+08:48:11:  剩余 3 分钟
+08:48:46:  DRB集成测试
+08:48:51:  钞箱1T2集成测试方案
+08:48:56:  5.19 压钞托板测试.xls  [兼容模式] - Excel
+08:49:01:  插入图片
+08:49:06:  5.19 压钞托板测试.xls  [兼容模式] - Excel
+08:49:36:  插入图片
+08:49:41:  5.19 压钞托板测试.xls  [兼容模式] - Excel
+08:49:56:  钞箱1T2集成测试方案
+08:50:01:  运行
+08:50:06:  yf-zhangkaifa
+08:50:11:  钞箱1T2集成测试方案
+08:50:21:  正在复制 
+08:50:26:  钞箱1T2集成测试方案
+08:50:31:  打开文件夹
+11:09:07:  未命名 - 写邮件
+11:09:12:  eSpace
+11:09:17:  钞箱1T2集成测试方案
+11:09:22:  运行
+11:09:32:  192.168.28.5
+11:09:37:  10-自动化设计中心
+11:09:42:  02-固件设计中心
+11:09:47:  桌面整理
+11:09:52:  于斌1
+11:10:12:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:11:12:  于斌1
+11:11:27:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:11:47:  eSpace
+11:11:52:  于斌1
+11:12:12:  03其它
+11:12:17:  桌面整理
+11:12:47:  TCR调测工具 V3.36
+11:12:52:  打开
+11:13:02:  BTCRTestTool
+11:13:17:  于斌1
+11:13:22:  打开
+11:13:27:  于斌1
+11:16:42:  TCR调测工具 V3.36
+11:16:47:  模块使能
+11:17:07:  TCR调测工具 V3.36
+11:17:17:  托板控制
+11:19:17:  TCR调测工具 V3.36
+11:19:22:  收取邮件 - 张开发
+11:19:27:  桌面整理
+11:19:32:  打开
+11:19:57:  BTCR-1100_SLAVE_KE18_FV1064_EXTFEDU3V13&5V_MAIN_T14(1) (1).JM 属性
+11:20:02:  TCR调测工具 V3.36
+11:23:57:  桌面整理
+11:24:02:  本地磁盘 (D:)
+11:24:07:  DRB集成测试
+11:24:17:  正在打开 - Excel
+11:24:22:  5.2 EEPROM测试V1.0.xls  [兼容模式] - Excel
+11:24:27:  5.3 历史记录功能测试V1.0.xls  [兼容模式] - Excel
+11:24:37:  钞箱1T2集成测试方案 - 副本
+11:24:42:  DRB集成测试报告.xlsx - Excel
+11:24:57:  本地磁盘 (D:)
+11:25:02:  00-06
+11:25:07:  42 CRS现金循环模块
+11:25:12:  主控板集成测试方案-报告
+11:25:27:  BTCR-1100 模具样机固件集成测试报告.xls  [受保护的视图] - Excel
+11:26:37:  移动或复制工作表
+11:26:42:  于斌1
+11:26:52:  DRB集成测试报告.xlsx - Excel
+11:28:57:  锁屏状态
+11:29:02:  DRB集成测试报告.xlsx - Excel
+11:28:57:  锁屏状态
+11:29:02:  DRB集成测试报告.xlsx - Excel
+11:30:22:  5.3 历史记录功能测试V1.0.xls  [兼容模式] - Excel
+11:30:27:  DRB集成测试报告.xlsx - Excel
+11:30:32:  钞箱1T2集成测试方案
+11:30:47:  DRB集成测试
+11:30:52:  5.4 日志功能测试.xls  [兼容模式] - Excel
+11:31:02:  DRB集成测试报告.xlsx - Excel
+11:33:07:  5.4 日志功能测试.xls  [兼容模式] - Excel
+11:33:17:  钞箱1T2集成测试方案 - 副本
+11:33:22:  5.4 日志信号测试v1.0.pptx - PowerPoint
+11:33:27:  5.6 步进电机测试V1.1.xls  [兼容模式] - Excel
+11:33:42:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+11:33:47:  5.6 步进电机测试.pptx - PowerPoint
+11:33:52:  DRB集成测试报告.xlsx - Excel
+11:35:27:  于斌1
+11:35:37:  DRB集成测试报告.xlsx - Excel
+11:35:47:  5.12 直流电机功能测试 .xlsx - Excel
+11:35:57:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+11:36:02:  5.12 直流电机测试.pptx - PowerPoint
+11:36:22:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+11:36:27:  钞箱1T2集成测试方案 - 副本
+11:36:32:  5.18 传感器测试.pptx - PowerPoint
+11:36:37:  DRB集成测试报告.xlsx - Excel
+11:37:17:  于斌1
+11:37:22:  5.19 压钞托板测试.xls  [兼容模式] - Excel
+11:37:42:  DRB集成测试报告.xlsx - Excel
+11:37:47:  Windows Installer
+11:37:52:  5.19 压钞托板电机.pptx - PowerPoint
+11:37:57:  DRB集成测试报告.xlsx - Excel
+11:38:08:  钞箱1T2集成测试方案 - 副本
+11:38:13:  5.20 电磁铁功能测试_V1.0.xls  [兼容模式] - Excel
+11:38:23:  钞箱1T2集成测试方案 - 副本
+11:38:28:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+11:38:33:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+11:38:38:  钞箱1T2集成测试方案 - 副本
+11:38:43:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+11:38:48:  DRB集成测试报告.xlsx - Excel
+11:39:03:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+11:39:28:  DRB集成测试报告.xlsx - Excel
+11:39:33:  于斌1
+11:39:53:  DRB集成测试报告.xlsx - Excel
+11:42:33:  于斌1
+11:43:13:  DRB集成测试报告.xlsx - Excel
+11:43:18:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+11:43:23:  钞箱1T2集成测试方案 - 副本
+11:43:28:  王亮杰休假联络
+11:43:48:  于斌1
+11:44:18:  本地磁盘 (D:)
+11:44:18:  本地磁盘 (D:)
+11:46:33:  锁屏状态
+13:17:08:  本地磁盘 (D:)
+13:18:53:  于斌1
+13:19:58:  桌面整理
+13:20:03:  MindMaster Pro
+13:20:23:  于斌1
+13:20:58:  DRB集成测试报告.xlsx - Excel
+13:21:23:  eSpace
+13:21:28:  DRB集成测试报告.xlsx - Excel
+13:22:03:  DRB集成测试
+13:22:08:  钞箱1T2集成测试方案 - 副本
+13:22:18:  DRB集成测试报告.xlsx - Excel
+13:23:13:  6.2.1 钞箱指令解释功能测试V1.0.xls  [兼容模式] - Excel
+13:23:18:  钞箱1T2集成测试方案 - 副本
+13:23:23:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+13:23:28:  DRB集成测试报告.xlsx - Excel
+13:25:03:  BTCRTestTool 属性
+13:25:08:  BTCRTestTool V3.36
+13:25:13:  文档
+13:25:23:  W
+13:25:28:  2020-08-03.txt - 记事本
+13:25:43:  2020-07-31.txt - 记事本
+13:25:58:  W
+13:26:03:  2020-07-27.txt - 记事本
+13:26:18:  2020-07-26.txt - 记事本
+13:26:23:  2020-07-25.txt - 记事本
+13:26:28:  W
+13:26:33:  6.2.2.6 钞箱测试1T2.xls 属性
+13:26:38:  2020-07-27.txt - 记事本
+13:26:48:  桌面整理
+13:26:53:  查找
+13:27:03:  W
+13:27:08:  查找
+13:27:13:  W
+13:27:18:  2020-07-29.txt - 记事本
+13:27:28:  2020-07-20.txt - 记事本
+13:27:33:  W
+13:27:43:  BTCRTestTool V3.36
+13:27:48:  TCRControlCmdDLL
+13:27:53:  LOG
+13:28:03:  20200725
+13:28:13:  K64-_0000_20200725141524.log - [No filter file] - TextAnalysisTool.NET
+13:28:18:  K64-_0000_20200725141524.log - DRB.tat - TextAnalysisTool.NET
+13:28:23:  Box_1__0000_20200725141524.log - DRB.tat - TextAnalysisTool.NET
+13:28:28:  LOG
+13:28:33:  Box_1__0000_20200725141524.log - DRB.tat - TextAnalysisTool.NET
+13:28:38:  Box_1__0000_20200725141154.log - DRB.tat - TextAnalysisTool.NET
+13:28:48:  Box_1__0000_20200725134549.log - DRB.tat - TextAnalysisTool.NET
+13:28:53:  K64-_0000_20200725134549.log - DRB.tat - TextAnalysisTool.NET
+13:29:18:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:28:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:33:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:48:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:28:13:  K64-_0000_20200725141524.log - [No filter file] - TextAnalysisTool.NET
+13:28:18:  K64-_0000_20200725141524.log - DRB.tat - TextAnalysisTool.NET
+13:28:23:  Box_1__0000_20200725141524.log - DRB.tat - TextAnalysisTool.NET
+13:28:28:  LOG
+13:28:33:  Box_1__0000_20200725141524.log - DRB.tat - TextAnalysisTool.NET
+13:28:38:  Box_1__0000_20200725141154.log - DRB.tat - TextAnalysisTool.NET
+13:28:48:  Box_1__0000_20200725134549.log - DRB.tat - TextAnalysisTool.NET
+13:28:53:  K64-_0000_20200725134549.log - DRB.tat - TextAnalysisTool.NET
+13:29:18:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:28:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:33:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:48:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:30:08:  G
+13:30:38:  新标签页 - Google Chrome
+13:30:44:  百度一下，你就知道 - Google Chrome
+13:30:54:  微信浏览器 - Google Chrome
+13:31:04:  https://www.baidu.com/link?url=0zurTM3HxEpthe77JzVOfhKZCYWLCVBuivnCP2TNcni&wd=&eqid=960b520600021e38000000025f2b958a - Google Chrome
+13:31:09:  微信网页版 - Google Chrome
+13:31:14:  https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=A4doZ6xmIXlTFdO-R-a_SI9Y@qrticket_0&uuid=AZqLKtZ9_Q==&lang=zh_CN&scan=1596691868 - Google Chrome
+13:31:44:  网页版微信_百度搜索 - Google Chrome
+13:32:29:  百度网盘-全部文件 - Google Chrome
+13:32:44:  打开
+13:33:19:  百度网盘-全部文件 - Google Chrome
+13:33:24:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:34:25:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:34:30:  00-06
+13:34:35:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+13:34:40:  新建文本文档.exe - 快捷方式
+13:34:45:  TCR调测工具 V3.36
+13:35:05:  打开
+13:35:10:  于斌1
+13:35:30:  打开
+13:35:35:  TCR调测工具 V3.36
+13:37:25:  发送指令到K06
+13:37:45:  TCR调测工具 V3.36
+13:37:55:  K64_0000_20200725134549
+13:38:00:  20200806
+13:38:05:  K64_0000_20200806133745.log - DRB.tat - TextAnalysisTool.NET
+13:39:25:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:39:30:  untitled (trunk) - Sublime Text (UNREGISTERED)
+13:39:35:  D:\00-KE64\trunk\Applications\Application.c (trunk) - Sublime Text (UNREGISTERED)
+13:39:40:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:44:36:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+13:44:41:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+13:44:46:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+13:44:36:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+13:44:41:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+13:44:46:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+13:45:06:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+13:45:11:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+13:52:06:  Decode
+13:52:11:  K64_0000_20200806133745 - 写邮件
+13:52:21:  DRB - 写邮件
+13:52:26:  发送邮件
+13:52:36:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+13:54:36:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+13:54:41:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:17:06:  扩展: Todo Tree - DRB-PRESS - Visual Studio Code [管理员]
+15:18:41:  于斌1
+15:19:36:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:19:41:  于斌1
+15:20:16:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:21:22:  于斌1
+15:21:42:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:21:47:  于斌1
+15:22:27:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:22:32:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:23:57:  于斌1
+15:24:07:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:25:47:  于斌1
+15:26:12:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:27:17:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:27:22:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:32:42:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:32:47:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:32:57:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:38:37:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:38:42:  新建文本文档.exe - 快捷方式
+15:39:07:  于斌1
+15:42:22:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:42:27:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+15:43:27:  DRB集成测试报告.xlsx - Excel
+15:43:32:  锁屏状态
+15:43:37:  DRB集成测试报告.xlsx - Excel
+15:45:17:  TCR调测工具 V3.36
+15:46:52:  钞箱配置
+15:47:02:  TCR调测工具 V3.36
+15:49:07:  取款
+15:49:12:  BTCRTestTool
+15:49:17:  TCR调测工具 V3.36
+15:58:42:  取款
+15:58:47:  TCR调测工具 V3.36
+15:59:32:  取款
+15:59:37:  TCR调测工具 V3.36
+15:58:42:  取款
+15:58:47:  TCR调测工具 V3.36
+15:59:32:  取款
+15:59:37:  TCR调测工具 V3.36
+16:03:37:  打开
+16:03:42:  TCR调测工具 V3.36
+16:04:42:  钞箱配置
+16:04:52:  取款
+16:08:22:  DRB集成测试报告.xlsx - Excel
+16:10:07:  取款
+16:10:12:  TCR调测工具 V3.36
+16:10:47:  钞箱配置
+16:11:02:  TCR调测工具 V3.36
+16:11:52:  取款
+16:12:02:  TCR调测工具 V3.36
+16:12:07:  盘点
+16:12:22:  钞箱配置
+16:12:32:  TCR调测工具 V3.36
+16:12:37:  盘点
+16:12:42:  TCR调测工具 V3.36
+16:12:52:  ErrCode_list_txt_flg.txt - 记事本
+16:12:57:  查找
+16:13:07:  TCR调测工具 V3.36
+16:13:12:  盘点
+16:13:17:  TCR调测工具 V3.36
+16:13:22:  钞箱配置
+16:13:37:  盘点
+16:13:42:  钞箱配置
+16:13:52:  TCR调测工具 V3.36
+16:13:57:  盘点
+16:14:02:  钞箱配置
+16:14:17:  取款
+16:14:32:  TCR调测工具 V3.36
+16:14:47:  取款
+16:14:52:  TCR调测工具 V3.36
+16:14:57:  钞箱使能
+16:15:02:  TCR调测工具 V3.36
+16:14:17:  取款
+16:14:32:  TCR调测工具 V3.36
+16:14:47:  取款
+16:14:52:  TCR调测工具 V3.36
+16:14:57:  钞箱使能
+16:15:02:  TCR调测工具 V3.36
+16:15:12:  钞箱配置
+16:15:22:  取款
+16:15:27:  TCR调测工具 V3.36
+16:16:52:  优先级
+16:16:57:  取款
+16:17:02:  优先级
+16:17:22:  TCR调测工具 V3.36
+16:18:22:  盘点
+16:18:32:  TCR调测工具 V3.36
+16:18:37:  盘点
+16:18:42:  钞箱配置
+16:18:52:  取款
+16:18:57:  TCR调测工具 V3.36
+16:22:42:  取款
+16:22:47:  TCR调测工具 V3.36
+16:22:52:  取款
+16:22:57:  TCR调测工具 V3.36
+16:26:22:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:27:27:  TCR调测工具 V3.36
+16:27:32:  钞箱配置
+16:28:32:  eSpace
+16:28:37:  TCR调测工具 V3.36
+16:28:32:  eSpace
+16:28:37:  TCR调测工具 V3.36
+16:30:57:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:31:02:  DRB集成测试报告.xlsx - Excel
+16:35:47:  新建文本文档.exe - 快捷方式
+16:35:52:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+16:36:22:  百度网盘-全部文件 - Google Chrome
+16:36:27:  天籁小说网_最好看的小说阅读网 - Google Chrome
+16:36:37:  小说搜索 - Google Chrome
+16:36:42:  无标题 - Google Chrome
+16:36:47:  我师兄实在太稳健了 第六百零九章 长寿强擒惧留孙！ - 天籁小说网 - Google Chrome
+16:36:52:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+16:37:02:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+16:37:12:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+16:37:32:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+16:37:37:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:40:42:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:44:58:  00-06
+16:45:03:  trunk
+16:44:58:  00-06
+16:45:03:  trunk
+16:45:08:  新建文本文档.exe - 快捷方式
+16:45:13:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:50:13:  更新 失败！
+16:50:23:  DRB-PRESS
+16:50:38:  更新 完成！
+16:50:48:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:51:03:  DRB集成测试报告.xlsx - Excel
+16:52:03:  威海新北洋 (G:)
+16:52:08:  主控板集成测试方案-报告
+16:52:13:  DRB集成测试报告.xlsx - Excel
+16:52:18:  BTCR-1100 模具样机固件集成测试报告.xls  [受保护的视图] - Excel
+16:55:33:  DRB集成测试报告.xlsx - Excel
+16:56:03:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:56:08:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+16:56:23:  本地磁盘 (E:)
+16:56:28:  DRB集成测试
+16:56:33:  DRB集成测试报告.xlsx - Excel
+16:56:38:  trunk
+16:56:43:  钞箱1T2集成测试方案 - 副本
+16:56:48:  DRB集成测试报告.xlsx - Excel
+16:59:28:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:59:28:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+17:00:23:  DRB集成测试报告.xlsx - Excel
+17:04:48:  eSpace
+17:05:13:  于斌1
+17:05:23:  锁屏状态
+17:42:28:  DRB集成测试报告.xlsx - Excel
+17:42:33:  于斌1
+17:42:48:  DRB集成测试报告.xlsx - Excel
+17:43:58:  于斌1
+17:44:03:  DRB集成测试报告.xlsx - Excel
+17:50:53:  钞箱1T2集成测试方案 - 副本
+17:51:08:  5.4 日志功能测试.xls  [兼容模式] - Excel
+17:51:18:  钞箱1T2集成测试方案 - 副本
+17:51:23:  5.6 步进电机测试.pptx - PowerPoint
+17:51:38:  5.6 步进电机测试V1.1.xls  [兼容模式] - Excel
+17:51:53:  DRB集成测试报告.xlsx - Excel
+17:51:58:  钞箱1T2集成测试方案 - 副本
+17:52:03:  5.12 直流电机功能测试 .xlsx - Excel
+17:53:28:  DRB集成测试报告.xlsx - Excel
+17:53:38:  钞箱1T2集成测试方案 - 副本
+17:54:28:  DRB集成测试报告.xlsx - Excel
+18:02:18:  桌面整理
+18:02:23:  DRB集成测试
+18:02:28:  新建文件夹 (4)
+18:02:33:  钞箱1T2集成测试方案 - 副本
+18:02:38:  锁屏状态
+18:02:58:  移动或复制工作表
+18:03:08:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:03:28:  钞箱1T2集成测试方案 - 副本
+18:03:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:08:48:  钞箱1T2集成测试方案 - 副本
+18:08:53:  5.23 拨叉功能测试模版_V1.0.xls  [兼容模式] - Excel
+18:09:53:  钞箱1T2集成测试方案 - 副本
+18:09:58:  5.2 EEPROM测试.pptx - PowerPoint
+18:10:03:  钞箱1T2集成测试方案 - 副本
+18:10:08:  5.2 EEPROM测试V1.0.xls  [兼容模式] - Excel
+18:10:13:  钞箱1T2集成测试方案 - 副本
+18:10:18:  5.2 EEPROM测试.pptx - PowerPoint
+18:10:23:  5.3 历史记录功能测试V1.0.xls  [兼容模式] - Excel
+18:10:38:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:13:08:  钞箱1T2集成测试方案 - 副本
+18:13:13:  5.23 拨叉功能测试模版_V1.0.xls  [兼容模式] - Excel
+18:13:53:  DRB集成测试报告.xlsx - Excel
+18:13:58:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:14:33:  5.23 拨叉功能测试模版_V1.0.xls  [兼容模式] - Excel
+18:14:33:  5.23 拨叉功能测试模版_V1.0.xls  [兼容模式] - Excel
+18:18:23:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:18:28:  于斌1
+18:19:38:  钞箱1T2集成测试方案 - 副本
+18:19:43:  5.23 拨叉功能测试模版_V1.0.xls  [兼容模式] - Excel
+18:21:58:  新建 Microsoft Excel 工作表.xlsx - Excel
+18:23:38:  钞箱1T2集成测试方案 - 副本
+18:23:43:  新建文件夹 (4)
+18:23:53:  DRB集成测试报告.xlsx - Excel
+18:24:03:  5.23 拨叉功能测试模版_V1.0.xls  [兼容模式] - Excel
+18:24:23:  回复: 明天上午9:00评审 - 写邮件
+18:25:28:  本地磁盘 (D:)
+18:25:33:  钞箱1T2集成测试方案 - 副本
+18:25:38:  DRB集成测试报告.xlsx - Excel
+18:25:48:  锁屏状态
+18:25:53:  回复: 明天上午9:00评审 - 写邮件   18:25:25 已保存
+18:26:28:  回复: 明天上午9:00评审 - 写邮件   18:26:25 已保存
+18:26:48:  DRB集成测试报告.xlsx - Excel
+18:27:23:  回复: 明天上午9:00评审 - 写邮件   18:26:25 已保存
+18:27:28:  锁屏状态

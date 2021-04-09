@@ -1,0 +1,1000 @@
+08:00:41:  锁屏状态
+08:00:41:  锁屏状态
+08:25:27:  锁屏状态
+08:26:48:  GTD.exe - Everything
+08:26:58:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:31:03:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:32:58:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:33:08:  MindMaster Pro
+08:34:08:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:34:13:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:37:08:  TheActtionRec
+08:37:18:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:42:08:  TheActtionRec
+08:42:13:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:53:33:  eSpace
+08:53:53:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:54:28:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:54:33:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:56:28:  姚世龙
+09:04:28:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:07:33:  「开始」菜单
+09:07:43:  Creo Parametric 2.0
+09:07:48:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:08:33:  文件打开
+09:08:38:  Creo Parametric 2.0
+09:08:43:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+09:12:13:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:12:23:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:13:28:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+09:13:33:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:13:43:  便签条
+09:15:33:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:17:43:  自动播放
+09:17:48:  iTunes
+09:18:03:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:20:58:  锁屏状态
+09:21:03:  新标签页 - Google Chrome
+09:21:08:  班车管理系统 - Google Chrome
+09:21:13:  班车管理系统 [新北洋集团] - Google Chrome
+09:23:13:  MindMaster
+09:23:18:  MindMaster Pro
+09:24:03:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:27:08:  选择文件夹
+09:27:23:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:27:28:  untitled (trunk) - Sublime Text (UNREGISTERED)
+09:27:53:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:13:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:18:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:23:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:29:48:  便签条
+09:28:13:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:18:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:28:23:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:29:48:  便签条
+09:30:53:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:30:58:  MindMaster Pro
+09:31:23:  跳转列表
+09:31:28:  便签条
+09:38:53:  iTunes
+09:39:03:  自动播放
+09:39:43:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:46:13:  TCR调测工具 V3.36
+09:46:58:  钞箱配置
+09:47:03:  TCR调测工具 V3.36
+09:48:13:  BTCRTestTool V3.36
+09:48:18:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+09:48:23:  BTCRTestTool V3.36 (未响应)
+09:48:28:  取款
+09:48:33:  TCR调测工具 V3.36
+09:50:43:  log
+09:50:48:  20200615
+09:51:18:  锁屏状态
+09:51:23:  20200615
+09:51:28:  删除文件
+09:51:33:  20200615
+09:51:43:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:51:48:  K64_0000_20200615094833
+09:51:53:  Box_1__0000_20200615094833.log - [No filter file] - TextAnalysisTool.NET
+09:52:03:  Box_1__0000_20200615094833.log - DRB.tat - TextAnalysisTool.NET
+09:52:53:  TCR调测工具 V3.36
+09:54:13:  取款
+09:54:18:  TCR调测工具 V3.36
+09:54:23:  iTunes
+09:55:03:  TCR调测工具 V3.36
+09:55:08:  K64_0000_20200615094833
+09:55:13:  20200615
+09:56:58:  TCR调测工具 V3.36
+09:57:03:  Decode
+09:57:18:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:57:28:  EX工具更新
+09:57:33:  K64_0000_20200615095415
+09:57:38:  Box_1__0000_20200615095415.log - DRB.tat - TextAnalysisTool.NET
+09:57:43:  TCR调测工具 V3.36
+09:58:33:  20200615
+09:58:38:  TCR调测工具 V3.36
+09:58:53:  取款
+09:59:03:  TCR调测工具 V3.36
+09:59:13:  钞箱配置
+09:59:18:  TCR调测工具 V3.36
+09:58:33:  20200615
+09:58:38:  TCR调测工具 V3.36
+09:58:53:  取款
+09:59:03:  TCR调测工具 V3.36
+09:59:13:  钞箱配置
+09:59:18:  TCR调测工具 V3.36
+10:01:28:  取款
+10:01:33:  TCR调测工具 V3.36
+10:01:43:  钞箱配置
+10:01:53:  TCR调测工具 V3.36
+10:02:43:  取款
+10:02:48:  TCR调测工具 V3.36
+10:04:48:  钞箱配置
+10:04:58:  TCR调测工具 V3.36
+10:08:28:  钞箱配置
+10:08:33:  TCR调测工具 V3.36
+10:09:33:  取款
+10:09:38:  TCR调测工具 V3.36
+10:16:18:  BTCRTestTool
+10:16:33:  20200615
+10:16:53:  Box_1__0000_20200615095415.log - DRB.tat - TextAnalysisTool.NET
+10:20:18:  20200615
+10:20:53:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:26:18:  自动播放
+10:26:23:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:26:43:  便签条
+10:29:43:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:29:43:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:30:08:  于斌1
+10:30:38:  eSpace
+10:30:48:  程明昌
+10:30:53:  于斌1
+10:31:18:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:32:03:  于斌1
+10:32:23:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:32:33:  于斌1
+10:32:38:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:33:18:  于斌1
+10:33:43:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+10:33:58:  于斌1
+10:34:28:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+10:34:33:  于斌1
+10:34:38:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+10:35:23:  于斌1
+10:35:38:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+10:36:13:  锁屏状态
+10:36:18:  untitled (CRS) - Sublime Text (UNREGISTERED)
+10:36:28:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+10:37:48:  D:\00-18\CRS\Middlewares\Plate\Plate.h (CRS) - Sublime Text (UNREGISTERED)
+10:37:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+10:39:03:  D:\00-18\CRS\Middlewares\Component\Component.c (CRS) - Sublime Text (UNREGISTERED)
+10:39:23:  D:\00-18\CRS\Middlewares\StepMotor\StepMotorConfig.c (CRS) - Sublime Text (UNREGISTERED)
+10:39:58:  D:\00-18\CRS\Middlewares\Component\Component.c (CRS) - Sublime Text (UNREGISTERED)
+10:40:23:  D:\00-18\CRS\Middlewares\StepMotor\StepMotor.c (CRS) - Sublime Text (UNREGISTERED)
+10:40:33:  D:\00-18\CRS\Drivers\StepMotorDriver\StepMotorDriver.c (CRS) - Sublime Text (UNREGISTERED)
+10:40:48:  D:\00-18\CRS\Middlewares\StepMotor\StepMotor.c (CRS) - Sublime Text (UNREGISTERED)
+10:40:53:  D:\00-18\CRS\Middlewares\Component\Component.c (CRS) - Sublime Text (UNREGISTERED)
+10:40:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+10:41:18:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+10:41:38:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+10:41:53:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+10:41:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+10:42:08:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h • (CRS) - Sublime Text (UNREGISTERED)
+10:42:23:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+10:42:58:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+10:44:43:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+10:45:03:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+10:44:43:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+10:45:03:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+10:46:18:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+10:47:23:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+10:48:24:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+10:49:34:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+10:51:04:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+10:52:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+10:52:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+10:53:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h • (CRS) - Sublime Text (UNREGISTERED)
+10:53:44:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+10:54:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+10:54:14:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+10:54:44:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\Alignment\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+10:54:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+10:54:54:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+10:55:04:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap • (CRS) - Sublime Text (UNREGISTERED)
+10:55:14:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+10:55:19:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+10:55:34:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+10:55:54:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\C Improved.sublime-settings • (CRS) - Sublime Text (UNREGISTERED)
+10:55:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+10:56:09:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\Alignment\Base File.sublime-settings (CRS) - Sublime Text (UNREGISTERED)
+10:56:19:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+10:56:24:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\Alignment\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+10:56:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+10:56:49:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\Alignment\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+10:56:54:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+10:56:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+10:57:14:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+10:57:19:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+10:57:24:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\C Improved.sublime-settings • (CRS) - Sublime Text (UNREGISTERED)
+10:57:29:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+10:59:14:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+10:59:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+10:59:44:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+10:59:14:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+10:59:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+10:59:44:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+11:00:09:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap • (CRS) - Sublime Text (UNREGISTERED)
+11:00:14:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:00:24:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap • (CRS) - Sublime Text (UNREGISTERED)
+11:00:29:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:00:59:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+11:01:09:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap • (CRS) - Sublime Text (UNREGISTERED)
+11:01:14:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+11:01:19:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:01:24:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\Default (Windows).sublime-keymap • (CRS) - Sublime Text (UNREGISTERED)
+11:01:29:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:01:49:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+11:01:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:01:59:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+11:02:04:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:02:49:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+11:02:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:02:59:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\SublimeAStyleFormatter.sublime-settings (CRS) - Sublime Text (UNREGISTERED)
+11:03:24:  网易有道词典
+11:03:34:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\SublimeAStyleFormatter.sublime-settings (CRS) - Sublime Text (UNREGISTERED)
+11:03:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:04:24:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\SublimeAStyleFormatter.sublime-settings (CRS) - Sublime Text (UNREGISTERED)
+11:04:34:  网易有道词典
+11:04:39:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\SublimeAStyleFormatter.sublime-settings (CRS) - Sublime Text (UNREGISTERED)
+11:04:54:  网易有道词典
+11:04:59:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\SublimeAStyleFormatter.sublime-settings (CRS) - Sublime Text (UNREGISTERED)
+11:05:09:  网易有道词典
+11:05:24:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\SublimeAStyleFormatter.sublime-settings (CRS) - Sublime Text (UNREGISTERED)
+11:05:54:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\SublimeAStyleFormatter.sublime-settings • (CRS) - Sublime Text (UNREGISTERED)
+11:06:04:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:06:14:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\SublimeAStyleFormatter.sublime-settings (CRS) - Sublime Text (UNREGISTERED)
+11:07:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:07:29:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\SublimeAStyleFormatter.sublime-settings • (CRS) - Sublime Text (UNREGISTERED)
+11:07:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:07:39:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\SublimeAStyleFormatter.sublime-settings • (CRS) - Sublime Text (UNREGISTERED)
+11:07:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:07:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:07:59:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Base File.sublime-settings (CRS) - Sublime Text (UNREGISTERED)
+11:08:04:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\Alignment\Base File.sublime-settings (CRS) - Sublime Text (UNREGISTERED)
+11:08:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:08:14:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+11:08:29:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\Alignment\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+11:08:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:08:44:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\SublimeAStyleFormatter.sublime-settings (CRS) - Sublime Text (UNREGISTERED)
+11:08:49:  Sublime Text
+11:09:04:  本地磁盘 (C:)
+11:09:09:  zhangkaifa
+11:09:14:  AppData
+11:09:19:  Roaming
+11:09:24:  Sublime Text 3
+11:09:29:  Packages
+11:09:39:  a - Everything
+11:09:44:  alignment - Everything
+11:09:49:  Alignment
+11:09:54:  alignment - Everything
+11:10:14:  AutoBackups
+11:10:24:  Packages
+11:10:39:  alignment - Everything
+11:10:54:  Packages
+11:11:04:  filelist:"F:\01-软件\sublime\Installed Packages\Alignment.sublime-package" - Everything
+11:11:09:  .sublime-package" - Everything
+11:11:14:  Installed Packages
+11:11:19:  .sublime-package - Everything
+11:11:34:  Installed Packages
+11:11:44:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\Alignment\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+11:11:59:  .sublime-package - Everything
+11:12:04:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\Alignment\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+11:12:19:  Installed Packages
+11:12:24:  Alignm - Everything
+11:12:29:  Alignment - Everything
+11:14:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:14:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:17:49:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+11:18:39:  从列表中拾取
+11:18:44:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+11:19:49:  确认取消
+11:19:54:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+11:20:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:20:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:21:29:  D:\00-18\CRS\Applications\AppCommon.h (CRS) - Sublime Text (UNREGISTERED)
+11:21:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:21:49:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:22:49:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+11:22:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+11:23:04:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h • (CRS) - Sublime Text (UNREGISTERED)
+11:23:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+11:23:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h • (CRS) - Sublime Text (UNREGISTERED)
+11:24:04:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+11:24:09:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+11:24:14:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\SublimeAStyleFormatter\Default (Windows).sublime-keymap (CRS) - Sublime Text (UNREGISTERED)
+11:24:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:24:29:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h • (CRS) - Sublime Text (UNREGISTERED)
+11:24:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+11:24:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h • (CRS) - Sublime Text (UNREGISTERED)
+11:26:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+11:26:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:27:04:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+11:27:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:27:19:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:28:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:28:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:28:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:29:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:29:14:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:28:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:28:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:28:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:29:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+11:29:14:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:38:49:  「开始」菜单
+11:38:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:41:04:  要恢复页面吗？
+11:41:14:  确认
+11:41:24:  www.baidu.com - Google Chrome
+11:41:34:  网络和共享中心
+11:41:39:  www.baidu.com - Google Chrome
+11:41:44:  百度一下，你就知道 - Google Chrome
+11:41:54:  airpods pro 升级固件_百度搜索 - Google Chrome
+11:41:59:  airpods pro怎么更新固件，airpods pro怎么升级-百度经验 - Google Chrome
+11:42:24:  airpods pro 升级固件_百度搜索 - Google Chrome
+11:42:29:  airpodspro最新固件版本_百度搜索 - Google Chrome
+11:42:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:42:55:  airpodspro最新固件版本_百度搜索 - Google Chrome
+11:43:00:  airpodspro断连_百度搜索 - Google Chrome
+11:43:05:  https://www.baidu.com/link?url=XAgHifDyfZbXCt_d_pRV5A-V_-yaQBc6MVIOpUJn9QpkA64SC2dRHghzaqru830kkNlqeCf6VyN7j7-2zk2N2wuSNWLRDaQxArvXsgoCJJS&wd=&eqid=b49171e70002d449000000025ee6ee43 - Google Chrome
+11:43:10:  (70 封私信 / 80 条消息) AirPods Pro断连问题，究竟是硬件上的bug还是操作上的问题？？ - 知乎 - Google Chrome
+11:44:10:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:44:30:  于斌1
+11:44:35:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:44:45:  iTunes
+11:44:51:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:44:10:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:44:30:  于斌1
+11:44:35:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:44:45:  iTunes
+11:44:51:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:45:31:  锁屏状态
+13:06:23:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:06:48:  锁屏状态
+13:06:58:  airpodspro断连_百度搜索 - Google Chrome
+13:07:08:  苹果查询序列号_百度搜索 - Google Chrome
+13:07:13:  查看您的保障服务和支持期限 - Apple 支持 - Google Chrome
+13:07:43:  硬件产品购买日期 - Apple 支持 - Google Chrome
+13:07:58:  登录 - Apple - Google Chrome
+13:08:28:  硬件产品购买日期 - Apple 支持 - Google Chrome
+13:08:38:  苹果查询序列号_百度搜索 - Google Chrome
+13:08:43:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:23:18:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+13:23:53:  Creo Parametric 2.0
+13:23:58:  文件打开
+13:24:03:  Creo Parametric 2.0
+13:24:13:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+13:24:18:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+13:24:38:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+13:29:28:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+13:29:28:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+13:30:38:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+13:33:28:  删除
+13:33:33:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+13:37:58:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+13:38:18:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+13:39:38:   
+13:39:43:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+13:39:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:40:08:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+13:41:18:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:41:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+13:43:28:  「开始」菜单
+13:43:33:  网易有道词典
+13:43:48:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+13:43:53:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:44:33:  「开始」菜单
+13:44:38:  网易有道词典
+13:44:48:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+13:44:33:  「开始」菜单
+13:44:38:  网易有道词典
+13:44:48:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+13:45:43:  系统登录 - Internet Explorer
+13:45:48:  新北洋OA信息化平台 - Internet Explorer
+13:45:58:  Windows 安全
+13:46:03:  新北洋OA信息化平台 - Internet Explorer
+13:46:53:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+13:46:58:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+13:47:28:  MindMaster Pro
+13:48:23:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+13:48:48:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:49:28:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+13:49:38:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:49:53:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+13:50:18:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:50:43:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+13:50:48:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h • (CRS) - Sublime Text (UNREGISTERED)
+13:50:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+13:51:08:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h • (CRS) - Sublime Text (UNREGISTERED)
+13:51:18:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+13:51:33:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:53:28:  计算器
+13:53:38:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:53:53:  计算器
+13:54:18:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+13:54:23:  计算器
+13:54:33:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:54:43:  锁屏状态
+13:54:48:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:54:53:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+13:54:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:55:03:  计算器
+13:55:08:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:55:33:  计算器
+13:55:38:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:55:48:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+13:55:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h • (CRS) - Sublime Text (UNREGISTERED)
+13:56:13:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+13:56:18:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:56:23:  计算器
+13:56:28:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+13:56:33:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:57:38:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+13:58:03:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:58:48:  计算器
+13:59:03:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:59:28:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+13:59:48:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:59:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+14:00:03:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:58:48:  计算器
+13:59:03:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:59:28:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+13:59:48:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:59:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+14:00:03:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:00:53:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+14:01:13:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:01:28:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+14:01:43:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:01:53:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+14:01:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:02:08:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:02:13:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:02:28:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+14:02:33:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:02:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+14:03:03:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:06:28:  D:\00-18\CRS\Applications\AppCommon.h (CRS) - Sublime Text (UNREGISTERED)
+14:06:43:  D:\00-18\CRS\Applications\AppCommon.h • (CRS) - Sublime Text (UNREGISTERED)
+14:06:53:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:06:58:  D:\00-18\CRS\Applications\AppCommon.h (CRS) - Sublime Text (UNREGISTERED)
+14:07:03:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:10:03:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+14:10:08:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:10:13:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+14:10:18:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:10:33:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+14:11:28:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:11:48:  D:\00-18\CRS\Middlewares\DcMotor\DcMotor.c (CRS) - Sublime Text (UNREGISTERED)
+14:11:53:  D:\00-18\CRS\Middlewares\DcMotor\DcMotor.h (CRS) - Sublime Text (UNREGISTERED)
+14:11:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:12:33:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:12:38:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:12:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:13:03:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:13:08:  This is an unregistered copy
+14:13:13:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:14:43:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:14:53:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:14:43:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:14:53:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:16:03:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:16:08:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:16:18:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:17:08:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:17:13:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:17:38:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:17:53:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:18:08:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:19:48:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:20:18:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:20:28:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:20:33:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:20:43:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:21:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:22:08:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:22:13:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:22:38:  eSpace
+14:22:43:  于斌1
+14:23:03:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:24:18:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:24:28:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:24:33:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:24:38:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:24:48:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:24:53:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:25:48:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:26:03:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:26:38:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+14:26:43:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:26:48:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+14:26:53:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:27:23:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:27:28:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:28:13:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:28:28:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:28:38:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:28:43:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:28:13:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:28:28:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:28:38:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:28:43:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:32:53:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:32:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:33:08:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:33:43:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:34:03:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:35:23:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:35:33:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:35:58:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:37:58:  TCR调测工具 V3.36
+14:40:38:  log
+14:40:43:  20200615
+14:41:03:  TCR调测工具 V3.36
+14:41:13:  钞箱配置
+14:41:18:  TCR调测工具 V3.36
+14:41:23:  20200615
+14:41:28:  TCR调测工具 V3.36
+14:42:18:  取款
+14:42:23:  BTCRTestTool
+14:42:28:  TCR调测工具 V3.36
+14:43:08:  锁屏状态
+14:43:13:  TCR调测工具 V3.36
+14:43:18:  20200615
+14:44:09:  TCR调测工具 V3.36
+14:44:14:  20200615
+14:44:24:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:44:34:  K64_0000_20200615144220
+14:44:39:  打开
+14:44:44:  Box_1__0000_20200615144220.log - DRB.tat - TextAnalysisTool.NET
+14:44:54:  K64_0000_20200615144220
+14:44:09:  TCR调测工具 V3.36
+14:44:14:  20200615
+14:44:24:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:44:34:  K64_0000_20200615144220
+14:44:39:  打开
+14:44:44:  Box_1__0000_20200615144220.log - DRB.tat - TextAnalysisTool.NET
+14:44:54:  K64_0000_20200615144220
+14:48:24:  MindMaster Pro
+14:48:29:  计算器
+14:50:19:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:50:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:50:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:50:49:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:50:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:50:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+14:51:09:  锁屏状态
+14:51:14:  钞箱配置
+14:51:24:  TCR调测工具 V3.36
+14:52:04:  钞箱配置
+14:52:09:  BTCRTestTool
+14:52:14:  TCR调测工具 V3.36
+14:52:59:  取款
+14:53:09:  TCR调测工具 V3.36
+14:56:19:  取款
+14:56:24:  TCR调测工具 V3.36
+14:57:39:  K64_0000_20200615144220
+14:57:44:  20200615
+14:58:24:  TCR调测工具 V3.36
+14:58:34:  回收 
+14:58:39:  TCR调测工具 V3.36
+14:58:49:  20200615
+14:58:54:  TCR调测工具 V3.36
+14:59:04:  20200615
+14:59:19:  Decode
+14:59:24:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:59:34:  Box_1__0000_20200615145735.log - DRB.tat - TextAnalysisTool.NET
+14:59:39:  Box_1__0000_20200615145735.log - DRB.tat* - TextAnalysisTool.NET
+15:00:04:  LOG
+14:58:24:  TCR调测工具 V3.36
+14:58:34:  回收 
+14:58:39:  TCR调测工具 V3.36
+14:58:49:  20200615
+14:58:54:  TCR调测工具 V3.36
+14:59:04:  20200615
+14:59:19:  Decode
+14:59:24:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:59:34:  Box_1__0000_20200615145735.log - DRB.tat - TextAnalysisTool.NET
+14:59:39:  Box_1__0000_20200615145735.log - DRB.tat* - TextAnalysisTool.NET
+15:00:04:  LOG
+15:00:09:  C:\Windows\py.exe
+15:00:24:  取款
+15:00:29:  TCR调测工具 V3.36
+15:01:19:  C:\Windows\py.exe
+15:01:29:  LOG
+15:01:34:  CashboxDatePur-V1.7.py - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20200615\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)
+15:01:39:  *Python 3.7.3 Shell*
+15:01:44:  LOG
+15:01:49:  TheOneForExcel.xls  [兼容模式] - Excel
+15:01:59:  钞箱配置
+15:02:04:  桌面整理
+15:02:09:  TCR调测工具 V3.36
+15:02:34:  库
+15:02:39:  桌面整理
+15:02:44:  新建Microsoft Excel 工作表.xlsx - Excel
+15:02:54:  TCR调测工具 V3.36
+15:02:59:  TheOneForExcel.xls  [兼容模式] - Excel
+15:03:34:  TCR调测工具 V3.36
+15:03:39:  取款
+15:03:44:  TCR调测工具 V3.36
+15:04:04:  Microsoft Excel
+15:04:09:  BTCRTestTool V3.36
+15:04:14:  TCR调测工具 V3.36
+15:04:34:  TCRControlCmdDLL
+15:04:39:  TCR调测工具 V3.36
+15:10:09:  钞箱配置
+15:10:14:  TCR调测工具 V3.36
+15:11:14:  取款
+15:11:19:  TCR调测工具 V3.36
+15:11:44:  Box_1__0000_20200615145735.log - DRB.tat* - TextAnalysisTool.NET
+15:11:59:  TCR调测工具 V3.36
+15:12:49:  Box_1__0000_20200615145735.log - DRB.tat* - TextAnalysisTool.NET
+15:13:19:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:13:24:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:13:34:  TCR调测工具 V3.36
+15:13:44:  本地磁盘 (D:)
+15:13:49:  DRB-PRESS
+15:13:54:  SECSplashWnd
+15:13:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:14:19:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+15:14:24:  TCR调测工具 V3.36
+15:14:29:  打开
+15:14:34:  TCR调测工具 V3.36
+15:14:44:  物料处理
+15:14:49:  TCR调测工具 V3.36
+15:14:19:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+15:14:24:  TCR调测工具 V3.36
+15:14:29:  打开
+15:14:34:  TCR调测工具 V3.36
+15:14:44:  物料处理
+15:14:49:  TCR调测工具 V3.36
+15:15:39:  取款
+15:15:44:  TCR调测工具 V3.36
+15:16:49:  取款
+15:16:54:  TCR调测工具 V3.36
+15:16:59:  Tools
+15:17:04:  TCR调测工具 V3.36
+15:18:14:  20200615
+15:18:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:18:29:  20200615
+15:18:34:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:18:39:  K64_0000_20200615151653
+15:18:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:18:49:  Decode
+15:20:14:  DRB-PRESS
+15:20:19:  TCR调测工具 V3.36
+15:21:09:  取款
+15:21:14:  TCR调测工具 V3.36
+15:23:09:  Tools
+15:23:14:  20200615
+15:23:59:  Decode
+15:24:04:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:24:09:  Decode
+15:24:14:  C:\Windows\py.exe
+15:24:19:  TheOneForExcel.xls  [兼容模式] - Excel
+15:25:04:  锁屏状态
+15:25:09:  K64_0000_20200615152237
+15:25:14:  Box_1__0000_20200615152237.log - DRB.tat* - TextAnalysisTool.NET
+15:26:04:  于斌1
+15:26:49:  主页 - Internet Explorer
+15:26:54:  系统登录 - Internet Explorer
+15:26:59:  新北洋OA信息化平台 - Internet Explorer
+15:27:04:  Windows 安全
+15:27:09:  新北洋OA信息化平台 - Internet Explorer
+15:27:34:  TCR调测工具 V3.36
+15:27:49:  于斌1
+15:28:24:  新北洋OA信息化平台 - Internet Explorer
+15:28:34:  eSpace
+15:28:39:  于斌1
+15:28:49:  新北洋OA信息化平台 - Internet Explorer
+15:29:09:  于斌1
+15:29:34:  TextAnalysisTool.NET
+15:29:39:  TCR调测工具 V3.36
+15:29:44:  于斌1
+15:30:04:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:28:24:  新北洋OA信息化平台 - Internet Explorer
+15:28:34:  eSpace
+15:28:39:  于斌1
+15:28:49:  新北洋OA信息化平台 - Internet Explorer
+15:29:09:  于斌1
+15:29:34:  TextAnalysisTool.NET
+15:29:39:  TCR调测工具 V3.36
+15:29:44:  于斌1
+15:30:04:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:31:39:  于斌1
+15:32:19:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+15:32:24:  untitled (press2) - Sublime Text (UNREGISTERED)
+15:32:34:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+15:32:54:  于斌1
+15:33:14:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+15:33:24:  于斌1
+15:33:29:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+15:33:59:  于斌1
+15:34:04:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+15:34:09:  于斌1
+15:34:19:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+15:34:24:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\GateModule.h (press2) - Sublime Text (UNREGISTERED)
+15:34:29:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+15:34:39:  于斌1
+15:35:04:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\GateModule.h (press2) - Sublime Text (UNREGISTERED)
+15:35:19:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+15:35:29:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:35:39:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:35:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:35:54:  于斌1
+15:36:14:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:36:34:  于斌1
+15:36:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:37:14:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:37:24:  于斌1
+15:38:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:38:54:  网易有道词典
+15:39:04:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:39:19:  D:\00-18\CRS\FwLib\OpticalSensor\OpticalSensor.c (CRS) - Sublime Text (UNREGISTERED)
+15:39:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:39:29:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:39:34:  于斌1
+15:39:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:40:24:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:42:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:42:44:  于斌1
+15:43:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:44:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:44:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:44:29:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:44:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:44:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:45:04:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:44:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:44:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:44:29:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:44:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:44:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:45:04:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:45:19:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:45:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:45:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:45:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:46:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:46:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:46:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:46:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:46:49:  于斌1
+15:46:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:46:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:47:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:48:19:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:48:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:48:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+15:48:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:48:44:  于斌1
+15:49:14:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+15:50:29:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+15:50:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:53:09:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:53:14:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:58:39:  于斌1
+15:58:49:  本地磁盘 (D:)
+15:58:54:  1T1-Stop-Length
+15:58:59:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+15:59:04:  TrackCtrl.c-revBASE.svn001.tmp.c <--> TrackCtrl.c - Text Compare - Beyond Compare
+15:59:14:  trunk
+15:59:19:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+15:59:24:  TrackCtrl.c-rev3902.svn000.tmp.c <--> TrackCtrl.c-rev3903.svn000.tmp.c - Text Compare - Beyond Compare
+15:59:39:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+15:58:39:  于斌1
+15:58:49:  本地磁盘 (D:)
+15:58:54:  1T1-Stop-Length
+15:58:59:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+15:59:04:  TrackCtrl.c-revBASE.svn001.tmp.c <--> TrackCtrl.c - Text Compare - Beyond Compare
+15:59:14:  trunk
+15:59:19:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+15:59:24:  TrackCtrl.c-rev3902.svn000.tmp.c <--> TrackCtrl.c-rev3903.svn000.tmp.c - Text Compare - Beyond Compare
+15:59:39:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:00:14:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:00:44:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:01:09:  TrackCtrl.c-rev3899.svn000.tmp.c <--> TrackCtrl.c-rev3900.svn000.tmp.c - Text Compare - Beyond Compare
+16:01:14:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:01:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:01:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:02:19:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:04:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+16:04:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:04:44:  trunk
+16:04:49:  Project
+16:04:54:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:05:29:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+16:05:34:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:06:14:  「开始」菜单
+16:06:24:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:06:39:  trunk
+16:06:44:  Tools
+16:07:14:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:07:24:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T98(去掉托板按张数下降功能) - 写邮件
+16:08:24:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:08:29:  Tools
+16:08:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:08:49:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:08:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:09:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:10:14:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:11:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:12:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:12:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:13:29:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:13:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:14:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:14:29:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:14:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:14:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:15:04:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:14:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:14:29:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:14:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:14:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:15:04:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:15:14:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:15:19:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:15:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:15:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:15:59:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:16:04:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:17:24:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:19:29:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:19:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:20:14:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:20:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:20:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:21:04:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:21:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:22:14:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:22:19:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:23:09:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:23:29:  D:\00-18\CRS\Applications\CashManage\CashManage.c (CRS) - Sublime Text (UNREGISTERED)
+16:23:34:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:23:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:23:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:23:54:  D:\00-18\CRS\Applications\CashManage\CashManage.h (CRS) - Sublime Text (UNREGISTERED)
+16:24:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:24:34:  于斌1
+16:25:14:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:25:24:  于斌1
+16:25:29:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:25:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:25:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:25:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:26:49:  技术中心奖【2020】09号-关于给予固件一室姚世龙即时奖励的通报
+16:28:49:  于斌1
+16:29:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:28:49:  于斌1
+16:29:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:30:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:31:59:  于斌1
+16:32:19:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:32:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:32:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:34:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:34:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:34:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:34:54:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:35:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:35:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:35:54:  于斌1
+16:36:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:37:19:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:37:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:38:14:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:38:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:38:29:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:38:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:38:44:  TCR调测工具 V3.36
+16:39:14:  trunk
+16:39:19:  K64_0000_20200615152237
+16:39:24:  20200615
+16:39:29:  Decode
+16:39:34:  跳转列表
+16:39:39:  K64-_0000_20200615163857.log - [No filter file] - TextAnalysisTool.NET
+16:39:54:  K64_0000_20200615163857
+16:40:04:  1T1-Stop-Length
+16:40:09:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:40:24:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+16:40:29:  TrackCtrl.c-revBASE.svn001.tmp.c <--> TrackCtrl.c - Text Compare - Beyond Compare
+16:42:09:  YodaoDictSCRTRLWnd
+16:42:14:  TrackCtrl.c-revBASE.svn001.tmp.c <--> TrackCtrl.c - Text Compare - Beyond Compare
+16:42:19:  trunk
+16:42:29:  1T1-Stop-Length
+16:42:34:  trunk
+16:42:44:  运行
+16:42:54:  锁屏状态
+16:43:04:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:43:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:43:34:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:44:14:  eSpace
+16:44:19:  于斌1
+16:44:39:  锁屏状态
+16:44:44:  192.168.28.47
+16:44:49:  固件版本
+16:44:54:  最新固件
+16:44:59:  K06
+16:44:14:  eSpace
+16:44:19:  于斌1
+16:44:39:  锁屏状态
+16:44:44:  192.168.28.47
+16:44:49:  固件版本
+16:44:54:  最新固件
+16:44:59:  K06
+16:45:09:  1T1-Stop-Length
+16:45:14:  Project
+16:45:24:  Tools
+16:45:29:  trunk
+16:45:34:  milestone.txt - 记事本
+16:45:39:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:45:49:  trunk
+16:45:59:  192.168.28.47
+16:46:04:  于斌1
+16:46:14:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:46:34:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:46:44:  192.168.28.47
+16:46:49:  固件版本
+16:46:54:  K06
+16:47:04:  trunk
+16:50:34:  TrackCtrl.c-revBASE.svn003.tmp.c <--> TrackCtrl.c - Text Compare - Beyond Compare
+16:50:39:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+16:50:44:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:50:49:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+16:52:04:  TrackCtrl.c-revBASE.svn005.tmp.c <--> TrackCtrl.c - Text Compare - Beyond Compare
+16:52:29:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:52:34:  untitled (trunk) - Sublime Text (UNREGISTERED)
+16:52:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:53:39:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:53:44:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+16:54:04:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c - 提交 - TortoiseSVN
+16:54:09:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:54:14:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:54:19:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:54:24:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:54:29:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:54:34:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:54:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:57:04:  BNE-R1200M-01-0000R (活动的) - Creo Parametric 2.0
+16:58:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:58:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:58:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:58:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:59:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:59:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+16:59:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h • (CRS) - Sublime Text (UNREGISTERED)
+16:59:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+16:59:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:59:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:58:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:58:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:58:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:58:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+16:59:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:59:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+16:59:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h • (CRS) - Sublime Text (UNREGISTERED)
+16:59:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+16:59:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+16:59:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:00:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+17:00:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:01:19:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+17:01:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:01:29:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+17:01:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:01:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+17:01:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:01:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+17:01:54:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:01:59:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+17:02:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:02:14:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+17:02:19:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h • (CRS) - Sublime Text (UNREGISTERED)
+17:02:24:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:02:29:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+17:02:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:02:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+17:02:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:03:19:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:03:29:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:03:34:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+17:03:39:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:03:44:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS) - Sublime Text (UNREGISTERED)
+17:03:49:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:03:54:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:04:04:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.h (CRS) - Sublime Text (UNREGISTERED)
+17:04:09:  D:\00-18\CRS\Applications\PlateCtrl\PlateCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:04:14:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+17:04:29:  锁屏状态

@@ -1,0 +1,1050 @@
+08:00:15:  回复: 回复: 美国专利分析
+08:00:45:  于斌1
+08:02:05:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotorConfig.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:07:15:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:07:25:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+08:07:35:  TCR调测工具 V3.36
+08:07:55:  打开
+08:08:00:  TCR调测工具 V3.36
+08:09:55:  托板控制
+08:11:20:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:12:20:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+08:12:25:  TCR调测工具 V3.36
+08:13:10:  托板控制
+08:13:40:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotorConfig.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:13:45:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:13:55:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:14:15:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:14:25:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+08:14:35:  TCR调测工具 V3.36
+08:14:15:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:14:25:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+08:14:35:  TCR调测工具 V3.36
+08:15:35:  托板控制
+08:15:50:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:16:05:  00-06
+08:16:10:  检查更新
+08:16:15:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+08:16:20:  UpperPlateCtrl.c - TortoiseMerge
+08:16:30:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+08:16:40:  UpperPlate.c - TortoiseMerge
+08:17:20:  μVision
+08:17:25:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:17:30:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+08:17:35:  TCR调测工具 V3.36
+08:18:00:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:18:05:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:18:10:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:18:15:  D:\00-06\DRB-PRESS\Middlewares\Plate\PlateCommon.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:18:20:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:18:45:  TCR调测工具 V3.36
+08:18:50:  托板控制
+08:19:10:  打开
+08:19:15:  TCR调测工具 V3.36
+08:19:50:  自动播放
+08:21:40:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:21:45:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:22:30:  杂项物料领料人员变更
+08:22:45:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:22:55:  新标签页 - Google Chrome
+08:23:01:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:23:11:  本地磁盘 (E:)
+08:23:21:  *Python 3.7.3 Shell*
+08:23:51:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:23:56:  *Python 3.7.3 Shell*
+08:24:01:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:24:06:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:24:41:  Python 3.7.3 Shell
+08:24:46:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:24:51:  CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)
+08:24:56:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:25:01:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:25:06:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:25:26:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:25:31:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:25:46:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:25:56:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:26:11:  新标签页 - Google Chrome
+08:26:36:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:26:46:  www.23txt.com - Google Chrome
+08:26:56:  于斌1
+08:27:06:  新建文本文档.exe - 快捷方式
+08:27:11:  www.23txt.com - Google Chrome
+08:27:16:  于斌1
+08:27:21:  www.23txt.com - Google Chrome
+08:27:36:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:27:41:  www.23txt.com - Google Chrome
+08:27:52:  百度一下，你就知道 - Google Chrome
+08:28:02:  https://www.baidu.com/link?url=JE1dUL33vcVT8p1KB8VxvinY_J7i5VS80cjx3MwFO4S&wd=&eqid=80444fc0000907c7000000025f29fd0d - Google Chrome
+08:28:07:  新建文本文档.exe - 快捷方式
+08:28:12:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:28:07:  新建文本文档.exe - 快捷方式
+08:28:12:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:30:42:  锁屏状态
+08:30:47:  于斌1
+08:30:52:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:30:57:  刘雅
+08:31:32:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:31:37:  于斌1
+08:32:12:  桌面整理
+08:32:22:  开始
+08:32:27:  打开
+08:32:32:  TCR调测工具 V3.36
+08:34:12:  于斌1
+08:34:17:  TCR调测工具 V3.36
+08:34:22:  于斌1
+08:34:27:  TCR调测工具 V3.36
+08:34:32:  于斌1
+08:34:37:  TCR调测工具 V3.36
+08:34:52:  于斌1
+08:34:57:  TCR调测工具 V3.36
+08:35:07:  于斌1
+08:35:32:  TCR调测工具 V3.36
+08:35:52:  于斌1
+08:36:07:  桌面整理
+08:36:12:  于斌1
+08:36:22:  计算器
+08:36:32:  于斌1
+08:36:47:  钞箱1T2集成测试方案
+08:36:52:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+08:37:02:  50元反向盘点299张报钞箱口 500ms纸币未进入 返回码0X045E0900
+08:37:12:  TCR调测工具 V3.36
+08:37:17:  模块使能
+08:37:37:  打开
+08:37:47:  运行
+08:37:52:  192.168.28.47
+08:37:57:  样机配置履历表
+08:38:02:  K18
+08:38:07:  桌面整理
+08:38:12:  TCR调测工具 V3.36
+08:38:27:  模块使能
+08:39:17:  托板控制
+08:39:32:  TCR调测工具 V3.36
+08:39:37:  传感器AD值测试
+08:41:27:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:41:32:  untitled (00-18) - Sublime Text (UNREGISTERED)
+08:41:47:  D:\00-18\TCR-18\Applications\PlateCtrl\PlateCtrl.c (00-18) - Sublime Text (UNREGISTERED)
+08:42:22:  传感器AD值测试
+08:42:27:  D:\00-18\TCR-18\Applications\PlateCtrl\PlateCtrl.c (00-18) - Sublime Text (UNREGISTERED)
+08:42:32:  TCR调测工具 V3.36
+08:42:42:  传感器AD值测试
+08:44:27:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+08:44:47:  5.1 BOOTLOADER测试.xls  [兼容模式] - Excel
+08:44:52:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+08:45:02:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202008041910.log
+08:44:27:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+08:44:47:  5.1 BOOTLOADER测试.xls  [兼容模式] - Excel
+08:44:52:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+08:45:02:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202008041910.log
+08:45:07:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:45:22:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:45:32:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:45:52:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:45:57:  锁屏状态
+08:46:02:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:46:17:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:46:22:  eSpace
+08:46:27:  刘雅
+08:46:32:  eSpace
+08:46:37:  吉哲
+08:46:57:  eSpace
+08:47:02:  吉哲
+08:47:27:  未命名 - 写邮件
+08:48:27:  未命名 - 写邮件   08:48:27 已保存
+08:48:47:  DRB集成测试评 - 写邮件   08:48:44 已保存
+08:48:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:49:02:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:49:07:  钞箱1T2集成测试方案
+08:49:12:  Subversion
+08:49:17:  新建文本文档.txt - 记事本
+08:49:22:  新建文本文档.py - C:\Users\zhangkaifa\Pictures\新建文本文档.py (3.7.3)
+08:49:27:  新建文本文档.pyw - C:\Users\zhangkaifa\Pictures\新建文本文档.pyw (3.7.3)
+08:49:32:  图片
+08:49:37:  截图2.PNG - Windows 照片查看器
+08:49:42:  截图3.PNG - Windows 照片查看器
+08:50:07:  图片
+08:50:27:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:50:37:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotorConfig.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:51:02:  计算器
+08:52:27:  图片
+08:52:32:  本地磁盘 (E:)
+08:52:42:  DRB-PRESS
+08:52:47:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:53:42:  锁屏状态
+08:53:47:  02-学习资料
+08:53:57:  C Primer Plus 第6版 中文版.pdf - Adobe Reader
+08:55:27:  Adobe Reader
+08:55:32:  C Primer Plus 第6版 中文版.pdf - Adobe Reader
+08:58:02:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotorConfig.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:59:07:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:59:12:  D:\00-06\DRB-PRESS\Middlewares\Lock\Lock.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:59:07:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:59:12:  D:\00-06\DRB-PRESS\Middlewares\Lock\Lock.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:02:08:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:02:13:  「开始」菜单
+09:02:18:  eSpace
+09:02:28:  D:\00-06\DRB-PRESS\Middlewares\Lock\Lock.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:02:53:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:06:18:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202008041910.log
+09:06:43:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:06:48:  D:\00-06\DRB-PRESS\Middlewares\Lock\Lock.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:06:58:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202008041910.log
+09:07:13:  D:\00-06\DRB-PRESS\Middlewares\Lock\Lock.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:08:03:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:11:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:12:08:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:12:13:  μVision
+09:12:18:  锁屏状态
+09:12:23:  打开
+09:12:38:  Tools
+09:12:48:  TCR调测工具 V3.36
+09:13:18:  托板控制
+09:13:38:  TCR调测工具 V3.36
+09:13:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:13:53:  计算器
+09:14:18:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+09:14:23:  打开
+09:14:28:  TCR调测工具 V3.36
+09:14:48:  刘雅
+09:14:53:  本地磁盘 (D:)
+09:14:58:  钞箱1T2集成测试方案
+09:15:03:  DRB集成测试
+09:14:18:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+09:14:23:  打开
+09:14:28:  TCR调测工具 V3.36
+09:14:48:  刘雅
+09:14:53:  本地磁盘 (D:)
+09:14:58:  钞箱1T2集成测试方案
+09:15:03:  DRB集成测试
+09:15:08:  正在创建压缩文件 钞箱1T2集成测试方案.rar
+09:15:13:  DRB集成测试报告.xlsx - Excel
+09:15:43:  DRB集成测试
+09:15:53:  yf-zhangkaifa
+09:15:58:  刘雅
+09:16:18:  DRB集成测试
+09:16:23:  刘雅
+09:16:38:  DRB集成测试
+09:16:43:  正在从 钞箱1T2集成测试方案.rar 中提取
+09:16:48:  DRB集成测试
+09:16:53:  钞箱1T2集成测试方案.rar - WinRAR (非商业个人版)
+09:16:58:  压缩文件名和参数
+09:17:08:  DRB集成测试
+09:17:18:  压缩文件名和参数
+09:17:23:  DRB集成测试
+09:17:33:  刘雅
+09:17:53:  钞箱1T2集成测试方案
+09:17:58:  DRB集成测试
+09:18:03:  钞箱1T2集成测试方案
+09:18:13:  DRB集成测试
+09:18:18:  钞箱1T2集成测试方案
+09:18:23:  DRB集成测试
+09:18:28:  压缩文件名和参数
+09:18:33:  DRB集成测试
+09:18:38:  钞箱1T2集成测试方案.part1 - 写邮件
+09:18:43:  发送邮件
+09:18:48:  未命名 - 写邮件
+09:18:53:  钞箱1T2集成测试方案.part2 - 写邮件
+09:18:58:  刘雅
+09:19:08:  DRB-PRESS
+09:19:13:  Tools
+09:19:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:19:28:  TCR调测工具 V3.36
+09:19:33:  托板控制
+09:20:08:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:20:18:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:20:23:  Tools
+09:20:28:  TCR调测工具 V3.36
+09:20:33:  打开
+09:20:38:  TCR调测工具 V3.36
+09:20:58:  托板控制
+09:21:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:21:28:  Tools
+09:21:38:  TCR调测工具 V3.36
+09:21:43:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:21:48:  D:\00-06\DRB-PRESS\Middlewares\Lock\Lock.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:21:53:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:22:08:  托板控制
+09:22:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:22:33:  Tools
+09:22:38:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+09:22:43:  托板控制
+09:22:48:  TCR调测工具 V3.36
+09:23:13:  托板控制
+09:23:28:  TCR调测工具 V3.36
+09:23:33:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotorConfig.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:23:38:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:23:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:24:03:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:24:08:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:24:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:24:48:  Tools
+09:24:53:  删除多个项目
+09:24:58:  Tools
+09:25:08:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+09:25:13:  TCR调测工具 V3.36
+09:25:33:  托板控制
+09:25:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:26:33:  Tools
+09:26:38:  托板控制
+09:26:43:  TCR调测工具 V3.36
+09:27:03:  托板控制
+09:27:23:  TCR调测工具 V3.36
+09:28:43:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:28:48:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:28:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:29:13:  Tools
+09:29:18:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+09:29:23:  TCR调测工具 V3.36
+09:28:43:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:28:48:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:28:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:29:13:  Tools
+09:29:18:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+09:29:23:  TCR调测工具 V3.36
+09:30:38:  托板控制
+09:31:03:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:31:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:32:33:  μVision
+09:32:43:  JLink - Cortex-M Error
+09:32:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:32:58:  JLink - Cortex-M Error
+09:33:03:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:33:33:  Toolbox
+09:33:38:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:35:28:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+09:35:33:  Tools
+09:35:48:  托板控制
+09:35:53:  TCR调测工具 V3.36
+09:36:08:  打开
+09:36:28:  TCR调测工具 V3.36
+09:36:58:  托板控制
+09:37:43:  Tools
+09:37:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:38:13:  Tools
+09:38:18:  锁屏状态
+09:38:23:  TCR调测工具 V3.36
+09:38:58:  托板控制
+09:39:38:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:39:48:  D:\00-06\DRB-PRESS\Middlewares\Lock\Lock.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:39:53:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:40:03:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:40:08:  Tools
+09:40:13:  托板控制
+09:40:18:  打开
+09:40:23:  TCR调测工具 V3.36
+09:40:53:  托板控制
+09:41:13:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:41:23:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:41:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:41:48:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+09:41:53:  打开
+09:41:58:  TCR调测工具 V3.36
+09:43:08:  托板控制
+09:44:13:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:44:38:  TCR调测工具 V3.36
+09:44:53:  Tools
+09:44:58:  打开
+09:45:03:  TCR调测工具 V3.36
+09:44:13:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:44:38:  TCR调测工具 V3.36
+09:44:53:  Tools
+09:44:58:  打开
+09:45:03:  TCR调测工具 V3.36
+09:45:23:  托板控制
+09:47:13:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:47:23:  D:\00-06\DRB-PRESS\Middlewares\Lock\Lock.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:47:28:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:47:33:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:47:38:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:48:03:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+09:48:33:  TCR调测工具 V3.36
+09:49:28:  托板控制
+09:54:54:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:54:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:55:09:  Tools
+09:55:19:  TCR调测工具 V3.36
+09:55:44:  托板控制
+09:57:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:57:59:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+09:58:04:  TCR调测工具 V3.36
+09:58:39:  托板控制
+09:59:04:  TCR调测工具 V3.36
+09:59:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:58:39:  托板控制
+09:59:04:  TCR调测工具 V3.36
+09:59:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:02:59:  TCR调测工具 V3.36
+10:03:14:  托板控制
+10:03:34:  计算器
+10:03:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:03:44:  Tools
+10:03:49:  TCR调测工具 V3.36
+10:04:14:  托板控制
+10:04:29:  TCR调测工具 V3.36
+10:08:44:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:08:49:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:09:29:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:09:44:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:10:29:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:10:54:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:10:59:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:11:04:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:11:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:14:54:  钞箱1T2集成测试方案
+10:14:59:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+10:14:54:  钞箱1T2集成测试方案
+10:14:59:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+10:15:19:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:16:24:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:16:29:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:17:04:  吉哲
+10:17:24:  eSpace
+10:17:49:  吉哲
+10:19:04:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:19:29:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:31:54:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:31:59:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+10:32:04:  钞箱1T2集成测试方案
+10:32:14:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:32:44:  新标签页 - Google Chrome
+10:32:49:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:33:24:  D:\00-06\DRB-PRESS\Drivers\M24SRDriver\drv_M24SR.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:33:29:  D:\00-06\DRB-PRESS\Drivers\M24SRDriver\drv_I2C_M24SR.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:33:34:  百度一下，你就知道 - Google Chrome
+10:33:39:  rf读写器_百度搜索 - Google Chrome
+10:33:49:  D:\00-06\DRB-PRESS\Drivers\M24SRDriver\drv_I2C_M24SR.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:34:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:34:59:  新标签页 - Google Chrome
+10:35:04:  百度一下，你就知道 - Google Chrome
+10:35:09:  ios 读写 NFC_百度搜索 - Google Chrome
+10:35:19:  iOS11中NFC的使用 - 简书 - Google Chrome
+10:35:34:  ios 读写 NFC_百度搜索 - Google Chrome
+10:35:49:  NFC 读写 APP_百度搜索 - Google Chrome
+10:35:54:  #神器#NFC手机复制门禁卡-百度经验 - Google Chrome
+10:36:14:  NFC 读写 APP_百度搜索 - Google Chrome
+10:36:19:  https://www.baidu.com/link?url=ADZuNESoo-LDvWKOYqH-SycrbBoCMXE8MwpmlDlfdZ5q9i1BlCfHm_R8UBP5VM_ghhxD-2YiHHx6NJkj9oa_Pa&wd=&eqid=8a10427b00102587000000025f2a1b00 - Google Chrome
+10:36:24:  NFC 读写 APP_百度搜索 - Google Chrome
+10:36:29:  NFC读卡APP - jiftle - 博客园 - Google Chrome
+10:36:44:  nfc万能读写软件_百度搜索 - Google Chrome
+10:37:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:38:29:  C:\Users\zhangkaifa\AppData\Roaming\Foxmail7\Temp-5128-20200803095020\Attach\Nfc.c
+10:38:39:  C:\Users\zhangkaifa\AppData\Roaming\Foxmail7\Temp-5128-20200803095020\Attach\Nfc(2).c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:38:49:  C:\Users\zhangkaifa\AppData\Roaming\Foxmail7\Temp-5128-20200803095020\Attach\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:40:04:  D:\00-06\DRB-PRESS\FwLib\StdSnbc\StdMacro.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:40:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:40:39:  nfc万能读写软件_百度搜索 - Google Chrome
+10:40:49:  nfc读写软件app_百度搜索 - Google Chrome
+10:40:54:  nfc软件哪个好用?手机nfc读写软件_nfc app软件下载_绿色资源网 - Google Chrome
+10:41:04:  nfc读写软件app_百度搜索 - Google Chrome
+10:41:09:  NFC读卡器软件app下载-NFC读卡器appv7.2 最新版-腾牛安卓网 - Google Chrome
+10:41:14:  nfc读写软件app_百度搜索 - Google Chrome
+10:41:19:  新建文本文档.exe - 快捷方式
+10:41:24:  eSpace
+10:41:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:42:04:  eSpace
+10:42:14:  程明昌
+10:42:59:  eSpace
+10:43:09:  陈卫珍
+10:43:29:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:43:44:  陈卫珍
+10:45:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:45:29:  eSpace
+10:45:34:  吉哲
+10:46:14:  eSpace
+10:46:19:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:46:54:  eSpace
+10:47:19:  nfc读写软件app_百度搜索 - Google Chrome
+10:47:39:  读取NFC数据_百度搜索 - Google Chrome
+10:47:44:  手机 读取NFC数据_百度搜索 - Google Chrome
+10:47:59:  Android 使用手机NFC的读取NFC标签数据的方法_Android_脚本之家 - Google Chrome
+10:48:29:  手机 读取NFC数据_百度搜索 - Google Chrome
+10:48:34:  https://www.baidu.com/link?url=vo5zh_hS0ngXdUPKrXAJnYpXHDPD-nbttfuwZgVpxklGSbw6RIRS8oQOaw7j0u1wrbLf74R4lY83mPd7YMyuBSGWOjqaIR8E2ARuLxnBHry&wd=&eqid=b8809a4700003ad1000000025f2a1dce - Google Chrome
+10:48:39:  手机 读取NFC数据_百度搜索 - Google Chrome
+10:48:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:49:29:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+10:49:34:  新建文本文档.exe - 快捷方式
+10:49:39:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+10:51:19:  钞箱1T2集成测试方案
+10:51:29:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+10:51:34:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:53:19:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:53:29:  TCR调测工具 V3.36
+10:53:49:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:53:59:  3.4 - Everything
+10:54:04:  v3.4 - Everything
+10:54:19:  BTCRTestTool - Everything
+10:54:34:  本地磁盘 (D:)
+10:54:39:  BTCRTestTool - Everything
+10:54:44:  TCR调测工具（研发版）V3.41
+10:54:49:  RFID
+10:54:59:  BTCRTestTool
+10:55:04:  RFID
+10:55:14:  TCR调测工具（研发版）V3.41
+10:55:29:  fenxi
+10:55:34:  DRB集成测试
+10:55:39:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+10:55:54:  M2 - Everything
+10:56:04:  M - Everything
+10:56:09:  M24SR - Everything
+10:56:29:  M24SR.*?.pdf - Everything
+10:56:34:  M24.*?.pdf - Everything
+10:56:39:  M24C64（ST DF-0.1623美元 -R 0.0979） .pdf - Adobe Reader
+10:57:34:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+10:57:44:  M24.*?.pdf - Everything
+10:57:49:  钞箱资料
+10:57:59:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+10:58:19:  5.2 EEPROM测试V1.0.xls  [兼容模式] - Excel
+10:58:24:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+10:58:29:  Microsoft Excel
+10:58:44:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:59:19:  计算器
+10:59:34:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:58:19:  5.2 EEPROM测试V1.0.xls  [兼容模式] - Excel
+10:58:24:  5.21 NFC测试V1.0.xls  [兼容模式] - Excel
+10:58:29:  Microsoft Excel
+10:58:44:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:59:19:  计算器
+10:59:34:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:01:04:  吉哲
+11:01:44:  eSpace
+11:01:49:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:02:04:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:05:24:  「开始」菜单
+11:05:29:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:05:54:  网易有道词典
+11:06:04:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:08:39:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:08:49:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:08:59:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:10:04:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:11:09:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:11:29:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:11:34:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:12:19:  TCR调测工具（研发版）V3.41
+11:12:29:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:12:39:  μVision
+11:12:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:17:29:  M24.*?.pdf - Everything
+11:17:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:23:49:  新标签页 - Google Chrome
+11:25:29:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:07:30:  跳转列表
+13:07:40:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:08:20:  吉哲
+13:08:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:11:45:  新标签页 - Google Chrome
+13:11:50:  锁屏状态
+13:11:55:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:12:00:  TCR调测工具（研发版）V3.41
+13:13:05:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:13:15:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:13:20:  D:\00-06\DRB-PRESS\Drivers\M24SRDriver\drv_I2C_M24SR.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:13:30:  D:\00-06\DRB-PRESS\Drivers\M24SRDriver\drv_I2C_M24SR.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:15:10:  42 CRS现金循环模块
+13:15:15:  正在打开 - PowerPoint
+13:15:20:  钞箱集成测试方案-报告
+13:15:25:  5.21 NFC测试V1.0.xls  [受保护的视图] - Excel
+13:15:30:  Excel
+13:15:35:  5.21 NFC测试V1.0.xls  [只读]  [兼容模式] - Excel
+13:16:00:  Microsoft Excel
+13:16:05:  5.21 NFC测试V1.0.xls  [只读]  [兼容模式] - Excel
+13:16:20:  对象
+13:16:25:  Microsoft Excel
+13:16:35:  5.21 NFC测试V1.0.xls  [只读]  [兼容模式] - Excel
+13:16:40:  桌面整理
+13:16:45:  5.21 NFC测试V1.0.xls  [只读]  [兼容模式] - Excel
+13:17:00:  钞箱集成测试方案-报告
+13:17:35:  5.21 NFC测试V1.0.xls  [只读]  [兼容模式] - Excel
+13:17:40:  D:\00-06\DRB-PRESS\Drivers\M24SRDriver\drv_I2C_M24SR.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:18:05:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:18:40:  物料规格书,1700-0000022,接口电路.pdf
+13:19:30:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+13:20:00:  锁屏状态
+13:20:05:  D:\00-06\DRB-PRESS\Drivers\M24SRDriver\drv_M24SR.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:20:10:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:20:20:  于斌1
+13:20:30:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:20:40:  于斌1
+13:20:55:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:21:10:  于斌1
+13:21:15:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:21:40:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:21:50:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:21:55:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+13:22:30:  D:\00-06\DRB-PRESS\Drivers\M24SRDriver\drv_M24SR.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:22:35:  D:\00-06\DRB-PRESS\Drivers\M24SRDriver\drv_I2C_M24SR.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:22:40:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+13:23:25:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+13:23:45:  D:\00-06\DRB-PRESS\Drivers\M24SRDriver\drv_M24SR.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:23:50:  于斌1
+13:23:55:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+13:30:00:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:30:00:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:30:10:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:30:40:  Toolbox
+13:30:45:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:31:15:  于斌1
+13:31:25:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:34:20:  于斌1
+13:34:25:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:35:55:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:36:05:  D:\00-06\DRB-PRESS\Drivers\M24SRDriver\drv_I2C_M24SR.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:36:10:  D:\00-06\DRB-PRESS\Drivers\M24SRDriver\drv_I2C_M24SR.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:36:35:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:36:45:  D:\00-06\DRB-PRESS\Drivers\EepromDriver\EepromDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:36:55:  D:\00-06\DRB-PRESS\Drivers\M24SRDriver\drv_I2C_M24SR.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:37:00:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:38:15:  D:\00-06\DRB-PRESS\Drivers\M24SRDriver\drv_I2C_M24SR.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:38:25:  D:\00-06\DRB-PRESS\Middlewares\Plate\LowerPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:39:40:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:39:50:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+13:41:05:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:41:10:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:41:15:  打开
+13:41:20:  TCR调测工具 V3.36
+13:41:30:  新建文本文档.exe - 快捷方式
+13:41:35:  新标签页 - Google Chrome
+13:41:40:  百度一下，你就知道 - Google Chrome
+13:41:45:  手机读取NFC_百度搜索 - Google Chrome
+13:41:50:  Android 使用手机NFC的读取NFC标签数据的方法_Android_脚本之家 - Google Chrome
+13:42:00:  手机读取NFC_百度搜索 - Google Chrome
+13:42:10:  nfc软件哪个好用?手机nfc读写软件_nfc app软件下载_绿色资源网 - Google Chrome
+13:42:15:  https://www.baidu.com/link?url=5ln-hmYhZ3O_ejb-cZJoX4U2pIlfcpShOry0Y-9aHVcagOOKobSeLs2knqc7EVngBfAtRavpVWoyWYl06-ei4J98J478imVLwR0APuRu2Xq&wd=&eqid=b743c8d40000e39e000000025f2a46ad - Google Chrome
+13:42:20:  #神器#NFC手机复制门禁卡-百度经验 - Google Chrome
+13:42:45:  钞箱集成测试方案-报告
+13:44:56:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+13:44:56:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+13:45:26:  百度一下，你就知道 - Google Chrome
+13:45:31:  与ISO/IEC 14443_百度搜索 - Google Chrome
+13:45:36:  https://www.baidu.com/link?url=wWV8Zj--FGZM277P7pD4yb3F5f_9KNemoj4SiORjv5E-cILBfv1PfN3kHckgoNaPXiPiwhLh4yHg3jbX90wzndK0DyIN1LndculgT10d7Ri&wd=&eqid=b4ae2d7a0002a7bf000000025f2a477c - Google Chrome
+13:45:41:  ISO14443A读卡流程_qq_39150545的博客-CSDN博客_. - Google Chrome
+13:45:46:  ISO/IEC 14443 读取_百度搜索 - Google Chrome
+13:45:51:  ISO/IEC 14443 读取软件_百度搜索 - Google Chrome
+13:46:06:  rfid读取软件app_百度搜索 - Google Chrome
+13:46:11:  无需APP，手机读取RFID标签还可以这么简单！_新品发布_新闻中心_RFID世界网 - Google Chrome
+13:46:21:  rfid读取软件app_百度搜索 - Google Chrome
+13:46:31:  ISO14443A读卡流程_qq_39150545的博客-CSDN博客_. - Google Chrome
+13:46:36:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+13:46:41:  rfid读取软件app_百度搜索 - Google Chrome
+13:46:46:  rfid读取 app_百度搜索 - Google Chrome
+13:46:56:  https://www.baidu.com/link?url=wWxmoi81SCSzsxEFeAL7oyRO5EKQSD73tzQExsr2v9Rot688hyW5LxGCU0DO0PIZ&wd=&eqid=f7f6076d0005d5ea000000025f2a47c4 - Google Chrome
+13:47:01:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+13:47:06:  rfid读取 app_百度搜索 - Google Chrome
+13:47:11:  ISO/IEC 14443 读取软件_百度搜索 - Google Chrome
+13:47:21:  A卡读取软件_百度搜索 - Google Chrome
+13:47:26:  A卡读取软件 app_百度搜索 - Google Chrome
+13:47:31:  A卡读取软件_百度搜索 - Google Chrome
+13:47:41:  a 卡读取软件_百度搜索 - Google Chrome
+13:47:46:  RF A 卡读取软件_百度搜索 - Google Chrome
+13:47:51:  Mifare one卡操作程序(ic卡读写器)V1.2 绿色版软件下载 - 绿色先锋下载 - 绿色软件下载站 - Google Chrome
+13:48:01:  RF A 卡读取软件_百度搜索 - Google Chrome
+13:48:11:  RF A 卡读取 app_百度搜索 - Google Chrome
+13:48:16:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+13:48:21:  托板控制
+13:48:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:49:06:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:49:16:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:49:26:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:49:36:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:49:41:  钞箱集成测试方案-报告
+13:49:46:  00-06
+13:49:51:  DRB-PRESS
+13:49:56:  Tools
+13:50:01:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+13:50:06:  TCR调测工具 V3.36
+13:51:36:  托板控制
+13:51:51:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:53:36:  Tools
+13:53:41:  托板控制
+13:53:46:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+13:53:56:  Tools
+13:54:01:  打开
+13:54:06:  TCR调测工具 V3.36
+13:54:11:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:54:41:  TCR调测工具 V3.36
+13:54:46:  托板控制
+13:55:11:  TCR调测工具 V3.36
+13:55:21:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:57:26:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:57:56:  托板控制
+13:58:41:  TCR调测工具 V3.36
+13:59:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:58:41:  TCR调测工具 V3.36
+13:59:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:00:11:  Tools
+14:00:16:  TCR调测工具 V3.36
+14:00:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:00:41:  Tools
+14:01:01:  TCR调测工具 V3.36
+14:01:21:  托板控制
+14:02:01:  TCR调测工具 V3.36
+14:03:26:  托板控制
+14:04:11:  TCR调测工具 V3.36
+14:04:16:  托板控制
+14:05:21:  TCR调测工具 V3.36
+14:06:11:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:20:51:  新建文本文档.exe - 快捷方式
+14:20:56:  RF A 卡读取 app_百度搜索 - Google Chrome
+14:21:36:  于斌1
+14:22:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:24:47:  计算器
+14:26:47:  于斌1
+14:26:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:33:52:  于斌1
+14:34:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:34:12:  Toolbox
+14:34:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:40:32:  于斌1
+14:41:12:  eSpace
+14:42:07:  锁屏状态
+14:42:12:  DRB-PRESS
+14:42:17:  Project
+14:42:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:42:37:  自动播放
+14:43:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:44:52:  eSpace
+14:44:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:45:02:  吉哲
+14:44:52:  eSpace
+14:44:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:45:02:  吉哲
+14:45:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:45:32:  物料规格书,1700-0000022,接口电路.pdf - Adobe Reader
+14:49:42:  吉哲
+14:50:02:  eSpace
+14:50:07:  物料规格书,1700-0000022,接口电路.pdf
+14:50:17:  5.21 NFC测试V1.0.xls  [只读]  [兼容模式] - Excel
+14:50:22:  物料规格书,1700-0000022,接口电路.pdf
+14:50:27:  吉哲
+14:50:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:51:02:  自动播放
+14:51:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:51:12:  吉哲
+14:51:57:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:52:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:52:22:  D:\00-06\DRB-PRESS\Middlewares\Nfc\Nfc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:52:32:  吉哲
+14:52:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:53:52:  钞箱配置
+14:54:02:  TCR调测工具 V3.36
+14:55:57:  eSpace
+15:01:22:  TCR调测工具 V3.36
+15:04:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:13:47:  戚晓东
+15:16:12:  TCR调测工具 V3.36
+15:16:17:  钞箱使能
+15:16:22:  模块使能
+15:20:52:  TCR调测工具 V3.36
+15:21:27:  钞箱配置
+15:21:37:  TCR调测工具 V3.36
+15:23:32:  发送指令到K06
+15:23:42:  TCR调测工具 V3.36
+15:25:32:  取款
+15:25:37:  TCR调测工具 V3.36
+15:26:42:  eSpace
+15:26:57:  王兆文
+15:27:02:  详细信息
+15:27:07:  王兆文
+15:27:17:  eSpace
+15:27:22:  TCR调测工具 V3.36
+15:27:27:  取款
+15:29:47:  TCR调测工具 V3.36
+15:29:47:  TCR调测工具 V3.36
+15:31:47:  发送指令到K06
+15:32:02:  TCR调测工具 V3.36
+15:33:27:  锁屏状态
+15:33:32:  06 固件日报
+15:33:37:  固件集成测试方案
+15:33:42:  主页 - Internet Explorer
+15:33:47:  系统登录 - Internet Explorer
+15:33:52:  新北洋OA信息化平台 - Internet Explorer
+15:33:57:  测试需求通知单II类提交 - Internet Explorer
+15:34:02:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+15:34:17:  http://oa.byintra.com/Web/Form/PLC/TestRequirements2/File/II类测试工作流操作说明.doc - Internet Explorer
+15:34:22:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+15:34:27:  新北洋OA信息化平台 - Internet Explorer
+15:34:32:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+15:34:42:  II类测试工作流操作说明.doc [只读] [兼容模式] - Word
+15:34:52:  新北洋OA信息化平台 - Internet Explorer
+15:35:12:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+15:35:32:  发送指令到K06
+15:35:37:  TCR调测工具 V3.36
+15:36:42:  发送指令到K06
+15:36:47:  TCR调测工具 V3.36
+15:43:07:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+15:43:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:43:27:  μVision
+15:43:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:43:42:  TCR调测工具 V3.36
+15:44:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:44:17:  TCR调测工具 V3.36
+15:44:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:44:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:44:17:  TCR调测工具 V3.36
+15:44:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:46:07:  取款
+15:46:12:  TCR调测工具 V3.36
+15:54:07:  物料规格书,1700-0000022,接口电路.pdf
+15:54:32:  王兆文
+15:58:22:  自动播放
+15:58:27:  TCR调测工具 V3.36
+15:58:37:  钞箱配置
+15:58:42:  TCR调测工具 V3.36
+16:00:02:  取款
+15:58:22:  自动播放
+15:58:27:  TCR调测工具 V3.36
+15:58:37:  钞箱配置
+15:58:42:  TCR调测工具 V3.36
+16:00:02:  取款
+16:00:27:  钞箱配置
+16:00:37:  取款
+16:00:42:  TCR调测工具 V3.36
+16:04:42:  桌面整理
+16:04:47:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+16:05:52:  本地磁盘 (D:)
+16:05:57:  钞箱1T2集成测试方案
+16:06:02:  DRB集成测试
+16:06:07:  压缩文件名和参数
+16:06:27:  未命名 - 写邮件
+16:06:37:  钞箱1T2集成测试方案.part1 - 写邮件
+16:07:07:  回复: 钞箱1T2集成测试方案.part1 - 写邮件
+16:07:27:  TCR调测工具 V3.36
+16:11:32:  库
+16:11:37:  本地磁盘 (D:)
+16:11:57:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:12:02:  eSpace
+16:12:07:  程明昌
+16:12:27:  eSpace
+16:12:37:  物料规格书,1700-0000022,接口电路.pdf
+16:12:42:  程明昌
+16:14:13:  NDP472-KB4054531-Web.rar - WinRAR (非商业个人版)
+16:14:18:  Extracting files
+16:14:23:  程明昌
+16:14:43:  Microsoft .NET Framework
+16:14:48:  程明昌
+16:14:53:  Microsoft .NET Framework
+16:14:13:  NDP472-KB4054531-Web.rar - WinRAR (非商业个人版)
+16:14:18:  Extracting files
+16:14:23:  程明昌
+16:14:43:  Microsoft .NET Framework
+16:14:48:  程明昌
+16:14:53:  Microsoft .NET Framework
+16:16:58:  新建文本文档.exe - 快捷方式
+16:17:08:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:17:18:  eSpace
+16:17:23:  PressurePlate.h - DRB-PRESS - Visual Studio Code [管理员]
+16:17:28:  eSpace
+16:17:33:  程明昌
+16:18:48:  本地磁盘 (D:)
+16:18:53:  本地磁盘 (F:)
+16:19:03:  01-软件
+16:19:13:  修复工具
+16:19:18:  DirectXRepair-v3.8.zip - WinRAR (非商业个人版)
+16:19:38:  DirectX修复工具 OL
+16:20:08:  更新 c++ Redistributable Package
+16:20:13:  DirectX Repair
+16:20:18:  DirectX修复工具 OL
+16:20:23:  DirectX 诊断工具
+16:20:28:  正在收集信息...
+16:20:38:  DirectX 诊断工具
+16:20:53:  程明昌
+16:21:18:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:21:28:  扩展: SonarLint For PClint - DRB-PRESS - Visual Studio Code [管理员]
+16:21:33:  DirectX 诊断工具
+16:21:38:  DirectXRepair-v3.8.zip - WinRAR (非商业个人版)
+16:21:58:  程明昌
+16:22:53:  扩展: SonarLint For PClint - DRB-PRESS - Visual Studio Code [管理员]
+16:22:58:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:23:03:  程明昌
+16:24:13:  修复工具
+16:24:18:  00-06
+16:24:28:  DRB-PRESS
+16:24:33:  工作副本
+16:24:38:  Application.c - TortoiseMerge
+16:24:43:  文件补丁  
+16:24:48:  HistoryRecord.c - TortoiseMerge
+16:25:43:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:25:48:  Initial.c - TortoiseMerge
+16:25:53:  InstrExecute.c - TortoiseMerge
+16:26:08:  MemoryConfig.h - TortoiseMerge
+16:26:13:  TortoiseMerge
+16:26:18:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:26:23:  MotorCtrl.c - TortoiseMerge
+16:26:38:  PaperManage.c - TortoiseMerge
+16:26:43:  程明昌
+16:26:48:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:26:53:  程明昌
+16:26:58:  MenuDlg
+16:27:03:  程明昌
+16:27:08:  张开发,程明昌
+16:27:13:  张开发,程明昌 (未响应)
+16:27:18:  eSpace Meeting
+16:27:23:  锁屏状态
+16:27:28:  张开发,程明昌
+16:28:03:  LowerPlateCtrl.c - TortoiseMerge
+16:28:18:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:28:28:  PressurePlateCtrl.c - TortoiseMerge
+16:28:33:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:28:38:  UpperPlateCtrl.c - TortoiseMerge
+16:28:43:  程明昌
+16:28:48:  「开始」菜单
+16:28:53:  程明昌
+16:29:03:  「开始」菜单
+16:29:08:  远程桌面连接
+16:29:33:  Windows 安全
+16:29:53:  UpperPlateCtrl.c - TortoiseMerge
+16:29:58:  TortoiseMerge
+16:30:03:  UpperPlateCtrl.c - TortoiseMerge
+16:28:18:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:28:28:  PressurePlateCtrl.c - TortoiseMerge
+16:28:33:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:28:38:  UpperPlateCtrl.c - TortoiseMerge
+16:28:43:  程明昌
+16:28:48:  「开始」菜单
+16:28:53:  程明昌
+16:29:03:  「开始」菜单
+16:29:08:  远程桌面连接
+16:29:33:  Windows 安全
+16:29:53:  UpperPlateCtrl.c - TortoiseMerge
+16:29:58:  TortoiseMerge
+16:30:03:  UpperPlateCtrl.c - TortoiseMerge
+16:30:08:  Separate.c - TortoiseMerge
+16:30:18:  TortoiseMerge
+16:30:23:  State.c - TortoiseMerge
+16:32:08:  TortoiseMerge
+16:32:18:  State.c - TortoiseMerge
+16:32:23:  TortoiseMerge
+16:32:28:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:32:33:  State.c - TortoiseMerge
+16:32:48:  TortoiseMerge
+16:32:53:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:32:58:  CapDriver.c - TortoiseMerge
+16:33:28:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:33:33:  StepMotorDriver.c - TortoiseMerge
+16:34:43:  TortoiseMerge
+16:34:48:  DebugConfig.h - TortoiseMerge
+16:34:53:  Bldc.c - TortoiseMerge
+16:35:03:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:35:13:  Lock.c - TortoiseMerge
+16:35:18:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:35:23:  Log.c - TortoiseMerge
+16:35:43:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:35:48:  LowerPlate.c - TortoiseMerge
+16:36:08:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:36:13:  PressurePlate.c - TortoiseMerge
+16:36:53:  TortoiseMerge
+16:36:58:  UpperPlate.c - TortoiseMerge
+16:37:28:  Selector.c - TortoiseMerge
+16:37:33:  Sensor.c - TortoiseMerge
+16:37:43:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:37:48:  于斌1
+16:38:48:  LowerPlate.c - TortoiseMerge
+16:38:53:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:38:58:  StepMotor.c - TortoiseMerge
+16:39:03:  StepMotor.h - TortoiseMerge
+16:39:08:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:39:13:  TortoiseMerge
+16:39:18:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:39:43:  PaperManage.c - TortoiseMerge
+16:40:28:  于斌1
+16:40:38:  PaperManage.c - TortoiseMerge
+16:40:43:  LowerPlateCtrl.c - TortoiseMerge
+16:40:58:  PressurePlateCtrl.c - TortoiseMerge
+16:41:08:  UpperPlateCtrl.c - TortoiseMerge
+16:41:43:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:41:48:  Separate.c - TortoiseMerge
+16:42:33:  State.c - TortoiseMerge
+16:44:08:  CapDriver.c - TortoiseMerge
+16:44:58:  StepMotorDriver.c - TortoiseMerge
+16:44:08:  CapDriver.c - TortoiseMerge
+16:44:58:  StepMotorDriver.c - TortoiseMerge
+16:45:18:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:45:23:  DebugConfig.h - TortoiseMerge
+16:45:28:  Lock.h - TortoiseMerge
+16:45:43:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:45:48:  Lock.h - TortoiseMerge
+16:45:53:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:46:13:  PressurePlate.c - TortoiseMerge
+16:46:48:  UpperPlate.c - TortoiseMerge
+16:48:08:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:48:13:  Selector.c - TortoiseMerge
+16:49:18:  StepMotor.c - TortoiseMerge
+16:49:33:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+16:49:38:  DRB-PRESS
+16:49:43:  远程桌面连接
+16:49:48:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+16:49:53:  D:\00-06\DRB-PRESS - 日志信息 - TortoiseSVN
+16:50:13:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+16:50:18:  DRB-PRESS
+16:50:23:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:50:28:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:50:53:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:50:58:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:52:33:  程明昌
+16:52:43:  DRB-PRESS
+16:52:48:  程明昌
+16:52:53:  DRB-PRESS
+16:52:58:  sonarsource.sonarlint-vscode-for-pclint-1.16.0-SNAPSHOT
+16:53:03:  压缩文件名和参数
+16:53:08:  extensions
+16:53:18:  正在创建压缩文件 sonarsource.sonarlint-vscode-for-pclint-1.16.0-SNAPSHOT.rar
+16:53:23:  程明昌
+16:53:28:  extensions
+16:53:38:  程明昌
+16:53:48:  extensions
+16:53:53:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+16:53:58:  HistoryRecord.c - TortoiseMerge
+16:54:03:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+16:54:08:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:54:23:  正在创建压缩文件 sonarsource.sonarlint-vscode-for-pclint-1.16.0-SNAPSHOT.rar
+16:54:28:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+16:54:33:  PaperManage.c - TortoiseMerge
+16:54:43:  程明昌
+16:54:48:  LowerPlateCtrl.c - TortoiseMerge
+16:54:53:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+16:55:08:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:55:33:  程明昌
+16:55:53:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:55:58:  PressurePlateCtrl.c - TortoiseMerge
+16:56:03:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+16:56:08:  State.c - TortoiseMerge
+16:56:18:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+16:56:23:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:56:53:  程明昌
+16:56:58:  extensions
+16:57:03:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+16:57:08:  程明昌
+16:57:23:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+16:57:28:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:59:03:  StepMotorDriver.c - TortoiseMerge
+16:59:13:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+16:59:23:  Lock.h - TortoiseMerge
+16:59:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:59:43:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+16:59:58:  LowerPlate.c - TortoiseMerge
+16:59:03:  StepMotorDriver.c - TortoiseMerge
+16:59:13:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+16:59:23:  Lock.h - TortoiseMerge
+16:59:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:59:43:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+16:59:58:  LowerPlate.c - TortoiseMerge
+17:00:08:  PressurePlate.c - TortoiseMerge
+17:00:13:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:00:38:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+17:00:43:  UpperPlate.c - TortoiseMerge
+17:00:48:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:01:48:  Selector.c - TortoiseMerge
+17:01:53:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+17:01:58:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:02:08:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+17:02:13:  UpperPlate.c - TortoiseMerge
+17:02:18:  StepMotor.c - TortoiseMerge
+17:02:23:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+17:02:33:  SystemConfig.h - TortoiseMerge
+17:02:38:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+17:02:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:04:08:  UpperPlate.c - TortoiseMerge
+17:04:13:  Update.c - TortoiseMerge
+17:04:18:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+17:04:23:  D:\00-06\DRB-PRESS\BR-1-CashBox1T2-Press.txt • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:04:28:  锁屏状态

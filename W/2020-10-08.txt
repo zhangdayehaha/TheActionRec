@@ -1,0 +1,171 @@
+08:59:16:  The Event Manager Dashboard
+08:59:21:  网易有道词典
+08:59:41:  Dialog
+08:59:16:  The Event Manager Dashboard
+08:59:21:  网易有道词典
+08:59:41:  Dialog
+09:20:51:  库
+09:21:16:  CRS-64
+09:21:26:  D:\00-KE64\CRS-64 - 更新 - TortoiseSVN
+09:21:31:  更新 完成！
+09:21:36:  Project
+09:21:46:  D:\00-KE64\CRS-64\Project\k64_rtt.uvprojx - μVision
+09:22:16:  CRS-64
+09:22:26:  EscBoardCmd.c - TortoiseMerge
+09:22:31:  D:\00-KE64\CRS-64 - 工作副本 - TortoiseSVN
+09:22:36:  FlowCtrl.c - TortoiseMerge
+09:22:46:  D:\00-KE64\CRS-64 - 工作副本 - TortoiseSVN
+09:22:51:  CanComm.c - TortoiseMerge
+09:22:56:  TortoiseMerge
+09:23:01:  CRS-64
+09:23:06:  D:\00-KE64\CRS-64\Project\k64_rtt.uvprojx - μVision
+09:23:11:  00-KE64
+09:23:36:  D:\00-KE64\CRS-64\Project\k64_rtt.uvprojx - μVision
+09:24:02:  自动播放
+09:24:17:  D:\00-KE64\CRS-64\Project\k64_rtt.uvprojx - μVision
+09:24:22:  iTunes
+09:24:37:  JLink - Cortex-M Error
+09:24:42:  D:\00-KE64\CRS-64\Project\k64_rtt.uvprojx - μVision
+09:25:02:  Tools
+09:25:07:  D:\00-KE64\CRS-64\Tools\CreateJK.exe
+09:25:12:  TCR调测工具（研发版）V1.0.0.4
+09:25:17:  打开
+09:25:27:  TCR调测工具（研发版）V1.0.0.4
+09:26:07:  本地磁盘 (D:)
+09:26:12:  CRS
+09:26:17:  D:\CRS\KE18-UP - 日志信息 - TortoiseSVN
+09:26:32:  CRS
+09:26:37:  5555
+09:26:42:  D:\CRS\5555 - 日志信息 - TortoiseSVN
+09:26:52:  D:\CRS\5555 - 更新 - TortoiseSVN
+09:26:57:  Project
+09:27:02:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+09:28:52:  Tools
+09:28:57:  D:\CRS\5555\Tools\CreateJK.exe
+09:29:07:  Tools
+09:28:52:  Tools
+09:28:57:  D:\CRS\5555\Tools\CreateJK.exe
+09:29:07:  Tools
+09:31:07:  TCR调测工具（研发版）V1.0.0.4
+09:31:12:  打开
+09:31:17:  BTCRTestTool
+09:31:32:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+09:32:02:  本地磁盘 (D:)
+09:32:07:  00-KE64
+09:32:12:  10
+09:32:22:  00-KE64
+09:32:27:   - 版本库浏览器 - TortoiseSVN
+09:32:47:  trunk - 检出 - TortoiseSVN
+09:33:07:  检出 完成！
+09:33:17:  D:\00-KE64\9\Project\k64_rtt.uvprojx - μVision
+09:33:27:  密码锁
+09:33:32:  所有笔记本 - 张开发 - 印象笔记
+09:33:52:  当前剩余工作 - 印象笔记
+09:33:57:  D:\00-KE64\9\Project\k64_rtt.uvprojx - μVision
+09:34:17:  印象笔记笔记历史
+09:34:22:  所有笔记本 - 张开发 - 印象笔记
+09:34:47:  作者：赵泠 - 印象笔记
+09:34:52:  所有笔记本 - 张开发 - 印象笔记
+09:34:57:  CRS深圳出差工作项 - 印象笔记
+09:35:02:  D:\00-KE64\9\Project\k64_rtt.uvprojx - μVision
+09:35:07:  9
+09:35:12:  锁屏状态
+09:35:17:  D:\00-KE64\9 - 日志信息 - TortoiseSVN
+09:35:22:  9
+09:35:32:  D:\00-KE64\9\Project\k64_rtt.uvprojx - μVision
+09:35:37:  D:\00-KE64\9\Tools\CreateJK.exe
+09:35:42:  TCR调测工具（研发版）V1.0.0.4
+09:35:47:  打开
+09:35:53:  TCR调测工具（研发版）V1.0.0.4
+09:36:13:  BTCRTestTool
+09:36:48:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+09:37:13:  μVision
+09:37:28:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+09:37:33:  TCR调测工具（研发版）V1.0.0.4
+09:39:08:  Options for Target 'Escrow'
+09:39:13:  Cortex JLink/JTrace Target Driver Setup
+09:39:33:  Options for Target 'Escrow'
+09:39:38:  Cortex JLink/JTrace Target Driver Setup
+09:39:48:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+09:39:53:  Cortex JLink/JTrace Target Driver Setup
+09:40:03:  Options for Target 'Escrow'
+09:40:53:  Cortex JLink/JTrace Target Driver Setup
+09:40:58:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+09:41:13:  Options for Target 'Escrow'
+09:41:23:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+09:41:43:  Cortex JLink/JTrace Target Driver Setup
+09:41:48:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+09:42:08:  Cortex JLink/JTrace Target Driver Setup
+09:42:13:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+09:42:28:  Cortex JLink/JTrace Target Driver Setup
+09:42:33:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+09:42:58:  Options for Target 'Escrow'
+09:43:03:  Cortex JLink/JTrace Target Driver Setup
+09:43:13:  Options for Target 'release'
+09:43:18:  Cortex JLink/JTrace Target Driver Setup
+09:43:28:  Options for Target 'release'
+09:43:38:  D:\00-KE64\9\Project\k64_rtt.uvprojx - μVision
+09:43:53:  Cortex JLink/JTrace Target Driver Setup
+09:43:58:  Options for Target 'release'
+09:53:59:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+09:54:24:  本地磁盘 (D:)
+09:54:29:  DRB--
+09:54:34:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:02:44:  锁屏状态
+10:02:49:  LogExpert - D:\fenxi\20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。\20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。\Decode\LOG\K64_BTCR-1100190802300006_20200915102318\K64-_BTCR-1100190802300006_20200915102318.log
+10:02:54:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:05:29:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010081002.log
+10:06:09:  KE06LOG.bat - 快捷方式 (2)
+10:06:14:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010081006.log
+10:07:09:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:09:24:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:17:19:  Toolbox
+10:17:24:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:18:39:  J-Link V6.10b Device Selection
+10:25:54:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:26:04:  J-Link V6.10b Error
+10:26:09:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:26:19:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+10:26:24:  Options for Target 'Escrow'
+10:26:29:  Cortex JLink/JTrace Target Driver Setup
+10:26:44:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+10:28:24:  D:\00-KE64\9\Project\k64_rtt.uvprojx - μVision
+10:28:29:  D:\00-KE64\CRS-64\Project\k64_rtt.uvprojx - μVision
+10:28:34:  00-KE64
+10:28:39:  D:\00-KE64\9 - 日志信息 - TortoiseSVN
+10:28:54:  D:\00-KE64\9 - 更新 - TortoiseSVN
+10:28:59:  Project
+10:29:04:  D:\00-KE64\9\Project\k64_rtt.uvprojx - μVision
+10:28:24:  D:\00-KE64\9\Project\k64_rtt.uvprojx - μVision
+10:28:29:  D:\00-KE64\CRS-64\Project\k64_rtt.uvprojx - μVision
+10:28:34:  00-KE64
+10:28:39:  D:\00-KE64\9 - 日志信息 - TortoiseSVN
+10:28:54:  D:\00-KE64\9 - 更新 - TortoiseSVN
+10:28:59:  Project
+10:29:04:  D:\00-KE64\9\Project\k64_rtt.uvprojx - μVision
+10:31:44:  Project
+10:42:49:  未命名 - 写邮件
+10:43:49:  未命名 - 写邮件   10:43:44 已保存
+10:44:49:  未命名 - 写邮件   10:44:44 已保存
+10:44:49:  未命名 - 写邮件   10:44:44 已保存
+10:45:49:  未命名 - 写邮件   10:45:44 已保存
+10:46:49:  未命名 - 写邮件   10:46:44 已保存
+10:47:49:  未命名 - 写邮件   10:47:44 已保存
+10:48:49:  未命名 - 写邮件   10:48:44 已保存
+10:48:59:  ceshi DR - 写邮件   10:48:57 已保存
+10:49:04:  测试DR - 写邮件   10:48:57 已保存
+10:49:09:  测试DRB的三个问题 - 写邮件   10:48:57 已保存
+10:49:24:  发送邮件
+10:49:29:  未命名 - 写邮件
+10:49:39:  EXTFEDU6V12-压钞电机 - 写邮件
+10:50:29:  EXTFEDU6V12-压钞电机 - 写邮件   10:50:26 已保存
+10:51:24:  跳转列表
+10:52:39:  D:\00-KE64\9\Project\k64_rtt.uvprojx - μVision
+11:02:34:  WinRAR
+11:02:39:  钞箱EEPROM-RB.rar - WinRAR (非商业个人版)
+11:36:04:  新标签页 - Google Chrome
+11:36:14:  班车管理系统 - Google Chrome
+11:36:24:  班车管理系统 [新北洋集团] - Google Chrome
+11:36:34:  开始
+11:36:39:  D:\00-KE64\9\Project\k64_rtt.uvprojx - μVision
+11:38:14:  锁屏状态

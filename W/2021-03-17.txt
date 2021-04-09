@@ -1,0 +1,1209 @@
+07:56:25:  DRB测试--3.16日
+07:56:30:  K64-_BTCR-1100200400210043_20210316165440.log - DRB2.tat* - TextAnalysisTool.NET
+07:56:35:  丛柏屹
+07:56:45:  缺陷日志
+07:57:10:  桌面整理
+07:57:15:  副本DRB测试缺陷.xlsx - Excel
+07:58:00:  缺陷日志
+07:58:10:  副本DRB测试缺陷.xlsx - Excel
+07:58:10:  副本DRB测试缺陷.xlsx - Excel
+08:07:35:  缺陷日志
+08:07:40:  桌面整理
+08:07:45:  DRB测试缺陷-3.16.xlsx - Excel
+08:09:20:  DRB系统测试
+08:09:25:  缺陷日志
+08:09:30:  fenxi
+08:09:35:  正在复制 125 个项目(321 MB)
+08:09:45:  剩余 25 秒
+08:09:50:  剩余 15 秒
+08:10:00:  剩余 10 秒
+08:10:05:  剩余 5 秒
+08:10:10:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+08:10:45:  ID-19、电机 在电机运转过程中检测到速度低于目标值（10）
+08:10:50:  10元大额存款165张报电机 在电机运转过程中检测到速度低于目标值（10） 返回码0X81280220
+08:10:55:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:11:00:  Decode
+08:11:30:  LOG
+08:11:40:  K64_BTCR-1100190803000005_20210316160623
+08:11:50:  Box_1__BTCR-1100190803000005_20210316160623.log - DRB2.tat* - TextAnalysisTool.NET
+08:12:10:  LOG
+08:12:15:  Decode
+08:12:20:  20元大额存款12张报电机 在电机运转过程中检测到速度低于目标值（10） 返回码0X86280220
+08:12:25:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:12:30:  LOG
+08:12:35:  Box_1__BTCR-1100190803000005_20210316152512.log - DRB2.tat* - TextAnalysisTool.NET
+08:12:40:  K64_BTCR-1100190803000005_20210316152653
+08:12:50:  Box_1__BTCR-1100190803000005_20210316152653.log - DRB2.tat* - TextAnalysisTool.NET
+08:12:55:  K64_BTCR-1100190803000005_20210316152753
+08:13:00:  Box_1__BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:15:10:  DRB测试缺陷-3.16.xlsx - Excel
+08:15:20:  Box_1__BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:15:55:  Go To
+08:16:00:  Box_1__BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:18:00:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+08:18:45:  D:\00-06\DRB\Applications\Separate\Separate.h (DRB) - Sublime Text (UNREGISTERED)
+08:18:50:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+08:21:30:  Box_1__BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:21:50:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+08:22:00:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:22:20:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+08:22:25:  D:\00-06\DRB\Applications\Instruction\InstrReturn.c (DRB) - Sublime Text (UNREGISTERED)
+08:22:45:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:22:55:  Edit Filter
+08:23:00:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:24:00:  D:\00-06\DRB\Applications\Instruction\InstrReturn.c (DRB) - Sublime Text (UNREGISTERED)
+08:24:05:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:24:10:  D:\00-06\DRB\Applications\Instruction\InstrReturn.c (DRB) - Sublime Text (UNREGISTERED)
+08:24:20:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:24:25:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+08:24:30:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:24:45:  D:\00-06\DRB\Applications\Instruction\InstrReturn.c (DRB) - Sublime Text (UNREGISTERED)
+08:24:50:  D:\00-06\DRB\Middlewares\Bldc\Bldc.c (DRB) - Sublime Text (UNREGISTERED)
+08:24:55:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:25:05:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+08:25:20:  D:\00-06\DRB\Middlewares\Bldc\Bldc.c (DRB) - Sublime Text (UNREGISTERED)
+08:25:30:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:25:45:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:25:55:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:26:50:  计算器
+08:27:10:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:27:35:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+08:27:40:  D:\00-06\DRB\Applications\Instruction\InstrReturn.c (DRB) - Sublime Text (UNREGISTERED)
+08:28:05:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:28:45:  于斌1
+08:28:50:  丛柏屹
+08:29:05:  DRB测试缺陷-3.16.xlsx - Excel
+08:29:20:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:28:05:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:28:45:  于斌1
+08:28:50:  丛柏屹
+08:29:05:  DRB测试缺陷-3.16.xlsx - Excel
+08:29:20:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:30:10:  计算器
+08:30:55:  D:\00-06\DRB\Applications\Instruction\InstrReturn.c (DRB) - Sublime Text (UNREGISTERED)
+08:31:00:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:31:15:  LOG
+08:31:25:  K64_BTCR-1100190803000005_20210316152753
+08:31:30:  Box_1__BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:32:16:  DRB测试缺陷-3.16.xlsx - Excel
+08:33:16:  Box_1__BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:34:01:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:34:26:  计算器
+08:34:36:  Edit Filter
+08:34:46:  K64-_BTCR-1100190803000005_20210316152753.log - DRB2.tat* - TextAnalysisTool.NET
+08:36:36:  计算器
+08:36:41:  DRB测试缺陷-3.16.xlsx - Excel
+08:37:26:  丛柏屹
+08:37:51:  DRB测试缺陷-3.16.xlsx - Excel
+08:38:06:  Decode
+08:38:11:  本地磁盘 (D:)
+08:38:16:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+08:38:26:  IMG_6766.JPG - Windows 照片查看器
+08:38:36:  丛柏屹
+08:38:51:  ID-20、BNE-C52210122000003钞箱，使用20元与5元混合面额执行大额存款流程，存款过程中，软件报163324.449 通道传输过程中卡钞 超过最大长度持续有钞  返回码0
+08:38:56:  DRB测试缺陷-3.16.xlsx - Excel
+08:41:11:  ID-19、电机 在电机运转过程中检测到速度低于目标值（10）
+08:41:16:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+08:41:21:  丛柏屹
+08:41:26:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+08:41:31:  Windows 照片查看器
+08:41:36:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+08:41:41:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:41:56:  Decode
+08:43:21:  丛柏屹
+08:44:41:  DRB测试缺陷-3.16.xlsx - Excel
+08:44:51:  K64_BTCR-1100200600510423_20210316161452
+08:44:56:  Box_3__BTCR-1100200600510423_20210316161452.log - DRB2.tat* - TextAnalysisTool.NET
+08:44:41:  DRB测试缺陷-3.16.xlsx - Excel
+08:44:51:  K64_BTCR-1100200600510423_20210316161452
+08:44:56:  Box_3__BTCR-1100200600510423_20210316161452.log - DRB2.tat* - TextAnalysisTool.NET
+08:48:21:  计算器
+08:48:36:  Box_3__BTCR-1100200600510423_20210316161452.log - DRB2.tat* - TextAnalysisTool.NET
+08:49:36:  计算器
+08:49:41:  K64_BTCR-1100200600510423_20210316161452
+08:49:46:  Box_3__BTCR-1100200600510423_20210316161452.log - DRB2.tat* - TextAnalysisTool.NET
+08:50:36:  ID-20、BNE-C52210122000003钞箱，使用20元与5元混合面额执行大额存款流程，存款过程中，软件报163324.449 通道传输过程中卡钞 超过最大长度持续有钞  返回码0
+08:50:41:  ID-21、1元下腔盘点T30-T40第16张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B8~16：18左右
+08:50:46:  IMG_20210316_161948.jpg - Windows 照片查看器
+08:50:51:  IMG_20210316_161850.jpg - Windows 照片查看器
+08:52:11:  Box_3__BTCR-1100200600510423_20210316161452.log - DRB2.tat* - TextAnalysisTool.NET
+08:52:36:  K64_BTCR-1100200600510423_20210316161452
+08:52:41:  K64-_BTCR-1100200600510423_20210316161452.log - DRB2.tat* - TextAnalysisTool.NET
+08:53:01:  丛柏屹
+08:53:11:  192.168.28.2
+08:53:16:  新建文件夹
+08:53:21:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+08:53:26:  丛柏屹
+08:54:11:  K64-_BTCR-1100200600510423_20210316161452.log - DRB2.tat* - TextAnalysisTool.NET
+08:55:11:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+09:11:56:  DRB测试缺陷-3.16.xlsx - Excel
+09:14:51:  跳转列表
+09:14:56:  DRB测试缺陷-3.16.xlsx - Excel
+09:14:51:  跳转列表
+09:14:56:  DRB测试缺陷-3.16.xlsx - Excel
+09:15:06:  K64-_BTCR-1100200600510423_20210316161452.log - DRB2.tat* - TextAnalysisTool.NET
+09:17:36:  Add Filter
+09:18:06:  LogExpert #1 - D:\fenxi\20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。\ID-21、1元下腔盘点T30-T40第16张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B8~16：18左右\Decode\LOG\K64_BTCR-1100200600510423_20210316161452\K64-_BTCR-1100200600510423_20210316161452.log
+09:18:26:  K64-_BTCR-1100200600510423_20210316161452.log - DRB2.tat* - TextAnalysisTool.NET
+09:18:31:  LogExpert #1 - D:\fenxi\20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。\ID-21、1元下腔盘点T30-T40第16张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B8~16：18左右\Decode\LOG\K64_BTCR-1100200600510423_20210316161452\K64-_BTCR-1100200600510423_20210316161452.log
+09:19:06:  K64-_BTCR-1100200600510423_20210316161452.log - DRB2.tat* - TextAnalysisTool.NET
+09:19:16:  LogExpert #1 - D:\fenxi\20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。\ID-21、1元下腔盘点T30-T40第16张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B8~16：18左右\Decode\LOG\K64_BTCR-1100200600510423_20210316161452\K64-_BTCR-1100200600510423_20210316161452.log
+09:19:51:  K64-_BTCR-1100200600510423_20210316161452.log - DRB2.tat* - TextAnalysisTool.NET
+09:19:56:  DRB测试缺陷-3.16.xlsx - Excel
+09:21:01:  taskeng.exe
+09:21:06:  DRB测试缺陷-3.16.xlsx - Excel
+09:21:26:  fenxi
+09:21:31:  ID-22、1元下腔取款第18张报 通道传输过程中卡钞超过最大长度持续遮挡SENSOR_FL 返回码0X80460204
+09:21:36:  IMG_20210316_154243.jpg - Windows 照片查看器
+09:21:41:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:21:46:  丛柏屹
+09:22:01:  K64_BTCR-1100200600510423_20210316150815
+09:22:06:  Box_3__BTCR-1100200600510423_20210316150815.log - DRB2.tat* - TextAnalysisTool.NET
+09:23:31:  丛柏屹
+09:23:57:  于斌1
+09:24:17:  丛柏屹
+09:24:37:  于斌1
+09:24:57:  TCR调测工具 V3.36
+09:25:02:  丛柏屹
+09:25:07:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+09:25:17:  D:\00-KE64\10\Applications\FunctionApp\EepHisApp\EepromConfig.h (10) - Sublime Text (UNREGISTERED)
+09:25:52:  ID-21、1元下腔盘点T30-T40第16张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B8~16：18左右
+09:25:57:  共享文件
+09:26:02:  运行
+09:26:07:  08tcr测试过程记录
+09:26:12:  固件版本
+09:26:17:  K64
+09:26:22:  \\192.168.28.47\08tcr测试过程记录\样机配置履历表\TCR\固件版本\最新固件\K64\BTCR-1100_MASTER_K64_FV1020_FEDUV22_V201_MASTER_K64_速度12张_650-金标使用.EEP (10) - Sublime Text (UNREGISTERED)
+09:27:02:  K64
+09:27:07:  \\192.168.28.47\08tcr测试过程记录\样机配置履历表\TCR\固件版本\最新固件\K64\BTCR-1100_MASTER_K64_FV1020_FEDUV22_V201_MASTER_K64_速度12张_650-金标使用.EEP (10) - Sublime Text (UNREGISTERED)
+09:27:12:  D:\00-KE64\10\Applications\FunctionApp\EepHisApp\EepromConfig.h (10) - Sublime Text (UNREGISTERED)
+09:27:17:  于斌1
+09:27:22:  D:\00-KE64\10\Applications\FunctionApp\EepHisApp\EepromConfig.h (10) - Sublime Text (UNREGISTERED)
+09:27:27:  TCR调测工具 V3.36
+09:27:52:  丛柏屹
+09:28:02:  D:\00-KE64\10\Applications\FunctionApp\EepHisApp\EepromConfig.h (10) - Sublime Text (UNREGISTERED)
+09:28:12:  Box_3__BTCR-1100200600510423_20210316150815.log - DRB2.tat* - TextAnalysisTool.NET
+09:28:17:  DRB测试缺陷-3.16.xlsx - Excel
+09:29:02:  丛柏屹
+09:29:07:  DRB测试缺陷-3.16.xlsx - Excel
+09:29:32:  丛柏屹
+09:29:52:  DRB测试缺陷-3.16.xlsx - Excel
+09:29:57:  Box_3__BTCR-1100200600510423_20210316150815.log - DRB2.tat* - TextAnalysisTool.NET
+09:28:12:  Box_3__BTCR-1100200600510423_20210316150815.log - DRB2.tat* - TextAnalysisTool.NET
+09:28:17:  DRB测试缺陷-3.16.xlsx - Excel
+09:29:02:  丛柏屹
+09:29:07:  DRB测试缺陷-3.16.xlsx - Excel
+09:29:32:  丛柏屹
+09:29:52:  DRB测试缺陷-3.16.xlsx - Excel
+09:29:57:  Box_3__BTCR-1100200600510423_20210316150815.log - DRB2.tat* - TextAnalysisTool.NET
+09:30:57:  丛柏屹
+09:31:02:  Box_3__BTCR-1100200600510423_20210316150815.log - DRB2.tat* - TextAnalysisTool.NET
+09:31:47:  计算器
+09:32:02:  Box_3__BTCR-1100200600510423_20210316150815.log - DRB2.tat* - TextAnalysisTool.NET
+09:32:47:  DRB测试缺陷-3.16.xlsx - Excel
+09:33:57:  Box_3__BTCR-1100200600510423_20210316150815.log - DRB2.tat* - TextAnalysisTool.NET
+09:34:07:  K64_BTCR-1100200600510423_20210316150729
+09:34:12:  Box_3__BTCR-1100200600510423_20210316150729.log - DRB2.tat* - TextAnalysisTool.NET
+09:34:22:  Box_3__BTCR-1100200600510423_20210316150815.log - DRB2.tat* - TextAnalysisTool.NET
+09:34:27:  K64_BTCR-1100200600510423_20210316150815
+09:34:32:  Decode
+09:34:37:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+09:34:42:  ID-23
+09:34:47:  1元下腔2张异常卷边
+09:34:52:  1元下腔盘点T30-T40第295张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B8
+09:35:02:  fenxi
+09:35:07:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+09:35:12:  DRB测试缺陷-3.16.xlsx - Excel
+09:35:47:  1元下腔盘点T30-T40第295张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B8
+09:35:52:  ID-23
+09:35:57:  DRB测试缺陷-3.16.xlsx - Excel
+09:36:37:  ID-20、BNE-C52210122000003钞箱，使用20元与5元混合面额执行大额存款流程，存款过程中，软件报163324.449 通道传输过程中卡钞 超过最大长度持续有钞  返回码0
+09:36:47:  缺陷日志
+09:36:52:  ID-20、BNE-C52210122000003钞箱，使用20元与5元混合面额执行大额存款流程，存款过程中，软件报163324.449 通道传输过程中卡钞 超过最大长度持续有钞  返回码0
+09:36:57:  复制文件
+09:37:02:  ID-20、BNE-C52210122000003钞箱，使用20元与5元混合面额执行大额存款流程，存款过程中，软件报163324.449 通道传输过程中卡钞 超过最大长度持续有钞  返回码0
+09:37:07:  Decode
+09:38:07:  DRB测试缺陷-3.16.xlsx - Excel
+09:38:32:  Box_3__BTCR-1100200600510423_20210316150815.log - DRB2.tat* - TextAnalysisTool.NET
+09:38:37:  丛柏屹
+09:38:42:  ErrCode_list_txt_flg.txt - 记事本
+09:38:47:  IMG_20210316_161850.jpg - Windows 照片查看器
+09:38:52:  Decode
+09:38:57:  回收
+09:39:02:  Decode
+09:39:07:  删除多个项目
+09:39:12:  ID-20、BNE-C52210122000003钞箱，使用20元与5元混合面额执行大额存款流程，存款过程中，软件报163324.449 通道传输过程中卡钞 超过最大长度持续有钞  返回码0
+09:39:17:  删除文件
+09:39:27:  正在复制 8 个项目(27.4 MB)
+09:39:32:  ID-20、BNE-C52210122000003钞箱，使用20元与5元混合面额执行大额存款流程，存款过程中，软件报163324.449 通道传输过程中卡钞 超过最大长度持续有钞  返回码0
+09:39:52:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+09:39:57:  1111
+09:40:02:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+09:40:07:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:40:17:  于斌1
+09:40:32:  LOG
+09:40:37:  ID-20、BNE-C52210122000003钞箱，使用20元与5元混合面额执行大额存款流程，存款过程中，软件报163324.449 通道传输过程中卡钞 超过最大长度持续有钞  返回码0
+09:40:42:  DRB测试缺陷-3.16.xlsx - Excel
+09:40:52:  K64_BTCR-1100190802300005_20210316163236
+09:40:57:  K64_BTCR-1100200400210043_20210316165440
+09:41:02:  爆仓问题(1)
+09:41:07:  5元1元各300张随机混合，执行大额存款报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B
+09:41:12:  fenxi
+09:41:17:  于斌1
+09:41:22:  Decode
+09:41:27:  fenxi
+09:41:32:  缺陷日志
+09:41:42:  fenxi
+09:41:47:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+09:41:52:  新建文件夹
+09:41:57:  港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+09:42:02:  fenxi
+09:42:07:  LOG
+09:42:12:  日志分析
+09:42:17:  fenxi
+09:42:27:  港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+09:42:32:  正在复制 8 个项目(27.4 MB)
+09:42:37:  港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+09:42:42:  于斌1
+09:42:52:  K64_BTCR-1100190802300005_20210316162916
+09:42:57:  LOG
+09:43:07:  K64_BTCR-1100190802300005_20210316163236
+09:43:12:  Box_2__BTCR-1100190802300005_20210316163236.log - DRB2.tat* - TextAnalysisTool.NET
+09:44:07:  DRB测试缺陷-3.16.xlsx - Excel
+09:45:02:  IMG_6769.JPG - Windows 照片查看器
+09:44:07:  DRB测试缺陷-3.16.xlsx - Excel
+09:45:02:  IMG_6769.JPG - Windows 照片查看器
+09:45:12:  DRB测试缺陷-3.16.xlsx - Excel
+09:45:27:  IMG_6769.JPG - Windows 照片查看器
+09:45:32:  IMG_6767.JPG - Windows 照片查看器
+09:48:12:  缺陷日志
+09:48:17:  1元下腔2张异常卷边
+09:48:22:  1元下腔盘点T30-T40第295张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B8
+09:48:27:  ID-23
+09:48:32:  IMG_20210316_145246.jpg - Windows 照片查看器
+09:48:42:  ID-23
+09:48:47:  缺陷日志
+09:49:02:  IMG_6747.JPG - Windows 照片查看器
+09:49:07:  IMG_6746.JPG - Windows 照片查看器
+09:49:17:  IMG_6745.JPG - Windows 照片查看器
+09:49:52:  缺陷日志
+09:50:02:  DRB测试缺陷-3.16.xlsx - Excel
+09:50:37:  IMG_6767.JPG - Windows 照片查看器
+09:50:42:  DRB测试缺陷-3.16.xlsx - Excel
+09:51:02:  ID-25、上腔10元入钞884602B4 通道传输过程中卡钞 超过最大长度持续有钞
+09:51:07:  IMG_6659.JPG - Windows 照片查看器
+09:51:12:  IMG_6656.JPG - Windows 照片查看器
+09:51:17:  IMG_6659.JPG - Windows 照片查看器
+09:51:22:  IMG_6767.JPG - Windows 照片查看器
+09:52:02:  Box_2__BTCR-1100190802300005_20210316163236.log - DRB2.tat* - TextAnalysisTool.NET
+09:52:22:  IMG_6767.JPG - Windows 照片查看器
+09:52:27:  IMG_6768.JPG - Windows 照片查看器
+09:52:37:  IMG_6767.JPG - Windows 照片查看器
+09:52:42:  IMG_6766.JPG - Windows 照片查看器
+09:52:47:  IMG_6767.JPG - Windows 照片查看器
+09:52:52:  IMG_6769.JPG - Windows 照片查看器
+09:52:57:  IMG_6767.JPG - Windows 照片查看器
+09:53:02:  IMG_6769.JPG - Windows 照片查看器
+09:53:07:  IMG_6768.JPG - Windows 照片查看器
+09:53:12:  IMG_6767.JPG - Windows 照片查看器
+09:53:47:  Box_2__BTCR-1100190802300005_20210316163236.log - DRB2.tat* - TextAnalysisTool.NET
+09:53:52:  DRB测试缺陷-3.16.xlsx - Excel
+09:55:32:  丛柏屹
+09:56:37:  DRB测试缺陷-3.16.xlsx - Excel
+09:57:52:  缺陷日志
+09:57:57:  ID-20、BNE-C52210122000003钞箱，使用20元与5元混合面额执行大额存款流程，存款过程中，软件报163324.449 通道传输过程中卡钞 超过最大长度持续有钞  返回码0
+09:58:02:  锁屏状态
+09:58:07:  缺陷日志
+09:58:12:  K64_BTCR-1100190802300005_20210316163236
+09:58:17:  fenxi
+09:58:27:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+09:58:32:  Box_3__BTCR-1100200600510423_20210316161452.log - DRB2.tat* - TextAnalysisTool.NET
+10:00:02:  DRB测试缺陷-3.16.xlsx - Excel
+09:58:07:  缺陷日志
+09:58:12:  K64_BTCR-1100190802300005_20210316163236
+09:58:17:  fenxi
+09:58:27:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+09:58:32:  Box_3__BTCR-1100200600510423_20210316161452.log - DRB2.tat* - TextAnalysisTool.NET
+10:00:02:  DRB测试缺陷-3.16.xlsx - Excel
+10:00:17:  缺陷日志
+10:00:22:  DRB测试缺陷-3.16.xlsx - Excel
+10:00:32:  丛柏屹
+10:00:42:  DRB测试缺陷-3.16.xlsx - Excel
+10:01:07:  ID-23
+10:01:12:  锁屏状态
+10:01:17:  DRB测试缺陷-3.16.xlsx - Excel
+10:01:27:  缺陷日志
+10:01:32:  IMG_20210316_145246.jpg 属性
+10:01:37:  1元下腔2张异常卷边
+10:01:42:  缺陷日志
+10:01:47:  DRB系统测试
+10:01:57:  新建文件夹
+10:02:02:  港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+10:02:07:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+10:02:12:  20210316
+10:02:32:  缺陷日志
+10:02:42:  1元下腔2张异常卷边
+10:03:12:  20210316
+10:03:17:  1元下腔2张异常卷边
+10:03:22:  fenxi
+10:03:27:  新建文件夹 (3)
+10:03:32:  编译器设置文档(1)
+10:03:37:  删除文件夹
+10:03:42:  20201112
+10:03:52:  爆仓问题(1)
+10:04:02:  删除文件夹
+10:04:12:  缺陷日志
+10:04:17:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:04:47:  Decode
+10:04:52:  DRB测试缺陷-3.16.xlsx - Excel
+10:05:42:  LOG
+10:05:47:  Box_1__BTCR-1100190803000005_20210316145405.log - DRB2.tat* - TextAnalysisTool.NET
+10:06:37:  DRB测试缺陷-3.16.xlsx - Excel
+10:06:42:  K64_BTCR-1100190803000005_20210316145405
+10:08:02:  20210316
+10:08:18:  系统测试过程数据
+10:08:23:  运行
+10:08:38:  192.168.28.2
+10:09:13:  资料共享
+10:11:28:  08tcr测试过程记录
+10:11:43:  DRB测试缺陷-3.16.xlsx - Excel
+10:14:23:  Box_1__BTCR-1100190803000005_20210316145405.log - DRB2.tat* - TextAnalysisTool.NET
+10:14:38:  Decode
+10:14:43:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+10:14:48:  ID-21、1元下腔盘点T30-T40第16张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B8~16：18左右
+10:14:53:  LOG
+10:14:58:  Box_3__BTCR-1100200600510423_20210316150815.log - DRB2.tat* - TextAnalysisTool.NET
+10:14:23:  Box_1__BTCR-1100190803000005_20210316145405.log - DRB2.tat* - TextAnalysisTool.NET
+10:14:38:  Decode
+10:14:43:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+10:14:48:  ID-21、1元下腔盘点T30-T40第16张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B8~16：18左右
+10:14:53:  LOG
+10:14:58:  Box_3__BTCR-1100200600510423_20210316150815.log - DRB2.tat* - TextAnalysisTool.NET
+10:15:23:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:16:08:  Box_3__BTCR-1100200600510423_20210316150815.log - DRB2.tat* - TextAnalysisTool.NET
+10:17:13:  王亮杰
+10:17:23:  Box_3__BTCR-1100200600510423_20210316150815.log - DRB2.tat* - TextAnalysisTool.NET
+10:17:53:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:24:08:  王亮杰
+10:24:18:  丛柏屹
+10:24:58:  王亮杰
+10:25:03:  丛柏屹
+10:25:33:  20210316
+10:25:38:  计算器
+10:26:28:  王亮杰
+10:26:33:  丛柏屹
+10:26:48:  1元下腔2张异常卷边
+10:26:53:  丛柏屹
+10:27:08:  20210316
+10:27:13:  丛柏屹
+10:28:08:  Save Changes?
+10:28:13:  D:\00-06\DRB\Applications\Instruction\InstrReturn.c (DRB) - Sublime Text (UNREGISTERED)
+10:28:23:  DRB测试缺陷-3.16.xlsx - Excel
+10:28:48:  丛柏屹
+10:29:48:  DRB测试缺陷-3.16.xlsx - Excel
+10:29:53:  IMG_20210316_145246.jpg - Windows 照片查看器
+10:29:58:  DRB测试缺陷-3.16.xlsx - Excel
+10:30:03:  丛柏屹
+10:28:08:  Save Changes?
+10:28:13:  D:\00-06\DRB\Applications\Instruction\InstrReturn.c (DRB) - Sublime Text (UNREGISTERED)
+10:28:23:  DRB测试缺陷-3.16.xlsx - Excel
+10:28:48:  丛柏屹
+10:29:48:  DRB测试缺陷-3.16.xlsx - Excel
+10:29:53:  IMG_20210316_145246.jpg - Windows 照片查看器
+10:29:58:  DRB测试缺陷-3.16.xlsx - Excel
+10:30:03:  丛柏屹
+10:30:33:  缺陷日志
+10:30:38:  测试日志
+10:30:43:  丛柏屹
+10:30:48:  20210316
+10:30:58:  3.16日志--2#
+10:31:03:  测试日志
+10:31:08:  DRB系统测试
+10:31:13:  测试日志
+10:31:18:  缺陷日志
+10:31:23:  测试日志
+10:31:33:  3#DRB--15日跑钞日志
+10:31:43:  缺陷日志
+10:31:53:  DRB测试缺陷-3.16.xlsx - Excel
+10:31:58:  缺陷日志
+10:33:18:  DRB测试缺陷-3.16.xlsx - Excel
+10:33:28:  Microsoft Excel
+10:33:38:  测试日志
+10:33:43:  20210315
+10:33:58:  DRB测试缺陷-3.16.xlsx - Excel
+10:34:08:  测试日志
+10:34:13:  DRB测试缺陷-3.16.xlsx - Excel
+10:34:38:  5#人民币稳定性
+10:34:43:  20210315
+10:34:53:  测试日志
+10:35:08:  3#DRB--15日跑钞日志
+10:35:13:  丛柏屹
+10:35:28:  20210315
+10:35:48:  删除多个项目
+10:35:53:  Decode
+10:36:03:  20210315
+10:36:08:  Decode
+10:36:13:  新建文件夹 (3)
+10:36:18:  删除多个项目
+10:36:23:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:37:08:  D:\00-06\DRB\Applications\Instruction\InstrReturn.c (DRB) - Sublime Text (UNREGISTERED)
+10:37:28:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+10:38:08:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+10:38:53:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:38:58:  DRB测试缺陷-3.16.xlsx - Excel
+10:41:03:  计算器
+10:41:13:  DRB测试缺陷-3.16.xlsx - Excel
+10:44:08:  20210315
+10:44:18:  LOG
+10:44:28:  20210315
+10:44:38:  DRB测试缺陷-3.16.xlsx - Excel
+10:44:48:  缺陷日志
+10:44:53:  LOG
+10:44:58:  K64_BTCR-1100190803000005_20210315135502
+10:45:03:  Box_2__BTCR-1100190803000005_20210315135611.log - DRB2.tat* - TextAnalysisTool.NET
+10:44:08:  20210315
+10:44:18:  LOG
+10:44:28:  20210315
+10:44:38:  DRB测试缺陷-3.16.xlsx - Excel
+10:44:48:  缺陷日志
+10:44:53:  LOG
+10:44:58:  K64_BTCR-1100190803000005_20210315135502
+10:45:03:  Box_2__BTCR-1100190803000005_20210315135611.log - DRB2.tat* - TextAnalysisTool.NET
+10:45:28:  Edit Filter
+10:45:33:  Box_2__BTCR-1100190803000005_20210315135611.log - DRB2.tat* - TextAnalysisTool.NET
+10:45:43:  ErrCode_list_txt_flg.txt - 记事本
+10:45:48:  查找
+10:45:58:  Box_2__BTCR-1100190803000005_20210315135611.log - DRB2.tat* - TextAnalysisTool.NET
+10:46:23:  K64_BTCR-1100190803000005_20210315135502
+10:46:28:  K64-_BTCR-1100190803000005_20210315135502.log - DRB2.tat* - TextAnalysisTool.NET
+10:46:48:  DRB测试缺陷-3.16.xlsx - Excel
+10:47:08:  丛柏屹
+10:47:23:  K64-_BTCR-1100190803000005_20210315135502.log - DRB2.tat* - TextAnalysisTool.NET
+10:48:03:  20210315
+10:48:08:  K64-_BTCR-1100190803000005_20210315135420.log - DRB2.tat* - TextAnalysisTool.NET
+10:48:23:  DRB测试缺陷-3.16.xlsx - Excel
+10:48:48:  K64-_BTCR-1100190803000005_20210315135420.log - DRB2.tat* - TextAnalysisTool.NET
+10:48:53:  ErrCode_list_txt_flg.txt - 记事本
+10:48:58:  查找
+10:49:03:  K64-_BTCR-1100190803000005_20210315135420.log - DRB2.tat* - TextAnalysisTool.NET
+10:49:23:  K64_BTCR-1100190803000005_20210315135420
+10:49:33:  K64-_BTCR-1100190803000005_20210315135420.log - DRB2.tat* - TextAnalysisTool.NET
+10:49:38:  LOG
+10:49:43:  K64_BTCR-1100190803000005_20210315135502
+10:49:59:  K64_BTCR-1100190803000005_20210315135611
+10:50:09:  Box_2__BTCR-1100190803000005_20210315135611.log - DRB2.tat* - TextAnalysisTool.NET
+10:50:34:  K64_BTCR-1100190803000005_20210315135855
+10:50:39:  LogExpert #2 - D:\fenxi\新建文件夹 (3)\Decode\LOG\K64_BTCR-1100190803000005_20210315140056\K64-_BTCR-1100190803000005_20210315140056.log
+10:50:44:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103151412.log
+10:50:54:  K64_BTCR-1100190803000005_20210315140056
+10:50:59:  K64-_BTCR-1100190803000005_20210315140056.log - DRB2.tat* - TextAnalysisTool.NET
+10:51:09:  K64_BTCR-1100190803000005_20210315135420
+10:51:14:  K64_BTCR-1100190803000005_20210315135502
+10:51:19:  LOG
+10:51:24:  K64_BTCR-1100190803000005_20210315135611
+10:51:29:  Box_2__BTCR-1100190803000005_20210315135611.log - DRB2.tat* - TextAnalysisTool.NET
+10:51:39:  K64_BTCR-1100190803000005_20210315135502
+10:51:44:  K64-_BTCR-1100190803000005_20210315135502.log - DRB2.tat* - TextAnalysisTool.NET
+10:52:29:  于斌1
+10:52:44:  DRB测试缺陷-3.16.xlsx - Excel
+10:53:39:  荆文波
+10:53:44:  eSpace
+10:53:49:  荆文波
+10:53:59:  DRB测试缺陷-3.16.xlsx - Excel
+10:54:09:  新建文件夹 (3)
+10:54:14:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+10:54:24:  于斌1
+10:54:29:  ID-26、盘点从整理箱返回DRB50元下腔室卡钞
+10:54:34:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:54:44:  Decode
+10:54:49:  K64_BTCR-1100200600510420_20210316144011
+10:54:54:  Box_3__BTCR-1100200600510420_20210316144011.log - DRB2.tat* - TextAnalysisTool.NET
+10:55:24:  丛柏屹
+10:55:34:  Box_3__BTCR-1100200600510420_20210316143829.log - DRB2.tat* - TextAnalysisTool.NET
+10:55:44:  K64-_BTCR-1100200600510420_20210316143829.log - DRB2.tat* - TextAnalysisTool.NET
+10:55:54:  K64_BTCR-1100200600510420_20210316144011
+10:55:59:  K64-_BTCR-1100200600510420_20210316144011.log - DRB2.tat* - TextAnalysisTool.NET
+10:57:09:  于斌1
+10:57:34:  K64-_BTCR-1100200600510420_20210316144011.log - DRB2.tat* - TextAnalysisTool.NET
+10:57:49:  于斌1
+10:57:54:  K64-_BTCR-1100200600510420_20210316144011.log - DRB2.tat* - TextAnalysisTool.NET
+10:58:19:  于斌1
+10:58:49:  K64-_BTCR-1100200600510420_20210316144011.log - DRB2.tat* - TextAnalysisTool.NET
+10:58:54:  于斌1
+10:59:19:  K64-_BTCR-1100200600510420_20210316144011.log - DRB2.tat* - TextAnalysisTool.NET
+10:59:24:  eSpace
+10:59:29:  于斌1
+10:59:54:  K64-_BTCR-1100200600510420_20210316144011.log - DRB2.tat* - TextAnalysisTool.NET
+10:58:19:  于斌1
+10:58:49:  K64-_BTCR-1100200600510420_20210316144011.log - DRB2.tat* - TextAnalysisTool.NET
+10:58:54:  于斌1
+10:59:19:  K64-_BTCR-1100200600510420_20210316144011.log - DRB2.tat* - TextAnalysisTool.NET
+10:59:24:  eSpace
+10:59:29:  于斌1
+10:59:54:  K64-_BTCR-1100200600510420_20210316144011.log - DRB2.tat* - TextAnalysisTool.NET
+11:01:04:  于斌1
+11:01:09:  王亮杰
+11:02:34:  计算器
+11:04:34:  于斌1
+11:04:59:  DRB测试缺陷-3.16.xlsx - Excel
+11:06:44:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+11:06:49:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+11:07:39:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+11:07:44:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+11:08:29:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:08:59:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+11:09:09:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:09:14:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+11:10:04:  D:\00-06\DRB\Applications\Track\Track.h (DRB) - Sublime Text (UNREGISTERED)
+11:10:09:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+11:10:19:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:10:24:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+11:10:34:  Save Changes?
+11:10:39:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+11:10:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:10:49:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+11:21:14:  荆文波
+11:21:29:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+11:21:59:  桌面整理
+11:22:04:  副本DRB测试缺陷.xlsx - Excel
+11:22:14:  缺陷16.xlsx - Excel
+11:22:19:  DRB测试缺陷-3.16.xlsx - Excel
+11:22:29:  副本DRB测试缺陷.xlsx - Excel
+11:22:44:  DRB测试缺陷-3.16.xlsx - Excel
+11:22:49:  副本DRB测试缺陷.xlsx - Excel
+11:22:59:  DRB测试缺陷-3.16.xlsx - Excel
+11:23:09:  副本DRB测试缺陷.xlsx - Excel
+11:23:14:  DRB测试缺陷-3.16.xlsx - Excel
+11:23:34:  副本DRB测试缺陷.xlsx - Excel
+11:23:39:  DRB测试缺陷-3.16.xlsx - Excel
+11:23:54:  副本DRB测试缺陷.xlsx - Excel
+11:23:59:  DRB测试缺陷-3.16.xlsx - Excel
+11:24:04:  副本DRB测试缺陷.xlsx - Excel
+11:24:09:  DRB测试缺陷-3.16.xlsx - Excel
+11:27:34:  缺陷日志
+11:27:39:  DRB测试缺陷-3.16.xlsx - Excel
+11:27:54:  桌面整理
+11:27:59:  DRB测试缺陷-3.16 - 写邮件
+11:28:04:  发送邮件
+11:28:09:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+11:28:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:28:19:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+11:28:29:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+11:29:29:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:29:34:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+11:29:39:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+11:30:04:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+11:28:09:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+11:28:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:28:19:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+11:28:29:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+11:29:29:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:29:34:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+11:29:39:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+11:30:04:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+11:30:09:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+11:31:09:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+11:31:34:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+11:31:44:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+11:31:49:  DRB-3.17日新增问题
+11:31:59:  DRB测试缺陷-3.17.xlsx
+11:32:39:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+11:32:49:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+11:35:05:  DRB测试缺陷-3.17.xlsx
+11:37:25:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+11:38:05:  固件设计中心
+11:38:10:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+11:41:10:  锁屏状态
+13:18:41:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:18:51:  程明昌
+13:19:16:  于斌1
+13:19:26:  缺陷日志
+13:19:32:  DRB测试缺陷-3.17.xlsx
+13:19:42:  DRB测试缺陷-3.17.xlsx  [只读] - Excel
+13:20:02:  ID-28、7#5元上腔RB4-RB11盘点357张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B4
+13:20:07:  fenxi
+13:20:12:  港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+13:20:17:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+13:20:22:  新建文件夹
+13:20:27:  正在复制 74 个项目(178 MB)
+13:20:37:  剩余 10 秒
+13:20:42:  剩余 5 秒
+13:20:47:  新建文件夹
+13:21:12:  ID-28、7#5元上腔RB4-RB11盘点357张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B4
+13:21:17:  IMG_20210317_100957.jpg - Windows 照片查看器
+13:21:22:  IMG_20210317_101045.jpg - Windows 照片查看器
+13:21:27:  IMG_20210317_100957.jpg - Windows 照片查看器
+13:21:32:  IMG_20210317_101045.jpg - Windows 照片查看器
+13:21:37:  ID-28、7#5元上腔RB4-RB11盘点357张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B4
+13:21:42:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:21:52:  Decode
+13:23:12:  LOG
+13:23:17:  Box_1__BTCR-1100190803000005_20210317100339.log - DRB2.tat* - TextAnalysisTool.NET
+13:23:27:  K64_BTCR-1100190803000005_20210317100238
+13:23:32:  K64_BTCR-1100190803000005_20210317100339
+13:23:37:  Box_1__BTCR-1100190803000005_20210317100339.log - DRB2.tat* - TextAnalysisTool.NET
+13:24:07:  K64_BTCR-1100190803000005_20210317100339
+13:24:12:  K64-_BTCR-1100190803000005_20210317100339.log - DRB2.tat* - TextAnalysisTool.NET
+13:24:42:  LOG
+13:24:47:  K64-_BTCR-1100190803000005_20210317100238.log - DRB2.tat* - TextAnalysisTool.NET
+13:24:57:  K64_BTCR-1100190803000005_20210317100339
+13:25:02:  K64-_BTCR-1100190803000005_20210317100339.log - DRB2.tat* - TextAnalysisTool.NET
+13:25:32:  DRB测试缺陷-3.17.xlsx  [只读] - Excel
+13:25:42:  K64-_BTCR-1100190803000005_20210317100339.log - DRB2.tat* - TextAnalysisTool.NET
+13:26:27:  DRB测试缺陷-3.17.xlsx  [只读] - Excel
+13:26:32:  K64_BTCR-1100190803000005_20210317100339
+13:26:37:  ID-28、7#5元上腔RB4-RB11盘点357张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B4
+13:26:42:  ID-29、7#5元上腔大额存款36张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X864602B4
+13:26:47:  LOG
+13:26:52:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103151412.log
+13:26:57:  Box_1__BTCR-1100190803000005_20210317104822.log - DRB2.tat* - TextAnalysisTool.NET
+13:27:07:  LOG
+13:27:12:  Box_1__BTCR-1100190803000005_20210317104717.log - DRB2.tat* - TextAnalysisTool.NET
+13:27:22:  K64_BTCR-1100190803000005_20210317103406
+13:27:27:  Box_1__BTCR-1100190803000005_20210317103406.log - DRB2.tat* - TextAnalysisTool.NET
+13:27:37:  DRB测试缺陷-3.17.xlsx  [只读] - Excel
+13:27:47:  K64_BTCR-1100190803000005_20210317103406
+13:27:52:  新建文件夹
+13:27:57:  BVHostDLL
+13:28:02:  Decode
+13:28:07:  Box_3__BTCR-1100200600510423_20210317104549.log - DRB2.tat* - TextAnalysisTool.NET
+13:28:17:  LOG
+13:28:22:  Box_3__BTCR-1100200600510423_20210317104126.log - DRB2.tat* - TextAnalysisTool.NET
+13:28:42:  DRB测试缺陷-3.17.xlsx  [只读] - Excel
+13:28:52:  K64_BTCR-1100200600510423_20210317104126
+13:28:57:  ID-31、5元上腔大额存款157张报 通道传输过程中卡钞 超过最大长度持续有钞  返回码0X864602B4
+13:29:02:  Decode
+13:29:07:  K64_BTCR-1100190803000005_20210317105935
+13:29:12:  Box_1__BTCR-1100190803000005_20210317105935.log - DRB2.tat* - TextAnalysisTool.NET
+13:29:22:  K64_BTCR-1100190803000005_20210317105935
+13:29:27:  Box_1__BTCR-1100190803000005_20210317104822.log - DRB2.tat* - TextAnalysisTool.NET
+13:29:37:  K64_BTCR-1100190803000005_20210317105935
+13:29:42:  Box_1__BTCR-1100190803000005_20210317105935.log - DRB2.tat* - TextAnalysisTool.NET
+13:28:07:  Box_3__BTCR-1100200600510423_20210317104549.log - DRB2.tat* - TextAnalysisTool.NET
+13:28:17:  LOG
+13:28:22:  Box_3__BTCR-1100200600510423_20210317104126.log - DRB2.tat* - TextAnalysisTool.NET
+13:28:42:  DRB测试缺陷-3.17.xlsx  [只读] - Excel
+13:28:52:  K64_BTCR-1100200600510423_20210317104126
+13:28:57:  ID-31、5元上腔大额存款157张报 通道传输过程中卡钞 超过最大长度持续有钞  返回码0X864602B4
+13:29:02:  Decode
+13:29:07:  K64_BTCR-1100190803000005_20210317105935
+13:29:12:  Box_1__BTCR-1100190803000005_20210317105935.log - DRB2.tat* - TextAnalysisTool.NET
+13:29:22:  K64_BTCR-1100190803000005_20210317105935
+13:29:27:  Box_1__BTCR-1100190803000005_20210317104822.log - DRB2.tat* - TextAnalysisTool.NET
+13:29:37:  K64_BTCR-1100190803000005_20210317105935
+13:29:42:  Box_1__BTCR-1100190803000005_20210317105935.log - DRB2.tat* - TextAnalysisTool.NET
+13:30:22:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:32:37:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+13:32:42:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:32:47:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+13:32:52:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:33:37:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+13:34:07:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:34:42:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+13:34:52:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:35:12:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+13:35:17:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:35:42:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+13:35:57:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:36:07:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+13:36:12:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:36:17:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+13:36:22:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:37:17:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+13:39:12:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+13:40:42:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+13:40:47:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:41:02:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+13:41:17:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:41:32:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+13:41:47:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:42:02:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+13:43:42:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:45:27:  Decode
+13:45:32:  K64_BTCR-1100190803000005_20210317105935
+13:45:37:  K64-_BTCR-1100190803000005_20210317105935.log - DRB2.tat* - TextAnalysisTool.NET
+13:46:02:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+13:46:07:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:46:37:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:46:42:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+13:47:32:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:49:37:  锁屏状态
+13:50:22:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:58:57:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+13:59:17:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:59:37:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+13:58:57:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+13:59:17:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+13:59:37:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+14:00:17:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+14:00:42:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+14:01:57:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+14:02:07:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+14:02:12:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+14:04:22:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+14:04:32:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+14:05:38:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+14:05:48:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+14:15:48:  00-06
+14:15:53:  FwLib
+14:15:58:  D:\00-06\DRB\FwLib\DebugLog - 版本库浏览器 - TortoiseSVN
+14:16:08:  FwLib
+14:16:13:  D:\00-06\DRB\FwLib\DebugLog - 日志信息 - TortoiseSVN
+14:16:18:  FwLib
+14:16:23:  D:\00-06\DRB\FwLib\RingBuffer - 版本库浏览器 - TortoiseSVN
+14:16:48:  http://192.168.10.9:82/svn/FW_LIB_SHARE/FW_LIB_FLASH_CIRC_RECORD - 日志信息 - TortoiseSVN
+14:16:53:  ef_log.c Revision 1624 - TortoiseMerge
+14:16:58:  http://192.168.10.9:82/svn/FW_LIB_SHARE/FW_LIB_FLASH_CIRC_RECORD - 日志信息 - TortoiseSVN
+14:17:03:  FlashCircRecordConfig_Demo.h Revision 1623 - TortoiseMerge
+14:17:08:  http://192.168.10.9:82/svn/FW_LIB_SHARE/FW_LIB_FLASH_CIRC_RECORD - 日志信息 - TortoiseSVN
+14:17:13:  D:\00-06\DRB\FwLib\RingBuffer - 版本库浏览器 - TortoiseSVN
+14:17:18:  检出 完成！
+14:17:23:  FwLib
+14:17:28:  RingBuffer
+14:17:33:  FwLib
+14:17:38:  D:\00-06\DRB\FwLib - 版本库浏览器 - TortoiseSVN
+14:17:43:  http://192.168.10.9:82/svn/FW_LIB_SHARE - 版本库浏览器 - TortoiseSVN
+14:17:48:  D:\00-06\DRB\FwLib - 版本库浏览器 - TortoiseSVN
+14:17:58:  http://192.168.10.9:82/svn/FW_LIB_SHARE - 版本库浏览器 - TortoiseSVN
+14:18:03:  FwLib
+14:18:13:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+14:18:18:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\FlashCircRecordConfig_Demo.h (DRB) - Sublime Text (UNREGISTERED)
+14:18:28:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+14:19:03:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\FlashCircRecordConfig_Demo.h (DRB) - Sublime Text (UNREGISTERED)
+14:19:13:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+14:19:18:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\FlashCircRecordOperate.h (DRB) - Sublime Text (UNREGISTERED)
+14:19:28:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\data\测试数据.xlsx (DRB) - Sublime Text (UNREGISTERED)
+14:19:33:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\data\固件模块方案设计-日志存储v1.00 -.docx (DRB) - Sublime Text (UNREGISTERED)
+14:19:38:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\Examples\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+14:20:08:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\Examples\FlashCircRecordConfig.h (DRB) - Sublime Text (UNREGISTERED)
+14:20:13:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\Examples\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+14:20:28:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+14:20:33:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\easyflash\src\ef_log.c (DRB) - Sublime Text (UNREGISTERED)
+14:25:53:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+14:26:28:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+14:26:48:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+14:26:53:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+14:27:58:  FwLib
+14:28:03:  TCR检验工具_无暂存版本
+14:28:13:  TCR测试程序
+14:28:18:  主控板检验
+14:28:23:  线路板检验
+14:28:28:  模块检验
+14:28:33:  整机检验
+14:28:38:  TCR测试程序
+14:28:48:  TCR检验工具_无暂存版本
+14:28:53:  BTCRTestTool
+14:28:58:  CRS调测工具（研发版）V1.0.2.1
+14:29:43:  TCR检验工具_无暂存版本
+14:29:48:  CRS调测工具（研发版）V1.0.2.1
+14:28:13:  TCR测试程序
+14:28:18:  主控板检验
+14:28:23:  线路板检验
+14:28:28:  模块检验
+14:28:33:  整机检验
+14:28:38:  TCR测试程序
+14:28:48:  TCR检验工具_无暂存版本
+14:28:53:  BTCRTestTool
+14:28:58:  CRS调测工具（研发版）V1.0.2.1
+14:29:43:  TCR检验工具_无暂存版本
+14:29:48:  CRS调测工具（研发版）V1.0.2.1
+14:30:13:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+14:30:33:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+14:42:18:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:42:53:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+14:42:58:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+14:45:08:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+14:49:38:  eSpace
+14:50:53:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+14:54:18:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+14:54:48:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+14:55:03:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:55:09:  TCR检验工具_无暂存版本
+14:55:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:57:44:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+14:57:49:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+14:58:04:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:58:09:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+14:58:19:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:59:49:  00-06
+14:59:54:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:59:59:  Tools
+15:00:04:  D:\00-06\DRB\Tools\CreateJK.exe
+14:58:09:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+14:58:19:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:59:49:  00-06
+14:59:54:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:59:59:  Tools
+15:00:04:  D:\00-06\DRB\Tools\CreateJK.exe
+15:00:09:  Tools
+15:00:14:  打开
+15:00:24:  eSpace
+15:00:29:  TCR调测工具 V3.36
+15:02:49:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+15:03:19:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\Examples\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+15:03:49:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\easyflash\src\ef_log.c (DRB) - Sublime Text (UNREGISTERED)
+15:03:59:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+15:04:04:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\easyflash\src\ef_log.c (DRB) - Sublime Text (UNREGISTERED)
+15:06:14:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+15:11:34:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\FlashCircRecordConfig_Demo.h (DRB) - Sublime Text (UNREGISTERED)
+15:11:39:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+15:11:54:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\FlashCircRecordConfig_Demo.h (DRB) - Sublime Text (UNREGISTERED)
+15:12:04:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\FlashCircRecordConfig_Demo.h • (DRB) - Sublime Text (UNREGISTERED)
+15:12:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:12:19:  Add Files to Group 'Middlewares'
+15:12:24:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:14:49:  Add Files to Group 'Middlewares'
+15:14:49:  Add Files to Group 'Middlewares'
+15:15:19:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:15:49:  00-06
+15:15:54:  FwLib
+15:15:59:  FW_LIB_FLASH_CIRC_RECORD
+15:16:09:  删除多个项目
+15:16:14:  文件夹访问被拒绝
+15:16:19:  删除文件夹
+15:16:24:  文件夹访问被拒绝
+15:16:29:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:16:44:  删除文件夹
+15:16:49:  PC-LINT
+15:16:54:  trunk
+15:17:04:  FW_LIB_FLASH_CIRC_RECORD
+15:17:14:  code
+15:17:19:  trunk
+15:17:24:  FW_LIB_FLASH_CIRC_RECORD
+15:17:29:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:17:34:  Add Files to Group 'Middlewares'
+15:17:59:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:18:04:  FW_LIB_FLASH_CIRC_RECORD
+15:18:09:  FlashCircRecordMoudle
+15:18:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:18:19:  code
+15:18:24:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:18:29:  code
+15:18:34:  FwLib
+15:18:39:  Options for Target 'CashBox_1T2'
+15:18:44:  Folder Setup
+15:18:49:  浏览文件夹
+15:18:54:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:19:44:  Folder Setup
+15:19:49:  浏览文件夹
+15:19:54:  Folder Setup
+15:19:59:  浏览文件夹
+15:20:34:  Options for Target 'CashBox_1T2'
+15:20:39:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:21:19:  inc
+15:21:24:  FlashCircRecordMoudle
+15:21:29:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:23:19:  μVision
+15:23:24:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:23:29:  FW_LIB_FLASH_CIRC_RECORD
+15:23:34:  FlashCircRecordMoudle
+15:23:39:  code
+15:23:54:  文件夹访问被拒绝
+15:23:59:  FW_LIB_FLASH_CIRC_RECORD
+15:24:04:  trunk 属性
+15:24:09:  trunk 的权限
+15:24:19:  文件夹访问被拒绝
+15:24:24:  trunk 属性
+15:24:29:  高级属性 
+15:24:34:  文件夹访问被拒绝
+15:24:39:  code
+15:24:44:  正在准备 再循环
+15:24:49:  FlashCircRecordMoudle
+15:24:54:  删除文件夹
+15:24:59:  FW_LIB_FLASH_CIRC_RECORD
+15:25:04:  μVision
+15:25:09:  Add Files to Group 'Middlewares'
+15:25:24:  FW_LIB_FLASH_CIRC_RECORD
+15:25:29:  code
+15:25:34:  文件夹访问被拒绝
+15:25:39:  删除多个项目
+15:25:44:  文件夹访问被拒绝
+15:25:49:  FW_LIB_FLASH_CIRC_RECORD
+15:25:54:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:25:59:  Add Files to Group 'Middlewares'
+15:26:14:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:26:19:  Folder Setup
+15:26:34:  浏览文件夹
+15:26:39:  Folder Setup
+15:26:44:  浏览文件夹
+15:26:49:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:26:59:  FlashCircRecordMoudle
+15:27:04:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:27:49:  FlashCircRecordMoudle
+15:27:59:   - 版本库浏览器 - TortoiseSVN
+15:28:09:  TortoiseSVN
+15:28:14:  FlashCircRecordMoudle
+15:28:29:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:28:49:  Folder Setup
+15:28:59:  浏览文件夹
+15:29:24:  FlashCircRecordMoudle
+15:29:34:   - 版本库浏览器 - TortoiseSVN
+15:29:39:  检出
+15:29:44:  FlashCircRecordMoudle
+15:29:49:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:28:09:  TortoiseSVN
+15:28:14:  FlashCircRecordMoudle
+15:28:29:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:28:49:  Folder Setup
+15:28:59:  浏览文件夹
+15:29:24:  FlashCircRecordMoudle
+15:29:34:   - 版本库浏览器 - TortoiseSVN
+15:29:39:  检出
+15:29:44:  FlashCircRecordMoudle
+15:29:49:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:31:14:  检出
+15:31:19:   - 版本库浏览器 - TortoiseSVN
+15:31:29:  http://192.168.10.9:82/svn/FW_LIB_SHARE/FW_.../FlashCircRecordConfig_Demo.h - 日志信息 - TortoiseSVN
+15:31:39:  FlashCircRecordConfig_Demo.h - TortoiseMerge
+15:31:49:  FlashCircRecordConfig_Demo.h Revision 1622 - TortoiseMerge
+15:32:04:  http://192.168.10.9:82/svn/FW_LIB_SHARE/FW_.../FlashCircRecordConfig_Demo.h - 日志信息 - TortoiseSVN
+15:32:09:  FlashCircRecordConfig_Demo.h Revision 1623 - TortoiseMerge
+15:32:34:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:33:54:  eSpace
+15:33:59:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:37:29:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:37:34:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordConfig.h (DRB) - Sublime Text (UNREGISTERED)
+15:37:49:  FlashCircRecordMoudle
+15:37:54:   - 版本库浏览器 - TortoiseSVN
+15:38:19:  FlashCircRecordMoudle
+15:38:29:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+15:39:24:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+15:39:29:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+15:39:44:  Add Files to Group 'Middlewares'
+15:40:54:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:50:40:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+15:51:50:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+15:52:00:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+15:52:30:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:52:40:  TCR调测工具 V3.36
+15:52:55:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:53:00:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+15:53:50:  TCR调测工具 V3.36
+15:54:00:  取款
+15:54:05:  FlashCircRecordMoudle
+15:54:10:  TCRControlCmdDLL
+15:54:15:  20210317
+15:54:35:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+15:55:30:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+15:55:40:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+15:56:05:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+15:56:10:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+15:56:15:  Decode
+15:56:20:  K64_BTCR-1100200400210043_20210317155402
+15:56:25:  Box_4__BTCR-1100200400210043_20210317155402.log - DRB2.tat* - TextAnalysisTool.NET
+15:57:20:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\Examples\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+15:57:25:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+15:57:45:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:58:10:  Box_4__BTCR-1100200400210043_20210317155402.log - DRB2.tat* - TextAnalysisTool.NET
+15:58:15:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+15:59:20:  Box_4__BTCR-1100200400210043_20210317155402.log - DRB2.tat* - TextAnalysisTool.NET
+15:59:55:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+15:58:10:  Box_4__BTCR-1100200400210043_20210317155402.log - DRB2.tat* - TextAnalysisTool.NET
+15:58:15:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+15:59:20:  Box_4__BTCR-1100200400210043_20210317155402.log - DRB2.tat* - TextAnalysisTool.NET
+15:59:55:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:00:10:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+16:00:20:  Box_4__BTCR-1100200400210043_20210317155402.log - DRB2.tat* - TextAnalysisTool.NET
+16:00:50:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+16:00:55:  Box_4__BTCR-1100200400210043_20210317155402.log - DRB2.tat* - TextAnalysisTool.NET
+16:07:20:  eSpace
+16:07:25:  丛柏屹
+16:08:05:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+16:08:15:  eSpace
+16:08:20:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+16:08:25:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:09:05:  FlashCircRecordMoudle
+16:09:10:  μVision
+16:09:15:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:09:25:  00-06
+16:09:30:  D:\00-06\DRB\Tools\CreateJK.exe
+16:09:35:  TCR调测工具 V3.36
+16:11:35:  取款
+16:11:40:  TCR调测工具 V3.36
+16:11:55:  Tools
+16:12:00:  TCR调测工具 V3.36
+16:12:05:  Box_4__BTCR-1100200400210043_20210317155402.log - DRB2.tat* - TextAnalysisTool.NET
+16:14:20:  丛柏屹
+16:14:45:  Box_4__BTCR-1100200400210043_20210317155402.log - DRB2.tat* - TextAnalysisTool.NET
+16:15:00:  丛柏屹
+16:14:20:  丛柏屹
+16:14:45:  Box_4__BTCR-1100200400210043_20210317155402.log - DRB2.tat* - TextAnalysisTool.NET
+16:15:00:  丛柏屹
+16:15:15:  Box_4__BTCR-1100200400210043_20210317155402.log - DRB2.tat* - TextAnalysisTool.NET
+16:16:05:  Add Filter
+16:16:10:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:16:30:  Box_4__BTCR-1100200400210043_20210317155402.log - DRB2.tat* - TextAnalysisTool.NET
+16:16:35:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:17:05:  丛柏屹
+16:17:10:  Box_4__BTCR-1100200400210043_20210317155402.log - DRB2.tat* - TextAnalysisTool.NET
+16:17:15:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:17:35:  Box_4__BTCR-1100200400210043_20210317155402.log - DRB2.tat* - TextAnalysisTool.NET
+16:18:25:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:19:00:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+16:19:20:  丛柏屹
+16:19:30:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+16:19:35:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:19:40:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:20:10:  D:\00-06\DRB\Applications\PaperManage\PaperManage.h (DRB) - Sublime Text (UNREGISTERED)
+16:20:15:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:20:25:  D:\00-06\DRB\Applications\PaperManage\PaperManage.h (DRB) - Sublime Text (UNREGISTERED)
+16:20:35:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+16:21:05:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:22:25:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+16:23:25:  Box_4__BTCR-1100200400210043_20210317155402.log - DRB2.tat* - TextAnalysisTool.NET
+16:23:40:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:24:50:  Box_4__BTCR-1100200400210043_20210317155402.log - DRB2.tat* - TextAnalysisTool.NET
+16:25:15:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:25:30:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+16:25:45:  μVision
+16:25:50:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:26:45:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+16:26:50:  D:\00-06\DRB\Tools\CreateJK.exe
+16:27:00:  TCR调测工具 V3.36
+16:28:25:  锁屏状态
+16:28:35:  取款
+16:28:40:  TCR调测工具 V3.36
+16:28:25:  锁屏状态
+16:28:35:  取款
+16:28:40:  TCR调测工具 V3.36
+16:33:30:  取款
+16:33:40:  BTCRTestTool V3.36
+16:33:45:  20210317
+16:34:05:  Decode
+16:34:10:  K64_BTCR-1100200400210043_20210317163331
+16:34:25:  TCR调测工具 V3.36
+16:34:35:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+16:34:40:  State.c - TortoiseMerge
+16:34:45:  Track.c - TortoiseMerge
+16:34:50:  SpiFlashDriver.c - TortoiseMerge
+16:35:10:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+16:35:15:  Log.c - TortoiseMerge
+16:35:25:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:35:30:  DRB
+16:35:35:  D:\00-06\DRB\Tools\CreateJK.exe
+16:35:40:  TCR调测工具 V3.36
+16:37:20:  取款
+16:37:25:  Decode
+16:37:30:  20210317
+16:38:00:  LOG
+16:38:05:  Box_4__BTCR-1100200400210043_20210317163722.log - DRB2.tat* - TextAnalysisTool.NET
+16:38:10:  Go To
+16:38:15:  Box_4__BTCR-1100200400210043_20210317163722.log - DRB2.tat* - TextAnalysisTool.NET
+16:38:50:  Tools
+16:38:55:  打开
+16:39:00:  TCR调测工具 V3.36
+16:40:30:  取款
+16:40:35:  Decode
+16:40:40:  20210317
+16:41:05:  Decode
+16:41:10:  Box_4__BTCR-1100200400210043_20210317164032.log - DRB2.tat* - TextAnalysisTool.NET
+16:41:30:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:42:10:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+16:42:30:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:42:35:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+16:42:40:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:42:55:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+16:43:10:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:43:20:  D:\00-06\DRB\Tools\CreateJK.exe
+16:43:25:  TCR调测工具 V3.36
+16:45:30:  20210317
+16:46:05:  取款
+16:46:10:  20210317
+16:47:25:  TCR调测工具 V3.36
+16:49:31:  自动播放
+16:50:11:  TCR调测工具 V3.36
+16:50:41:  可接收
+16:50:46:  TCR调测工具 V3.36
+16:50:51:  20210317
+16:51:26:  Decode
+16:51:31:  Box_4__BTCR-1100200400210043_20210317164032.log - DRB2.tat* - TextAnalysisTool.NET
+16:51:36:  Box_4__BTCR-1100200400210043_20210317165046.log - DRB2.tat* - TextAnalysisTool.NET
+16:52:11:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:52:41:  D:\00-06\DRB\Applications\Track\Track.c • (DRB) - Sublime Text (UNREGISTERED)
+16:52:46:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:52:56:  Tools
+16:53:06:  BTCR-1100_BOX1T2_KE06_FV1002_EXTFEDU6V13_MAIN_T23 - 写邮件
+16:53:41:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+16:53:46:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\Examples\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+16:59:01:  丛柏屹
+16:59:36:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\Examples\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+16:59:01:  丛柏屹
+16:59:36:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\Examples\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+17:00:26:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+17:00:31:  D:\00-06\DRB\FwLib\FW_LIB_FLASH_CIRC_RECORD\trunk\code\FlashCircRecordMoudle\FlashCircRecordConfig_Demo.h • (DRB) - Sublime Text (UNREGISTERED)
+17:00:36:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+17:00:41:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+17:00:46:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+17:00:56:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+17:01:36:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c • (DRB) - Sublime Text (UNREGISTERED)
+17:01:56:  This is an unregistered copy
+17:02:01:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+17:02:06:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c • (DRB) - Sublime Text (UNREGISTERED)
+17:02:26:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+17:02:31:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c • (DRB) - Sublime Text (UNREGISTERED)
+17:02:36:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+17:04:21:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c • (DRB) - Sublime Text (UNREGISTERED)
+17:04:41:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+17:04:51:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+17:04:56:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c • (DRB) - Sublime Text (UNREGISTERED)
+17:05:01:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+17:05:06:  锁屏状态
+17:39:51:  「开始」菜单
+17:39:56:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+17:40:16:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+17:40:26:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+17:40:51:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+17:41:51:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+17:42:01:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c • (DRB) - Sublime Text (UNREGISTERED)
+17:42:06:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+17:42:11:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c • (DRB) - Sublime Text (UNREGISTERED)
+17:42:36:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+17:42:41:  D:\00-06\DRB\Applications\LogHandle\LogHandle.h (DRB) - Sublime Text (UNREGISTERED)
+17:42:46:  D:\00-06\DRB\Applications\LogHandle\LogHandle.h • (DRB) - Sublime Text (UNREGISTERED)
+17:42:56:  D:\00-06\DRB\Applications\LogHandle\LogHandle.c (DRB) - Sublime Text (UNREGISTERED)
+17:43:11:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+17:43:21:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+17:44:56:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+17:45:01:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+17:44:56:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+17:45:01:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+17:45:11:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+17:45:16:  D:\00-06\DRB\Applications\Initial\Initial.c (DRB) - Sublime Text (UNREGISTERED)
+17:45:26:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+17:47:56:  DRB
+17:48:01:  Initial.c - TortoiseMerge
+17:48:06:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+17:48:11:  LogHandle.c - TortoiseMerge
+17:48:16:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+17:48:21:  LogHandle.c - TortoiseMerge
+17:48:26:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+17:48:36:  μVision
+17:48:41:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+17:54:06:  FwLib
+17:54:11:  inc
+17:54:16:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+17:54:32:  Folder Setup
+17:54:42:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+18:00:57:  Add Files to Group 'Applications'
+18:01:02:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+18:04:02:  D:\00-06\DRB\Applications\Initial\Initial.c (DRB) - Sublime Text (UNREGISTERED)
+18:04:07:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+18:04:32:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+18:04:37:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+18:04:42:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+18:06:37:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+18:06:47:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+18:07:52:  μVision
+18:07:57:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+18:08:12:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+18:08:32:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c • (DRB) - Sublime Text (UNREGISTERED)
+18:08:42:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+18:08:52:  K64_BTCR-1100200400210043_20210317165046
+18:08:57:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+18:09:07:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+18:09:27:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+18:09:32:  D:\00-06\DRB\Middlewares\Log\Log.c • (DRB) - Sublime Text (UNREGISTERED)
+18:10:12:  D:\00-06\DRB\Middlewares\Log\Log.c (DRB) - Sublime Text (UNREGISTERED)
+18:10:27:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecordMoudle.c (DRB) - Sublime Text (UNREGISTERED)
+18:10:32:  D:\00-06\DRB\FwLib\FlashCircRecordMoudle\FlashCircRecord_Examples.c (DRB) - Sublime Text (UNREGISTERED)
+18:11:07:  锁屏状态

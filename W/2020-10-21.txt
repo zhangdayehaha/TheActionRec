@@ -1,0 +1,1623 @@
+08:02:17:  （上海+邮储）DRB钞箱发货测试
+08:10:22:  DRB测试缺陷列表.xlsx  [受保护的视图] - Excel
+08:10:57:  模具2.0系统测试过程数据
+08:11:02:  （上海+邮储）DRB钞箱发货测试
+08:11:07:  DRB测试缺陷列表.xlsx  [受保护的视图] - Excel
+08:11:17:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+08:19:32:  Re: 回复: 关于自研TCR机芯BV升级的业务联络【BV再次升级】
+08:19:42:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+08:27:42:  E:\深圳出差\44\EXConfigVersion.xml (44) - Sublime Text (UNREGISTERED)
+08:27:52:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+08:29:02:  戚晓东
+08:29:02:  戚晓东
+08:33:52:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+08:41:28:  自动播放
+08:41:33:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+08:41:38:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:41:43:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:42:53:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:43:17:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+08:43:22:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:43:27:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:44:46:  打开文件夹
+08:44:51:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:44:46:  打开文件夹
+08:44:51:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:45:31:  （上海+邮储）DRB钞箱发货测试
+08:45:36:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:53:17:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:54:37:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:01:02:  ● CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+09:01:07:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+09:01:12:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+09:09:42:  E:\深圳出差\44\Applications\CanComm\CanComm.c (44) - Sublime Text (UNREGISTERED)
+09:09:47:  untitled (trunk) - Sublime Text (UNREGISTERED)
+09:09:52:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:11:12:  D:\00-KE64\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.h (trunk) - Sublime Text (UNREGISTERED)
+09:11:22:  DRB传感器.txt - 记事本
+09:11:32:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:11:37:  D:\00-KE64\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.h (trunk) - Sublime Text (UNREGISTERED)
+09:11:47:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:13:07:  D:\00-KE64\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.h (trunk) - Sublime Text (UNREGISTERED)
+09:13:17:  ID-20 10元5元混合纸币，纸币进入钞箱，10元纸币进入下腔
+09:13:22:  ID-20 10元5元混合纸币，纸币进入钞箱，10元纸币进入下腔 (未响应)
+09:13:37:  新建文本文档.exe - 快捷方式
+09:13:42:  本地磁盘 (D:)
+09:13:47:  D:\00-KE64\trunk\Tools\CreateJK.exe
+09:13:52:  Tools
+09:13:57:  trunk
+09:14:02:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+09:14:12:  D:\00-KE64\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.h (trunk) - Sublime Text (UNREGISTERED)
+09:14:17:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+09:14:44:  本地磁盘 (D:)
+09:14:50:  trunk
+09:14:12:  D:\00-KE64\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.h (trunk) - Sublime Text (UNREGISTERED)
+09:14:17:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+09:14:44:  本地磁盘 (D:)
+09:14:50:  trunk
+09:15:33:  DRB传感器.txt - 记事本
+09:15:38:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+09:23:33:  发送指令到K06
+09:31:54:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+09:31:59:  锁屏状态
+09:32:09:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:47:39:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+09:47:54:  10
+09:47:59:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+09:48:04:  10
+09:48:09:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:49:59:  Project
+09:50:04:  D:\00-KE64\10\Tools\CreateJK.exe
+09:50:09:  Tools
+09:51:24:  「开始」菜单
+09:51:44:  远程桌面连接
+09:51:49:  Windows 安全
+09:52:04:  yf-yanxiaojun - 远程桌面连接
+09:53:39:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:55:04:  D:\00-KE64\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.h (trunk) - Sublime Text (UNREGISTERED)
+09:55:09:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:55:34:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+09:55:39:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+09:55:44:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:56:19:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+09:56:24:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:56:39:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+09:56:49:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+09:56:54:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+09:58:29:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+09:58:34:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+09:58:44:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:58:49:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+09:58:54:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+09:58:59:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+09:58:29:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+09:58:34:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+09:58:44:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+09:58:49:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+09:58:54:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+09:58:59:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:02:05:  D:\00-06\DRB--\Applications\PlateCtrl\PlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+10:02:10:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+10:02:45:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.h (DRB--) - Sublime Text (UNREGISTERED)
+10:04:05:  eSpace
+10:04:55:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:05:15:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.h (trunk) - Sublime Text (UNREGISTERED)
+10:05:25:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:05:45:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:05:50:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:06:35:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:06:50:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:07:05:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:07:10:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:07:45:  Tools
+10:08:10:  TCR调测工具 V3.36
+10:08:15:  打开
+10:08:25:  TCR调测工具 V3.36
+10:08:45:  通道电机测试
+10:09:05:  TCR调测工具 V3.36
+10:09:15:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:11:40:  TCR调测工具 V3.36
+10:11:45:  打开
+10:11:50:  锁屏状态
+10:11:55:  TCR调测工具 V3.36
+10:12:15:  通道电机测试
+10:12:25:  TCR调测工具 V3.36
+10:12:30:  通道电机测试
+10:12:40:  TCR调测工具 V3.36
+10:13:10:  桌面整理
+10:13:15:  TCR调测工具 V3.36
+10:13:30:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:13:35:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:13:50:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:14:00:  This is an unregistered copy
+10:14:10:  μVision
+10:14:15:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:14:25:  BTCRTestTool
+10:14:30:  TCR调测工具 V3.36
+10:14:35:  通道电机测试
+10:14:40:  Tools
+10:14:45:  锁屏状态
+10:14:50:  打开
+10:15:00:  TCR调测工具 V3.36
+10:14:10:  μVision
+10:14:15:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:14:25:  BTCRTestTool
+10:14:30:  TCR调测工具 V3.36
+10:14:35:  通道电机测试
+10:14:40:  Tools
+10:14:45:  锁屏状态
+10:14:50:  打开
+10:15:00:  TCR调测工具 V3.36
+10:15:20:  通道电机测试
+10:15:35:  TCR调测工具 V3.36
+10:16:10:  Tools
+10:16:15:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+10:19:25:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+10:21:40:  10
+10:21:45:  D:\00-KE64\10\Tools\CreateJK.exe
+10:21:55:  Tools
+10:22:10:  TCR调测工具 V3.36
+10:27:10:  于斌1
+10:29:10:  BTCRTestTool
+10:29:40:  锁屏状态
+10:29:45:  yf-yanxiaojun - 远程桌面连接
+10:29:50:  Tools
+10:30:00:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:29:10:  BTCRTestTool
+10:29:40:  锁屏状态
+10:29:45:  yf-yanxiaojun - 远程桌面连接
+10:29:50:  Tools
+10:30:00:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:30:05:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:30:20:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:30:25:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:30:30:  于斌1
+10:32:30:  eSpace
+10:32:40:  于斌1
+10:37:30:  DRB传感器.txt - 记事本
+10:37:35:  eSpace
+10:37:45:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:38:00:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:38:05:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:38:15:  关于邮储银行招标
+10:38:50:  中国邮政储蓄银行超级柜员机（STM）采购招标测试方案20201021.doc
+10:38:55:  关于邮储银行招标
+10:39:10:  中国邮政储蓄银行超级柜员机（STM）采购招标测试方案20201021.doc
+10:40:20:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:42:00:  D:\00-KE64\10 - 更新 - TortoiseSVN
+10:42:05:  10
+10:42:15:  于斌1
+10:42:45:  10
+10:43:00:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:44:35:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:44:45:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:44:55:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+10:44:35:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:44:45:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:44:55:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+10:45:20:  荆文波
+10:45:25:  00-06
+10:45:30:  D:\00-06\DRB-- - 日志信息 - TortoiseSVN
+10:45:35:  DRB--
+10:45:40:  LowerPlateCtrl.c - TortoiseMerge
+10:45:45:  TortoiseMerge
+10:45:50:  D:\00-06\DRB-- - 工作副本 - TortoiseSVN
+10:45:55:  荆文波
+10:46:45:  DRB传感器.txt - 记事本
+10:46:55:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+10:47:00:  荆文波
+10:48:15:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+10:48:25:  D:\00-KE64\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+10:48:40:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+10:48:45:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:48:50:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:48:55:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:49:05:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:49:15:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:49:25:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:49:30:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:50:30:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:50:35:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:52:15:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:52:40:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+10:52:45:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:52:50:  于斌1
+10:53:35:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:55:05:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+10:55:10:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:55:20:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:55:50:  「开始」菜单
+10:56:15:  DRB--
+10:56:50:  Bus Hound
+10:56:55:  TCR调测工具 V3.36
+10:57:00:  通道电机测试
+10:57:05:  Bus Hound
+10:57:30:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:57:35:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:57:40:  Bus Hound
+10:57:45:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:57:50:  Bus Hound
+10:58:00:  通道电机测试
+10:58:05:  Bus Hound
+10:58:45:  BTCRTestTool
+10:58:50:  TCR调测工具 V3.36
+10:58:55:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:15:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:20:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:30:  锁屏状态
+10:59:35:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:50:  Bus Hound
+10:59:55:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:58:05:  Bus Hound
+10:58:45:  BTCRTestTool
+10:58:50:  TCR调测工具 V3.36
+10:58:55:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:15:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:20:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:30:  锁屏状态
+10:59:35:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:50:  Bus Hound
+10:59:55:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:00:05:  通道电机测试
+11:00:15:  Bus Hound
+11:00:20:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:00:25:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+11:00:30:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:01:30:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+11:01:40:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:01:50:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+11:02:15:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+11:02:50:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+11:05:05:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+11:05:25:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+11:05:45:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+11:05:50:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+11:06:50:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+11:07:00:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+11:07:30:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+11:10:31:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:11:16:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+11:12:31:  D:\00-KE64\trunk\Applications\FlowControl\TrackSelector\SelModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+11:12:36:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+11:12:41:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:12:51:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+11:13:11:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+11:13:36:  D:\00-KE64\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+11:13:51:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+11:14:01:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+11:14:06:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+11:14:06:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+11:15:16:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+11:15:26:  D:\00-06\DRB--\Applications\Instruction\InstrHandle.c (DRB--) - Sublime Text (UNREGISTERED)
+11:15:31:  D:\00-06\DRB--\Applications\Instruction\InstrHandle.h (DRB--) - Sublime Text (UNREGISTERED)
+11:15:36:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+11:15:41:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.h (DRB--) - Sublime Text (UNREGISTERED)
+11:15:56:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+11:16:16:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:16:41:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:17:21:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+11:17:26:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:17:36:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+11:17:41:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:17:46:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:18:06:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+11:18:11:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+11:18:16:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+11:18:21:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+11:18:36:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:19:11:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+11:19:31:  本地磁盘 (D:)
+11:19:36:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+11:19:46:  InstrExp
+11:19:51:  D:\00-KE64\10\Applications\InstrExp - 日志信息 - TortoiseSVN
+11:20:21:  WinRAR
+11:20:26:  D:\00-KE64\10\Applications\InstrExp - 日志信息 - TortoiseSVN
+11:20:36:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+11:20:41:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:20:51:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+11:21:11:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:22:41:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+11:22:51:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+11:22:56:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+11:23:01:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:23:36:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+11:23:51:  D:\00-KE64\10\Applications\InstrExp - 日志信息 - TortoiseSVN
+11:24:01:  跳转列表
+11:24:06:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+11:24:11:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:24:16:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+11:24:36:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:25:16:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+11:25:56:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+11:26:06:  D:\00-KE64\10\Applications\InstrExp - 工作副本 - TortoiseSVN
+11:26:11:  D:\00-KE64\10\Applications\InstrExp - 日志信息 - TortoiseSVN
+11:26:31:  InstrExp
+11:26:36:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c - 日志信息 - TortoiseSVN
+11:26:46:  文件补丁  
+11:26:51:  InstrGSProcess.c Revision 4112 - TortoiseMerge
+11:27:01:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c - 日志信息 - TortoiseSVN
+11:27:06:  InstrGSProcess.c Revision 4112 - TortoiseMerge
+11:27:11:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c - 日志信息 - TortoiseSVN
+11:27:36:  InstrGSProcess.c Revision 3779 - TortoiseMerge
+11:27:46:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c - 日志信息 - TortoiseSVN
+11:27:56:  InstrExp
+11:28:01:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+11:28:06:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:28:11:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+11:28:41:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+11:29:41:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:29:56:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+11:28:06:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:28:11:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+11:28:41:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+11:29:41:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:29:56:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+11:30:16:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:30:21:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+11:30:36:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:30:41:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+11:30:51:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)
+11:31:11:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c • (trunk) - Sublime Text (UNREGISTERED)
+11:31:26:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:36:46:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+11:36:51:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.h (DRB--) - Sublime Text (UNREGISTERED)
+11:37:06:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:37:41:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+11:37:51:  D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+11:37:56:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+11:38:06:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+11:38:31:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+13:24:42:  荆文波
+13:25:02:  fenxi
+13:25:07:  爆仓问题(1)
+13:25:12:  5#DRB钞箱上腔10元取款最后9张纸币倾斜过大。
+13:25:17:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:25:27:  Decode
+13:25:42:  K64_BTCR-1100200600510420_20201021111200
+13:25:47:  Box_4__BTCR-1100200600510420_20201021111200.log - DRB.tat - TextAnalysisTool.NET
+13:25:57:  LOG
+13:26:02:  Box_4__BTCR-1100200600510420_20201021111001.log - DRB.tat - TextAnalysisTool.NET
+13:26:07:  LOG
+13:26:12:  Box_4__BTCR-1100200600510420_20201021111200.log - DRB.tat - TextAnalysisTool.NET
+13:26:22:  荆文波
+13:26:47:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:29:47:  自动播放
+13:29:52:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+13:29:57:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:29:47:  自动播放
+13:29:52:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+13:29:57:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:30:12:  荆文波
+13:30:27:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:37:42:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+13:40:42:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:45:03:  ● LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:45:03:  ● LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:45:18:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+13:45:23:  本地磁盘 (D:)
+13:45:28:  trunk
+13:45:33:  D:\00-KE64\trunk - 工作副本 - TortoiseSVN
+13:45:38:  InstrGSProcess.c - TortoiseMerge
+13:45:53:  D:\00-KE64\trunk - 工作副本 - TortoiseSVN
+13:45:58:  InstrGSProcess.c - TortoiseMerge
+13:46:03:  10
+13:46:08:  D:\00-KE64\10 - 工作副本 - TortoiseSVN
+13:46:13:  10
+13:46:18:  InstrGSProcess.c - TortoiseMerge
+13:46:23:  9
+13:46:28:  00-KE64
+13:46:33:  trunk
+13:46:38:  InstrGSProcess.c - TortoiseMerge
+13:46:58:  D:\00-KE64\jianjuVersion\trunk - 工作副本 - TortoiseSVN
+13:47:08:  GateModule.c - TortoiseMerge
+13:47:13:  00-KE64
+13:47:18:  D:\00-KE64\Press - 工作副本 - TortoiseSVN
+13:47:23:  Press-1
+13:47:28:  00-KE64
+13:47:33:  D:\00-KE64\press2 - 工作副本 - TortoiseSVN
+13:47:38:  press2
+13:47:43:  trunk
+13:47:53:  D:\00-KE64\trunk - 工作副本 - TortoiseSVN
+13:47:58:  trunk
+13:48:08:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.h (DRB--) - Sublime Text (UNREGISTERED)
+13:48:18:  选择文件夹
+13:48:23:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.h (DRB--) - Sublime Text (UNREGISTERED)
+13:48:33:  untitled (10) - Sublime Text (UNREGISTERED)
+13:48:53:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+13:49:08:  荆文波
+13:49:33:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+13:49:48:  荆文波
+13:51:13:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+13:51:18:  荆文波
+13:51:23:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+13:53:58:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c • (10) - Sublime Text (UNREGISTERED)
+13:54:03:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+13:54:13:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c • (10) - Sublime Text (UNREGISTERED)
+13:54:28:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+13:54:33:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c • (10) - Sublime Text (UNREGISTERED)
+13:55:38:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+13:55:43:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c • (10) - Sublime Text (UNREGISTERED)
+13:55:53:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.h (10) - Sublime Text (UNREGISTERED)
+13:55:58:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+13:56:03:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c • (10) - Sublime Text (UNREGISTERED)
+13:56:13:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.h (10) - Sublime Text (UNREGISTERED)
+13:56:18:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+13:56:23:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.h (10) - Sublime Text (UNREGISTERED)
+13:56:28:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c • (10) - Sublime Text (UNREGISTERED)
+13:57:28:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.h (10) - Sublime Text (UNREGISTERED)
+13:57:33:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+13:57:38:  荆文波
+14:02:08:  密码锁
+14:02:13:  所有笔记本 - 张开发 - 印象笔记
+14:02:33:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+14:03:48:  所有笔记本 - 张开发 - 印象笔记
+14:03:53:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+14:06:18:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.h (DRB--) - Sublime Text (UNREGISTERED)
+14:07:13:  D:\00-06\DRB--\Applications\Instruction\InstrHandle.c (DRB--) - Sublime Text (UNREGISTERED)
+14:07:23:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+14:07:28:  untitled (44) - Sublime Text (UNREGISTERED)
+14:08:08:  E:\深圳出差\44\Applications\CanComm\CanComm.c (44) - Sublime Text (UNREGISTERED)
+14:08:43:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+14:09:28:  选择文件夹
+14:09:48:  untitled (KE18-UP) - Sublime Text (UNREGISTERED)
+14:09:53:  D:\CRS\KE18-UP\Applications\LogHandle\LogSend.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:10:03:  D:\CRS\KE18-UP\Drivers\UartDriver\SnbcUartDriver.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:10:08:  D:\CRS\KE18-UP\Applications\LogHandle\LogSend.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:10:13:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:10:18:  D:\CRS\KE18-UP\Applications\LogHandle\LogSend.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:10:28:  D:\CRS\KE18-UP\Drivers\UartDriver\SnbcUartDriver.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:10:38:  D:\CRS\KE18-UP\Drivers\Ke18Bsp\fsl_lpuart_edma.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:10:43:  D:\CRS\KE18-UP\Drivers\UartDriver\SnbcUartDriver.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:10:58:  D:\CRS\KE18-UP\Applications\LogHandle\LogSend.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:16:28:  D:\CRS\KE18-UP\FwLib\DebugLog\LogPrint\PrintService.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:16:38:  D:\CRS\KE18-UP\Applications\LogHandle\LogSend.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:16:43:  D:\CRS\KE18-UP\FwLib\DebugLog\LogPrint\PrintService.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:16:58:  D:\CRS\KE18-UP\Applications\LogHandle\LogSend.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:17:13:  CRS
+14:17:18:  D:\CRS\KE18-UP - 日志信息 - TortoiseSVN
+14:17:53:  DebugConfig.h Revision 197 - TortoiseMerge
+14:18:03:  文件补丁  
+14:18:09:  D:\CRS\KE18-UP - 日志信息 - TortoiseSVN
+14:18:14:  D:\CRS\KE18-UP\Applications\LogHandle\LogSend.c (KE18-UP) - Sublime Text (UNREGISTERED)
+14:18:24:  D:\CRS\KE18-UP - 日志信息 - TortoiseSVN
+14:18:29:  DebugConfig.h Revision 197 - TortoiseMerge
+14:18:34:  D:\CRS\KE18-UP\FwLib\Config\DebugConfig.h (KE18-UP) - Sublime Text (UNREGISTERED)
+14:18:44:  D:\CRS\KE18-UP\FwLib\DebugLog\DebugLog.h (KE18-UP) - Sublime Text (UNREGISTERED)
+14:24:39:  Decode
+14:24:49:  eSpace
+14:24:54:  通道电机测试
+14:24:59:  TCR调测工具 V3.36
+14:25:04:  文档
+14:25:34:  桌面整理
+14:25:39:  新建文件夹
+14:26:04:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (DRB--) - Sublime Text (UNREGISTERED)
+14:26:34:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py • (DRB--) - Sublime Text (UNREGISTERED)
+14:26:44:  K18_0000_20201010142710
+14:26:49:  新建文件夹
+14:26:54:  K18_0000_20201010142710.log - DRB.tat - TextAnalysisTool.NET
+14:26:59:  于斌1
+14:27:09:  K18_0000_20201010142710.log - DRB.tat - TextAnalysisTool.NET
+14:27:19:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py • (DRB--) - Sublime Text (UNREGISTERED)
+14:27:29:  Add Filter
+14:27:34:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py • (DRB--) - Sublime Text (UNREGISTERED)
+14:27:39:  Add Filter
+14:27:44:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py • (DRB--) - Sublime Text (UNREGISTERED)
+14:27:59:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (DRB--) - Sublime Text (UNREGISTERED)
+14:28:04:  Add Filter
+14:28:14:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (DRB--) - Sublime Text (UNREGISTERED)
+14:28:19:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py • (DRB--) - Sublime Text (UNREGISTERED)
+14:28:24:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (DRB--) - Sublime Text (UNREGISTERED)
+14:28:34:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py • (DRB--) - Sublime Text (UNREGISTERED)
+14:28:44:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (DRB--) - Sublime Text (UNREGISTERED)
+14:28:49:  新建文件夹
+14:28:54:  Python 3.7.3 Shell
+14:29:14:  LOG
+14:29:19:  Python 3.7.3 Shell
+14:29:24:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+14:29:54:  Python 3.7.3 Shell
+14:29:59:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+14:28:14:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (DRB--) - Sublime Text (UNREGISTERED)
+14:28:19:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py • (DRB--) - Sublime Text (UNREGISTERED)
+14:28:24:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (DRB--) - Sublime Text (UNREGISTERED)
+14:28:34:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py • (DRB--) - Sublime Text (UNREGISTERED)
+14:28:44:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (DRB--) - Sublime Text (UNREGISTERED)
+14:28:49:  新建文件夹
+14:28:54:  Python 3.7.3 Shell
+14:29:14:  LOG
+14:29:19:  Python 3.7.3 Shell
+14:29:24:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+14:29:54:  Python 3.7.3 Shell
+14:29:59:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+14:30:19:  Save On Close
+14:30:29:  新建文件夹
+14:30:34:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (10) - Sublime Text (UNREGISTERED)
+14:31:34:  Everything
+14:31:39:  文档
+14:31:44:  Class-Log-C1.py - Everything
+14:31:49:  Class-Log-C1.py - F:\小程序\Class-Log-C1.py (3.7.3)
+14:31:54:  Class-Log-C1.py - Everything
+14:32:04:  Class-Log-C1.py - D:\00-记录\记录\2019-11\2019-11-12 08-08-14\Class-Log-C1.py (3.7.3)
+14:32:19:  Class-Log-C1.py - Everything
+14:32:24:  Class-Log-C1.py - D:\00-记录\记录\2019-12\2019-12-03 08-05-59\Decode\Class-Log-C1.py (3.7.3)
+14:32:29:  Class-Log-C1.py - Everything
+14:32:39:  Class-Log-C1.py - D:\00-记录\记录\2019-11\2019-11-05 07-58-01\1T2出钞\Decode\Class-Log-C1.py (3.7.3)
+14:32:44:  Class-Log-C1.py - Everything
+14:32:49:  Class-Log-C1.py - D:\00-记录\记录\2019-11\2019-11-05 07-58-01\K64_0000_20191105084145\Class-Log-C1.py (3.7.3)
+14:33:04:  Class-Log-C1.py - Everything
+14:33:14:  Class-Log-C1.py - D:\00-记录\记录\2019-11\2019-11-05 07-58-01\1T2出钞\Decode\Class-Log-C1.py (3.7.3)
+14:33:19:  Class-Log-C1.py - Everything
+14:33:29:  Class.*?.py - Everything
+14:33:39:  Class-Log-C.py - D:\00-记录\记录\2019-10\2019-10-31 08-00-41\Decode\Class-Log-C.py (3.7.3)
+14:33:54:  新建文件夹
+14:33:59:  Class-Log-C.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Class-Log-C.py (3.7.3)
+14:34:04:  新建文件夹
+14:34:09:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+14:34:14:  新建文件夹
+14:34:19:  C:\Users\zhangkaifa\Desktop\新建文件夹\Class-Log-C.py (10) - Sublime Text (UNREGISTERED)
+14:34:24:  C:\Users\zhangkaifa\Desktop\新建文件夹\Class-Log-C.py • (10) - Sublime Text (UNREGISTERED)
+14:34:44:  Python 3.7.3 Shell
+14:34:49:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+14:34:59:  C:\Users\zhangkaifa\Desktop\新建文件夹\Class-Log-C.py • (10) - Sublime Text (UNREGISTERED)
+14:35:19:  C:\Users\zhangkaifa\Desktop\新建文件夹\Class-Log-C.py (10) - Sublime Text (UNREGISTERED)
+14:36:14:  锁屏状态
+14:36:19:  Class.*?.py - Everything
+14:36:34:  Class-Log-C.py - D:\00-记录\记录\2019-11\2019-11-04 07-58-21\Decode\Class-Log-C.py (3.7.3)
+14:36:39:  Class.*?.py - Everything
+14:36:59:  C:\Users\zhangkaifa\Desktop\新建文件夹\Class-Log-C.py (10) - Sublime Text (UNREGISTERED)
+14:37:04:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (10) - Sublime Text (UNREGISTERED)
+14:37:24:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py • (10) - Sublime Text (UNREGISTERED)
+14:38:14:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (10) - Sublime Text (UNREGISTERED)
+14:38:24:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py • (10) - Sublime Text (UNREGISTERED)
+14:39:54:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (10) - Sublime Text (UNREGISTERED)
+14:39:59:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py • (10) - Sublime Text (UNREGISTERED)
+14:40:14:  桌面整理
+14:40:19:  CashBoxDareV2.3.py - C:\Users\zhangkaifa\Desktop\CashBoxDareV2.3.py (3.7.3)
+14:40:34:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py • (10) - Sublime Text (UNREGISTERED)
+14:42:09:  新建文件夹
+14:42:14:  Python 3.7.3 Shell
+14:42:19:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+14:42:34:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+14:42:39:  Class-Log-C.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Class-Log-C.py (3.7.3)
+14:42:44:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+14:42:54:  *Python 3.7.3 Shell*
+14:43:04:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+14:43:09:  新建文件夹
+14:43:14:  桌面整理
+14:43:19:  CashBoxDareV2.3.py - C:\Users\zhangkaifa\Desktop\CashBoxDareV2.3.py (3.7.3)
+14:43:39:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+14:44:29:  *Python 3.7.3 Shell*
+14:44:34:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+14:44:44:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+14:44:29:  *Python 3.7.3 Shell*
+14:44:34:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+14:44:44:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+14:46:34:  *Python 3.7.3 Shell*
+14:46:39:  Python 3.7.3 Shell
+14:46:54:  Save Before Run or Check
+14:46:59:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+14:47:14:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+14:48:19:  CashBoxDareV2.3.py - C:\Users\zhangkaifa\Desktop\CashBoxDareV2.3.py (3.7.3)
+14:48:44:  新建文件夹
+14:48:49:  Class-Log-C.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Class-Log-C.py (3.7.3)
+14:48:54:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+14:49:49:  新建文件夹
+14:49:59:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+14:50:04:  Python 3.7.3 Shell
+14:50:09:  新建文件夹
+14:50:14:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+14:50:24:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+14:50:34:  新建文件夹
+14:50:39:  log0.txt - 记事本
+14:50:44:  log1.txt - 记事本
+14:50:49:  log2.txt - 记事本
+14:51:09:  Python 3.7.3 Shell
+14:51:14:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+14:51:24:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+14:51:44:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+14:51:49:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+14:52:19:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+14:52:24:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+14:53:09:  Python 3.7.3 Shell
+14:53:14:  log2.txt - 记事本
+14:53:19:  log0.txt - 记事本
+14:53:24:  查找
+14:53:29:  记事本
+14:53:34:  log0.txt - 记事本
+14:53:39:  log2.txt - 记事本
+14:53:49:  查找
+14:53:59:  log0.txt - 记事本
+14:54:04:  log1.txt - 记事本
+14:54:09:  查找
+14:54:19:  log0.txt - 记事本
+14:54:49:  查找
+14:55:14:  记事本
+14:55:19:  log0.txt - 记事本
+14:55:24:  新建文件夹
+14:55:29:  K18_0000_20201010142710.log - [No filter file] - TextAnalysisTool.NET
+14:55:34:  LogExpert - C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201010142710.log
+14:55:44:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+14:56:04:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+14:56:24:  Save Before Run or Check
+14:56:29:  新建文件夹
+14:56:34:  log0.txt - 记事本
+14:57:04:  LogExpert - C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201010142710.log
+14:57:19:  log0.txt - 记事本
+14:57:24:  LogExpert - C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201010142710.log
+14:57:34:  log0.txt - 记事本
+14:57:44:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+14:57:54:  新建文件夹
+14:57:59:  log0.txt - 记事本
+14:58:04:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+14:58:09:  Python 3.7.3 Shell
+14:58:14:  LogExpert - C:\Users\zhangkaifa\Desktop\新建文件夹\log0.txt
+14:58:34:  锁屏状态
+14:58:39:  新建文件夹
+14:58:49:  LogExpert - C:\Users\zhangkaifa\Desktop\新建文件夹\log0.txt
+14:58:54:  LogExpert - C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201010142710.log
+14:58:09:  Python 3.7.3 Shell
+14:58:14:  LogExpert - C:\Users\zhangkaifa\Desktop\新建文件夹\log0.txt
+14:58:34:  锁屏状态
+14:58:39:  新建文件夹
+14:58:49:  LogExpert - C:\Users\zhangkaifa\Desktop\新建文件夹\log0.txt
+14:58:54:  LogExpert - C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201010142710.log
+15:06:04:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+15:09:19:  TCR调测工具 V3.36
+15:09:29:  发送指令到K06
+15:09:39:  TCR调测工具 V3.36
+15:09:44:  发送指令到K06
+15:09:54:  打开
+15:09:59:  TCR调测工具 V3.36
+15:10:49:  打开
+15:10:54:  TCR调测工具 V3.36
+15:17:24:  LogExpert - C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201010142710.log
+15:17:29:  TCR调测工具 V3.36
+15:17:34:  钞箱配置
+15:17:39:  TCR调测工具 V3.36
+15:18:19:  钞箱配置
+15:18:29:  TCR调测工具 V3.36
+15:18:59:  钞箱配置
+15:19:04:  TCR调测工具 V3.36
+15:22:34:  桌面整理
+15:22:39:  TCR调测工具 V3.36
+15:25:34:  取款
+15:25:39:  BTCRTestTool
+15:25:44:  TCR调测工具 V3.36
+15:26:19:  取款
+15:26:24:  TCR调测工具 V3.36
+15:29:14:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (10) - Sublime Text (UNREGISTERED)
+15:29:44:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+15:29:14:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (10) - Sublime Text (UNREGISTERED)
+15:29:44:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+15:30:19:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+15:30:24:  深圳出差
+15:30:39:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:32:34:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (10) - Sublime Text (UNREGISTERED)
+15:32:39:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+15:32:44:  D:\00-KE64\10\Applications\Update\Update.c (10) - Sublime Text (UNREGISTERED)
+15:33:09:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:38:04:  D:\00-KE64\10\Applications\Update\Update.c (10) - Sublime Text (UNREGISTERED)
+15:38:19:  untitled (10) - Sublime Text (UNREGISTERED)
+15:38:29:  D:\00-KE64\10\Applications\CanComm\CanComm.c (10) - Sublime Text (UNREGISTERED)
+15:38:54:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:40:44:  D:\00-KE64\10\Applications\Update\Update.c (10) - Sublime Text (UNREGISTERED)
+15:40:49:  D:\00-KE64\10\Applications\CanComm\CanComm.c (10) - Sublime Text (UNREGISTERED)
+15:40:54:  untitled (44) - Sublime Text (UNREGISTERED)
+15:40:59:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:41:04:  untitled (44) - Sublime Text (UNREGISTERED)
+15:41:09:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:41:14:  E:\深圳出差\44\FwLib\UsbDeviceStack\UsbStack.c (44) - Sublime Text (UNREGISTERED)
+15:41:24:  E:\深圳出差\44\Drivers\UsbDriver\SnbcUsbdDriver.c (44) - Sublime Text (UNREGISTERED)
+15:41:29:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:43:49:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:44:04:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:44:14:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:44:39:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:44:49:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:44:14:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:44:39:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:44:49:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:45:09:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:45:29:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:45:39:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:45:44:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:46:04:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:46:14:  E:\深圳出差\44\FwLib\RingBuffer\RingBufferModule.c (44) - Sublime Text (UNREGISTERED)
+15:46:19:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:46:24:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:47:09:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:47:14:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:47:24:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:47:39:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:48:49:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:48:59:  K18_0000_20201010142710.log - DRB.tat - TextAnalysisTool.NET
+15:49:04:  D:\00-KE64\10\Applications\LogHandle\LogHandle.c (10) - Sublime Text (UNREGISTERED)
+15:49:24:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+15:49:34:  D:\00-KE64\10\Applications\FlowControl\FlowControl.c (10) - Sublime Text (UNREGISTERED)
+15:49:54:  选择文件夹
+15:49:59:  untitled (10) - Sublime Text (UNREGISTERED)
+15:50:04:  D:\00-KE64\10\Applications\CanComm\CanComm.c (10) - Sublime Text (UNREGISTERED)
+15:50:29:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:51:34:  D:\00-KE64\10\Applications\CanComm\CanComm.c (10) - Sublime Text (UNREGISTERED)
+15:54:34:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:54:39:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:55:39:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:55:44:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:57:14:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:57:19:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:57:24:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:57:34:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:58:04:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:58:14:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:58:29:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:58:34:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:58:39:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:58:44:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:59:39:  锁屏状态
+15:59:59:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:58:14:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:58:29:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:58:34:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+15:58:39:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+15:58:44:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:59:39:  锁屏状态
+15:59:59:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:05:24:  新建文件夹
+16:05:29:  V1.009
+16:05:34:  TCR调测工具（研发版）V1.0.0.4
+16:05:39:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:05:44:  TCR调测工具（研发版）V1.0.0.4
+16:05:59:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:06:04:  TCR调测工具（研发版）V1.0.0.4
+16:06:14:  D:\00-KE64\10\Applications\CanComm\CanComm.c (10) - Sublime Text (UNREGISTERED)
+16:06:19:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:06:34:  Project
+16:06:39:  LogHandle.c - TortoiseMerge
+16:06:59:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:07:29:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision (未响应)
+16:07:34:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:08:15:  深圳出差
+16:08:20:  E:\深圳出差\6666 - 日志信息 - TortoiseSVN
+16:08:25:  μVision
+16:08:30:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+16:08:35:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+16:08:40:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+16:09:20:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:11:10:  Project
+16:11:15:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+16:11:20:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:15:50:  TCR调测工具（研发版）V1.0.0.4
+16:15:55:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:16:10:  TCR调测工具（研发版）V1.0.0.4
+16:16:15:  CRS调试工具
+16:16:20:  20201021
+16:16:25:  Decode
+16:16:30:  K18_0000_20201021161600.log - DRB.tat - TextAnalysisTool.NET
+16:16:40:  Decode
+16:16:45:  K18_0000_20201021160529.log - DRB.tat - TextAnalysisTool.NET
+16:17:10:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:17:15:  K18_0000_20201021160529.log - DRB.tat - TextAnalysisTool.NET
+16:17:20:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:17:45:  跳转列表
+16:17:55:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:18:05:  TCR调测工具（研发版）V1.0.0.4
+16:18:20:  20201021
+16:18:25:  Decode
+16:18:30:  K18_0000_20201021161600.log - DRB.tat - TextAnalysisTool.NET
+16:18:40:  Decode
+16:18:50:  20201021
+16:18:55:  K18_0000_20201021161600.log - DRB.tat - TextAnalysisTool.NET
+16:19:00:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:19:55:  锁屏状态
+16:20:05:  20201021
+16:20:10:  K18_0000_20201021161600.log - DRB.tat - TextAnalysisTool.NET
+16:20:25:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:21:10:  Toolbox
+16:21:15:  TCR调测工具（研发版）V1.0.0.4
+16:21:20:  20201021
+16:21:25:  Decode
+16:21:30:  K18_0000_20201021161600.log - DRB.tat - TextAnalysisTool.NET
+16:21:55:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:22:40:  计算器
+16:22:45:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:24:20:  44
+16:24:25:  删除多个项目
+16:24:30:  7#DRB钞箱上腔299张1元普通取款，结构拒钞23张（16张倾斜，7张间距过短）
+16:24:35:  Decode
+16:24:40:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:24:45:  TCR调测工具（研发版）V1.0.0.4
+16:24:50:  20201021
+16:24:55:  Decode
+16:25:00:  K18_0000_20201021161600.log - DRB.tat - TextAnalysisTool.NET
+16:25:20:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:25:45:  K18_0000_20201021161600.log - DRB.tat - TextAnalysisTool.NET
+16:25:55:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:26:05:  选择文件夹
+16:26:15:  untitled (DRB--) - Sublime Text (UNREGISTERED)
+16:26:25:  D:\00-06\DRB--\Applications\PaperManage\PaperManage.c (DRB--) - Sublime Text (UNREGISTERED)
+16:26:30:  D:\00-KE64\10\Applications\CanComm\CanComm.c (10) - Sublime Text (UNREGISTERED)
+16:26:35:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:28:55:  Toolbox
+16:29:00:  TCR调测工具（研发版）V1.0.0.4
+16:29:05:  删除多个项目
+16:29:10:  Decode
+16:29:15:  K18_0000_20201021161600.log - DRB.tat - TextAnalysisTool.NET
+16:29:25:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:28:55:  Toolbox
+16:29:00:  TCR调测工具（研发版）V1.0.0.4
+16:29:05:  删除多个项目
+16:29:10:  Decode
+16:29:15:  K18_0000_20201021161600.log - DRB.tat - TextAnalysisTool.NET
+16:29:25:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:31:55:  TCR调测工具（研发版）V1.0.0.4
+16:32:00:  锁屏状态
+16:32:05:  20201021
+16:32:10:  K18_0000_20201021161600.log - DRB.tat - TextAnalysisTool.NET
+16:32:15:  LogExpert - C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201010142710.log
+16:32:20:  LogExpert - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201021\Decode\K18_0000_20201021161600.log
+16:32:45:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:33:50:  Decode
+16:33:55:  TCR调测工具（研发版）V1.0.0.4
+16:34:00:  20201021
+16:34:05:  K18_0000_20201021161600.log - DRB.tat - TextAnalysisTool.NET
+16:34:15:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:35:50:  Decode
+16:35:55:  10元5元混合，上腔入5元。下腔入10元，大额存款第478张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X894602B4.rar
+16:36:20:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:36:45:  TCR调测工具（研发版）V1.0.0.4
+16:36:50:  20201021
+16:37:00:  K18_0000_20201021161600.log - DRB.tat - TextAnalysisTool.NET
+16:37:05:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:37:35:  μVision
+16:37:45:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:39:10:  荆文波
+16:39:20:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:39:25:  TCR调测工具（研发版）V1.0.0.4
+16:39:30:  20201021
+16:39:35:  Decode
+16:39:40:  计算器
+16:39:45:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:40:20:  TCR调测工具（研发版）V1.0.0.4
+16:40:25:  20201021
+16:40:30:  K18_0000_20201021161600.log - DRB.tat - TextAnalysisTool.NET
+16:40:40:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:41:15:  程明昌
+16:41:30:  eSpace
+16:41:35:  TCR调测工具（研发版）V1.0.0.4
+16:41:40:  20201021
+16:41:45:  K18_0000_20201021161600.log - DRB.tat - TextAnalysisTool.NET
+16:41:50:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:42:10:  自动播放
+16:42:15:  锁屏状态
+16:42:20:  新建文本文档.exe - 快捷方式
+16:42:30:  新标签页 - Google Chrome
+16:42:40:  百度一下，你就知道 - Google Chrome
+16:42:45:  Visual Studio Code
+16:42:50:  跳转列表
+16:42:55:  百度一下，你就知道 - Google Chrome
+16:43:00:  十进制转字符串C语言_百度搜索 - Google Chrome
+16:43:05:  https://www.baidu.com/link?url=apOYohYm2i5YQOPfyoEfyY5R4ayqDsXnOI-jLj40Mcb9jjuhVTpn9j354qVINtD6jQnKHpr_V4B9dlgp1d7D6a&wd=&eqid=8b0774600005da0a000000025f8ff493 - Google Chrome
+16:43:20:  https://www.baidu.com/link?url=xK0R8M5zN-yN6bu9vVyKioVpLx8DYyg3ugn2dblBaHrBkolrggSlsrDEZ6LnkR2d_bmO4zLeofE3sS2Z6KpCnK&wd=&eqid=9af7afdc00057cd7000000025f8ff4a2 - Google Chrome
+16:43:25:  C语言-数字字符串转换成这个字符串对应的数字（十进制、十六进制） - zkfopen - 博客园 - Google Chrome
+16:43:35:  十进制转字符型C语言_百度搜索 - Google Chrome
+16:43:40:  https://bbs.csdn.net/topics/390760642 - Google Chrome
+16:43:45:  十进制转字符型C语言_百度搜索 - Google Chrome
+16:43:55:  字符转为十六进制_百度搜索 - Google Chrome
+16:44:15:  (3条消息) C语言中字符串与十进制的互相转换-CSDN论坛 - Google Chrome
+16:44:20:  如何将字符转换为16进制数值-百度经验 - Google Chrome
+16:44:35:  (3条消息) 字符串和16进制之间的转换_哈哈一笑-CSDN博客 - Google Chrome
+16:45:00:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:44:15:  (3条消息) C语言中字符串与十进制的互相转换-CSDN论坛 - Google Chrome
+16:44:20:  如何将字符转换为16进制数值-百度经验 - Google Chrome
+16:44:35:  (3条消息) 字符串和16进制之间的转换_哈哈一笑-CSDN博客 - Google Chrome
+16:45:00:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:45:30:  D:\00-KE64\10\Applications\CanComm\CanComm.c (10) - Sublime Text (UNREGISTERED)
+16:45:35:  D:\00-KE64\10\Middlewares\Key\KeyDriver.c (10) - Sublime Text (UNREGISTERED)
+16:45:40:  D:\00-KE64\10\Middlewares\DigitLed\DigitLed.c (10) - Sublime Text (UNREGISTERED)
+16:45:45:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:45:50:  D:\00-KE64\10\Middlewares\DigitLed\DigitLed.c (10) - Sublime Text (UNREGISTERED)
+16:46:00:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:46:15:  TCR调测工具（研发版）V1.0.0.4
+16:46:20:  20201021
+16:46:25:  Decode
+16:46:30:  打开方式
+16:46:35:  Decode
+16:46:45:  K18_0000_20201021161600.log - [No filter file] - TextAnalysisTool.NET
+16:46:50:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:51:55:  LogExpert - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201021\Decode\K18_0000_20201021161600.log
+16:52:00:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:57:25:  TCR调测工具（研发版）V1.0.0.4
+16:57:30:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:57:35:  TCR调测工具（研发版）V1.0.0.4
+16:57:45:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:57:50:  TCR调测工具（研发版）V1.0.0.4
+16:57:55:  V1.009
+16:58:00:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:58:20:  TCR调测工具（研发版）V1.0.0.4
+16:58:25:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:58:30:  V1.009
+16:58:35:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:59:10:  TCR调测工具（研发版）V1.0.0.4
+16:59:15:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:59:50:  TCR调测工具（研发版）V1.0.0.4
+16:58:20:  TCR调测工具（研发版）V1.0.0.4
+16:58:25:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:58:30:  V1.009
+16:58:35:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:59:10:  TCR调测工具（研发版）V1.0.0.4
+16:59:15:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:59:50:  TCR调测工具（研发版）V1.0.0.4
+17:00:10:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:00:45:  TCR调测工具（研发版）V1.0.0.4
+17:00:50:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:02:05:  TCR调测工具（研发版）V1.0.0.4
+17:02:10:  20201021
+17:02:20:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:02:50:  LogExpert - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201021\Decode\K18_0000_20201021161600.log
+17:02:55:  TCR调测工具（研发版）V1.0.0.4
+17:03:15:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:04:25:  TCR调测工具（研发版）V1.0.0.4
+17:04:30:  20201021
+17:04:35:  K18_0000_20201021170003.log - DRB.tat - TextAnalysisTool.NET
+17:04:45:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:04:50:  K18_0000_20201021170003.log - DRB.tat - TextAnalysisTool.NET
+17:04:55:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:07:05:  TCR调测工具（研发版）V1.0.0.4
+17:07:10:  20201021
+17:07:20:  K18_0000_20201021170003.log - DRB.tat - TextAnalysisTool.NET
+17:07:25:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:07:30:  锁屏状态
+17:07:35:  K18_0000_20201021170003.log - DRB.tat - TextAnalysisTool.NET
+17:08:05:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:09:20:  本地磁盘 (E:)
+17:09:40:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:12:50:  TCR调测工具（研发版）V1.0.0.4
+17:13:00:  20201021
+17:13:05:  K18_0000_20201021170003.log - DRB.tat - TextAnalysisTool.NET
+17:13:10:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:13:40:  Toolbox
+17:13:45:  TCR调测工具（研发版）V1.0.0.4
+17:13:50:  20201021
+17:13:55:  K18_0000_20201021170003.log - DRB.tat - TextAnalysisTool.NET
+17:14:00:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:14:05:  本地磁盘 (D:)
+17:14:10:  CRS
+17:14:20:  K18_0000_20201021170003.log - DRB.tat - TextAnalysisTool.NET
+17:14:25:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+17:14:35:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:15:00:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+17:14:05:  本地磁盘 (D:)
+17:14:10:  CRS
+17:14:20:  K18_0000_20201021170003.log - DRB.tat - TextAnalysisTool.NET
+17:14:25:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+17:14:35:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:15:00:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+17:16:40:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:16:50:  TCR调测工具（研发版）V1.0.0.4
+17:16:55:  20201021
+17:17:00:  Decode
+17:17:05:  Add Filter
+17:17:10:  μVision
+17:17:15:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+17:17:55:  TCR调测工具（研发版）V1.0.0.4
+17:18:00:  20201021
+17:18:05:  K18_0000_20201021170003.log - DRB.tat - TextAnalysisTool.NET
+17:18:15:  Add Filter
+17:18:20:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+17:19:00:  TCR调测工具（研发版）V1.0.0.4
+17:19:05:  Decode
+17:19:15:  K18_0000_20201021170003.log - DRB.tat - TextAnalysisTool.NET
+17:19:20:  字符转为十六进制_百度搜索 - Google Chrome
+17:19:25:  E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision
+17:19:40:  K18_0000_20201021170003.log - DRB.tat - TextAnalysisTool.NET
+17:19:55:  Toolbox
+17:20:00:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:24:35:  TCR调测工具（研发版）V1.0.0.4
+17:24:40:  20201021
+17:24:45:  TCR调测工具（研发版）V1.0.0.4
+17:24:50:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:24:55:  TCR调测工具（研发版）V1.0.0.4
+17:25:05:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:25:55:  TCR调测工具（研发版）V1.0.0.4
+17:26:00:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:26:36:  TCR调测工具（研发版）V1.0.0.4
+17:26:41:  20201021
+17:26:46:  K18_0000_20201021170003.log - DRB.tat - TextAnalysisTool.NET
+17:27:41:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:29:36:  TCR调测工具（研发版）V1.0.0.4
+17:29:41:  20201021
+17:29:46:  Decode
+17:29:51:  K18_0000_20201021170003.log - DRB.tat - TextAnalysisTool.NET
+17:29:56:  Decode (未响应)
+17:29:36:  TCR调测工具（研发版）V1.0.0.4
+17:29:41:  20201021
+17:29:46:  Decode
+17:29:51:  K18_0000_20201021170003.log - DRB.tat - TextAnalysisTool.NET
+17:29:56:  Decode (未响应)
+17:30:11:  BTCRTestTool (2) 属性
+17:30:16:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:30:21:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:30:31:  网络错误
+17:30:36:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:33:51:  Toolbox
+17:33:56:  TCR调测工具（研发版）V1.0.0.4
+17:34:01:  20201021
+17:34:06:  Decode
+17:34:11:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:34:36:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:34:46:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:34:56:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:35:31:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+17:35:41:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+17:36:36:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+17:36:41:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+17:37:01:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+17:37:06:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+17:37:11:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+17:37:31:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:37:36:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+17:38:21:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+17:38:31:  20201021
+17:38:36:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:38:51:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:39:46:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:39:51:  锁屏状态
+17:39:56:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:40:06:  TCR调测工具（研发版）V1.0.0.4
+17:40:11:  Decode
+17:40:16:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:41:11:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:41:26:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+17:41:36:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:41:46:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+17:41:51:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:42:51:  Toolbox
+17:42:56:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:48:36:  TCR调测工具（研发版）V1.0.0.4
+17:48:41:  Decode
+17:48:51:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:49:01:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:49:11:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:49:16:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:49:36:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:50:06:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:50:11:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:50:16:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:50:31:  TCR调测工具（研发版）V1.0.0.4
+17:50:41:  20201021
+17:50:51:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:51:06:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:51:46:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:51:51:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:52:01:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:52:11:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:52:46:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:52:51:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:52:56:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:53:06:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:53:21:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:53:31:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:53:51:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:54:01:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:54:06:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:54:16:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:54:56:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:55:06:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:55:26:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:55:41:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:56:16:  Toolbox
+17:56:21:  TCR调测工具（研发版）V1.0.0.4
+17:56:26:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:56:36:  20201021
+17:56:41:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:56:51:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+17:57:31:  20201021
+17:57:36:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:57:41:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+17:57:46:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:58:16:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:58:21:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:58:31:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+17:58:36:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+17:59:11:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:59:51:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+18:00:01:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:58:16:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+17:58:21:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:58:31:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+17:58:36:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+17:59:11:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+17:59:51:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+18:00:01:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+18:01:41:  「开始」菜单
+18:01:51:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+18:01:56:  TCR调测工具（研发版）V1.0.0.4
+18:02:06:  Decode
+18:02:16:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+18:02:36:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+18:02:56:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+18:03:06:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+18:03:36:  20201021
+18:03:41:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+18:03:51:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+18:04:01:  锁屏状态
+18:04:06:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+18:04:31:  TCR调测工具（研发版）V1.0.0.4
+18:04:36:  20201021
+18:04:41:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+18:04:46:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+18:05:01:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+18:05:06:  D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision
+18:05:11:  回收
+18:05:16:  TCR调测工具（研发版）V1.0.0.4
+18:05:26:  新建文件夹
+18:05:31:  *Python 3.7.3 Shell*
+18:05:36:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:05:41:  Python 3.7.3 Shell
+18:05:46:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:05:51:  Python 3.7.3 Shell
+18:05:56:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:06:01:  Python 3.7.3 Shell
+18:06:06:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:06:11:  Save Before Run or Check
+18:06:16:  Python 3.7.3 Shell
+18:06:21:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:06:26:  Python 3.7.3 Shell
+18:06:36:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:06:41:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:06:51:  新建文件夹
+18:07:11:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3) (未响应)
+18:07:16:  新建文件夹
+18:07:26:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:07:36:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:07:41:  Python 3.7.3 Shell
+18:07:46:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:07:51:  Save Before Run or Check
+18:07:56:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:08:06:  新建文件夹
+18:08:11:  K18_0000_20201010142710.log - [No filter file] - TextAnalysisTool.NET
+18:08:16:  新建文件夹
+18:08:21:  K18_0000_20201010142710.log - [No filter file] - TextAnalysisTool.NET
+18:08:41:  Decode
+18:08:46:  新建文件夹
+18:08:51:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+18:09:16:  新建文件夹
+18:09:21:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:09:26:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:09:36:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:09:41:  Python 3.7.3 Shell
+18:09:46:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:09:56:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:10:01:  Python 3.7.3 Shell
+18:10:06:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:10:16:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:10:31:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:10:46:  *Python 3.7.3 Shell*
+18:10:56:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:11:01:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:11:11:  *Python 3.7.3 Shell*
+18:11:16:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:11:21:  字符转为十六进制_百度搜索 - Google Chrome
+18:11:41:  (3条消息) 正则表达式忽略换行符_wang9999yuan的博客-CSDN博客 - Google Chrome
+18:11:56:  (3条消息) Python3 re.findall()方法 及 re.compile()_Rustone的博客-CSDN博客 - Google Chrome
+18:12:06:  python re.findall 忽略换行_百度搜索 - Google Chrome
+18:12:11:  python re.findall 忽略换行 .S_百度搜索 - Google Chrome
+18:12:26:  正则表达式忽略换行符_wang9999yuan的博客-CSDN博客 - Google Chrome
+18:12:31:  python正则表达式去除文本中间的换行符 - 雨落成尘 - 博客园 - Google Chrome
+18:12:41:  python正则忽略换行_python正则 忽略换行 - CSDN - Google Chrome
+18:12:46:  python 正则 忽略换行 .S_百度搜索 - Google Chrome
+18:12:51:  (3条消息) python 正则 换行符问题 不支持（.*？）_丿灬安之若死-CSDN博客 - Google Chrome
+18:13:26:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:13:31:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:13:36:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:13:46:  Save Before Run or Check
+18:13:51:  (3条消息) python 正则 换行符问题 不支持（.*？）_丿灬安之若死-CSDN博客 - Google Chrome
+18:13:56:  https://www.baidu.com/link?url=BQeHr2KLgsiRjb33_c4_LI7vt2FIp9PQQaIg7y9x1dSy6_kYfuWtgycLCCbfS5Pn3ZLrHy_5lHUvYul_IeJk-K&wd=&eqid=e0979bb80004a59b000000025f900987 - Google Chrome
+18:14:01:  Python正则表达式-换行的匹配 - +D - 博客园 - Google Chrome
+18:14:31:  python 正则 忽略换行 .S_百度搜索 - Google Chrome
+18:14:36:  Python正则表达式匹配单引号中的文本，忽略转义引号（和制表符/换行符） - VoidCC - Google Chrome
+18:14:46:  python 正则 忽略换行 .S_百度搜索 - Google Chrome
+18:14:51:  python爬虫正则表达式之处理换行符_python_脚本之家 - Google Chrome
+18:14:56:  python 正则 忽略换行 .S_百度搜索 - Google Chrome
+18:14:31:  python 正则 忽略换行 .S_百度搜索 - Google Chrome
+18:14:36:  Python正则表达式匹配单引号中的文本，忽略转义引号（和制表符/换行符） - VoidCC - Google Chrome
+18:14:46:  python 正则 忽略换行 .S_百度搜索 - Google Chrome
+18:14:51:  python爬虫正则表达式之处理换行符_python_脚本之家 - Google Chrome
+18:14:56:  python 正则 忽略换行 .S_百度搜索 - Google Chrome
+18:15:06:  python 正则 .S_百度搜索 - Google Chrome
+18:15:11:  Python正则表达式中的re.S的作用详解_正则表达式_脚本之家 - Google Chrome
+18:15:21:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:15:26:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:15:31:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:16:11:  Python 3.7.3 Shell
+18:16:16:  *Python 3.7.3 Shell*
+18:16:21:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:17:26:  桌面整理
+18:17:31:  c - Everything
+18:17:36:  Class.*?.py - Everything
+18:17:41:  Class-Log-C.py - D:\00-记录\记录\2019-10\2019-10-31 08-00-41\Decode\Class-Log-C.py (3.7.3)
+18:17:56:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+18:18:11:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:18:16:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:18:26:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:18:31:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:18:46:  Python 3.7.3 Shell
+18:18:51:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:18:56:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:19:16:  Class.*?.py - Everything
+18:19:21:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+18:19:26:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:19:41:  Save Before Run or Check
+18:19:46:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:19:51:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:19:56:  Class.*?.py - Everything
+18:20:01:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+18:20:06:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:20:11:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:20:16:  Kill?
+18:20:21:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:20:31:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:21:56:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:22:06:  Python 3.7.3 Shell
+18:22:11:  新建文件夹
+18:22:16:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:22:41:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:22:46:  Python 3.7.3 Shell
+18:22:51:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:23:06:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:23:11:  Python 3.7.3 Shell
+18:23:16:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+18:23:21:  log0.txt - 记事本
+18:23:26:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:23:31:  Python 3.7.3 Shell
+18:23:36:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:23:56:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:24:01:  *Python 3.7.3 Shell*
+18:24:11:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:24:21:  回收 
+18:24:26:  *Python 3.7.3 Shell*
+18:25:06:  打开方式
+18:25:11:  C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201021170003.log (44) - Sublime Text (UNREGISTERED)
+18:25:36:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:25:41:  *Python 3.7.3 Shell*
+18:25:46:  C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201021170003.log (44) - Sublime Text (UNREGISTERED)
+18:26:06:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:26:11:  *Python 3.7.3 Shell*
+18:26:26:  log0.txt - 记事本
+18:26:36:  新建文件夹
+18:26:41:  Python 3.7.3 Shell
+18:26:46:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:26:56:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:27:26:  新建文件夹
+18:27:46:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:27:51:  Save Before Run or Check
+18:27:56:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:28:11:  Class.*?.py - Everything
+18:28:21:  Class-Log.py - D:\00-记录\记录\2019-11\2019-11-05 07-58-01\1T2出钞\Decode\Class-Log.py (3.7.3)
+18:28:51:  Class.*?.py - Everything
+18:29:21:  Class-Log-C_145736.py - E:\Sublime Text Backups\2020-05-13\D\fenxi\Class-Log-C_145736.py (3.7.3)
+18:29:26:  Class.*?.py - Everything
+18:29:31:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+18:28:11:  Class.*?.py - Everything
+18:28:21:  Class-Log.py - D:\00-记录\记录\2019-11\2019-11-05 07-58-01\1T2出钞\Decode\Class-Log.py (3.7.3)
+18:28:51:  Class.*?.py - Everything
+18:29:21:  Class-Log-C_145736.py - E:\Sublime Text Backups\2020-05-13\D\fenxi\Class-Log-C_145736.py (3.7.3)
+18:29:26:  Class.*?.py - Everything
+18:29:31:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+18:30:36:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:30:41:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:30:46:  新建文件夹
+18:30:56:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:31:06:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:32:06:  新建文件夹
+18:32:11:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:32:21:  锁屏状态
+18:32:26:  Class.*?.py - Everything
+18:32:31:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+18:32:41:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:33:06:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:33:16:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:33:41:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+18:33:46:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:34:51:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+18:35:31:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:35:36:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+18:35:51:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:36:11:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+18:36:21:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:36:26:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+18:36:36:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:38:01:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+18:38:06:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:39:46:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:39:56:  Python 3.7.3 Shell
+18:40:01:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:40:21:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:40:36:  SyntaxError
+18:40:41:  *Python 3.7.3 Shell*
+18:41:36:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:43:46:  *Python 3.7.3 Shell*
+18:43:51:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:43:56:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:44:01:  *Python 3.7.3 Shell*
+18:44:06:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:44:11:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+18:44:21:  *Python 3.7.3 Shell*
+18:44:36:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:44:41:  Save Before Run or Check
+18:44:46:  *Python 3.7.3 Shell*
+18:44:06:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:44:11:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+18:44:21:  *Python 3.7.3 Shell*
+18:44:36:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:44:41:  Save Before Run or Check
+18:44:46:  *Python 3.7.3 Shell*
+18:45:06:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:45:31:  新建文件夹
+18:45:36:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+18:45:41:  *Python 3.7.3 Shell*
+18:45:51:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:46:06:  *Python 3.7.3 Shell*
+18:47:06:  警告
+18:47:21:  1031团建统计
+18:47:26:  正在打开 - Excel
+18:47:31:  20201031固件团建报名表.xlsx  [受保护的视图] - Excel
+18:48:31:  *Python 3.7.3 Shell*
+18:48:36:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:50:21:  C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201021170003.log (44) - Sublime Text (UNREGISTERED)
+18:50:31:  C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201021170003.log • (44) - Sublime Text (UNREGISTERED)
+18:50:36:  Kill?
+18:50:41:  *Python 3.7.3 Shell*
+18:50:51:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:51:01:  log3.txt - 记事本
+18:51:06:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:51:16:  log3.txt - 记事本
+18:51:26:  跳转列表
+18:51:31:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:52:21:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:52:26:  *Python 3.7.3 Shell*
+18:52:31:  Python 3.7.3 Shell
+18:52:56:  新建文件夹
+18:53:11:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:53:51:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:54:01:  Python 3.7.3 Shell
+18:54:06:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:54:16:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:54:26:  *Python 3.7.3 Shell*
+18:54:46:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:54:51:  Python 3.7.3 Shell
+18:54:56:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:55:11:  Python 3.7.3 Shell
+18:55:16:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:55:31:  *Python 3.7.3 Shell*
+18:55:46:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:55:51:  *Python 3.7.3 Shell*
+18:55:56:  log3.txt - 记事本
+18:56:01:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:56:06:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:56:21:  Save Before Run or Check
+18:56:26:  Kill?
+18:56:31:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:56:36:  *Python 3.7.3 Shell*
+18:56:41:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:56:46:  *Python 3.7.3 Shell*
+18:56:51:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:56:56:  Python 3.7.3 Shell
+18:57:01:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:57:06:  Save Before Run or Check
+18:57:11:  *Python 3.7.3 Shell*
+18:57:31:  新建文件夹
+18:57:36:  log3.txt - 记事本
+18:57:41:  log0.txt - 记事本
+18:57:46:  新建文件夹
+18:57:51:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:58:06:  *Python 3.7.3 Shell*
+18:58:16:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:58:31:  *Python 3.7.3 Shell*
+18:58:36:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:58:46:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:58:51:  *Python 3.7.3 Shell*
+18:58:56:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:59:01:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:59:06:  *Python 3.7.3 Shell*
+18:59:16:  Save Before Run or Check
+18:59:21:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:59:56:  新建文件夹
+19:00:01:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:58:06:  *Python 3.7.3 Shell*
+18:58:16:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:58:31:  *Python 3.7.3 Shell*
+18:58:36:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:58:46:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:58:51:  *Python 3.7.3 Shell*
+18:58:56:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:59:01:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+18:59:06:  *Python 3.7.3 Shell*
+18:59:16:  Save Before Run or Check
+18:59:21:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+18:59:56:  新建文件夹
+19:00:01:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+19:00:06:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+19:00:16:  *Python 3.7.3 Shell*
+19:00:26:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+19:00:31:  Kill?
+19:00:36:  *ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*
+19:00:41:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+19:00:46:  C:\Windows\py.exe
+19:01:06:  新建文件夹
+19:01:11:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+19:01:56:  log0.txt - 记事本
+19:02:06:  新建文件夹
+19:02:21:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+19:02:26:  C:\Windows\py.exe
+19:02:36:  新建文件夹
+19:03:46:  log3.txt - 记事本
+19:03:51:  log0.txt - 记事本
+19:03:56:  新建文件夹
+19:04:01:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+19:04:06:  *Python 3.7.3 Shell*
+19:04:11:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+19:04:16:  C:\Windows\py.exe
+19:04:26:  新建文件夹
+19:04:31:  log0.txt - 记事本
+19:04:41:  ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)
+19:06:26:  新建文件夹
+19:06:31:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:06:36:  *Python 3.7.3 Shell*
+19:06:41:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:06:46:  Python 3.7.3 Shell
+19:06:56:  log0.txt - 记事本
+19:07:01:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:07:06:  20201021
+19:07:31:  Decode
+19:07:36:  新建文件夹
+19:07:41:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:07:51:  log0.txt - 记事本
+19:08:01:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+19:08:11:  新建文件夹
+19:08:16:  log0.txt - 记事本
+19:08:21:  新建文件夹
+19:08:31:  C:\Windows\py.exe
+19:09:01:  eSpace
+19:09:16:  新建文件夹
+19:09:21:  log0.txt - 记事本
+19:09:26:  新建文件夹
+19:09:46:  *Python 3.7.3 Shell*
+19:09:51:  新建文件夹
+19:10:01:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:10:46:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:11:06:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:11:26:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:11:46:  *Python 3.7.3 Shell*
+19:11:51:  新建文件夹
+19:11:56:  log2.txt - 记事本
+19:12:01:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:12:16:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:13:06:  Save Before Run or Check
+19:13:11:  Python 3.7.3 Shell
+19:13:16:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:13:21:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:13:26:  *Python 3.7.3 Shell*
+19:13:31:  log2.txt - 记事本
+19:13:41:  新建文件夹
+19:13:46:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+19:14:01:  新建文件夹
+19:14:06:  *Python 3.7.3 Shell*
+19:14:11:  log2.txt - 记事本
+19:14:16:  log0.txt - 记事本
+19:14:21:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+19:15:01:  LogExpert - C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201021170003.log
+19:14:06:  *Python 3.7.3 Shell*
+19:14:11:  log2.txt - 记事本
+19:14:16:  log0.txt - 记事本
+19:14:21:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+19:15:01:  LogExpert - C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201021170003.log
+19:15:16:  新建文件夹
+19:15:21:  查找
+19:15:26:  log0.txt - 记事本
+19:15:31:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:16:06:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:16:16:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:16:21:  Python 3.7.3 Shell
+19:16:26:  新建文件夹
+19:17:21:  log2.txt - 记事本
+19:17:31:  K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET
+19:17:36:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:17:41:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:17:51:  *Python 3.7.3 Shell*
+19:18:01:  Python 3.7.3 Shell
+19:18:16:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:18:21:  新建文件夹
+19:18:26:  log2.txt - 记事本
+19:18:51:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:18:56:  Save Before Run or Check
+19:19:01:  log2.txt - 记事本
+19:19:06:  Python 3.7.3 Shell
+19:19:16:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:19:21:  *Python 3.7.3 Shell*
+19:19:31:  Python 3.7.3 Shell
+19:19:46:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:20:01:  *Python 3.7.3 Shell*
+19:20:21:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:20:26:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:20:36:  新建文件夹
+19:20:41:  C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (44) - Sublime Text (UNREGISTERED)
+19:21:01:  新建文件夹
+19:21:41:  PyCharm Community Edition 2017.1.5
+19:21:46:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:21:56:  *Python 3.7.3 Shell*
+19:22:01:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:22:11:  *Python 3.7.3 Shell*
+19:22:21:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:22:36:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:22:41:  *Python 3.7.3 Shell*
+19:23:06:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:23:11:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:23:46:  *Python 3.7.3 Shell*
+19:24:16:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:24:21:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:24:36:  *Python 3.7.3 Shell*
+19:25:56:  Python 3.7.3 Shell
+19:27:11:  回收
+19:27:16:  20201021
+19:27:21:  新建文件夹
+19:27:26:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:28:41:  20201021
+19:28:46:  新建文件夹
+19:28:51:  Class.*?.py - Everything
+19:28:56:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:29:01:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+19:29:11:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:29:21:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+19:29:26:  *Python 3.7.3 Shell*
+19:29:51:  log0.txt - 记事本
+19:30:01:  新建文件夹
+19:28:41:  20201021
+19:28:46:  新建文件夹
+19:28:51:  Class.*?.py - Everything
+19:28:56:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:29:01:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+19:29:11:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:29:21:  Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)
+19:29:26:  *Python 3.7.3 Shell*
+19:29:51:  log0.txt - 记事本
+19:30:01:  新建文件夹
+19:30:11:  Python 3.7.3 Shell
+19:30:16:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:30:26:  C:\Windows\py.exe
+19:30:56:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:31:06:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:31:16:  Save Before Run or Check
+19:31:21:  Python 3.7.3 Shell
+19:31:36:  C:\Windows\py.exe
+19:32:12:  新建文件夹
+19:32:17:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:32:22:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:33:27:  SyntaxError
+19:33:32:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:33:37:  *Python 3.7.3 Shell*
+19:33:42:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:34:17:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:34:32:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:34:42:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:35:37:  SyntaxError
+19:35:42:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:35:47:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:35:57:  *Python 3.7.3 Shell*
+19:36:07:  log2.txt - 记事本
+19:36:12:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:36:27:  log2.txt - 记事本
+19:36:42:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:36:52:  新建文件夹
+19:36:57:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:37:12:  log2.txt - 记事本
+19:37:22:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+19:37:32:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:38:12:  十进制转字符串C语言_百度搜索 - Google Chrome
+19:38:42:  python 正则 查找并删除_百度搜索 - Google Chrome
+19:38:47:  (3条消息) python正则匹配并删除_python删除正则匹配 - CSDN - Google Chrome
+19:38:52:  https://www.baidu.com/link?url=v2NhJnhfUQx1SecIqPjLQbmIpRehD3ueGQpzza8BfFFXaCWIioXSvxzv5DunEAsd&wd=&eqid=8928ebea00050873000000025f901dc1 - Google Chrome
+19:38:57:  (3条消息) python 正则匹配到特定字符串，并删除字符串所在的行，并且返回所在行的第一个数字ID-CSDN问答 - Google Chrome
+19:39:07:  python 正则 查找并删除_百度搜索 - Google Chrome
+19:39:12:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+19:39:17:  ClassLog333.py - [C:\Users\zhangkaifa\AppData\Local\Temp\ClassLog333.py] - ClassLog333.py - PyCharm Community Edition 2017.1.5
+19:39:22:  锁屏状态

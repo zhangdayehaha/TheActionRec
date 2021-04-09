@@ -1,0 +1,1512 @@
+07:57:18:  本地磁盘 (D:)
+07:57:23:  trunk
+07:57:28:  milestone.txt - 记事本
+07:57:58:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+07:58:03:  milestone.txt - TortoiseMerge
+07:58:08:  历史记录
+07:58:13:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+07:58:23:  要离线?
+07:58:28:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+07:59:18:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+07:59:23:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+07:59:28:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+07:59:54:  milestone.txt - TortoiseMerge
+07:59:59:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+08:00:04:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+07:58:08:  历史记录
+07:58:13:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+07:58:23:  要离线?
+07:58:28:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+07:59:18:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+07:59:23:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+07:59:28:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+07:59:54:  milestone.txt - TortoiseMerge
+07:59:59:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+08:00:04:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+08:00:09:  Tools
+08:00:14:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+08:00:29:  Tools
+08:00:39:  Project
+08:00:44:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:01:49:  Project
+08:01:54:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+08:01:59:  D:\00-06\1T1-Stop-Length\trunk\Applications\Update\Update.c - 提交 - TortoiseSVN
+08:02:04:  Tools
+08:02:09:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+08:02:19:  Tools
+08:02:24:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+08:02:39:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T92.JM_2021-04-06_0607 _密钥.txt - 记事本
+08:02:49:  Tools
+08:03:39:  本地磁盘 (D:)
+08:03:54:  00-06
+08:03:59:  本地磁盘 (E:)
+08:04:09:  本地磁盘 (D:)
+08:04:14:  T92
+08:04:19:  fenxi
+08:05:59:  CashT00
+08:06:19:  正在打开 - Excel
+08:06:29:  BTCR-1100产品型号CASHBOX测试对象FV1.010.00版本内部测试报告_20210408.xls  [兼容模式] - Excel
+08:06:44:  CashT00
+08:06:49:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+08:07:29:  正在打开 - Excel
+08:07:34:  CashT00
+08:07:44:  BTCR-1100产品型号CASHBOX测试对象FV1.010.00版本内部测试报告_20210408.xls  [兼容模式] - Excel
+08:07:49:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+08:07:59:  运行
+08:08:04:  08tcr测试过程记录
+08:08:09:  锁屏状态
+08:08:14:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+08:08:19:  CashT00
+08:08:24:  回收 
+08:08:29:  fenxi
+08:08:34:  CashT00
+08:08:44:  fenxi
+08:08:54:  CashFV1.010.00
+08:09:09:  fenxi
+08:09:14:  CashFV1.010.00 - 写邮件
+08:09:29:  发送邮件
+08:09:34:  fenxi
+08:09:39:  跳转列表
+08:09:44:  YOPmail - Google Chrome
+08:10:04:  正在打开 - Excel
+08:10:09:  DRB测试缺陷0406.xlsx  [受保护的视图] - Excel
+08:10:19:  问题
+08:10:24:  DRB测试缺陷0406.xlsx  [受保护的视图] - Excel
+08:10:34:  DRB测试缺陷0407.xlsx  [受保护的视图] - Excel
+08:10:39:  DRB测试缺陷0407.xlsx - Excel
+08:11:19:  DRB-BNE-C52210122000002
+08:11:24:  IMG_20210407_094441.jpg - Windows 照片查看器
+08:11:29:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+08:11:34:  Decode
+08:12:14:  LOG
+08:12:19:  下腔5元大额存款698张报电机 在电机运转过程中检测到速度低于目标值（10） 返回码0X83280220
+08:12:59:  IMG_20210407_094532.jpg - Windows 照片查看器
+08:13:04:  下腔5元大额存款698张报电机 在电机运转过程中检测到速度低于目标值（10） 返回码0X83280220
+08:13:09:  fenxi
+08:13:14:  trunk
+08:13:19:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+08:13:34:  PaperManage.c Revision 4306 - TortoiseMerge
+08:13:44:  trunk
+08:13:49:  DRB测试缺陷0407.xlsx - Excel
+08:13:54:  trunk
+08:13:59:  DRB-BNE-C52210122000002
+08:14:04:  00-分析
+08:14:09:  回收
+08:14:14:  00-分析
+08:14:19:  问题
+08:14:24:  桌面整理
+08:14:39:  00-分析
+08:14:49:  桌面整理
+08:14:54:  00-分析
+08:15:04:  正在复制 145 个项目(344 MB)
+08:14:09:  回收
+08:14:14:  00-分析
+08:14:19:  问题
+08:14:24:  桌面整理
+08:14:39:  00-分析
+08:14:49:  桌面整理
+08:14:54:  00-分析
+08:15:04:  正在复制 145 个项目(344 MB)
+08:15:14:  剩余 25 秒
+08:15:19:  1T1-Stop-Length
+08:15:24:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+08:16:29:  Project
+08:16:34:  Tools
+08:16:39:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+08:16:54:  BTCR-1100_BOX1T1_KE06_FV1010_EXTFEDUV21_MAIN_T00.JM_2021-04-08_0304 _密钥.txt - 记事本
+08:17:09:  fenxi
+08:17:19:  WinRAR
+08:17:24:  BTCR-1100_BOX1T1_KE06_FV1010_EXTFEDUV21_MAIN_T00.JM_2021-04-08_0304 _密钥.txt - 记事本
+08:17:29:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+08:17:34:  afa27176d8c60610b7a37472aacd070dc2a31173c5d90072ac • (11) - Sublime Text (UNREGISTERED)
+08:17:49:  BTCR-1100_BOX1T1_KE06_FV1010_EXTFEDUV21_MAIN_T00.JM_2021-04-08_0304 _密钥.txt - 记事本
+08:18:04:  记事本
+08:18:09:  afa27176d8c60610b7a37472aacd070dc2a31173c5d90072ac • (11) - Sublime Text (UNREGISTERED)
+08:18:14:  T92.rar - WinRAR (非商业个人版)
+08:18:19:  22
+08:18:24:  WinRAR
+08:18:29:  BTCR-1100_BOX1T1_KE06_FV1010_EXTFEDUV21_MAIN_T00.JM_2021-04-08_0304 _密钥.txt - 记事本
+08:18:34:  afa27176d8c60610b7a37472aacd070dc2a31173c5d90072ac • (11) - Sublime Text (UNREGISTERED)
+08:19:04:  BTCR-1100_BOX1T1_KE06_FV1010_EXTFEDUV21_MAIN_T00.JM_2021-04-08_0304 _密钥.txt - 记事本
+08:19:14:  本地磁盘 (D:)
+08:19:19:  fenxi
+08:19:29:  CashFV1.010.00
+08:19:34:  BTCR-1100_BOX1T1_KE06_FV1010_EXTFEDUV21_MAIN_T00.JM_2021-04-08_0304 _密钥.txt - 记事本
+08:19:39:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+08:19:49:  00-06
+08:19:54:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+08:20:09:  BTCR-1100_BOX1T1_KE06_FV1010_EXTFEDUV21_MAIN_T00.JM_2021-04-08_0304 _密钥.txt - 记事本
+08:20:14:  Tools
+08:20:24:  00-06
+08:20:29:  CashFV1.010.00
+08:20:34:  fenxi
+08:20:49:  回复: CashFV1.010.00 - 写邮件
+08:20:59:  ID-1 下腔5元大额存款698张报电机 在电机运转过程中检测到速度低于目标值（10） 返回码0X83280220
+08:21:04:  Decode
+08:21:09:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:21:24:  所有笔记本 - 张开发 - 印象笔记
+08:21:34:  0-工作 - 张开发 - 印象笔记
+08:21:39:  所有笔记本 - 张开发 - 印象笔记
+08:22:14:  新建文本文档.exe - 快捷方式
+08:22:19:  DRB-BNE-C52210122000002
+08:22:24:  Decode
+08:22:29:  K64_BTCR-1100190802300001_20210407094014
+08:22:34:  Box_3__BTCR-1100190802300001_20210407094014.log - DRB2.tat* - TextAnalysisTool.NET
+08:23:39:  DRB测试缺陷0407.xlsx - Excel
+08:24:09:  Box_3__BTCR-1100190802300001_20210407094014.log - DRB2.tat* - TextAnalysisTool.NET
+08:24:29:  计算器
+08:25:29:  Box_3__BTCR-1100190802300001_20210407094014.log - DRB2.tat* - TextAnalysisTool.NET
+08:25:59:  DRB测试缺陷0407.xlsx - Excel
+08:26:29:  Box_3__BTCR-1100190802300001_20210407094014.log - DRB2.tat* - TextAnalysisTool.NET
+08:27:04:  DRB测试缺陷0407.xlsx - Excel
+08:27:14:  Box_3__BTCR-1100190802300001_20210407094014.log - DRB2.tat* - TextAnalysisTool.NET
+08:27:55:  DRB测试缺陷0407.xlsx - Excel
+08:28:45:  桌面整理
+08:28:50:  新建文本文档.exe - 快捷方式
+08:28:55:  DRB-BNE-C52210122000002
+08:29:00:  00-分析
+08:29:05:  所有笔记本 - 张开发 - 印象笔记
+08:29:10:  2-财务分配 - 张开发 - 印象笔记
+08:28:45:  桌面整理
+08:28:50:  新建文本文档.exe - 快捷方式
+08:28:55:  DRB-BNE-C52210122000002
+08:29:00:  00-分析
+08:29:05:  所有笔记本 - 张开发 - 印象笔记
+08:29:10:  2-财务分配 - 张开发 - 印象笔记
+08:30:05:  00-分析
+08:30:10:  问题
+08:30:20:  巴西发货钞箱
+08:30:35:  DRB-BNE-C52210122000002
+08:30:40:  DRB系统测试
+08:30:45:  问题
+08:30:50:  DRB测试缺陷0407.xlsx - Excel
+08:31:25:  复制文件
+08:31:30:  00-分析
+08:31:35:  IMG_20210407_144324.jpg - Windows 照片查看器
+08:31:40:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:31:50:  LOG
+08:31:55:  Box_3__BTCR-1100190802300001_20210407144122.log - DRB2.tat* - TextAnalysisTool.NET
+08:32:35:  桌面整理
+08:32:40:  K64_BTCR-1100190802300001_20210407144122
+08:32:45:  C:\Windows\py.exe
+08:32:50:  K64_BTCR-1100190802300001_20210407144122
+08:32:55:  TheDateInfo.xls  [兼容模式] - Excel
+08:33:30:  K64_BTCR-1100190802300001_20210407144122
+08:33:35:  IMG_20210407_144324.jpg - Windows 照片查看器
+08:33:40:  捕获.JPG - Windows 照片查看器
+08:33:45:  IMG_20210407_144324.jpg - Windows 照片查看器
+08:33:50:  TheDateInfo.xls  [兼容模式] - Excel
+08:34:35:  Box_3__BTCR-1100190802300001_20210407144122.log - DRB2.tat* - TextAnalysisTool.NET
+08:35:15:  DRB测试缺陷0407.xlsx - Excel
+08:37:35:  TheDateInfo.xls  [兼容模式] - Excel
+08:37:40:  DRB测试缺陷0407.xlsx - Excel
+08:39:15:  上腔5元RB4-RB31盘点112张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X834602B4
+08:39:20:  00-分析
+08:39:25:  下腔5元rb4-rb3盘点576张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X834601B8
+08:39:30:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:40:00:  K64_BTCR-1100190802300001_20210407103531
+08:40:05:  Box_3__BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+08:40:45:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+08:41:05:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:41:15:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+08:42:10:  LOG
+08:42:20:  下腔5元rb4-rb3盘点576张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X834601B8
+08:42:25:  下腔5元rb4-rb3盘点576张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X834601B8
+08:42:35:  20210407
+08:42:45:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+08:42:50:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:42:55:  eSpace
+08:43:25:  锁屏状态
+08:43:30:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:44:15:  Box_3__BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+08:44:50:  DRB测试缺陷0407.xlsx - Excel
+08:44:15:  Box_3__BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+08:44:50:  DRB测试缺陷0407.xlsx - Excel
+08:45:05:  Box_3__BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+08:45:10:  DRB测试缺陷0407.xlsx - Excel
+08:45:25:  Box_3__BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+08:45:30:  K64_BTCR-1100190802300001_20210407104311
+08:45:35:  Box_3__BTCR-1100190802300001_20210407104311.log - DRB2.tat* - TextAnalysisTool.NET
+08:49:15:  Box_3__BTCR-1100190802300001_20210407104807.log - DRB2.tat* - TextAnalysisTool.NET
+08:49:25:  K64_BTCR-1100190802300001_20210407104906
+08:49:30:  Box_3__BTCR-1100190802300001_20210407104906.log - DRB2.tat* - TextAnalysisTool.NET
+08:49:50:  Box_3__BTCR-1100190802300001_20210407105450.log - DRB2.tat* - TextAnalysisTool.NET
+08:49:55:  K64_BTCR-1100190802300001_20210407103531
+08:50:00:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+08:50:35:  K64_BTCR-1100190802300001_20210407103531
+08:50:40:  Box_3__BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+08:50:55:  K64_BTCR-1100190802300001_20210407103531
+08:51:00:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+08:51:10:  Box_3__BTCR-1100190802300001_20210407104311.log - DRB2.tat* - TextAnalysisTool.NET
+08:51:20:  K64_BTCR-1100190802300001_20210407104311
+08:51:25:  K64_BTCR-1100190802300001_20210407104906
+08:51:30:  Box_3__BTCR-1100190802300001_20210407104906.log - DRB2.tat* - TextAnalysisTool.NET
+08:51:35:  LOG
+08:51:45:  Box_3__BTCR-1100190802300001_20210407110956.log - DRB2.tat* - TextAnalysisTool.NET
+08:52:20:  K64_BTCR-1100190802300001_20210407103531
+08:52:25:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+08:53:15:  TCR调测工具 V3.36
+08:53:30:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+08:54:00:  Edit Filter
+08:54:10:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+08:54:40:  LOG
+08:54:45:  桌面整理
+08:54:50:  LOG
+08:54:55:  CashBoxDareV3.0.py - D:\00-分析\下腔5元rb4-rb3盘点576张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X834601B8\20210407\Decode\LOG\CashBoxDareV3.0.py (3.7.3)
+08:55:00:  LOG
+08:55:05:  C:\Windows\py.exe
+08:55:15:  TheDateInfo.xls  [兼容模式] - Excel
+08:56:00:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:56:05:  钞箱配置
+08:56:10:  TCR调测工具 V3.36
+08:58:55:  钞箱配置
+08:59:05:  TCR调测工具 V3.36
+08:59:10:  BTCRTestTool
+08:59:15:  TCR调测工具 V3.36
+08:59:20:  钞箱配置
+08:59:25:  TCR调测工具 V3.36
+08:59:30:  BTCRTestTool
+08:59:35:  TCR调测工具 V3.36
+08:59:45:  BTCRTestTool
+08:59:50:  TCR调测工具 V3.36
+09:00:00:  BTCRTestTool
+08:58:55:  钞箱配置
+08:59:05:  TCR调测工具 V3.36
+08:59:10:  BTCRTestTool
+08:59:15:  TCR调测工具 V3.36
+08:59:20:  钞箱配置
+08:59:25:  TCR调测工具 V3.36
+08:59:30:  BTCRTestTool
+08:59:35:  TCR调测工具 V3.36
+08:59:45:  BTCRTestTool
+08:59:50:  TCR调测工具 V3.36
+09:00:00:  BTCRTestTool
+09:00:05:  TCR调测工具 V3.36
+09:01:25:  BTCRTestTool
+09:01:40:  TCR调测工具 V3.36
+09:02:25:  钞箱配置
+09:02:30:  TCR调测工具 V3.36
+09:03:50:  BTCRTestTool
+09:03:55:  TCR调测工具 V3.36
+09:04:20:  取款
+09:04:25:  TCR调测工具 V3.36
+09:05:05:  untitled • (11) - Sublime Text (UNREGISTERED)
+09:05:10:  D:\00-KE64\11\Applications\FlowControl\TrackModule\GateModule.h (11) - Sublime Text (UNREGISTERED)
+09:05:15:  「开始」菜单
+09:05:25:  D:\00-KE64\11\Applications\FlowControl\TrackModule\GateModule.h (11) - Sublime Text (UNREGISTERED)
+09:05:35:  跳转列表
+09:05:40:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+09:05:55:  DRB测试缺陷0407.xlsx - Excel
+09:06:10:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+09:07:00:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:07:05:  Edit Filter
+09:07:10:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+09:07:55:  DRB测试缺陷0407.xlsx - Excel
+09:08:05:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+09:08:35:  DRB测试缺陷0407.xlsx - Excel
+09:09:15:  上腔5元RB4-RB31盘点112张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X834602B4.rar - WinRAR (非商业个人版)
+09:09:20:  Windows 照片查看器
+09:09:25:  DRB测试缺陷0407.xlsx - Excel
+09:10:00:  DRB-BNE-C52210122000009
+09:10:15:  问题
+09:10:20:  DRB测试缺陷0407.xlsx  [受保护的视图] - Excel
+09:10:25:  DRB测试缺陷0407.xlsx - Excel
+09:10:30:  锁屏状态
+09:10:35:  IMG_20210407_155116.jpg - Windows 照片查看器
+09:10:40:  Decode
+09:11:00:  K64_BTCR-1100190802300001_20210407154641
+09:11:05:  K64-_BTCR-1100190802300001_20210407154641.log - DRB2.tat* - TextAnalysisTool.NET
+09:11:25:  K64_BTCR-1100190802300001_20210407154641
+09:11:30:  IMG_20210407_154010.jpg - Windows 照片查看器
+09:11:40:  IMG_20210407_155116.jpg - Windows 照片查看器
+09:11:45:  Decode
+09:11:50:  Box_2__BTCR-1100190802300001_20210407154207.log - DRB2.tat* - TextAnalysisTool.NET
+09:11:55:  LOG
+09:12:00:  K64_BTCR-1100190802300001_20210407154641
+09:12:05:  Box_2__BTCR-1100190802300001_20210407154641.log - DRB2.tat* - TextAnalysisTool.NET
+09:12:35:  IMG_20210407_154010.jpg - Windows 照片查看器
+09:12:40:  IMG_20210407_155059.jpg - Windows 照片查看器
+09:12:50:  IMG_20210407_154010.jpg - Windows 照片查看器
+09:13:00:  Decode
+09:13:05:  LOG
+09:13:10:  问题
+09:13:15:  log
+09:13:20:  20210407
+09:13:35:  本地磁盘 (D:)
+09:13:40:  LOG
+09:13:45:  Decode
+09:14:00:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:15:20:  Decode
+09:15:40:  K64_BTCR-1100190802300001_20210407155403
+09:15:45:  K64_BTCR-1100190802300001_20210407154207
+09:15:50:  K64_BTCR-1100190802300001_20210407154641
+09:15:55:  LOG
+09:16:00:  Box_2__BTCR-1100190802300001_20210407153632.log - DRB2.tat* - TextAnalysisTool.NET
+09:16:05:  LogExpert
+09:16:40:  「开始」菜单
+09:16:45:  系统
+09:16:50:  系统属性
+09:16:55:  性能选项
+09:17:05:  系统属性
+09:17:10:  性能选项
+09:17:25:  系统属性
+09:17:45:  K64_BTCR-1100190802300001_20210407153632
+09:17:50:  LogExpert
+09:17:55:  K64_BTCR-1100190802300001_20210407153632
+09:18:00:  新建文本文档.exe - 快捷方式
+09:18:10:  桌面整理
+09:19:20:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+09:19:25:  Microsoft Excel
+09:19:35:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+09:23:40:  大额存款上腔存款29张报满。8#1元反向盘点第234张报085104.040 钞箱口 钞口满 返回码0X085E0700
+09:24:20:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+09:24:25:  K64_BTCR-1100190802300001_20210407153632
+09:24:30:  00-06
+09:24:50:  06 固件日报
+09:24:55:  固件集成测试方案
+09:25:00:  主控板集成测试方案-报告
+09:25:05:  荆文波
+09:25:10:  本地磁盘 (D:)
+09:25:20:  00-分析
+09:25:25:  2
+09:25:35:  8#1元反向盘点第234张报085104.040 钞箱口 钞口满 返回码0X085E0700
+09:25:40:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:25:55:  系统
+09:26:00:  性能信息和工具
+09:26:05:  高级工具
+09:26:10:  性能选项
+09:26:15:  「开始」菜单
+09:26:25:  无标题 - Google Chrome
+09:26:30:  新标签页 - Google Chrome
+09:26:35:  打开文件夹
+09:26:40:  www.baidu.com - Google Chrome
+09:26:45:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:26:50:  自动播放
+09:26:55:  大额存款上腔存款29张报满。8#1元反向盘点第234张报085104.040 钞箱口 钞口满 返回码0X085E0700
+09:27:00:  iTunes
+09:27:05:  锁屏状态
+09:27:10:  大额存款上腔存款29张报满。8#1元反向盘点第234张报085104.040 钞箱口 钞口满 返回码0X085E0700
+09:27:20:  新建文本文档.exe - 快捷方式
+09:27:25:  百度一下，你就知道 - Google Chrome
+09:27:35:  win7系统字体怎么修改_百度搜索 - Google Chrome
+09:27:40:  「开始」菜单
+09:27:45:  控制面板
+09:27:55:  字体设置
+09:28:10:  计算器
+09:28:15:  字体设置
+09:28:20:  ClearType 文本调谐器
+09:28:55:  外观和个性化
+09:29:00:  字体
+09:29:05:  微软雅黑
+09:29:20:  win7系统字体怎么修改_百度搜索 - Google Chrome
+09:29:25:  外观和个性化
+09:29:30:  计算器
+09:29:35:  外观和个性化
+09:29:40:  Windows 帮助和支持
+09:29:45:  ClearType 文本调谐器
+09:30:00:  外观和个性化
+09:28:10:  计算器
+09:28:15:  字体设置
+09:28:20:  ClearType 文本调谐器
+09:28:55:  外观和个性化
+09:29:00:  字体
+09:29:05:  微软雅黑
+09:29:20:  win7系统字体怎么修改_百度搜索 - Google Chrome
+09:29:25:  外观和个性化
+09:29:30:  计算器
+09:29:35:  外观和个性化
+09:29:40:  Windows 帮助和支持
+09:29:45:  ClearType 文本调谐器
+09:30:00:  外观和个性化
+09:30:05:  字体
+09:30:10:  win7系统字体如何更换-百度经验 - Google Chrome
+09:30:25:  字体设置
+09:30:30:  字体
+09:30:50:  微软 - 字体
+09:30:55:  微软雅黑
+09:31:00:  微软雅黑 (TrueType) 
+09:31:05:  微软雅黑
+09:31:15:  字体设置
+09:31:25:  微软雅黑
+09:31:30:  显示
+09:31:35:  微软雅黑
+09:31:40:  win7系统字体怎么修改_百度搜索 - Google Chrome
+09:31:45:  如何修改win7系统默认字体-百度经验 - Google Chrome
+09:31:55:  微软雅黑
+09:32:00:  个性化
+09:32:05:  窗口颜色和外观
+09:32:15:  D:\00-KE64\11\Applications\FlowControl\TrackModule\GateModule.h (11) - Sublime Text (UNREGISTERED)
+09:32:20:  K64_BTCR-1100190802300005_20210408085033
+09:32:30:  00-分析
+09:32:40:  8#1元反向盘点第234张报085104.040 钞箱口 钞口满 返回码0X085E0700
+09:32:45:  K64_BTCR-1100190802300005_20210408084907
+09:32:50:  Box_3__BTCR-1100190802300005_20210408084907.log - DRB2.tat* - TextAnalysisTool.NET
+09:33:00:  Box_3__BTCR-1100190802300005_20210408085033.log - DRB2.tat* - TextAnalysisTool.NET
+09:33:40:  K64_BTCR-1100190802300005_20210408085033
+09:33:45:  IMG_20210408_085443.jpg - Windows 照片查看器
+09:33:50:  Box_3__BTCR-1100190802300005_20210408085033.log - DRB2.tat* - TextAnalysisTool.NET
+09:33:55:  桌面整理
+09:34:00:  8#1元反向盘点第234张报085104.040 钞箱口 钞口满 返回码0X085E0700
+09:34:05:  LOG
+09:34:10:  C:\Windows\py.exe
+09:34:15:  锁屏状态
+09:34:25:  TheDateInfo.xls  [兼容模式] - Excel
+09:34:50:  LOG
+09:34:55:  Box_3__BTCR-1100190802300005_20210408085033.log - DRB2.tat* - TextAnalysisTool.NET
+09:35:00:  Decode
+09:35:05:  IMG_20210408_085443.jpg - Windows 照片查看器
+09:35:10:  Box_3__BTCR-1100190802300005_20210408085033.log - DRB2.tat* - TextAnalysisTool.NET
+09:35:15:  LOG
+09:35:20:  TheDateInfo.xls  [兼容模式] - Excel
+09:35:30:  Box_3__BTCR-1100190802300005_20210408085033.log - DRB2.tat* - TextAnalysisTool.NET
+09:35:40:  LOG
+09:35:45:  大额存款上腔存款29张报满。
+09:35:50:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:36:20:  如何修改win7系统默认字体-百度经验 - Google Chrome
+09:36:35:  百度一下，你就知道 - Google Chrome
+09:36:40:  Decode
+09:36:45:  LogExpert
+09:36:50:  win7系统字体怎么修改_百度搜索 - Google Chrome
+09:37:00:  「开始」菜单
+09:37:05:  外观和个性化
+09:37:10:  字体设置
+09:37:15:  字体
+09:37:20:  Consolas
+09:37:50:  计算器
+09:37:55:  LogExpert
+09:38:00:  微软雅黑
+09:38:05:  con - 微软雅黑
+09:38:10:  微软雅黑
+09:38:15:  con - 字体
+09:38:20:  Consolas
+09:38:25:  LogExpert
+09:38:40:  Box_3__BTCR-1100190802300005_20210408085033.log - DRB2.tat* - TextAnalysisTool.NET
+09:38:45:  Box_3__BTCR-1100190802300007_20210408085856.log - DRB2.tat* - TextAnalysisTool.NET
+09:39:10:  Box_3__BTCR-1100190802300007_20210408085726.log - DRB2.tat* - TextAnalysisTool.NET
+09:39:20:  Box_3__BTCR-1100190802300007_20210408085856.log - DRB2.tat* - TextAnalysisTool.NET
+09:39:50:  K64_BTCR-1100190802300007_20210408085856
+09:40:05:  TheDateInfo.xls  [兼容模式] - Excel
+09:41:15:  锁屏状态
+09:41:20:  Box_3__BTCR-1100190802300007_20210408085856.log - DRB2.tat* - TextAnalysisTool.NET
+09:41:25:  TheDateInfo.xls  [兼容模式] - Excel
+09:41:40:  Box_3__BTCR-1100190802300007_20210408085856.log - DRB2.tat* - TextAnalysisTool.NET
+09:42:45:  D:\00-KE64\11\Applications\FlowControl\TrackModule\GateModule.h (11) - Sublime Text (UNREGISTERED)
+09:43:05:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+09:43:30:  Consolas
+09:44:00:  LogExpert
+09:44:10:  win7系统字体怎么修改_百度搜索 - Google Chrome
+09:44:20:  win7系统字体 consolas_百度搜索 - Google Chrome
+09:44:25:  Consolas字体下载|Consolas编程字体下载-Win7系统之家 - Google Chrome
+09:44:40:  新建文本文档.exe - 快捷方式
+09:44:45:  下载
+09:45:00:  Consolas
+09:44:10:  win7系统字体怎么修改_百度搜索 - Google Chrome
+09:44:20:  win7系统字体 consolas_百度搜索 - Google Chrome
+09:44:25:  Consolas字体下载|Consolas编程字体下载-Win7系统之家 - Google Chrome
+09:44:40:  新建文本文档.exe - 快捷方式
+09:44:45:  下载
+09:45:00:  Consolas
+09:45:05:  Consolas (OpenType) 
+09:45:15:  安装字体
+09:45:20:  Consolas
+09:45:30:  D:\00-KE64\11\Applications\FlowControl\TrackModule\GateModule.h (11) - Sublime Text (UNREGISTERED)
+09:45:35:  计算器
+09:45:45:  跳转列表
+09:45:50:  锁屏状态
+09:45:55:  untitled - Sublime Text (UNREGISTERED)
+09:46:00:  untitled (10) - Sublime Text (UNREGISTERED)
+09:46:05:  Consolas
+09:46:10:  Box_3__BTCR-1100190802300007_20210408085856.log - DRB2.tat* - TextAnalysisTool.NET
+09:46:15:  荆文波
+09:46:20:  untitled - Sublime Text (UNREGISTERED)
+09:46:25:  untitled (10) - Sublime Text (UNREGISTERED)
+09:46:50:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxCmd.c (10) - Sublime Text (UNREGISTERED)
+09:46:55:  D:\00-KE64\10\Applications\CanComm\CanInstrManage.c (10) - Sublime Text (UNREGISTERED)
+09:47:05:  荆文波
+09:47:10:  00-06
+09:47:15:  性能选项
+09:47:25:  系统
+09:47:30:  Box_3__BTCR-1100190802300007_20210408085856.log - DRB2.tat* - TextAnalysisTool.NET
+09:47:35:  Microsoft Excel
+09:47:40:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+09:47:45:  Box_3__BTCR-1100190802300007_20210408085856.log - DRB2.tat* - TextAnalysisTool.NET
+09:47:50:  选择文件夹
+09:47:55:  计算器
+09:48:00:  选择文件夹
+09:48:10:  untitled (DRB) - Sublime Text (UNREGISTERED)
+09:48:15:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+09:50:55:  主控板集成测试方案-报告
+09:51:00:  DRB
+09:51:05:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:52:05:  本地磁盘 (D:)
+09:52:10:  2-财务分配 - 张开发 - 印象笔记
+09:52:20:  印象笔记
+09:52:25:  2-财务分配 - 张开发 - 印象笔记
+09:54:20:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:54:50:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+09:54:55:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:55:00:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+09:55:25:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:55:30:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+09:55:40:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:55:55:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+09:56:40:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:57:30:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+09:57:40:  D:\00-06\DRB\Applications\PlateCtrl\PlateCtrl.h (DRB) - Sublime Text (UNREGISTERED)
+09:57:45:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+09:58:40:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:59:00:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+09:59:05:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:58:40:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:59:00:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+09:59:05:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:01:05:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+10:01:15:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+10:01:20:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:06:16:  锁屏状态
+10:06:21:  新标签页 - Google Chrome
+10:06:26:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+10:06:36:  控制面板
+10:06:46:  外观和个性化
+10:06:51:  字符映射表
+10:06:56:  字体
+10:07:01:  Commercial Script BT (TrueType) 
+10:07:11:  字体
+10:07:16:  conso - 字体
+10:07:21:  Consolas
+10:07:41:  00-06
+10:08:06:  控制面板
+10:08:11:  外观和个性化
+10:08:16:  字体
+10:08:21:  Consolas
+10:08:46:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+10:11:11:  00-06
+10:11:26:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+10:11:31:  注册.txt - 记事本
+10:11:41:  tetx
+10:11:46:  D:\fenxi\tetx\新建文本文档.py (DRB) - Sublime Text (UNREGISTERED)
+10:12:16:  锁屏状态
+10:13:21:  00-06
+10:13:26:  Project
+10:13:31:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:14:11:  Project
+10:14:26:  Tools
+10:14:31:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+10:14:41:  Tools
+10:14:51:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:14:11:  Project
+10:14:26:  Tools
+10:14:31:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+10:14:41:  Tools
+10:14:51:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:15:06:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+10:15:11:  Tools
+10:15:26:  BTCR-1100_BOX1T1_KE06_FV1010_EXTFEDUV21_MAIN_T00---2.5mm - 写邮件
+10:15:41:  Tools
+10:18:06:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:21:56:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+10:22:01:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:23:06:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+10:23:21:  tetx
+10:23:26:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:23:56:  tetx
+10:24:06:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+10:25:41:  Clash for Windows
+10:25:56:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+10:26:11:  tetx
+10:26:16:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+10:26:51:  2-财务分配 - 张开发 - 印象笔记
+10:26:56:  锁屏状态
+10:27:11:  0-工作 - 张开发 - 印象笔记
+10:27:21:  桌面整理
+10:27:26:  eSpace
+10:27:31:  删除文件
+10:27:36:  桌面整理
+10:27:41:  SystemView
+10:27:46:  KE18
+10:27:51:  删除文件
+10:27:56:  程序和功能
+10:28:21:  ToDesk 卸载
+10:28:26:  ToDesk卸载程序
+10:28:31:  https://www.todesk.com/report/uninstall.php - Internet Explorer
+10:28:36:  程序和功能
+10:28:51:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:28:56:  827chlb4sg.baicuoa.com - Google Chrome
+10:29:01:  设置 - Google Chrome
+10:29:11:  跳转列表
+10:29:16:  Google Chrome 属性
+10:29:21:  跳转列表
+10:29:26:  无标题 - Google Chrome
+10:29:31:  Google Chrome 属性
+10:29:41:  chrome.exe 属性
+10:29:46:  Google Chrome 属性
+10:29:51:  Application
+10:30:01:  无标题 - Google Chrome
+10:28:21:  ToDesk 卸载
+10:28:26:  ToDesk卸载程序
+10:28:31:  https://www.todesk.com/report/uninstall.php - Internet Explorer
+10:28:36:  程序和功能
+10:28:51:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:28:56:  827chlb4sg.baicuoa.com - Google Chrome
+10:29:01:  设置 - Google Chrome
+10:29:11:  跳转列表
+10:29:16:  Google Chrome 属性
+10:29:21:  跳转列表
+10:29:26:  无标题 - Google Chrome
+10:29:31:  Google Chrome 属性
+10:29:41:  chrome.exe 属性
+10:29:46:  Google Chrome 属性
+10:29:51:  Application
+10:30:01:  无标题 - Google Chrome
+10:30:06:  Google Chrome (2) 属性
+10:30:11:  快捷方式
+10:30:16:  「开始」菜单
+10:30:21:  Application
+10:30:26:  Google Chrome (2) 属性
+10:30:41:  快捷方式
+10:30:46:  Application
+10:30:51:  跳转列表
+10:30:56:  Google Chrome (2) - Everything
+10:31:01:  锁屏状态
+10:31:06:  Google Chrome (2) - Everything
+10:31:11:  TaskBar
+10:31:16:  Google Chrome (2) 属性
+10:31:21:  TaskBar
+10:31:51:  Windows 任务管理器
+10:31:56:  「开始」菜单
+10:32:01:  计算机管理
+10:32:21:  tetx
+10:32:36:  TaskBar
+10:32:41:  无标题 - Google Chrome
+10:32:56:  Windows 任务管理器
+10:33:11:  Google Chrome 属性
+10:33:26:  拒绝访问
+10:33:31:  删除快捷方式
+10:33:36:  Everything
+10:33:41:  Chrome
+10:33:46:  chrome.exe 属性
+10:33:51:  无标题 - Google Chrome
+10:33:56:  TaskBar
+10:34:01:  Google Chrome 属性
+10:34:06:  快捷方式
+10:34:11:  TaskBar 属性
+10:34:16:  Internet Explorer
+10:34:21:  Quick Launch 属性
+10:34:26:  Internet Explorer 属性
+10:34:31:  Microsoft 属性
+10:34:36:  Microsoft 的权限
+10:34:41:  Roaming
+10:34:46:  Roaming 属性
+10:34:51:  AppData 属性
+10:35:01:  Windows 安全
+10:35:11:  跳转列表
+10:35:21:  chrome - Everything
+10:35:26:  User Pinned
+10:35:31:  Google Chrome 属性
+10:35:36:  跳转列表
+10:35:41:  Google Chrome 属性
+10:35:46:  无标题 - Google Chrome
+10:35:51:  Google Chrome 属性
+10:35:56:  拒绝访问
+10:36:11:  Google Chrome 属性
+10:36:21:  快捷方式
+10:36:31:  TaskBar
+10:36:36:  Google Chrome 属性
+10:36:41:  TaskBar
+10:36:51:  Application
+10:37:01:  TaskBar
+10:37:11:  新标签页 - Google Chrome
+10:37:16:  Windows
+10:37:21:  TaskBar
+10:37:31:  新标签页 - Google Chrome
+10:37:41:  锁屏状态
+10:37:46:  tetx
+10:37:51:  新标签页 - Google Chrome
+10:38:01:  Google Chrome 属性
+10:38:11:  新标签页 - Google Chrome
+10:38:21:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:39:56:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+10:41:01:  00-分析
+10:41:06:  1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700
+10:41:11:  无标题 - Google Chrome
+10:41:16:  锁屏状态
+10:41:21:  K64_BTCR-1100190802300007_20210408085856
+10:41:41:  历史记录 - Google Chrome
+10:42:06:  1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700
+10:42:16:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:42:41:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+10:42:46:  系统
+10:42:51:  无标题 - Google Chrome
+10:42:56:  百度一下，你就知道 - Google Chrome
+10:43:01:  chrome_百度搜索 - Google Chrome
+10:43:11:  无法更改Chrome浏览器快捷方式后面紧跟的网址。_百度知道 - Google Chrome
+10:43:21:  解决Google Chrome启动页面被篡改锁定和劫持-百度经验 - Google Chrome
+10:44:01:  https://www.baidu.com/link?url=giQcqylNoEUTj9CMmAFkvVXANoezNQ3Cfejq4nKxQTawgCBbyDJ4UlcmolLuq9ragSo3Yq91sE3uUCTWe4V2xGGzsIuqSgpLyhTLlgYiXde&wd=&eqid=b169734c0000f65300000002606e6dba - Google Chrome
+10:44:06:  教你解决Chrome主页被篡改的问题(亲测有效！！)-百度经验 - Google Chrome
+10:44:11:  chrome 主页快捷方式后面跟了_百度搜索 - Google Chrome
+10:44:16:  chrome浏览器首页添加网站快捷方式_大小人间的博客-CSDN博客_chrome首页如何添加快捷方式 - Google Chrome
+10:44:26:  跳转列表
+10:44:31:  Decode
+10:44:36:  无标题 - Google Chrome
+10:44:41:  Windows 资源管理器
+10:44:46:  Application
+10:44:51:  gool - Everything
+10:44:56:  goo - Everything
+10:45:01:  google chrome - Everything
+10:44:06:  教你解决Chrome主页被篡改的问题(亲测有效！！)-百度经验 - Google Chrome
+10:44:11:  chrome 主页快捷方式后面跟了_百度搜索 - Google Chrome
+10:44:16:  chrome浏览器首页添加网站快捷方式_大小人间的博客-CSDN博客_chrome首页如何添加快捷方式 - Google Chrome
+10:44:26:  跳转列表
+10:44:31:  Decode
+10:44:36:  无标题 - Google Chrome
+10:44:41:  Windows 资源管理器
+10:44:46:  Application
+10:44:51:  gool - Everything
+10:44:56:  goo - Everything
+10:45:01:  google chrome - Everything
+10:45:06:  Google Chrome 属性
+10:45:11:  google chrome - Everything
+10:45:21:  新标签页 - Google Chrome
+10:45:26:  百度一下，你就知道 - Google Chrome
+10:45:36:  chrome 修改 拒绝访问_百度搜索 - Google Chrome
+10:45:41:  chrome 修改拒绝访问_百度搜索 - Google Chrome
+10:45:46:  chrome 拒绝访问_百度搜索 - Google Chrome
+10:45:51:  chrome 劫持 拒绝访问_百度搜索 - Google Chrome
+10:45:56:  首页 - 知乎 - Google Chrome
+10:46:01:  (24 封私信 / 80 条消息) chrome 劫持 拒绝访问 - 搜索结果 - 知乎 - Google Chrome
+10:47:01:  WMITools.exe_免费高速下载|百度网盘-分享无限制 - Google Chrome
+10:47:16:  (24 封私信 / 80 条消息) chrome 劫持 拒绝访问 - 搜索结果 - 知乎 - Google Chrome
+10:47:41:  WMITools.exe_免费高速下载|百度网盘-分享无限制 - Google Chrome
+10:47:46:  (24 封私信 / 80 条消息) chrome 劫持 拒绝访问 - 搜索结果 - 知乎 - Google Chrome
+10:48:56:  百度一下，你就知道 - Google Chrome
+10:49:01:  WMI工具-wmi tools(WMI Event Viewer)下载1.50.1131 官方版-西西软件下载 - Google Chrome
+10:49:06:  安全错误 - Google Chrome
+10:49:11:  WMI Event Viewer_百度搜索 - Google Chrome
+10:49:16:  无标题 - Google Chrome
+10:49:21:  google chrome - Everything
+10:49:26:  LOG
+10:49:31:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat* - TextAnalysisTool.NET
+10:49:56:  WMI Event Viewer_百度搜索 - Google Chrome
+10:50:01:  K64-_BTCR-1100190802300005_20210408094357.log - DRB2.tat* - TextAnalysisTool.NET
+10:50:11:  1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700
+10:50:21:  下载
+10:50:41:  K64_BTCR-1100190802300005_20210408094231
+10:50:46:  K64-_BTCR-1100190802300005_20210408094231.log - DRB2.tat* - TextAnalysisTool.NET
+10:50:51:  下载
+10:50:56:  Wmitool_V1.50.1131_XiTongZhiJia
+10:51:01:  WMI Tools
+10:51:16:  K64-_BTCR-1100190802300005_20210408094231.log - DRB2.tat* - TextAnalysisTool.NET
+10:51:21:  K64_BTCR-1100190802300005_20210408094231
+10:51:26:  K64_BTCR-1100190802300005_20210408093849
+10:51:31:  K64-_BTCR-1100190802300005_20210408094231.log - DRB2.tat* - TextAnalysisTool.NET
+10:51:36:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat* - TextAnalysisTool.NET
+10:52:26:  桌面整理
+10:52:31:  「开始」菜单
+10:52:41:  Windows Management Instrumentation Tools : WMI Event Viewer
+10:52:46:  WMI Event Registration Editor
+10:53:06:  Windows Management Instrumentation Tools : WMI Event Viewer
+10:53:11:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat* - TextAnalysisTool.NET
+10:55:01:  K64_BTCR-1100190802300005_20210408094357
+10:55:06:  K64-_BTCR-1100190802300005_20210408094357.log - DRB2.tat* - TextAnalysisTool.NET
+10:55:11:  K64_BTCR-1100190802300005_20210408094231
+10:55:16:  K64-_BTCR-1100190802300005_20210408094231.log - DRB2.tat* - TextAnalysisTool.NET
+10:55:21:  LOG
+10:55:26:  K64-_BTCR-1100190802300005_20210408093849.log - DRB2.tat* - TextAnalysisTool.NET
+10:56:11:  Edit Filter
+10:56:21:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:56:31:  K64-_BTCR-1100190802300005_20210408093849.log - DRB2.tat* - TextAnalysisTool.NET
+10:56:36:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:56:41:  K64-_BTCR-1100190802300005_20210408093849.log - DRB2.tat* - TextAnalysisTool.NET
+10:57:21:  Box_3__BTCR-1100190802300005_20210408093849.log - DRB2.tat* - TextAnalysisTool.NET
+10:57:26:  K64_BTCR-1100190802300005_20210408094231
+10:57:31:  LOG
+10:57:36:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat* - TextAnalysisTool.NET
+10:58:11:  (24 封私信 / 80 条消息) chrome 劫持 拒绝访问 - 搜索结果 - 知乎 - Google Chrome
+10:58:21:  「开始」菜单
+10:58:31:  Connect to namespace:
+10:58:41:  Windows Management Instrumentation Tools : WMI Event Viewer
+10:58:46:  WMI Event Registration Editor
+10:58:56:  (24 封私信 / 80 条消息) chrome 劫持 拒绝访问 - 搜索结果 - 知乎 - Google Chrome
+10:59:01:  Browse For Namespace
+10:59:06:  WMI Event Registration Editor
+10:59:11:  新建文本文档.exe - 快捷方式
+10:59:16:  「开始」菜单
+10:59:26:  Connect to namespace:
+10:59:31:  WMI Event Registration Login
+10:59:36:  (24 封私信 / 80 条消息) chrome 劫持 拒绝访问 - 搜索结果 - 知乎 - Google Chrome
+10:59:51:  View class properties: \\YF-ZHANGKAIFA\ROOT\CIMV2:__EventFilter
+10:59:56:  (24 封私信 / 80 条消息) chrome 劫持 拒绝访问 - 搜索结果 - 知乎 - Google Chrome
+10:58:11:  (24 封私信 / 80 条消息) chrome 劫持 拒绝访问 - 搜索结果 - 知乎 - Google Chrome
+10:58:21:  「开始」菜单
+10:58:31:  Connect to namespace:
+10:58:41:  Windows Management Instrumentation Tools : WMI Event Viewer
+10:58:46:  WMI Event Registration Editor
+10:58:56:  (24 封私信 / 80 条消息) chrome 劫持 拒绝访问 - 搜索结果 - 知乎 - Google Chrome
+10:59:01:  Browse For Namespace
+10:59:06:  WMI Event Registration Editor
+10:59:11:  新建文本文档.exe - 快捷方式
+10:59:16:  「开始」菜单
+10:59:26:  Connect to namespace:
+10:59:31:  WMI Event Registration Login
+10:59:36:  (24 封私信 / 80 条消息) chrome 劫持 拒绝访问 - 搜索结果 - 知乎 - Google Chrome
+10:59:51:  View class properties: \\YF-ZHANGKAIFA\ROOT\CIMV2:__EventFilter
+10:59:56:  (24 封私信 / 80 条消息) chrome 劫持 拒绝访问 - 搜索结果 - 知乎 - Google Chrome
+11:00:22:  「开始」菜单
+11:00:27:  WMI Event Registration Editor
+11:00:57:  新建文本文档.exe - 快捷方式
+11:01:02:  (24 封私信 / 80 条消息) chrome 劫持 拒绝访问 - 搜索结果 - 知乎 - Google Chrome
+11:02:12:  WMI Event Registration Editor
+11:02:37:  (24 封私信 / 80 条消息) chrome 劫持 拒绝访问 - 搜索结果 - 知乎 - Google Chrome
+11:02:52:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat* - TextAnalysisTool.NET
+11:03:22:  K64_BTCR-1100190802300005_20210408094357
+11:03:27:  K64-_BTCR-1100190802300005_20210408094231.log - DRB2.tat* - TextAnalysisTool.NET
+11:03:32:  K64_BTCR-1100190802300005_20210408093044
+11:03:37:  Box_3__BTCR-1100190802300005_20210408093044.log - DRB2.tat* - TextAnalysisTool.NET
+11:03:42:  K64_BTCR-1100190802300005_20210408093524
+11:03:47:  Box_3__BTCR-1100190802300005_20210408093617.log - DRB2.tat* - TextAnalysisTool.NET
+11:03:52:  K64_BTCR-1100190802300005_20210408093849
+11:03:57:  LOG
+11:04:02:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat* - TextAnalysisTool.NET
+11:04:57:  K64-_BTCR-1100190802300005_20210408094357.log - DRB2.tat - TextAnalysisTool.NET
+11:05:02:  锁屏状态
+11:05:07:  Add Filter
+11:05:12:  K64-_BTCR-1100190802300005_20210408094357.log - [No filter file]* - TextAnalysisTool.NET
+11:05:47:  LOG
+11:06:02:  LogExpert
+11:06:32:  LogExpert - D:\00-分析\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\Decode\LOG\K64_BTCR-1100190802300005_20210408094357\K64-_BTCR-1100190802300005_20210408094357.log
+11:06:52:  LOG
+11:06:57:  LogExpert - D:\00-分析\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\Decode\LOG\K64_BTCR-1100190802300005_20210408094231\K64-_BTCR-1100190802300005_20210408094231.log
+11:07:12:  K64_BTCR-1100190802300005_20210408093849
+11:07:17:  LogExpert - D:\00-分析\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\Decode\LOG\K64_BTCR-1100190802300005_20210408093849\K64-_BTCR-1100190802300005_20210408093849.log
+11:07:57:  K64_BTCR-1100190802300005_20210408094357
+11:08:02:  Box_3__BTCR-1100190802300005_20210408094357.log - [No filter file] - TextAnalysisTool.NET
+11:08:12:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat - TextAnalysisTool.NET
+11:10:22:  eSpace
+11:10:27:  荆文波
+11:11:07:  LogExpert - D:\00-分析\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\Decode\LOG\K64_BTCR-1100190802300005_20210408093849\K64-_BTCR-1100190802300005_20210408093849.log
+11:11:12:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat - TextAnalysisTool.NET
+11:17:32:  K64_BTCR-1100190802300005_20210408094357
+11:17:37:  K64-_BTCR-1100190802300005_20210408094357.log - DRB2.tat - TextAnalysisTool.NET
+11:17:42:  K64_BTCR-1100190802300005_20210408094357
+11:17:47:  K64-_BTCR-1100190802300005_20210408094231.log - DRB2.tat - TextAnalysisTool.NET
+11:17:57:  K64-_BTCR-1100190802300005_20210408093849.log - DRB2.tat - TextAnalysisTool.NET
+11:18:12:  LOG
+11:18:17:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat - TextAnalysisTool.NET
+11:21:12:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+11:21:22:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat - TextAnalysisTool.NET
+11:23:47:  于斌1
+11:24:07:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+11:24:12:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+11:24:17:  DRB
+11:24:22:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+11:24:27:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+11:24:42:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+11:26:12:  于斌1
+11:26:17:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+11:26:47:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+11:26:52:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+11:26:57:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat - TextAnalysisTool.NET
+11:28:22:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+11:28:27:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+11:28:32:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat - TextAnalysisTool.NET
+11:28:22:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+11:28:27:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+11:28:32:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat - TextAnalysisTool.NET
+11:32:47:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+11:33:22:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:33:27:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:36:27:  锁屏状态
+11:36:47:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:37:37:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat - TextAnalysisTool.NET
+11:39:02:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:39:12:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat - TextAnalysisTool.NET
+11:39:22:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:39:37:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat - TextAnalysisTool.NET
+11:39:47:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+11:40:02:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat - TextAnalysisTool.NET
+11:40:37:  锁屏状态
+13:18:42:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat - TextAnalysisTool.NET
+13:24:27:  于斌1
+13:24:47:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+13:24:57:  「开始」菜单
+13:25:12:  BR-1-CashBox1T2-Press.txt - 记事本
+13:25:17:  荆文波
+13:25:22:  本地磁盘 (D:)
+13:25:27:  荆文波
+13:25:32:  00-分析
+13:25:42:  1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700
+13:25:47:  1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700
+13:25:52:  LOG
+13:25:57:  K64_BTCR-1100190802300005_20210408094231
+13:26:02:  LogExpert #1 - D:\00-分析\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\Decode\LOG\K64_BTCR-1100190802300005_20210408094231\K64-_BTCR-1100190802300005_20210408094231.log
+13:26:27:  荆文波
+13:26:37:  LOG
+13:26:42:  LogExpert #2 - D:\00-分析\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\Decode\LOG\K64_BTCR-1100190802300005_20210408093849\K64-_BTCR-1100190802300005_20210408093849.log
+13:26:47:  LogExpert - D:\00-分析\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\Decode\LOG\K64_BTCR-1100190802300005_20210408093849\K64-_BTCR-1100190802300005_20210408093849.log
+13:26:52:  K64_BTCR-1100190802300005_20210408094231
+13:26:57:  LogExpert #3 - D:\00-分析\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\Decode\LOG\K64_BTCR-1100190802300005_20210408094231\K64-_BTCR-1100190802300005_20210408094231.log
+13:27:17:  LogExpert #4 - D:\00-分析\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\Decode\LOG\K64_BTCR-1100190802300005_20210408094357\K64-_BTCR-1100190802300005_20210408094357.log
+13:27:42:  Box_3__BTCR-1100190802300005_20210408094357.log - DRB2.tat - TextAnalysisTool.NET
+13:32:32:  DRB测试缺陷0407.xlsx - Excel
+13:35:32:  问题
+13:35:37:  Windows 照片查看器
+13:35:42:  IMG_20210406_092850.jpg - Windows 照片查看器
+13:35:47:  IMG_20210406_092950.jpg - Windows 照片查看器
+13:35:52:  IMG_20210406_092850.jpg - Windows 照片查看器
+13:36:02:  DRB测试缺陷0407.xlsx - Excel
+13:36:12:  ID-1 通道传输过程中卡钞纸币残留SENSOR_UAS04 返回码0X80460403，初始化后纸币异常折叠。
+13:36:17:  IMG_20210406_150633.jpg - Windows 照片查看器
+13:38:27:  固件设计中心
+13:38:32:  IMG_20210406_150633.jpg - Windows 照片查看器
+13:39:37:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+13:40:27:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+13:42:57:  1元反向盘点第337张报112324.919 钞箱口 500ms纸币未进入 返回码0X045E0900,1、5元混合钞大额存款第1047张报105022.990 通道传输过程中卡钞 超过最大长度持续有钞  返回码0X834602B6,
+13:43:42:  00-分析
+13:43:47:  1、5元混合钞大额存款第1047张报105022.990 通道传输过程中卡钞 超过最大长度持续有钞  返回码0X834602B6
+13:43:52:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:44:57:  Decode
+13:44:57:  Decode
+13:48:38:  K64_BTCR-1100190802300005_20210408104755
+13:48:43:  Box_3__BTCR-1100190802300005_20210408104755.log - DRB2.tat - TextAnalysisTool.NET
+13:49:13:  锁屏状态
+13:49:18:  DRB测试缺陷0407.xlsx - Excel
+13:52:08:  荆文波
+13:52:48:  google chrome - Everything
+13:52:58:  827chlb4sg.baicuoa.com - Google Chrome
+13:53:03:  google chrome - Everything
+13:53:08:  新标签页 - Google Chrome
+13:53:13:  设置 - Google Chrome
+13:53:23:  google chrome - Everything
+13:53:28:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+13:55:28:  D:\00-06\DRB\Applications\State\State.c (DRB) - Sublime Text (UNREGISTERED)
+13:55:48:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+13:56:18:  于斌1
+13:57:23:  计算器
+13:58:53:  于斌1
+13:58:53:  于斌1
+14:00:48:  D:\00-06\DRB\Applications\State\State.c • (DRB) - Sublime Text (UNREGISTERED)
+14:01:53:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:02:03:  google chrome - Everything
+14:02:08:  TaskBar
+14:02:13:  Google Chrome 属性
+14:02:23:  TaskBar
+14:02:28:  锁屏状态
+14:02:33:  新建文本文档.exe - 快捷方式
+14:02:38:  ID-1 通道传输过程中卡钞纸币残留SENSOR_UAS04 返回码0X80460403，初始化后纸币异常折叠。
+14:02:43:  无标题 - Google Chrome
+14:02:48:  www.baidu.com - Google Chrome
+14:02:58:  TaskBar
+14:03:03:  自动播放
+14:03:08:  iTunes
+14:03:23:  TaskBar
+14:03:28:  百度一下，你就知道 - Google Chrome
+14:03:33:  (25 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+14:03:38:  (25 封私信 / 80 条消息) chrome 劫持 拒绝访问 - 搜索结果 - 知乎 - Google Chrome
+14:04:23:  锁屏状态
+14:04:28:  删除快捷方式
+14:04:33:  google chrome - Everything
+14:04:38:  TaskBar
+14:04:43:  Google Chrome 属性
+14:04:48:  快捷方式
+14:04:58:  新标签页 - Google Chrome
+14:05:03:  百度一下，你就知道 - Google Chrome
+14:05:13:  无法将所做的改动保存到Google Chrome.lnk_百度搜索 - Google Chrome
+14:05:28:  chrome.exe - 快捷方式 属性
+14:05:33:  跳转列表
+14:05:38:  TaskBar
+14:05:43:  跳转列表
+14:05:48:  TaskBar
+14:06:03:  新标签页 - Google Chrome
+14:06:18:  TaskBar
+14:06:23:  google chrome - Everything
+14:06:28:  Box_3__BTCR-1100190802300005_20210408104755.log - DRB2.tat - TextAnalysisTool.NET
+14:07:08:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+14:07:23:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.h (DRB) - Sublime Text (UNREGISTERED)
+14:07:28:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+14:09:33:  新建文本文档.exe - 快捷方式
+14:09:48:  0-工作 - 张开发 - 印象笔记
+14:09:53:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+14:09:58:  K64_BTCR-1100190802300005_20210408104755
+14:10:03:  本地磁盘 (D:)
+14:10:13:  于斌1
+14:14:38:  计算器
+14:14:48:  于斌1
+14:14:53:  计算器
+14:14:38:  计算器
+14:14:48:  于斌1
+14:14:53:  计算器
+14:15:28:  于斌1
+14:16:13:  计算器
+14:16:23:  于斌1
+14:17:33:  计算器
+14:18:33:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+14:18:38:  K64_BTCR-1100190802300005_20210408104755
+14:19:03:  Box_3__BTCR-1100190802300005_20210408104755.log - DRB2.tat - TextAnalysisTool.NET
+14:19:08:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+14:19:13:  荆文波
+14:19:18:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+14:20:03:  本地磁盘 (D:)
+14:20:08:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+14:20:18:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:20:23:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+14:20:43:  Box_3__BTCR-1100190802300005_20210408104755.log - DRB2.tat - TextAnalysisTool.NET
+14:20:58:  跳转列表
+14:21:03:  eSpace
+14:21:08:  K64_BTCR-1100190802300005_20210408104755
+14:21:13:  本地磁盘 (D:)
+14:21:28:  新建文件夹 (2)
+14:21:33:  本地磁盘 (D:)
+14:21:48:  Box_3__BTCR-1100190802300005_20210408104755.log - DRB2.tat - TextAnalysisTool.NET
+14:21:53:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+14:21:58:  本地磁盘 (D:)
+14:22:18:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+14:23:18:  LogExpert - D:\00-分析\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\Decode\LOG\K64_BTCR-1100190802300005_20210408093849\K64-_BTCR-1100190802300005_20210408093849.log
+14:23:33:  D:\00-06\DRB\Applications\MotorCtrl\MotorCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+14:24:18:  选择文件夹
+14:24:33:  untitled (10) - Sublime Text (UNREGISTERED)
+14:24:38:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+14:25:28:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+14:25:33:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:25:58:  本地磁盘 (D:)
+14:26:03:  Project
+14:26:08:  μVision
+14:26:13:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+14:27:58:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+14:28:08:  Tools
+14:28:13:  D:\00-KE64\10\Tools\CreateJK.exe
+14:28:23:  Tools
+14:30:01:  未命名 - 写邮件
+14:28:08:  Tools
+14:28:13:  D:\00-KE64\10\Tools\CreateJK.exe
+14:28:23:  Tools
+14:30:01:  未命名 - 写邮件
+14:30:06:  BTCR-1100_MASTER_K64_FV1030_FEDUV22_MAIN_T05 - 写邮件
+14:30:11:  Tools
+14:30:26:  BTCR-1100_MASTER_K64_FV1030_FEDUV22_MAIN_T05--More-20mm - 写邮件
+14:31:26:  Tools
+14:31:36:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:31:41:  集成测试报告.xlsx - Excel
+14:31:56:  集成测试报告.xlsb: 2021/4/6 16:05 (自动保存版本)  [只读] - Excel
+14:32:26:  集成测试报告.xlsx - Excel
+14:32:56:  荆文波
+14:33:21:  打开
+14:33:26:  集成测试报告.xlsx - Excel
+14:33:36:  荆文波
+14:34:06:  集成测试报告.xlsx - Excel
+14:34:11:  荆文波
+14:34:31:  于斌1
+14:34:46:  荆文波
+14:35:01:  于斌1
+14:35:16:  荆文波
+14:35:21:  Microsoft Excel
+14:35:26:  桌面整理
+14:35:31:  集成测试报告.xlsx - Excel
+14:35:46:  打开
+14:35:51:  于斌1
+14:35:56:  集成测试报告.xlsx - Excel
+14:36:26:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:36:31:  集成测试报告.xlsx - Excel
+14:36:56:  Excel
+14:37:01:  DRB集成测试报告.xlsx  [受保护的视图] - Excel
+14:37:16:  移动或复制工作表
+14:37:21:  集成测试报告.xlsx - Excel
+14:37:56:  于斌1
+14:38:01:  集成测试报告 - Everything
+14:38:06:  于斌1
+14:38:26:  集成测试报告 - Everything
+14:38:36:  DRB集成测试报告.xlsx - Excel
+14:38:41:  集成测试报告 - Everything
+14:38:46:  Microsoft Excel
+14:38:51:  集成测试报告.xlsx - Excel
+14:39:06:  于斌1
+14:39:11:  集成测试报告.xlsx - Excel
+14:39:21:  集成测试报告 - Everything
+14:39:26:  于斌1
+14:39:36:  集成测试报告.xlsx - Excel
+14:39:46:  集成测试报告 - Everything
+14:39:56:  集成测试报告.xlsx - Excel
+14:40:01:  荆文波
+14:40:16:  集成测试报告.xlsx - Excel
+14:41:11:  0-工作 - 张开发 - 印象笔记
+14:41:16:  集成测试报告.xlsx - Excel
+14:41:26:  0-工作 - 张开发 - 印象笔记
+14:41:31:  集成测试报告.xlsx - Excel
+14:43:16:  本地磁盘 (D:)
+14:43:21:  00-分析
+14:43:26:  Decode
+14:43:31:  K64_BTCR-1100190802300007_20210408134004.log - DRB2.tat - TextAnalysisTool.NET
+14:43:41:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:43:46:  荆文波
+14:44:11:  K64_BTCR-1100190802300007_20210408134004
+14:44:16:  「开始」菜单
+14:44:21:  计算器
+14:44:11:  K64_BTCR-1100190802300007_20210408134004
+14:44:16:  「开始」菜单
+14:44:21:  计算器
+14:45:06:  K64_BTCR-1100190802300007_20210408134004
+14:45:11:  K64-_BTCR-1100190802300007_20210408134004.log - DRB2.tat - TextAnalysisTool.NET
+14:45:26:  Box_3__BTCR-1100190802300007_20210408134004.log - DRB2.tat - TextAnalysisTool.NET
+14:46:11:  荆文波
+14:47:01:  锁屏状态
+15:09:11:  荆文波
+15:09:26:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:09:56:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c • (DRB) - Sublime Text (UNREGISTERED)
+15:10:16:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:10:41:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:10:51:  本地磁盘 (D:)
+15:10:56:  Tools
+15:11:21:  D:\00-06\DRB\Tools\CreateJK.exe
+15:11:26:  Tools
+15:11:31:  锁屏状态
+15:12:16:  Tools
+15:12:21:  锁屏状态
+15:24:41:  Tools
+15:24:46:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+15:24:51:  D:\00-06\DRB\Applications\PlateCtrl\LowerPlateCtrl.c • (DRB) - Sublime Text (UNREGISTERED)
+15:25:01:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:25:06:  Tools
+15:25:11:  D:\00-06\DRB\Tools\CreateJK.exe
+15:25:16:  Tools
+15:25:21:  锁屏状态
+15:25:26:  Tools
+15:25:31:  锁屏状态
+15:38:16:  本地磁盘 (D:)
+15:38:21:  00-分析
+15:38:31:  正在复制...
+15:38:36:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:39:01:  Decode
+15:39:06:  LOG
+15:39:11:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:39:16:  333
+15:39:21:  Decode
+15:39:26:  LOG
+15:39:31:  LogExpert #5 - D:\00-分析\333\Decode\LOG\K64_BTCR-1100190802300007_20210408152547\K64-_BTCR-1100190802300007_20210408152547.log
+15:39:46:  LogExpert #5
+15:39:51:  LogExpert
+15:39:56:  LogExpert - D:\00-分析\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\Decode\LOG\K64_BTCR-1100190802300005_20210408093849\K64-_BTCR-1100190802300005_20210408093849.log
+15:40:01:  LogExpert #7 - D:\00-分析\333\Decode\LOG\K64_BTCR-1100190802300007_20210408152309\K64-_BTCR-1100190802300007_20210408152309.log
+15:40:06:  K64_BTCR-1100190802300007_20210408152547
+15:40:11:  LogExpert #8 - D:\00-分析\333\Decode\LOG\K64_BTCR-1100190802300007_20210408152547\K64-_BTCR-1100190802300007_20210408152547.log
+15:40:21:  K64_BTCR-1100190802300007_20210408152547
+15:41:11:  锁屏状态
+15:44:46:  K64_BTCR-1100190802300007_20210408152547
+15:44:51:  正在复制...
+15:44:56:  333
+15:44:46:  K64_BTCR-1100190802300007_20210408152547
+15:44:51:  正在复制...
+15:44:56:  333
+15:45:06:  锁屏状态
+15:52:41:  333
+15:52:51:  Decode
+15:54:06:  LOG
+15:54:11:  Box_3__BTCR-1100190802300007_20210408134004.log - DRB2.tat - TextAnalysisTool.NET
+15:54:16:  K64-_BTCR-1100190802300007_20210408151011.log - DRB2.tat - TextAnalysisTool.NET
+15:54:21:  K64_BTCR-1100190802300007_20210408151011
+15:54:26:  LogExpert #9 - D:\00-分析\333\Decode\LOG\K64_BTCR-1100190802300007_20210408151011\K64-_BTCR-1100190802300007_20210408151011.log
+15:54:51:  K64_BTCR-1100190802300007_20210408151011
+15:54:56:  K64-_BTCR-1100190802300007_20210408151011.log - DRB2.tat - TextAnalysisTool.NET
+15:55:16:  Box_3__BTCR-1100190802300007_20210408151011.log - DRB2.tat - TextAnalysisTool.NET
+15:55:31:  LogExpert - D:\00-分析\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\1元反向盘点第436报094450.214 钞箱口 钞口满 返回码0X085E0700\Decode\LOG\K64_BTCR-1100190802300005_20210408093849\K64-_BTCR-1100190802300005_20210408093849.log
+15:55:36:  LogExpert #9 - D:\00-分析\333\Decode\LOG\K64_BTCR-1100190802300007_20210408151011\K64-_BTCR-1100190802300007_20210408151011.log
+15:55:41:  锁屏状态
+15:55:46:  K64-_BTCR-1100190802300007_20210408151011.log - DRB2.tat - TextAnalysisTool.NET
+15:56:01:  K64-_BTCR-1100190802300007_20210408151011.log - DRB2.tat* - TextAnalysisTool.NET
+15:56:11:  K64-_BTCR-1100190802300007_20210408151011.log - DRB2.tat - TextAnalysisTool.NET
+15:56:31:  锁屏状态
+15:56:42:  K64-_BTCR-1100190802300007_20210408151011.log - DRB2.tat - TextAnalysisTool.NET
+15:56:57:  K64-_BTCR-1100190802300007_20210408151011.log - DRB2.tat* - TextAnalysisTool.NET
+15:57:07:  锁屏状态
+15:57:12:  LogExpert #9 - D:\00-分析\333\Decode\LOG\K64_BTCR-1100190802300007_20210408151011\K64-_BTCR-1100190802300007_20210408151011.log
+15:57:17:  K64-_BTCR-1100190802300007_20210408151011.log - DRB2.tat* - TextAnalysisTool.NET
+15:57:32:  LogExpert #9 - D:\00-分析\333\Decode\LOG\K64_BTCR-1100190802300007_20210408151011\K64-_BTCR-1100190802300007_20210408151011.log
+15:57:37:  Edit Filter
+15:57:42:  K64-_BTCR-1100190802300007_20210408151011.log - DRB2.tat* - TextAnalysisTool.NET
+15:58:12:  K64_BTCR-1100190802300007_20210408151713
+15:58:17:  Box_3__BTCR-1100190802300007_20210408151713.log - DRB2.tat* - TextAnalysisTool.NET
+15:58:22:  K64_BTCR-1100190802300007_20210408151826
+15:58:27:  Box_3__BTCR-1100190802300007_20210408151826.log - DRB2.tat* - TextAnalysisTool.NET
+15:58:32:  K64_BTCR-1100190802300007_20210408151011
+15:58:37:  Box_3__BTCR-1100190802300007_20210408151011.log - DRB2.tat* - TextAnalysisTool.NET
+15:58:42:  锁屏状态
+15:58:47:  Box_3__BTCR-1100190802300007_20210408151011.log - DRB2.tat* - TextAnalysisTool.NET
+15:59:32:  K64-_BTCR-1100190802300007_20210408151011.log - DRB2.tat* - TextAnalysisTool.NET
+15:58:12:  K64_BTCR-1100190802300007_20210408151713
+15:58:17:  Box_3__BTCR-1100190802300007_20210408151713.log - DRB2.tat* - TextAnalysisTool.NET
+15:58:22:  K64_BTCR-1100190802300007_20210408151826
+15:58:27:  Box_3__BTCR-1100190802300007_20210408151826.log - DRB2.tat* - TextAnalysisTool.NET
+15:58:32:  K64_BTCR-1100190802300007_20210408151011
+15:58:37:  Box_3__BTCR-1100190802300007_20210408151011.log - DRB2.tat* - TextAnalysisTool.NET
+15:58:42:  锁屏状态
+15:58:47:  Box_3__BTCR-1100190802300007_20210408151011.log - DRB2.tat* - TextAnalysisTool.NET
+15:59:32:  K64-_BTCR-1100190802300007_20210408151011.log - DRB2.tat* - TextAnalysisTool.NET
+16:00:12:  集成测试报告 - Everything
+16:00:17:  K64_BTCR-1100190802300007_20210408151011
+16:00:22:  K64-_BTCR-1100190802300007_20210408151011.log - DRB2.tat* - TextAnalysisTool.NET
+16:03:52:  K64_BTCR-1100190802300007_20210408151011
+16:03:57:  LogExpert #9 - D:\00-分析\333\Decode\LOG\K64_BTCR-1100190802300007_20210408151011\K64-_BTCR-1100190802300007_20210408151011.log
+16:04:12:  K64-_BTCR-1100190802300007_20210408151011.log - DRB2.tat* - TextAnalysisTool.NET
+16:06:02:  锁屏状态
+16:27:22:  K64_BTCR-1100190802300007_20210408151011
+16:27:32:  荆文波
+16:27:42:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+16:27:47:  本地磁盘 (D:)
+16:27:52:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+16:28:07:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+16:28:07:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+16:35:27:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:35:47:  K64-_BTCR-1100190802300007_20210408151011.log - DRB2.tat* - TextAnalysisTool.NET
+16:35:52:  本地磁盘 (D:)
+16:35:57:  Decode
+16:36:02:  Box_3__BTCR-1100190802300005_20210408104755.log - DRB2.tat* - TextAnalysisTool.NET
+16:36:42:  TCR调测工具 V3.36
+16:36:47:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:37:27:  JLink - Cortex-M Error
+16:37:32:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:38:02:  新标签页 - Google Chrome
+16:38:07:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:38:12:  项目 - Google Chrome
+16:38:17:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:38:32:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:38:47:  Operator '/' followed by operator '*' is confusing. Use parentheses. - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:39:02:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:39:12:  Symbol 'PaperManageCla(PAPERMANAGE *, unsigned char)' (line 488, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c) not referenced - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:39:17:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:39:42:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:39:47:  Loss of precision (assignment) (float to unsigned int) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:39:57:  选择文件夹
+16:40:02:  untitled (trunk) - Sublime Text (UNREGISTERED)
+16:40:07:  Loss of precision (assignment) (float to unsigned int) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:40:17:  untitled (trunk) - Sublime Text (UNREGISTERED)
+16:40:27:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:40:32:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:40:37:  Loss of precision (assignment) (float to unsigned int) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:40:47:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:41:07:  Loss of precision (assignment) (float to unsigned int) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:41:12:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:41:22:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+16:41:32:  Loss of precision (assignment) (float to unsigned int) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:41:37:  Unusual use of 'SYM' in argument to sizeof - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:41:42:  Operator '/' followed by operator '*' is confusing. Use parentheses. - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:41:47:  Unusual use of 'SYM' in argument to sizeof - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:41:57:  Operator '/' followed by operator '*' is confusing. Use parentheses. - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:42:07:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:42:22:  KE06LOG.bat - 快捷方式 (2)
+16:42:27:  LogExpert #10 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202104081642.log
+16:42:32:  于斌1
+16:42:37:  Operator '/' followed by operator '*' is confusing. Use parentheses. - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:42:42:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+16:43:32:  Operator '/' followed by operator '*' is confusing. Use parentheses. - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:43:37:  Symbol 'PaperManageCla(PAPERMANAGE *, unsigned char)' (line 488, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c) not referenced - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:43:47:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:43:52:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+16:44:02:  Symbol 'PaperManageCla(PAPERMANAGE *, unsigned char)' (line 488, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c) not referenced - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:44:07:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:44:12:  Loss of precision (assignment) (float to unsigned int) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:44:27:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:44:32:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+16:44:47:  00-06
+16:44:52:  LogExpert #10 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202104081642.log
+16:45:02:  trunk
+16:44:07:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:44:12:  Loss of precision (assignment) (float to unsigned int) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:44:27:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:44:32:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+16:44:47:  00-06
+16:44:52:  LogExpert #10 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202104081642.log
+16:45:02:  trunk
+16:45:37:  Loss of precision (assignment) (float to unsigned int) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:45:42:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+16:45:47:  Loss of precision (assignment) (float to unsigned int) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:45:52:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+16:45:57:  Loss of precision (assignment) (float to unsigned int) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:46:12:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+16:47:07:  Loss of precision (assignment) (float to unsigned int) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:47:12:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:47:22:  Plate.c Revision 4164 - TortoiseMerge
+16:47:27:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:47:37:  Plate.c Revision 4164 - TortoiseMerge
+16:47:42:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:47:52:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+16:48:12:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:48:17:  Plate.c Revision 4164 - TortoiseMerge
+16:48:22:  Middlewares
+16:48:27:  Plate
+16:48:32:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c - 日志信息 - TortoiseSVN
+16:48:42:  trunk
+16:48:52:  更新 完成！
+16:48:57:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+16:49:02:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+16:49:12:  锁屏状态
+16:49:17:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:49:32:  trunk
+16:49:37:  D:\00-06\1T1-Stop-Length\trunk - 更新 - TortoiseSVN
+16:49:42:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+16:49:47:  Loss of precision (assignment) (float to unsigned int) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:49:52:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+16:50:02:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c • (trunk) - Sublime Text (UNREGISTERED)
+16:50:17:  Loss of precision (assignment) (float to unsigned int) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:50:27:  Symbol 'PaperManageCla(PAPERMANAGE *, unsigned char)' (line 488, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c) not referenced - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:50:32:  Operator '/' followed by operator '*' is confusing. Use parentheses. - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:50:37:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+16:50:42:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:50:57:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+16:51:02:  Operator '/' followed by operator '*' is confusing. Use parentheses. - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:51:07:  Unusual use of 'SYM' in argument to sizeof - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:51:22:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+16:51:27:  Plate.c - TortoiseMerge
+16:51:32:  PaperManage.c - TortoiseMerge
+16:51:37:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+16:51:42:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:51:57:  trunk
+16:52:02:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:52:57:  trunk
+16:53:02:  历史记录
+16:53:07:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+16:53:22:  提交
+16:53:27:  项目 - Google Chrome
+16:53:37:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:54:02:  网易有道词典
+16:54:17:  Duplicated Lines on New Code (%) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:55:02:  项目 - Google Chrome
+16:55:07:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:55:22:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:55:27:  TCR调测工具 V3.36
+16:55:57:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:56:07:  项目 - Google Chrome
+16:56:12:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:56:22:  Duplicated Lines on New Code (%) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:56:57:  TCR调测工具 V3.36
+16:57:37:  BTCRTestTool V3.36
+16:57:42:  TCRControlCmdDLL
+16:57:47:  20210408
+16:58:02:  K18_BTCR-1100200101100016_20210408165720 - 写邮件
+16:58:07:  TCR调测工具 V3.36
+16:58:12:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:58:27:  Project
+16:58:32:  trunk
+16:58:52:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:58:57:  Unusual use of 'SYM' in argument to sizeof - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:59:42:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:59:52:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+17:00:02:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+16:58:07:  TCR调测工具 V3.36
+16:58:12:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:58:27:  Project
+16:58:32:  trunk
+16:58:52:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:58:57:  Unusual use of 'SYM' in argument to sizeof - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:59:42:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:59:52:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+17:00:02:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+17:00:17:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+17:00:22:  μVision
+17:00:27:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+17:00:32:  trunk
+17:00:37:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+17:00:42:  20210408
+17:00:47:  回复: K18_BTCR-1100200101100016_20210408165720 - 写邮件
+17:00:52:  20210408
+17:00:57:  于斌1
+17:01:02:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+17:01:22:  本地磁盘 (D:)
+17:01:27:  00-06
+17:01:32:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+17:01:52:  trunk
+17:01:57:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+17:02:02:  PlateCtrl.c Revision 4315 - TortoiseMerge
+17:02:17:  Unusual use of 'SYM' in argument to sizeof - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:02:22:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:02:42:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:02:47:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:02:57:  Unusual use of 'SYM' in argument to sizeof - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:03:02:  TCR调测工具 V3.36
+17:03:22:  Unusual use of 'SYM' in argument to sizeof - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:03:27:  项目 - Google Chrome
+17:03:32:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:03:37:  TCR调测工具 V3.36
+17:03:42:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:03:47:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:03:57:  BTCRTestTool V3.36
+17:04:02:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+17:04:07:  Decode
+17:04:12:  LogExpert #11 - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210408\Decode\K18_BTCR-1100200101100016_20210408085314.log
+17:04:17:  Decode
+17:04:22:  LogExpert #12 - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210408\Decode\K18_BTCR-1100200101100016_20210408170338.log
+17:05:22:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:05:27:  项目 - Google Chrome
+17:05:32:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:05:57:  锁屏状态
+17:06:02:  SonarQube - Google Chrome
+17:06:07:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:06:12:  收取邮件 - 张开发
+17:06:17:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:06:22:  Decode
+17:06:37:  于斌1
+17:06:42:  锁屏状态
+17:06:57:  SonarQube - Google Chrome
+17:07:02:  库
+17:07:07:  trunk
+17:07:12:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+17:07:17:  PlateCtrl.c Revision 4315 - TortoiseMerge
+17:07:22:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:07:27:  Unusual use of 'SYM' in argument to sizeof - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:07:42:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+17:07:47:  1T1-Stop-Length
+17:07:52:  trunk
+17:07:57:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+17:08:02:  Unusual use of 'SYM' in argument to sizeof - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:08:07:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:08:17:  锁屏状态
+17:30:12:  开始
+17:30:17:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:30:22:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+17:30:32:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+17:30:37:  Project
+17:30:42:  trunk
+17:30:48:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+17:31:03:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+17:31:28:  BTCR-1100_BOX1T1_KE06_FV1010_EXTFEDUV21_MAIN_T00 - 写邮件
+17:31:33:  Tools
+17:31:38:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+17:32:03:  D:\00-06\1T1-Stop-Length\trunk\Tools - 日志信息 - TortoiseSVN
+17:32:08:  Tools
+17:32:13:  trunk
+17:32:18:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+17:32:38:  Tools
+17:32:53:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+17:33:03:  1T1-Stop-Length
+17:33:08:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+17:33:13:  trunk
+17:33:18:  Tools
+17:33:28:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+17:33:53:  Tools
+17:33:58:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+17:34:18:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+17:34:38:  trunk
+17:34:43:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+17:35:13:  trunk
+17:35:18:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+17:35:38:  Tools
+17:36:08:  BTCR-1100_BOX1T1_KE06_FV1010_EXTFEDUV21_MAIN_T00 - 写邮件
+17:36:13:  锁屏状态
+17:36:18:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+17:37:23:  Tools
+17:37:33:  trunk
+17:37:38:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+17:37:48:  Applications
+17:37:58:  D:\00-06\1T1-Stop-Length\trunk\Applications - 日志信息 - TortoiseSVN
+17:39:38:  Applications
+17:39:48:  Plate
+17:39:53:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c - 日志信息 - TortoiseSVN
+17:39:58:  Plate.c Revision 4164 - TortoiseMerge
+17:40:53:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c - 日志信息 - TortoiseSVN
+17:42:48:  Plate
+17:42:53:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+17:43:08:  LogExpert #12 - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210408\Decode\K18_BTCR-1100200101100016_20210408170338.log
+17:43:23:  eSpace
+17:43:28:  吉哲
+17:43:33:  BTCRTestTool 属性
+17:43:38:  TCR调测工具 V3.36
+17:43:43:  吉哲
+17:43:48:  eSpace
+17:43:58:  锁屏状态

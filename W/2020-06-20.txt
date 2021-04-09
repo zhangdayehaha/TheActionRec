@@ -1,0 +1,1339 @@
+08:02:08:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+08:02:23:  eSpace
+08:12:03:  本地磁盘 (D:)
+08:12:08:  00-06
+08:12:13:  DRB-PRESS
+08:12:18:  Project
+08:12:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:19:33:  TCR调测工具 V3.36
+08:19:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:20:43:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+08:20:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:20:58:  TCR调测工具 V3.36
+08:21:13:  发送指令到K06
+08:21:18:  TCR调测工具 V3.36
+08:21:28:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:21:33:  「开始」菜单
+08:21:38:  计算器
+08:21:43:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:21:48:  D:\00-06\1T1-Stop-Length\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+08:21:53:  D:\00-06\DRB-PRESS\Applications\Update\Update.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:21:58:  D:\00-06\DRB-PRESS\Applications\MemoryConfig.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:22:03:  发送指令到K06
+08:22:23:  TCR调测工具 V3.36
+08:22:28:  发送指令到K06
+08:22:38:  TCR调测工具 V3.36
+08:22:43:  发送指令到K06
+08:23:08:  TCR调测工具 V3.36
+08:23:13:  发送指令到K06
+08:23:18:  TCR调测工具 V3.36
+08:23:23:  发送指令到K06
+08:23:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:23:58:  计算器
+08:24:08:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:26:09:  荆文波
+08:26:19:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:26:24:  Project
+08:26:29:  Tools
+08:26:39:  TCR调测工具 V3.36
+08:26:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:27:04:  正在打开 - Excel
+08:27:09:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:27:34:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrHandle.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:28:04:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:28:49:  Tools
+08:28:54:  锁屏状态
+08:28:59:  打开
+08:29:04:  TCR调测工具 V3.36
+08:29:24:  发送指令到K06
+08:29:29:  TCR调测工具 V3.36
+08:29:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:28:49:  Tools
+08:28:54:  锁屏状态
+08:28:59:  打开
+08:29:04:  TCR调测工具 V3.36
+08:29:24:  发送指令到K06
+08:29:29:  TCR调测工具 V3.36
+08:29:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:30:14:  发送指令到K06
+08:30:19:  TCR调测工具 V3.36
+08:30:24:  计算器
+08:30:29:  发送指令到K06
+08:30:39:  TCR调测工具 V3.36
+08:30:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:30:54:  发送指令到K06
+08:31:04:  TCR调测工具 V3.36
+08:31:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:31:44:  锁屏状态
+08:31:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:39:49:  Microsoft Visio
+08:42:54:  「开始」菜单
+08:43:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:44:44:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:44:44:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:45:09:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+08:46:24:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:49:14:  Tools
+08:49:19:  本地磁盘 (D:)
+08:49:24:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:51:44:  TCR调测工具 V3.36
+08:51:49:  发送指令到K06
+08:51:54:  TCR调测工具 V3.36
+08:52:04:  本地磁盘 (D:)
+08:52:14:  Tools
+08:52:29:  发送指令到K06
+08:52:39:  TCR调测工具 V3.36
+08:52:44:  Tools
+08:53:09:  TCR调测工具 V3.36
+08:53:24:  发送指令到K06
+08:53:34:  TCR调测工具 V3.36
+08:53:49:  发送指令到K06
+08:54:24:  计算器
+08:54:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:55:04:  计算器
+08:55:09:  TCR调测工具 V3.36
+08:55:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:57:09:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+08:57:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:57:34:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+08:57:39:  打开
+08:57:44:  TCR调测工具 V3.36
+08:58:04:  发送指令到K06
+08:58:09:  TCR调测工具 V3.36
+08:58:14:  计算器
+08:58:39:  发送指令到K06
+08:58:49:  TCR调测工具 V3.36
+08:58:59:  发送指令到K06
+08:59:19:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:59:39:  Tools
+08:59:54:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+08:59:59:  TCR调测工具 V3.36
+08:58:09:  TCR调测工具 V3.36
+08:58:14:  计算器
+08:58:39:  发送指令到K06
+08:58:49:  TCR调测工具 V3.36
+08:58:59:  发送指令到K06
+08:59:19:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:59:39:  Tools
+08:59:54:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+08:59:59:  TCR调测工具 V3.36
+09:00:24:  发送指令到K06
+09:00:29:  TCR调测工具 V3.36
+09:00:39:  发送指令到K06
+09:00:44:  TCR调测工具 V3.36
+09:00:54:  发送指令到K06
+09:01:34:  TCR调测工具 V3.36
+09:01:39:  发送指令到K06
+09:01:49:  TCR调测工具 V3.36
+09:01:54:  发送指令到K06
+09:01:59:  TCR调测工具 V3.36
+09:02:04:  发送指令到K06
+09:02:19:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:08:39:  eSpace
+09:09:29:  iTunes
+09:09:34:  自动播放
+09:09:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:10:09:  eSpace
+09:10:19:  网络和共享中心
+09:10:24:  网络连接
+09:10:44:  iTunes
+09:10:49:  自动播放
+09:10:54:  网络连接
+09:11:04:  Windows 任务管理器
+09:11:29:  Everything
+09:11:34:  sWITT - Everything
+09:11:39:  Switch - Everything
+09:11:44:  SwitchThen - Everything
+09:12:19:  dist
+09:12:24:  dist (未响应)
+09:12:39:  2019-07-25170130
+09:12:49:  check.py - D:\00-记录\记录\2019-07\2019-07-25170130\check.py (3.7.3)
+09:13:24:  2019-07-25170130
+09:13:29:  新建文本文档.py - D:\00-记录\记录\2019-07\2019-07-25170130\新建文本文档.py (3.7.3)
+09:14:39:  Windows 任务管理器
+09:14:54:  iTunes
+09:14:59:  Windows 任务管理器
+09:15:04:  网络连接
+09:14:39:  Windows 任务管理器
+09:14:54:  iTunes
+09:14:59:  Windows 任务管理器
+09:15:04:  网络连接
+09:15:09:  Windows 任务管理器
+09:15:14:  新建文本文档.py - D:\00-记录\记录\2019-07\2019-07-25170130\新建文本文档.py (3.7.3)
+09:15:45:  *新建文本文档.py - D:\00-记录\记录\2019-07\2019-07-25170130\新建文本文档.py (3.7.3)*
+09:15:50:  新建文本文档.py - D:\00-记录\记录\2019-07\2019-07-25170130\新建文本文档.py (3.7.3)
+09:16:25:  *新建文本文档.py - D:\00-记录\记录\2019-07\2019-07-25170130\新建文本文档.py (3.7.3)*
+09:16:30:  新建文本文档.py - D:\00-记录\记录\2019-07\2019-07-25170130\新建文本文档.py (3.7.3)
+09:18:10:  Windows 任务管理器
+09:18:25:  新建文本文档.py - D:\00-记录\记录\2019-07\2019-07-25170130\新建文本文档.py (3.7.3)
+09:18:55:  Network Flyout
+09:19:00:  本地连接
+09:19:05:  网络连接
+09:19:15:  iTunes
+09:19:20:  网络连接
+09:20:55:  新建文本文档.py - D:\00-记录\记录\2019-07\2019-07-25170130\新建文本文档.py (3.7.3)
+09:21:10:  「开始」菜单
+09:21:20:  计算机管理
+09:21:45:  新版本DRB测试数据
+09:22:05:  计算机管理
+09:22:10:  新建文本文档.py - D:\00-记录\记录\2019-07\2019-07-25170130\新建文本文档.py (3.7.3)
+09:22:15:  2019-07-25170130
+09:22:20:  SwitchThen - Everything
+09:22:40:  fenxi
+09:22:45:  本地磁盘 (D:)
+09:22:50:  压钞托板测试
+09:22:55:  测试DRB
+09:23:10:  警告
+09:23:25:  锁屏状态
+09:23:30:  桌面整理
+09:23:40:  正在准备 再循环
+09:23:45:  桌面整理
+09:23:50:  本地磁盘 (F:)
+09:23:55:  网络连接
+09:24:05:  桌面整理
+09:24:15:  file://\\192.168.28.47\08tcr测试过程记录\系统测试记录\模具2.0系统测试过程数据\系统测试过程数据\DRB测试\新结构DRB钞箱测试。
+09:24:20:  新结构DRB钞箱测试
+09:24:25:  TCRControlCmdDLL
+09:24:30:  20200618
+09:24:40:  压钞托板测试
+09:24:50:  0-测试-DRB
+09:24:55:  删除多个项目
+09:25:00:  20200618
+09:25:05:  0-测试-DRB
+09:25:10:  正在复制 66 个项目(52.4 MB)
+09:25:15:  20200618
+09:25:25:  Decode
+09:25:30:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:25:40:  桌面整理
+09:25:45:  Decode
+09:25:50:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:26:05:  Network Flyout
+09:27:30:  Decode
+09:27:50:  LOG
+09:27:55:  C:\Windows\py.exe
+09:28:00:  LOG
+09:28:10:  TheOneForExcel.xls  [兼容模式] - Excel
+09:29:15:  Microsoft Excel
+09:29:20:  TheOneForExcel.xls  [兼容模式] - Excel
+09:29:45:  LOG
+09:29:50:  Box_2__BTCR-1100190803000001_20200618182913.log - [No filter file] - TextAnalysisTool.NET
+09:29:55:  LOG
+09:30:00:  Box_2__BTCR-1100190803000001_20200618185139.log - DRB.tat* - TextAnalysisTool.NET
+09:28:10:  TheOneForExcel.xls  [兼容模式] - Excel
+09:29:15:  Microsoft Excel
+09:29:20:  TheOneForExcel.xls  [兼容模式] - Excel
+09:29:45:  LOG
+09:29:50:  Box_2__BTCR-1100190803000001_20200618182913.log - [No filter file] - TextAnalysisTool.NET
+09:29:55:  LOG
+09:30:00:  Box_2__BTCR-1100190803000001_20200618185139.log - DRB.tat* - TextAnalysisTool.NET
+09:30:10:  K64_BTCR-1100190803000001_20200618185139
+09:30:15:  Box_2__BTCR-1100190803000001_20200618185241.log - DRB.tat* - TextAnalysisTool.NET
+09:30:25:  K64_BTCR-1100190803000001_20200618185139
+09:30:30:  LOG
+09:30:35:  K64_BTCR-1100190803000001_20200618185423
+09:30:45:  Box_2__BTCR-1100190803000001_20200618185423.log - DRB.tat* - TextAnalysisTool.NET
+09:30:50:  K64_BTCR-1100190803000001_20200618185517
+09:30:55:  Box_2__BTCR-1100190803000001_20200618185622.log - DRB.tat* - TextAnalysisTool.NET
+09:31:25:  LOG
+09:31:30:  TheOneForExcel.xls  [兼容模式] - Excel
+09:32:30:  LOG
+09:32:35:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:34:20:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:37:15:  Box_2__BTCR-1100190803000001_20200618185622.log - DRB.tat* - TextAnalysisTool.NET
+09:38:50:  Add Filter
+09:38:55:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:39:05:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:39:10:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:39:25:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:40:05:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:40:30:  LOG
+09:40:40:  K64_BTCR-1100190803000001_20200618184941
+09:40:45:  K64_BTCR-1100190803000001_20200618185139
+09:40:50:  LOG
+09:41:00:  K64_BTCR-1100190803000001_20200618185928
+09:41:05:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)
+09:41:10:  *CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)*
+09:41:15:  C:\Windows\py.exe
+09:41:20:  TheOneForExcel.xls  [兼容模式] - Excel
+09:41:30:  Microsoft Excel
+09:41:35:  TheOneForExcel.xls  [兼容模式] - Excel
+09:41:40:  Microsoft Excel
+09:41:45:  TheOneForExcel.xls  [兼容模式] - Excel
+09:42:35:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:44:05:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:44:35:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:44:40:  C:\Windows\py.exe
+09:44:45:  *Python 3.7.3 Shell*
+09:44:50:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)
+09:44:05:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:44:35:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:44:40:  C:\Windows\py.exe
+09:44:45:  *Python 3.7.3 Shell*
+09:44:50:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)
+09:55:55:  LOG
+09:56:05:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:56:30:  C:\Windows\py.exe
+09:56:35:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)
+09:56:40:  Python 3.7.3 Shell
+09:56:50:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:56:55:  Python 3.7.3 Shell
+09:57:25:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:58:10:  Python 3.7.3 Shell
+09:58:20:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:58:30:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:58:45:  This is an unregistered copy
+09:58:50:  Python 3.7.3 Shell
+09:58:10:  Python 3.7.3 Shell
+09:58:20:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:58:30:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:58:45:  This is an unregistered copy
+09:58:50:  Python 3.7.3 Shell
+10:00:15:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:00:20:  *Python 3.7.3 Shell*
+10:00:25:  Python 3.7.3 Shell
+10:01:05:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:01:35:  Python 3.7.3 Shell
+10:01:45:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:02:20:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:02:45:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:02:50:  LOG
+10:02:55:  TheOneForExcel.xls  [兼容模式] - Excel
+10:04:05:  TheOneForExcel.xls  [工作组]  [兼容模式] - Excel
+10:04:15:  TheOneForExcel.xls  [兼容模式] - Excel
+10:05:05:  Box_2__BTCR-1100190803000001_20200618185622.log - DRB.tat* - TextAnalysisTool.NET
+10:05:15:  LOG
+10:05:20:  K64_BTCR-1100190803000001_20200618190046
+10:05:25:  Box_2__BTCR-1100190803000001_20200618190046.log - DRB.tat* - TextAnalysisTool.NET
+10:05:35:  K64_BTCR-1100190803000001_20200618191814
+10:05:40:  Box_2__BTCR-1100190803000001_20200618192011.log - DRB.tat* - TextAnalysisTool.NET
+10:05:45:  LOG
+10:05:50:  K64_BTCR-1100190803000001_20200618192224
+10:05:55:  Box_2__BTCR-1100190803000001_20200618192224.log - DRB.tat* - TextAnalysisTool.NET
+10:06:00:  K64_BTCR-1100190803000001_20200618192614
+10:06:05:  K64_BTCR-1100190803000001_20200618192749
+10:06:10:  Box_2__BTCR-1100190803000001_20200618192749.log - DRB.tat* - TextAnalysisTool.NET
+10:06:20:  LOG
+10:06:25:  TheOneForExcel.xls  [兼容模式] - Excel
+10:06:30:  LOG
+10:06:40:  K64_BTCR-1100190803000001_20200618192011
+10:06:50:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)
+10:07:15:  *CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)*
+10:07:25:  *Python 3.7.3 Shell*
+10:07:30:  *CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)*
+10:07:40:  *Python 3.7.3 Shell*
+10:07:50:  Kill?
+10:07:55:  *CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)*
+10:08:15:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)
+10:08:20:  *Python 3.7.3 Shell*
+10:08:35:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)
+10:08:40:  *CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)*
+10:08:45:  *Python 3.7.3 Shell*
+10:08:50:  Microsoft Excel
+10:08:55:  C:\Windows\py.exe
+10:09:00:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)
+10:09:10:  TheOneForExcel.xls  [兼容模式] - Excel
+10:09:20:  K64_BTCR-1100190803000001_20200618185139
+10:09:25:  Box_2__BTCR-1100190803000001_20200618185139.log - DRB.tat* - TextAnalysisTool.NET
+10:09:35:  TheOneForExcel.xls  [兼容模式] - Excel
+10:10:05:  TheOneForExcel.xls  [工作组]  [兼容模式] - Excel
+10:10:10:  锁屏状态
+10:10:15:  压板测试.xlsx - Excel
+10:10:25:  移动或复制工作表
+10:10:30:  Microsoft Excel
+10:10:35:  压板测试.xlsx - Excel
+10:10:40:  TheOneForExcel.xls  [兼容模式] - Excel
+10:11:05:  锁屏状态
+10:11:10:  K64_BTCR-1100190803000001_20200618185139
+10:11:15:  K64-_BTCR-1100190803000001_20200618185139.log - DRB.tat* - TextAnalysisTool.NET
+10:11:20:  K64_BTCR-1100190803000001_20200618191443
+10:11:25:  K64-_BTCR-1100190803000001_20200618185622.log - DRB.tat* - TextAnalysisTool.NET
+10:11:45:  压板测试.xlsx - Excel
+10:12:30:  TheOneForExcel.xls  [兼容模式] - Excel
+10:16:55:  Microsoft Excel
+10:17:00:  TheOneForExcel.xls  [兼容模式] - Excel
+10:17:50:  条件格式规则管理器
+10:17:55:  TheOneForExcel.xls  [兼容模式] - Excel
+10:18:05:  条件格式规则管理器
+10:18:15:  TheOneForExcel.xls  [兼容模式] - Excel
+10:18:45:  计算器
+10:19:00:  TheOneForExcel.xls  [兼容模式] - Excel
+10:19:25:  计算器
+10:19:35:  TheOneForExcel.xls  [兼容模式] - Excel
+10:20:05:  条件格式规则管理器
+10:20:10:  TheOneForExcel.xls  [兼容模式] - Excel
+10:23:40:  更新值: DRB上腔分钞情况.xlsx
+10:23:45:  TheOneForExcel.xls  [兼容模式] - Excel
+10:25:40:  设置单元格格式
+10:25:45:  TheOneForExcel.xls  [兼容模式] - Excel
+10:26:25:  20200618
+10:26:30:  20200620
+10:26:35:  TheOneForExcel.xls  [兼容模式] - Excel
+10:26:50:  Microsoft Excel
+10:26:55:  TheOneForExcel.xls  [兼容模式] - Excel
+10:27:05:  20200620
+10:27:10:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:28:05:  Decode
+10:28:10:  LOG
+10:28:15:  20200620
+10:28:20:  C:\Windows\py.exe
+10:28:25:  LOG
+10:28:30:  TheOneForExcel.xls  [兼容模式] - Excel
+10:28:35:  LOG
+10:28:40:  TheOneForExcel2.xls  [兼容模式] - Excel
+10:29:35:  移动或复制工作表
+10:29:40:  TheOneForExcel.xls  [兼容模式] - Excel
+10:28:05:  Decode
+10:28:10:  LOG
+10:28:15:  20200620
+10:28:20:  C:\Windows\py.exe
+10:28:25:  LOG
+10:28:30:  TheOneForExcel.xls  [兼容模式] - Excel
+10:28:35:  LOG
+10:28:40:  TheOneForExcel2.xls  [兼容模式] - Excel
+10:29:35:  移动或复制工作表
+10:29:40:  TheOneForExcel.xls  [兼容模式] - Excel
+10:30:30:  Microsoft Excel
+10:30:35:  TheOneForExcel.xls  [兼容模式] - Excel
+10:31:05:  Microsoft Excel
+10:31:10:  TheOneForExcel.xls  [兼容模式] - Excel
+10:31:20:  Microsoft Excel
+10:31:25:  TheOneForExcel.xls  [兼容模式] - Excel
+10:41:40:  设置单元格格式
+10:41:45:  TheOneForExcel.xls  [兼容模式] - Excel
+10:42:15:  TheOneForExcel2.xls  [工作组]  [兼容模式] - Excel
+10:42:20:  LOG
+10:42:25:  0-测试-DRB
+10:42:50:  log8#
+10:42:55:  TCRControlCmdDLL
+10:43:00:  20200620
+10:43:05:  TheOneForExcel2.xls  [工作组]  [兼容模式] - Excel
+10:43:10:  20200620
+10:43:15:  TCRControlCmdDLL
+10:43:25:  本地磁盘 (D:)
+10:43:30:  正在复制 211 个项目(254 MB)
+10:43:35:  TheOneForExcel.xls  [兼容模式] - Excel
+10:44:00:  新建文件夹
+10:44:05:  20200619
+10:44:25:  Decode
+10:44:30:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:44:45:  TheOneForExcel.xls  [兼容模式] - Excel
+10:44:05:  20200619
+10:44:25:  Decode
+10:44:30:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:44:45:  TheOneForExcel.xls  [兼容模式] - Excel
+10:45:45:  Decode
+10:46:05:  iTunes
+10:46:10:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:50:15:  Decode
+10:51:15:  LOG
+10:51:20:  0-测试-DRB
+10:51:25:  20200619
+10:51:30:  C:\Windows\py.exe
+10:51:45:  TheOneForExcel.xls  [兼容模式] - Excel
+10:51:55:  Microsoft Excel
+10:52:00:  激活
+10:52:10:  TheOneForExcel333.xls  [兼容模式] - Excel
+10:54:01:  TheOneForExcel333.xls  [工作组]  [兼容模式] - Excel
+10:54:16:  TheOneForExcel333.xls  [兼容模式] - Excel
+10:55:41:  TheOneForExcel333.xls  [工作组]  [兼容模式] - Excel
+10:55:46:  TheOneForExcel333.xls  [兼容模式] - Excel
+10:55:56:  Microsoft Excel
+10:56:01:  TheOneForExcel333.xls  [兼容模式] - Excel
+10:57:06:  TheOneForExcel333.xls  [工作组]  [兼容模式] - Excel
+10:57:26:  TheOneForExcel333.xls  [兼容模式] - Excel
+10:57:36:  TheOneForExcel333.xls  [工作组]  [兼容模式] - Excel
+10:57:41:  TheOneForExcel333.xls  [兼容模式] - Excel
+10:57:51:  Microsoft Excel
+10:57:56:  TheOneForExcel333.xls  [兼容模式] - Excel
+10:58:31:  Microsoft Excel
+10:58:36:  TheOneForExcel333.xls  [兼容模式] - Excel
+10:58:51:  TheOneForExcel333.xls  [工作组]  [兼容模式] - Excel
+10:58:56:  激活
+10:59:01:  TheOneForExcel333.xls  [兼容模式] - Excel
+10:59:11:  Microsoft Excel
+10:59:16:  TheOneForExcel333.xls  [兼容模式] - Excel
+10:59:31:  TheOneForExcel333.xls  [工作组]  [兼容模式] - Excel
+10:59:36:  移动或复制工作表
+10:59:41:  TheOneForExcel.xls  [兼容模式] - Excel
+10:59:46:  于斌1
+10:58:31:  Microsoft Excel
+10:58:36:  TheOneForExcel333.xls  [兼容模式] - Excel
+10:58:51:  TheOneForExcel333.xls  [工作组]  [兼容模式] - Excel
+10:58:56:  激活
+10:59:01:  TheOneForExcel333.xls  [兼容模式] - Excel
+10:59:11:  Microsoft Excel
+10:59:16:  TheOneForExcel333.xls  [兼容模式] - Excel
+10:59:31:  TheOneForExcel333.xls  [工作组]  [兼容模式] - Excel
+10:59:36:  移动或复制工作表
+10:59:41:  TheOneForExcel.xls  [兼容模式] - Excel
+10:59:46:  于斌1
+11:00:16:  TheOneForExcel.xls  [兼容模式] - Excel
+11:00:31:  TheOneForExcel.xls  [工作组]  [兼容模式] - Excel
+11:00:36:  TheOneForExcel.xls  [兼容模式] - Excel
+11:09:56:  TheOneForExcel.xls  [工作组]  [兼容模式] - Excel
+11:10:01:  TheOneForExcel.xls  [兼容模式] - Excel
+11:11:16:  K64_BTCR-1100190803000001_20200619160909
+11:11:21:  K64-_BTCR-1100190803000001_20200619160909.log - DRB.tat* - TextAnalysisTool.NET
+11:11:31:  TheOneForExcel.xls  [兼容模式] - Excel
+11:11:36:  eSpace
+11:11:41:  荆文波
+11:12:01:  TheOneForExcel.xls  [兼容模式] - Excel
+11:15:21:  压钞托板测试
+11:15:26:  Decode
+11:15:31:  K64_BTCR-1100190803000001_20200618185622
+11:15:36:  K64-_BTCR-1100190803000001_20200618185622.log - DRB.tat* - TextAnalysisTool.NET
+11:15:46:  Box_2__BTCR-1100190803000001_20200618185622.log - DRB.tat* - TextAnalysisTool.NET
+11:16:26:  TheOneForExcel.xls  [兼容模式] - Excel
+11:17:01:  TheOneForExcel333.xls  [工作组]  [兼容模式] - Excel
+11:17:06:  TheOneForExcel2.xls  [兼容模式] - Excel
+11:17:26:  TheOneForExcel.xls  [兼容模式] - Excel
+11:17:36:  K64_BTCR-1100190803000001_20200618185622
+11:17:41:  LOG
+11:17:46:  20200620
+11:17:51:  K64_BTCR-1100190803000001_20200620082405
+11:17:56:  Box_2__BTCR-1100190803000001_20200620082405.log - DRB.tat* - TextAnalysisTool.NET
+11:18:16:  K64-_BTCR-1100190803000001_20200620082405.log - DRB.tat* - TextAnalysisTool.NET
+11:18:21:  LOG
+11:18:26:  K64-_BTCR-1100190803000001_20200620082235.log - DRB.tat* - TextAnalysisTool.NET
+11:18:41:  TheOneForExcel.xls  [兼容模式] - Excel
+11:18:51:  LOG
+11:19:01:  TheOneForExcel.xls  [兼容模式] - Excel
+11:19:06:  LOG
+11:19:11:  K64_BTCR-1100190803000001_20200620082550
+11:19:16:  Box_2__BTCR-1100190803000001_20200620082550.log - DRB.tat* - TextAnalysisTool.NET
+11:19:36:  LOG
+11:19:41:  Save On Close
+11:19:46:  C:\Windows\py.exe
+11:19:51:  Microsoft Excel
+11:20:01:  LOG
+11:20:06:  TheOneForExcel3.xls  [兼容模式] - Excel
+11:20:46:  TheOneForExcel.xls  [兼容模式] - Excel
+11:20:56:  TheOneForExcel3.xls  [兼容模式] - Excel
+11:21:01:  LOG
+11:21:06:  K64_BTCR-1100190803000001_20200620082550
+11:21:11:  TheOneForExcel3.xls  [兼容模式] - Excel
+11:21:26:  Decode
+11:21:31:  K64_BTCR-1100190803000001_20200620082235
+11:21:36:  TheOneForExcel3.xls  [兼容模式] - Excel
+11:22:01:  Box_2__BTCR-1100190803000001_20200620082550.log - DRB.tat* - TextAnalysisTool.NET
+11:22:16:  TheOneForExcel3.xls  [兼容模式] - Excel
+11:22:21:  TheOneForExcel2.xls  [兼容模式] - Excel
+11:22:26:  TheOneForExcel.xls  [兼容模式] - Excel
+11:22:41:  K64_BTCR-1100190803000001_20200620083405
+11:22:46:  K64_BTCR-1100190803000001_20200620082844
+11:22:51:  K64-_BTCR-1100190803000001_20200620082844.log - DRB.tat* - TextAnalysisTool.NET
+11:22:56:  LOG
+11:23:01:  K64-_BTCR-1100190803000001_20200620082844.log - DRB.tat* - TextAnalysisTool.NET
+11:23:06:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+11:23:11:  K64_BTCR-1100190803000001_20200620083405
+11:23:16:  Box_2__BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+11:24:11:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+11:24:21:  TheOneForExcel.xls  [兼容模式] - Excel
+11:24:36:  LOG
+11:24:46:  K64_BTCR-1100190803000001_20200620084313
+11:24:51:  K64-_BTCR-1100190803000001_20200620084313.log - DRB.tat* - TextAnalysisTool.NET
+11:25:06:  K64_BTCR-1100190803000001_20200620084313
+11:25:11:  TheOneForExcel333.xls  [工作组]  [兼容模式] - Excel
+11:25:16:  TheOneForExcel.xls  [兼容模式] - Excel
+11:28:41:  K64_BTCR-1100190803000001_20200620084313
+11:28:46:  LOG
+11:29:16:  Microsoft Excel
+11:29:21:  TheOneForExcel.xls  [兼容模式] - Excel
+11:29:31:  LOG
+11:29:41:  K64-_BTCR-1100190803000001_20200619093029.log - DRB.tat* - TextAnalysisTool.NET
+11:29:56:  K64_BTCR-1100190803000001_20200619093029
+11:30:01:  Box_3__BTCR-1100190803000001_20200619093029.log - DRB.tat* - TextAnalysisTool.NET
+11:28:41:  K64_BTCR-1100190803000001_20200620084313
+11:28:46:  LOG
+11:29:16:  Microsoft Excel
+11:29:21:  TheOneForExcel.xls  [兼容模式] - Excel
+11:29:31:  LOG
+11:29:41:  K64-_BTCR-1100190803000001_20200619093029.log - DRB.tat* - TextAnalysisTool.NET
+11:29:56:  K64_BTCR-1100190803000001_20200619093029
+11:30:01:  Box_3__BTCR-1100190803000001_20200619093029.log - DRB.tat* - TextAnalysisTool.NET
+11:30:11:  K64-_BTCR-1100190803000001_20200619093029.log - DRB.tat* - TextAnalysisTool.NET
+11:30:21:  TheOneForExcel.xls  [兼容模式] - Excel
+11:30:36:  LOG
+11:30:51:  Box_3__BTCR-1100190803000001_20200619094245.log - DRB.tat* - TextAnalysisTool.NET
+11:31:01:  K64-_BTCR-1100190803000001_20200619094245.log - DRB.tat* - TextAnalysisTool.NET
+11:31:21:  TheOneForExcel.xls  [兼容模式] - Excel
+11:31:26:  LOG
+11:31:41:  Box_3__BTCR-1100190803000001_20200619101043.log - DRB.tat* - TextAnalysisTool.NET
+11:31:51:  K64_BTCR-1100190803000001_20200619101043
+11:31:56:  K64-_BTCR-1100190803000001_20200619101043.log - DRB.tat* - TextAnalysisTool.NET
+11:32:26:  TheOneForExcel.xls  [兼容模式] - Excel
+11:32:36:  LOG
+11:32:51:  K64_BTCR-1100190803000001_20200619131456
+11:32:56:  Box_3__BTCR-1100190803000001_20200619131456.log - DRB.tat* - TextAnalysisTool.NET
+11:33:06:  K64-_BTCR-1100190803000001_20200619131456.log - DRB.tat* - TextAnalysisTool.NET
+11:33:21:  TheOneForExcel.xls  [兼容模式] - Excel
+11:33:31:  LOG
+11:33:36:  Box_3__BTCR-1100190803000001_20200619132133.log - DRB.tat* - TextAnalysisTool.NET
+11:33:46:  K64-_BTCR-1100190803000001_20200619132133.log - DRB.tat* - TextAnalysisTool.NET
+11:33:56:  TheOneForExcel.xls  [兼容模式] - Excel
+11:34:06:  LOG
+11:34:11:  K64-_BTCR-1100190803000001_20200619132133.log - DRB.tat* - TextAnalysisTool.NET
+11:34:16:  K64_BTCR-1100190803000001_20200619140654
+11:34:21:  K64-_BTCR-1100190803000001_20200619140654.log - DRB.tat* - TextAnalysisTool.NET
+11:34:26:  TheOneForExcel.xls  [兼容模式] - Excel
+11:34:31:  K64_BTCR-1100190803000001_20200619140654
+11:34:36:  LOG
+11:34:41:  K64_BTCR-1100190803000001_20200619145202
+11:34:46:  Box_3__BTCR-1100190803000001_20200619145202.log - DRB.tat* - TextAnalysisTool.NET
+11:34:51:  K64-_BTCR-1100190803000001_20200619145202.log - DRB.tat* - TextAnalysisTool.NET
+11:34:56:  锁屏状态
+11:35:01:  K64-_BTCR-1100190803000001_20200619145202.log - DRB.tat* - TextAnalysisTool.NET
+11:35:06:  TheOneForExcel.xls  [兼容模式] - Excel
+11:35:11:  LOG
+11:35:16:  Box_3__BTCR-1100190803000001_20200619151142.log - DRB.tat* - TextAnalysisTool.NET
+11:35:21:  K64_BTCR-1100190803000001_20200619151142
+11:35:26:  K64-_BTCR-1100190803000001_20200619151142.log - DRB.tat* - TextAnalysisTool.NET
+11:35:36:  TheOneForExcel.xls  [兼容模式] - Excel
+11:42:16:  Microsoft Excel - 兼容性检查器
+11:42:21:  TheOneForExcel.xls  [兼容模式] - Excel
+11:45:31:  LOG
+11:45:41:  K64_BTCR-1100190803000001_20200619101043
+11:45:46:  Box_3__BTCR-1100190803000001_20200619101043.log - DRB.tat* - TextAnalysisTool.NET
+11:46:01:  锁屏状态
+13:18:32:  荆文波
+13:18:37:  【周报】TCR/TCR（DRB）和CRS周报更新
+13:18:57:  TheOneForExcel.xls  [兼容模式] - Excel
+13:19:17:  Box_3__BTCR-1100190803000001_20200619101043.log - DRB.tat* - TextAnalysisTool.NET
+13:19:32:  K64_BTCR-1100190803000001_20200619101043
+13:19:37:  K64_BTCR-1100190803000001_20200619101333
+13:19:42:  Box_3__BTCR-1100190803000001_20200619101333.log - DRB.tat* - TextAnalysisTool.NET
+13:19:57:  K64_BTCR-1100190803000001_20200619101333
+13:20:27:  Box_3__BTCR-1100190803000001_20200619101333.log - DRB.tat* - TextAnalysisTool.NET
+13:20:42:  LOG
+13:20:47:  TheOneForExcel333.xls  [工作组]  [兼容模式] - Excel
+13:20:52:  TheOneForExcel333.xls  [兼容模式] - Excel
+13:21:07:  TheOneForExcel.xls  [兼容模式] - Excel
+13:21:12:  C:\Windows\py.exe
+13:21:22:  锁屏状态
+13:21:27:  TheOneForExcel.xls  [兼容模式] - Excel
+13:21:32:  锁屏状态
+13:21:37:  激活
+13:21:42:  TheOneForExce33l.xls  [兼容模式] - Excel
+13:22:07:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+13:22:12:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:23:57:  D:\压钞托板测试\0-测试-DRB\20200618\Decode\LOG\CashboxDatePur-V1.7.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:27:07:  Microsoft Excel - 兼容性检查器
+13:27:12:  LOG
+13:27:17:  C:\Windows\py.exe
+13:27:27:  LOG
+13:27:37:  TheOneForExce33l.xls  [兼容模式] - Excel
+13:28:02:  锁屏状态
+13:28:07:  新建文件夹
+13:28:12:  Decode
+13:28:17:  LOG
+13:28:27:  文件正在使用
+13:28:32:  LOG
+13:28:37:  C:\Windows\py.exe
+13:28:42:  LOG
+13:28:47:  Microsoft Excel
+13:28:52:  LOG
+13:29:02:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:07:  新建文件夹
+13:28:12:  Decode
+13:28:17:  LOG
+13:28:27:  文件正在使用
+13:28:32:  LOG
+13:28:37:  C:\Windows\py.exe
+13:28:42:  LOG
+13:28:47:  Microsoft Excel
+13:28:52:  LOG
+13:29:02:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:30:07:  锁屏状态
+13:30:12:  LOG
+13:30:17:  TheOneForExcel22.xls  [兼容模式] - Excel
+13:30:22:  激活
+13:30:27:  TheOneForExcel22.xls  [兼容模式] - Excel
+13:30:37:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:31:37:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:31:42:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:31:47:  LOG
+13:31:52:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)
+13:32:02:  *Python 3.7.3 Shell*
+13:32:17:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)
+13:32:52:  *CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)*
+13:33:12:  *Python 3.7.3 Shell*
+13:33:17:  Python 3.7.3 Shell
+13:33:27:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)
+13:33:32:  *CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)*
+13:33:37:  *Python 3.7.3 Shell*
+13:34:02:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)
+13:34:07:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:34:57:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:35:17:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)
+13:35:22:  C:\Windows\py.exe
+13:35:37:  TheOneForExcel.xls  [兼容模式] - Excel
+13:36:47:  Box_3__BTCR-1100190803000001_20200619101333.log - DRB.tat* - TextAnalysisTool.NET
+13:37:37:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:37:57:  Box_3__BTCR-1100190803000001_20200619101333.log - DRB.tat* - TextAnalysisTool.NET
+13:38:37:  Edit Filter
+13:38:42:  Box_3__BTCR-1100190803000001_20200619101333.log - DRB.tat* - TextAnalysisTool.NET
+13:39:12:  LOG
+13:39:27:  K64_BTCR-1100190803000001_20200619101333
+13:39:32:  C:\Windows\py.exe
+13:39:37:  TheOneForExcel.xls  [兼容模式] - Excel
+13:39:42:  锁屏状态
+13:39:47:  TheOneForExcel.xls  [兼容模式] - Excel
+13:39:57:  TheOneForExcel333.xls  [兼容模式] - Excel
+13:40:02:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:40:07:  K64_BTCR-1100190803000001_20200619101333
+13:40:12:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101333\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:40:32:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101333\CashboxDatePur-V1.7.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:40:37:  K64_BTCR-1100190803000001_20200619101333
+13:40:42:  *Python 3.7.3 Shell*
+13:40:47:  Kill?
+13:40:52:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101333\CashboxDatePur-V1.7.py (3.7.3)
+13:41:02:  Python 3.7.3 Shell
+13:41:07:  *Python 3.7.3 Shell*
+13:41:12:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101333\CashboxDatePur-V1.7.py (3.7.3)
+13:43:22:  *Python 3.7.3 Shell*
+13:43:27:  Kill?
+13:43:32:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101333\CashboxDatePur-V1.7.py (3.7.3)
+13:43:52:  *CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101333\CashboxDatePur-V1.7.py (3.7.3)*
+13:44:02:  Save Before Run or Check
+13:44:07:  *Python 3.7.3 Shell*
+13:44:12:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101333\CashboxDatePur-V1.7.py (3.7.3)
+13:44:27:  *CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101333\CashboxDatePur-V1.7.py (3.7.3)*
+13:44:32:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101333\CashboxDatePur-V1.7.py (3.7.3)
+13:44:37:  LOG
+13:44:42:  C:\Windows\py.exe
+13:44:52:  LOG
+13:44:57:  激活
+13:45:02:  TheOneForExcel.xls  [兼容模式] - Excel
+13:44:07:  *Python 3.7.3 Shell*
+13:44:12:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101333\CashboxDatePur-V1.7.py (3.7.3)
+13:44:27:  *CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101333\CashboxDatePur-V1.7.py (3.7.3)*
+13:44:32:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101333\CashboxDatePur-V1.7.py (3.7.3)
+13:44:37:  LOG
+13:44:42:  C:\Windows\py.exe
+13:44:52:  LOG
+13:44:57:  激活
+13:45:02:  TheOneForExcel.xls  [兼容模式] - Excel
+13:45:27:  TheOneForExcel333.xls  [兼容模式] - Excel
+13:45:32:  TheOneForExcel.xls  [兼容模式] - Excel
+13:46:17:  LOG
+13:46:32:  TheOneForExcel.xls  [兼容模式] - Excel
+13:46:37:  K64_BTCR-1100190803000001_20200619101043
+13:46:42:  LOG
+13:46:52:  K64_BTCR-1100190803000001_20200619101043
+13:46:57:  C:\Windows\py.exe
+13:47:02:  K64_BTCR-1100190803000001_20200619101043
+13:47:07:  TheOneForExcel.xls  [兼容模式] - Excel
+13:47:17:  K64_BTCR-1100190803000001_20200619101043
+13:47:22:  Box_3__BTCR-1100190803000001_20200619101043.log - DRB.tat* - TextAnalysisTool.NET
+13:47:57:  K64_BTCR-1100190803000001_20200619101043
+13:48:02:  Python 3.7.3 Shell
+13:48:12:  Add Filter
+13:48:22:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101043\CashboxDatePur-V1.7.py (3.7.3)
+13:48:57:  打开方式
+13:49:02:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101043\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:49:37:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101043\CashboxDatePur-V1.7.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:50:32:  K64_BTCR-1100190803000001_20200619101043
+13:50:37:  C:\Windows\py.exe
+13:50:42:  TheOneForExcel.xls  [兼容模式] - Excel
+13:50:47:  TheOneForExcel333.xls  [兼容模式] - Excel
+13:50:52:  LOG
+13:50:57:  C:\Windows\py.exe
+13:51:17:  LOG
+13:51:22:  TheOneForExcel.xls  [兼容模式] - Excel
+13:51:57:  TheOneForExcel333.xls  [兼容模式] - Excel
+13:52:22:  TheOneForExcel.xls  [兼容模式] - Excel
+13:52:27:  LOG
+13:52:32:  K64_BTCR-1100190803000001_20200619085823
+13:52:37:  Box_3__BTCR-1100190803000001_20200619085823.log - DRB.tat* - TextAnalysisTool.NET
+13:53:07:  K64_BTCR-1100190803000001_20200619085823
+13:53:12:  K64_BTCR-1100190803000001_20200619085645
+13:53:17:  Box_3__BTCR-1100190803000001_20200619085645.log - DRB.tat* - TextAnalysisTool.NET
+13:53:22:  K64_BTCR-1100190803000001_20200619085645
+13:53:27:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101043\CashboxDatePur-V1.7.py (3.7.3)
+13:53:52:  *CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101043\CashboxDatePur-V1.7.py (3.7.3)*
+13:53:57:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101043\CashboxDatePur-V1.7.py (3.7.3)
+13:54:12:  TheOneForExcel.xls  [兼容模式] - Excel
+13:54:17:  K64_BTCR-1100190803000001_20200619085645
+13:54:22:  K64_BTCR-1100190803000001_20200619085823
+13:54:27:  Box_3__BTCR-1100190803000001_20200619085823.log - DRB.tat* - TextAnalysisTool.NET
+13:54:32:  K64_BTCR-1100190803000001_20200619085645
+13:54:37:  Box_3__BTCR-1100190803000001_20200619085645.log - DRB.tat* - TextAnalysisTool.NET
+13:54:47:  TheOneForExcel.xls  [兼容模式] - Excel
+13:54:57:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:55:07:  TheOneForExcel.xls  [兼容模式] - Excel
+13:55:37:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\K64_BTCR-1100190803000001_20200619101333\CashboxDatePur-V1.7.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:55:42:  LOG
+13:56:07:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py (CRS) - Sublime Text (UNREGISTERED)
+13:56:27:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py • (CRS) - Sublime Text (UNREGISTERED)
+13:56:42:  LOG
+13:56:47:  CashboxDatePur-V1.7.py - D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py (3.7.3)
+13:57:12:  C:\Windows\py.exe
+13:57:27:  LOG
+13:57:32:  TheOneForExcel.xls  [兼容模式] - Excel
+13:57:47:  LOG
+13:57:52:  Box_3__BTCR-1100190803000001_20200619085645.log - DRB.tat* - TextAnalysisTool.NET
+13:58:02:  TheOneForExcel.xls  [兼容模式] - Excel
+13:58:17:  Box_3__BTCR-1100190803000001_20200619085645.log - DRB.tat* - TextAnalysisTool.NET
+13:58:32:  TheOneForExcel.xls  [兼容模式] - Excel
+13:58:47:  LOG
+13:58:52:  Box_3__BTCR-1100190803000001_20200619085823.log - DRB.tat* - TextAnalysisTool.NET
+13:59:02:  TheOneForExcel.xls  [兼容模式] - Excel
+13:59:07:  TheOneForExcel333.xls  [兼容模式] - Excel
+13:59:17:  TheOneForExcel.xls  [兼容模式] - Excel
+13:58:17:  Box_3__BTCR-1100190803000001_20200619085645.log - DRB.tat* - TextAnalysisTool.NET
+13:58:32:  TheOneForExcel.xls  [兼容模式] - Excel
+13:58:47:  LOG
+13:58:52:  Box_3__BTCR-1100190803000001_20200619085823.log - DRB.tat* - TextAnalysisTool.NET
+13:59:02:  TheOneForExcel.xls  [兼容模式] - Excel
+13:59:07:  TheOneForExcel333.xls  [兼容模式] - Excel
+13:59:17:  TheOneForExcel.xls  [兼容模式] - Excel
+14:01:02:  Microsoft Excel
+14:01:07:  TheOneForExcel.xls  [兼容模式] - Excel
+14:01:17:  TheOneForExcel.xls  [工作组]  [兼容模式] - Excel
+14:01:22:  TheOneForExcel.xls  [兼容模式] - Excel
+14:01:37:  Microsoft Excel
+14:01:42:  TheOneForExcel.xls  [兼容模式] - Excel
+14:02:07:  Microsoft Excel
+14:02:12:  TheOneForExcel.xls  [兼容模式] - Excel
+14:04:32:  Microsoft Excel
+14:04:37:  TheOneForExcel.xls  [兼容模式] - Excel
+14:05:02:  TheOneForExcel333.xls  [兼容模式] - Excel
+14:05:07:  新建文件夹
+14:05:12:  0-测试-DRB
+14:05:17:  TheOneForExcel.xls  [兼容模式] - Excel
+14:05:32:  0-测试-DRB
+14:05:37:  「开始」菜单
+14:05:47:  Excel
+14:05:57:  锁屏状态
+14:06:22:  本地磁盘 (D:)
+14:06:42:  压钞托板测试
+14:06:47:  LOG
+14:06:52:  TheOneForExcel.xls  [兼容模式] - Excel
+14:07:02:  20200619
+14:07:12:  Microsoft Excel
+14:07:17:  LOG
+14:07:22:  10#.xls  [兼容模式] - Excel
+14:07:37:  LOG
+14:07:42:  K64-_BTCR-1100190803000001_20200619085823.log - DRB.tat* - TextAnalysisTool.NET
+14:07:52:  K64_BTCR-1100190803000001_20200619085645
+14:07:57:  K64-_BTCR-1100190803000001_20200619085645.log - DRB.tat* - TextAnalysisTool.NET
+14:08:07:  10#.xls  [兼容模式] - Excel
+14:08:12:  K64-_BTCR-1100190803000001_20200619085645.log - DRB.tat* - TextAnalysisTool.NET
+14:08:17:  10#.xls  [兼容模式] - Excel
+14:08:28:  激活
+14:08:33:  10#.xls  [兼容模式] - Excel
+14:08:48:  LOG
+14:08:53:  K64_BTCR-1100190803000001_20200619090631
+14:08:58:  K64-_BTCR-1100190803000001_20200619090631.log - DRB.tat* - TextAnalysisTool.NET
+14:09:03:  10#.xls  [兼容模式] - Excel
+14:09:23:  K64_BTCR-1100190803000001_20200619090631
+14:09:28:  LOG
+14:09:38:  K64-_BTCR-1100190803000001_20200619103009.log - DRB.tat* - TextAnalysisTool.NET
+14:10:28:  10#.xls  [兼容模式] - Excel
+14:10:38:  LOG
+14:10:43:  K64_BTCR-1100190803000001_20200619102041
+14:10:53:  10#.xls  [兼容模式] - Excel
+14:10:58:  K64_BTCR-1100190803000001_20200619102041
+14:11:03:  LOG
+14:11:08:  K64_BTCR-1100190803000001_20200619101333
+14:11:13:  K64-_BTCR-1100190803000001_20200619101333.log - DRB.tat* - TextAnalysisTool.NET
+14:11:18:  K64-_BTCR-1100190803000001_20200619101043.log - DRB.tat* - TextAnalysisTool.NET
+14:11:28:  10#.xls  [兼容模式] - Excel
+14:11:33:  K64_BTCR-1100190803000001_20200619094245
+14:11:38:  K64-_BTCR-1100190803000001_20200619094245.log - DRB.tat* - TextAnalysisTool.NET
+14:11:43:  10#.xls  [兼容模式] - Excel
+14:12:08:  K64_BTCR-1100190803000001_20200619094245
+14:12:23:  LOG
+14:12:28:  K64-_BTCR-1100190803000001_20200619094245.log - DRB.tat* - TextAnalysisTool.NET
+14:12:33:  K64-_BTCR-1100190803000001_20200619093029.log - DRB.tat* - TextAnalysisTool.NET
+14:12:38:  10#.xls  [兼容模式] - Excel
+14:12:48:  LOG
+14:12:53:  K64_BTCR-1100190803000001_20200619090824
+14:12:58:  K64-_BTCR-1100190803000001_20200619090631.log - DRB.tat* - TextAnalysisTool.NET
+14:13:03:  10#.xls  [兼容模式] - Excel
+14:13:18:  LOG
+14:13:43:  K64-_BTCR-1100190803000001_20200619132133.log - DRB.tat* - TextAnalysisTool.NET
+14:13:58:  10#.xls  [兼容模式] - Excel
+14:14:03:  LOG
+14:14:08:  K64_BTCR-1100190803000001_20200619140654
+14:14:13:  K64-_BTCR-1100190803000001_20200619140654.log - DRB.tat* - TextAnalysisTool.NET
+14:14:23:  10#.xls  [兼容模式] - Excel
+14:14:33:  LOG
+14:14:38:  K64-_BTCR-1100190803000001_20200619140654.log - DRB.tat* - TextAnalysisTool.NET
+14:14:43:  K64_BTCR-1100190803000001_20200619140654
+14:14:48:  K64-_BTCR-1100190803000001_20200619140654.log - DRB.tat* - TextAnalysisTool.NET
+14:14:53:  10#.xls  [兼容模式] - Excel
+14:14:58:  LOG
+14:15:03:  K64_BTCR-1100190803000001_20200619142215
+14:14:08:  K64_BTCR-1100190803000001_20200619140654
+14:14:13:  K64-_BTCR-1100190803000001_20200619140654.log - DRB.tat* - TextAnalysisTool.NET
+14:14:23:  10#.xls  [兼容模式] - Excel
+14:14:33:  LOG
+14:14:38:  K64-_BTCR-1100190803000001_20200619140654.log - DRB.tat* - TextAnalysisTool.NET
+14:14:43:  K64_BTCR-1100190803000001_20200619140654
+14:14:48:  K64-_BTCR-1100190803000001_20200619140654.log - DRB.tat* - TextAnalysisTool.NET
+14:14:53:  10#.xls  [兼容模式] - Excel
+14:14:58:  LOG
+14:15:03:  K64_BTCR-1100190803000001_20200619142215
+14:15:08:  K64-_BTCR-1100190803000001_20200619142215.log - DRB.tat* - TextAnalysisTool.NET
+14:15:13:  10#.xls  [兼容模式] - Excel
+14:15:28:  LOG
+14:15:33:  K64_BTCR-1100190803000001_20200619143308
+14:15:38:  K64-_BTCR-1100190803000001_20200619143308.log - DRB.tat* - TextAnalysisTool.NET
+14:15:43:  10#.xls  [兼容模式] - Excel
+14:16:08:  LOG
+14:16:13:  K64-_BTCR-1100190803000001_20200619145202.log - DRB.tat* - TextAnalysisTool.NET
+14:16:18:  10#.xls  [兼容模式] - Excel
+14:16:23:  K64_BTCR-1100190803000001_20200619145202
+14:16:28:  K64-_BTCR-1100190803000001_20200619151142.log - DRB.tat* - TextAnalysisTool.NET
+14:16:33:  10#.xls  [兼容模式] - Excel
+14:16:53:  LOG
+14:17:03:  锁屏状态
+14:17:08:  10#.xls  [兼容模式] - Excel
+14:19:08:  TheOneForExcel.xls  [兼容模式] - Excel
+14:19:13:  10#.xls  [兼容模式] - Excel
+14:27:08:  TheOneForExcel.xls  [兼容模式] - Excel
+14:27:18:  10#.xls  [兼容模式] - Excel
+14:27:33:  TheOneForExcel.xls  [兼容模式] - Excel
+14:28:23:  10#.xls  [兼容模式] - Excel
+14:28:28:  TheOneForExcel.xls  [兼容模式] - Excel
+14:29:08:  10#.xls  [兼容模式] - Excel
+14:29:13:  TheOneForExcel.xls  [兼容模式] - Excel
+14:29:38:  10#.xls  [兼容模式] - Excel
+14:29:43:  TheOneForExcel.xls  [兼容模式] - Excel
+14:29:48:  K64_BTCR-1100190803000001_20200619154432
+14:29:53:  LOG
+14:29:58:  Box_3__BTCR-1100190803000001_20200619140654.log - DRB.tat* - TextAnalysisTool.NET
+14:28:23:  10#.xls  [兼容模式] - Excel
+14:28:28:  TheOneForExcel.xls  [兼容模式] - Excel
+14:29:08:  10#.xls  [兼容模式] - Excel
+14:29:13:  TheOneForExcel.xls  [兼容模式] - Excel
+14:29:38:  10#.xls  [兼容模式] - Excel
+14:29:43:  TheOneForExcel.xls  [兼容模式] - Excel
+14:29:48:  K64_BTCR-1100190803000001_20200619154432
+14:29:53:  LOG
+14:29:58:  Box_3__BTCR-1100190803000001_20200619140654.log - DRB.tat* - TextAnalysisTool.NET
+14:30:18:  10#.xls  [兼容模式] - Excel
+14:30:23:  TheOneForExcel.xls  [兼容模式] - Excel
+14:30:33:  10#.xls  [兼容模式] - Excel
+14:30:38:  TheOneForExcel.xls  [兼容模式] - Excel
+14:30:58:  10#.xls  [兼容模式] - Excel
+14:31:03:  TheOneForExcel.xls  [兼容模式] - Excel
+14:31:13:  10#.xls  [兼容模式] - Excel
+14:31:18:  TheOneForExcel.xls  [兼容模式] - Excel
+14:32:38:  10#.xls  [兼容模式] - Excel
+14:32:43:  TheOneForExcel.xls  [兼容模式] - Excel
+14:32:48:  10#.xls  [兼容模式] - Excel
+14:32:53:  TheOneForExcel.xls  [兼容模式] - Excel
+14:33:38:  10#.xls  [兼容模式] - Excel
+14:33:43:  TheOneForExcel.xls  [兼容模式] - Excel
+14:37:48:  TCR调测工具 V3.36
+14:37:53:  发送指令到K06
+14:38:03:  TCR调测工具 V3.36
+14:39:43:  TheOneForExcel.xls  [兼容模式] - Excel
+14:40:33:  10#.xls  [兼容模式] - Excel
+14:40:38:  TheOneForExcel.xls  [兼容模式] - Excel
+14:41:08:  10#.xls  [兼容模式] - Excel
+14:41:13:  TheOneForExcel.xls  [兼容模式] - Excel
+14:41:58:  10#.xls  [兼容模式] - Excel
+14:42:03:  TheOneForExcel.xls  [兼容模式] - Excel
+14:43:08:  10#.xls  [兼容模式] - Excel
+14:43:13:  TheOneForExcel.xls  [兼容模式] - Excel
+14:44:03:  10#.xls  [兼容模式] - Excel
+14:44:13:  TheOneForExcel.xls  [兼容模式] - Excel
+14:44:13:  TheOneForExcel.xls  [兼容模式] - Excel
+14:46:08:  10#.xls  [兼容模式] - Excel
+14:47:18:  10#.xls  [工作组]  [兼容模式] - Excel
+14:47:23:  10#.xls  [兼容模式] - Excel
+14:47:33:  TheOneForExcel.xls  [兼容模式] - Excel
+14:47:48:  Microsoft Excel - 兼容性检查器
+14:47:53:  TheOneForExcel.xls  [兼容模式] - Excel
+14:49:43:  LOG
+14:49:48:  10#.xls  [兼容模式] - Excel
+14:49:53:  20200618
+14:49:58:  删除多个项目
+14:50:03:  Microsoft Excel - 兼容性检查器
+14:50:08:  TheOneForExcel.xls  [兼容模式] - Excel
+14:50:13:  另存为
+14:50:23:  测试压板数据.xls  [兼容模式] - Excel
+14:50:28:  LOG
+14:50:38:  TheOneForExcel.xls  [兼容模式] - Excel
+14:50:48:  Microsoft Excel
+14:50:53:  TheOneForExcel.xls  [兼容模式] - Excel
+14:50:58:  Microsoft Excel
+14:51:03:  TheOneForExcel.xls  [兼容模式] - Excel
+14:51:13:  测试压板数据.xls  [兼容模式] - Excel
+14:51:18:  LOG
+14:51:28:  C:\Windows\py.exe
+14:51:33:  Microsoft Excel
+14:51:38:  LOG
+14:51:43:  激活
+14:51:48:  Microsoft Excel
+14:51:53:  TheOneForExcel.xls  [兼容模式] - Excel
+14:52:33:  测试压板数据.xls  [兼容模式] - Excel
+14:52:38:  TheOneForExcel.xls  [兼容模式] - Excel
+14:52:43:  测试压板数据.xls  [兼容模式] - Excel
+14:52:48:  TheOneForExcel.xls  [兼容模式] - Excel
+14:53:03:  测试压板数据.xls  [兼容模式] - Excel
+14:53:08:  TheOneForExcel.xls  [兼容模式] - Excel
+14:53:18:  测试压板数据.xls  [兼容模式] - Excel
+14:53:23:  TheOneForExcel.xls  [兼容模式] - Excel
+14:53:33:  测试压板数据.xls  [兼容模式] - Excel
+14:54:33:  TheOneForExcel.xls  [兼容模式] - Excel
+14:54:38:  激活
+14:54:43:  测试压板数据.xls  [兼容模式] - Excel
+14:54:48:  TheOneForExcel.xls  [兼容模式] - Excel
+14:54:53:  测试压板数据.xls  [兼容模式] - Excel
+14:57:28:  TheOneForExcel.xls  [兼容模式] - Excel
+14:57:33:  测试压板数据.xls  [兼容模式] - Excel
+14:58:53:  TheOneForExcel.xls  [兼容模式] - Excel
+14:58:58:  测试压板数据.xls  [兼容模式] - Excel
+14:58:53:  TheOneForExcel.xls  [兼容模式] - Excel
+14:58:58:  测试压板数据.xls  [兼容模式] - Excel
+15:00:28:  TheOneForExcel.xls  [兼容模式] - Excel
+15:01:08:  TheOneForExcel.xls  [工作组]  [兼容模式] - Excel
+15:01:13:  测试压板数据.xls  [兼容模式] - Excel
+15:01:33:  Microsoft Excel
+15:01:38:  LOG
+15:01:43:  0-测试-DRB
+15:01:48:  TheOneForExcel.xls  [兼容模式] - Excel
+15:01:53:  移动或复制工作表
+15:02:03:  测试压板数据.xls  [兼容模式] - Excel
+15:02:58:  设置单元格格式
+15:03:03:  测试压板数据.xls  [兼容模式] - Excel
+15:03:23:  LOG
+15:03:28:  20200620
+15:03:33:  K64_BTCR-1100190803000001_20200620081652
+15:03:38:  Box_3__BTCR-1100190803000001_20200620081652.log - DRB.tat* - TextAnalysisTool.NET
+15:03:58:  TheOneForExcel.xls  [兼容模式] - Excel
+15:04:03:  K64_BTCR-1100190803000001_20200620081652
+15:04:08:  K64-_BTCR-1100190803000001_20200620081652.log - DRB.tat* - TextAnalysisTool.NET
+15:04:13:  LOG
+15:04:18:  K64-_BTCR-1100190803000001_20200620081652.log - DRB.tat* - TextAnalysisTool.NET
+15:04:23:  TheOneForExcel.xls  [兼容模式] - Excel
+15:04:43:  测试压板数据.xls  [兼容模式] - Excel
+15:04:58:  LOG
+15:05:03:  K64_BTCR-1100190803000001_20200620082636
+15:05:08:  K64-_BTCR-1100190803000001_20200620082636.log - DRB.tat* - TextAnalysisTool.NET
+15:05:33:  K64_BTCR-1100190803000001_20200620082756
+15:05:38:  K64-_BTCR-1100190803000001_20200620082756.log - DRB.tat* - TextAnalysisTool.NET
+15:05:43:  Box_2__BTCR-1100190803000001_20200620082756.log - DRB.tat* - TextAnalysisTool.NET
+15:05:53:  K64_BTCR-1100190803000001_20200620082636
+15:05:58:  Box_2__BTCR-1100190803000001_20200620082636.log - DRB.tat* - TextAnalysisTool.NET
+15:06:03:  K64_BTCR-1100190803000001_20200620082550
+15:06:08:  LOG
+15:06:13:  Box_2__BTCR-1100190803000001_20200620082405.log - DRB.tat* - TextAnalysisTool.NET
+15:06:23:  K64_BTCR-1100190803000001_20200620082405
+15:06:33:  K64-_BTCR-1100190803000001_20200620082235.log - DRB.tat* - TextAnalysisTool.NET
+15:06:38:  测试压板数据.xls  [兼容模式] - Excel
+15:06:48:  K64-_BTCR-1100190803000001_20200620082235.log - DRB.tat* - TextAnalysisTool.NET
+15:06:58:  Box_2__BTCR-1100190803000001_20200620082405.log - DRB.tat* - TextAnalysisTool.NET
+15:07:03:  测试压板数据.xls  [兼容模式] - Excel
+15:07:13:  K64_BTCR-1100190803000001_20200620082405
+15:07:18:  LOG
+15:07:23:  Box_2__BTCR-1100190803000001_20200620082550.log - DRB.tat* - TextAnalysisTool.NET
+15:07:38:  测试压板数据.xls  [兼容模式] - Excel
+15:07:48:  TheOneForExcel.xls  [兼容模式] - Excel
+15:07:53:  LOG
+15:07:58:  C:\Windows\py.exe
+15:08:03:  TheOneForExcel.xls  [兼容模式] - Excel
+15:08:28:  LOG
+15:08:33:  K64_BTCR-1100190803000001_20200620082636
+15:08:38:  LOG
+15:08:43:  K64_BTCR-1100190803000001_20200620082756
+15:08:48:  TheOneForExcel.xls  [兼容模式] - Excel
+15:08:58:  测试压板数据.xls  [兼容模式] - Excel
+15:09:18:  TCR调测工具 V3.36
+15:09:28:  发送指令到K06
+15:09:33:  计算器
+15:09:48:  发送指令到K06
+15:09:53:  计算器
+15:11:33:  发送指令到K06
+15:11:38:  TCR调测工具 V3.36
+15:11:43:  发送指令到K06
+15:12:58:  韩逄举
+15:14:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:14:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:18:09:  TheOneForExcel.xls  [兼容模式] - Excel
+15:18:19:  测试压板数据.xls  [兼容模式] - Excel
+15:18:44:  Microsoft Excel - 兼容性检查器
+15:18:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:19:39:  LOG
+15:19:44:  发送指令到K06
+15:20:04:  TCR调测工具 V3.36
+15:20:09:  计算器
+15:20:19:  TCR调测工具 V3.36
+15:20:24:  00-06
+15:20:29:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+15:20:34:  TCR调测工具 V3.36
+15:20:39:  打开
+15:20:44:  TCR调测工具 V3.36
+15:21:04:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:21:59:  TCR调测工具 V3.36
+15:22:04:  发送指令到K06
+15:22:14:  TCR调测工具 V3.36
+15:22:19:  计算器
+15:22:49:  发送指令到K06
+15:22:59:  TCR调测工具 V3.36
+15:23:04:  发送指令到K06
+15:23:09:  TCR调测工具 V3.36
+15:23:19:  发送指令到K06
+15:23:24:  TCR调测工具 V3.36
+15:23:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:23:59:  TCR调测工具 V3.36
+15:24:04:  发送指令到K06
+15:24:09:  TCR调测工具 V3.36
+15:24:19:  计算器
+15:24:39:  TCR调测工具 V3.36
+15:24:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:24:59:  TCR调测工具 V3.36
+15:25:04:  发送指令到K06
+15:25:14:  TCR调测工具 V3.36
+15:25:19:  计算器
+15:26:24:  发送指令到K06
+15:26:29:  TCR调测工具 V3.36
+15:26:44:  计算器
+15:26:49:  TCR调测工具 V3.36
+15:27:04:  发送指令到K06
+15:27:14:  计算器
+15:28:19:  发送指令到K06
+15:28:29:  计算器
+15:28:44:  TCR调测工具 V3.36
+15:29:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:28:19:  发送指令到K06
+15:28:29:  计算器
+15:28:44:  TCR调测工具 V3.36
+15:29:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:32:34:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+15:32:44:  测试压板数据.xls  [兼容模式] - Excel
+15:34:09:  「开始」菜单
+15:34:19:  测试压板数据.xls  [兼容模式] - Excel
+15:34:29:  计算器
+15:34:49:  测试压板数据.xls  [兼容模式] - Excel
+15:35:29:  计算器
+15:35:44:  测试压板数据.xls  [兼容模式] - Excel
+15:37:29:  本地磁盘 (D:)
+15:37:34:  20200619
+15:37:39:  LOG
+15:37:44:  10#.xls  [兼容模式] - Excel
+15:37:54:  10#.xls  [工作组]  [兼容模式] - Excel
+15:37:59:  移动或复制工作表
+15:38:04:  测试压板数据.xls  [兼容模式] - Excel
+15:41:04:  Microsoft Excel - 兼容性检查器
+15:41:14:  测试压板数据.xls  [兼容模式] - Excel
+15:42:29:  Microsoft Excel - 兼容性检查器
+15:42:34:  测试压板数据.xls  [兼容模式] - Excel
+15:47:39:  新标签页 - Google Chrome
+15:47:49:  数据抓取工具 - Google Chrome
+15:48:29:  测试压板数据.xls  [兼容模式] - Excel
+15:48:39:  数据抓取工具 - Google Chrome
+15:48:49:  个人周报-张开发 (38).xlsx  [受保护的视图] - Excel
+15:48:54:  个人周报-张开发 (38).xlsx - Excel
+15:50:39:  本地磁盘 (D:)
+15:50:49:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+15:50:54:  打开
+15:50:59:  TCR调测工具 V3.36
+15:51:14:  发送指令到K06
+15:51:24:  计算器
+15:52:04:  TCR调测工具 V3.36
+15:52:09:  发送指令到K06
+15:52:14:  计算器
+15:52:19:  固件设计中心
+15:52:29:  个人周报-张开发 (38).xlsx - Excel
+15:54:09:  发送指令到K06
+15:54:24:  个人周报-张开发 (38).xlsx - Excel
+15:55:09:  测试压板数据.xls  [兼容模式] - Excel
+15:55:14:  Tools
+15:55:19:  TCR调测工具 V3.36
+15:55:24:  Tools
+15:55:29:  打开
+15:55:44:  个人周报-张开发 (38).xlsx - Excel
+15:55:49:  数据抓取工具 - Google Chrome
+15:55:54:  测试压板数据.xls  [兼容模式] - Excel
+15:55:59:  激活
+15:56:04:  测试压板数据.xls  [兼容模式] - Excel
+15:56:39:  00-06
+15:56:44:  TCR调测工具 V3.36
+15:56:49:  计算器
+15:57:19:  发送指令到K06
+15:57:29:  计算器
+15:57:44:  发送指令到K06
+15:57:54:  TCR调测工具 V3.36
+15:58:09:  D:\00-18\CRS\Applications\InstrExp\InstrExp.c (CRS) - Sublime Text (UNREGISTERED)
+15:58:14:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:58:34:  发送指令到K06
+15:58:44:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:58:49:  TCR调测工具 V3.36
+15:58:54:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:58:59:  D:\00-18\CRS\Applications\InstrExp\InstrExp.c (CRS) - Sublime Text (UNREGISTERED)
+15:59:04:  测试压板数据.xls  [兼容模式] - Excel
+15:58:09:  D:\00-18\CRS\Applications\InstrExp\InstrExp.c (CRS) - Sublime Text (UNREGISTERED)
+15:58:14:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:58:34:  发送指令到K06
+15:58:44:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:58:49:  TCR调测工具 V3.36
+15:58:54:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:58:59:  D:\00-18\CRS\Applications\InstrExp\InstrExp.c (CRS) - Sublime Text (UNREGISTERED)
+15:59:04:  测试压板数据.xls  [兼容模式] - Excel
+16:00:24:  本地磁盘 (D:)
+16:00:29:  0-测试-DRB
+16:00:34:  20200618
+16:00:39:  LOG
+16:00:44:  0-测试-DRB
+16:00:49:  LOG
+16:01:14:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:01:54:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:02:04:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:03:49:  10#.xls  [工作组]  [兼容模式] - Excel
+16:04:04:  LOG
+16:04:29:  K64_BTCR-1100190803000001_20200619101043
+16:04:39:  K64-_BTCR-1100190803000001_20200619101043.log - DRB.tat* - TextAnalysisTool.NET
+16:05:55:  K64_BTCR-1100190803000001_20200619101043
+16:06:00:  K64-_BTCR-1100190803000001_20200619101043.log - DRB.tat* - TextAnalysisTool.NET
+16:06:05:  10#.xls  [工作组]  [兼容模式] - Excel
+16:06:15:  K64-_BTCR-1100190803000001_20200619101043.log - DRB.tat* - TextAnalysisTool.NET
+16:06:20:  K64_BTCR-1100190803000001_20200619101043
+16:06:25:  Box_3__BTCR-1100190803000001_20200619101043.log - DRB.tat* - TextAnalysisTool.NET
+16:06:45:  计算器
+16:07:10:  10#.xls  [工作组]  [兼容模式] - Excel
+16:07:20:  Box_3__BTCR-1100190803000001_20200619101043.log - DRB.tat* - TextAnalysisTool.NET
+16:11:20:  10#.xls  [兼容模式] - Excel
+16:12:20:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:14:45:  选择文件夹
+16:14:50:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:15:00:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:14:45:  选择文件夹
+16:14:50:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:15:00:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:15:15:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+16:15:55:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.h (trunk) - Sublime Text (UNREGISTERED)
+16:16:00:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+16:16:50:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:20:40:  K64_BTCR-1100190803000001_20200619101043
+16:20:45:  LOG
+16:20:50:  桌面整理
+16:20:55:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:21:45:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:22:55:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:23:40:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:26:15:  锁屏状态
+16:26:35:  百度一下，你就知道 - Google Chrome
+16:26:45:  python实现结构体数组（初始化并赋值）_David's Tweet-CSDN博客_python 结构体数组 - Google Chrome
+16:27:30:  python 结构体数组 定义_百度搜索 - Google Chrome
+16:27:40:  python中定义结构体的方法_qq_26045215的博客-CSDN博客_python 定义结构体 - Google Chrome
+16:28:25:  自动播放
+16:28:30:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:25:  自动播放
+16:28:30:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:31:16:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:31:21:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:33:37:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:35:52:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:36:22:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:36:52:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:02:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:12:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:17:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:27:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:52:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:38:12:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:38:17:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:38:27:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:38:32:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:38:52:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:38:57:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:39:12:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:39:17:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:39:52:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:39:57:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:41:17:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:41:22:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:41:57:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:42:02:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:44:02:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:44:17:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:44:37:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:44:47:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:44:57:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:02:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:44:17:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:44:37:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:44:47:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:44:57:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:02:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:47:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:57:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:46:13:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:46:43:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:46:58:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:47:08:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:47:23:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:47:28:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:47:43:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:47:48:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:49:43:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:49:48:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:50:33:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:51:58:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:52:03:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:52:33:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:52:53:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:53:03:  新北洋放假通知【2020】005号：关于2020年端午节放假安排的通知
+16:53:18:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:54:03:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:54:33:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:55:13:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:55:18:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:55:23:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:56:28:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:56:33:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:56:43:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:56:48:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:56:53:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:58:13:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:58:18:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:58:53:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:59:18:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:58:13:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:58:18:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:58:53:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:59:18:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:01:33:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:02:28:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:02:53:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:03:13:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:03:18:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:03:43:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:03:48:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:04:28:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:04:33:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:05:18:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:05:23:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:05:28:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:05:33:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:06:13:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:06:38:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:06:48:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:06:53:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:07:08:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:08:03:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:08:08:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:08:23:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:09:08:  桌面整理
+17:09:13:  锁屏状态
+17:09:48:  桌面整理
+17:09:53:  D:\压钞托板测试\0-测试-DRB\新建文件夹\20200619\Decode\LOG\CashboxDatePur-V1.7.py • (CRS) - Sublime Text (UNREGISTERED)
+17:09:58:  桌面整理
+17:10:03:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py (CRS) - Sublime Text (UNREGISTERED)
+17:10:13:  LOG
+17:10:23:  本地磁盘 (D:)
+17:10:28:  log
+17:10:33:  Python 3.7.3 Shell
+17:10:38:  CashboxDatePur-V1.8-text.py - D:\fenxi\log\log\CashboxDatePur-V1.8-text.py (3.7.3)
+17:10:48:  Python 3.7.3 Shell
+17:10:53:  CashboxDatePur-V1.8-text.py - D:\fenxi\log\log\CashboxDatePur-V1.8-text.py (3.7.3)
+17:11:58:  激活
+17:12:08:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (CRS) - Sublime Text (UNREGISTERED)
+17:12:13:  激活
+17:12:18:  Box_3__BTCR-1100190803000001_20200619101043.log - DRB.tat* - TextAnalysisTool.NET
+17:12:28:  锁屏状态

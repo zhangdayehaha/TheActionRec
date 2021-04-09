@@ -1,0 +1,967 @@
+08:00:43:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:04:53:  锁屏状态
+08:05:08:  Excel
+08:05:28:  TCR+DRB+CRS 项目周报.xlsx  [受保护的视图] - Excel
+08:05:43:  Excel
+08:05:48:  正在打开 - Excel
+08:05:53:  TCR+DRB+CRS 项目周报.xlsx  [共享] - Excel
+08:06:33:  中国银行DRB发货测试缺陷列表.xlsx - Excel
+08:06:38:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:06:48:  本地磁盘 (D:)
+08:06:53:  fenxi
+08:06:58:  港币10元居左混合面向大额取款报钞箱口 500ms纸币未进入 返回码0X075E0900
+08:07:03:  20210109
+08:07:08:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:07:13:  Decode
+08:07:23:  LOG
+08:07:28:  K64_0000_20210109091820
+08:07:33:  Box_2__0000_20210109091820.log - DRB.tat* - TextAnalysisTool.NET
+08:07:58:  LOG
+08:08:03:  Box_2__0000_20210109091820.log - DRB.tat* - TextAnalysisTool.NET
+08:08:18:  「开始」菜单
+08:08:23:  计算器
+08:08:28:  LOG
+08:08:33:  Box_2__0000_20210109091745.log - DRB.tat* - TextAnalysisTool.NET
+08:09:43:  K64_0000_20210109091745
+08:09:48:  K64-_0000_20210109091745.log - DRB.tat* - TextAnalysisTool.NET
+08:12:14:  CRS调测工具（研发版）V1.0.2.1
+08:12:54:  桌面整理
+08:12:59:  CRS调测工具（研发版）V1.0.2.1
+08:13:14:  查找
+08:13:19:  CRS调测工具（研发版）V1.0.2.1
+08:13:24:  查找
+08:13:29:  Dialog
+08:14:14:  CRS调测工具（研发版）V1.0.2.1
+08:14:19:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+08:14:39:  CRS调测工具（研发版）V1.0.2.1
+08:14:44:  Dialog
+08:14:54:  CRS调测工具（研发版）V1.0.2.1
+08:14:14:  CRS调测工具（研发版）V1.0.2.1
+08:14:19:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+08:14:39:  CRS调测工具（研发版）V1.0.2.1
+08:14:44:  Dialog
+08:14:54:  CRS调测工具（研发版）V1.0.2.1
+08:15:39:  20200828~CRS传感器PWM分组.xlsx
+08:15:49:  读写ERROM
+08:15:54:  计算器
+08:16:04:  20200828~CRS传感器PWM分组.xlsx
+08:16:09:  CRS调测工具（研发版）V1.0.2.1
+08:16:14:  Dialog
+08:16:19:  CRS调测工具（研发版）V1.0.2.1
+08:16:24:  打开
+08:16:34:  CRS调测工具（研发版）V1.0.2.1
+08:18:09:  钞箱配置
+08:18:24:  CRS调测工具（研发版）V1.0.2.1
+08:18:59:  CashRecyclerTool 属性
+08:19:04:  TCRControlCmdDLL
+08:19:09:  Decode
+08:19:14:  CS_0003_20210111081834.log - DRB.tat* - TextAnalysisTool.NET
+08:19:24:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:19:29:  CS_0003_20210111081834.log - DRB.tat* - TextAnalysisTool.NET
+08:19:54:  跳转列表
+08:20:04:  Tools
+08:20:14:  CRS调测工具（研发版）V1.0.2.1
+08:20:19:  打开
+08:20:39:  Tools
+08:20:44:  CS_0003_20210111081834.log - DRB.tat* - TextAnalysisTool.NET
+08:21:54:  CRS调测工具（研发版）V1.0.2.1
+08:22:24:  20210111
+08:22:29:  CS_0003_20210111082158.log - DRB.tat* - TextAnalysisTool.NET
+08:22:54:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:23:19:  CS_0003_20210111082158.log - DRB.tat* - TextAnalysisTool.NET
+08:23:24:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:23:29:  CS_0003_20210111082158.log - DRB.tat* - TextAnalysisTool.NET
+08:23:44:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:23:59:  CS_0003_20210111082158.log - DRB.tat* - TextAnalysisTool.NET
+08:24:54:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:25:04:  CRS调测工具（研发版）V1.0.2.1
+08:25:09:  CS_0003_20210111082158.log - DRB.tat* - TextAnalysisTool.NET
+08:25:14:  Edit Filter
+08:25:19:  CS_0003_20210111082158.log - DRB.tat* - TextAnalysisTool.NET
+08:25:34:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:25:39:  CRS调测工具（研发版）V1.0.2.1
+08:26:04:  Tools
+08:26:09:  CRS调测工具（研发版）V1.0.2.1
+08:26:59:  20210108
+08:27:09:  CashRecyclerTool 属性
+08:27:14:  20210111
+08:27:19:  CS_0003_20210111082632.log - DRB.tat* - TextAnalysisTool.NET
+08:27:59:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:29:14:  CS_0003_20210111082632.log - DRB.tat* - TextAnalysisTool.NET
+08:29:14:  CS_0003_20210111082632.log - DRB.tat* - TextAnalysisTool.NET
+08:31:14:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:31:34:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+08:31:39:  CRS调测工具（研发版）V1.0.2.1
+08:31:54:  CS_0003_20210111082632.log - DRB.tat* - TextAnalysisTool.NET
+08:37:34:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+08:37:59:  CS_0003_20210111082632.log - DRB.tat* - TextAnalysisTool.NET
+08:38:34:  C:\Program Files\TortoiseSVN\bin\SubWCRev.exe
+08:38:39:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:38:44:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+08:38:49:  打开
+08:38:54:  CRS调测工具（研发版）V1.0.2.1
+08:39:19:  20210111
+08:39:39:  Decode
+08:39:49:  CS_0003_20210111083913.log - DRB.tat* - TextAnalysisTool.NET
+08:40:49:  CRS调测工具（研发版）V1.0.2.1
+08:50:19:  发送指令到K18
+08:50:24:  CRS调测工具（研发版）V1.0.2.1
+08:53:39:  Decode
+08:53:59:  D:\CRS\KE18-VERSION1\Applications\PPCtrl\PPCtrl.h (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+08:54:09:  D:\CRS\KE18-VERSION1\Drivers\StepMotorDriver\StepMotorDriver.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+08:54:14:  D:\CRS\KE18-VERSION1\Middlewares\StepMotor\StepMotorConfig.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+08:54:29:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:55:09:  CS_0003_20210111083913.log - DRB.tat* - TextAnalysisTool.NET
+08:55:14:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:55:39:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+08:55:44:  D:\CRS\KE18-VERSION1\Middlewares\StepMotor\StepMotorConfig.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+08:55:49:  打开
+08:55:54:  CRS调测工具（研发版）V1.0.2.1
+08:56:09:  CS_0003_20210111083913.log - DRB.tat* - TextAnalysisTool.NET
+08:56:44:  CRS调测工具（研发版）V1.0.2.1
+08:57:04:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:57:19:  CRS调测工具（研发版）V1.0.2.1
+08:57:49:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+08:57:54:  CS_0003_20210111085717.log - DRB.tat* - TextAnalysisTool.NET
+08:58:04:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:58:29:  CRS调测工具（研发版）V1.0.2.1
+08:59:39:  20210111
+08:59:44:  Decode
+08:59:49:  CS_0003_20210111085911.log - DRB.tat* - TextAnalysisTool.NET
+08:59:54:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:59:59:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+09:00:04:  CRS调测工具（研发版）V1.0.2.1
+08:58:29:  CRS调测工具（研发版）V1.0.2.1
+08:59:39:  20210111
+08:59:44:  Decode
+08:59:49:  CS_0003_20210111085911.log - DRB.tat* - TextAnalysisTool.NET
+08:59:54:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+08:59:59:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+09:00:04:  CRS调测工具（研发版）V1.0.2.1
+09:00:14:  CS_0003_20210111085911.log - DRB.tat* - TextAnalysisTool.NET
+09:03:29:  CRS调测工具（研发版）V1.0.2.1
+09:04:44:  Tools
+09:04:49:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+09:05:19:  锁屏状态
+09:05:24:  CRS调测工具（研发版）V1.0.2.1
+09:17:44:  于斌1
+09:17:54:  eSpace
+09:17:59:  冯宁
+09:18:14:  CRS调测工具（研发版）V1.0.2.1
+09:18:19:  eSpace
+09:18:24:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+09:19:49:  CS_0003_20210111085911.log - DRB.tat* - TextAnalysisTool.NET
+09:19:54:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+09:20:14:  CS_0003_20210111085911.log - DRB.tat* - TextAnalysisTool.NET
+09:20:24:  于斌1
+09:20:34:  eSpace
+09:20:44:  冯宁
+09:20:54:  taskeng.exe
+09:20:59:  CS_0003_20210111085911.log - DRB.tat* - TextAnalysisTool.NET
+09:21:19:  于斌1
+09:21:29:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+09:21:34:  CRS调测工具（研发版）V1.0.2.1
+09:21:44:  CRSTestTool
+09:21:49:  CRS调测工具（研发版）V1.0.2.1
+09:21:54:  于斌1
+09:21:59:  CRS调测工具（研发版）V1.0.2.1
+09:22:04:  锁屏状态
+09:22:09:  URL
+09:22:14:  192.168.19.153\svn - 版本库浏览器 - TortoiseSVN
+09:22:19:  http://192.168.10.9:82/svn/BTCR-1100 - 版本库浏览器 - TortoiseSVN
+09:22:29:  Windows 安全
+09:22:54:  CRS
+09:22:59:  D:\CRS\KE18-BOOT - 日志信息 - TortoiseSVN
+09:23:04:  D:\CRS\KE18-BOOT - 版本库浏览器 - TortoiseSVN
+09:23:14:  于斌1
+09:23:19:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+09:23:34:  打开
+09:23:44:  20210111
+09:23:49:  CRS调测工具（研发版）V1.0.2.1
+09:24:19:  自动播放
+09:24:59:  CRS调测工具（研发版）V1.0.2.1
+09:25:44:  CS_0003_20210111085911.log - DRB.tat* - TextAnalysisTool.NET
+09:25:49:  20210111
+09:25:54:  Decode
+09:25:59:  CS_0003_20210111092513.log - DRB.tat* - TextAnalysisTool.NET
+09:26:24:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+09:30:34:  CRS
+09:30:44:  打开
+09:30:49:  CRS调测工具（研发版）V1.0.2.1
+09:30:54:  于斌1
+09:30:59:  CRS调测工具（研发版）V1.0.2.1
+09:31:34:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+09:32:04:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+09:32:09:  CRS调测工具（研发版）V1.0.2.1
+09:39:59:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+09:40:04:  20210111
+09:40:09:  CS_0003_20210111093223.log - DRB.tat* - TextAnalysisTool.NET
+09:40:44:  Add Filter
+09:40:54:  CRS调测工具（研发版）V1.0.2.1
+09:41:04:  发送指令到K18
+09:41:09:  CRS调测工具（研发版）V1.0.2.1
+09:41:19:  发送指令到K18
+09:41:24:  CRS调测工具（研发版）V1.0.2.1
+09:41:34:  发送指令到K18
+09:41:39:  CRS调测工具（研发版）V1.0.2.1
+09:41:49:  发送指令到K18
+09:41:59:  CRS调测工具（研发版）V1.0.2.1
+09:42:10:  发送指令到K18
+09:42:20:  CRS调测工具（研发版）V1.0.2.1
+09:42:25:  发送指令到K18
+09:42:35:  CRS调测工具（研发版）V1.0.2.1
+09:42:40:  发送指令到K18
+09:42:50:  CRS调测工具（研发版）V1.0.2.1
+09:42:55:  发送指令到K18
+09:43:05:  计算器
+09:43:10:  发送指令到K18
+09:43:15:  CRS调测工具（研发版）V1.0.2.1
+09:43:20:  发送指令到K18
+09:43:35:  CRS调测工具（研发版）V1.0.2.1
+09:43:40:  发送指令到K18
+09:43:45:  CRS调测工具（研发版）V1.0.2.1
+09:43:50:  发送指令到K18
+09:44:00:  CRS调测工具（研发版）V1.0.2.1
+09:49:30:  发送指令到K18
+09:49:40:  CRS调测工具（研发版）V1.0.2.1
+09:49:50:  发送指令到K18
+09:50:00:  CRS调测工具（研发版）V1.0.2.1
+09:50:05:  发送指令到K18
+09:50:15:  CRS调测工具（研发版）V1.0.2.1
+09:50:20:  发送指令到K18
+09:50:25:  CRS调测工具（研发版）V1.0.2.1
+09:50:40:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+09:50:50:  计算器
+09:50:55:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+09:51:20:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+09:51:25:  打开
+09:51:30:  CRS调测工具（研发版）V1.0.2.1
+09:52:50:  孙颖
+09:54:15:  Tools
+09:54:25:  CRS调测工具（研发版）V1.0.2.1
+09:56:15:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+09:56:55:  Windows
+09:57:00:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+09:57:25:  Tools
+09:57:30:  自动播放
+09:57:55:  CRS调测工具（研发版）V1.0.2.1
+09:58:40:  发送指令到K18
+09:58:45:  CRS调测工具（研发版）V1.0.2.1
+09:58:40:  发送指令到K18
+09:58:45:  CRS调测工具（研发版）V1.0.2.1
+10:00:20:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+10:00:30:  Tools
+10:00:35:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+10:00:40:  CRS调测工具（研发版）V1.0.2.1
+10:02:30:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+10:02:40:  Tools
+10:02:45:  CRS调测工具（研发版）V1.0.2.1
+10:04:45:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+10:04:50:  CRS调测工具（研发版）V1.0.2.1
+10:04:55:  发送指令到K18
+10:05:00:  CRS调测工具（研发版）V1.0.2.1
+10:05:35:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+10:06:00:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+10:06:05:  选择文件夹
+10:06:15:  untitled (gfgd) - Sublime Text (UNREGISTERED)
+10:06:20:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+10:06:25:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (gfgd) - Sublime Text (UNREGISTERED)
+10:07:00:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageIn.c (gfgd) - Sublime Text (UNREGISTERED)
+10:07:05:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+10:07:20:  CRS调测工具（研发版）V1.0.2.1
+10:10:50:  中国银行发货样机测试报告 .xlsx
+10:13:10:  DRB传感器.txt - 记事本
+10:14:45:  中国银行发货样机测试报告 .xlsx
+10:14:45:  中国银行发货样机测试报告 .xlsx
+10:15:25:  CS_0003_20210111093223.log - DRB.tat* - TextAnalysisTool.NET
+10:15:30:  CRS调测工具（研发版）V1.0.2.1
+10:17:15:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:17:25:  计算器
+10:17:35:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:17:40:  计算器
+10:17:45:  CRS调测工具（研发版）V1.0.2.1
+10:17:50:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:17:55:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+10:18:20:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+10:18:40:  fenxi
+10:18:55:  上海农商行样机测试缺陷.xlsx
+10:20:55:  港币10元居左混合面向大额取款报钞箱口 500ms纸币未进入 返回码0X075E0900
+10:21:00:  K64_0000_20210109091820
+10:21:05:  LOG
+10:21:10:  Box_2__0000_20210109091646.log - DRB.tat* - TextAnalysisTool.NET
+10:21:15:  Box_2__0000_20210109091745.log - DRB.tat* - TextAnalysisTool.NET
+10:21:30:  锁屏状态
+10:21:35:  K64-_0000_20210109091745.log - DRB.tat* - TextAnalysisTool.NET
+10:21:55:  Edit Filter
+10:22:05:  K64-_0000_20210109091745.log - DRB.tat* - TextAnalysisTool.NET
+10:22:10:  LOG
+10:22:15:  K64-_0000_20210109091646.log - DRB.tat* - TextAnalysisTool.NET
+10:22:25:  K64_0000_20210109091745
+10:22:30:  Box_2__0000_20210109091745.log - DRB.tat* - TextAnalysisTool.NET
+10:22:35:  K64-_0000_20210109091745.log - DRB.tat* - TextAnalysisTool.NET
+10:24:00:  Box_2__0000_20210109091745.log - DRB.tat* - TextAnalysisTool.NET
+10:24:25:  K64-_0000_20210109091745.log - DRB.tat* - TextAnalysisTool.NET
+10:24:30:  K64_0000_20210109091745
+10:24:35:  未命名 - 写邮件
+10:24:40:  K64-_0000_20210109091745 - 写邮件
+10:25:05:  自动播放
+10:25:40:  K64_0000_20210109091745
+10:38:30:  于斌1
+10:40:45:  eSpace
+10:40:50:  费志成
+10:42:45:  eSpace
+10:42:50:  荆文波
+10:43:05:  费志成
+10:44:15:  回复: 英镑塑料币10元异常 - 写邮件
+10:44:30:  费志成
+10:44:35:  回复: 英镑塑料币10元异常 - 写邮件
+10:44:15:  回复: 英镑塑料币10元异常 - 写邮件
+10:44:30:  费志成
+10:44:35:  回复: 英镑塑料币10元异常 - 写邮件
+10:45:15:  回复: 英镑塑料币10元异常 - 写邮件   10:45:10 已保存
+10:46:20:  K64_0000_20210109091745
+10:46:25:  fenxi
+10:46:30:  5元1元各300张随机混合，执行大额存款报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B
+10:46:40:  20210108
+10:46:45:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:47:05:  荆文波
+10:47:20:  回复: 英镑塑料币10元异常 - 写邮件   10:46:11 已保存
+10:47:30:  LOG
+10:47:40:  K64_0000_20210108160326
+10:47:45:  Box_2__0000_20210108160326.log - DRB.tat* - TextAnalysisTool.NET
+10:47:50:  回复: 英镑塑料币10元异常 - 写邮件   10:46:11 已保存
+10:48:15:  回复: 英镑塑料币10元异常 - 写邮件   10:48:11 已保存
+10:49:10:  费志成
+10:49:15:  K64_0000_20210108160326
+10:49:20:  20210108
+10:49:25:  LOG
+10:49:30:  K64_0000_20210108160258
+10:49:35:  Box_2__0000_20210108160258.log - DRB.tat* - TextAnalysisTool.NET
+10:49:45:  K64_0000_20210108160326
+10:49:50:  LOG
+10:49:55:  Box_2__0000_20210108160229.log - DRB.tat* - TextAnalysisTool.NET
+10:50:00:  K64_0000_20210108160146
+10:50:05:  Box_2__0000_20210108160146.log - DRB.tat* - TextAnalysisTool.NET
+10:50:15:  Box_2__0000_20210108155948.log - DRB.tat* - TextAnalysisTool.NET
+10:50:35:  K64_0000_20210108155948
+10:50:50:  Box_2__0000_20210108155626.log - DRB.tat* - TextAnalysisTool.NET
+10:50:55:  K64_0000_20210108155536
+10:51:00:  Box_2__0000_20210108155536.log - DRB.tat* - TextAnalysisTool.NET
+10:51:30:  K64-_0000_20210108155536.log - DRB.tat* - TextAnalysisTool.NET
+10:51:45:  CRS调测工具（研发版）V1.0.2.1
+10:51:50:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:52:00:  中国银行发货样机测试报告 .xlsx
+10:52:20:  Excel
+10:52:25:  中国银行发货样机测试报告 .xlsx  [只读] - Excel
+10:53:05:  荆文波
+10:53:40:  中国银行DRB发货测试
+10:53:45:  正在打开 - Excel
+10:53:50:  中国银行DRB发货测试缺陷列表.xlsx  [受保护的视图] - Excel
+10:54:10:  中国银行DRB发货测试缺陷列表.xlsx  [只读] - Excel
+10:55:10:  中国银行DRB发货测试
+10:55:15:  问题记录
+10:55:20:  DRB-190900100005
+10:55:25:  本地磁盘 (D:)
+10:55:30:  20200908
+10:55:35:  ID-9 5#DRB钞箱大额存款第266张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B4 检查发现上腔纸币堆叠异常
+10:55:40:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:55:45:  K64_BTCR-1100200600510420_20201225153429
+10:55:50:  Box_1__BTCR-1100200600510420_20201225153429.log - DRB.tat* - TextAnalysisTool.NET
+10:56:45:  中国银行DRB发货测试缺陷列表.xlsx  [只读] - Excel
+10:58:35:  DRB-190900100005
+10:58:40:  荆文波
+10:59:00:  中国银行DRB发货测试缺陷列表.xlsx  [只读] - Excel
+10:59:35:  荆文波
+10:59:50:  中国银行DRB发货测试缺陷列表.xlsx  [只读] - Excel
+10:58:35:  DRB-190900100005
+10:58:40:  荆文波
+10:59:00:  中国银行DRB发货测试缺陷列表.xlsx  [只读] - Excel
+10:59:35:  荆文波
+10:59:50:  中国银行DRB发货测试缺陷列表.xlsx  [只读] - Excel
+11:00:15:  DRB-190900100005
+11:00:20:  捕获.JPG - Windows 照片查看器
+11:00:25:  ID-19-2 5#DRB钞箱下腔反向盘点第1张报钞箱口 钞口满，返回码035E0700
+11:00:40:  删除多个项目
+11:00:45:  下腔100元正向盘点第145张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X034601b5
+11:00:50:  Decode
+11:00:55:  Box_3__BTCR-1100200600510420_20210104182013.log - DRB.tat* - TextAnalysisTool.NET
+11:01:05:  K64_BTCR-1100200600510420_20210104181931
+11:01:10:  Box_3__BTCR-1100200600510420_20210104181931.log - DRB.tat* - TextAnalysisTool.NET
+11:02:35:  中国银行DRB发货测试缺陷列表.xlsx  [只读] - Excel
+11:03:05:  Box_3__BTCR-1100200600510420_20210104181931.log - DRB.tat* - TextAnalysisTool.NET
+11:03:25:  中国银行DRB发货测试缺陷列表.xlsx  [只读] - Excel
+11:04:10:  Box_3__BTCR-1100200600510420_20210104181931.log - DRB.tat* - TextAnalysisTool.NET
+11:04:15:  中国银行DRB发货测试缺陷列表.xlsx  [只读] - Excel
+11:04:50:  下腔100元正向盘点第145张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X034601b5
+11:05:00:  ID-19-2 5#DRB钞箱下腔反向盘点第1张报钞箱口 钞口满，返回码035E0700
+11:05:10:  ID-9 5#DRB钞箱大额存款第266张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602B4 检查发现上腔纸币堆叠异常
+11:05:15:  20200908
+11:05:20:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:05:25:  Box_3__BTCR-1100200600510420_20210103114150.log - DRB.tat* - TextAnalysisTool.NET
+11:05:35:  K64_BTCR-1100200600510420_20210103114038
+11:05:40:  Box_3__BTCR-1100200600510420_20210103114038.log - DRB.tat* - TextAnalysisTool.NET
+11:05:55:  LOG
+11:06:00:  Box_2__BTCR-1100200600510420_20210103113949.log - DRB.tat* - TextAnalysisTool.NET
+11:06:45:  LOG
+11:06:50:  Box_3__BTCR-1100200600510420_20210103114038.log - DRB.tat* - TextAnalysisTool.NET
+11:11:35:  K64_BTCR-1100200600510420_20210103113949
+11:11:40:  Box_2__BTCR-1100200600510420_20210103113949.log - DRB.tat* - TextAnalysisTool.NET
+11:12:25:  K64_BTCR-1100200600510420_20210103114038
+11:12:35:  LOG
+11:12:40:  K18_BTCR-1100200600510420_20210103114038
+11:12:45:  Box_3__BTCR-1100200600510420_20210103113949.log - DRB.tat* - TextAnalysisTool.NET
+11:12:50:  K64_BTCR-1100200600510420_20210103114038
+11:12:55:  Box_3__BTCR-1100200600510420_20210103114038.log - DRB.tat* - TextAnalysisTool.NET
+11:13:20:  中国银行DRB发货测试缺陷列表.xlsx  [只读] - Excel
+11:13:45:  Microsoft Excel
+11:13:50:  中国银行DRB发货测试缺陷列表.xlsx  [只读] - Excel
+11:13:55:  另存为
+11:14:00:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+11:18:10:  ID-21 DRB5#钞箱下腔反向盘点报1T2下层托板 托板移动到堆钞位置，到位超时，返回码03220401
+11:18:15:  ID-15 50英镑反向盘点第17张报通道传输过程中卡钞 超过最大长度持续有钞 返回码0X824602B9
+11:18:20:  删除多个项目
+11:18:25:  20200908
+11:18:35:  K64_BTCR-1100200600510420_20201231153943
+11:18:40:  Box_2__BTCR-1100200600510420_20201231153943.log - DRB.tat* - TextAnalysisTool.NET
+11:19:15:  荆文波
+11:19:20:  于斌1
+11:19:50:  Box_2__BTCR-1100200600510420_20201231153943.log - DRB.tat* - TextAnalysisTool.NET
+11:20:10:  于斌1
+11:20:15:  Box_2__BTCR-1100200600510420_20201231153943.log - DRB.tat* - TextAnalysisTool.NET
+11:20:25:  于斌1
+11:20:40:  eSpace
+11:20:45:  Box_2__BTCR-1100200600510420_20201231153943.log - DRB.tat* - TextAnalysisTool.NET
+11:21:30:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+11:22:45:  于斌1
+11:22:55:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+11:23:20:  Foxmail
+11:23:25:  未命名 - 写邮件
+11:23:30:  副本中国银行DRB发货测试缺陷列表 - 写邮件
+11:23:40:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+11:25:20:  于斌1
+11:25:30:  eSpace
+11:26:45:  Track.c - DRB-NearFull - Visual Studio Code [管理员]
+11:27:00:  警告
+11:27:05:  问题记录
+11:27:10:  中国银行DRB发货测试缺陷列表.xlsx  [受保护的视图] - Excel
+11:27:15:  DRB-190900100002
+11:27:20:  mmexport1609211092041.jpg - Windows 照片查看器
+11:27:30:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageIn.c (gfgd) - Sublime Text (UNREGISTERED)
+11:27:40:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+11:27:45:  本地磁盘 (D:)
+11:27:50:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+11:27:55:  CRS调测工具（研发版）V1.0.2.1
+11:28:51:  于斌1
+11:29:31:  CRS调测工具（研发版）V1.0.2.1
+11:29:41:  于斌1
+11:28:51:  于斌1
+11:29:31:  CRS调测工具（研发版）V1.0.2.1
+11:29:41:  于斌1
+11:30:56:  CRS调测工具（研发版）V1.0.2.1
+11:31:31:  于斌1
+11:32:16:  CRS调测工具（研发版）V1.0.2.1
+11:32:36:  于斌1
+11:32:51:  CRS调测工具（研发版）V1.0.2.1
+11:32:56:  可接收
+11:33:01:  CRS调测工具（研发版）V1.0.2.1
+11:33:46:  于斌1
+11:33:56:  CRS调测工具（研发版）V1.0.2.1
+11:34:21:  可接收
+11:34:26:  CRS调测工具（研发版）V1.0.2.1
+11:36:36:  于斌1
+11:36:56:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+11:37:06:  CRS调测工具（研发版）V1.0.2.1
+11:40:01:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+11:40:11:  锁屏状态
+13:15:47:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+13:15:52:  回复: 副本中国银行DRB发货测试缺陷列表
+13:15:57:  新建文本文档.exe - 快捷方式
+13:16:02:  桌面整理
+13:16:17:  PuTTY Fatal Error
+13:16:22:  桌面整理
+13:16:28:  PuTTY Configuration
+13:16:43:  PuTTY Fatal Error
+13:16:49:  PuTTY Configuration
+13:16:54:  新标签页 - Google Chrome
+13:17:04:  39nat_百度搜索 - Google Chrome
+13:17:10:  39nat-免费内网穿透工具 - Google Chrome
+13:17:20:  PuTTY Configuration
+13:17:25:  PuTTY Fatal Error
+13:17:31:  ID-15 50英镑反向盘点第17张报通道传输过程中卡钞 超过最大长度持续有钞 返回码0X824602B9
+13:17:36:  新标签页 - Google Chrome
+13:17:41:  百度一下，你就知道 - Google Chrome
+13:17:46:  支付宝 知托付！ - Google Chrome
+13:18:02:  我的支付宝 － 支付宝 - Google Chrome
+13:18:08:  我的账单 - 支付宝 - Google Chrome
+13:18:18:  锁屏状态
+13:18:29:  新建文本文档.exe - 快捷方式
+13:18:34:  Subversion
+13:18:39:  alipay_record_20210105_1430
+13:18:44:  alipay_record_20201218_1118
+13:18:50:  alipay_record_20201015_1021
+13:18:55:  alipay_record_20210111_1318
+13:19:00:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20210111_1318\TheOneForExcel - 副本.py (3.7.3)
+13:19:05:  alipay_record_20210111_1318
+13:19:11:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20210111_1318\TheOneForExcel - 副本.py (3.7.3)
+13:19:16:  alipay_record_20210111_1318
+13:19:21:  TheDateInfo.xls  [兼容模式] - Excel
+13:19:32:  Microsoft Excel
+13:19:37:  Subversion
+13:19:48:  文档
+13:19:53:  alipay_record_20210111_1318
+13:20:03:  0-工作 - 张开发 - 印象笔记
+13:20:14:  回复: 副本中国银行DRB发货测试缺陷列表
+13:20:24:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:20:56:  回复: 副本中国银行DRB发货测试缺陷列表
+13:21:01:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:21:28:  TCR检验工具 - Everything
+13:21:33:  TheOneForExcel - 副本.py - Everything
+13:21:38:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20210111_1318\TheOneForExcel - 副本.py (3.7.3)
+13:21:48:  TheOneForExcel - 副本.py - Everything
+13:21:58:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20201218_1118\TheOneForExcel - 副本.py (3.7.3)
+13:22:03:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20201201_1100\TheOneForExcel - 副本.py (3.7.3)
+13:22:08:  TheOneForExcel - 副本.py - Everything
+13:22:13:  0-工作 - 张开发 - 印象笔记
+13:22:19:  2-财务分配 - 张开发 - 印象笔记
+13:23:25:  问题记录
+13:23:30:  中国银行DRB发货测试
+13:23:35:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:24:21:  荆文波
+13:24:46:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:24:51:  荆文波
+13:24:57:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:25:58:  费志成
+13:26:03:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:26:28:  费志成
+13:26:48:  荆文波
+13:26:53:  费志成
+13:27:44:  eSpace
+13:27:54:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:27:59:  问题记录
+13:28:04:  DRB-190900100002
+13:28:09:  计算机
+13:28:14:  港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+13:28:19:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+13:28:29:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:28:54:  Decode
+13:28:59:  LOG
+13:29:04:  Box_3__BTCR-1100200700510494_20201228141034.log - DRB.tat* - TextAnalysisTool.NET
+13:29:55:  LOG
+13:30:00:  Box_3__BTCR-1100200700510494_20201228140854.log - DRB.tat* - TextAnalysisTool.NET
+13:28:09:  计算机
+13:28:14:  港币10元居左D面向取款19张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+13:28:19:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+13:28:29:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:28:54:  Decode
+13:28:59:  LOG
+13:29:04:  Box_3__BTCR-1100200700510494_20201228141034.log - DRB.tat* - TextAnalysisTool.NET
+13:29:55:  LOG
+13:30:00:  Box_3__BTCR-1100200700510494_20201228140854.log - DRB.tat* - TextAnalysisTool.NET
+13:30:25:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:30:45:  Box_3__BTCR-1100200700510494_20201228140854.log - DRB.tat* - TextAnalysisTool.NET
+13:30:55:  K64-_BTCR-1100200700510494_20201228140854.log - DRB.tat* - TextAnalysisTool.NET
+13:31:15:  荆文波
+13:31:35:  K64-_BTCR-1100200700510494_20201228140854.log - DRB.tat* - TextAnalysisTool.NET
+13:32:00:  Box_3__BTCR-1100200700510494_20201228140854.log - DRB.tat* - TextAnalysisTool.NET
+13:32:05:  荆文波
+13:32:16:  Box_3__BTCR-1100200700510494_20201228140854.log - DRB.tat* - TextAnalysisTool.NET
+13:33:11:  LOG
+13:33:16:  Box_3__BTCR-1100200700510494_20201228140756.log - DRB.tat* - TextAnalysisTool.NET
+13:33:46:  K64-_BTCR-1100200700510494_20201228140756.log - DRB.tat* - TextAnalysisTool.NET
+13:33:56:  荆文波
+13:34:01:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:34:11:  eSpace
+13:34:16:  锁屏状态
+13:34:21:  费志成
+13:34:31:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:35:06:  ID-2 2#DRB钞箱上腔50元大额取款少一张，下腔10元盘点时多一张，检查发现一张50元进入下腔。12.28
+13:35:16:  删除多个项目
+13:35:21:  正在复制 19 个项目(47.8 MB)
+13:35:26:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+13:35:31:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:35:41:  Decode
+13:35:51:  LOG
+13:35:56:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+13:36:51:  费志成
+13:37:06:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+13:37:16:  锁屏状态
+13:37:21:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:37:26:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+13:38:06:  费志成
+13:38:11:  Box_3__BTCR-1100200700510494_20201228152121.log - DRB.tat* - TextAnalysisTool.NET
+13:38:41:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:40:16:  荆文波
+13:41:02:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:41:37:  荆文波
+13:41:52:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:43:32:  ID-3 2#DRB钞箱下腔50元取款第144张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X034601B5 12.28
+13:43:37:  DRB-190900100002
+13:43:42:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:45:32:  DRB-190900100002
+13:45:37:  LOG
+13:45:42:  正在复制 15 个项目(47.8 MB)
+13:45:47:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+13:45:52:  Decode
+13:45:57:  Box_2__BTCR-1100200600510420_20201230132135.log - DRB.tat* - TextAnalysisTool.NET
+13:46:17:  Box_2__BTCR-1100200600510420_20201230131233.log - DRB.tat* - TextAnalysisTool.NET
+13:46:22:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:46:27:  K64_BTCR-1100200600510420_20201230131233
+13:46:32:  Box_2__BTCR-1100200600510420_20201230132135.log - DRB.tat* - TextAnalysisTool.NET
+13:46:47:  费志成
+13:47:07:  「开始」菜单
+13:47:17:  K64 芯片解锁 - OneNote
+13:47:22:  电磁铁 - OneNote
+13:47:27:  传感器电源控制  马鞍 30 00 01 00 00 00 00 00 - OneNote
+13:47:37:  步进电机加速表（拨叉用） ：600, 900, - OneNote
+13:47:42:  返回纸头纸尾到达DRS01,DRS02时间的版本 - OneNote
+13:47:47:  上腔入钞：点击后 ，上腔升降板移至入钞位置，上拨叉打开，入钞电机正转，可人工向入钞口放钞 - OneNote
+13:47:52:  费志成
+13:47:57:  0  通道传感器           RSC01 - OneNote
+13:48:02:  费志成
+13:49:27:  0  通道传感器           RSC01 - OneNote
+13:49:32:  INTERVAL_NUM - OneNote
+13:49:42:  xPSR储存着可嵌套中断的优先级 - OneNote
+13:49:47:  2020 - OneNote
+13:49:57:  1T2集成测试 - OneNote
+13:50:07:  费志成
+13:50:27:  本地磁盘 (F:)
+13:50:32:  02-学习资料
+13:50:37:  Everything
+13:50:42:  钞箱资料 - Everything
+13:50:47:  00-TCR-information
+13:50:52:  Catch(02-27-10-34-56).jpg - Windows 照片查看器
+13:50:57:  费志成
+13:52:17:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:53:12:  费志成
+13:53:47:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+13:55:27:  DRB-190900100002
+13:55:32:  ID-17 上腔出钞时结构拒钞过多，流程拒钞3.8%，单笔流程最高5.8%。
+13:55:42:  本地磁盘 (D:)
+13:55:47:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+13:55:52:  费志成
+13:56:12:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+13:56:17:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:56:37:  费志成
+13:57:12:  于斌1
+13:57:27:  费志成
+13:57:42:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:58:42:  于斌1
+13:58:52:  荆文波
+13:58:57:  LOG
+13:59:07:  K64_BTCR-1100200600510420_20210102161835
+13:59:12:  Box_2__BTCR-1100200600510420_20210102161835.log - DRB.tat* - TextAnalysisTool.NET
+13:59:27:  桌面整理
+13:59:32:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+13:59:37:  LOG
+13:59:42:  CashBoxDareV2.3.py - D:\fenxi\6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。\Decode\LOG\CashBoxDareV2.3.py (3.7.3)
+13:59:47:  Python 3.7.3 Shell
+13:59:52:  CashBoxDareV2.3.py - D:\fenxi\6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。\Decode\LOG\CashBoxDareV2.3.py (3.7.3)
+13:59:57:  开始
+14:00:02:  C:\Windows\py.exe
+13:58:42:  于斌1
+13:58:52:  荆文波
+13:58:57:  LOG
+13:59:07:  K64_BTCR-1100200600510420_20210102161835
+13:59:12:  Box_2__BTCR-1100200600510420_20210102161835.log - DRB.tat* - TextAnalysisTool.NET
+13:59:27:  桌面整理
+13:59:32:  6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。
+13:59:37:  LOG
+13:59:42:  CashBoxDareV2.3.py - D:\fenxi\6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。\Decode\LOG\CashBoxDareV2.3.py (3.7.3)
+13:59:47:  Python 3.7.3 Shell
+13:59:52:  CashBoxDareV2.3.py - D:\fenxi\6#DRB钞箱执行大额存取款，大额存款20张入上腔，执行普通取款时，软件返回钞箱出钞21张，其中1张倾斜，6张间距过短，出钞口14张，实际出钞口13张。\Decode\LOG\CashBoxDareV2.3.py (3.7.3)
+13:59:57:  开始
+14:00:02:  C:\Windows\py.exe
+14:00:17:  LOG
+14:00:22:  桌面整理
+14:00:27:  Everything
+14:00:32:  CashBoxDar - Everything
+14:00:42:  回收 
+14:00:47:  LOG
+14:00:52:  TheDateInfo.xls  [兼容模式] - Excel
+14:01:27:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:01:52:  LOG
+14:01:57:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:02:02:  TheDateInfo.xls  [兼容模式] - Excel
+14:02:22:  Microsoft Excel
+14:02:27:  TheDateInfo.xls  [兼容模式] - Excel
+14:03:12:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:04:52:  ID-17 上腔出钞时结构拒钞过多，流程拒钞3.8%，单笔流程最高5.8%。
+14:04:57:  LOG
+14:05:02:  收取邮件 - 张开发
+14:05:07:  TheDateInfo - 写邮件
+14:05:17:  ID - 写邮件
+14:05:22:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:05:27:  ID17 - 写邮件
+14:05:32:  2号箱ID17 - 写邮件
+14:05:37:  回复: 副本中国银行DRB发货测试缺陷列表
+14:05:42:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:05:52:  ID-20 2#DRB钞箱下腔10英镑第8张报报通道传输过程中卡钞 超过最大长度持续有钞，返回码034602B8
+14:05:57:  下腔100元正向盘点第145张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X034601b5
+14:06:07:  Decode
+14:06:12:  Box_3__BTCR-1100200600510420_20210103155608.log - DRB.tat* - TextAnalysisTool.NET
+14:06:32:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:06:37:  Box_3__BTCR-1100200600510420_20210103155608.log - DRB.tat* - TextAnalysisTool.NET
+14:06:47:  荆文波
+14:07:02:  Box_3__BTCR-1100200600510420_20210103155608.log - DRB.tat* - TextAnalysisTool.NET
+14:07:27:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:07:37:  K64_BTCR-1100200600510420_20210103155608
+14:07:42:  DRB-190900100002
+14:07:47:  DRB-190900100004
+14:07:52:  fenxi
+14:07:57:  正在复制 17 个项目(18.3 MB)
+14:08:02:  下腔100元正向盘点第145张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X034601b5
+14:10:42:  Decode
+14:10:47:  Box_2__BTCR-1100200600510420_20201229135455.log - DRB.tat* - TextAnalysisTool.NET
+14:12:12:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+14:13:37:  ID-8-1 4#DRB钞箱大额存款第46张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B9，纸币堆叠正常，ET10元卡钞1张。
+14:13:42:  CRS
+14:13:47:  D:\CRS\KE18-VERSION1\Tools\CreateJK.exe
+14:13:52:  CRS调测工具（研发版）V1.0.2.1
+14:14:02:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+14:14:07:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+14:14:12:  打开
+14:14:17:  CRS调测工具（研发版）V1.0.2.1
+14:14:07:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+14:14:12:  打开
+14:14:17:  CRS调测工具（研发版）V1.0.2.1
+14:15:57:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:16:02:  K64_BTCR-1100200600510420_20201229135455
+14:16:07:  Box_2__BTCR-1100200600510420_20201229135455.log - DRB.tat* - TextAnalysisTool.NET
+14:16:12:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:16:22:  Box_2__BTCR-1100200600510420_20201229135455.log - DRB.tat* - TextAnalysisTool.NET
+14:17:02:  CRS调测工具（研发版）V1.0.2.1
+14:17:52:  Box_2__BTCR-1100200600510420_20201229135455.log - DRB.tat* - TextAnalysisTool.NET
+14:18:02:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:19:22:  Box_2__BTCR-1100200600510420_20201229135455.log - DRB.tat* - TextAnalysisTool.NET
+14:19:27:  副本中国银行DRB发货测试缺陷列表 - 写邮件
+14:19:37:  荆文波
+14:22:02:  本地磁盘 (D:)
+14:22:07:  锁屏状态
+14:22:12:  下腔100元正向盘点第145张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X034601b5
+14:22:17:  Decode
+14:22:22:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:22:52:  Decode
+14:24:07:  K64_BTCR-1100200600510420_20201228181924
+14:24:12:  Box_1__BTCR-1100200600510420_20201228181924.log - DRB.tat* - TextAnalysisTool.NET
+14:24:22:  K64_BTCR-1100200600510420_20201228181924
+14:24:27:  荆文波
+14:24:32:  K64_BTCR-1100200600510420_20201228175800
+14:24:37:  Box_1__BTCR-1100200600510420_20201228175800.log - DRB.tat* - TextAnalysisTool.NET
+14:24:47:  K64_BTCR-1100200600510420_20201228180812
+14:24:52:  Box_1__BTCR-1100200600510420_20201228180812.log - DRB.tat* - TextAnalysisTool.NET
+14:24:57:  K64_BTCR-1100200600510420_20201228175200
+14:25:02:  Box_1__BTCR-1100200600510420_20201228175200.log - DRB.tat* - TextAnalysisTool.NET
+14:25:07:  K64_BTCR-1100200600510420_20201228180812
+14:25:12:  Box_1__BTCR-1100200600510420_20201228180812.log - DRB.tat* - TextAnalysisTool.NET
+14:25:22:  K64-_BTCR-1100200600510420_20201228175800.log - DRB.tat* - TextAnalysisTool.NET
+14:25:32:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:26:02:  K64-_BTCR-1100200600510420_20201228175800.log - DRB.tat* - TextAnalysisTool.NET
+14:26:17:  荆文波
+14:26:22:  下腔100元正向盘点第145张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X034601b5
+14:26:37:  LOG
+14:26:57:  K64_BTCR-1100200600510420_20201228175200
+14:27:02:  K64_BTCR-1100200600510420_20201228175800
+14:27:07:  LOG
+14:27:12:  K64_BTCR-1100200600510420_20201228181012
+14:27:17:  Box_1__BTCR-1100200600510420_20201228181012.log - DRB.tat* - TextAnalysisTool.NET
+14:27:22:  荆文波
+14:27:42:  K64_BTCR-1100200600510420_20201228175800
+14:27:47:  K64-_BTCR-1100200600510420_20201228175800.log - DRB.tat* - TextAnalysisTool.NET
+14:30:47:  荆文波
+14:31:02:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:31:12:  荆文波
+14:31:42:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:31:47:  K64-_BTCR-1100200600510420_20201228175800.log - DRB.tat* - TextAnalysisTool.NET
+14:31:52:  下腔100元正向盘点第145张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X034601b5
+14:32:12:  DRB-190900100004
+14:32:17:  下腔100元正向盘点第145张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X034601b5
+14:32:32:  Decode
+14:32:37:  Box_2__BTCR-1100200600510420_20201229140142.log - DRB.tat* - TextAnalysisTool.NET
+14:33:37:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:34:17:  DRB-190900100004
+14:34:22:  K64_BTCR-1100200600510420_20201229140142
+14:34:27:  正在复制 17 个项目(18.3 MB)
+14:34:32:  下腔100元正向盘点第145张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X034601b5
+14:34:37:  LOG
+14:34:42:  Box_2__BTCR-1100200600510420_20201229135455.log - DRB.tat* - TextAnalysisTool.NET
+14:35:22:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:35:52:  Box_2__BTCR-1100200600510420_20201229135455.log - DRB.tat* - TextAnalysisTool.NET
+14:36:02:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:36:32:  荆文波
+14:37:52:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:39:42:  荆文波
+14:40:42:  副本中国银行DRB发货测试缺陷列表.xlsx - Excel
+14:42:37:  副本中国银行DRB发货测试缺陷列表 - 写邮件
+14:42:47:  发送邮件
+14:49:12:  荆文波
+14:49:47:  eSpace
+14:49:52:  荆文波
+14:50:07:  Box_2__BTCR-1100200600510420_20201229135455.log - DRB.tat* - TextAnalysisTool.NET
+14:51:22:  荆文波
+14:51:32:  Box_2__BTCR-1100200600510420_20201229135455.log - DRB.tat* - TextAnalysisTool.NET
+14:52:02:  员工自助 - Internet Explorer
+14:52:07:  新北洋OA信息化平台 - Internet Explorer
+14:52:22:  系统登录 - Internet Explorer
+14:52:27:  http://hrms.byintra.com:8800/psc/HCMPRD/EMPLOYEE/HRMS/s/WEBLIB_PORTAL1.ICRIPTPORTAL.FieldFormul - Internet Explorer
+14:52:32:  Internet Explorer
+14:52:37:  Employee-facing registry content - Internet Explorer
+14:52:42:  绩效申请 - Internet Explorer
+14:55:12:  荆文波
+14:55:32:  eSpace
+14:56:07:  李娜
+14:56:22:  绩效申请 - Internet Explorer
+14:56:27:  李娜
+14:56:37:  ID-8-1 4#DRB钞箱大额存款第46张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B9，纸币堆叠正常，ET10元卡钞1张。
+14:56:42:  本地磁盘 (E:)
+14:56:47:  KE18-VERSION1
+14:56:52:  D:\CRS\KE18-VERSION1 - 提交 - TortoiseSVN
+14:56:57:  SeparatorCtrl.c - TortoiseMerge
+14:57:02:  ImpellerCtrl.c - TortoiseMerge
+14:57:12:  D:\CRS\KE18-VERSION1 - 提交 - TortoiseSVN
+14:57:17:  ImpellerCtrl.c - TortoiseMerge
+14:57:47:  D:\CRS\KE18-VERSION1 - 提交 - TortoiseSVN
+14:57:52:  D:\CRS\KE18-VERSION1 - 日志信息 - TortoiseSVN
+14:57:57:  D:\CRS\KE18-VERSION1 - 提交 - TortoiseSVN
+14:58:12:  锁屏状态
+14:58:17:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+14:58:27:  荆文波
+14:58:52:  李娜
+14:58:12:  锁屏状态
+14:58:17:  D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision
+14:58:27:  荆文波
+14:58:52:  李娜
+15:04:17:  KE18-VERSION1
+15:04:27:  D:\CRS\KE18-VERSION1 - 日志信息 - TortoiseSVN
+15:04:32:  ImpellerCtrl.c Revision 856 - TortoiseMerge
+15:04:47:  D:\CRS\KE18-VERSION1 - 日志信息 - TortoiseSVN
+15:04:52:  荆文波
+15:04:57:  D:\CRS\KE18-VERSION1 - 日志信息 - TortoiseSVN
+15:05:02:  ImpellerCtrl.c Revision 856 - TortoiseMerge
+15:05:22:  跳转列表
+15:05:27:  员工自助 - Internet Explorer
+15:05:32:  Employee-facing registry content - Internet Explorer
+15:05:37:  绩效申请 - Internet Explorer
+15:06:02:  ID-8-1 4#DRB钞箱大额存款第46张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B9，纸币堆叠正常，ET10元卡钞1张。
+15:06:17:  新建文本文档.exe - 快捷方式
+15:06:27:  ID-8-1 4#DRB钞箱大额存款第46张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B9，纸币堆叠正常，ET10元卡钞1张。
+15:06:32:  0-工作 - 张开发 - 印象笔记
+15:06:37:  所有笔记本 - 张开发 - 印象笔记
+15:07:18:  绩效申请 - Internet Explorer
+15:07:33:  打开文件夹
+15:07:48:  TD回复格式.docx [兼容模式] - Word
+15:09:58:  无法显示此页 - Internet Explorer
+15:10:08:  新北洋OA信息化平台 - Internet Explorer
+15:10:13:  http://oa.byintra.com/iPortal/publish/Default.aspx - Internet Explorer
+15:10:18:  所有笔记本 - 张开发 - 印象笔记
+15:10:23:  锁屏状态
+15:10:28:  员工自助 - Internet Explorer
+15:10:33:  Employee-facing registry content - Internet Explorer
+15:10:38:  绩效申请 - Internet Explorer
+15:12:18:  Employee-facing registry content - Internet Explorer
+15:12:23:  绩效评价 - Internet Explorer
+15:12:28:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+15:12:38:  所有笔记本 - 张开发 - 印象笔记
+15:12:58:  Employee-facing registry content - Internet Explorer
+15:13:03:  绩效申请 - Internet Explorer
+15:18:08:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+15:18:13:  绩效申请 - Internet Explorer
+15:18:18:  eSpace
+15:18:23:  李娜
+15:18:33:  绩效申请 - Internet Explorer
+15:21:23:  员工自助 - Internet Explorer
+15:21:28:  绩效申请 - Internet Explorer
+15:22:58:  Box_2__BTCR-1100200600510420_20201229135455.log - DRB.tat* - TextAnalysisTool.NET
+15:23:03:  fenxi
+15:23:18:  1609400703232.jpg - Windows 照片查看器
+15:23:23:  20200908
+15:23:28:  fenxi
+15:23:38:  DRB钞箱上腔取款第129张报通道传输过程中卡钞 钞票残留  返回码0X884604B8
+15:23:43:  fenxi
+15:29:48:  自动播放
+15:29:48:  自动播放
+15:30:38:  eSpace
+15:30:48:  锁屏状态
+15:30:53:  CRS调测工具（研发版）V1.0.2.1
+15:30:58:  锁屏状态
+15:31:03:  TCR调测工具 V3.36
+15:31:23:  跳转列表
+15:31:28:  log
+15:31:33:  20210111
+15:31:38:  Decode
+15:31:43:  K64_BTCR-1100190803000_20210111153058.log - DRB.tat* - TextAnalysisTool.NET
+15:31:53:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+15:32:03:  K64_BTCR-1100190803000_20210111153058.log - DRB.tat* - TextAnalysisTool.NET
+15:32:08:  TCR调测工具 V3.36
+15:32:43:  BTCRTestTool
+15:32:48:  TCR调测工具 V3.36
+15:32:58:  钞箱配置
+15:33:08:  TCR调测工具 V3.36
+15:33:38:  BTCRTestTool
+15:34:13:  TCR调测工具 V3.36
+15:34:23:  打开
+15:34:28:  TCR调测工具 V3.36
+15:34:48:  20210111
+15:34:58:  TCR调测工具 V3.36
+15:35:08:  Decode
+15:35:13:  K64_BTCR-1100190803000_20210111153208.log - DRB.tat* - TextAnalysisTool.NET
+15:35:23:  Add Filter
+15:35:33:  K64_BTCR-1100190803000_20210111153208.log - DRB.tat* - TextAnalysisTool.NET
+15:35:53:  Decode
+15:35:58:  K64_BTCR-1100190803000_20210111153208.log - DRB.tat* - TextAnalysisTool.NET
+15:36:08:  20210111
+15:36:13:  K64_BTCR-1100190803000_20210111153208.log - DRB.tat* - TextAnalysisTool.NET
+15:36:28:  锁屏状态
+15:36:33:  TCR调测工具 V3.36
+15:37:18:  20210111
+15:37:28:  K64_BTCR-1100190803000_20210111153722.log - DRB.tat* - TextAnalysisTool.NET
+15:37:38:  K64_BTCR-1100190803000_20210111153713.log - DRB.tat* - TextAnalysisTool.NET
+15:37:53:  发送指令到K06
+15:38:03:  TCR调测工具 V3.36
+15:38:08:  20210111
+15:38:13:  TCR调测工具 V3.36
+15:38:23:  Decode
+15:38:28:  K64_BTCR-1100190803000_20210111153722.log - DRB.tat* - TextAnalysisTool.NET
+15:38:33:  TCR调测工具 V3.36
+15:38:43:  钞箱配置
+15:38:53:  TCR调测工具 V3.36
+17:25:24:  员工自助 - Internet Explorer
+17:25:29:  新北洋OA信息化平台 - Internet Explorer
+17:25:34:  员工自助 - Internet Explorer
+17:25:39:  绩效申请 - Internet Explorer
+17:25:54:  李娜
+17:26:24:  绩效申请 - Internet Explorer
+17:26:29:  李娜
+17:26:34:  绩效申请 - Internet Explorer
+17:26:44:  李娜
+17:26:49:  未命名 - 写邮件
+17:28:24:  绩效申请 - Internet Explorer
+17:28:29:  Employee-facing registry content - Internet Explorer
+17:28:39:  绩效申请 - Internet Explorer
+17:28:44:  Employee-facing registry content - Internet Explorer
+17:28:49:  绩效申请 - Internet Explorer
+17:29:04:  李娜
+17:29:09:  确认
+17:29:24:  绩效申请 - Internet Explorer
+17:29:29:  Employee-facing registry content - Internet Explorer
+17:29:34:  绩效申请 - Internet Explorer
+17:29:44:  新北洋OA信息化平台 - Internet Explorer
+17:29:49:  K64_BTCR-1100190803000_20210111153722.log - DRB.tat* - TextAnalysisTool.NET
+17:29:54:  0-工作 - 张开发 - 印象笔记
+17:28:24:  绩效申请 - Internet Explorer
+17:28:29:  Employee-facing registry content - Internet Explorer
+17:28:39:  绩效申请 - Internet Explorer
+17:28:44:  Employee-facing registry content - Internet Explorer
+17:28:49:  绩效申请 - Internet Explorer
+17:29:04:  李娜
+17:29:09:  确认
+17:29:24:  绩效申请 - Internet Explorer
+17:29:29:  Employee-facing registry content - Internet Explorer
+17:29:34:  绩效申请 - Internet Explorer
+17:29:44:  新北洋OA信息化平台 - Internet Explorer
+17:29:49:  K64_BTCR-1100190803000_20210111153722.log - DRB.tat* - TextAnalysisTool.NET
+17:29:54:  0-工作 - 张开发 - 印象笔记
+17:31:19:  K64_BTCR-1100190803000_20210111153722.log - DRB.tat* - TextAnalysisTool.NET
+17:31:24:  新北洋OA信息化平台 - Internet Explorer
+17:31:29:  Employee-facing registry content - Internet Explorer
+17:31:34:  绩效申请 - Internet Explorer
+17:45:44:  锁屏状态

@@ -1,0 +1,844 @@
+08:09:25:  浦发银行样机缺陷.xlsx
+08:09:50:  发货DRB钞箱测试缺陷.xlsx
+08:10:45:  Decode
+08:10:50:  发货DRB钞箱测试缺陷.xlsx
+08:17:21:  Decode
+08:17:26:  CS_0000_20201104113149.log - [No filter file] - TextAnalysisTool.NET
+08:17:31:  20201104
+08:17:36:  fenxi
+08:17:41:  爆仓问题(1)
+08:17:46:  新建文件夹
+08:17:56:  爆仓问题(1)
+08:18:01:  新建文件夹 (3)
+08:18:16:  20201201
+08:18:21:  Decode
+08:18:56:  本地磁盘 (E:)
+08:19:06:  本地磁盘 (D:)
+08:19:21:  新建文本文档.exe - 快捷方式
+08:19:26:  本地磁盘 (D:)
+08:19:41:  自动播放
+08:19:56:  CS_0000_20201104131512.log - DRB.tat* - TextAnalysisTool.NET
+08:20:01:  www.baidu.com - Google Chrome
+08:20:21:  CS_0000_20201104131512.log - DRB.tat* - TextAnalysisTool.NET
+08:20:56:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+08:24:01:  本地磁盘 (D:)
+08:24:06:  本地磁盘 (E:)
+08:24:11:  Tools
+08:24:16:  E:\深圳出差\44\Tools\CreateJK.exe
+08:24:21:  CRS调测工具（研发版）V1.0.2.1
+08:24:31:  打开
+08:24:41:  本地磁盘 (D:)
+08:24:46:  D:\CRS\666\Tools\CreateJK.exe
+08:24:51:  CRS调测工具（研发版）V1.0.2.1
+08:24:56:  打开
+08:25:01:  CRS调测工具（研发版）V1.0.2.1
+08:25:21:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+08:25:41:  本地磁盘 (E:)
+08:25:46:  44
+08:25:56:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+08:26:26:  www.baidu.com - Google Chrome
+08:26:31:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+08:26:36:  JLink - Cortex-M Error
+08:26:51:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+08:27:01:  eSpace
+08:27:11:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+08:27:21:  CRS调测工具（研发版）V1.0.2.1
+08:27:51:  发送指令到K18
+08:27:56:  CRS调测工具（研发版）V1.0.2.1
+08:28:11:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+08:28:26:  发送指令到K18
+08:28:36:  CRS调测工具（研发版）V1.0.2.1
+08:28:41:  Project
+08:28:46:  深圳出差
+08:28:51:  CRSTesttool_20201125
+08:28:56:  TCRControlCmdDLL
+08:29:06:  20201202
+08:29:11:  TCRControlCmdDLL
+08:29:16:  20201202
+08:29:21:  Decode
+08:29:26:  CS_0000_20201202110121.log - DRB.tat* - TextAnalysisTool.NET
+08:30:01:  TextAnalysisTool.NET
+08:28:11:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+08:28:26:  发送指令到K18
+08:28:36:  CRS调测工具（研发版）V1.0.2.1
+08:28:41:  Project
+08:28:46:  深圳出差
+08:28:51:  CRSTesttool_20201125
+08:28:56:  TCRControlCmdDLL
+08:29:06:  20201202
+08:29:11:  TCRControlCmdDLL
+08:29:16:  20201202
+08:29:21:  Decode
+08:29:26:  CS_0000_20201202110121.log - DRB.tat* - TextAnalysisTool.NET
+08:30:01:  TextAnalysisTool.NET
+08:30:06:  20201202
+08:30:11:  跳转列表
+08:30:16:  CS_0000_20201202110121.log - [No filter file] - TextAnalysisTool.NET
+08:31:46:  20201202
+08:31:51:  Decode
+08:31:56:  CS_0000_20201202110121.log - [No filter file] - TextAnalysisTool.NET
+08:32:01:  CS_0000_20201202110121.log - [No filter file]* - TextAnalysisTool.NET
+08:33:06:  Decode
+08:33:16:  CS_0000_20201202110121.log - [No filter file]* - TextAnalysisTool.NET
+08:34:11:  于斌1
+08:36:16:  Decode
+08:36:21:  CS_0000_20201202110121.log - [No filter file]* - TextAnalysisTool.NET
+08:36:41:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+08:40:51:  20201202
+08:40:56:  CS_0000_20201202110121.log - [No filter file]* - TextAnalysisTool.NET
+08:41:21:  计算器
+08:41:41:  CRS调测工具（研发版）V1.0.2.1
+08:41:51:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+08:42:46:  Service_KMS
+08:43:06:  BNE-R1200M_固件集成测试方案_V100.xls  [兼容模式] - Excel
+08:43:51:  www.baidu.com - Google Chrome
+08:44:01:  百度一下，你就知道 - Google Chrome
+08:44:11:  无屏幕 安装树莓派_百度搜索 - Google Chrome
+08:44:21:  https://www.baidu.com/link?url=pQsI8ktq-6W_aU0HTc78R899UpqZovNhsF_WYGVY0LBfTcQdt6tNNmhPnQIsOgixZrqOvtJyJ-2IaQyhUQotcMNhEIvVz37whexUisEMicm&wd=&eqid=92fb3bf4004c4e3a000000025fc834e1 - Google Chrome
+08:44:26:  (3条消息) 【树莓派/入门】无屏幕启动以及SSH连接(三种情况)_o0o-CSDN博客 - Google Chrome
+08:44:11:  无屏幕 安装树莓派_百度搜索 - Google Chrome
+08:44:21:  https://www.baidu.com/link?url=pQsI8ktq-6W_aU0HTc78R899UpqZovNhsF_WYGVY0LBfTcQdt6tNNmhPnQIsOgixZrqOvtJyJ-2IaQyhUQotcMNhEIvVz37whexUisEMicm&wd=&eqid=92fb3bf4004c4e3a000000025fc834e1 - Google Chrome
+08:44:26:  (3条消息) 【树莓派/入门】无屏幕启动以及SSH连接(三种情况)_o0o-CSDN博客 - Google Chrome
+08:45:46:  新标签页 - Google Chrome
+08:45:51:  百度一下，你就知道 - Google Chrome
+08:45:56:  树莓派工控机_百度搜索 - Google Chrome
+08:46:01:  树莓派4b 安装python_百度搜索 - Google Chrome
+08:46:06:  https://www.baidu.com/link?url=OTQVWEN2Z4PFoaTyx1n7eeZG8KA-LhCziLa2IMJKsK-2kMeB4OCE9-k9-yBYSWKqjKTSV8R2DVOG4H7vqoPlBLbBSU28mlj36b-JhsPQD4C&wd=&eqid=96813ef4001df3c8000000025fc8354b - Google Chrome
+08:46:11:  (3条消息) 树莓派4B安装系统（Raspbian）以及Python3.7+TensorFlow2.0.0_小长工的博客-CSDN博客 - Google Chrome
+08:46:51:  运行
+08:46:56:  管理员: C:\Windows\system32\cmd.exe - pip  -v
+08:47:01:  管理员: C:\Windows\system32\cmd.exe
+08:47:11:  管理员: C:\Windows\system32\cmd.exe - pip3  -v
+08:47:16:  管理员: C:\Windows\system32\cmd.exe
+08:47:47:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011301012.log
+08:48:02:  本地磁盘 (F:)
+08:48:07:  本地磁盘 (D:)
+08:48:17:  00-KE64
+08:48:32:  深圳出差
+08:48:37:  44
+08:49:27:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+08:53:17:  CRS
+08:53:22:  D:\CRS\666\Tools\CreateJK.exe
+08:53:27:  CRS调测工具（研发版）V1.0.2.1
+08:53:37:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+08:53:57:  发送指令到K18
+08:54:07:  CRS调测工具（研发版）V1.0.2.1
+08:57:02:  锁屏状态
+08:57:07:  20201202
+08:57:12:  CS_0000_20201202110121.log - [No filter file]* - TextAnalysisTool.NET
+08:58:12:  20201202
+08:58:17:  CS_0000_20201202110121.log - [No filter file]* - TextAnalysisTool.NET
+08:58:27:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+08:58:52:  于斌1
+08:59:17:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+08:59:43:  Tools
+08:59:48:  打开
+08:59:53:  CRS调测工具（研发版）V1.0.2.1
+08:58:12:  20201202
+08:58:17:  CS_0000_20201202110121.log - [No filter file]* - TextAnalysisTool.NET
+08:58:27:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+08:58:52:  于斌1
+08:59:17:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+08:59:43:  Tools
+08:59:48:  打开
+08:59:53:  CRS调测工具（研发版）V1.0.2.1
+09:00:13:  发送指令到K18
+09:00:18:  CRS调测工具（研发版）V1.0.2.1
+09:04:08:  Decode
+09:04:13:  CS_0000_20201202110121.log - [No filter file]* - TextAnalysisTool.NET
+09:04:58:  Decode
+09:05:08:  CS_0000_20201202110121.log - [No filter file]* - TextAnalysisTool.NET
+09:05:23:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:07:28:  计算器
+09:07:43:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:10:18:  计算器
+09:11:18:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:12:58:  于斌1
+09:13:03:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:13:58:  Toolbox
+09:14:03:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:15:08:  计算器
+09:15:13:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:16:23:  Toolbox
+09:16:28:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:25:18:  计算器
+09:25:33:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:27:43:  C:\Program Files\TortoiseSVN\bin\SubWCRev.exe
+09:27:48:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:28:08:  Watch 1
+09:28:18:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:28:28:  Toolbox
+09:28:33:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:28:38:  Watch 1
+09:28:43:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:29:08:  Watch 1
+09:29:13:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:28:08:  Watch 1
+09:28:18:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:28:28:  Toolbox
+09:28:33:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:28:38:  Watch 1
+09:28:43:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:29:08:  Watch 1
+09:29:13:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:30:23:  Watch 1
+09:30:33:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:30:58:  Watch 1
+09:31:08:  计算器
+09:31:13:  Watch 1
+09:31:18:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:31:38:  Watch 1
+09:31:43:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:32:43:  Watch 1
+09:32:48:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:33:08:  Watch 1
+09:33:13:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:33:48:  Watch 1
+09:33:53:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:34:28:  Watch 1
+09:34:58:  Information
+09:35:03:  CS_0000_20201202110121.log - [No filter file]* - TextAnalysisTool.NET
+09:35:08:  CommonManageTool
+09:36:03:  查看知识共享
+09:36:08:  CommonManageTool
+09:36:48:  查看知识共享
+09:36:53:  CommonManageTool
+09:36:58:  Program Manager
+09:37:03:  J-Link Commander V6.32h
+09:37:13:  SEGGER J-Link V6.32h - Target device settings
+09:37:18:  J-Link Commander V6.32h
+09:37:23:  SEGGER J-Link V6.32h - Target device settings
+09:37:43:  J-Link Commander V6.32h
+09:37:53:  Watch 1
+09:37:58:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:38:18:  J-Link Commander V6.32h
+09:38:33:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:38:38:  J-Link Commander V6.32h
+09:38:53:  计算器
+09:38:58:  Watch 1
+09:39:08:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:40:18:  J-Link Commander V6.32h
+09:40:33:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:40:38:  J-Link Commander V6.32h
+09:40:58:  锁屏状态
+09:41:03:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:43:28:  SEGGER J-Link V6.10b - Control panel
+09:43:33:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:43:48:  Decode
+09:43:53:  CS_0000_20201202110121.log - [No filter file]* - TextAnalysisTool.NET
+09:43:58:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:44:08:  Decode
+09:44:13:  CS_0000_20201202110121.log - [No filter file]* - TextAnalysisTool.NET
+09:44:18:  删除多个项目
+09:44:23:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:44:38:  TCRControlCmdDLL
+09:44:43:  20201202
+09:44:58:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:44:08:  Decode
+09:44:13:  CS_0000_20201202110121.log - [No filter file]* - TextAnalysisTool.NET
+09:44:18:  删除多个项目
+09:44:23:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:44:38:  TCRControlCmdDLL
+09:44:43:  20201202
+09:44:58:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:45:08:  C:\Program Files\TortoiseSVN\bin\SubWCRev.exe
+09:45:13:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:45:48:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012030945.log
+09:46:13:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:46:58:  LogExpert
+09:47:03:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:47:13:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012030947.log
+09:47:23:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:47:43:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012030947.log
+09:47:48:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:48:08:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012030947.log
+09:48:13:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:49:18:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012030949.log
+09:49:23:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:50:58:  Toolbox
+09:51:03:  KE18LOG.bat - 快捷方式
+09:51:08:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012030951.log
+09:51:23:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:52:13:  KE18LOG.bat - 快捷方式
+09:52:18:  RTT_SeggerLog_202012030949.log - [No filter file] - TextAnalysisTool.NET
+09:52:28:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:52:38:  J-Link V6.10b Internal Error
+09:52:43:  Toolbox
+09:52:58:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:54:13:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012030952.log
+09:54:23:  [TRACE]:51  2000 • (DRB--) - Sublime Text (UNREGISTERED)
+09:54:33:  2000 • (DRB--) - Sublime Text (UNREGISTERED)
+09:55:03:  2000 ,1999, 1999 ,1998 ,1997, 1996 ,1994, 1992 , • (DRB--) - Sublime Text (UNREGISTERED)
+09:55:23:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:55:48:  μVision
+09:55:58:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:56:48:  发送指令到K18
+09:56:58:  CRS调测工具（研发版）V1.0.2.1
+09:57:03:  发送指令到K18
+09:57:08:  CRS调测工具（研发版）V1.0.2.1
+09:57:28:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:58:08:  发送指令到K18
+09:58:18:  CRS调测工具（研发版）V1.0.2.1
+09:58:38:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:59:48:  计算器
+09:59:53:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:58:08:  发送指令到K18
+09:58:18:  CRS调测工具（研发版）V1.0.2.1
+09:58:38:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:59:48:  计算器
+09:59:53:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:00:38:  μVision
+10:00:43:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:01:18:  本地磁盘 (D:)
+10:01:23:  00-06
+10:01:33:  CRS
+10:01:43:  CashRecyclerTool 属性
+10:01:48:  TCRControlCmdDLL
+10:01:53:  Decode
+10:01:58:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:04:13:  μVision
+10:04:18:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:07:53:  发送指令到K18
+10:07:58:  CRS调测工具（研发版）V1.0.2.1
+10:08:03:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:08:18:  计算器
+10:08:33:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:09:18:  发送指令到K18
+10:09:28:  CRS调测工具（研发版）V1.0.2.1
+10:09:48:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:10:08:  Toolbox
+10:10:13:  CRS调测工具（研发版）V1.0.2.1
+10:10:18:  发送指令到K18
+10:10:23:  CRS调测工具（研发版）V1.0.2.1
+10:10:33:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:13:03:  KE18LOG.bat - 快捷方式
+10:13:08:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031013.log
+10:13:13:  KE18LOG.bat - 快捷方式
+10:13:18:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:13:28:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031013.log
+10:13:33:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:14:43:  6号 稳定性校验
+10:14:48:  接收
+10:14:58:  锁屏状态
+10:15:03:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:14:43:  6号 稳定性校验
+10:14:48:  接收
+10:14:58:  锁屏状态
+10:15:03:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:15:08:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031014.log
+10:15:13:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:15:43:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031014.log
+10:15:48:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:16:48:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031016.log
+10:16:53:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:17:08:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031016.log
+10:17:13:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:38:34:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031016.log
+10:38:44:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:39:39:  计算器
+10:39:44:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031016.log
+10:39:54:  2000 ,1999, 1999 ,1998 ,1997, 1996 ,1994, 1992 , • (DRB--) - Sublime Text (UNREGISTERED)
+10:39:59:  [TRACE]:50  2000 • (DRB--) - Sublime Text (UNREGISTERED)
+10:40:09:  2000 • (DRB--) - Sublime Text (UNREGISTERED)
+10:40:14:  , 2000 ,, 1999 ,, 1998 , 1997 ,, 1994 ,, 1992 , 19 • (DRB--) - Sublime Text (UNREGISTERED)
+10:40:19:  , 2000 • (DRB--) - Sublime Text (UNREGISTERED)
+10:40:24:  , 2000 ,, 1999 ,, 1998 , 1997 ,, 1994 ,, 1992 , 19 • (DRB--) - Sublime Text (UNREGISTERED)
+10:40:29:  , 2000 • (DRB--) - Sublime Text (UNREGISTERED)
+10:40:34:  2000 • (DRB--) - Sublime Text (UNREGISTERED)
+10:43:29:  ,2000 ,1999 ,1998 ,1997 ,1994 ,1992 ,1988 ,1984 ,1 • (DRB--) - Sublime Text (UNREGISTERED)
+10:43:44:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:45:14:  锁屏状态
+10:45:34:  百度一下，你就知道 - Google Chrome
+10:45:39:  python 控制舵机_百度搜索 - Google Chrome
+10:45:44:  (3条消息) 实战microPython(04)-舵机的控制_spritez的博客-CSDN博客_micropython 舵机 - Google Chrome
+10:45:59:  python 控制舵机_百度搜索 - Google Chrome
+10:46:04:  shumeippython 控制舵机_百度搜索 - Google Chrome
+10:46:09:  树莓派4B-Python-控制舵机_羽之翼的博客-CSDN博客 - Google Chrome
+10:46:14:  (3条消息) 树莓派4B-Python-控制舵机_羽之翼的博客-CSDN博客 - Google Chrome
+10:46:24:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:46:29:  CRS调测工具（研发版）V1.0.2.1
+10:48:09:  20201202
+10:48:14:  Decode
+10:48:19:  LogExpert - C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\Decode\CS_0000_20201202110121.log
+10:48:29:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:48:34:  (3条消息) 树莓派4B-Python-控制舵机_羽之翼的博客-CSDN博客 - Google Chrome
+10:48:49:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:48:59:  树莓派4b python 控制舵机_百度搜索 - Google Chrome
+10:49:04:  树莓派基于python的pwm产生_SXH博客-CSDN博客 - Google Chrome
+10:49:09:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:51:59:  KE18LOG.bat - 快捷方式
+10:52:09:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031051.log
+10:52:29:  2000 ,1999 ,1998 ,1997 ,1994 ,1992 ,1988 ,1984 ,19 • (DRB--) - Sublime Text (UNREGISTERED)
+10:52:34:  [TRACE]:50  2000 • (DRB--) - Sublime Text (UNREGISTERED)
+10:52:39:  ,2000 • (DRB--) - Sublime Text (UNREGISTERED)
+10:52:44:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031051.log
+10:52:49:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:53:19:  ,2000 ,1999 ,1997 ,1994 ,1989 ,1984 ,1977 ,1969 ,1 • (DRB--) - Sublime Text (UNREGISTERED)
+10:53:24:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:53:39:  ,2000 • (DRB--) - Sublime Text (UNREGISTERED)
+10:53:44:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031051.log
+10:53:49:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:54:04:  Toolbox
+10:54:09:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:54:14:  发送指令到K18
+10:54:24:  CRS调测工具（研发版）V1.0.2.1
+10:54:29:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:56:14:  CRS调测工具（研发版）V1.0.2.1
+10:56:29:  20201202
+10:56:34:  LogExpert - C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\Decode\CS_0000_20201202110121.log
+10:56:44:  Decode
+10:56:49:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:57:09:  计算器
+10:57:54:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+10:58:09:  发送指令到K18
+10:58:14:  20201202
+10:58:19:  Decode
+10:58:24:  CS_0000_20201202110121.log - [No filter file] - TextAnalysisTool.NET
+10:58:39:  计算器
+10:59:29:  Decode
+10:59:34:  计算器
+10:58:09:  发送指令到K18
+10:58:14:  20201202
+10:58:19:  Decode
+10:58:24:  CS_0000_20201202110121.log - [No filter file] - TextAnalysisTool.NET
+10:58:39:  计算器
+10:59:29:  Decode
+10:59:34:  计算器
+11:07:14:  BNE-R1200M_固件集成测试方案_V100.xls  [兼容模式] - Excel
+11:07:29:  本地磁盘 (E:)
+11:13:09:  (3条消息) 树莓派基于python的pwm产生_SXH博客-CSDN博客 - Google Chrome
+11:13:14:  树莓派4b python 输出PWM_百度搜索 - Google Chrome
+11:13:29:  (3条消息) 树莓派4B能当作web服务器吗? - 树莓派4B网络性能测试_GIS骆驼的GIS博客-CSDN博客 - Google Chrome
+11:14:39:  本地磁盘 (E:)
+11:14:39:  本地磁盘 (E:)
+11:15:34:  (3条消息) 树莓派4B能当作web服务器吗? - 树莓派4B网络性能测试_GIS骆驼的GIS博客-CSDN博客 - Google Chrome
+11:15:39:  树莓派4b web开发_百度搜索 - Google Chrome
+11:15:44:  树莓派4b如何搭建网站web（apache+mysql+php) - 简书 - Google Chrome
+11:16:29:  树莓派4b web开发_百度搜索 - Google Chrome
+11:16:39:  https://www.baidu.com/link?url=Li97ILPpqT2L7wjYao2rARXGLwu6MeHAKDBVm7VEaybDNVnDpfT10YUGtl3D1Y9MMeVbwL1j1J_HlK-dohuneq&wd=&eqid=cb23ad5b0004b563000000025fc857d3 - Google Chrome
+11:16:44:  树莓派４ｂ开发之开发环境搭建 - 飞起的小田 - 博客园 - Google Chrome
+11:17:49:  树莓派4b web开发_百度搜索 - Google Chrome
+11:17:54:  本地磁盘 (E:)
+11:17:59:  BNE-R1200M_固件集成测试方案_V100.xls  [兼容模式] - Excel
+11:19:44:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+11:23:09:  计算器
+11:23:14:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+11:25:24:  Toolbox
+11:25:29:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+11:25:54:  LogExpert - C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\Decode\CS_0000_20201202110121.log
+11:26:04:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031125.log
+11:26:19:  [TRACE]:50  909 • (DRB--) - Sublime Text (UNREGISTERED)
+11:26:24:  909 • (DRB--) - Sublime Text (UNREGISTERED)
+11:26:29:  , 909 , 907 , 903 , 897 , 888 , 877 , 863 , 848 , • (DRB--) - Sublime Text (UNREGISTERED)
+11:26:54:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+11:28:24:  发送指令到K18
+11:28:29:  CRS调测工具（研发版）V1.0.2.1
+11:28:49:  发送指令到K18
+11:28:54:  CRS调测工具（研发版）V1.0.2.1
+11:29:29:  锁屏状态
+11:29:39:  20201202
+11:29:44:  CS_0000_20201202110121.log - [No filter file] - TextAnalysisTool.NET
+11:29:59:  发货DRB钞箱测试缺陷.xlsx
+11:30:04:  CS_0000_20201202110121.log - [No filter file] - TextAnalysisTool.NET
+11:28:24:  发送指令到K18
+11:28:29:  CRS调测工具（研发版）V1.0.2.1
+11:28:49:  发送指令到K18
+11:28:54:  CRS调测工具（研发版）V1.0.2.1
+11:29:29:  锁屏状态
+11:29:39:  20201202
+11:29:44:  CS_0000_20201202110121.log - [No filter file] - TextAnalysisTool.NET
+11:29:59:  发货DRB钞箱测试缺陷.xlsx
+11:30:04:  CS_0000_20201202110121.log - [No filter file] - TextAnalysisTool.NET
+11:31:49:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+11:31:59:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+11:32:04:  CS_0000_20201202110121.log - [No filter file] - TextAnalysisTool.NET
+11:32:09:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+11:32:14:  CRS调测工具（研发版）V1.0.2.1
+11:32:19:  发送指令到K18
+11:32:29:  CRS调测工具（研发版）V1.0.2.1
+11:32:34:  发送指令到K18
+11:32:39:  CRS调测工具（研发版）V1.0.2.1
+11:32:44:  发送指令到K18
+11:32:59:  CRS调测工具（研发版）V1.0.2.1
+11:33:09:  发送指令到K18
+11:33:14:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+11:33:19:  发送指令到K18
+11:33:34:  Decode
+11:33:39:  CS_0000_20201202110121.log - [No filter file] - TextAnalysisTool.NET
+11:39:04:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+11:40:24:  锁屏状态
+13:13:01:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+13:16:51:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+13:17:01:  锁屏状态
+13:17:06:  自动播放
+13:17:11:  新建文本文档.exe - 快捷方式
+13:17:16:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+13:17:36:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+13:17:41:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:17:56:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+13:23:01:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+13:23:16:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+13:23:21:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+13:23:26:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+13:28:41:  锁屏状态
+13:28:46:  员工自助 - Internet Explorer
+13:28:51:  新北洋OA信息化平台 - Internet Explorer
+13:29:21:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_AM_MENU.C_ATT_EQRY.GBL?FolderPath=POR - Internet Explorer
+13:29:26:  考勤异常 - Internet Explorer
+13:29:46:  通知公告 - Internet Explorer
+13:29:56:  员工自助 - Internet Explorer
+13:30:01:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+13:28:41:  锁屏状态
+13:28:46:  员工自助 - Internet Explorer
+13:28:51:  新北洋OA信息化平台 - Internet Explorer
+13:29:21:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_AM_MENU.C_ATT_EQRY.GBL?FolderPath=POR - Internet Explorer
+13:29:26:  考勤异常 - Internet Explorer
+13:29:46:  通知公告 - Internet Explorer
+13:29:56:  员工自助 - Internet Explorer
+13:30:01:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+13:30:06:  本地磁盘 (E:)
+13:30:21:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031125.log
+13:30:26:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+13:30:51:  锁屏状态
+13:30:56:  人员统计表 - Everything
+13:31:11:  Everything
+13:31:16:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+13:32:06:  本地磁盘 (E:)
+13:32:11:  本地磁盘 (C:)
+13:32:16:  本地磁盘 (D:)
+13:32:26:  C:\Windows\system32\cmd.exe
+13:32:51:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+13:32:56:  00-06
+13:33:01:  fenxi
+13:33:41:  apai
+13:33:46:  weiboping (2).py - D:\fenxi\apai\weiboping (2).py (3.7.3)
+13:33:56:  fenxi
+13:34:01:  注册表右键快捷地址.txt - 记事本
+13:34:06:  新建文本文档.py - D:\fenxi\text\新建文本文档.py (3.7.3)
+13:34:21:  text
+13:34:31:  D:\CRS\KE18-BOOT\Applications\Boot\Boot.c • (KE18-BOOT) - Sublime Text (UNREGISTERED)
+13:34:36:  D:\CRS\KE18-BOOT\Applications\Application.c (KE18-BOOT) - Sublime Text (UNREGISTERED)
+13:34:41:  D:\CRS\KE18-BOOT\Applications\Initialization\Initial.c (KE18-BOOT) - Sublime Text (UNREGISTERED)
+13:34:46:  D:\CRS\KE18-BOOT\Applications\Application.c (KE18-BOOT) - Sublime Text (UNREGISTERED)
+13:34:51:  D:\CRS\KE18-BOOT\Applications\Boot\Boot.c • (KE18-BOOT) - Sublime Text (UNREGISTERED)
+13:35:06:  D:\CRS\KE18-BOOT\Middlewares\GpioApp\GpioApp.c (KE18-BOOT) - Sublime Text (UNREGISTERED)
+13:35:11:  D:\CRS\KE18-BOOT\Applications\Application.c (KE18-BOOT) - Sublime Text (UNREGISTERED)
+13:35:16:  Tools
+13:35:21:  KE18-BOOT
+13:35:26:  D:\CRS\KE18-BOOT - 工作副本 - TortoiseSVN
+13:35:31:  TortoiseMerge
+13:35:36:  Application.c - TortoiseMerge
+13:35:41:  TortoiseMerge
+13:35:46:  D:\CRS\KE18-BOOT - 工作副本 - TortoiseSVN
+13:35:51:  GpioApp.c - TortoiseMerge
+13:36:06:  D:\CRS\KE18-BOOT - 工作副本 - TortoiseSVN
+13:36:11:  GpioApp.h - TortoiseMerge
+13:36:21:  KE18-BOOT
+13:36:26:  D:\CRS\KE18-BOOT\Applications\Application.c (KE18-BOOT) - Sublime Text (UNREGISTERED)
+13:36:51:  909 , 907 , 903 , 897 , 888 , 877 , 863 , 848 , 83 • (DRB--) - Sublime Text (UNREGISTERED)
+13:37:06:  CRS调测工具（研发版）V1.0.2.1
+13:37:11:  发送指令到K18
+13:37:16:  CRS调测工具（研发版）V1.0.2.1
+13:37:56:  发送指令到K18
+13:38:06:  CRS调测工具（研发版）V1.0.2.1
+13:38:46:  Decode
+13:38:51:  本地磁盘 (D:)
+13:39:01:  log
+13:39:06:  20201202
+13:39:11:  CS_0000_20201202110121.log - [No filter file] - TextAnalysisTool.NET
+13:39:26:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+13:39:51:  CS_0000_20201202110121.log - [No filter file] - TextAnalysisTool.NET
+13:40:06:  发送指令到K18
+13:40:11:  CRS调测工具（研发版）V1.0.2.1
+13:40:21:  跳转列表
+13:40:26:  20201202
+13:40:31:  Decode
+13:40:36:  CS_0000_20201202110121.log - [No filter file] - TextAnalysisTool.NET
+13:42:46:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+13:42:51:  C:\Windows\system32\cmd.exe
+13:43:21:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+13:44:36:  自动播放
+13:44:41:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+13:44:36:  自动播放
+13:44:41:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+13:58:06:  跳转列表
+13:58:11:  log
+13:58:16:  Decode
+13:58:21:  20201130
+13:58:26:  Decode
+13:58:31:  TCRControlCmdDLL
+13:58:41:  20201202
+13:58:46:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log (DRB--) - Sublime Text (UNREGISTERED)
+13:58:56:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED)
+13:59:16:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED) (未响应)
+13:59:21:  20201202
+13:59:26:  Decode
+13:59:31:  CS_0000_20201202110121.log - [No filter file] - TextAnalysisTool.NET
+13:59:36:  Decode
+13:59:41:  20201202
+13:59:46:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log (DRB--) - Sublime Text (UNREGISTERED)
+13:59:51:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED)
+13:58:06:  跳转列表
+13:58:11:  log
+13:58:16:  Decode
+13:58:21:  20201130
+13:58:26:  Decode
+13:58:31:  TCRControlCmdDLL
+13:58:41:  20201202
+13:58:46:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log (DRB--) - Sublime Text (UNREGISTERED)
+13:58:56:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED)
+13:59:16:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED) (未响应)
+13:59:21:  20201202
+13:59:26:  Decode
+13:59:31:  CS_0000_20201202110121.log - [No filter file] - TextAnalysisTool.NET
+13:59:36:  Decode
+13:59:41:  20201202
+13:59:46:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log (DRB--) - Sublime Text (UNREGISTERED)
+13:59:51:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED)
+14:00:06:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED) (未响应)
+14:00:26:  20201202
+14:01:11:  CS_0000_20201202110121.log - [No filter file] - TextAnalysisTool.NET
+14:01:21:  LogExpert - C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\Decode\CS_0000_20201202110121.log
+14:01:36:  CRS调测工具（研发版）V1.0.2.1
+14:04:16:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+14:04:21:  CS_0000_20201203140136.log - [No filter file] - TextAnalysisTool.NET
+14:16:37:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+14:16:52:  eSpace
+14:16:57:  锁屏状态
+14:17:07:  于斌1
+14:17:32:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+14:26:02:  于斌1
+14:26:52:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+14:30:22:  本地磁盘 (D:)
+14:30:27:  试用期
+14:30:32:  【正点原子-战舰-精英STM32F103-RT-Thread】示例-标准库版本
+14:30:42:  实验18【正点原子-战舰-精英F103-RT-Thread】特色组件shell
+14:30:47:  说明，使用前必看.png - Windows 照片查看器
+14:30:57:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+14:37:07:  eSpace
+14:37:12:  程明昌
+14:37:32:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+14:38:12:  程明昌
+14:38:27:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+14:46:53:  BNE-R1200M_固件集成测试方案_V100.xls  [兼容模式] - Excel
+14:47:03:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+14:47:08:  KE18-BOOT
+14:47:23:  CRS调测工具（研发版）V1.0.2.1
+14:47:28:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+14:47:33:  程明昌
+14:47:43:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+14:51:38:  所有笔记本 - 张开发 - 印象笔记
+14:51:53:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+14:57:18:  计算器
+14:57:28:  CommonManageTool
+14:57:38:  查看知识共享
+14:58:03:  CommonManageTool
+14:58:08:  查看知识共享
+14:58:18:  CommonManageTool
+14:58:33:  查看知识共享
+14:58:53:  CommonManageTool
+14:59:03:  查看知识共享
+14:59:18:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+14:59:33:  CS_0000_20201203140136.log - [No filter file] - TextAnalysisTool.NET
+14:58:08:  查看知识共享
+14:58:18:  CommonManageTool
+14:58:33:  查看知识共享
+14:58:53:  CommonManageTool
+14:59:03:  查看知识共享
+14:59:18:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+14:59:33:  CS_0000_20201203140136.log - [No filter file] - TextAnalysisTool.NET
+15:00:38:  管理员: C:\Windows\system32\cmd.exe
+15:02:08:  CS_0000_20201203140136.log - [No filter file] - TextAnalysisTool.NET
+15:02:18:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:02:23:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log (DRB--) - Sublime Text (UNREGISTERED)
+15:02:28:  选择文件夹
+15:02:33:  untitled (666) - Sublime Text (UNREGISTERED)
+15:02:43:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+15:02:53:  D:\CRS\666\Middlewares\Component\Component.c (666) - Sublime Text (UNREGISTERED)
+15:03:03:  D:\CRS\666\Middlewares\StepMotor\StepMotor.c (666) - Sublime Text (UNREGISTERED)
+15:03:08:  D:\CRS\666\Drivers\StepMotorDriver\StepMotorDriver.c (666) - Sublime Text (UNREGISTERED)
+15:03:38:  D:\CRS\666\Drivers\StepMotorDriver\StepMotorDriver.h (666) - Sublime Text (UNREGISTERED)
+15:03:48:  D:\CRS\666\Drivers\StepMotorDriver\StepMotorDriver.c (666) - Sublime Text (UNREGISTERED)
+15:04:03:  D:\CRS\666\Middlewares\Component\Component.c (666) - Sublime Text (UNREGISTERED)
+15:14:33:  D:\CRS\666\Middlewares\Component\Component.c • (666) - Sublime Text (UNREGISTERED)
+15:14:38:  D:\CRS\666\Middlewares\Component\Component.c (666) - Sublime Text (UNREGISTERED)
+15:14:33:  D:\CRS\666\Middlewares\Component\Component.c • (666) - Sublime Text (UNREGISTERED)
+15:14:38:  D:\CRS\666\Middlewares\Component\Component.c (666) - Sublime Text (UNREGISTERED)
+15:17:13:  D:\CRS\666\Middlewares\StepMotor\StepMotor.c (666) - Sublime Text (UNREGISTERED)
+15:17:18:  D:\CRS\666\Middlewares\Component\Component.c (666) - Sublime Text (UNREGISTERED)
+15:21:58:  「开始」菜单
+15:22:03:  D:\CRS\666\Middlewares\Component\Component.c (666) - Sublime Text (UNREGISTERED)
+15:22:08:  收取邮件 - 张开发
+15:22:13:  D:\CRS\666\Middlewares\Component\Component.c (666) - Sublime Text (UNREGISTERED)
+15:24:43:  所有笔记本 - 张开发 - 印象笔记
+15:24:48:  新建文本文档.exe - 快捷方式
+15:24:53:  印象笔记
+15:24:58:  所有笔记本 - 张开发 - 印象笔记
+15:25:08:  D:\CRS\666\Middlewares\Component\Component.c (666) - Sublime Text (UNREGISTERED)
+15:29:33:  本地磁盘 (D:)
+15:29:38:  爆仓问题(1)
+15:29:43:  20201113
+15:29:53:  Decode
+15:30:03:  CS_0000_20201113142857.log - [No filter file] - TextAnalysisTool.NET
+15:29:33:  本地磁盘 (D:)
+15:29:38:  爆仓问题(1)
+15:29:43:  20201113
+15:29:53:  Decode
+15:30:03:  CS_0000_20201113142857.log - [No filter file] - TextAnalysisTool.NET
+15:30:19:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+15:31:14:  锁屏状态
+15:31:19:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+15:31:39:  ● log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+15:31:44:  log_decrypt_class.c - DRB-NearFull - Visual Studio Code [管理员]
+15:45:35:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:47:35:  KE18LOG.bat - 快捷方式
+15:47:45:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031547.log
+15:48:00:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED)
+15:48:15:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031547.log
+15:48:20:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:48:35:  Toolbox
+15:48:40:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:49:10:  发送指令到K18
+15:49:45:  20201202
+15:49:50:  Decode
+15:49:55:  20201202
+15:50:00:  发送指令到K18
+15:50:05:  20201202
+15:50:10:  20201203
+15:50:15:  CS_0000_20201203140136.log - [No filter file] - TextAnalysisTool.NET
+15:50:30:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+15:50:35:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:51:00:  发送指令到K18
+15:51:05:  CRS调测工具（研发版）V1.0.2.1
+15:51:15:  Decode
+15:51:20:  CS_0000_20201203140136.log - [No filter file] - TextAnalysisTool.NET
+15:51:35:  CRS调测工具（研发版）V1.0.2.1
+15:51:40:  发送指令到K18
+15:51:50:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+15:52:00:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.h (666) - Sublime Text (UNREGISTERED)
+15:52:05:  发送指令到K18
+15:52:25:  CRS调测工具（研发版）V1.0.2.1
+15:55:05:  CS_0000_20201203140136.log - [No filter file] - TextAnalysisTool.NET
+15:57:10:  发送指令到K18
+15:57:35:  CRS调测工具（研发版）V1.0.2.1
+16:04:35:  CS_0000_20201203140136.log - [No filter file] - TextAnalysisTool.NET
+16:04:40:  20201203
+16:04:45:  CS_0000_20201203140136.log - [No filter file] - TextAnalysisTool.NET
+16:14:21:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:14:41:  发送指令到K18
+16:14:56:  Decode
+16:14:21:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:14:41:  发送指令到K18
+16:14:56:  Decode
+16:15:06:  20201113
+16:15:11:  20201203
+16:15:16:  CS_0000_20201203140136.log - [No filter file] - TextAnalysisTool.NET
+16:17:36:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:19:16:  RTT_SeggerLog_202012031619.log - [No filter file] - TextAnalysisTool.NET
+16:19:21:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED)
+16:19:41:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:19:56:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+16:20:01:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:21:01:  发送指令到K18
+16:21:11:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:21:16:  发送指令到K18
+16:21:21:  CRS调测工具（研发版）V1.0.2.1
+16:22:51:  计算器
+16:22:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031620.log
+16:24:11:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:24:46:  KE18LOG.bat - 快捷方式
+16:24:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031624.log
+16:25:06:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED)
+16:25:21:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:26:01:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031624.log
+16:26:06:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031625.log
+16:26:11:  CRS调测工具（研发版）V1.0.2.1
+16:26:16:  发送指令到K18
+16:26:21:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031625.log
+16:28:06:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:29:21:  Toolbox
+16:29:26:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:28:06:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:29:21:  Toolbox
+16:29:26:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:30:16:  计算器
+16:30:36:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:31:21:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031625.log
+16:31:26:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:31:31:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031631.log
+16:31:56:  计算器
+16:32:01:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031631.log
+16:32:06:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED)
+16:32:16:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:32:51:  锁屏状态
+16:32:56:  发送指令到K18
+16:33:01:  CRS调测工具（研发版）V1.0.2.1
+16:33:06:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031631.log
+16:33:16:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031632.log
+16:36:21:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED)
+16:36:31:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031632.log
+16:37:16:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:38:01:  KE06LOG.bat - 快捷方式 (2)
+16:38:06:  RTT_SeggerLog_202012031619.log - [No filter file] - TextAnalysisTool.NET
+16:38:51:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031632.log
+16:38:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031637.log
+16:39:06:  计算器
+16:39:11:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031637.log
+16:39:21:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED)
+16:39:41:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:40:11:  KE18LOG.bat - 快捷方式
+16:40:16:  发送指令到K18
+16:40:21:  CRS调测工具（研发版）V1.0.2.1
+16:40:26:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031640.log
+16:43:26:  Decode
+16:43:31:  爆仓问题(1)
+16:43:36:  20201112
+16:43:41:  CS_0000_20201112091001.log - [No filter file] - TextAnalysisTool.NET
+16:44:01:  Add Filter
+16:44:06:  CS_0000_20201112091001.log - [No filter file]* - TextAnalysisTool.NET
+16:44:46:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031640.log
+16:44:06:  CS_0000_20201112091001.log - [No filter file]* - TextAnalysisTool.NET
+16:44:46:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031640.log
+16:48:41:  Decode
+16:48:46:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:49:36:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031640.log
+16:49:46:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:49:51:  锁屏状态
+16:49:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031649.log
+16:50:11:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED)
+16:50:21:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:50:46:  KE18LOG.bat - 快捷方式
+16:50:51:  发送指令到K18
+16:50:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031649.log
+16:52:41:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:53:06:  KE18LOG.bat - 快捷方式
+16:53:11:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031653.log
+16:53:21:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED)
+16:53:31:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031653.log
+16:53:41:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:54:11:  KE18LOG.bat - 快捷方式
+16:54:16:  发送指令到K18
+16:54:21:  CRS调测工具（研发版）V1.0.2.1
+16:54:31:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031654.log
+16:55:01:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:55:16:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031654.log
+16:58:56:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:59:26:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031654.log
+16:59:31:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:58:56:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:59:26:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031654.log
+16:59:31:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+17:01:21:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED)
+17:01:56:  KE18LOG.bat - 快捷方式
+17:02:01:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED)
+17:02:16:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+17:02:36:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031654.log
+17:02:41:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031702.log
+17:02:56:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED)
+17:03:06:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+17:03:36:  发送指令到K18
+17:03:41:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031702.log
+17:03:46:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031703.log
+17:03:56:  C:\Users\zhangkaifa\Desktop\CRSTesttool_20201125\CRSTesttool_20201125(2)\CRSTesttool_20201125\log\TCRControlCmdDLL\20201202\K18_0000_20201202110121.log • (DRB--) - Sublime Text (UNREGISTERED)
+17:04:11:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012031703.log
+17:06:11:  锁屏状态

@@ -1,0 +1,1247 @@
+08:00:54:  自动播放
+08:00:59:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007161637.log
+08:01:09:  荆文波
+08:01:59:  于斌1
+08:02:24:  Watch 1
+08:02:29:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:07:34:  μVision
+08:10:29:  SystemConfig.h - trunk - Visual Studio Code [管理员]
+08:11:14:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+08:11:24:  ● CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+08:11:29:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+08:11:50:  ● CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+08:12:00:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+08:15:03:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+08:15:03:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+08:17:55:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+08:18:15:  设置 - trunk - Visual Studio Code [管理员]
+08:18:20:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+08:21:12:  ● CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+08:22:57:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+08:24:17:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+08:27:18:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+08:28:23:  于斌1
+08:29:08:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+08:29:13:  于斌1
+08:28:23:  于斌1
+08:29:08:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+08:29:13:  于斌1
+08:30:08:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+08:30:43:  于斌1
+08:31:28:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+08:32:53:  于斌1
+08:33:08:  eSpace
+08:33:18:  于斌1
+08:33:33:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+08:33:38:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+08:34:58:  DRB-PRESS
+08:35:03:  于斌1
+08:35:08:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:35:53:  于斌1
+08:35:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:37:53:  Watch 1
+08:37:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:45:58:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+08:46:33:  于斌1
+08:46:48:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+08:47:38:  于斌1
+08:47:53:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+08:48:53:  钞箱集成测试方案-报告
+08:48:58:  6.4.1 钞箱中断及线程资源测试V1.1.xlsx  [受保护的视图] - Excel
+08:50:18:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:50:28:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:51:03:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:55:18:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:55:48:  答复: Sonarlint For PClint使用说明
+08:55:58:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:57:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:59:33:  锁屏状态
+08:59:38:  6.4.1 钞箱中断及线程资源测试V1.1.xlsx  [受保护的视图] - Excel
+08:59:43:  6.4.1 钞箱中断及线程资源测试V1.1.xlsx  [只读] - Excel
+08:59:48:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+08:59:33:  锁屏状态
+08:59:38:  6.4.1 钞箱中断及线程资源测试V1.1.xlsx  [受保护的视图] - Excel
+08:59:43:  6.4.1 钞箱中断及线程资源测试V1.1.xlsx  [只读] - Excel
+08:59:48:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+09:00:08:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:02:23:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+09:02:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:03:08:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+09:03:18:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:04:18:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+09:05:43:  6.4.1 钞箱中断及线程资源测试V1.1.xlsx  [受保护的视图] - Excel
+09:05:58:  6.4.1 钞箱中断及线程资源测试V1.1.xlsx  [只读] - Excel
+09:06:03:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+09:06:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:06:58:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:07:03:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:07:08:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:07:13:  D:\00-06\DRB-PRESS\Middlewares\Plate\PlateCommon.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:07:18:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:07:28:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:07:38:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\LpitDriver\LpitDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:07:53:  D:\00-06\DRB-PRESS\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:08:18:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:08:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:10:33:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+09:10:38:  6.4.1 钞箱中断及线程资源测试V1.1.xlsx  [只读] - Excel
+09:10:48:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:13:18:  锁屏状态
+09:13:23:  主页 - Internet Explorer
+09:13:28:  新北洋OA信息化平台 - Internet Explorer
+09:13:38:  2020年新北洋张村食堂7.13-7.19菜谱.xlsx  [受保护的视图] - Excel
+09:13:58:  6.4.1 钞箱中断及线程资源测试V1.1.xlsx  [只读] - Excel
+09:14:08:  新北洋OA信息化平台 - Internet Explorer
+09:14:13:  于斌1
+09:14:38:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:14:08:  新北洋OA信息化平台 - Internet Explorer
+09:14:13:  于斌1
+09:14:38:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:15:53:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+09:16:08:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:17:48:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+09:19:08:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:19:14:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+09:19:44:  ● CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+09:19:49:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+09:22:14:  ● CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+09:23:19:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:26:34:  ● CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:27:14:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:31:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:31:19:  6.4.1 钞箱中断及线程资源测试V1.1.xlsx  [只读] - Excel
+09:31:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:32:09:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+09:32:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:32:29:  钞箱集成测试方案-报告
+09:32:34:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:34:04:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:34:19:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\RtcDriver\RtcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:34:24:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:34:29:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:38:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:38:14:  μVision
+09:38:24:  锁屏状态
+09:38:29:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\RtcDriver\RtcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:38:34:  μVision
+09:38:39:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:39:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:40:14:  JLink - Cortex-M Error
+09:40:19:  μVision
+09:40:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:40:34:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:41:19:  ● CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:41:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:43:04:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:43:09:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:43:14:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:43:24:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:43:29:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\LpitDriver\LpitDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:43:34:  μVision
+09:43:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:46:44:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:46:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:48:09:  RTT_SeggerLog_202007170947.log - DRB.tat* - TextAnalysisTool.NET
+09:48:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:49:04:  6.4.1 钞箱中断及线程资源测试V1.1.xlsx  [只读] - Excel
+09:49:14:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007170947.log
+09:49:29:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:49:49:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\LpitDriver\LpitDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:49:54:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:51:34:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+09:51:44:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:52:09:  窦志远
+09:53:14:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:53:59:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:54:29:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:54:59:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:55:04:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:55:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:56:19:  VSCode
+09:56:54:  插件
+09:57:04:  正在打开 - Word
+09:57:09:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+09:57:54:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:57:59:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+09:58:04:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:58:29:  扩展: SonarLint For PClint - trunk - Visual Studio Code [管理员]
+09:58:34:  设置 - trunk - Visual Studio Code [管理员]
+09:58:49:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+09:59:14:  设置 - trunk - Visual Studio Code [管理员]
+09:59:24:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+09:59:29:  设置 - trunk - Visual Studio Code [管理员]
+09:59:34:  ● settings.json - trunk - Visual Studio Code [管理员]
+09:59:39:  锁屏状态
+09:59:44:  新标签页 - Google Chrome
+09:59:49:  SonarQube - Google Chrome
+09:59:59:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+10:00:04:  项目 - Google Chrome
+09:58:29:  扩展: SonarLint For PClint - trunk - Visual Studio Code [管理员]
+09:58:34:  设置 - trunk - Visual Studio Code [管理员]
+09:58:49:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+09:59:14:  设置 - trunk - Visual Studio Code [管理员]
+09:59:24:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+09:59:29:  设置 - trunk - Visual Studio Code [管理员]
+09:59:34:  ● settings.json - trunk - Visual Studio Code [管理员]
+09:59:39:  锁屏状态
+09:59:44:  新标签页 - Google Chrome
+09:59:49:  SonarQube - Google Chrome
+09:59:59:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+10:00:04:  项目 - Google Chrome
+10:00:24:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+10:00:29:  项目 - Google Chrome
+10:00:39:  安全 - 我的账号 - Google Chrome
+10:00:49:  settings.json - trunk - Visual Studio Code [管理员]
+10:00:54:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+10:01:04:  settings.json - trunk - Visual Studio Code [管理员]
+10:01:09:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+10:01:24:  settings.json - trunk - Visual Studio Code [管理员]
+10:01:54:  设置 - trunk - Visual Studio Code [管理员]
+10:02:34:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+10:02:49:  设置 - trunk - Visual Studio Code [管理员]
+10:02:54:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+10:03:09:  设置 - trunk - Visual Studio Code [管理员]
+10:03:19:  Windows 资源管理器
+10:03:24:  计算机
+10:03:54:  jre1.8.0_201
+10:04:04:  设置 - trunk - Visual Studio Code [管理员]
+10:04:14:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+10:04:19:  网易有道词典
+10:04:29:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+10:04:49:  设置 - trunk - Visual Studio Code [管理员]
+10:04:54:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+10:05:44:  设置 - trunk - Visual Studio Code [管理员]
+10:05:49:  ● settings.json - trunk - Visual Studio Code [管理员]
+10:05:54:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+10:05:59:  settings.json - trunk - Visual Studio Code [管理员]
+10:06:09:  安全 - 我的账号 - Google Chrome
+10:06:14:  项目 - Google Chrome
+10:06:19:  settings.json - trunk - Visual Studio Code [管理员]
+10:06:24:  打开文件夹
+10:06:34:  Visual Studio Code
+10:06:44:  SystemConfig.h - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:06:49:  扩展: SonarLint For PClint - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:06:54:  设置 - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:06:59:  ● settings.json - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:07:04:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+10:07:19:  ● settings.json - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:07:34:  打开文件夹
+10:07:39:  settings.json - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:07:44:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+10:08:44:  settings.json - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:08:49:  ● settings.json - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:08:54:  新建文本文档.exe - 快捷方式
+10:08:59:  SonarLint
+10:09:04:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+10:09:09:  ErrCode.h - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:09:14:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+10:09:19:  ErrCode.h - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:09:54:  eSpace
+10:09:59:  ErrCode.h - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:10:04:  eSpace
+10:10:19:  ErrCode.h - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:10:24:  设置 - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:10:29:  ErrCode.h - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:11:19:  设置 - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:11:34:  ErrCode.h - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:12:09:  settings.json - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:12:14:  ErrCode.h - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:12:24:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+10:12:29:  settings.json - BR-1-CashBox1T2 - Visual Studio Code [管理员]
+10:12:39:  打开文件夹
+10:12:44:  PaperManage.c - trunk - Visual Studio Code [管理员]
+10:12:54:  PaperManage.c - trunk - Visual Studio Code
+10:12:59:  PaperManage.c - trunk - Visual Studio Code [管理员]
+10:13:04:  设置 - trunk - Visual Studio Code [管理员]
+10:13:14:  ● settings.json - trunk - Visual Studio Code [管理员]
+10:13:19:  settings.json - trunk - Visual Studio Code [管理员]
+10:13:24:  PaperManage.c - trunk - Visual Studio Code [管理员]
+10:13:49:  设置 - trunk - Visual Studio Code [管理员]
+10:13:54:  ● settings.json - trunk - Visual Studio Code [管理员]
+10:14:04:  设置 - trunk - Visual Studio Code [管理员]
+10:14:44:  Project
+10:14:49:  C:\lint\lint-nt.exe
+10:14:54:  Project
+10:14:59:  「开始」菜单
+10:14:44:  Project
+10:14:49:  C:\lint\lint-nt.exe
+10:14:54:  Project
+10:14:59:  「开始」菜单
+10:15:09:  计算机管理
+10:15:14:  系统
+10:15:19:  编辑用户变量
+10:15:29:  设置 - trunk - Visual Studio Code [管理员]
+10:15:34:  编辑用户变量
+10:15:44:  设置 - trunk - Visual Studio Code [管理员]
+10:15:49:  编辑用户变量
+10:16:04:  ● PaperManage.c - trunk - Visual Studio Code [管理员]
+10:16:09:  环境变量
+10:16:14:  编辑系统变量
+10:16:24:  ● PaperManage.c - trunk - Visual Studio Code [管理员]
+10:16:34:  PaperManage.c - trunk - Visual Studio Code [管理员]
+10:16:49:  设置 - trunk - Visual Studio Code [管理员]
+10:17:19:  Visual Studio Code
+10:17:29:  设置 - trunk - Visual Studio Code [管理员]
+10:17:54:  eSpace
+10:17:59:  胡蕊
+10:18:49:  设置 - trunk - Visual Studio Code [管理员]
+10:18:59:  胡蕊
+10:19:09:  Visual Studio Code
+10:19:14:  我的账号 - Google Chrome
+10:19:19:  安全 - 我的账号 - Google Chrome
+10:19:34:  胡蕊
+10:19:54:  设置 - trunk - Visual Studio Code [管理员]
+10:20:19:  胡蕊
+10:20:29:  设置 - trunk - Visual Studio Code [管理员]
+10:20:39:  胡蕊
+10:21:04:  PaperManage.c - trunk - Visual Studio Code [管理员]
+10:21:14:  胡蕊
+10:22:39:  Plate.c - trunk - Visual Studio Code [管理员]
+10:22:59:  胡蕊
+10:23:04:  跳转列表
+10:23:09:  于斌1
+10:23:14:  Plate.c - trunk - Visual Studio Code [管理员]
+10:23:19:  胡蕊
+10:23:39:  于斌1
+10:23:44:  胡蕊
+10:24:04:  桌面
+10:24:09:  Subversion
+10:24:14:  screentogif_v2.22.0
+10:24:19:  打开文件夹
+10:24:24:  Plate.c - trunk - Visual Studio Code [管理员]
+10:24:29:  设置 - trunk - Visual Studio Code [管理员]
+10:24:34:  打开文件 - 安全警告
+10:24:39:  设置 - trunk - Visual Studio Code [管理员]
+10:24:49:  screentogif_v2.22.0
+10:24:54:  ScreenToGif
+10:25:09:  设置 - trunk - Visual Studio Code [管理员]
+10:25:14:  ScreenToGif - 编辑器
+10:25:44:  编码器
+10:25:49:  ScreenToGif - 编辑器
+10:25:54:  桌面整理
+10:25:59:  112 - 写邮件
+10:26:19:  胡蕊
+10:26:29:  C:\Users\zhangkaifa\Desktop\112.gif - Internet Explorer
+10:26:44:  胡蕊
+10:26:49:  C:\Users\zhangkaifa\Desktop\112.gif - Internet Explorer
+10:27:14:  胡蕊
+10:28:14:  设置 - trunk - Visual Studio Code [管理员]
+10:28:24:  ScreenToGif - 编辑器
+10:29:29:  设置 - trunk - Visual Studio Code [管理员]
+10:29:34:  桌面
+10:29:44:  C:\Users\zhangkaifa\Desktop\112.gif - Internet Explorer
+10:28:14:  设置 - trunk - Visual Studio Code [管理员]
+10:28:24:  ScreenToGif - 编辑器
+10:29:29:  设置 - trunk - Visual Studio Code [管理员]
+10:29:34:  桌面
+10:29:44:  C:\Users\zhangkaifa\Desktop\112.gif - Internet Explorer
+10:31:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:31:14:  设置 - trunk - Visual Studio Code [管理员]
+10:31:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:32:49:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:32:59:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:33:04:  This is an unregistered copy
+10:33:09:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:35:34:  ● settings.json - trunk - Visual Studio Code [管理员]
+10:35:54:  胡蕊
+10:36:19:  设置 - trunk - Visual Studio Code [管理员]
+10:36:24:  胡蕊
+10:37:29:  settings.json - trunk - Visual Studio Code [管理员]
+10:37:44:  胡蕊
+10:38:49:  settings.json - trunk - Visual Studio Code [管理员]
+10:38:54:  ● settings.json - trunk - Visual Studio Code [管理员]
+10:39:44:  settings.json - trunk - Visual Studio Code [管理员]
+10:39:54:  ● settings.json - trunk - Visual Studio Code [管理员]
+10:40:04:  胡蕊
+10:40:19:  settings.json - trunk - Visual Studio Code [管理员]
+10:40:29:  SonarLint
+10:40:34:  Subversion
+10:40:39:  settings.json - trunk - Visual Studio Code [管理员]
+10:40:44:  ScreenToGif - 启动
+10:40:54:  settings.json - trunk - Visual Studio Code [管理员]
+10:40:59:  ScreenToGif - 画板录像机
+10:41:04:  ScreenToGif - 启动
+10:41:09:  settings.json - trunk - Visual Studio Code [管理员]
+10:41:14:  胡蕊
+10:41:24:  settings.json - trunk - Visual Studio Code [管理员]
+10:41:29:  胡蕊
+10:41:39:  收取邮件 - 张开发
+10:41:54:  问题日志
+10:42:29:  ID-4 反向盘点盘不完
+10:42:44:  Excel
+10:42:49:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+10:43:19:  问题日志
+10:43:24:  Decode
+10:43:39:  fenxi
+10:43:44:  ScreenToGif - 启动
+10:43:49:  新建文件夹 (2)
+10:43:54:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:44:09:  LOG
+10:44:09:  LOG
+10:45:29:  RTT_SeggerLog_202007170947.log - DRB.tat* - TextAnalysisTool.NET
+10:45:34:  Box_2__BTCR-1100190803000001_20200709150714.log - DRB.tat* - TextAnalysisTool.NET
+10:45:39:  Box_2__BTCR-1100190803000001_20200709150701.log - DRB.tat* - TextAnalysisTool.NET
+10:45:44:  Box_2__BTCR-1100190803000001_20200709150130.log - DRB.tat* - TextAnalysisTool.NET
+10:46:14:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+10:46:59:  ScreenToGif - 启动
+10:48:19:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+10:48:24:  胡蕊
+10:48:34:  settings.json - trunk - Visual Studio Code [管理员]
+10:48:39:  设置 - trunk - Visual Studio Code [管理员]
+10:49:00:  PaperManage.c - trunk - Visual Studio Code [管理员]
+10:49:05:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+10:49:10:  K64_BTCR-1100190803000001_20200709140401
+10:49:15:  LOG
+10:49:25:  Box_2__BTCR-1100190803000001_20200709141527.log - DRB.tat* - TextAnalysisTool.NET
+10:50:10:  K64_BTCR-1100190803000001_20200709141615
+10:50:15:  Box_2__BTCR-1100190803000001_20200709141615.log - DRB.tat* - TextAnalysisTool.NET
+10:52:20:  胡蕊
+10:52:25:  设置 - trunk - Visual Studio Code [管理员]
+10:52:40:  胡蕊
+10:52:45:  设置 - trunk - Visual Studio Code [管理员]
+10:53:00:  胡蕊
+10:53:05:  设置 - trunk - Visual Studio Code [管理员]
+10:53:15:  胡蕊
+10:53:25:  settings.json - trunk - Visual Studio Code [管理员]
+10:53:30:  胡蕊
+10:53:35:  settings.json - trunk - Visual Studio Code [管理员]
+10:55:35:  胡蕊
+10:57:25:  Box_2__BTCR-1100190803000001_20200709141615.log - DRB.tat* - TextAnalysisTool.NET
+10:57:50:  安全 - 我的账号 - Google Chrome
+10:57:55:  Box_2__BTCR-1100190803000001_20200709141703.log - DRB.tat* - TextAnalysisTool.NET
+10:58:10:  K64_BTCR-1100190803000001_20200709142130
+10:58:15:  Box_2__BTCR-1100190803000001_20200709142130.log - DRB.tat* - TextAnalysisTool.NET
+10:58:55:  胡蕊
+10:59:05:  settings.json - trunk - Visual Studio Code [管理员]
+10:59:15:  胡蕊
+10:59:35:  settings.json - trunk - Visual Studio Code [管理员]
+10:58:10:  K64_BTCR-1100190803000001_20200709142130
+10:58:15:  Box_2__BTCR-1100190803000001_20200709142130.log - DRB.tat* - TextAnalysisTool.NET
+10:58:55:  胡蕊
+10:59:05:  settings.json - trunk - Visual Studio Code [管理员]
+10:59:15:  胡蕊
+10:59:35:  settings.json - trunk - Visual Studio Code [管理员]
+11:00:25:  设置 - trunk - Visual Studio Code [管理员]
+11:00:30:  settings.json - trunk - Visual Studio Code [管理员]
+11:00:35:  设置 - trunk - Visual Studio Code [管理员]
+11:01:05:  胡蕊
+11:01:30:  设置 - trunk - Visual Studio Code [管理员]
+11:01:40:  锁屏状态
+11:01:45:  Box_2__BTCR-1100190803000001_20200709142130.log - DRB.tat* - TextAnalysisTool.NET
+11:02:45:  胡蕊
+11:02:55:  设置 - trunk - Visual Studio Code [管理员]
+11:03:00:  胡蕊
+11:03:05:  设置 - trunk - Visual Studio Code [管理员]
+11:03:20:  胡蕊
+11:03:25:  设置 - trunk - Visual Studio Code [管理员]
+11:03:40:  ● settings.json - trunk - Visual Studio Code [管理员]
+11:04:10:  settings.json - trunk - Visual Studio Code [管理员]
+11:04:15:  ● settings.json - trunk - Visual Studio Code [管理员]
+11:04:20:  settings.json - trunk - Visual Studio Code [管理员]
+11:04:25:  ● settings.json - trunk - Visual Studio Code [管理员]
+11:04:30:  settings.json - trunk - Visual Studio Code [管理员]
+11:04:45:  本地磁盘 (D:)
+11:04:50:  DRB-PRESS
+11:05:00:  1T1-Stop-Length
+11:05:10:  settings.json - trunk - Visual Studio Code [管理员]
+11:05:20:  ● settings.json - trunk - Visual Studio Code [管理员]
+11:05:30:  settings.json - trunk - Visual Studio Code [管理员]
+11:05:40:  PaperManage.c - trunk - Visual Studio Code [管理员]
+11:05:50:  设置 - trunk - Visual Studio Code [管理员]
+11:06:20:  锁屏状态
+11:06:25:  Box_2__BTCR-1100190803000001_20200709142130.log - DRB.tat* - TextAnalysisTool.NET
+11:06:40:  00-06
+11:06:45:  fenxi
+11:06:50:  LOG
+11:06:55:  Box_2__BTCR-1100190803000001_20200709150714.log - DRB.tat* - TextAnalysisTool.NET
+11:07:05:  Edit Filter
+11:07:15:  Box_2__BTCR-1100190803000001_20200709150714.log - DRB.tat* - TextAnalysisTool.NET
+11:10:00:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:10:50:  本地磁盘 (D:)
+11:11:00:  K64_BTCR-1100190803000001_20200709142130
+11:11:05:  问题日志
+11:11:10:  ID-4 反向盘点盘不完
+11:11:20:  问题日志
+11:11:30:  ID-4 反向盘点盘不完
+11:13:05:  问题日志
+11:14:30:  锁屏状态
+11:14:35:  K64_BTCR-1100190803000001_20200709142130
+11:14:50:  LOG
+11:14:30:  锁屏状态
+11:14:35:  K64_BTCR-1100190803000001_20200709142130
+11:14:50:  LOG
+11:15:05:  胡蕊
+11:15:10:  LOG
+11:15:45:  胡蕊
+11:16:00:  Box_2__BTCR-1100190803000001_20200709150714.log - DRB.tat* - TextAnalysisTool.NET
+11:16:05:  K64_BTCR-1100190803000001_20200709150701
+11:16:20:  Box_2__BTCR-1100190803000001_20200709150701.log - DRB.tat* - TextAnalysisTool.NET
+11:16:25:  Box_2__BTCR-1100190803000001_20200709150130.log - DRB.tat* - TextAnalysisTool.NET
+11:16:35:  计算器
+11:16:45:  Box_2__BTCR-1100190803000001_20200709150130.log - DRB.tat* - TextAnalysisTool.NET
+11:17:20:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:23:05:  安全 - 我的账号 - Google Chrome
+11:23:10:  新标签页 - Google Chrome
+11:23:15:  登录页面 - 数据抓取工具 - Google Chrome
+11:23:20:  数据抓取工具 - Google Chrome
+11:23:25:  于斌1
+11:23:45:  数据抓取工具 - Google Chrome
+11:24:10:  Excel
+11:24:20:  个人周报-张开发 (42).xlsx - Excel
+11:26:40:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+11:26:45:  打开
+11:26:50:  于斌1
+11:27:55:  数据抓取工具 - Google Chrome
+11:28:00:  42 CRS现金循环模块
+11:28:05:  指令集
+11:28:10:  06 固件日报
+11:28:15:  06- 刘建生
+11:28:20:  TCR（DRB）项目周报.xlsx  [受保护的视图] - Excel
+11:28:25:  TCR（DRB）项目周报.xlsx  [共享] - Excel
+11:28:05:  指令集
+11:28:10:  06 固件日报
+11:28:15:  06- 刘建生
+11:28:20:  TCR（DRB）项目周报.xlsx  [受保护的视图] - Excel
+11:28:25:  TCR（DRB）项目周报.xlsx  [共享] - Excel
+11:31:45:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+11:35:15:  胡蕊
+11:35:20:  设置 - trunk - Visual Studio Code [管理员]
+11:35:25:  扩展: Thief-Book - trunk - Visual Studio Code [管理员]
+11:35:30:  「开始」菜单
+11:35:35:  设置 - trunk - Visual Studio Code [管理员]
+11:35:45:  扩展: C++ Intellisense - trunk - Visual Studio Code [管理员]
+11:36:05:  3232.py - trunk - Visual Studio Code [管理员]
+11:36:20:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:36:40:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:36:55:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:43:20:  于斌1
+11:43:45:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:45:25:  于斌1
+11:45:30:  锁屏状态
+13:11:51:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:11:56:  程明昌
+13:14:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:14:31:  程明昌
+13:14:31:  程明昌
+13:19:56:  3232.py - trunk - Visual Studio Code [管理员]
+13:20:01:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+13:20:11:  PaperManage.c - trunk - Visual Studio Code [管理员]
+13:20:16:  eSpace
+13:20:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:20:51:  Toolbox
+13:20:56:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:21:31:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+13:21:41:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:22:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007170947.log
+13:23:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:23:11:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:24:11:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:25:26:  疫情相关通知：关于北京来威人员及北京出差员工最新管控政策
+13:26:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:27:41:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007170947.log
+13:27:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:30:27:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:31:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:31:17:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:31:22:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:31:57:  D:\00-06\DRB-PRESS\Applications\Separate\Separate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:32:02:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:32:22:  D:\00-06\DRB-PRESS\Applications\Separate\Separate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:32:27:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:32:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:33:57:  eSpace
+13:34:07:  刘茂林
+13:37:22:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:37:32:  D:\00-06\DRB-PRESS\Middlewares\StepMotor\StepMotor.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:37:37:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:37:42:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:41:12:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:41:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:41:27:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+13:41:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:43:52:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:43:57:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:07:  μVision
+13:44:12:  便签管理器
+13:44:17:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:22:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:27:  「开始」菜单
+13:44:37:  无标题页 - OneNote
+13:44:42:  5us - OneNote
+13:44:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:44:07:  μVision
+13:44:12:  便签管理器
+13:44:17:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:22:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:27:  「开始」菜单
+13:44:37:  无标题页 - OneNote
+13:44:42:  5us - OneNote
+13:44:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:46:07:  锁屏状态
+13:46:12:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:46:17:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:46:32:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:46:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:47:07:  Toolbox
+13:47:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:51:47:  5us - OneNote
+13:51:57:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:52:07:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:52:22:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:52:27:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:52:32:  D:\00-06\DRB-PRESS\Applications\Separate\Separate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:52:42:  D:\00-06\DRB-PRESS\Applications\Separate\Separate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:52:47:  D:\00-06\DRB-PRESS\Applications\Separate\Separate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:52:52:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:53:07:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:53:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:55:02:  5us - OneNote
+13:55:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:55:42:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:56:02:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:56:17:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:56:32:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:56:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:57:12:  Toolbox
+13:57:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:58:32:  5us - OneNote
+13:58:37:  计算器
+13:58:47:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:58:57:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:59:47:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:59:57:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:58:32:  5us - OneNote
+13:58:37:  计算器
+13:58:47:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:58:57:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:59:47:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:59:57:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:00:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:02:17:  Toolbox
+14:02:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:05:37:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:08:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:08:12:  5us - OneNote
+14:08:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:10:07:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:10:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:10:42:  荆文波
+14:10:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:12:42:  荆文波
+14:12:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:14:12:  5us - OneNote
+14:14:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:14:42:  KE06LOG.bat - 快捷方式 (2)
+14:14:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:14:57:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007171414.log
+14:15:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:14:12:  5us - OneNote
+14:14:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:14:42:  KE06LOG.bat - 快捷方式 (2)
+14:14:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:14:57:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007171414.log
+14:15:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:15:12:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:15:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:15:47:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:16:52:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\RtcDriver\RtcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:17:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:19:22:  D:\00-06\DRB-PRESS\Applications\Separate\Separate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:19:27:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:20:17:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:20:57:  荆文波
+14:21:02:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:22:12:  锁屏状态
+14:22:52:  6.4.1 钞箱中断及线程资源测试V1.1.xlsx  [只读] - Excel
+14:23:07:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:25:32:  5us - OneNote
+14:26:07:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:26:52:  荆文波
+14:27:22:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:27:42:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:27:47:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:27:52:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:12:  荆文波
+14:28:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:29:27:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:29:37:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:29:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:30:02:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:12:  荆文波
+14:28:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:29:27:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:29:37:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:29:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:30:02:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:30:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:33:52:  ID-4 反向盘点盘不完
+14:33:57:  荆文波
+14:34:02:  ID-4 反向盘点盘不完
+14:34:07:  荆文波
+14:34:17:  问题日志
+14:34:22:  荆文波
+14:34:27:  7.17
+14:34:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:35:02:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:35:27:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:36:12:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:36:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:36:32:  5us - OneNote
+14:36:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:36:47:  Toolbox
+14:36:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:39:47:  5us - OneNote
+14:39:52:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:39:57:  5us - OneNote
+14:40:02:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:40:07:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:40:12:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:40:17:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:41:02:  5us - OneNote
+14:41:47:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:42:42:  本地磁盘 (D:)
+14:42:47:  trunk
+14:42:52:  Tools
+14:42:57:  192.168.28.47
+14:43:02:  固件版本
+14:43:07:  K06
+14:43:27:  本地磁盘 (F:)
+14:43:32:  K06
+14:43:37:  巴西TCR_液晶版
+14:43:42:  固件版本
+14:43:52:  美版TCR_液晶版
+14:43:57:  K06
+14:44:38:  Tools
+14:44:43:  μVision
+14:44:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:45:03:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:44:38:  Tools
+14:44:43:  μVision
+14:44:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:45:03:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:45:08:  5us - OneNote
+14:45:13:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:45:48:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:45:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:47:13:  Toolbox
+14:47:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:48:08:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:48:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:49:18:  Toolbox
+14:49:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:50:18:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:51:13:  6.4.1 钞箱中断及线程资源测试V1.1.xlsx  [只读] - Excel
+14:53:03:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+14:53:08:  6.4.1 钞箱中断及线程资源测试V1.1.xlsx  [只读] - Excel
+14:53:13:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+14:53:43:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:55:23:  D:\00-06\DRB-PRESS\Applications\Separate\Separate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:55:28:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:55:38:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+14:56:43:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:56:53:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:57:03:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:57:18:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:58:03:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:58:08:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:58:13:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:58:18:  D:\00-06\DRB-PRESS\FwLib\Config\DebugConfig.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:58:23:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:58:33:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:58:38:  D:\00-06\DRB-PRESS\FwLib\Config\DebugConfig.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:58:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:58:48:  eSpace
+14:58:53:  于斌1
+14:58:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:59:08:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:59:18:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:59:23:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:59:28:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:59:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:59:38:  于斌1
+14:59:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:59:48:  锁屏状态
+14:59:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:58:08:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:58:13:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:58:18:  D:\00-06\DRB-PRESS\FwLib\Config\DebugConfig.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:58:23:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:58:33:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:58:38:  D:\00-06\DRB-PRESS\FwLib\Config\DebugConfig.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:58:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:58:48:  eSpace
+14:58:53:  于斌1
+14:58:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:59:08:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:59:18:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:59:23:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:59:28:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:59:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:59:38:  于斌1
+14:59:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:59:48:  锁屏状态
+14:59:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:00:23:  于斌1
+15:00:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:01:18:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:01:38:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:02:18:  5us - OneNote
+15:02:33:  于斌1
+15:02:38:  5us - OneNote
+15:02:43:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:02:48:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:02:53:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:03:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:05:03:  于斌1
+15:05:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:06:23:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:06:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:07:33:  5us - OneNote
+15:07:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:08:13:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:08:43:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:10:08:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:10:18:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:10:28:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:10:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:10:43:  μVision
+15:11:03:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:11:38:  于斌1
+15:21:58:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:22:03:  于斌1
+15:22:08:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:22:23:  PaperManage.c - trunk - Visual Studio Code [管理员]
+15:22:33:  设置 - trunk - Visual Studio Code [管理员]
+15:22:53:  settings.json - trunk - Visual Studio Code [管理员]
+15:23:48:  扩展: Settings Sync - trunk - Visual Studio Code [管理员]
+15:23:58:  「开始」菜单
+15:24:03:  Visual Studio Code
+15:24:08:  settings.json - trunk - Visual Studio Code [管理员]
+15:24:18:  设置 - trunk - Visual Studio Code [管理员]
+15:24:28:  Plate.c - trunk - Visual Studio Code [管理员]
+15:25:23:  settings.json - trunk - Visual Studio Code [管理员]
+15:26:18:  ● settings.json - trunk - Visual Studio Code [管理员]
+15:26:28:  settings.json - trunk - Visual Studio Code [管理员]
+15:26:43:  Plate.c - trunk - Visual Studio Code [管理员]
+15:26:58:  settings.json - trunk - Visual Studio Code [管理员]
+15:27:13:  ● settings.json - trunk - Visual Studio Code [管理员]
+15:27:43:  settings.json - trunk - Visual Studio Code [管理员]
+15:27:48:  「开始」菜单
+15:27:53:  settings.json - trunk - Visual Studio Code [管理员]
+15:27:58:  Plate.c - trunk - Visual Studio Code [管理员]
+15:28:13:  settings.json - trunk - Visual Studio Code [管理员]
+15:28:43:  ● settings.json - trunk - Visual Studio Code [管理员]
+15:28:48:  settings.json - trunk - Visual Studio Code [管理员]
+15:29:13:  计算机
+15:29:18:  User
+15:29:23:  桌面整理
+15:29:33:  ● settings.json - trunk - Visual Studio Code [管理员]
+15:29:38:  「开始」菜单
+15:29:43:  settings.json - trunk - Visual Studio Code [管理员]
+15:29:48:  Plate.c - trunk - Visual Studio Code [管理员]
+15:28:13:  settings.json - trunk - Visual Studio Code [管理员]
+15:28:43:  ● settings.json - trunk - Visual Studio Code [管理员]
+15:28:48:  settings.json - trunk - Visual Studio Code [管理员]
+15:29:13:  计算机
+15:29:18:  User
+15:29:23:  桌面整理
+15:29:33:  ● settings.json - trunk - Visual Studio Code [管理员]
+15:29:38:  「开始」菜单
+15:29:43:  settings.json - trunk - Visual Studio Code [管理员]
+15:29:48:  Plate.c - trunk - Visual Studio Code [管理员]
+15:30:23:  设置 - trunk - Visual Studio Code [管理员]
+15:30:53:  DRB-PRESS
+15:31:03:  管理员: C:\Windows\system32\cmd.exe
+15:31:48:  DRB-PRESS
+15:32:13:  钞箱托板 - Everything
+15:32:23:  SVN - Everything
+15:32:28:  SVN. - Everything
+15:32:33:  SVN.*?.exe - Everything
+15:32:38:  bin
+15:32:53:  本地磁盘 (C:)
+15:32:58:  系统
+15:33:03:  环境变量
+15:33:13:  编辑系统变量
+15:33:23:  系统
+15:33:28:  管理员: C:\Windows\system32\cmd.exe
+15:33:33:  6号 稳定性校验
+15:33:38:  本地磁盘 (C:)
+15:33:43:  设置 - trunk - Visual Studio Code [管理员]
+15:34:13:  ● settings.json - trunk - Visual Studio Code [管理员]
+15:34:23:  桌面整理
+15:34:43:  settings_back.json - trunk - Visual Studio Code [管理员]
+15:34:58:  ● settings.json - trunk - Visual Studio Code [管理员]
+15:35:03:  settings.json - trunk - Visual Studio Code [管理员]
+15:35:13:  设置 - trunk - Visual Studio Code [管理员]
+15:35:23:  settings.json - trunk - Visual Studio Code [管理员]
+15:35:28:  锁屏状态
+15:35:33:  项目 - Google Chrome
+15:35:38:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:35:43:  设置 - trunk - Visual Studio Code [管理员]
+15:35:48:  ● settings.json - trunk - Visual Studio Code [管理员]
+15:35:58:  settings.json - trunk - Visual Studio Code [管理员]
+15:36:03:  Plate.c - trunk - Visual Studio Code [管理员]
+15:36:33:  设置 - trunk - Visual Studio Code [管理员]
+15:36:53:  ● settings.json - trunk - Visual Studio Code [管理员]
+15:37:23:  settings.json - trunk - Visual Studio Code [管理员]
+15:37:33:  Visual Studio Code
+15:37:38:  settings.json - trunk - Visual Studio Code [管理员]
+15:37:43:  Track.c - trunk - Visual Studio Code [管理员]
+15:38:23:  settings.json - trunk - Visual Studio Code [管理员]
+15:40:53:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+15:41:33:  settings.json - trunk - Visual Studio Code [管理员]
+15:41:38:  ● settings.json - trunk - Visual Studio Code [管理员]
+15:41:53:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+15:42:03:  ● settings.json - trunk - Visual Studio Code [管理员]
+15:42:08:  设置 - trunk - Visual Studio Code [管理员]
+15:42:18:  ● settings.json - trunk - Visual Studio Code [管理员]
+15:42:28:  settings.json - trunk - Visual Studio Code [管理员]
+15:42:33:  Plate.c - trunk - Visual Studio Code [管理员]
+15:42:48:  settings.json - trunk - Visual Studio Code [管理员]
+15:42:58:  ● settings.json - trunk - Visual Studio Code [管理员]
+15:43:03:  Plate.c - trunk - Visual Studio Code [管理员]
+15:43:08:  ● settings.json - trunk - Visual Studio Code [管理员]
+15:43:13:  Plate.c - trunk - Visual Studio Code [管理员]
+15:43:33:  settings.json - trunk - Visual Studio Code [管理员]
+15:43:43:  设置 - trunk - Visual Studio Code [管理员]
+15:43:53:  Sonarlint For PClint使用说明V1.1.docx (受保护的视图) - Word
+15:43:58:  Visual Studio Code
+15:44:03:  设置 - trunk - Visual Studio Code [管理员]
+15:44:08:  Track.c - trunk - Visual Studio Code [管理员]
+15:45:03:  Ex使用指导.docx (受保护的视图) - Word
+15:44:08:  Track.c - trunk - Visual Studio Code [管理员]
+15:45:03:  Ex使用指导.docx (受保护的视图) - Word
+15:51:48:  桌面整理
+15:52:38:  Dialog
+15:52:58:  eSpace Login
+15:53:03:  Visual Studio Code
+15:53:13:  Track.c - trunk - Visual Studio Code
+15:53:18:  Track.c - trunk - Visual Studio Code [管理员]
+15:53:38:  ● Track.c - trunk - Visual Studio Code [管理员]
+15:53:43:  Track.c - trunk - Visual Studio Code [管理员]
+15:54:33:  系统
+15:54:38:  环境变量
+15:54:48:  编辑系统变量
+15:54:53:  Track.c - trunk - Visual Studio Code [管理员]
+15:55:18:  设置 - trunk - Visual Studio Code [管理员]
+15:56:08:  库
+15:56:18:  Java
+15:56:28:  jdk1.8.0_201
+15:56:33:  设置 - trunk - Visual Studio Code [管理员]
+15:56:53:  Visual Studio Code
+15:56:58:  设置 - trunk - Visual Studio Code [管理员]
+15:57:03:  Track.c - trunk - Visual Studio Code [管理员]
+15:57:08:  ● Track.c - trunk - Visual Studio Code [管理员]
+15:57:28:  设置 - trunk - Visual Studio Code [管理员]
+15:57:38:  「开始」菜单
+15:57:43:  设置 - trunk - Visual Studio Code [管理员]
+15:57:48:  ● Track.c - trunk - Visual Studio Code [管理员]
+15:57:58:  设置 - trunk - Visual Studio Code [管理员]
+15:58:03:  「开始」菜单
+15:58:09:  设置 - trunk - Visual Studio Code [管理员]
+15:58:34:  打开文件夹
+15:58:44:  设置 - trunk - Visual Studio Code [管理员]
+15:58:49:  jdk1.8.0_201
+15:58:54:  trunk
+15:58:59:  打开文件夹
+15:59:04:  Visual Studio Code
+15:59:09:  欢迎使用 - 1T1-Stop-Length - Visual Studio Code [管理员]
+15:59:19:  Initial.c - 1T1-Stop-Length - Visual Studio Code [管理员]
+15:59:39:  trunk
+15:59:44:  1T1-Stop-Length
+15:59:59:  确认属性更改
+16:00:04:  Initial.c - 1T1-Stop-Length - Visual Studio Code [管理员]
+15:58:09:  设置 - trunk - Visual Studio Code [管理员]
+15:58:34:  打开文件夹
+15:58:44:  设置 - trunk - Visual Studio Code [管理员]
+15:58:49:  jdk1.8.0_201
+15:58:54:  trunk
+15:58:59:  打开文件夹
+15:59:04:  Visual Studio Code
+15:59:09:  欢迎使用 - 1T1-Stop-Length - Visual Studio Code [管理员]
+15:59:19:  Initial.c - 1T1-Stop-Length - Visual Studio Code [管理员]
+15:59:39:  trunk
+15:59:44:  1T1-Stop-Length
+15:59:59:  确认属性更改
+16:00:04:  Initial.c - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:00:09:  打开文件夹
+16:00:14:  Initial.c - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:00:39:  1T1-Stop-Length
+16:00:44:  管理员: C:\Windows\system32\cmd.exe
+16:01:09:  s - Everything
+16:01:14:  svn.*?. - Everything
+16:01:19:  Service_KMS
+16:01:24:  bin
+16:01:34:  1T1-Stop-Length
+16:01:39:  svn.*?.exe - Everything
+16:01:44:  Program Files
+16:01:49:  svn.*?.exe - Everything
+16:01:54:  TortoiseSVN - Everything
+16:02:09:  管理员: C:\Windows\system32\cmd.exe
+16:02:14:  系统属性
+16:02:19:  编辑用户变量
+16:02:24:  Program Files
+16:02:29:  编辑用户变量
+16:02:39:  系统属性
+16:02:44:  bin
+16:02:49:  管理员: C:\Windows\system32\cmd.exe
+16:02:59:  Initial.c - 1T1-Stop-Length - Visual Studio Code
+16:03:04:  Initial.c - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:03:19:  系统
+16:03:24:  环境变量
+16:03:39:  新建文件夹 (2)
+16:03:44:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+16:03:59:  「开始」菜单
+16:04:04:  Initial.c - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:04:19:  「开始」菜单
+16:04:29:  5us - OneNote
+16:04:49:  本地磁盘 (D:)
+16:04:54:  DRB-PRESS
+16:04:59:  SECSplashWnd
+16:05:04:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:06:19:  锁屏状态
+16:06:24:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:06:34:  「开始」菜单
+16:06:39:  环境变量
+16:06:49:  Initial.c - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:08:24:  设置 - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:08:29:  ● settings.json - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:08:34:  锁屏状态
+16:08:39:  新标签页 - Google Chrome
+16:08:44:  项目 - Google Chrome
+16:08:49:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:08:54:  ● settings.json - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:09:14:  设置 - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:09:19:  settings.json - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:09:24:  ● settings.json - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:09:54:  settings.json - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:09:59:  Initial.c - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:10:39:  ● settings.json - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:10:49:  settings.json - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:11:04:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:11:14:  TortoiseSVN
+16:11:19:  00-06
+16:11:24:  trunk
+16:11:34:  trunk 属性
+16:11:49:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:11:59:  trunk 属性
+16:12:04:  D:\00-06\1T1-Stop-Length\trunk - 属性 - TortoiseSVN
+16:12:14:  trunk 属性
+16:12:19:  D:\00-06\1T1-Stop-Length\trunk - 属性 - TortoiseSVN
+16:12:24:  D:\00-06\1T1-Stop-Length\trunk - svn:externals - TortoiseSVN
+16:12:29:  D:\00-06\1T1-Stop-Length\trunk - 属性 - TortoiseSVN
+16:12:34:  trunk 属性
+16:12:49:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:12:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:13:04:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:13:14:  trunk 属性
+16:13:29:  项目 - Google Chrome
+16:13:49:  锁屏状态
+16:13:54:  settings.json - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:14:04:  ● settings.json - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:14:09:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:14:14:  FW_BTCR-1100_K06_BOOT%trunk - Google Chrome
+16:14:19:  项目 - Google Chrome
+16:14:34:  FW_BTCR-1100_K06_BOOT%trunk - Google Chrome
+16:14:39:  项目 - Google Chrome
+16:14:49:  ● settings.json - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:15:04:  settings.json - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:14:09:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:14:14:  FW_BTCR-1100_K06_BOOT%trunk - Google Chrome
+16:14:19:  项目 - Google Chrome
+16:14:34:  FW_BTCR-1100_K06_BOOT%trunk - Google Chrome
+16:14:39:  项目 - Google Chrome
+16:14:49:  ● settings.json - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:15:04:  settings.json - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:15:09:  设置 - 1T1-Stop-Length - Visual Studio Code [管理员]
+16:15:59:  打开文件夹
+16:16:04:  Visual Studio Code
+16:16:09:  欢迎使用 - trunk - Visual Studio Code [管理员]
+16:16:14:  main.c - trunk - Visual Studio Code [管理员]
+16:16:29:  设置 - trunk - Visual Studio Code [管理员]
+16:16:34:  ● settings.json - trunk - Visual Studio Code [管理员]
+16:16:39:  FW_BTCR-1100_K06_BOOT%trunk - Google Chrome
+16:16:44:  ● settings.json - trunk - Visual Studio Code [管理员]
+16:17:04:  settings.json - trunk - Visual Studio Code [管理员]
+16:17:59:  打开文件夹
+16:18:04:  设置 - trunk - Visual Studio Code [管理员]
+16:18:09:  settings.json - trunk - Visual Studio Code [管理员]
+16:18:54:  5us - OneNote
+16:19:09:  eSpace
+16:19:14:  于斌1
+16:19:34:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:19:49:  Watch 1
+16:19:54:  于斌1
+16:19:59:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:20:09:  Watch 1
+16:20:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:21:09:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:21:29:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:21:34:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:21:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:22:14:  本地磁盘 (D:)
+16:22:19:  fenxi
+16:22:34:  打开回收箱发现5元纸币异常折叠
+16:22:39:  Decode
+16:22:49:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:22:59:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:23:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:24:09:  Toolbox
+16:24:14:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:25:09:  5us - OneNote
+16:25:14:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:25:19:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:25:29:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:26:14:  5us - OneNote
+16:26:24:  LOG
+16:26:34:  打开回收箱发现5元纸币异常折叠
+16:26:39:  Decode
+16:26:49:  LOG
+16:26:54:  Decode
+16:26:59:  打开回收箱发现5元纸币异常折叠
+16:27:04:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+16:27:24:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:27:59:  Decode
+16:28:09:  于斌1
+16:28:14:  K64_BTCR-1100190803000001_20200717144911
+16:28:34:  K64-_BTCR-1100190803000001_20200717144911.log - [No filter file] - TextAnalysisTool.NET
+16:28:44:  打开
+16:28:49:  K64-_BTCR-1100190803000001_20200717144911.log - DRB-MOTOR.tat - TextAnalysisTool.NET
+16:29:24:  打开
+16:29:29:  于斌1
+16:29:34:  K64-_BTCR-1100190803000001_20200717144911.log - DRB.tat - TextAnalysisTool.NET
+16:29:39:  K64-_BTCR-1100190803000001_20200717144911.log - DRB.tat* - TextAnalysisTool.NET
+16:29:44:  Edit Filter
+16:29:49:  K64-_BTCR-1100190803000001_20200717144911.log - DRB.tat* - TextAnalysisTool.NET
+16:28:09:  于斌1
+16:28:14:  K64_BTCR-1100190803000001_20200717144911
+16:28:34:  K64-_BTCR-1100190803000001_20200717144911.log - [No filter file] - TextAnalysisTool.NET
+16:28:44:  打开
+16:28:49:  K64-_BTCR-1100190803000001_20200717144911.log - DRB-MOTOR.tat - TextAnalysisTool.NET
+16:29:24:  打开
+16:29:29:  于斌1
+16:29:34:  K64-_BTCR-1100190803000001_20200717144911.log - DRB.tat - TextAnalysisTool.NET
+16:29:39:  K64-_BTCR-1100190803000001_20200717144911.log - DRB.tat* - TextAnalysisTool.NET
+16:29:44:  Edit Filter
+16:29:49:  K64-_BTCR-1100190803000001_20200717144911.log - DRB.tat* - TextAnalysisTool.NET
+16:30:24:  于斌1
+16:32:44:  K64-_BTCR-1100190803000001_20200717144911.log - DRB.tat* - TextAnalysisTool.NET
+16:33:59:  K64-_BTCR-1100190803000001_20200717144437.log - DRB.tat* - TextAnalysisTool.NET
+16:34:24:  于斌1
+16:34:39:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:34:49:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:34:54:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:34:59:  于斌1
+16:35:09:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:35:39:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:35:44:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:35:49:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:35:54:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:36:19:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:36:34:  于斌1
+16:36:54:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:36:59:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:09:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:14:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:19:  5us - OneNote
+16:37:24:  计算器
+16:37:39:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:44:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:49:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:54:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:59:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:38:04:  于斌1
+16:39:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:39:54:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:39:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:40:14:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:40:19:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:40:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:40:29:  eSpace
+16:40:34:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:40:39:  PaperManage.c - trunk - Visual Studio Code [管理员]
+16:40:49:  settings.json - trunk - Visual Studio Code [管理员]
+16:41:04:  settings_back.json - trunk - Visual Studio Code [管理员]
+16:41:34:  ● settings_back.json - trunk - Visual Studio Code [管理员]
+16:41:49:  settings_back.json - trunk - Visual Studio Code [管理员]
+16:41:59:  settings.json - trunk - Visual Studio Code [管理员]
+16:42:04:  于斌1
+16:42:09:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+16:42:14:  于斌1
+16:42:24:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+16:42:29:  于斌1
+16:42:34:  锁屏状态
+16:42:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:43:14:  于斌1
+16:43:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:43:54:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:44:14:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:44:59:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:04:  D:\00-06\DRB-PRESS\FwLib\Config\DebugConfig.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:44:14:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:44:59:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:04:  D:\00-06\DRB-PRESS\FwLib\Config\DebugConfig.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:09:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrReturn.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:29:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:34:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:49:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:46:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:46:34:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:46:39:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:46:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:46:49:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:46:54:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:46:59:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:47:04:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:47:39:  自动播放
+16:47:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:48:24:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:48:44:  D:\00-06\DRB-PRESS\Applications\CashBoxInfo\CashBoxInfo.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:49:09:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:49:34:  计算器
+16:50:14:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:50:19:  夏季中央空调试运行&关闭窗户通知
+16:50:24:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:50:44:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+16:54:19:  于斌1
+16:54:39:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:55:29:  于斌1
+16:55:54:  settings.json - trunk - Visual Studio Code [管理员]
+16:56:04:  settings_back.json - trunk - Visual Studio Code [管理员]
+16:56:39:  于斌1
+16:56:44:  settings_back.json - trunk - Visual Studio Code [管理员]
+16:56:54:  ● settings_back.json - trunk - Visual Studio Code [管理员]
+16:57:39:  settings.json - trunk - Visual Studio Code [管理员]
+16:57:49:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+16:57:54:  ● InstrExecute.c - trunk - Visual Studio Code [管理员]
+16:57:59:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+16:58:09:  于斌1
+16:59:14:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+16:59:19:  eSpace
+16:59:24:  于斌1
+16:59:44:  「开始」菜单
+16:59:49:  W
+16:59:54:  于斌1
+16:58:09:  于斌1
+16:59:14:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+16:59:19:  eSpace
+16:59:24:  于斌1
+16:59:44:  「开始」菜单
+16:59:49:  W
+16:59:54:  于斌1
+17:00:14:  2020-07-17.txt - 记事本
+17:00:24:  2020-07-16.txt - 记事本
+17:00:34:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+17:00:39:  于斌1
+17:02:14:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+17:02:19:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+17:02:29:  Visual Studio Code
+17:02:39:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+17:02:44:  于斌1
+17:05:19:  eSpace
+17:05:24:  于斌1
+17:05:54:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+17:06:14:  于斌1
+17:06:24:  eSpace
+17:06:29:  于斌1
+17:07:04:  锁屏状态

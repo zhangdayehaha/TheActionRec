@@ -1,0 +1,8 @@
+2020-04-02 08:09:10-- 08:30:00     :    一  ：D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   71/5.91分钟       二  ：   38/3.16分钟     三  ：清明假期住宿人员食堂就餐统计.xlsx - Excel   18/1.5分钟
+2020-04-02 08:30:00-- 09:00:01     :    一  ：5.22 钞箱托板功能测试V1.0.xls  [受保护的视图] - Excel   43/3.58分钟       二  ：D:\00-06\1T1\Middlewares\Plate\Plate.c (1T1) - Sublime Text (UNREGISTERED)   32/2.66分钟     三  ：D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   30/2.5分钟
+2020-04-02 09:00:01-- 09:30:02     :    一  ：Progress Telerik Fiddler Web Debugger   59/4.91分钟       二  ：历史记录管理器   53/4.41分钟     三  ：(44 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   35/2.91分钟
+2020-04-02 09:30:02-- 10:00:03     :    一  ：(44 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   240/20.0分钟       二  ：(44 封私信 / 99+ 条消息) 首页 - 知乎 - Google Chrome   77/6.41分钟     三  ：D:\00-06\1T1\Applications\TrackCtrl\TrackCtrl.c (1T1) - Sublime Text (UNREGISTERED)   24/2.0分钟
+2020-04-02 10:00:03-- 10:30:03     :    一  ：(44 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   239/19.9分钟       二  ：D:\00-06\1T1\Applications\TrackCtrl\TrackCtrl.c (1T1) - Sublime Text (UNREGISTERED)   38/3.16分钟     三  ：Windows 任务管理器   28/2.33分钟
+2020-04-02 10:30:03-- 11:00:03     :    一  ：钞箱1T2   105/8.75分钟       二  ：   75/6.25分钟     三  ：(44 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   53/4.41分钟
+2020-04-02 11:00:03-- 11:30:03     :    一  ：(44 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   82/6.83分钟       二  ：董鲁乾   79/6.58分钟     三  ：便签条   58/4.83分钟
+2020-04-02 11:30:03-- 12:00:03     :    一  ：   301/25.0分钟       二  ：便签条   53/4.41分钟     三  ：TCRTest   4/0.33分钟

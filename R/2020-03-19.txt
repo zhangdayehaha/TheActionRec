@@ -1,0 +1,48 @@
+2020-03-19 08:07:44-- 08:30:04     :    一  ：桌面整理   93/7.75分钟       二  ：eSpace Login   88/7.33分钟     三  ：CommonManageTool   84/7.0分钟
+2020-03-19 08:30:04-- 09:00:00     :    一  ：桌面整理   142/11.8分钟       二  ：D:\00-06\1T2-Aging\Applications\State\State.c • (1T2-Aging) - Sublime Text (UNREGISTERED)   68/5.66分钟     三  ：iTunes   45/3.75分钟
+2020-03-19 09:00:00-- 09:30:00     :    一  ：D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)   216/18.0分钟       二  ：副本202032103319.xls  [兼容模式] - Excel   62/5.16分钟     三  ：D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c (1T2-Aging) - Sublime Text (UNREGISTERED)   35/2.91分钟
+2020-03-19 09:30:00-- 10:00:00     :    一  ：便签条   69/5.75分钟       二  ：D:\00-06\1T2-Aging\Middlewares\Selector\Selector.c • (1T2-Aging) - Sublime Text (UNREGISTERED)   48/4.0分钟     三  ：副本202032103319.xls  [兼容模式] - Excel   42/3.5分钟
+2020-03-19 10:00:00-- 10:30:00     :    一  ：陈忠   105/8.75分钟       二  ：D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   71/5.91分钟     三  ：D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   54/4.5分钟
+2020-03-19 10:30:00-- 11:00:00     :    一  ：D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   106/8.83分钟       二  ：D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   85/7.08分钟     三  ：D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   53/4.41分钟
+2020-03-19 11:00:00-- 11:30:00     :    一  ：D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   76/6.33分钟       二  ：D:\00-06\1T2-Seclect-Aging\Applications\Instruction\InstrExecute.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   69/5.75分钟     三  ：回复: 回复: 钞箱处理   16/1.33分钟
+2020-03-19 13:21:42-- 13:30:02     :    一  ：D:\00-06\1T2-Seclect-Aging\Middlewares\Selector\Selector.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   20/1.66分钟       二  ：*GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*   20/1.66分钟     三  ：回复: 转发: 人民币版本DRB钞箱测试汇报0318   13/1.08分钟
+2020-03-19 13:30:02-- 13:45:03     :    一  ：一体二箱测试缺陷.xlsx  [只读] - Excel   27/2.25分钟       二  ：Box_2__BTCR-1100190803000009_20200318145315.log - [No filter file]* - TextAnalysisTool.NET   16/1.33分钟     三  ：4、问题记录   14/1.16分钟
+2020-03-19 13:45:03-- 14:00:03     :    一  ：锁屏状态   32/2.66分钟       二  ：LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-19.txt   25/2.08分钟     三  ：8、1元居左A面向卡钞排除后继续存入，完成后发现纸币数量缺少1张，查看各钞箱发现1元纸币进错钞箱，进入2#钞箱的下腔室   15/1.25分钟
+2020-03-19 14:00:03-- 14:15:03     :    一  ：(39 封私信) 首页 - 知乎 - Google Chrome   149/12.4分钟       二  ：D:\00-06\1T2-Seclect-Aging\Applications\Track\Track.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   24/2.0分钟     三  ：新标签页 - Google Chrome   3/0.25分钟
+2020-03-19 14:15:03-- 14:45:04     :    一  ：D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   98/8.16分钟       二  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   72/6.0分钟     三  ：eSpace   9/0.75分钟
+2020-03-19 14:45:04-- 15:00:04     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   127/10.5分钟       二  ：陈忠   12/1.0分钟     三  ：LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191456.log   11/0.91分钟
+2020-03-19 15:00:04-- 15:15:04     :    一  ：陈忠   76/6.33分钟       二  ：董鲁乾   18/1.5分钟     三  ：LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003191501.log   15/1.25分钟
+2020-03-19 15:15:04-- 15:30:04     :    一  ：TrackCtrl.c - TortoiseMerge   38/3.16分钟       二  ：董鲁乾   34/2.83分钟     三  ：D:\00-06\1T1Stop\trunk\Project\CashBox.uvprojx - μVision   20/1.66分钟
+2020-03-19 15:30:04-- 15:45:00     :    一  ：TrackCtrl.c - TortoiseMerge   53/4.41分钟       二  ：新建文件夹   34/2.83分钟     三  ：D:\00-06\1T1Stop\trunk - 提交 - TortoiseSVN   33/2.75分钟
+2020-03-19 15:45:00-- 16:00:00     :    一  ：新建文件夹   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 16:00:00-- 16:15:00     :    一  ：新建文件夹   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 16:15:00-- 16:30:00     :    一  ：新建文件夹   179/14.9分钟       二  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   1/0.08分钟     三  ：   0/0.0分钟
+2020-03-19 16:30:00-- 16:45:00     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 16:45:00-- 17:00:00     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 17:00:00-- 17:15:00     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 17:15:00-- 17:30:00     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 17:30:00-- 17:45:00     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 17:45:00-- 18:00:00     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 18:00:00-- 18:15:00     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 18:15:00-- 18:30:01     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 18:30:01-- 18:45:01     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 18:45:01-- 19:00:01     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 19:00:01-- 19:15:01     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 19:15:01-- 19:30:01     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 19:30:01-- 19:45:01     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 19:45:01-- 20:00:01     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 20:00:01-- 20:15:01     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 20:15:01-- 20:30:01     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 20:30:01-- 20:45:01     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 20:45:01-- 21:00:02     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 21:00:02-- 21:15:02     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 21:15:02-- 21:30:02     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 21:30:02-- 21:45:02     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 21:45:02-- 22:00:02     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 22:00:02-- 22:15:02     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 22:15:02-- 22:30:02     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 22:30:02-- 22:45:02     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 22:45:02-- 23:00:02     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 23:00:02-- 23:15:03     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 23:15:03-- 23:30:03     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-19 23:30:03-- 23:45:03     :    一  ：D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision   180/15.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

@@ -1,0 +1,440 @@
+08:07:28:  戚晓东
+08:11:33:  TCR调测工具（研发版）V1.0.0.4
+08:11:38:  戚晓东
+08:11:48:  自动播放
+08:12:58:  戚晓东
+08:13:13:  CRS_Release
+08:13:18:  CRS
+08:13:28:  01-KE18
+08:13:33:  D:\01-KE18 - 日志信息 - TortoiseSVN
+08:13:38:  D:\01-KE18 - 更新 - TortoiseSVN
+08:13:43:  D:\01-KE18 - 日志信息 - TortoiseSVN
+08:13:58:  D:\01-KE18 - 工作副本 - TortoiseSVN
+08:14:03:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:14:08:  本地磁盘 (D:)
+08:14:18:  01-KE18
+08:14:23:  μVision
+08:14:28:  D:\01-KE18\Project\ke18_rtt.uvprojx - μVision
+08:14:08:  本地磁盘 (D:)
+08:14:18:  01-KE18
+08:14:23:  μVision
+08:14:28:  D:\01-KE18\Project\ke18_rtt.uvprojx - μVision
+08:16:53:  荆文波
+08:17:08:  本地磁盘 (D:)
+08:17:13:  00-KE64
+08:17:18:  D:\00-KE64\K64 - 日志信息 - TortoiseSVN
+08:17:23:  D:\00-KE64\K64 - 更新 - TortoiseSVN
+08:17:28:  荆文波
+08:17:38:  D:\00-KE64\K64\Project\k64_rtt.uvprojx - μVision
+08:17:43:  荆文波
+08:17:58:  缺陷问题
+08:18:03:  荆文波
+08:18:08:  ID-33 大额存款第16张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X894602B6检查发现纸币卡在压板和导向板之间。
+08:18:13:  荆文波
+08:18:23:  ID-33 大额存款第16张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X894602B6检查发现纸币卡在压板和导向板之间。
+08:18:28:  Decode
+08:18:38:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:18:49:  荆文波
+08:19:04:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:19:09:  K64_BTCR-1100200600510420_20201029184036
+08:19:24:  Box_4__BTCR-1100200600510420_20201029184036.log - [No filter file] - TextAnalysisTool.NET
+08:19:29:  Box_4__BTCR-1100200600510420_20201029184036.log - DRB.tat - TextAnalysisTool.NET
+08:19:39:  Box_4__BTCR-1100200600510420_20201029184036.log - DRB.tat* - TextAnalysisTool.NET
+08:20:04:  Box_4__BTCR-1100200600510420_20201029183712.log - DRB.tat* - TextAnalysisTool.NET
+08:21:24:  荆文波
+08:21:39:  D:\00-KE64\K64\Project\k64_rtt.uvprojx - μVision
+08:22:44:  J-Link V6.10b Error
+08:22:54:  Project
+08:22:59:  00-18
+08:23:09:  BR-1-BAK
+08:23:14:  μVision
+08:23:19:  D:\00-KE64\BOOT\BR-1-BAK\Project\k64_rtt.uvprojx - μVision
+08:23:24:  Project
+08:23:29:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+08:23:44:  TCR调测工具 V3.36
+09:15:44:  新建文本文档.exe - 快捷方式
+09:16:04:  TCR调测工具 V3.36
+09:16:09:  运行
+09:16:14:  192.168.28.47
+09:16:24:  08tcr测试过程记录
+09:16:29:  运行
+09:16:34:  08tcr测试过程记录
+09:16:39:  样机配置履历表
+09:16:44:  固件版本
+09:16:49:  K64
+09:16:54:  模具2.0
+09:17:04:  桌面整理
+09:17:09:  TCR调测工具 V3.36
+09:17:14:  打开
+09:17:29:  TCR调测工具 V3.36
+09:17:44:  桌面整理
+09:17:49:  打开
+09:17:54:  TCR调测工具 V3.36
+09:18:39:  通道电机测试
+09:19:24:  TCR调测工具 V3.36
+09:20:54:  选择文件夹
+09:21:04:  untitled (K64) - Sublime Text (UNREGISTERED)
+09:21:09:  D:\00-KE64\K64\Applications\FlowControl\TrackModule\CashGateModuleApp.c (K64) - Sublime Text (UNREGISTERED)
+09:22:34:  取款
+09:22:39:  TCR调测工具 V3.36
+09:25:09:  戚晓东
+09:25:44:  D:\00-KE64\K64\Project\k64_rtt.uvprojx - μVision
+09:25:49:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:29:19:  本地磁盘 (D:)
+09:29:24:  本地磁盘 (E:)
+09:29:34:  CRS_Release
+09:29:39:  CRS调测工具（研发版）V1.0.2.1
+09:29:44:  打开
+09:29:49:  CRSTestTool
+09:29:54:  CRS调测工具（研发版）V1.0.2.1
+09:29:59:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:29:19:  本地磁盘 (D:)
+09:29:24:  本地磁盘 (E:)
+09:29:34:  CRS_Release
+09:29:39:  CRS调测工具（研发版）V1.0.2.1
+09:29:44:  打开
+09:29:49:  CRSTestTool
+09:29:54:  CRS调测工具（研发版）V1.0.2.1
+09:29:59:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:30:34:  V1.003
+09:30:44:  CRS调测工具（研发版）V1.0.2.1
+09:30:54:  「开始」菜单
+09:30:59:  计算器
+09:31:09:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:32:34:  CRS调测工具（研发版）V1.0.2.1
+09:32:39:  CRSTestTool
+09:32:54:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:33:39:  CRS_Release
+09:33:44:  CRS调测工具（研发版）V1.0.2.1
+09:33:49:  打开
+09:33:54:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:35:19:  CRS调测工具（研发版）V1.0.2.1
+09:35:24:  打开
+09:35:29:  CRS调测工具（研发版）V1.0.2.1
+09:35:34:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:35:39:  CRSTestTool
+09:35:44:  CRS调测工具（研发版）V1.0.2.1
+09:35:49:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:37:04:  打开
+09:37:09:  CRS调测工具（研发版）V1.0.2.1
+09:37:19:  CRSTestTool
+09:37:24:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:37:29:  跳转列表
+09:37:34:  戚晓东
+09:37:59:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+09:38:04:  untitled (DRB--) - Sublime Text (UNREGISTERED)
+09:38:19:  D:\00-06\DRB--\Applications\State\State.c (DRB--) - Sublime Text (UNREGISTERED)
+09:38:44:  D:\00-06\DRB--\Applications\State\State.c • (DRB--) - Sublime Text (UNREGISTERED)
+09:38:49:  D:\00-06\DRB--\Applications\State\State.c (DRB--) - Sublime Text (UNREGISTERED)
+09:39:04:  D:\00-06\DRB--\Applications\State\State.c • (DRB--) - Sublime Text (UNREGISTERED)
+09:39:19:  D:\00-06\DRB--\Applications\PlateCtrl\PlateCtrl.h (DRB--) - Sublime Text (UNREGISTERED)
+09:39:24:  D:\00-06\DRB--\Applications\State\State.c • (DRB--) - Sublime Text (UNREGISTERED)
+09:40:04:  D:\00-06\DRB--\Middlewares\Plate\PlateCommon.h (DRB--) - Sublime Text (UNREGISTERED)
+09:40:09:  D:\00-06\DRB--\Applications\State\State.c • (DRB--) - Sublime Text (UNREGISTERED)
+09:40:29:  D:\00-06\DRB--\Applications\State\State.c (DRB--) - Sublime Text (UNREGISTERED)
+09:40:34:  D:\00-06\DRB--\Applications\State\State.c • (DRB--) - Sublime Text (UNREGISTERED)
+09:41:04:  D:\00-06\DRB--\Applications\PlateCtrl\PlateCtrl.h (DRB--) - Sublime Text (UNREGISTERED)
+09:41:29:  D:\00-06\DRB--\Applications\State\State.c (DRB--) - Sublime Text (UNREGISTERED)
+09:41:44:  D:\00-06\DRB--\Applications\State\State.c • (DRB--) - Sublime Text (UNREGISTERED)
+09:41:54:  D:\00-06\DRB--\Applications\State\State.c (DRB--) - Sublime Text (UNREGISTERED)
+09:42:39:  00-06
+09:42:44:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:43:19:  Project
+09:43:24:  Tools
+09:43:29:  D:\00-06\DRB--\Tools\CreateJK.exe
+09:43:34:  Tools
+09:44:49:  TCR调测工具（研发版）V1.0.0.4
+09:44:59:  打开
+09:45:04:  TCR调测工具（研发版）V1.0.0.4
+09:44:49:  TCR调测工具（研发版）V1.0.0.4
+09:44:59:  打开
+09:45:04:  TCR调测工具（研发版）V1.0.0.4
+09:45:09:  BTCRTestTool
+09:45:24:  V1.003
+09:45:29:  打开
+09:45:34:  TCR调测工具 V3.36
+09:50:39:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:51:49:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010300951.log
+09:52:09:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:52:14:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010300951.log
+09:52:29:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:52:49:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010300951.log
+09:53:04:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:53:19:  D:\00-06\DRB-- - 工作副本 - TortoiseSVN
+09:53:24:  State.c - TortoiseMerge
+09:53:29:  D:\00-06\DRB-- - 工作副本 - TortoiseSVN
+09:53:34:  PressurePlate.c - TortoiseMerge
+09:53:39:  UpperPlate.c - TortoiseMerge
+09:53:44:  D:\00-06\DRB-- - 工作副本 - TortoiseSVN
+09:56:15:  DRB--
+09:56:20:  D:\00-06\DRB--\Applications\State\State.c (DRB--) - Sublime Text (UNREGISTERED)
+09:56:45:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:57:10:  KE06LOG.bat - 快捷方式 (2)
+09:57:15:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:02:20:  D:\00-KE64\K64\Applications\FlowControl\TrackModule\CashGateModuleApp.c (K64) - Sublime Text (UNREGISTERED)
+10:02:25:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:06:15:  KE06LOG.bat - 快捷方式 (2)
+10:06:20:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010300951.log
+10:06:25:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010301006.log
+10:06:35:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:06:40:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010301006.log
+10:06:55:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:08:55:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010301006.log
+10:09:00:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:09:50:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010301006.log
+10:09:55:  KE06LOG.bat - 快捷方式 (2)
+10:10:00:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010301009.log
+10:10:45:  查找
+10:10:50:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:14:15:  于斌1
+10:14:20:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:14:15:  于斌1
+10:14:20:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:32:20:  K18_0000_20201005110429.log - [No filter file] - TextAnalysisTool.NET
+10:32:30:  Add Filter
+10:32:35:  K18_0000_20201005110429.log - [No filter file] - TextAnalysisTool.NET
+10:32:40:  Add Filter
+10:32:45:  K18_0000_20201005110429.log - [No filter file]* - TextAnalysisTool.NET
+10:45:50:  eSpace
+10:50:05:  于斌1
+10:51:05:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+10:51:10:  于斌1
+11:01:35:  eSpace
+11:01:50:  自动播放
+11:07:20:  eSpace
+11:07:25:  TCR调测工具 V3.36
+11:10:35:  托板控制
+11:12:00:  TCR调测工具 V3.36
+11:13:10:  打开
+11:13:15:  TCR调测工具 V3.36
+11:13:50:  托板控制
+11:18:05:  TCR调测工具 V3.36
+11:18:30:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:19:00:  戚晓东
+11:21:55:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+11:24:10:  戚晓东
+11:26:05:  跳转列表
+11:26:10:  Microsoft Excel
+11:26:20:  本地磁盘 (D:)
+11:26:25:  Project
+11:26:30:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:27:10:  Project
+11:27:15:  D:\CRS\5555 - 日志信息 - TortoiseSVN
+11:27:35:  5555
+11:27:45:  InstrExe.c - TortoiseMerge
+11:28:00:  μVision
+11:28:05:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:28:20:  CRS_Release
+11:28:25:  CRS调测工具（研发版）V1.0.2.1
+11:28:55:  打开
+11:29:00:  CRS调测工具（研发版）V1.0.2.1
+11:29:20:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+11:29:35:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:29:55:  eSpace
+11:30:00:  戚晓东
+11:28:05:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:28:20:  CRS_Release
+11:28:25:  CRS调测工具（研发版）V1.0.2.1
+11:28:55:  打开
+11:29:00:  CRS调测工具（研发版）V1.0.2.1
+11:29:20:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+11:29:35:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:29:55:  eSpace
+11:30:00:  戚晓东
+11:30:05:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+11:32:40:  V1.014
+11:32:45:  CRS调测工具（研发版）V1.0.2.1
+11:36:20:  V1.003
+11:36:25:  TCR调测工具 V3.36
+11:36:30:  托板控制
+11:38:00:  于斌1
+11:38:05:  eSpace
+11:39:05:  于斌1
+11:40:20:  锁屏状态
+13:14:36:  固件设计中心问题管理周报第03期
+13:14:36:  固件设计中心问题管理周报第03期
+13:17:36:  D:\CRS\5555\Applications\InstrExp\InstrExe.c (5555) - Sublime Text (UNREGISTERED)
+13:17:56:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+13:18:41:  锁屏状态
+13:18:46:  更改EEP的指令格式存在02 KT 或 02 KU 的形式么？哪个产品在使用，现在回复一下
+13:19:11:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+13:23:26:  TCR调测工具 V3.36
+13:24:41:  新建文本文档.exe - 快捷方式
+13:24:46:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+13:25:01:  dirent.h - DRB-NearFull - Visual Studio Code [管理员]
+13:25:06:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:25:22:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+13:25:27:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:25:52:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+13:25:57:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+13:26:02:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:26:07:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+13:26:22:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:27:47:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+13:27:57:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:28:02:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+13:28:12:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:28:12:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:34:23:  TCR调测工具 V3.36
+13:35:33:  钞箱配置
+13:35:43:  TCR调测工具 V3.36
+13:36:13:  取款
+13:36:33:  TCR调测工具 V3.36
+13:38:13:  取款
+13:38:19:  TCR调测工具 V3.36
+13:39:49:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:43:54:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+13:43:59:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+13:44:04:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+13:45:14:  新标签页 - Google Chrome
+13:45:44:  锁屏状态
+13:45:49:  TCR调测工具 V3.36
+13:46:19:  取款
+13:46:24:  TCR调测工具 V3.36
+13:47:29:  新标签页 - Google Chrome
+13:47:34:  登录页面 - 数据抓取工具 - Google Chrome
+13:47:39:  数据抓取工具 - Google Chrome
+13:47:59:  Excel
+13:48:04:  个人周报-张开发 (52).xlsx  [受保护的视图] - Excel
+13:48:09:  个人周报-张开发 (52).xlsx - Excel
+13:50:59:  数据抓取工具 - Google Chrome
+13:51:04:  打开
+13:51:14:  TCR调测工具 V3.36
+13:52:39:  取款
+13:52:44:  TCR调测工具 V3.36
+13:53:59:  取款
+13:54:04:  TCR调测工具 V3.36
+13:54:39:  取款
+13:54:44:  TCR调测工具 V3.36
+13:59:04:  取款
+13:59:09:  BTCRTestTool
+13:59:14:  TCR调测工具 V3.36
+13:59:04:  取款
+13:59:09:  BTCRTestTool
+13:59:14:  TCR调测工具 V3.36
+14:01:39:  取款
+14:01:44:  TCR调测工具 V3.36
+14:04:29:  取款
+14:04:34:  TCR调测工具 V3.36
+14:05:04:  取款
+14:05:09:  TCR调测工具 V3.36
+14:05:44:  取款
+14:05:49:  TCR调测工具 V3.36
+14:07:44:  钞箱配置
+14:07:49:  TCR调测工具 V3.36
+14:09:44:  取款
+14:09:49:  TCR调测工具 V3.36
+14:11:39:  取款
+14:11:44:  BTCRTestTool
+14:11:49:  TCR调测工具 V3.36
+14:15:14:  取款
+14:15:19:  TCR调测工具 V3.36
+14:19:04:  取款
+14:19:09:  TCR调测工具 V3.36
+14:19:44:  跳转列表
+14:19:49:  BTCRTestTool V3.36
+14:19:54:  20201030
+14:20:09:  Decode
+14:20:19:  删除多个项目
+14:20:24:  20201030
+14:20:29:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:20:34:  LOG
+14:20:39:  Box_1__0000_20201030141906.log - [No filter file]* - TextAnalysisTool.NET
+14:20:44:  Box_1__0000_20201030141906.log - DRB.tat - TextAnalysisTool.NET
+14:21:19:  TCR调测工具 V3.36
+14:21:24:  Box_1__0000_20201030141906.log - DRB.tat - TextAnalysisTool.NET
+14:21:34:  K64_0000_20201030141906
+14:21:49:  取款
+14:21:54:  TCR调测工具 V3.36
+14:24:34:  取款
+14:24:39:  TCR调测工具 V3.36
+14:25:59:  取款
+14:26:09:  TCR调测工具 V3.36
+14:30:49:  取款
+14:30:54:  TCR调测工具 V3.36
+14:31:54:  取款
+14:31:59:  TCR调测工具 V3.36
+14:37:34:  Box_1__0000_20201030141906.log - DRB.tat - TextAnalysisTool.NET
+14:37:39:  TCR调测工具 V3.36
+14:43:34:  取款
+14:43:39:  TCR调测工具 V3.36
+14:46:34:  取款
+14:46:39:  TCR调测工具 V3.36
+14:47:39:  取款
+14:47:44:  TCR调测工具 V3.36
+15:04:54:  桌面整理
+15:05:14:  TCR调测工具 V3.36
+15:07:29:  取款
+15:07:34:  BTCRTestTool
+15:07:39:  TCR调测工具 V3.36
+15:09:19:  钞箱配置
+15:09:24:  TCR调测工具 V3.36
+15:12:34:  钞箱配置
+15:12:44:  TCR调测工具 V3.36
+15:13:44:  取款
+15:13:54:  TCR调测工具 V3.36
+15:16:59:  计算器
+15:19:14:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+15:20:55:  TCR调测工具 V3.36
+15:22:10:  BTCRTestTool
+15:22:15:  取款
+15:22:20:  TCR调测工具 V3.36
+15:24:20:  取款
+15:24:25:  BTCRTestTool
+15:24:30:  TCR调测工具 V3.36
+15:28:40:  「开始」菜单
+15:29:20:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+15:28:40:  「开始」菜单
+15:29:20:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+16:00:55:  于斌1
+16:05:00:  eSpace
+16:05:05:  于斌1
+16:05:20:  eSpace
+16:05:25:  于斌1
+16:05:55:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+16:06:40:  于斌1
+16:06:45:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+16:07:15:  于斌1
+16:07:30:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+16:09:05:  于斌1
+16:10:30:  10.5-10.7测试日志
+16:10:35:  10.5-7CRS测试日志分析20201029.xlsx  [受保护的视图] - Excel
+16:10:40:  10.5-7CRS测试日志分析20201029.xlsx  [只读] - Excel
+16:11:20:  于斌1
+16:12:30:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+16:13:05:  自动播放
+16:13:10:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+16:13:40:  6.2.2.5 钞箱测试1T1.xls  [兼容模式] - Excel
+16:13:50:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+16:14:55:  于斌1
+16:14:55:  于斌1
+16:15:15:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+16:22:00:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision (未响应)
+16:22:05:  µVision IDE
+16:22:10:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision (未响应)
+16:22:15:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+16:22:20:  本地磁盘 (D:)
+16:22:30:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+16:31:25:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:31:35:  于斌1
+16:31:40:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:55:20:  D:\CRS\5555\Applications\InstrExp\InstrExe.c (5555) - Sublime Text (UNREGISTERED)
+16:55:35:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+16:55:45:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+16:55:55:  E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)
+16:57:00:  于斌1
+16:57:05:  E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)
+16:57:10:  于斌1
+16:57:30:  E:\深圳出差\44\Applications\CanComm\SlaveBoardComm\CSBoardCmd.h (44) - Sublime Text (UNREGISTERED)
+16:57:40:  E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)
+16:58:20:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModuleApp.c (44) - Sublime Text (UNREGISTERED)
+16:58:35:  E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)
+16:58:20:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModuleApp.c (44) - Sublime Text (UNREGISTERED)
+16:58:35:  E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)
+17:00:05:  于斌1
+17:02:10:  E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)
+17:02:35:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModuleApp.c (44) - Sublime Text (UNREGISTERED)
+17:03:15:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModule.c (44) - Sublime Text (UNREGISTERED)
+17:03:20:  E:\深圳出差\44\Applications\FlowControl\TrackModule\GateModuleApp.c (44) - Sublime Text (UNREGISTERED)
+17:06:05:  E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)
+17:06:40:  锁屏状态

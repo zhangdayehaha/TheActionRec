@@ -1,0 +1,1263 @@
+08:01:21:  6.2.2.6 钞箱测试1T2 (2).xls  [受保护的视图] - Excel
+08:01:26:  DRB测试--3.15日
+08:01:36:  DRB测试缺陷.xlsx
+08:07:26:  警告
+08:07:31:  缺陷日志
+08:08:01:  fenxi
+08:08:06:  于斌1
+08:08:46:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+08:08:51:  20210315
+08:08:56:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:09:11:  于斌1
+08:09:21:  Decode
+08:09:36:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+08:09:41:  于斌1
+08:10:11:  5.22 钞箱托板功能测试V1.0 .xls  [兼容模式] - Excel
+08:12:06:  Microsoft Excel - 兼容性检查器
+08:12:11:  6.2.2.6 钞箱测试1T2 (2).xls  [受保护的视图] - Excel
+08:12:26:  缺陷日志
+08:12:31:  主控板集成测试方案-报告
+08:12:36:  LOG
+08:12:41:  K64-_BTCR-1100200600510420_20210315151448.log - DRB2.tat* - TextAnalysisTool.NET
+08:13:06:  DRB测试缺陷.xlsx
+08:13:56:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:14:01:  缺陷日志
+08:14:06:  20210315
+08:14:11:  fenxi
+08:14:16:  4、BNE-C52210122000005钞箱，使用20元与10元大额存款存入钞箱后，执行盘点流程，20元RB4反向盘点入上腔，软件报182113.417 通道传输过程中卡钞 超过最大长度持
+08:14:21:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:14:36:  Decode
+08:14:06:  20210315
+08:14:11:  fenxi
+08:14:16:  4、BNE-C52210122000005钞箱，使用20元与10元大额存款存入钞箱后，执行盘点流程，20元RB4反向盘点入上腔，软件报182113.417 通道传输过程中卡钞 超过最大长度持
+08:14:21:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:14:36:  Decode
+08:16:16:  K64_BTCR-1100200600510420_20210315182057
+08:16:21:  Box_3__BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+08:16:41:  Box_3__BTCR-1100200600510420_20210315181932.log - DRB2.tat* - TextAnalysisTool.NET
+08:16:46:  LOG
+08:16:51:  K64_BTCR-1100200600510420_20210315182737
+08:16:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202103151412.log
+08:17:01:  DRB测试缺陷.xlsx
+08:20:16:  缺陷日志
+08:20:21:  DRB测试缺陷.xlsx
+08:20:36:  缺陷日志
+08:20:41:  DRB测试缺陷.xlsx
+08:21:41:  Box_3__BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+08:24:56:  缺陷日志
+08:25:51:  IMG_6714.JPG - Windows 照片查看器
+08:25:56:  缺陷日志
+08:26:01:  3、BNE-C52210122000001钞箱人民币10元、20元大额存款存入钞箱后，执行下腔室盘点流程，软件报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B4
+08:26:11:  IMG_6726.JPG - Windows 照片查看器
+08:26:16:  3、BNE-C52210122000001钞箱人民币10元、20元大额存款存入钞箱后，执行下腔室盘点流程，软件报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B4
+08:26:21:  DRB测试缺陷.xlsx
+08:26:26:  DRB测试缺陷(3).xlsx  [只读] - Excel
+08:26:36:  3、BNE-C52210122000001钞箱人民币10元、20元大额存款存入钞箱后，执行下腔室盘点流程，软件报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X034602B4
+08:26:41:  缺陷日志
+08:26:56:  DRB测试缺陷(3).xlsx  [只读] - Excel
+08:27:21:  Decode
+08:27:26:  缺陷日志
+08:27:31:  4、BNE-C52210122000005钞箱，使用20元与10元大额存款存入钞箱后，执行盘点流程，20元RB4反向盘点入上腔，软件报182113.417 通道传输过程中卡钞 超过最大长度持
+08:27:51:  LOG
+08:27:56:  K64-_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+08:28:21:  K64_BTCR-1100200600510420_20210315182057
+08:28:26:  Box_3__BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+08:28:51:  LOG
+08:28:56:  4、BNE-C52210122000005钞箱，使用20元与10元大额存款存入钞箱后，执行盘点流程，20元RB4反向盘点入上腔，软件报182113.417 通道传输过程中卡钞 超过最大长度持
+08:29:01:  fenxi
+08:29:06:  缺陷日志
+08:29:11:  Decode
+08:29:16:  LOG
+08:29:21:  测试日志
+08:29:31:  丛柏屹
+08:29:56:  eSpace
+08:28:21:  K64_BTCR-1100200600510420_20210315182057
+08:28:26:  Box_3__BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+08:28:51:  LOG
+08:28:56:  4、BNE-C52210122000005钞箱，使用20元与10元大额存款存入钞箱后，执行盘点流程，20元RB4反向盘点入上腔，软件报182113.417 通道传输过程中卡钞 超过最大长度持
+08:29:01:  fenxi
+08:29:06:  缺陷日志
+08:29:11:  Decode
+08:29:16:  LOG
+08:29:21:  测试日志
+08:29:31:  丛柏屹
+08:29:56:  eSpace
+08:30:11:  测试日志
+08:30:31:  巴西-3.14
+08:30:36:  EXTFEDU6V1.3.PDF - Adobe Reader
+08:30:41:  LOG
+08:31:21:  DRB测试缺陷.xlsx
+08:32:01:  LOG
+08:32:06:  Decode
+08:32:11:  删除文件夹
+08:32:16:  20200831
+08:32:21:  TheDateInfo.xls  [兼容模式] - Excel
+08:32:26:  20200831
+08:32:31:  fenxi
+08:32:51:  DRB测试缺陷.xlsx
+08:32:56:  警告
+08:33:01:  缺陷日志
+08:33:31:  DRB测试缺陷.xlsx
+08:33:51:  缺陷日志
+08:33:56:  「开始」菜单
+08:34:01:  本地磁盘 (D:)
+08:34:06:  9
+08:34:11:  本地磁盘 (D:)
+08:34:16:  06 固件日报
+08:34:21:  TCR
+08:34:26:  主控板集成测试方案-报告
+08:34:31:  文件正在使用
+08:34:36:  于斌1
+08:34:46:  Microsoft Excel
+08:34:51:  主控板集成测试方案-报告
+08:35:01:  于斌1
+08:42:11:  丛柏屹
+08:42:26:  于斌1
+08:42:31:  主控板集成测试方案-报告
+08:42:36:  6.2.2.6 钞箱测试1T2 (2).xls  [受保护的视图] - Excel
+08:42:41:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+08:42:56:  TCR调测工具 V3.36
+08:49:36:  跳转列表
+08:49:41:  TCRControlCmdDLL
+08:49:46:  20210316
+08:49:56:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:50:06:  K64_0000_20210316084629
+08:50:11:  Box_4__0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:50:26:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+08:50:36:  Box_4__0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:50:41:  计算器
+08:51:16:  Box_4__0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:51:26:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+08:51:31:  Box_4__0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:51:41:  K64-_0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:53:01:  锁屏状态
+08:53:06:  DRB系统测试
+08:53:11:  测试日志
+08:53:16:  缺陷日志
+08:53:21:  K64-_0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:53:46:  K64_0000_20210316084629
+08:53:51:  Box_4__0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:54:26:  计算器
+08:54:36:  Box_4__0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:54:46:  计算器
+08:55:11:  Box_4__0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:55:16:  计算器
+08:55:31:  Box_4__0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:55:56:  K64_0000_20210316084629
+08:56:01:  丛柏屹
+08:56:06:  K64-_0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:56:51:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+08:57:01:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+08:57:11:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+08:57:16:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+08:57:26:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+08:57:56:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+08:58:11:  K64-_0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:58:56:  Box_4__0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:59:11:  K64_0000_20210316084629
+08:59:16:  K64-_0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:59:41:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:00:01:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+08:58:11:  K64-_0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:58:56:  Box_4__0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:59:11:  K64_0000_20210316084629
+08:59:16:  K64-_0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+08:59:41:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:00:01:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+09:00:06:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:01:16:  K64-_0000_20210316084629.log - DRB2.tat* - TextAnalysisTool.NET
+09:02:21:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:02:26:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+09:03:01:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.c (10) - Sublime Text (UNREGISTERED)
+09:03:56:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+09:04:01:  Add Filter
+09:04:06:  D:\00-KE64\10\Applications\FlowControl\PageManage\PageManageIn.c (10) - Sublime Text (UNREGISTERED)
+09:04:21:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+09:05:21:  锁屏状态
+09:05:26:  删除文件夹
+09:05:31:  TCR调测工具 V3.36
+09:05:36:  取款
+09:05:46:  丛柏屹
+09:05:51:  5#人民币稳定性
+09:05:56:  测试日志
+09:06:06:  缺陷日志
+09:06:11:  DRB系统测试
+09:06:16:  20210315
+09:06:36:  丛柏屹
+09:06:41:  缺陷日志
+09:06:46:  20210315
+09:06:51:  缺陷日志
+09:06:56:  20210315
+09:07:06:  20210316
+09:07:11:  fenxi
+09:07:16:  正在复制 37 个项目(36.0 MB)
+09:07:21:  新建文件夹 (3)
+09:07:26:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:07:46:  LOG
+09:07:51:  K18_BTCR-1100200600510420_20210315182737
+09:07:56:  K64-K18_BTCR-1100200600510420_20210315184100.log - DRB2.tat* - TextAnalysisTool.NET
+09:08:06:  LOG
+09:08:11:  K64-_BTCR-1100200600510420_20210315150439.log - DRB2.tat* - TextAnalysisTool.NET
+09:08:32:  LOG
+09:08:52:  20210315
+09:08:57:  新建文件夹 (3)
+09:09:07:  Decode
+09:09:12:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:09:27:  LOG
+09:09:32:  K64_BTCR-1100200600510420_20210315184100
+09:09:37:  Box_3__BTCR-1100200600510420_20210315183612.log - DRB2.tat* - TextAnalysisTool.NET
+09:09:52:  Box_3__BTCR-1100200600510420_20210315183448.log - DRB2.tat* - TextAnalysisTool.NET
+09:10:12:  LOG
+09:10:17:  Box_3__BTCR-1100200600510420_20210315183353.log - DRB2.tat* - TextAnalysisTool.NET
+09:10:22:  K64_BTCR-1100200600510420_20210315183131
+09:10:27:  Box_3__BTCR-1100200600510420_20210315183131.log - DRB2.tat* - TextAnalysisTool.NET
+09:10:42:  K64_BTCR-1100200600510420_20210315182940
+09:10:47:  Box_3__BTCR-1100200600510420_20210315182940.log - DRB2.tat* - TextAnalysisTool.NET
+09:10:52:  K64_BTCR-1100200600510420_20210315182833
+09:10:57:  Box_3__BTCR-1100200600510420_20210315182833.log - DRB2.tat* - TextAnalysisTool.NET
+09:11:02:  K64_BTCR-1100200600510420_20210315182737
+09:11:07:  Box_3__BTCR-1100200600510420_20210315182737.log - DRB2.tat* - TextAnalysisTool.NET
+09:11:22:  新建文件夹 (3)
+09:11:32:  4、BNE-C52210122000005钞箱，使用20元与10元大额存款存入钞箱后，执行盘点流程，20元RB4反向盘点入上腔，软件报182113.417 通道传输过程中卡钞 超过最大长度持
+09:11:37:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+09:11:42:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:11:57:  LOG
+09:12:02:  Box_3__BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+09:12:12:  DRB测试缺陷(3).xlsx  [只读] - Excel
+09:12:47:  K64_BTCR-1100200600510420_20210315182057
+09:12:52:  K64-_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+09:13:02:  锁屏状态
+09:13:07:  DRB测试缺陷(3).xlsx  [只读] - Excel
+09:13:42:  K64-_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+09:14:22:  DRB测试缺陷(3).xlsx  [只读] - Excel
+09:14:42:  荆文波
+09:14:22:  DRB测试缺陷(3).xlsx  [只读] - Excel
+09:14:42:  荆文波
+09:15:17:  4、BNE-C52210122000005钞箱，使用20元与10元大额存款存入钞箱后，执行盘点流程，20元RB4反向盘点入上腔，软件报182113.417 通道传输过程中卡钞 超过最大长度持
+09:15:22:  K64_BTCR-1100200600510420_20210315182057
+09:15:27:  K64-_BTCR-1100200600510420_20210315181932.log - DRB2.tat* - TextAnalysisTool.NET
+09:15:47:  K18_BTCR-1100200600510420_20210315182737
+09:15:52:  K64-_BTCR-1100200600510420_20210315181932.log - DRB2.tat* - TextAnalysisTool.NET
+09:15:57:  Box_3__BTCR-1100200600510420_20210315181932.log - DRB2.tat* - TextAnalysisTool.NET
+09:16:02:  K64_BTCR-1100200600510420_20210315182057
+09:16:07:  Box_3__BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+09:16:37:  LOG
+09:16:42:  Box_3__BTCR-1100200600510420_20210315182737.log - DRB2.tat* - TextAnalysisTool.NET
+09:16:47:  LOG
+09:16:52:  K64_BTCR-1100200600510420_20210315182057
+09:17:02:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+09:17:12:  20210315
+09:17:22:  删除多个项目
+09:17:27:  荆文波
+09:17:47:  DRB测试缺陷(3).xlsx  [只读] - Excel
+09:18:02:  荆文波
+09:18:07:  正在复制 8 个项目(19.7 MB)
+09:18:12:  Decode
+09:18:17:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:18:32:  K64_BTCR-1100200600510420_20210315184100
+09:18:37:  K64_BTCR-1100200600510420_20210315182737
+09:18:42:  Box_3__BTCR-1100200600510420_20210315182737.log - DRB2.tat* - TextAnalysisTool.NET
+09:19:47:  LOG
+09:19:52:  Box_3__BTCR-1100200600510420_20210315182833.log - DRB2.tat* - TextAnalysisTool.NET
+09:20:02:  K64_BTCR-1100200600510420_20210315182940
+09:20:07:  Box_3__BTCR-1100200600510420_20210315182940.log - DRB2.tat* - TextAnalysisTool.NET
+09:20:12:  K64_BTCR-1100200600510420_20210315183131
+09:20:17:  Box_3__BTCR-1100200600510420_20210315183131.log - DRB2.tat* - TextAnalysisTool.NET
+09:20:52:  K64_BTCR-1100200600510420_20210315183131
+09:20:57:  Box_3__BTCR-1100200600510420_20210315183353.log - DRB2.tat* - TextAnalysisTool.NET
+09:21:07:  LOG
+09:21:12:  Box_3__BTCR-1100200600510420_20210315183448.log - DRB2.tat* - TextAnalysisTool.NET
+09:21:32:  K64_BTCR-1100200600510420_20210315184100
+09:21:37:  Decode
+09:21:52:  正在复制 9 个项目(80.8 MB)
+09:22:02:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+09:22:22:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:22:37:  Decode
+09:22:57:  K64_BTCR-1100200600510420_20210315184143
+09:23:02:  Decode
+09:23:12:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:23:27:  K64_BTCR-1100200600510420_20210315184143.log - DRB2.tat* - TextAnalysisTool.NET
+09:23:32:  Decode
+09:23:37:  K64_BTCR-1100200600510420_20210315192328.log - DRB2.tat* - TextAnalysisTool.NET
+09:23:52:  K64_BTCR-1100200600510420_20210315192439.log - DRB2.tat* - TextAnalysisTool.NET
+09:24:12:  Decode
+09:24:17:  K64_BTCR-1100200600510420_20210315192750.log - DRB2.tat* - TextAnalysisTool.NET
+09:24:32:  Decode
+09:24:37:  K64_BTCR-1100200600510420_20210315192953.log - DRB2.tat* - TextAnalysisTool.NET
+09:24:42:  Decode
+09:24:47:  K64_BTCR-1100200600510420_20210315193405.log - DRB2.tat* - TextAnalysisTool.NET
+09:25:13:  K64_BTCR-1100200600510420_20210315193733.log - DRB2.tat* - TextAnalysisTool.NET
+09:25:18:  Decode
+09:25:23:  K64_BTCR-1100200600510420_20210315193733.log - DRB2.tat* - TextAnalysisTool.NET
+09:25:28:  Decode
+09:25:33:  DRB测试缺陷(3).xlsx  [只读] - Excel
+09:32:28:  缺陷日志
+09:32:53:  20210315
+09:32:58:  Decode
+09:33:08:  Box_3__BTCR-1100200600510420_20210315193733.log - DRB2.tat* - TextAnalysisTool.NET
+09:33:23:  K64_BTCR-1100200600510420_20210315193405
+09:33:28:  Box_3__BTCR-1100200600510420_20210315193405.log - DRB2.tat* - TextAnalysisTool.NET
+09:33:33:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+09:33:38:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:33:43:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+09:33:53:  丛柏屹
+09:34:48:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+09:34:53:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:35:13:  Decode
+09:35:43:  LOG
+09:35:58:  K64_BTCR-1100200600510420_20210315151448
+09:36:03:  K64-_BTCR-1100200600510420_20210315151448.log - DRB2.tat* - TextAnalysisTool.NET
+09:37:38:  DRB测试缺陷(3).xlsx  [只读] - Excel
+09:37:53:  K64-_BTCR-1100200600510420_20210315151448.log - DRB2.tat* - TextAnalysisTool.NET
+09:39:08:  DRB测试缺陷(3).xlsx  [只读] - Excel
+09:39:58:  K64-_BTCR-1100200600510420_20210315151448.log - DRB2.tat* - TextAnalysisTool.NET
+09:40:18:  DRB测试缺陷(3).xlsx  [只读] - Excel
+09:40:38:  K64-_BTCR-1100200600510420_20210315151448.log - DRB2.tat* - TextAnalysisTool.NET
+09:40:43:  DRB测试缺陷(3).xlsx  [只读] - Excel
+09:42:03:  缺陷日志
+09:42:13:  正在复制 15 个项目(41.9 MB)
+09:42:18:  4、BNE-C52210122000005钞箱，使用20元与10元大额存款存入钞箱后，执行盘点流程，20元RB4反向盘点入上腔，软件报182113.417 通道传输过程中卡钞 超过最大长度持
+09:42:23:  Decode
+09:42:28:  4、BNE-C52210122000005钞箱，使用20元与10元大额存款存入钞箱后，执行盘点流程，20元RB4反向盘点入上腔，软件报182113.417 通道传输过程中卡钞 超过最大长度持
+09:42:33:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+09:42:48:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:43:03:  LOG
+09:43:08:  K64_BTCR-1100200600510420_20210315182057
+09:43:13:  K64-_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+09:43:18:  K64_BTCR-1100200600510420_20210315182737
+09:43:23:  K64_BTCR-1100200600510420_20210315182057
+09:43:28:  K64-_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+09:43:38:  DRB测试缺陷(3).xlsx  [只读] - Excel
+09:43:43:  K64-_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+09:44:18:  Edit Filter
+09:44:23:  K64-_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+09:44:43:  DRB测试缺陷(3).xlsx  [只读] - Excel
+09:44:58:  于斌1
+09:45:03:  DRB测试缺陷(3).xlsx  [只读] - Excel
+09:44:18:  Edit Filter
+09:44:23:  K64-_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+09:44:43:  DRB测试缺陷(3).xlsx  [只读] - Excel
+09:44:58:  于斌1
+09:45:03:  DRB测试缺陷(3).xlsx  [只读] - Excel
+09:45:18:  20210315
+09:45:33:  丛柏屹
+09:45:58:  DRB测试缺陷(3).xlsx  [只读] - Excel
+09:46:03:  另存为
+09:46:13:  副本DRB测试缺陷.xlsx - Excel
+09:46:48:  转发: 回复: DRB测试--3.14日 - 写邮件
+09:47:58:  0-工作 - 张开发 - 印象笔记
+09:48:03:  DRB传感器.psd - 印象笔记
+09:48:28:  0-工作 - 张开发 - 印象笔记
+09:49:23:  副本DRB测试缺陷.xlsx - Excel
+09:49:53:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+09:50:38:  缺陷日志
+09:50:43:  副本DRB测试缺陷.xlsx - Excel
+09:50:53:  缺陷日志
+09:50:58:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+09:51:08:  20210315
+09:51:13:  Decode
+09:51:18:  K64_BTCR-1100200600510420_20210315151448.log - DRB2.tat* - TextAnalysisTool.NET
+09:51:43:  计算器
+09:51:48:  K64_BTCR-1100200600510420_20210315151448.log - DRB2.tat* - TextAnalysisTool.NET
+09:52:53:  副本DRB测试缺陷.xlsx - Excel
+09:53:13:  K64_BTCR-1100200600510420_20210315151448.log - DRB2.tat* - TextAnalysisTool.NET
+09:53:23:  副本DRB测试缺陷.xlsx - Excel
+09:54:03:  K64_BTCR-1100200600510420_20210315151448.log - DRB2.tat* - TextAnalysisTool.NET
+09:56:13:  副本DRB测试缺陷.xlsx - Excel
+09:56:38:  K64_BTCR-1100200600510420_20210315151448.log - DRB2.tat* - TextAnalysisTool.NET
+09:56:53:  副本DRB测试缺陷.xlsx - Excel
+09:58:59:  缺陷日志
+09:59:19:  4、BNE-C52210122000005钞箱，使用20元与10元大额存款存入钞箱后，执行盘点流程，20元RB4反向盘点入上腔，软件报182113.417 通道传输过程中卡钞 超过最大长度持
+09:59:24:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+09:59:34:  Decode
+09:59:39:  K64_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+09:58:59:  缺陷日志
+09:59:19:  4、BNE-C52210122000005钞箱，使用20元与10元大额存款存入钞箱后，执行盘点流程，20元RB4反向盘点入上腔，软件报182113.417 通道传输过程中卡钞 超过最大长度持
+09:59:24:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+09:59:34:  Decode
+09:59:39:  K64_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+10:03:29:  D:\00-06\DRB\Applications\PlateCtrl\UpperPlateCtrl.c (DRB) - Sublime Text (UNREGISTERED)
+10:03:34:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+10:04:29:  K64_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+10:04:34:  Decode
+10:04:39:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+10:05:39:  K64_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+10:05:54:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+10:06:29:  K64_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+10:11:14:  计算器
+10:11:29:  K64_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+10:11:49:  副本DRB测试缺陷.xlsx - Excel
+10:12:09:  DRB - Everything
+10:12:14:  DRB资料 - Everything
+10:12:19:  DRB - Everything
+10:12:24:  最近使用的项目
+10:12:29:  DRB电气资料 20190912
+10:12:34:  01.jpg - Windows 照片查看器
+10:13:04:  副本DRB测试缺陷.xlsx - Excel
+10:13:19:  丛柏屹
+10:13:24:  副本DRB测试缺陷.xlsx - Excel
+10:14:24:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+10:14:29:  副本DRB测试缺陷.xlsx - Excel
+10:14:24:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+10:14:29:  副本DRB测试缺陷.xlsx - Excel
+10:15:44:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+10:16:59:  副本DRB测试缺陷.xlsx - Excel
+10:17:19:  曲平
+10:17:24:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+10:17:39:  K64_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+10:18:44:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+10:19:04:  副本DRB测试缺陷.xlsx - Excel
+10:19:19:  曲平
+10:19:24:  副本DRB测试缺陷.xlsx - Excel
+10:20:14:  颜晓军
+10:20:19:  副本DRB测试缺陷.xlsx - Excel
+10:20:39:  K64_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+10:20:49:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+10:21:49:  K64_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+10:22:14:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+10:22:34:  K64_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+10:22:49:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+10:22:59:  K64_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+10:23:34:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+10:23:44:  K64_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+10:23:49:  颜晓军
+10:23:59:  Decode
+10:24:04:  本地磁盘 (D:)
+10:24:09:  T21
+10:24:14:  颜晓军
+10:24:39:  选择文件夹
+10:24:44:  untitled (DRB) - Sublime Text (UNREGISTERED)
+10:24:54:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+10:25:19:  D:\00-06\DRB\Drivers\SensorDriver\SensorDriver.c (DRB) - Sublime Text (UNREGISTERED)
+10:25:24:  颜晓军
+10:25:29:  D:\00-06\DRB\Drivers\SensorDriver\SensorDriver.c (DRB) - Sublime Text (UNREGISTERED)
+10:25:34:  颜晓军
+10:26:04:  T21
+10:26:19:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+10:27:59:  跳转列表
+10:28:04:  荆文波
+10:28:34:  员工自助 - Internet Explorer
+10:28:44:  荆文波
+10:29:09:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+10:29:14:  副本DRB测试缺陷.xlsx - Excel
+10:29:24:  eSpace
+10:29:29:  丛柏屹
+10:29:34:  荆文波
+10:28:34:  员工自助 - Internet Explorer
+10:28:44:  荆文波
+10:29:09:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+10:29:14:  副本DRB测试缺陷.xlsx - Excel
+10:29:24:  eSpace
+10:29:29:  丛柏屹
+10:29:34:  荆文波
+10:30:14:  丛柏屹
+10:30:39:  荆文波
+10:30:44:  副本DRB测试缺陷.xlsx - Excel
+10:33:09:  计算器
+10:33:29:  颜晓军
+10:35:04:  副本DRB测试缺陷.xlsx - Excel
+10:35:09:  颜晓军
+10:35:29:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:35:34:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+10:36:24:  颜晓军
+10:36:29:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+10:37:09:  D:\00-06\DRB\Middlewares\EepromArea\EepromArea.c (DRB) - Sublime Text (UNREGISTERED)
+10:37:14:  D:\00-06\DRB\Applications\MemoryConfig.h (DRB) - Sublime Text (UNREGISTERED)
+10:37:24:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+10:37:29:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+10:37:34:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+10:37:39:  D:\00-06\DRB\Drivers\SensorDriver\SensorDriver.h (DRB) - Sublime Text (UNREGISTERED)
+10:37:44:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+10:37:59:  颜晓军
+10:38:34:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+10:38:39:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+10:38:49:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+10:38:59:  新北洋OA信息化平台 - Internet Explorer
+10:39:14:  锁屏状态
+10:39:34:  颜晓军
+10:40:24:  D:\00-06\DRB\Applications\Track\Track.c (DRB) - Sublime Text (UNREGISTERED)
+10:40:44:  D:\00-06\DRB\Drivers\SensorDriver\SensorDriver.h (DRB) - Sublime Text (UNREGISTERED)
+10:40:49:  D:\00-06\DRB\Applications\Separate\Separate.c (DRB) - Sublime Text (UNREGISTERED)
+10:40:59:  D:\00-06\DRB\Drivers\SensorDriver\SensorDriver.h (DRB) - Sublime Text (UNREGISTERED)
+10:41:04:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+10:41:59:  颜晓军
+10:42:09:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+10:43:34:  计算器
+10:46:09:  D:\00-06\DRB\Middlewares\Sensor\Sensor.c (DRB) - Sublime Text (UNREGISTERED)
+10:46:19:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+10:50:19:  新建文本文档.exe - 快捷方式
+10:50:29:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+10:50:45:  新标签页 - Google Chrome
+10:50:50:  百度一下，你就知道 - Google Chrome
+10:50:55:  quantumult_百度搜索 - Google Chrome
+10:51:00:  quantumult x_百度搜索 - Google Chrome
+10:51:46:  quantumultx吧_百度贴吧 - Google Chrome
+10:51:51:  关于 quantumult和x 的问题全解决【quantumultx吧】_百度贴吧 - Google Chrome
+10:52:01:  quantumultx吧_百度贴吧 - Google Chrome
+10:52:06:  quantumult x_百度搜索 - Google Chrome
+10:52:22:  quantumult x怎么购买_百度搜索 - Google Chrome
+10:52:47:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+10:53:28:  主控板集成测试方案-报告
+10:53:33:  quantumult x怎么购买_百度搜索 - Google Chrome
+10:53:38:  quantumult X 合集美区兑换码【自动发货】_购买商品_WiFiAS自动下单发卡平台 - Google Chrome
+10:54:34:  https://msg.wifias.com/index/send/shop.wifias.com - Google Chrome
+10:54:39:  quantumult x怎么购买_百度搜索 - Google Chrome
+10:54:44:  美区已购Quantumult X_购买商品_趣客猫自助下台发卡网 - Google Chrome
+10:55:10:  4、BNE-C52210122000005钞箱，使用20元与10元大额存款存入钞箱后，执行盘点流程，20元RB4反向盘点入上腔，软件报182113.417 通道传输过程中卡钞 超过最大长度持
+10:55:15:  美区已购Quantumult X_购买商品_趣客猫自助下台发卡网 - Google Chrome
+10:56:10:  https://mp.weixin.qq.com/s/wxr5ao9b5LspETwqII_gRw - Google Chrome
+10:56:15:  付费专线 - Google Chrome
+10:56:20:  美区已购Quantumult X_购买商品_趣客猫自助下台发卡网 - Google Chrome
+10:56:26:  quantumult x怎么购买_百度搜索 - Google Chrome
+10:56:36:  新建文本文档.exe - 快捷方式
+10:56:41:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+11:02:28:  新建文本文档.exe - 快捷方式
+11:02:33:  quantumult x_百度搜索 - Google Chrome
+11:02:38:  quantumult x怎么_百度搜索 - Google Chrome
+11:02:43:  Quantumult X 使用介绍 - ZhangShengjie - 博客园 - Google Chrome
+11:02:58:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+11:03:53:  丛柏屹
+11:04:03:  缺陷日志
+11:04:08:  20210315
+11:04:13:  丛柏屹
+11:04:18:  20210315
+11:04:38:  fenxi
+11:04:43:  正在复制 35 个项目(142 MB)
+11:04:53:  剩余 5 秒
+11:04:58:  新建文件夹
+11:05:03:  Decode
+11:05:08:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:08:58:  锁屏状态
+11:09:03:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:09:13:  锁屏状态
+11:09:28:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:11:44:  Quantumult X 使用介绍 - ZhangShengjie - 博客园 - Google Chrome
+11:11:49:  锁屏状态
+11:11:54:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:12:19:  于斌1
+11:12:24:  丛柏屹
+11:12:34:  于斌1
+11:12:39:  丛柏屹
+11:13:59:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:21:44:  于斌1
+11:25:09:  丛柏屹
+11:25:14:  打开
+11:25:24:  BTCRTestTool
+11:25:29:  TCR调测工具 V3.36
+11:25:54:  BTCRTestTool
+11:27:49:  TCR调测工具 V3.36
+11:29:39:  钞箱配置
+11:29:44:  取款
+11:29:49:  log
+11:29:54:  20210316
+11:29:59:  取款
+11:30:04:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+11:29:39:  钞箱配置
+11:29:44:  取款
+11:29:49:  log
+11:29:54:  20210316
+11:29:59:  取款
+11:30:04:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+11:30:19:  20210316
+11:30:54:  Decode
+11:30:59:  K64_BTCR-1100200400210043_20210316113001
+11:31:04:  K64-_BTCR-1100200400210043_20210316113001.log - DRB2.tat* - TextAnalysisTool.NET
+11:31:09:  Box_4__BTCR-1100200400210043_20210316113001.log - DRB2.tat* - TextAnalysisTool.NET
+11:32:29:  BTCRTestTool
+11:32:34:  TCR调测工具 V3.36
+11:34:29:  取款
+11:34:34:  K64_BTCR-1100200400210043_20210316113001
+11:34:39:  20210316
+11:37:14:  TCR调测工具 V3.36
+11:40:39:  锁屏状态
+13:13:27:  TCR调测工具 V3.36
+13:17:52:  收取邮件 - 张开发
+13:17:57:  quantumult x怎么_百度搜索 - Google Chrome
+13:18:12:  quantumult x导入v2_百度搜索 - Google Chrome
+13:18:22:  https://www.baidu.com/link?url=Jyry5OR7fHwO4SavtEkeCmE1T1g2o4cGaixnJeGYVMaQa-kccdk4UWxUzJNGRHH32Dw7PyguxL7lzBYBoS4NQ_&wd=&eqid=d74d91b0000724460000000260503f91 - Google Chrome
+13:18:27:  quantumult x 添加节点 - reaper.spring - 博客园 - Google Chrome
+13:18:47:  quantumult x导入v2_百度搜索 - Google Chrome
+13:18:52:  quantumuit x_百度搜索 - Google Chrome
+13:18:57:  无标题 - Google Chrome
+13:19:02:  35meta-analysis.b22496.com - Google Chrome
+13:19:07:  quantumult 节点_百度搜索 - Google Chrome
+13:19:17:  无标题 - Google Chrome
+13:19:22:  quantumult 节点_百度搜索 - Google Chrome
+13:19:37:  想问下 Quantumult 和 Quantumult X 的区别 - V2EX - Google Chrome
+13:20:41:  谈谈 Shadowrocket 和 Quantumult | 落格博客 - Google Chrome
+13:20:46:  quantumult 节点_百度搜索 - Google Chrome
+13:20:51:  quantumult配置文件_百度搜索 - Google Chrome
+13:21:01:  Surge/Shadowrocket/Quantumult配置文件 – sumi的小站 - Google Chrome
+13:21:11:  OLEOU - 噢勒噢 V3.5 - Google Chrome
+13:21:16:  quantumult配置文件_百度搜索 - Google Chrome
+13:21:26:  https://www.baidu.com/link?url=jspgK-WQsnDmg8T63C_xGkE4eQXmL66IY7O6UK3qHQEvoOVQcioYYlPzNr2uNjKnlhO3tbktBFRXG3QRW73_Ua&wd=&eqid=ec8689c60003bd8a000000026050402d - Google Chrome
+13:21:31:  Quantumult 使用教程 – 大雷趣享 - Google Chrome
+13:21:36:  quantumult配置文件_百度搜索 - Google Chrome
+13:21:46:  quantumult节点获取_百度搜索 - Google Chrome
+13:21:51:  Quantumult 基础使用小记 - 方寸间 - Google Chrome
+13:22:01:  quantumult节点获取_百度搜索 - Google Chrome
+13:22:11:  35meta-analysis.b22496.com - Google Chrome
+13:22:16:  quantumult节点获取_百度搜索 - Google Chrome
+13:22:31:  TCR调测工具 V3.36
+13:22:36:  quantumult节点获取_百度搜索 - Google Chrome
+13:22:56:  quantumult节点_百度搜索 - Google Chrome
+13:23:01:  quantumult节点在哪里找_百度搜索 - Google Chrome
+13:23:06:  SS/SSR/V2Ray_百度搜索 - Google Chrome
+13:23:26:  20210316
+13:23:46:  锁屏状态
+13:23:51:  20210316
+13:25:51:  SS/SSR/V2Ray 节点_百度搜索 - Google Chrome
+13:25:56:  https://www.baidu.com/link?url=Hi22nP2h_Rn4oyUoex6Ty2PjIxBONE0NyFQGh8K_Dl1yDX-oWsbG0W-XjsIZRWOsUYWsBB0l8-JPTNdH58w-qSh_Obe7mXziJB8HjVRwa_cV-DfSr7UYxsEY8QFrBXRN91j7m3DNemF7CqgjZsvJ4e6yMRENbIBEuSQRnuvCGebKNylwEXp0aCoVk2U312uXIomTHndYw6WAXBnej5FGFSr06LjfgHuySXOyfbt92AGSaUd7K46TImrdDzSWIN9VMb6ApAW29btHc-G1SDZQjOPuQpHiHU2gLjFJ1h4LfJm&wd=&eqid=b46bff40000221f2000000026050415d - Google Chrome
+13:26:01:  【科学上网】【订阅链接】：ss/ssr/v2ray/Trojan节点==>v2ray&clash订阅【订阅集合】Stable版 のソースコード - Google Chrome
+13:26:36:  20210316
+13:26:41:  跳转列表
+13:26:51:  TCR调测工具 V3.36
+13:27:31:  取款
+13:27:36:  TCR调测工具 V3.36
+13:28:31:  SS/SSR/V2Ray 节点_百度搜索 - Google Chrome
+13:28:36:  新建文本文档.exe - 快捷方式
+13:28:41:  SS/SSR/V2Ray 节点_百度搜索 - Google Chrome
+13:28:46:  简评部分机场 (SS/SSR/V2Ray 推荐) 心阶云 | 码农家园 - Google Chrome
+13:29:26:  TCR调测工具 V3.36
+13:28:31:  SS/SSR/V2Ray 节点_百度搜索 - Google Chrome
+13:28:36:  新建文本文档.exe - 快捷方式
+13:28:41:  SS/SSR/V2Ray 节点_百度搜索 - Google Chrome
+13:28:46:  简评部分机场 (SS/SSR/V2Ray 推荐) 心阶云 | 码农家园 - Google Chrome
+13:29:26:  TCR调测工具 V3.36
+13:33:11:  20210316
+13:33:16:  简评部分机场 (SS/SSR/V2Ray 推荐) 心阶云 | 码农家园 - Google Chrome
+13:33:21:  SS/SSR/V2Ray 节点_百度搜索 - Google Chrome
+13:33:31:  quantumult x_百度搜索 - Google Chrome
+13:33:41:  quantumult节点在哪里找_百度搜索 - Google Chrome
+13:33:51:  quantumult服务器订阅链接_百度搜索 - Google Chrome
+13:34:06:  (*´∇｀*) 被你发现啦~ iOS-Quantumult圈购买安装使用订阅配置教程 – 猫饭 - Google Chrome
+13:34:11:  20210316
+13:34:16:  Decode
+13:34:21:  K64_BTCR-1100200400210043_20210316133240
+13:34:26:  Box_4__BTCR-1100200400210043_20210316133240.log - DRB2.tat* - TextAnalysisTool.NET
+13:35:31:  BTCRTestTool
+13:36:46:  TCR调测工具 V3.36
+13:37:01:  quantumult服务器订阅链接_百度搜索 - Google Chrome
+13:37:06:  quantumult节点多少钱_百度搜索 - Google Chrome
+13:37:16:  iOS国区可购买的客户端Quantumult使用教程 - 笨猫博客 - Google Chrome
+13:37:31:  quantumult节点多少钱_百度搜索 - Google Chrome
+13:37:41:  ssr节点多少钱_百度搜索 - Google Chrome
+13:37:46:  https://www.baidu.com/link?url=91fpXA_DrfdnyDXePMFpo2qh7u3z8fyM-yUVGPJ9VEL8FS0hJqFiWtLWVcMLbwnXwyVBdhTeDtSjLlLaI3zFiRjcemm4FHox_vGFirqKNI3oGhRskICox6fOthjj6piyLtvNGZwg-T65pj0zCzLHgN_Ms1ydoB9LTrF0XTW42Rq&wd=&eqid=f0c5b164000c2f820000000260504426 - Google Chrome
+13:37:51:  ssr节点_百度搜索 - Google Chrome
+13:37:56:  无标题 - Google Chrome
+13:38:01:  SSR网络节点免费分享 - PC在线云端 - Google Chrome
+13:38:11:  酸酸乳ss - 锤子博客 - 免费ssr节点分享–每日更新，助力大家轻松访问google、youtube等国外网站！每日福利免费ssr节点来自网络手机，感谢分享！ - Google Chrome
+13:38:21:  ssr节点_百度搜索 - Google Chrome
+13:38:36:  TCR调测工具 V3.36
+13:38:41:  取款
+13:38:46:  TCR调测工具 V3.36
+13:40:21:  ssr节点推荐_百度搜索 - Google Chrome
+13:40:41:  百度贴吧 - Google Chrome
+13:40:46:  节点_百度搜索 - Google Chrome
+13:40:51:  节点购买_百度搜索 - Google Chrome
+13:41:01:  CC 检测页面 by NodeCache - Google Chrome
+13:41:06:  小飞机节点购买 | 一个你 - Google Chrome
+13:41:21:  一个你，分享/收集生活中的美，遇见世界上另外一个你！ - Google Chrome
+13:41:26:  TOP10海外服务器推荐 | 一个你 - Google Chrome
+13:41:41:  无标题 - Google Chrome
+13:41:46:  TOP10海外服务器推荐 | 一个你 - Google Chrome
+13:42:01:  正在翻译…
+13:42:06:  已翻译
+13:42:11:  TCR调测工具 V3.36
+13:42:16:  BTCRTestTool
+13:42:21:  TCR调测工具 V3.36
+13:42:41:  精心制作的虚拟主机服务-SiteGround - Google Chrome
+13:42:46:  TOP10海外服务器推荐 | 一个你 - Google Chrome
+13:43:01:  节点购买_百度搜索 - Google Chrome
+13:43:06:  TCR调测工具 V3.36
+13:43:56:  (18 封私信 / 80 条消息) 付费节点值得购买吗? - 知乎 - Google Chrome
+13:44:06:  jike0.com - Google Chrome
+13:44:11:  (18 封私信 / 80 条消息) 付费节点值得购买吗? - 知乎 - Google Chrome
+13:44:26:  TCR调测工具 V3.36
+13:44:06:  jike0.com - Google Chrome
+13:44:11:  (18 封私信 / 80 条消息) 付费节点值得购买吗? - 知乎 - Google Chrome
+13:44:26:  TCR调测工具 V3.36
+13:45:06:  取款
+13:45:11:  TCR调测工具 V3.36
+13:45:21:  20210316
+13:45:26:  删除多个项目
+13:45:31:  Decode
+13:45:36:  K64_BTCR-1100200400210043_20210316134506
+13:45:41:  Box_1__BTCR-1100200400210043_20210316134506.log - DRB2.tat* - TextAnalysisTool.NET
+13:45:51:  发送指令到K06
+13:45:56:  Box_1__BTCR-1100200400210043_20210316134506.log - DRB2.tat* - TextAnalysisTool.NET
+13:46:11:  「开始」菜单
+13:46:16:  计算器
+13:46:31:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+13:46:51:  TCR调测工具 V3.36
+13:47:11:  注册 — 极客云 - Google Chrome
+13:47:36:  https://jike0.com/user - Google Chrome
+13:47:46:  首页 — 极客云 - Google Chrome
+13:48:36:  节点列表 — 极客云 - Google Chrome
+13:48:41:  我的账号 — 极客云 - Google Chrome
+13:48:51:  商店 — 极客云 - Google Chrome
+13:49:31:  首页 — 极客云 - Google Chrome
+13:49:56:  极客云 - Google Chrome
+13:50:01:  TCR调测工具 V3.36
+13:50:06:  20210316
+13:50:11:  Decode
+13:50:16:  K64_BTCR-1100200400210043_20210316134705
+13:50:21:  K64-_BTCR-1100200400210043_20210316134705.log - DRB2.tat* - TextAnalysisTool.NET
+13:50:31:  计算器
+13:50:46:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+13:50:56:  K64-_BTCR-1100200400210043_20210316134705.log - DRB2.tat* - TextAnalysisTool.NET
+13:51:31:  计算器
+13:51:36:  K64-_BTCR-1100200400210043_20210316134705.log - DRB2.tat* - TextAnalysisTool.NET
+13:51:41:  计算器
+13:51:46:  K64-_BTCR-1100200400210043_20210316134705.log - DRB2.tat* - TextAnalysisTool.NET
+13:52:06:  锁屏状态
+13:52:31:  K64-_BTCR-1100200400210043_20210316134705.log - DRB2.tat* - TextAnalysisTool.NET
+13:53:01:  计算器
+13:53:11:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+13:53:31:  TCR调测工具 V3.36
+13:53:36:  取款
+13:53:41:  TCR调测工具 V3.36
+13:53:46:  登录 — 极客云 - Google Chrome
+13:53:51:  TCR调测工具 V3.36
+13:53:56:  20210316
+13:54:06:  K64_BTCR-1100200400210043_20210316135341
+13:54:11:  K64-_BTCR-1100200400210043_20210316135341.log - DRB2.tat* - TextAnalysisTool.NET
+13:54:21:  计算器
+13:55:01:  K64-_BTCR-1100200400210043_20210316135341.log - DRB2.tat* - TextAnalysisTool.NET
+13:55:16:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+13:55:51:  TCR调测工具 V3.36
+13:56:01:  首页 — 极客云 - Google Chrome
+13:56:16:  0-工作 - 张开发 - 印象笔记
+13:56:21:  印象笔记
+13:56:26:  https://sub.sdncimcin.xyz/link/y1QDT8z3shqE5SYq?list=quantumult - 印象笔记
+13:56:31:  0-工作 - 张开发 - 印象笔记
+13:56:36:  20210316
+13:56:46:  K64_BTCR-1100200400210043_20210316135549.log - DRB2.tat* - TextAnalysisTool.NET
+13:57:21:  计算器
+13:57:46:  K64_BTCR-1100200400210043_20210316135549.log - DRB2.tat* - TextAnalysisTool.NET
+13:58:11:  新建文本文档.exe - 快捷方式
+13:58:16:  eSpace
+13:58:21:  于斌1
+13:59:01:  K64_BTCR-1100200400210043_20210316135549.log - DRB2.tat* - TextAnalysisTool.NET
+13:59:26:  于斌1
+13:59:51:  K64_BTCR-1100200400210043_20210316135549.log - DRB2.tat* - TextAnalysisTool.NET
+13:59:56:  K64_0000_20210315141630.log - DRB2.tat* - TextAnalysisTool.NET
+14:00:01:  计算器
+13:58:11:  新建文本文档.exe - 快捷方式
+13:58:16:  eSpace
+13:58:21:  于斌1
+13:59:01:  K64_BTCR-1100200400210043_20210316135549.log - DRB2.tat* - TextAnalysisTool.NET
+13:59:26:  于斌1
+13:59:51:  K64_BTCR-1100200400210043_20210316135549.log - DRB2.tat* - TextAnalysisTool.NET
+13:59:56:  K64_0000_20210315141630.log - DRB2.tat* - TextAnalysisTool.NET
+14:00:01:  计算器
+14:00:16:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:00:41:  于斌1
+14:00:46:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:00:56:  TCR调测工具 V3.36
+14:01:01:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:01:06:  于斌1
+14:01:31:  K64_0000_20210315141630.log - DRB2.tat* - TextAnalysisTool.NET
+14:01:46:  计算器
+14:01:51:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:02:06:  于斌1
+14:02:16:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:02:36:  取款
+14:02:46:  于斌1
+14:02:51:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:03:01:  20210316
+14:03:11:  本地磁盘 (D:)
+14:03:16:  10
+14:03:21:  CashGateModuleApp.c - TortoiseMerge
+14:03:51:  GateModuleApp.c - TortoiseMerge
+14:03:56:  D:\00-KE64\10 - 工作副本 - TortoiseSVN
+14:04:01:  Project
+14:04:11:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+14:05:37:  K64_0000_20210315141630.log - DRB2.tat* - TextAnalysisTool.NET
+14:05:42:  Project
+14:05:47:  Decode
+14:05:58:  Box_1__BTCR-1100200400210043_20210316140243.log - DRB2.tat* - TextAnalysisTool.NET
+14:09:18:  BTCRTestTool
+14:09:28:  K64_0000_20210316134236
+14:09:33:  TCR调测工具 V3.36
+14:11:33:  首页 — 极客云 - Google Chrome
+14:11:38:  新建文本文档.exe - 快捷方式
+14:11:43:  首页 — 极客云 - Google Chrome
+14:12:03:  商店 — 极客云 - Google Chrome
+14:12:28:  扫码支付 - Google Chrome
+14:12:43:  支付结果 — 极客云 - Google Chrome
+14:12:53:  首页 — 极客云 - Google Chrome
+14:13:03:  TCR调测工具 V3.36
+14:13:13:  (18 封私信 / 80 条消息) 付费节点值得购买吗? - 知乎 - Google Chrome
+14:13:18:  首页 — 极客云 - Google Chrome
+14:13:23:  TCR调测工具 V3.36
+14:13:28:  所有笔记本 - 张开发 - 印象笔记
+14:13:38:  TCR调测工具 V3.36
+14:15:38:  所有笔记本 - 张开发 - 印象笔记
+14:15:43:  首页 — 极客云 - Google Chrome
+14:15:48:  TCR调测工具 V3.36
+14:15:53:  所有笔记本 - 张开发 - 印象笔记
+14:15:58:  TCR调测工具 V3.36
+14:17:13:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+14:17:18:  10
+14:17:23:  D:\00-KE64\10\Tools\CreateJK.exe
+14:17:28:  TCR调测工具 V3.36
+14:17:53:  BTCRTestTool
+14:18:03:  TCR调测工具 V3.36
+14:18:08:  首页 — 极客云 - Google Chrome
+14:18:13:  TCR调测工具 V3.36
+14:18:18:  所有笔记本 - 张开发 - 印象笔记
+14:19:53:  首页 — 极客云 - Google Chrome
+14:20:13:  所有笔记本 - 张开发 - 印象笔记
+14:20:23:  首页 — 极客云 - Google Chrome
+14:20:28:  所有笔记本 - 张开发 - 印象笔记
+14:20:33:  取款
+14:20:48:  TCR调测工具 V3.36
+14:22:18:  取款
+14:22:23:  TCR调测工具 V3.36
+14:23:43:  K64_BTCR-1100200400210043_20210316140243
+14:23:48:  20210316
+14:23:58:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:24:43:  BTCRTestTool
+14:24:53:  TCR调测工具 V3.36
+14:25:03:  0-工作 - 张开发 - 印象笔记
+14:25:23:  TCR调测工具 V3.36
+14:25:48:  fenxi
+14:25:53:  新建文件夹
+14:25:58:  LOG
+14:26:08:  eSpace
+14:26:13:  丛柏屹
+14:26:18:  历史记录管理器
+14:26:23:  丛柏屹
+14:26:33:  LOG
+14:26:43:  丛柏屹
+14:26:53:  K64_BTCR-1100200600510420_20210315182057
+14:26:58:  K64-_BTCR-1100200600510420_20210315182057.log - DRB2.tat* - TextAnalysisTool.NET
+14:27:08:  丛柏屹
+14:27:18:  副本DRB测试缺陷.xlsx - Excel
+14:27:33:  LOG
+14:27:38:  Box_3__BTCR-1100200600510420_20210315194839.log - DRB2.tat* - TextAnalysisTool.NET
+14:28:08:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:28:13:  Box_3__BTCR-1100200600510420_20210315194839.log - DRB2.tat* - TextAnalysisTool.NET
+14:28:58:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:29:08:  文本分列向导 - 第 1 步，共 3 步
+14:29:13:  文本分列向导 - 第 2 步，共 3 步
+14:29:23:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:28:08:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:28:13:  Box_3__BTCR-1100200600510420_20210315194839.log - DRB2.tat* - TextAnalysisTool.NET
+14:28:58:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:29:08:  文本分列向导 - 第 1 步，共 3 步
+14:29:13:  文本分列向导 - 第 2 步，共 3 步
+14:29:23:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:30:08:  首页 — 极客云 - Google Chrome
+14:30:18:  节点购买_百度搜索 - Google Chrome
+14:30:38:  将excel偶数列选中_百度搜索 - Google Chrome
+14:30:53:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:32:33:  将excel偶数列选中_百度搜索 - Google Chrome
+14:32:38:  EXCEL怎么一次性选中奇数行和偶数行_百度知道 - Google Chrome
+14:32:48:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:34:43:  丛柏屹
+14:34:58:  EXCEL怎么一次性选中奇数行和偶数行_百度知道 - Google Chrome
+14:35:08:  丛柏屹
+14:35:13:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:36:28:  Microsoft Excel
+14:36:33:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:39:53:  Box_3__BTCR-1100200600510420_20210315194839.log - DRB2.tat* - TextAnalysisTool.NET
+14:39:58:  文本分列向导 - 第 1 步，共 3 步
+14:40:03:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:51:23:  设置单元格格式
+14:51:28:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:51:58:  Microsoft Excel
+14:52:08:  6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:52:13:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:52:38:  新建Microsoft Excel 工作表.xlsx - Excel
+14:52:53:  缺陷16 - 写邮件
+14:52:58:  开始
+14:53:03:  TCR调测工具 V3.36
+14:53:13:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:53:28:  Microsoft Excel
+14:53:33:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:53:48:  TCR调测工具 V3.36
+14:53:58:  Box_3__BTCR-1100200600510420_20210315194839.log - DRB2.tat* - TextAnalysisTool.NET
+14:54:38:  TCR调测工具 V3.36
+14:54:48:  20210316
+14:56:48:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:56:58:  K64_BTCR-1100200400210043_20210316145350
+14:57:03:  Box_3__BTCR-1100200600510420_20210315194839.log - DRB2.tat* - TextAnalysisTool.NET
+14:57:08:  Box_4__BTCR-1100200400210043_20210316145350.log - DRB2.tat* - TextAnalysisTool.NET
+14:57:28:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:57:38:  丛柏屹
+14:57:43:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:57:48:  取款
+14:57:53:  TCR调测工具 V3.36
+14:58:03:  丛柏屹
+14:58:28:  TCR调测工具 V3.36
+14:58:33:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:59:18:  K64-_BTCR-1100200400210043_20210316145350.log - DRB2.tat* - TextAnalysisTool.NET
+14:59:33:  丛柏屹
+14:58:28:  TCR调测工具 V3.36
+14:58:33:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+14:59:18:  K64-_BTCR-1100200400210043_20210316145350.log - DRB2.tat* - TextAnalysisTool.NET
+14:59:33:  丛柏屹
+15:01:53:  运行
+15:01:58:  Windows 资源管理器
+15:02:03:  资料共享
+15:02:14:  新建文件夹
+15:02:29:  丛柏屹
+15:02:39:  新建文件夹
+15:02:59:  20210316
+15:03:04:  新建文件夹
+15:03:34:  资料共享
+15:03:39:  fenxi
+15:03:49:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+15:03:54:  正在复制 170 个项目(577 MB)
+15:04:04:  剩余 45 秒
+15:04:14:  剩余 30 秒
+15:04:24:  剩余 25 秒
+15:04:29:  剩余 15 秒
+15:04:34:  剩余 10 秒
+15:04:44:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+15:05:24:  20210316
+15:05:29:  计算器
+15:05:34:  20210316
+15:06:09:  丛柏屹
+15:06:19:  20210316
+15:06:29:  丛柏屹
+15:06:44:  20210316
+15:06:49:  丛柏屹
+15:09:19:  20210316
+15:09:24:  本地磁盘 (D:)
+15:09:29:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+15:09:34:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:10:09:  丛柏屹
+15:10:59:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:11:14:  丛柏屹
+15:13:44:  LOG
+15:13:49:  丛柏屹
+15:13:54:  K64_BTCR-1100200600510423_20210316135357
+15:13:59:  Box_3__BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:14:59:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:14:59:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:15:14:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:15:19:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:15:44:  Edit Filter
+15:15:49:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:16:49:  计算器
+15:16:59:  丛柏屹
+15:17:04:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:17:54:  计算器
+15:17:59:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:18:04:  丛柏屹
+15:18:14:  锁屏状态
+15:18:19:  Box_3__BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:18:54:  K64_BTCR-1100200600510423_20210316135357
+15:18:59:  Box_3__BTCR-1100200600510423_20210316135856.log - DRB2.tat* - TextAnalysisTool.NET
+15:19:04:  K64_BTCR-1100200600510423_20210316135949
+15:19:09:  Box_3__BTCR-1100200600510423_20210316135856.log - DRB2.tat* - TextAnalysisTool.NET
+15:19:14:  K64_BTCR-1100200600510423_20210316135357
+15:19:19:  Box_3__BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:19:24:  LOG
+15:19:29:  K64_BTCR-1100200600510423_20210316135856
+15:19:34:  K64_BTCR-1100200600510423_20210316135357
+15:19:39:  LOG
+15:19:44:  K64_BTCR-1100200600510423_20210316135357
+15:19:50:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:20:15:  LOG
+15:20:20:  K64_BTCR-1100200600510423_20210316135949
+15:20:25:  Box_3__BTCR-1100200600510423_20210316135949.log - DRB2.tat* - TextAnalysisTool.NET
+15:20:30:  Box_3__BTCR-1100200600510423_20210316140354.log - DRB2.tat* - TextAnalysisTool.NET
+15:21:00:  K64_BTCR-1100200600510423_20210316140354
+15:21:05:  LOG
+15:21:10:  Decode
+15:21:20:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:24:45:  K64_BTCR-1100200600510423_20210316141249
+15:24:50:  Box_3__BTCR-1100200600510423_20210316141249.log - DRB2.tat* - TextAnalysisTool.NET
+15:25:20:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:27:00:  Add Filter
+15:27:10:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:32:10:  Edit Filter
+15:32:15:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:32:25:  Edit Filter
+15:32:30:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:32:55:  Edit Filter
+15:33:00:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:33:05:  丛柏屹
+15:33:15:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:33:20:  Edit Filter
+15:33:25:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:33:30:  Add Filter
+15:33:40:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:33:55:  Add Filter
+15:34:05:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:34:45:  计算器
+15:34:50:  丛柏屹
+15:35:05:  计算器
+15:36:00:  丛柏屹
+15:36:30:  Tools
+15:36:35:  06 固件日报
+15:36:40:  LogFilter
+15:36:45:  本地磁盘 (D:)
+15:36:55:  Decode
+15:37:00:  新建文件夹
+15:37:05:  fenxi
+15:37:15:  工具
+15:37:20:  00-KE64
+15:37:30:  LOG
+15:37:40:  丛柏屹
+15:37:50:  Decode
+15:37:55:  LOG
+15:38:00:  新建文件夹
+15:38:05:  fenxi
+15:38:10:  新建文件夹 (3)
+15:38:15:  LOG
+15:38:20:  新建文件夹 (3)
+15:38:25:  LOG
+15:38:30:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+15:38:35:  LOG
+15:38:40:  K64_BTCR-1100200600510423_20210316135856
+15:38:45:  K64_BTCR-1100200600510423_20210316135949
+15:38:50:  正在复制 18 个项目(5.82 MB)
+15:38:55:  K64_BTCR-1100200600510423_20210316135949
+15:39:00:  Project
+15:39:05:  LogFilter
+15:39:10:  Decode
+15:39:15:  D:\fenxi\100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常\Decode\LOG\K64_BTCR-1100200600510423_20210316135949\00Log_filter.exe
+15:39:50:  K64_BTCR-1100200600510423_20210316135949
+15:39:55:  Log_Filter.xlsx - Excel
+15:41:20:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:43:35:  LogFilter
+15:43:45:  LOG
+15:43:50:  K64_BTCR-1100200600510423_20210316142015
+15:43:55:  Box_3__BTCR-1100200600510423_20210316142015.log - DRB2.tat* - TextAnalysisTool.NET
+15:44:10:  K64_BTCR-1100200600510423_20210316142015
+15:44:16:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+15:45:01:  计算器
+15:44:10:  K64_BTCR-1100200600510423_20210316142015
+15:44:16:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+15:45:01:  计算器
+15:45:06:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+15:45:11:  计算器
+15:45:26:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+15:46:11:  丛柏屹
+15:46:41:  K64_BTCR-1100200600510423_20210316141610
+15:46:46:  Box_3__BTCR-1100200600510423_20210316141610.log - DRB2.tat* - TextAnalysisTool.NET
+15:47:11:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+15:47:46:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:47:51:  Log_Filter.xlsx - Excel
+15:47:56:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+15:48:26:  Log_Filter.xlsx - Excel
+15:49:46:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+15:51:01:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:51:36:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+15:51:41:  K64_BTCR-1100200600510423_20210316141737
+15:51:46:  K64_BTCR-1100200600510423_20210316135357
+15:52:01:  丛柏屹
+15:52:06:  LOG
+15:52:11:  Decode
+15:52:16:  K64-_BTCR-1100200600510423_20210316135949.log - DRB2.tat* - TextAnalysisTool.NET
+15:52:21:  锁屏状态
+15:52:36:  K64-_BTCR-1100200600510423_20210316135949.log - DRB2.tat* - TextAnalysisTool.NET
+15:52:46:  Edit Filter
+15:52:51:  K64-_BTCR-1100200600510423_20210316135949.log - DRB2.tat* - TextAnalysisTool.NET
+15:53:06:  Decode
+15:53:11:  K64-_BTCR-1100200600510423_20210316135949.log - DRB2.tat* - TextAnalysisTool.NET
+15:53:46:  丛柏屹
+15:54:31:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+15:54:36:  丛柏屹
+15:54:41:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+15:54:56:  丛柏屹
+15:55:16:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+15:55:26:  K64_BTCR-1100200600510423_20210316140354.log - DRB2.tat* - TextAnalysisTool.NET
+15:55:31:  LOG
+15:55:36:  K64_BTCR-1100200600510423_20210316140354
+15:55:41:  Box_3__BTCR-1100200600510423_20210316140354.log - DRB2.tat* - TextAnalysisTool.NET
+15:56:31:  计算器
+15:56:41:  Box_3__BTCR-1100200600510423_20210316140354.log - DRB2.tat* - TextAnalysisTool.NET
+15:56:46:  LOG
+15:56:51:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+15:56:56:  K64_BTCR-1100200600510423_20210316141100
+15:57:01:  K64-_BTCR-1100200600510423_20210316141100.log - DRB2.tat* - TextAnalysisTool.NET
+15:57:16:  LOG
+15:57:21:  K64_BTCR-1100200600510423_20210316141249
+15:57:26:  Box_3__BTCR-1100200600510423_20210316141249.log - DRB2.tat* - TextAnalysisTool.NET
+15:57:31:  LOG
+15:57:36:  Box_3__BTCR-1100200600510423_20210316141452.log - DRB2.tat* - TextAnalysisTool.NET
+15:57:41:  K64_BTCR-1100200600510423_20210316141610
+15:57:46:  Box_3__BTCR-1100200600510423_20210316141610.log - DRB2.tat* - TextAnalysisTool.NET
+15:57:51:  K64_BTCR-1100200600510423_20210316141737
+15:57:56:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+15:58:01:  锁屏状态
+15:58:06:  计算器
+15:58:16:  K64_BTCR-1100200600510423_20210316135357
+15:58:21:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:58:46:  Edit Filter
+15:58:51:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:59:06:  Edit Filter
+15:59:11:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:59:16:  K64_BTCR-1100200600510423_20210316135357
+15:59:21:  LOG
+15:59:26:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:59:41:  Edit Filter
+15:59:46:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:58:06:  计算器
+15:58:16:  K64_BTCR-1100200600510423_20210316135357
+15:58:21:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:58:46:  Edit Filter
+15:58:51:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:59:06:  Edit Filter
+15:59:11:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:59:16:  K64_BTCR-1100200600510423_20210316135357
+15:59:21:  LOG
+15:59:26:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+15:59:41:  Edit Filter
+15:59:46:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+16:00:16:  计算器
+16:00:21:  锁屏状态
+16:00:26:  计算器
+16:00:36:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+16:01:06:  K64_BTCR-1100200600510423_20210316135357
+16:01:11:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+16:01:21:  打开
+16:01:26:  Box_3__BTCR-1100200600510423_20210316135357.log - DRB.tat - TextAnalysisTool.NET
+16:01:31:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+16:01:36:  Box_3__BTCR-1100200600510423_20210316135357.log - DRB.tat - TextAnalysisTool.NET
+16:02:21:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+16:03:11:  Box_3__BTCR-1100200600510423_20210316135357.log - DRB.tat - TextAnalysisTool.NET
+16:03:26:  Add Filter
+16:03:31:  Box_3__BTCR-1100200600510423_20210316135357.log - DRB.tat* - TextAnalysisTool.NET
+16:03:41:  Edit Filter
+16:03:46:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+16:03:51:  Box_3__BTCR-1100200600510423_20210316135357.log - DRB.tat* - TextAnalysisTool.NET
+16:04:36:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+16:04:41:  Box_3__BTCR-1100200600510423_20210316135357.log - DRB.tat* - TextAnalysisTool.NET
+16:04:56:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+16:05:26:  Box_3__BTCR-1100200600510423_20210316135357.log - DRB.tat* - TextAnalysisTool.NET
+16:07:56:  K64_BTCR-1100200600510423_20210316135357
+16:08:01:  LOG
+16:08:06:  K64_BTCR-1100200600510423_20210316135856
+16:08:11:  Box_3__BTCR-1100200600510423_20210316135856.log - DRB.tat* - TextAnalysisTool.NET
+16:08:21:  LOG
+16:08:26:  K64_BTCR-1100200600510423_20210316135856
+16:08:31:  LOG
+16:08:36:  Decode
+16:08:41:  K64_BTCR-1100200600510423_20210316135949
+16:08:46:  Box_3__BTCR-1100200600510423_20210316135949.log - DRB.tat* - TextAnalysisTool.NET
+16:09:41:  Decode
+16:09:46:  K64-_BTCR-1100200600510423_20210316135949.log - DRB.tat* - TextAnalysisTool.NET
+16:11:22:  K64_BTCR-1100200600510423_20210316135357
+16:11:27:  K64-_BTCR-1100200600510423_20210316135357.log - DRB.tat* - TextAnalysisTool.NET
+16:12:32:  LOG
+16:12:37:  K64_BTCR-1100200600510423_20210316135949
+16:12:42:  丛柏屹
+16:13:32:  K64_BTCR-1100200600510423_20210316135949
+16:14:02:  LOG
+16:14:22:  丛柏屹
+16:14:57:  LOG
+16:15:02:  丛柏屹
+16:14:22:  丛柏屹
+16:14:57:  LOG
+16:15:02:  丛柏屹
+16:15:52:  K64_BTCR-1100200600510423_20210316135357
+16:15:57:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+16:16:33:  桌面整理
+16:16:38:  查找
+16:16:43:  ErrCode_list_txt_flg.txt - 记事本
+16:17:48:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+16:18:03:  系统测试记录
+16:18:13:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+16:18:18:  警告
+16:18:23:  DRB系统测试
+16:18:28:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+16:21:38:  K64_BTCR-1100200600510423_20210316135949
+16:21:43:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+16:21:48:  K64-_BTCR-1100200600510423_20210316135949.log - DRB2.tat* - TextAnalysisTool.NET
+16:23:28:  LOG
+16:23:33:  K64-_BTCR-1100200600510423_20210316135949.log - DRB2.tat* - TextAnalysisTool.NET
+16:23:38:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+16:27:28:  于斌1
+16:28:23:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+16:28:33:  于斌1
+16:28:38:  Decode
+16:28:43:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+16:28:53:  于斌1
+16:29:18:  本地磁盘 (D:)
+16:29:23:  00-06
+16:29:33:  trunk
+16:29:58:  20210316
+16:28:23:  K64-_BTCR-1100200600510423_20210316135357.log - DRB2.tat* - TextAnalysisTool.NET
+16:28:33:  于斌1
+16:28:38:  Decode
+16:28:43:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+16:28:53:  于斌1
+16:29:18:  本地磁盘 (D:)
+16:29:23:  00-06
+16:29:33:  trunk
+16:29:58:  20210316
+16:30:28:  Decode
+16:30:33:  新建文件夹
+16:30:38:  100元手动放钞，普通取款第5张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B4，钞箱内纸币状态正常
+16:30:48:  K64_BTCR-1100200600510423_20210316142015
+16:30:53:  K64-_BTCR-1100200600510423_20210316135357.log - DRB.tat* - TextAnalysisTool.NET
+16:30:58:  Box_3__BTCR-1100200600510423_20210316142015.log - DRB2.tat* - TextAnalysisTool.NET
+16:31:18:  Edit Filter
+16:31:23:  Box_3__BTCR-1100200600510423_20210316142015.log - DRB2.tat* - TextAnalysisTool.NET
+16:31:43:  K64_BTCR-1100200600510423_20210316141737
+16:31:48:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+16:33:53:  Log_Filter.xlsx - Excel
+16:35:03:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+16:35:43:  计算器
+16:36:03:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+16:36:48:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:37:13:  20210316
+16:37:18:  K64_BTCR-1100200600510423_20210316141737
+16:37:23:  LOG
+16:37:33:  K64_BTCR-1100200600510423_20210316142015
+16:37:43:  K64_BTCR-1100200600510423_20210316142015 - 写邮件
+16:38:03:  副本DRB测试缺陷.xlsx - Excel
+16:38:28:  DRB系统测试
+16:44:19:  K64_BTCR-1100200600510423_20210316142015
+16:44:24:  K64_BTCR-1100200600510423_20210316141737
+16:44:29:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+16:44:44:  Box_3__BTCR-1100200600510423_20210316141737 - 写邮件
+16:44:49:  Box_3__出钞 - 写邮件
+16:44:54:  发送邮件
+16:44:19:  K64_BTCR-1100200600510423_20210316142015
+16:44:24:  K64_BTCR-1100200600510423_20210316141737
+16:44:29:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+16:44:44:  Box_3__BTCR-1100200600510423_20210316141737 - 写邮件
+16:44:49:  Box_3__出钞 - 写邮件
+16:44:54:  发送邮件
+16:48:14:  丛柏屹
+16:48:49:  锁屏状态
+16:48:54:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+16:48:59:  Edit Filter
+16:49:04:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+16:49:29:  丛柏屹
+16:49:39:  Box_3__BTCR-1100200600510423_20210316141737.log - DRB2.tat* - TextAnalysisTool.NET
+16:49:54:  丛柏屹
+16:50:29:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+16:51:19:  TCR调测工具 V3.36
+16:52:44:  K64_BTCR-1100200600510423_20210316141737
+16:52:49:  TCRControlCmdDLL
+16:52:54:  删除多个项目
+16:52:59:  20210316
+16:54:39:  取款
+16:54:44:  TCR调测工具 V3.36
+17:00:54:  20210316
+17:00:59:  Decode
+17:01:04:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+17:01:09:  K64_BTCR-1100200400210043_20210316165440
+17:01:14:  K64-_BTCR-1100200400210043_20210316165440.log - DRB2.tat* - TextAnalysisTool.NET
+17:01:54:  Edit Filter
+17:01:59:  K64-_BTCR-1100200400210043_20210316165440.log - DRB2.tat* - TextAnalysisTool.NET
+17:02:09:  计算器
+17:02:29:  K64_BTCR-1100200400210043_20210316165440
+17:02:34:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+17:02:44:  K64-_BTCR-1100200400210043_20210316165440.log - DRB2.tat* - TextAnalysisTool.NET
+17:02:54:  计算器
+17:02:59:  锁屏状态
+17:03:04:  计算器
+17:05:04:  丛柏屹
+17:05:54:  BNE-C52模具样机试制验证问题讨论会
+17:06:04:  丛柏屹
+17:06:19:  锁屏状态

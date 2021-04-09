@@ -1,0 +1,96 @@
+2021-02-01 23:45:03-- 00:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 00:00:04-- 00:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 00:15:04-- 00:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 00:30:04-- 00:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 00:45:04-- 01:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 01:00:04-- 01:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 01:15:04-- 01:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 01:30:04-- 01:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 01:45:00-- 02:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 02:00:00-- 02:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 02:15:00-- 02:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 02:30:00-- 02:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 02:45:01-- 03:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 03:00:01-- 03:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 03:15:01-- 03:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 03:30:01-- 03:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 03:45:01-- 04:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 04:00:01-- 04:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 04:15:02-- 04:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 04:30:02-- 04:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 04:45:02-- 05:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 05:00:02-- 05:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 05:15:02-- 05:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 05:30:03-- 05:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 05:45:03-- 06:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 06:00:03-- 06:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 06:15:03-- 06:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 06:30:03-- 06:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 06:45:04-- 07:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 07:00:04-- 07:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 07:15:04-- 07:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 07:30:04-- 07:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 07:45:04-- 08:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 08:00:04-- 08:15:00     :    一  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   102/8.5分钟       二  ：锁屏状态   40/3.33分钟     三  ：D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)   21/1.75分钟
+2021-02-02 08:15:00-- 08:30:00     :    一  ：D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)   107/8.91分钟       二  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   55/4.58分钟     三  ：吉哲   5/0.41分钟
+2021-02-02 08:30:00-- 08:45:00     :    一  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   128/10.6分钟       二  ：LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102020836.log   10/0.83分钟     三  ：111111.py - C:\Users\zhangkaifa\Documents\Fax\111111.py (3.7.3)   7/0.58分钟
+2021-02-02 08:45:00-- 09:00:00     :    一  ：颜晓军   67/5.58分钟       二  ：D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)   59/4.91分钟     三  ：新建文本文档.py - C:\Users\zhangkaifa\Documents\新建文本文档.py (3.7.3)   12/1.0分钟
+2021-02-02 09:00:00-- 09:15:01     :    一  ：颜晓军   49/4.08分钟       二  ：D:\00-06\1T1-82\Applications\PlateCtrl\PlateCtrl.c (1T1-82) - Sublime Text (UNREGISTERED)   42/3.5分钟     三  ：D:\00-06\meger\Applications\Instruction\InstrHandle.c (meger) - Sublime Text (UNREGISTERED)   36/3.0分钟
+2021-02-02 09:15:01-- 09:30:01     :    一  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   78/6.5分钟       二  ：D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.h (10) - Sublime Text (UNREGISTERED)   24/2.0分钟     三  ：LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102020921.log   21/1.75分钟
+2021-02-02 09:30:01-- 09:45:01     :    一  ：颜晓军   52/4.33分钟       二  ：LogExpert #2 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102020921.log   43/3.58分钟     三  ：D:\00-06\meger\Applications\Instruction\InstrExecute.c (meger) - Sublime Text (UNREGISTERED)   33/2.75分钟
+2021-02-02 09:45:01-- 10:00:03     :    一  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   116/9.66分钟       二  ：D:\00-06\meger\Middlewares\Selector\Selector.c (meger) - Sublime Text (UNREGISTERED)   30/2.5分钟     三  ：新标签页 - Google Chrome   6/0.5分钟
+2021-02-02 10:00:03-- 10:15:01     :    一  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   100/8.33分钟       二  ：百度贴吧_苹果11 王者 460 - Google Chrome   36/3.0分钟     三  ：iPhone11用wifi玩王者荣耀，延迟问题【iphone11吧】_百度贴吧 - Google Chrome   18/1.5分钟
+2021-02-02 10:15:01-- 10:30:01     :    一  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   56/4.66分钟       二  ：回家行李 - 印象笔记   40/3.33分钟     三  ：印象笔记   20/1.66分钟
+2021-02-02 10:30:01-- 10:45:01     :    一  ：win32gui - Everything   52/4.33分钟       二  ：回家行李 - 印象笔记   45/3.75分钟     三  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   45/3.75分钟
+2021-02-02 10:45:01-- 11:00:01     :    一  ：win32gui - Everything   55/4.58分钟       二  ：于斌1   48/4.0分钟     三  ：D:\00-06\meger\Applications\PlateCtrl\PressurePlateCtrl.c (meger) - Sublime Text (UNREGISTERED)   46/3.83分钟
+2021-02-02 11:00:01-- 11:15:01     :    一  ：D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)   117/9.75分钟       二  ：于斌1   31/2.58分钟     三  ：D:\00-06\meger\Drivers\SensorDriver\SensorDriver.h • (meger) - Sublime Text (UNREGISTERED)   11/0.91分钟
+2021-02-02 11:15:01-- 11:30:02     :    一  ：D:\00-06\meger\Middlewares\Sensor\Sensor.c (meger) - Sublime Text (UNREGISTERED)   88/7.33分钟       二  ：D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)   49/4.08分钟     三  ：于斌1   34/2.83分钟
+2021-02-02 11:30:02-- 11:45:02     :    一  ：D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)   102/8.5分钟       二  ：锁屏状态   56/4.66分钟     三  ：Adobe Photoshop CS3 Extended   9/0.75分钟
+2021-02-02 11:45:02-- 12:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 12:00:02-- 12:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 12:15:02-- 12:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 12:30:02-- 12:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 12:45:02-- 13:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 13:00:02-- 13:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 13:15:02-- 13:30:02     :    一  ：D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)   74/6.16分钟       二  ：锁屏状态   73/6.08分钟     三  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   16/1.33分钟
+2021-02-02 13:30:02-- 13:45:02     :    一  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   126/10.5分钟       二  ：LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102021339.log   32/2.66分钟     三  ：余幼时即嗜学 - 记事本   7/0.58分钟
+2021-02-02 13:45:02-- 14:00:03     :    一  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   120/10.0分钟       二  ：RTT_SeggerLog_202102021339.log - DRB.tat* - TextAnalysisTool.NET   31/2.58分钟     三  ：LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102021339.log   14/1.16分钟
+2021-02-02 14:00:03-- 14:15:03     :    一  ：E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageOut.c (gfgd) - Sublime Text (UNREGISTERED)   58/4.83分钟       二  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   57/4.75分钟     三  ：于斌1   34/2.83分钟
+2021-02-02 14:15:03-- 14:30:03     :    一  ：DRB钞箱模具样机10台【上线联络】   56/4.66分钟       二  ：E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageOut.c (gfgd) - Sublime Text (UNREGISTERED)   54/4.5分钟     三  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   24/2.0分钟
+2021-02-02 14:30:03-- 14:45:03     :    一  ：D:\00-06\meger\Applications\Separate\Separate.c (meger) - Sublime Text (UNREGISTERED)   88/7.33分钟       二  ：DRB钞箱模具样机10台【上线联络】   29/2.41分钟     三  ：E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)   18/1.5分钟
+2021-02-02 14:45:03-- 15:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 15:00:03-- 15:15:04     :    一  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   168/14.0分钟       二  ：3-日常 - 张开发 - 印象笔记   5/0.41分钟     三  ：0-工作 - 张开发 - 印象笔记   3/0.25分钟
+2021-02-02 15:15:04-- 15:30:04     :    一  ：RTT_SeggerLog_202102021339.log - DRB.tat* - TextAnalysisTool.NET   62/5.16分钟       二  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   47/3.91分钟     三  ：LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102021339.log   22/1.83分钟
+2021-02-02 15:30:04-- 15:45:04     :    一  ：D:\00-06\meger\Applications\State\State.c (meger) - Sublime Text (UNREGISTERED)   95/7.91分钟       二  ：LogExpert #3 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102021528.log   51/4.25分钟     三  ：D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)   16/1.33分钟
+2021-02-02 15:45:04-- 16:00:04     :    一  ：LogExpert #3 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202102021528.log   52/4.33分钟       二  ：于斌1   44/3.66分钟     三  ：D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)   41/3.41分钟
+2021-02-02 16:00:04-- 16:15:04     :    一  ：D:\00-06\meger\Applications\State\State.c (meger) - Sublime Text (UNREGISTERED)   30/2.5分钟       二  ：D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)   27/2.25分钟     三  ：D:\00-06\meger\Applications\State\State.c • (meger) - Sublime Text (UNREGISTERED)   21/1.75分钟
+2021-02-02 16:15:04-- 16:30:04     :    一  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   141/11.7分钟       二  ：2021年社保基数签字.xlsx   12/1.0分钟     三  ：2021年社保基数签字.xlsx  [只读] - Excel   11/0.91分钟
+2021-02-02 16:30:04-- 16:45:04     :    一  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   96/8.0分钟       二  ：D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)   29/2.41分钟     三  ：D:\00-06\meger\Cpu\MKE06Z4.h (meger) - Sublime Text (UNREGISTERED)   15/1.25分钟
+2021-02-02 16:45:04-- 17:00:00     :    一  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   63/5.25分钟       二  ：Arm Cortex-M0+_Kinetis KE06 48 MHz 32位5V MCU_NXP - Google Chrome   10/0.83分钟     三  ：D:\00-06\meger\Drivers\PeripheralDriver\Ke06bsp\adc.c (meger) - Sublime Text (UNREGISTERED)   9/0.75分钟
+2021-02-02 17:00:00-- 17:15:00     :    一  ：锁屏状态   103/8.58分钟       二  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   50/4.16分钟     三  ：0-工作 - 张开发 - 印象笔记   8/0.66分钟
+2021-02-02 17:15:00-- 17:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 17:30:00-- 17:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 17:45:01-- 18:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 18:00:01-- 18:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 18:15:01-- 18:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 18:30:01-- 18:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 18:45:01-- 19:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 19:00:01-- 19:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 19:15:01-- 19:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 19:30:01-- 19:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 19:45:02-- 20:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 20:00:02-- 20:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 20:15:02-- 20:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 20:30:02-- 20:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 20:45:02-- 21:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 21:00:02-- 21:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 21:15:03-- 21:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 21:30:03-- 21:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 21:45:03-- 22:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 22:00:03-- 22:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 22:15:03-- 22:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 22:30:03-- 22:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 22:45:03-- 23:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 23:00:03-- 23:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 23:15:04-- 23:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-02-02 23:30:04-- 23:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

@@ -1,0 +1,1075 @@
+08:10:55:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:12:10:  DRB钞箱工程样机现有缺陷讨论会
+08:12:55:  运行
+08:13:05:  新建文本文档.exe - 快捷方式
+08:13:15:  问题日志
+08:13:20:  正在打开 - Excel
+08:13:25:  正在打开 - DRB钞箱工程样机系统测试问题列表.xlsx
+08:13:30:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+08:15:30:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+08:15:35:  本地磁盘 (D:)
+08:15:55:  DRB钞箱工程样机系统测试问题列表~问题讨论.xlsx
+08:16:10:  问题日志
+08:16:15:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+08:16:20:  锁屏状态
+08:16:25:  ID-41-2 大额存款第50张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B6
+08:16:30:  Decode
+08:16:35:  LOG
+08:16:45:  Box_2__BTCR-1100200600510420_20200914133343.log - [No filter file] - TextAnalysisTool.NET
+08:16:55:  Box_2__BTCR-1100200600510420_20200914133343.log - DRB.tat - TextAnalysisTool.NET
+08:17:50:  LOG
+08:17:55:  K64_BTCR-1100200600510420_20200914133333
+08:18:00:  K64_BTCR-1100200600510420_20200914133343
+08:18:05:  Box_2__BTCR-1100200600510420_20200914133343.log - DRB.tat* - TextAnalysisTool.NET
+08:18:20:  LOG
+08:18:25:  K64-_BTCR-1100200600510420_20200914133334.log - DRB.tat* - TextAnalysisTool.NET
+08:18:35:  LOG
+08:18:40:  K64-_BTCR-1100200600510420_20200914133333.log - DRB.tat* - TextAnalysisTool.NET
+08:19:00:  eSpace Login
+08:19:10:  ID-41-2 大额存款第50张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B6
+08:19:15:  ID-41-1 大额存款第259张报通道传输过程中卡钞超过最大长度持续有钞返回码0X874602B4
+08:19:20:  Windows 照片查看器
+08:19:25:  ID-41-1 大额存款第259张报通道传输过程中卡钞超过最大长度持续有钞返回码0X874602B4
+08:19:30:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:19:40:  Decode
+08:19:45:  Box_2__BTCR-1100190803000008_20200914104447.log - DRB.tat* - TextAnalysisTool.NET
+08:21:10:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+08:21:15:  于斌1
+08:21:45:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+08:21:50:  于斌1
+08:22:05:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+08:22:30:  于斌1
+08:22:45:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+08:24:30:  Box_2__BTCR-1100190803000008_20200914104447.log - DRB.tat* - TextAnalysisTool.NET
+08:24:50:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+08:24:55:  于斌1
+08:26:30:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+08:27:30:  Box_2__BTCR-1100190803000008_20200914104447.log - DRB.tat* - TextAnalysisTool.NET
+08:27:35:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+08:28:45:  未命名 - 写邮件
+08:29:00:  eSpace
+08:29:05:  荆文波
+08:29:15:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:28:45:  未命名 - 写邮件
+08:29:00:  eSpace
+08:29:05:  荆文波
+08:29:15:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:31:20:  荆文波
+08:31:55:  于斌1
+08:32:00:  自动播放
+08:32:05:  于斌1
+08:32:10:  运行
+08:32:25:  正在打开 - 周报及工作日志.xlsx
+08:32:30:  周报及工作日志.xlsx - Excel
+08:32:55:  荆文波
+08:33:05:  eSpace
+08:33:10:  于斌1
+08:35:05:  新北洋OA信息化平台 - Internet Explorer
+08:35:10:  于斌1
+08:35:50:  Visual Studio Code
+08:36:00:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+08:36:11:  于斌1
+08:36:21:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+08:36:46:  新建文本文档.exe - 快捷方式
+08:36:51:  打开文件夹
+08:36:56:  扩展: Python - KE18-ESS - Visual Studio Code [管理员]
+08:37:01:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+08:37:36:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+08:37:41:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+08:37:46:  设置 - KE18-ESS - Visual Studio Code [管理员]
+08:37:56:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+08:44:01:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+08:44:06:  设置 - KE18-ESS - Visual Studio Code [管理员]
+08:44:11:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+08:44:16:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+08:44:21:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+08:44:06:  设置 - KE18-ESS - Visual Studio Code [管理员]
+08:44:11:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+08:44:16:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+08:44:21:  InstrExe.c - KE18-ESS - Visual Studio Code [管理员]
+08:52:31:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+08:52:41:  收取邮件 - 张开发
+08:52:56:  eSpace
+08:53:06:  于斌1
+08:53:21:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:53:41:  JLink - Cortex-M Error
+08:53:46:  「开始」菜单
+08:53:56:  J-Flash V6.32h
+08:54:01:  「开始」菜单
+08:54:06:  J-Link Commander V6.32h
+08:55:06:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:55:51:  J-Link Commander V6.32h
+08:57:31:  「开始」菜单
+08:57:36:  SEGGER J-Flash Lite V6.32h
+08:57:41:  Target Device Settings
+08:58:11:  SEGGER J-Flash Lite V6.32h
+08:58:36:  「开始」菜单
+08:59:16:   Select device
+08:59:31:  SEGGER J-Flash V6.32h - [new project *]
+08:59:56:  Project settings
+09:00:01:  SEGGER J-Flash V6.32h - [new project *]
+08:58:11:  SEGGER J-Flash Lite V6.32h
+08:58:36:  「开始」菜单
+08:59:16:   Select device
+08:59:31:  SEGGER J-Flash V6.32h - [new project *]
+08:59:56:  Project settings
+09:00:01:  SEGGER J-Flash V6.32h - [new project *]
+09:00:31:  00-18
+09:00:36:  KE18-BOOT
+09:00:41:  startup_MKE18F16.s - 记事本
+09:00:51:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+09:00:56:  SEGGER J-Flash V6.32h - [new project *]
+09:01:01:  μVision
+09:01:06:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:01:16:  SEGGER J-Flash V6.32h - [new project *]
+09:01:31:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:01:36:  SEGGER J-Flash V6.32h - [new project *]
+09:01:41:  J-Flash V6.32h
+09:01:46:  SEGGER J-Flash V6.32h - [new project *]
+09:02:06:  飞思卡尔KL15芯片加密 - 百度文库 - Google Chrome
+09:02:11:  (3条消息)Cortex M0+ Keil MDK启动文件详解_uunubt的专栏-CSDN博客 - Google Chrome
+09:02:16:  SEGGER J-Flash V6.32h - [new project *]
+09:03:26:  Save data file as
+09:03:31:  SEGGER J-Flash V6.32h - [new project *]
+09:03:41:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+09:03:51:  SEGGER J-Flash V6.32h - [new project *]
+09:04:01:  J-Flash V6.32h Error
+09:04:06:  Open data file
+09:04:16:  SEGGER J-Flash V6.32h - [new project *]
+09:04:26:  J-Flash V6.32h Error
+09:04:31:   Enter address range
+09:04:36:  SEGGER J-Flash V6.32h - [new project *]
+09:04:41:  J-Flash V6.32h Error
+09:04:46:  SEGGER J-Flash V6.32h - [new project *]
+11:28:38:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+11:28:43:  本地磁盘 (D:)
+11:28:48:  trunk
+11:28:53:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+11:29:18:  TrackCtrl.c Revision 3090 - TortoiseMerge
+11:29:23:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+11:30:03:  TrackCtrl.c Revision 3291 - TortoiseMerge
+11:28:38:  CheckTheBookTital.py - KE18-ESS - Visual Studio Code [管理员]
+11:28:43:  本地磁盘 (D:)
+11:28:48:  trunk
+11:28:53:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+11:29:18:  TrackCtrl.c Revision 3090 - TortoiseMerge
+11:29:23:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+11:30:03:  TrackCtrl.c Revision 3291 - TortoiseMerge
+11:30:08:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+11:30:18:  TrackCtrl.c Revision 3291 - TortoiseMerge
+11:30:53:  D:\00-KE64\CRS-64\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c (CRS-64) - Sublime Text (UNREGISTERED)
+11:31:03:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+11:31:13:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:32:08:  运行
+11:32:18:  问题日志
+11:32:48:  正在打开 - Excel
+11:32:53:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+11:33:18:  ID-32-2 大额存款有四张纸币异常进入下腔
+11:33:48:  trunk
+11:33:53:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+11:33:58:  运行
+11:34:03:  问题日志
+11:34:08:  系统测试记录
+11:34:13:  08tcr测试过程记录
+11:34:18:  最新固件
+11:34:23:  K06
+11:34:28:  样机配置履历表
+11:34:33:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T85.JM - “固件版本”中的搜索结果
+11:34:38:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T81.JM - “固件版本”中的搜索结果
+11:34:53:  trunk
+11:34:58:  SEGGER J-Flash V6.32h - [new project *]
+11:36:53:  TCRControlCmdDLL
+11:37:08:  20200914
+11:37:13:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+11:37:18:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:37:28:  J-Flash V6.32h
+11:37:33:  20200914
+11:37:38:  00-06
+11:37:43:  本地磁盘 (D:)
+11:38:18:  CRS
+11:38:23:  Find Trace
+11:38:28:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+11:38:33:  KE18-ESS
+11:38:43:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:39:48:  「开始」菜单
+11:39:53:  J-Link Commander V6.32h
+11:40:48:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:41:03:  SEGGER J-Flash V6.32h
+11:41:08:   Select device
+11:41:23:  SEGGER J-Flash V6.32h - [new project *]
+11:41:43:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:41:48:  SEGGER J-Flash V6.32h - [new project *]
+11:41:53:  跳转列表
+11:41:58:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:43:53:  计算器
+11:44:13:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:44:13:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+11:46:28:  Windows 资源管理器
+11:46:33:  锁屏状态
+13:19:04:  库
+13:19:09:  计算器
+13:19:14:  本地磁盘 (D:)
+13:19:19:  KE18-BOOT
+13:19:24:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+13:19:29:  查找
+13:19:34:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+13:19:39:  μVision
+13:19:44:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:20:59:  μVision
+13:21:04:  SEGGER J-Flash V6.32h - [new project *]
+13:21:29:  J-Flash V6.32h
+13:21:34:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:22:14:  SEGGER J-Flash V6.32h - [new project *]
+13:22:19:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:22:24:  JLink - Cortex-M Error
+13:22:29:  SEGGER J-Flash V6.32h - [new project *]
+13:22:44:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:23:29:  JLink - Cortex-M Error
+13:23:34:  SEGGER J-Flash V6.32h - [new project *]
+13:23:44:   J-Flash
+13:23:49:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:24:04:  SEGGER J-Flash V6.32h - [new project *]
+13:24:09:  Save data file as
+13:24:14:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:24:29:  SEGGER J-Flash V6.32h - [new project *]
+13:24:34:  J-Flash V6.32h Error
+13:24:39:  SEGGER J-Flash V6.32h - [new project *]
+13:24:44:  Open data file
+13:24:49:  SEGGER J-Flash V6.32h - [new project *]
+13:24:54:  J-Flash
+13:24:59:   J-Flash
+13:25:04:  SEGGER J-Flash V6.32h - [new project *]
+13:25:09:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:26:14:  JLink - Cortex-M Error
+13:26:19:  SEGGER J-Flash V6.32h - [new project *]
+13:26:29:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:26:34:  SEGGER J-Flash V6.32h - [new project *]
+13:26:54:  J-Flash V6.32h Error
+13:26:59:  SEGGER J-Flash V6.32h - [new project *]
+13:27:04:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:27:09:  SEGGER J-Flash V6.32h - [new project *]
+13:27:24:  「开始」菜单
+13:27:29:  J-Flash V6.32h
+13:27:34:  「开始」菜单
+13:27:39:  J-Link Commander V6.32h
+13:28:09:  SEGGER J-Flash V6.32h - [new project *]
+13:28:19:  「开始」菜单
+13:28:24:  SEGGER J-Flash V6.32h - [new project *]
+13:28:29:  「开始」菜单
+13:28:34:  J-Link Commander V6.32h
+13:29:09:  SEGGER J-Flash V6.32h - [new project *]
+13:29:19:  J-Flash V6.32h Error
+13:29:24:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:29:39:  SEGGER J-Flash V6.32h - [new project *]
+13:29:44:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:30:04:  SEGGER J-Flash V6.32h - [new project *]
+13:28:09:  SEGGER J-Flash V6.32h - [new project *]
+13:28:19:  「开始」菜单
+13:28:24:  SEGGER J-Flash V6.32h - [new project *]
+13:28:29:  「开始」菜单
+13:28:34:  J-Link Commander V6.32h
+13:29:09:  SEGGER J-Flash V6.32h - [new project *]
+13:29:19:  J-Flash V6.32h Error
+13:29:24:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:29:39:  SEGGER J-Flash V6.32h - [new project *]
+13:29:44:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:30:04:  SEGGER J-Flash V6.32h - [new project *]
+13:30:19:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:30:24:  JLink - Cortex-M Error
+13:30:29:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:30:44:  SEGGER J-Flash V6.32h - [new project *]
+13:30:54:   J-Flash
+13:30:59:  SEGGER J-Flash V6.32h - [new project *]
+13:31:04:   J-Flash
+13:31:09:  Open data file
+13:31:14:  SEGGER J-Flash V6.32h - [new project *]
+13:31:19:  J-Flash
+13:31:24:  J-Flash V6.32h Error
+13:31:29:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:31:44:  「开始」菜单
+13:31:49:  J-Link Commander V6.32h
+13:32:44:  跳转列表
+13:32:49:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+13:32:54:  本地磁盘 (D:)
+13:32:59:  Project
+13:33:04:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:33:24:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:34:29:  SEGGER J-Flash V6.32h - [new project *]
+13:34:39:  J-Flash V6.32h
+13:34:44:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:34:49:  μVision
+13:34:54:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:38:49:  Memory 1
+13:38:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:39:59:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+13:40:04:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:40:30:  锁屏状态
+13:40:35:  SEGGER J-Flash V6.32h - [new project *]
+13:40:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:40:50:  TCR调测工具（研发版）V1.0.0.4
+13:41:45:  JLink - Cortex-M Error
+13:41:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:43:15:  μVision
+13:43:20:  SEGGER J-Flash V6.32h - [new project *]
+13:44:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:44:20:  μVision
+13:44:30:  SEGGER J-Flash V6.32h - [new project *]
+13:44:35:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:45:00:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:44:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:44:20:  μVision
+13:44:30:  SEGGER J-Flash V6.32h - [new project *]
+13:44:35:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:45:00:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:45:10:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:46:40:  张健4
+13:47:00:  运行
+13:47:05:  张健4
+13:47:20:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:47:45:  张健4
+13:47:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:47:55:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:48:05:  eSpace
+13:48:25:  程明昌
+13:49:15:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:49:25:  eSpace
+13:49:30:  张健4
+13:49:35:  192.168.28.2
+13:49:40:  资料共享
+13:49:45:  张健4
+13:49:55:  KE1xFP100M168SF0RM.pdf - Adobe Reader
+13:50:30:  资料共享
+13:50:35:  开发
+13:50:40:  本地磁盘 (F:)
+13:50:45:  02-学习资料
+13:50:55:  张健4
+13:51:05:  KE1xFP100M168SF0.pdf - Adobe Reader
+13:51:20:  「开始」菜单
+13:51:25:  网易有道词典
+13:51:55:  KE1xFP100M168SF0.pdf - Adobe Reader
+13:52:00:  网易有道词典
+13:52:05:  KE1xFP100M168SF0.pdf - Adobe Reader
+13:52:10:  网易有道词典
+13:52:15:  KE1xFP100M168SF0.pdf - Adobe Reader
+13:52:20:  锁屏状态
+13:52:25:  网易有道词典
+13:53:10:  KE1xFP100M168SF0.pdf - Adobe Reader
+13:53:15:  网易有道词典
+13:53:20:  KE1xFP100M168SF0.pdf - Adobe Reader
+13:53:25:  张健4
+13:53:30:  KE1xFP100M168SF0.pdf - Adobe Reader
+13:53:50:  网易有道词典
+13:54:05:  KE1xFP100M168SF0.pdf - Adobe Reader
+13:54:10:  网易有道词典
+13:54:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:54:50:  网易有道词典
+13:54:55:  KE1xFP100M168SF0.pdf - Adobe Reader
+13:55:00:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:55:30:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:55:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:56:25:  张健4
+13:56:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:56:40:  张健4
+13:56:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:57:05:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+13:57:10:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+13:57:15:  Toolbox
+13:57:20:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:02:00:  Toolbox
+14:02:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:02:10:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:02:35:  JLink - Cortex-M Error
+14:02:40:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:02:50:  μVision
+14:02:55:  SEGGER J-Flash V6.32h - [new project *]
+14:03:05:  J-Flash
+14:03:10:  SEGGER J-Flash V6.32h - [new project *]
+14:03:20:  「开始」菜单
+14:03:25:  J-Link Commander V6.32h
+14:03:55:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:04:00:  J-Flash V6.32h
+14:04:05:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:04:10:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:04:15:  Toolbox
+14:04:20:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:05:00:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:05:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:05:40:  KE18-ESS
+14:05:45:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T81.JM - “KE18-BOOT”中的搜索结果
+14:05:50:  查找
+14:05:55:  startup_MKE18F16.s - 记事本
+14:06:00:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:06:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:07:10:  查找
+14:07:15:  锁屏状态
+14:07:20:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:07:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:07:45:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:08:10:  「开始」菜单
+14:08:15:  J-Link Commander V6.32h
+14:08:25:  JLink - Cortex-M Error
+14:08:30:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:08:35:  SEGGER J-Flash V6.32h - [new project *]
+14:08:45:  J-Link Commander V6.32h
+14:09:20:  计算器
+14:09:25:  SEGGER J-Flash V6.32h - [new project *]
+14:09:30:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:09:45:  SEGGER J-Flash V6.32h - [new project *]
+14:10:25:  μVision
+14:10:30:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:10:35:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:10:40:  Toolbox
+14:10:45:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:11:15:  JLink - Cortex-M Error
+14:11:20:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:12:25:  SEGGER J-Flash V6.32h - [new project *]
+14:13:00:  J-Flash V6.32h Error
+14:13:05:  SEGGER J-Flash V6.32h - [new project *]
+14:13:15:  「开始」菜单
+14:13:20:  J-Link Commander V6.32h
+14:13:35:  SEGGER J-Flash V6.32h - [new project *]
+14:13:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:14:10:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:14:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:14:30:  Toolbox
+14:14:35:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:14:40:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:14:45:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:14:10:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:14:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:14:30:  Toolbox
+14:14:35:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:14:40:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:14:45:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:16:00:  SEGGER J-Flash V6.32h - [new project *]
+14:16:10:  J-Flash V6.32h Error
+14:16:15:  SEGGER J-Flash V6.32h - [new project *]
+14:16:25:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:16:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:18:00:  JLink - Cortex-M Error
+14:18:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:18:55:  SEGGER J-Flash V6.32h - [new project *]
+14:19:15:  J-Flash
+14:19:20:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:19:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:20:50:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:20:55:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:21:25:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:21:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:22:35:  计算器
+14:22:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:22:45:  μVision
+14:22:50:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:22:55:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:23:45:  SEGGER J-Flash V6.32h - [new project *]
+14:23:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:24:20:  计算器
+14:24:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:24:50:  计算器
+14:25:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:26:15:  JLink - Cortex-M Error
+14:26:20:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:26:40:  J-Flash
+14:26:45:  SEGGER J-Flash V6.32h - [new project *]
+14:26:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:27:00:  Toolbox
+14:27:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:28:25:  KE1xFP100M168SF0.pdf - Adobe Reader
+14:28:35:  网易有道词典
+14:28:45:  KE1xFP100M168SF0.pdf - Adobe Reader
+14:28:50:  网易有道词典
+14:28:55:  KE1xFP100M168SF0.pdf - Adobe Reader
+14:29:00:  网易有道词典
+14:29:10:  KE1xFP100M168SF0.pdf - Adobe Reader
+14:29:15:  网易有道词典
+14:29:20:  KE1xFP100M168SF0.pdf - Adobe Reader
+14:29:55:  网易有道词典
+14:28:25:  KE1xFP100M168SF0.pdf - Adobe Reader
+14:28:35:  网易有道词典
+14:28:45:  KE1xFP100M168SF0.pdf - Adobe Reader
+14:28:50:  网易有道词典
+14:28:55:  KE1xFP100M168SF0.pdf - Adobe Reader
+14:29:00:  网易有道词典
+14:29:10:  KE1xFP100M168SF0.pdf - Adobe Reader
+14:29:15:  网易有道词典
+14:29:20:  KE1xFP100M168SF0.pdf - Adobe Reader
+14:29:55:  网易有道词典
+14:30:20:  KE1xFP100M168SF0.pdf - Adobe Reader
+14:30:25:  网易有道词典
+14:30:40:  KE1xFP100M168SF0.pdf - Adobe Reader
+14:30:55:  新标签页 - Google Chrome
+14:31:00:  KE1xFP100M168SF0.pdf - Adobe Reader
+14:31:35:  新标签页 - Google Chrome
+14:31:40:  百度一下，你就知道 - Google Chrome
+14:31:45:  flash 0x400_百度搜索 - Google Chrome
+14:31:55:  KL系列Flash操作，当全部擦除Flash后，导致芯片secure，请问擦完后怎么配置0x400的Flash Configuration Field？(已解决 - Kinetis - 恩智浦技术社区 - Google Chrome
+14:33:30:  ErrCode_list_txt_flg.txt - 记事本
+14:33:35:  查找
+14:34:15:  ErrCode_list_txt_flg.txt - 记事本
+14:35:34:  计算器
+14:36:29:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:29:  Excel
+14:37:34:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:38:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:41:29:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+14:41:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:42:34:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+14:42:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:43:59:  新北洋OA信息化平台 - Internet Explorer
+14:44:04:  http://oa.byintra.com/iPortal/publish/Default.aspx - Internet Explorer
+14:44:09:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:44:14:  本地磁盘 (E:)
+14:44:24:  T87
+14:44:29:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+14:44:09:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:44:14:  本地磁盘 (E:)
+14:44:24:  T87
+14:44:29:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+14:45:29:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:45:34:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+14:45:39:  SEGGER J-Flash V6.32h - [new project *]
+14:45:44:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:45:49:  KL系列Flash操作，当全部擦除Flash后，导致芯片secure，请问擦完后怎么配置0x400的Flash Configuration Field？(已解决 - Kinetis - 恩智浦技术社区 - Google Chrome
+14:45:59:  flash 0x400_百度搜索 - Google Chrome
+14:46:04:  S32K144 烧写flash配置区（0x400~0x40F）出现的问题！ - 其他 - 恩智浦技术社区 - Google Chrome
+14:46:29:  flash 0x400_百度搜索 - Google Chrome
+14:46:34:  eSpace
+14:46:39:  张健4
+14:46:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:47:09:  JLink - Cortex-M Error
+14:47:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:47:29:  SEGGER J-Flash V6.32h - [new project *]
+14:47:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:48:19:  SEGGER J-Flash V6.32h - [new project *]
+14:48:24:  J-Flash V6.32h Error
+14:48:29:  SEGGER J-Flash V6.32h - [new project *]
+14:48:34:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:49:09:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:49:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:49:49:  Toolbox
+14:49:54:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:49:59:  546097D
+14:50:04:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:50:09:  SEGGER J-Flash V6.32h - [new project *]
+14:50:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:50:19:  μVision
+14:50:24:  锁屏状态
+14:50:29:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:50:39:  546097D
+14:50:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:51:39:  μVision
+14:51:44:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+14:51:54:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+14:51:59:  锁屏状态
+14:52:04:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:54:44:  flash 0x400_百度搜索 - Google Chrome
+14:54:54:  请问STM32写flash怎么总是写不进? - STM32 - 论坛-意法半导体STM32/STM8技术社区 - Google Chrome
+14:55:14:  flash 0x400_百度搜索 - Google Chrome
+14:55:24:  KL系列Flash操作，当全部擦除Flash后，导致芯片secure，请问擦完后怎么配置0x400的Flash Configuration Field？(已解决 - Kinetis - 恩智浦技术社区 - Google Chrome
+14:55:59:  KL系列Flash操作，当全部擦除Flash后，导致芯片secure，请问擦完后怎么配置0x400的Flash Configuration Field？(已解决 - 第2页 - Kinetis - 恩智浦技术社区 - Google Chrome
+14:56:04:  无标题 - Google Chrome
+14:56:09:  NXP Semiconductors | Automotive, Security, IoT - Google Chrome
+14:56:19:  KL系列Flash操作，当全部擦除Flash后，导致芯片secure，请问擦完后怎么配置0x400的Flash Configuration Field？(已解决 - Kinetis - 恩智浦技术社区 - Google Chrome
+14:56:24:  SEGGER J-Flash V6.32h - [new project *]
+14:57:04:  J-Flash V6.32h Error
+14:57:14:  SEGGER J-Flash V6.32h - [new project *]
+14:57:24:  J-Flash V6.32h
+14:57:29:  SEGGER J-Flash V6.32h - [new project *]
+14:57:49:  flash 0x400_百度搜索 - Google Chrome
+14:57:59:  jflash 指定地址_百度搜索 - Google Chrome
+14:58:09:  (3条消息)STM32 下载程序时，往flash固定位置写数据配置_qq_22329595的博客-CSDN博客 - Google Chrome
+14:58:19:  0地址烧不进去 jflash_jflash 向stm32指定地址烧写数据 - CSDN - Google Chrome
+14:58:29:  jflash 指定地址_百度搜索 - Google Chrome
+14:58:39:  SEGGER J-Flash V6.32h - [new project *]
+14:59:14:   Enter address range
+14:59:24:  SEGGER J-Flash V6.32h - [new project *]
+14:59:39:   Enter address range
+14:59:44:  SEGGER J-Flash V6.32h - [new project *]
+14:59:49:  J-Flash V6.32h Error
+14:59:54:  SEGGER J-Flash V6.32h - [new project *]
+14:58:09:  (3条消息)STM32 下载程序时，往flash固定位置写数据配置_qq_22329595的博客-CSDN博客 - Google Chrome
+14:58:19:  0地址烧不进去 jflash_jflash 向stm32指定地址烧写数据 - CSDN - Google Chrome
+14:58:29:  jflash 指定地址_百度搜索 - Google Chrome
+14:58:39:  SEGGER J-Flash V6.32h - [new project *]
+14:59:14:   Enter address range
+14:59:24:  SEGGER J-Flash V6.32h - [new project *]
+14:59:39:   Enter address range
+14:59:44:  SEGGER J-Flash V6.32h - [new project *]
+14:59:49:  J-Flash V6.32h Error
+14:59:54:  SEGGER J-Flash V6.32h - [new project *]
+15:00:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:00:24:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:00:54:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:01:14:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision (未响应)
+15:01:19:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:01:39:  SEGGER J-Flash V6.32h - [new project *]
+15:01:44:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:02:24:  TCR调测工具（研发版）V1.0.0.4
+15:02:29:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:02:49:  SEGGER J-Flash V6.32h - [new project *]
+15:02:59:  J-Flash V6.32h Error
+15:03:04:  TCR调测工具（研发版）V1.0.0.4
+15:03:14:  SEGGER J-Flash V6.32h - [new project *]
+15:03:44:  J-Link Commander V6.32h
+15:03:54:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:04:19:  TCR调测工具（研发版）V1.0.0.4
+15:04:24:  发送指令到K18
+15:04:34:  TCR调测工具（研发版）V1.0.0.4
+15:04:39:  发送指令到K18
+15:04:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:06:09:  J-Flash V6.32h Error
+15:06:14:  eSpace
+15:15:54:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:16:09:  查找
+15:16:19:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+15:16:24:  CRS
+15:16:29:  KE18-BOOT
+15:17:09:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:17:54:  计算机
+15:17:59:  计算机 (未响应)
+15:18:04:  网易有道词典
+15:18:09:  SEGGER J-Flash V6.32h - [new project *]
+15:18:14:  J-Flash V6.32h
+15:18:19:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:18:29:  B75 (G:)
+15:18:39:  UR2_Message_vol_01.pdf - Adobe Reader
+15:19:29:  网易有道词典
+15:20:09:  UR2_Message_vol_01.pdf - Adobe Reader
+15:20:19:  网易有道词典
+15:20:24:  UR2_Message_vol_01.pdf - Adobe Reader
+15:20:29:  网易有道词典
+15:20:34:  UR2_Message_vol_01.pdf - Adobe Reader
+15:20:44:  网易有道词典
+15:21:49:  UR2_Message_vol_01.pdf - Adobe Reader
+15:22:09:  「开始」菜单
+15:22:14:  计算器
+15:23:29:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:24:14:  计算器
+15:24:19:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:30:14:  收取邮件 - 张开发
+15:30:24:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:31:34:  新建文本文档.exe - 快捷方式
+15:31:39:  eSpace
+15:31:49:  KE1xFP100M168SF0.pdf - Adobe Reader
+15:32:14:  eSpace
+15:32:19:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:32:49:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+15:32:54:  μVision
+15:32:59:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:34:14:  KL系列Flash操作，当全部擦除Flash后，导致芯片secure，请问擦完后怎么配置0x400的Flash Configuration Field？(已解决 - Kinetis - 恩智浦技术社区 - Google Chrome
+15:34:24:  JLink - Cortex-M Error
+15:34:34:  μVision
+15:34:39:  KE1xFP100M168SF0.pdf - Adobe Reader
+15:34:49:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:35:19:  本地磁盘 (E:)
+15:35:24:  「开始」菜单
+15:35:29:  J-Link Commander V6.32h
+15:35:54:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:36:14:  「开始」菜单
+15:36:19:  J-Link Commander V6.32h
+15:36:59:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:37:09:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:37:24:  KE18-ESS
+15:37:29:  startup_MKE18F16.s - “KE18-ESS”中的搜索结果
+15:37:34:  startup_MKE18F16.s - 记事本
+15:37:39:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:37:44:  KE1xFP100M168SF0.pdf - Adobe Reader
+15:37:49:  startup_MKE18F16.s - “KE18-ESS”中的搜索结果
+15:37:59:  本地磁盘 (D:)
+15:38:04:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+15:38:09:  startup_MKE18F16.s - 记事本
+15:38:19:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:38:54:  TCR调测工具（研发版）V1.0.0.4
+15:39:49:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:40:19:  查找
+15:40:24:  startup_MKE18F16.s - 记事本
+15:40:39:  计算器
+15:40:44:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+15:40:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:40:59:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:42:34:  「开始」菜单
+15:42:39:  J-Link Commander V6.32h
+15:42:59:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:43:19:  JLink - Cortex-M Error
+15:43:24:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:44:04:  KE1xFP100M168SF0.pdf - Adobe Reader
+15:44:44:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:44:44:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:45:09:  「开始」菜单
+15:45:14:  J-Link Commander V6.32h
+15:45:29:  KE1xFP100M168SF0.pdf - Adobe Reader
+15:45:34:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:45:39:  跳转列表
+15:45:44:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:46:09:  「开始」菜单
+15:46:19:  J-Link Commander V6.32h
+15:46:39:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:46:49:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:46:54:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:47:24:  「开始」菜单
+15:47:29:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:47:44:  「开始」菜单
+15:47:54:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:48:09:  「开始」菜单
+15:48:14:  J-Link Commander V6.32h
+15:48:29:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:49:29:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:49:44:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:50:54:  startup_MKE18F16.s - 记事本
+15:51:09:  startup_MKE18F16.s - “KE18-BOOT”中的搜索结果
+15:51:14:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:51:39:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:51:49:  TCR调测工具（研发版）V1.0.0.4
+15:51:54:  打开
+15:52:24:  TCR调测工具（研发版）V1.0.0.4
+15:52:34:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:52:39:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:53:09:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:53:34:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:53:39:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:53:44:  V1.009
+15:53:49:  TCR调测工具（研发版）V1.0.0.4
+15:54:04:  BTCRTestTool
+15:54:15:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:55:10:  TCR调测工具（研发版）V1.0.0.4
+15:55:45:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+15:56:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:57:45:  BTCRTestTool
+15:57:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:58:25:  张健4
+15:58:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:59:00:  TCR调测工具（研发版）V1.0.0.4
+15:59:05:  发送指令到K18
+15:59:20:  TCR调测工具（研发版）V1.0.0.4
+15:59:25:  发送指令到K18
+15:59:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:59:40:  发送指令到K18
+15:59:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:58:25:  张健4
+15:58:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:59:00:  TCR调测工具（研发版）V1.0.0.4
+15:59:05:  发送指令到K18
+15:59:20:  TCR调测工具（研发版）V1.0.0.4
+15:59:25:  发送指令到K18
+15:59:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+15:59:40:  发送指令到K18
+15:59:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:01:45:  发送指令到K18
+16:01:50:  TCR调测工具（研发版）V1.0.0.4
+16:01:55:  发送指令到K18
+16:02:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:03:25:  发送指令到K18
+16:03:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:04:15:  张健4
+16:05:10:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:05:15:  张健4
+16:06:35:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:07:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:07:30:  张健4
+16:07:40:  Toolbox
+16:07:45:  TCR调测工具（研发版）V1.0.0.4
+16:07:50:  发送指令到K18
+16:07:55:  TCR调测工具（研发版）V1.0.0.4
+16:08:00:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:08:05:  发送指令到K18
+16:08:10:  TCR调测工具（研发版）V1.0.0.4
+16:08:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:08:35:  发送指令到K18
+16:08:45:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:09:00:  张健4
+16:18:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:19:45:  张健4
+16:19:55:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:20:00:  张健4
+16:20:45:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:21:50:  发送指令到K18
+16:21:55:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:22:00:  TCR调测工具（研发版）V1.0.0.4
+16:22:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:22:45:  TCR调测工具（研发版）V1.0.0.4
+16:22:50:  发送指令到K18
+16:22:55:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:23:00:  TCR调测工具（研发版）V1.0.0.4
+16:23:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:23:10:  JLink - Cortex-M Error
+16:23:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:23:20:  J-Link V6.10b Error
+16:23:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:23:40:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:23:45:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:23:55:  TCR调测工具（研发版）V1.0.0.4
+16:24:05:  发送指令到K18
+16:24:10:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:27:10:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+16:27:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:27:25:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:27:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:27:40:  TCR调测工具（研发版）V1.0.0.4
+16:27:45:  发送指令到K18
+16:27:55:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:28:40:  TCR调测工具（研发版）V1.0.0.4
+16:28:45:  发送指令到K18
+16:28:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:29:25:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:29:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:29:35:  TCR调测工具（研发版）V1.0.0.4
+16:29:40:  发送指令到K18
+16:29:45:  TCR调测工具（研发版）V1.0.0.4
+16:29:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:28:40:  TCR调测工具（研发版）V1.0.0.4
+16:28:45:  发送指令到K18
+16:28:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:29:25:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:29:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:29:35:  TCR调测工具（研发版）V1.0.0.4
+16:29:40:  发送指令到K18
+16:29:45:  TCR调测工具（研发版）V1.0.0.4
+16:29:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:30:25:  发送指令到K18
+16:30:35:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:30:40:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:30:45:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:30:50:  TCR调测工具（研发版）V1.0.0.4
+16:30:55:  发送指令到K18
+16:31:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:31:30:  打开
+16:31:35:  发送指令到K18
+16:31:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:31:55:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+16:32:00:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:32:05:  Toolbox
+16:32:10:  TCR调测工具（研发版）V1.0.0.4
+16:32:15:  发送指令到K18
+16:32:20:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:32:50:  TCR调测工具（研发版）V1.0.0.4
+16:32:55:  发送指令到K18
+16:33:00:  TCR调测工具（研发版）V1.0.0.4
+16:33:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:35:05:  打开
+16:35:10:  TCR调测工具（研发版）V1.0.0.4
+16:35:20:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:35:25:  TCR调测工具（研发版）V1.0.0.4
+16:35:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:35:40:  TCR调测工具（研发版）V1.0.0.4
+16:35:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:36:20:  TCR调测工具（研发版）V1.0.0.4
+16:36:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:36:30:  TCR调测工具（研发版）V1.0.0.4
+16:36:35:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:36:50:  TCR调测工具（研发版）V1.0.0.4
+16:36:55:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:37:20:  TCR调测工具（研发版）V1.0.0.4
+16:37:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:39:05:  打开
+16:39:10:  BTCRTestTool
+16:39:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:39:20:  荆文波
+16:40:10:  eSpace
+16:40:25:  转发: 转发: 新建文本文档 - 写邮件
+16:40:35:  新建文本文档.txt
+16:40:45:  荆文波
+16:42:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:44:00:  KE18-ESS
+16:44:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:44:30:  TCR调测工具（研发版）V1.0.0.4
+16:44:45:  BTCRTestTool
+16:44:50:  TCR调测工具（研发版）V1.0.0.4
+16:45:00:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:44:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:44:30:  TCR调测工具（研发版）V1.0.0.4
+16:44:45:  BTCRTestTool
+16:44:50:  TCR调测工具（研发版）V1.0.0.4
+16:45:00:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:45:05:  TCR调测工具（研发版）V1.0.0.4
+16:45:10:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:46:50:  μVision
+16:46:55:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:49:05:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:49:20:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:49:25:  Toolbox
+16:49:30:  TCR调测工具（研发版）V1.0.0.4
+16:49:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:50:00:  TCR调测工具（研发版）V1.0.0.4
+16:50:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:50:25:  μVision
+16:50:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:50:40:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:50:50:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:50:55:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:51:55:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:52:00:  Toolbox
+16:52:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:52:15:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:52:25:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:53:15:  V1.009
+16:53:20:  TCR调测工具（研发版）V1.0.0.4
+16:53:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:54:00:  TCR调测工具（研发版）V1.0.0.4
+16:54:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:54:30:  TCR调测工具（研发版）V1.0.0.4
+16:54:35:  打开
+16:54:40:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:56:10:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:56:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:56:25:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:56:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:57:20:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+16:57:45:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:58:00:  TCR调测工具（研发版）V1.0.0.4
+16:58:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:59:55:  TCR调测工具（研发版）V1.0.0.4
+17:00:00:  打开
+16:58:15:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+16:59:55:  TCR调测工具（研发版）V1.0.0.4
+17:00:00:  打开
+17:00:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+17:00:15:  TCR调测工具（研发版）V1.0.0.4
+17:00:20:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+17:00:25:  TCR调测工具（研发版）V1.0.0.4
+17:00:35:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+17:01:20:  TCR调测工具（研发版）V1.0.0.4
+17:01:30:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+17:02:10:  新建文本文档.exe - 快捷方式
+17:02:15:  KL系列Flash操作，当全部擦除Flash后，导致芯片secure，请问擦完后怎么配置0x400的Flash Configuration Field？(已解决 - Kinetis - 恩智浦技术社区 - Google Chrome
+17:02:20:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+17:03:20:  KL系列Flash操作，当全部擦除Flash后，导致芯片secure，请问擦完后怎么配置0x400的Flash Configuration Field？(已解决 - Kinetis - 恩智浦技术社区 - Google Chrome
+17:03:25:  jflash 指定地址_百度搜索 - Google Chrome
+17:03:30:  KE1xFP100M168SF0.pdf - Adobe Reader
+17:03:40:  jflash 指定地址_百度搜索 - Google Chrome
+17:03:45:  https://www.baidu.com/link?url=olViRv1GbQ3lvJTGzL_mCWRGYLFHc4jeZ2S876_ER_YxArigXMaq2_C1uidxNJGtw14SEf6dJlvoedeBTFRxj_&wd=&eqid=82b7b12b0001942f000000025f61d4ed - Google Chrome
+17:03:50:  flash Security_百度搜索 - Google Chrome
+17:03:55:  Flash Security - NXP Community - Google Chrome
+17:04:00:  翻译此页？
+17:04:05:  flash Security - 牧羊岛 - 博客园 - Google Chrome
+17:04:10:  flash Security_百度搜索 - Google Chrome
+17:04:15:  nxp flash security_百度搜索 - Google Chrome
+17:04:20:  关于Flash Security Register(FSEC) - 其他 - 恩智浦技术社区 - Google Chrome
+17:05:10:  KE1xFP100M168SF0.pdf - Adobe Reader
+17:05:20:  Adobe Reader
+17:05:25:  KE1xFP100M168SF0.pdf - Adobe Reader
+17:05:50:  关于Flash Security Register(FSEC) - 其他 - 恩智浦技术社区 - Google Chrome
+17:05:55:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+17:07:05:  nxp flash security_百度搜索 - Google Chrome
+17:07:15:  flash第一个块_百度搜索 - Google Chrome
+17:07:25:  flash 0x400_百度搜索 - Google Chrome
+17:07:30:  Flash Configuration Field_百度搜索 - Google Chrome
+17:07:45:  https://www.baidu.com/link?url=vIfWtzh6xKestl0LHejf4zSr6ocINU3YAKhKhHC1zV_9vmVAHXEzZ3ByLtY-QxGFV5pnBMXMpAwux6IU6P6A2SQS2oWO_2qJMZ9dCpSWjRS&wd=&eqid=92475955000103d1000000025f61d5d1 - Google Chrome
+17:07:50:  求助：用Boot进行flash编程，flash 配置域没有改变！(已解决) (amobbs.com 阿莫电子论坛) - Google Chrome
+17:09:05:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+17:09:35:  KE1xFP100M168SF0.pdf - Adobe Reader
+17:09:45:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+17:10:15:  Box_2__BTCR-1100190803000008_20200914104447.log - DRB.tat* - TextAnalysisTool.NET
+17:10:20:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+17:10:55:  μVision
+17:11:00:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+17:11:35:  锁屏状态
+17:55:21:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+17:58:56:  JLink - Cortex-M Error
+17:59:01:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:00:01:  求助：用Boot进行flash编程，flash 配置域没有改变！(已解决) (amobbs.com 阿莫电子论坛) - Google Chrome
+17:58:56:  JLink - Cortex-M Error
+17:59:01:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:00:01:  求助：用Boot进行flash编程，flash 配置域没有改变！(已解决) (amobbs.com 阿莫电子论坛) - Google Chrome
+18:00:11:  自动播放
+18:00:16:  Flash Configuration Field_百度搜索 - Google Chrome
+18:00:41:  NXP 中断向量表映射到RAM_百度搜索 - Google Chrome
+18:00:51:  将中断向量表定位到RAM中，从RAM中引导执行中断服务_yangkunhenry的专栏-CSDN博客 - Google Chrome
+18:00:56:  (3条消息)将中断向量表定位到RAM中，从RAM中引导执行中断服务_yangkunhenry的专栏-CSDN博客 - Google Chrome
+18:01:21:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:03:16:  TCR调测工具（研发版）V1.0.0.4
+18:03:26:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:05:46:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision (未响应)
+18:05:51:  跳转列表
+18:06:01:  Project
+18:06:16:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:06:31:  JLink - Cortex Error
+18:06:36:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:06:51:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision (未响应)
+18:07:06:  「开始」菜单
+18:07:11:  J-Link Commander V6.32h
+18:07:21:  「开始」菜单
+18:07:26:  J-Link Commander V6.32h
+18:07:51:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:07:56:  跳转列表
+18:08:01:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+18:08:06:  Toolbox
+18:08:11:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:08:46:  TCR调测工具（研发版）V1.0.0.4
+18:08:56:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:09:01:  Memory 1
+18:09:06:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:09:46:  TCR调测工具（研发版）V1.0.0.4
+18:09:56:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:10:11:  V1.009
+18:10:16:  TCR调测工具（研发版）V1.0.0.4
+18:10:26:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:10:51:  J-Link Commander V6.32h
+18:11:06:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+18:11:16:  「开始」菜单
+18:11:21:  J-Link Commander V6.32h
+18:11:46:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:11:51:  μVision
+18:11:56:  「开始」菜单
+18:12:01:  J-Link Commander V6.32h
+18:13:01:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:13:06:  J-Link Commander V6.32h
+18:13:41:  「开始」菜单
+18:13:46:  Create New Project
+18:13:51:   Select device
+18:14:01:  SEGGER J-Flash V6.32h - [new project *]
+18:14:11:  J-Flash V6.32h
+18:14:16:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:14:26:  Toolbox
+18:14:31:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:14:41:  TCR调测工具（研发版）V1.0.0.4
+18:14:51:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:15:01:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+18:14:11:  J-Flash V6.32h
+18:14:16:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:14:26:  Toolbox
+18:14:31:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:14:41:  TCR调测工具（研发版）V1.0.0.4
+18:14:51:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:15:01:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+18:15:11:  SEGGER J-Flash V6.32h - [new project *]
+18:15:16:  「开始」菜单
+18:15:21:  J-Link Commander V6.32h
+18:15:36:  SEGGER J-Flash V6.32h - [new project *]
+18:15:56:  J-Link Commander V6.32h
+18:16:01:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+18:16:06:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:16:16:  TCR调测工具（研发版）V1.0.0.4
+18:16:21:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:18:26:  J-Link Commander V6.32h
+18:18:51:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:18:56:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+18:19:01:  Toolbox
+18:19:06:  TCR调测工具（研发版）V1.0.0.4
+18:19:16:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:19:26:  V1.009
+18:19:31:  TCR调测工具（研发版）V1.0.0.4
+18:19:36:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:19:41:  TCR调测工具（研发版）V1.0.0.4
+18:19:46:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:20:26:  TCR调测工具（研发版）V1.0.0.4
+18:20:31:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:20:36:  跳转列表
+18:20:41:  TCR调测工具（研发版）V1.0.0.4
+18:20:46:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:21:31:  TCR调测工具（研发版）V1.0.0.4
+18:21:36:  打开
+18:21:41:  TCR调测工具（研发版）V1.0.0.4
+18:21:46:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:21:51:  TCR调测工具（研发版）V1.0.0.4
+18:21:56:  打开
+18:22:01:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:22:06:  跳转列表
+18:22:11:  TCR调测工具（研发版）V1.0.0.4
+18:22:16:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:22:26:  BTCRTestTool
+18:22:31:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:22:36:  TCR调测工具（研发版）V1.0.0.4
+18:22:41:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:23:01:  JLink - Cortex-M Error
+18:23:06:  D:\CRS\KE18-ESS\Project\ke18_rtt.uvprojx - μVision
+18:23:41:  锁屏状态

@@ -1,0 +1,96 @@
+2020-10-13 23:45:02-- 00:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 00:00:02-- 00:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 00:15:02-- 00:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 00:30:02-- 00:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 00:45:02-- 01:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 01:00:02-- 01:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 01:15:03-- 01:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 01:30:03-- 01:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 01:45:03-- 02:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 02:00:03-- 02:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 02:15:03-- 02:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 02:30:04-- 02:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 02:45:04-- 03:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 03:00:04-- 03:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 03:15:04-- 03:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 03:30:04-- 03:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 03:45:04-- 04:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 04:00:04-- 04:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 04:15:04-- 04:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 04:30:00-- 04:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 04:45:00-- 05:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 05:00:00-- 05:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 05:15:00-- 05:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 05:30:00-- 05:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 05:45:00-- 06:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 06:00:00-- 06:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 06:15:01-- 06:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 06:30:01-- 06:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 06:45:01-- 07:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 07:00:01-- 07:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 07:15:01-- 07:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 07:30:01-- 07:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 07:45:01-- 08:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 08:00:02-- 08:15:02     :    一  ：锁屏状态   96/8.0分钟       二  ：高逸   46/3.83分钟     三  ：颜晓军   38/3.16分钟
+2020-10-14 08:15:02-- 08:30:02     :    一  ：于斌1   113/9.41分钟       二  ：颜晓军   30/2.5分钟     三  ：iTunes   12/1.0分钟
+2020-10-14 08:30:02-- 08:45:02     :    一  ：D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision   141/11.7分钟       二  ：44   32/2.66分钟     三  ：KE06LOG.bat - 快捷方式 (2)   2/0.16分钟
+2020-10-14 08:45:02-- 09:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 09:00:02-- 09:15:02     :    一  ：D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision   62/5.16分钟       二  ：E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)   49/4.08分钟     三  ：E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)   22/1.83分钟
+2020-10-14 09:15:02-- 09:30:02     :    一  ：E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)   142/11.8分钟       二  ：于斌1   13/1.08分钟     三  ：锁屏状态   10/0.83分钟
+2020-10-14 09:30:02-- 09:45:03     :    一  ：固件集成测试方案   36/3.0分钟       二  ：于斌1   31/2.58分钟     三  ：E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)   20/1.66分钟
+2020-10-14 09:45:03-- 10:00:03     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)   101/8.41分钟       二  ：untitled (1T1-Stop-Length) - Sublime Text (UNREGISTERED)   43/3.58分钟     三  ：选择文件夹   18/1.5分钟
+2020-10-14 10:00:03-- 10:15:03     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   124/10.3分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)   41/3.41分钟     三  ：于斌1   10/0.83分钟
+2020-10-14 10:15:03-- 10:30:03     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)   132/11.0分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   20/1.66分钟     三  ：LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010141028.log   16/1.33分钟
+2020-10-14 10:30:03-- 10:45:03     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)   86/7.16分钟       二  ：LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010141031.log   79/6.58分钟     三  ：LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010141028.log   8/0.66分钟
+2020-10-14 10:45:03-- 11:00:03     :    一  ：D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\HistoryStruct.h (trunk) - Sublime Text (UNREGISTERED)   78/6.5分钟       二  ：D:\00-KE64\trunk\Applications\FlowControl\Shutter\ShutModuleIF.c (trunk) - Sublime Text (UNREGISTERED)   24/2.0分钟     三  ：E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)   23/1.91分钟
+2020-10-14 11:00:03-- 11:15:04     :    一  ：D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN   43/3.58分钟       二  ：E:\深圳出差\44\Applications\EepHisApp\EepHisApp.h (44) - Sublime Text (UNREGISTERED)   38/3.16分钟     三  ：E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)   37/3.08分钟
+2020-10-14 11:15:04-- 11:30:04     :    一  ：D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN   152/12.6分钟       二  ：王晓华   19/1.58分钟     三  ：PlateCtrl.c Revision 3222 - TortoiseMerge   3/0.25分钟
+2020-10-14 11:30:04-- 11:45:04     :    一  ：D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)   110/9.16分钟       二  ：锁屏状态   54/4.5分钟     三  ：王晓华   3/0.25分钟
+2020-10-14 11:45:04-- 12:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 12:00:04-- 12:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 12:15:04-- 12:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 12:30:00-- 12:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 12:45:00-- 13:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 13:00:00-- 13:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 13:15:00-- 13:30:00     :    一  ：锁屏状态   116/9.66分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   30/2.5分钟     三  ：Cortex JLink/JTrace Target Driver Setup   11/0.91分钟
+2020-10-14 13:30:00-- 13:45:01     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision   76/6.33分钟       二  ：E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)   30/2.5分钟     三  ：E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)   18/1.5分钟
+2020-10-14 13:45:01-- 14:00:01     :    一  ：E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)   96/8.0分钟       二  ：E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)   70/5.83分钟     三  ：E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)   10/0.83分钟
+2020-10-14 14:00:01-- 14:15:01     :    一  ：TCR调测工具 V3.36   103/8.58分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)   24/2.0分钟     三  ：正在复制...   12/1.0分钟
+2020-10-14 14:15:01-- 14:30:01     :    一  ：E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)   66/5.5分钟       二  ：E:\深圳出差\44\Applications\StateCheck\StateCheck.c (44) - Sublime Text (UNREGISTERED)   30/2.5分钟     三  ：E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)   23/1.91分钟
+2020-10-14 14:30:01-- 14:45:02     :    一  ：E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)   56/4.66分钟       二  ：E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)   48/4.0分钟     三  ：E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)   15/1.25分钟
+2020-10-14 14:45:02-- 15:00:02     :    一  ：E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)   40/3.33分钟       二  ：E:\深圳出差\44\Applications\StateCheck\StateCheck.c (44) - Sublime Text (UNREGISTERED)   35/2.91分钟     三  ：eSpace   21/1.75分钟
+2020-10-14 15:00:02-- 15:15:02     :    一  ：5.1 BOOTLOADER测试V1.0.xls  [兼容模式] - Excel   95/7.91分钟       二  ：E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)   34/2.83分钟     三  ：E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)   22/1.83分钟
+2020-10-14 15:15:02-- 15:30:03     :    一  ：5.1 BOOTLOADER测试V1.0.xls  [兼容模式] - Excel   61/5.08分钟       二  ：E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision   38/3.16分钟     三  ：MindMaster Pro   12/1.0分钟
+2020-10-14 15:30:03-- 15:45:00     :    一  ：ComponentCtrl.c - 44 - Visual Studio Code [管理员]   136/11.3分钟       二  ：CheckTheBookTital.py - 44 - Visual Studio Code [管理员]   37/3.08分钟     三  ：扩展: Docker - 44 - Visual Studio Code [管理员]   2/0.16分钟
+2020-10-14 15:45:00-- 16:00:00     :    一  ：ComponentCtrl.c - 44 - Visual Studio Code [管理员]   128/10.6分钟       二  ：CheckTheBookTital.py - 44 - Visual Studio Code [管理员]   24/2.0分钟     三  ：荆文波   14/1.16分钟
+2020-10-14 16:00:00-- 16:15:01     :    一  ：K64-_BTCR-1100200600510420_20201014143836.log - DRB.tat* - TextAnalysisTool.NET   38/3.16分钟       二  ：ComponentCtrl.c - 44 - Visual Studio Code [管理员]   33/2.75分钟     三  ：CheckTheBookTital.py - 44 - Visual Studio Code [管理员]   15/1.25分钟
+2020-10-14 16:15:01-- 16:30:01     :    一  ：荆文波   93/7.75分钟       二  ：Box_3__BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET   29/2.41分钟     三  ：LOG   9/0.75分钟
+2020-10-14 16:30:01-- 16:45:01     :    一  ：ComponentCtrl.c - 44 - Visual Studio Code [管理员]   175/14.5分钟       二  ：CheckTheBookTital.py - 44 - Visual Studio Code [管理员]   4/0.33分钟     三  ：K64-_BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET   1/0.08分钟
+2020-10-14 16:45:01-- 17:00:01     :    一  ：新建文本文档.exe - 快捷方式   91/7.58分钟       二  ：关于激活使用医保电子凭证明白纸.pdf - Adobe Reader   50/4.16分钟     三  ：ComponentCtrl.c - 44 - Visual Studio Code [管理员]   29/2.41分钟
+2020-10-14 17:00:01-- 17:15:02     :    一  ：锁屏状态   139/11.5分钟       二  ：关于激活使用医保电子凭证明白纸.pdf - Adobe Reader   29/2.41分钟     三  ：印象笔记   6/0.5分钟
+2020-10-14 17:15:02-- 17:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 17:30:02-- 17:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 17:45:03-- 18:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 18:00:03-- 18:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 18:15:03-- 18:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 18:30:04-- 18:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 18:45:04-- 19:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 19:00:04-- 19:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 19:15:00-- 19:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 19:30:00-- 19:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 19:45:00-- 20:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 20:00:01-- 20:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 20:15:01-- 20:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 20:30:01-- 20:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 20:45:02-- 21:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 21:00:02-- 21:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 21:15:02-- 21:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 21:30:02-- 21:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 21:45:03-- 22:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 22:00:03-- 22:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 22:15:04-- 22:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 22:30:04-- 22:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 22:45:04-- 23:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 23:00:00-- 23:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 23:15:00-- 23:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-14 23:30:00-- 23:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

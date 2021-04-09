@@ -1,0 +1,1065 @@
+08:03:51:  .py !.pyd  - Everything
+08:04:16:  post-the-deal.py - C:\Users\zhangkaifa\Downloads\alipay_record_20201218_1118\post-the-deal.py (3.7.3)
+08:04:26:  .py !.pyd  - Everything
+08:04:31:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20201218_1118\TheOneForExcel - 副本.py (3.7.3)
+08:04:36:  .py !.pyd  - Everything
+08:04:56:  新建文本文档.py - F:\小程序\getTheDieal\新建文本文档.py (3.7.3)
+08:05:01:  .py !.pyd  - Everything
+08:05:06:  TheOneForExcel - 副本.py - F:\小程序\getTheDieal\TheOneForExcel - 副本.py (3.7.3)
+08:05:11:  .py !.pyd  - Everything
+08:05:16:  GetTheideal.py - F:\小程序\GetTheideal.py (3.7.3)
+08:05:36:  .py !.pyd  - Everything
+08:05:51:  weiboping (2)_092531.py - E:\Sublime Text Backups\2020-12-05\C\Users\zhangkaifa\Documents\weiboping (2)_092531.py (3.7.3)
+08:05:56:  .py !.pyd  - Everything
+08:06:21:  跳转列表
+08:06:26:  .py !.pyd  - Everything
+08:06:36:  weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)
+08:06:41:  .py !.pyd  - Everything
+08:07:46:  新建文本文档.py - D:\fenxi\text\新建文本文档.py (3.7.3)
+08:07:51:  .py !.pyd  - Everything
+08:07:56:  updateTheInfor.py - D:\fenxi\weibopinglun\新建文件夹 (3)\updateTheInfor.py (3.7.3)
+08:08:06:  .py !.pyd  - Everything
+08:09:06:  Starting Fiddler...
+08:09:11:  Progress Telerik Fiddler Web Debugger
+08:09:21:  主页 - Internet Explorer
+08:09:26:  员工自助 - Internet Explorer
+08:09:31:  Progress Telerik Fiddler Web Debugger
+08:09:51:  跳转列表
+08:10:01:  Internet Explorer
+08:10:06:  主页 - Internet Explorer
+08:10:11:  员工自助 - Internet Explorer
+08:10:16:  Progress Telerik Fiddler Web Debugger
+08:10:36:  员工自助 - Internet Explorer
+08:10:41:  Progress Telerik Fiddler Web Debugger
+08:10:46:  系统登录 - Internet Explorer
+08:10:51:  新北洋OA信息化平台 - Internet Explorer
+08:10:56:  Internet Explorer
+08:11:01:  Progress Telerik Fiddler Web Debugger
+08:12:21:  Temporary Internet Files
+08:12:26:  Progress Telerik Fiddler Web Debugger
+08:13:21:  本地磁盘 (F:)
+08:13:26:  小程序
+08:13:31:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+08:13:56:  主页 - Internet Explorer
+08:14:06:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+08:14:16:  主页 - Internet Explorer
+08:14:26:  无法找到资源。 - Internet Explorer
+08:14:31:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+08:14:36:  登陆到CoPlan - Internet Explorer
+08:14:06:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+08:14:16:  主页 - Internet Explorer
+08:14:26:  无法找到资源。 - Internet Explorer
+08:14:31:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+08:14:36:  登陆到CoPlan - Internet Explorer
+08:15:36:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+08:15:41:  Progress Telerik Fiddler Web Debugger
+08:16:06:  Progress Telerik Fiddler - Details View
+08:16:21:  Progress Telerik Fiddler Web Debugger
+08:16:26:  TextWizard [41 => 56 chars]
+08:16:36:  TextWizard [41 => 55 chars]
+08:16:41:  TextWizard [41 => 41 chars]
+08:16:46:  TextWizard [41 => 56 chars]
+08:16:51:  Progress Telerik Fiddler Web Debugger
+08:16:56:  TextWizard [41 => 56 chars]
+08:17:01:  Progress Telerik Fiddler Web Debugger
+08:17:11:  TextWizard [41 => 56 chars]
+08:17:16:  Progress Telerik Fiddler Web Debugger
+08:17:21:  TextWizard [232 => 312 chars]
+08:17:26:  TextWizard [232 => 310 chars]
+08:17:31:  TextWizard [232 => 244 chars]
+08:17:36:  TextWizard [232 => 696 chars]
+08:17:41:  TextWizard [232 => 232 chars]
+08:17:51:  TextWizard [232 => 244 chars]
+08:17:56:  TextWizard [232 => 0 chars]
+08:18:01:  TextWizard [232 => 75 chars]
+08:18:06:  TextWizard [232 => 143 chars]
+08:18:11:  TextWizard [232 => 211 chars]
+08:18:16:  TextWizard [232 => 312 chars]
+08:18:31:  Progress Telerik Fiddler Web Debugger
+08:18:56:  登陆到CoPlan - Internet Explorer
+08:19:26:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+08:20:06:  自动播放
+08:21:06:  K64_11_20210125134953
+08:21:11:  本地磁盘 (D:)
+08:21:16:  fenxi
+08:21:21:  新建文件夹 (3)
+08:21:36:  LOG
+08:21:41:  Box_4__11_20210125134953.log - DRB.tat* - TextAnalysisTool.NET
+08:25:31:  eSpace
+08:25:36:  本地磁盘 (D:)
+08:25:46:  KE18-VERSION1
+08:25:56:  ImpellerCtrl.c Revision 880 - TortoiseMerge
+08:26:01:  eSpace
+08:26:06:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+08:27:41:  本地磁盘 (E:)
+08:27:51:  计算机
+08:28:06:  本地磁盘 (D:)
+08:28:11:  新建文件夹
+08:28:26:  TCRLog
+08:28:46:  BTCR日志解析工具V1.00.30
+08:28:51:  TCRControlCmdDLL
+08:28:56:  BTCR日志解析工具（研发版）V1.00.30
+08:29:46:  筛选
+08:29:51:  BTCR日志解析工具（研发版）V1.00.30
+08:28:06:  本地磁盘 (D:)
+08:28:11:  新建文件夹
+08:28:26:  TCRLog
+08:28:46:  BTCR日志解析工具V1.00.30
+08:28:51:  TCRControlCmdDLL
+08:28:56:  BTCR日志解析工具（研发版）V1.00.30
+08:29:46:  筛选
+08:29:51:  BTCR日志解析工具（研发版）V1.00.30
+08:30:56:  20210122
+08:31:01:  Decode
+08:31:06:  Box_4__11_20210125134953.log - DRB.tat* - TextAnalysisTool.NET
+08:31:11:  K64_BTCR-1100191200300037_20210122074050.log - DRB.tat* - TextAnalysisTool.NET
+08:31:21:  K64_BTCR-1100191200300037_20210122074057.log - DRB.tat* - TextAnalysisTool.NET
+08:31:31:  BTCR日志解析工具（研发版）V1.00.30
+08:32:41:  筛选
+08:32:46:  BTCR日志解析工具（研发版）V1.00.30
+08:33:56:  Decode
+08:34:01:  K64_BTCR-1100191200300037_20210122074057.log - DRB.tat* - TextAnalysisTool.NET
+08:34:21:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:34:26:  K64_BTCR-1100191200300037_20210122074057.log - DRB.tat* - TextAnalysisTool.NET
+08:34:41:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:34:46:  K64_BTCR-1100191200300037_20210122074057.log - DRB.tat* - TextAnalysisTool.NET
+08:35:16:  锁屏状态
+08:35:21:  K64_BTCR-1100191200300037_20210122075830.log - DRB.tat* - TextAnalysisTool.NET
+08:35:26:  K64_BTCR-1100191200300037_20210122075914.log - DRB.tat* - TextAnalysisTool.NET
+08:35:31:  K64_BTCR-1100191200300037_20210122075952.log - DRB.tat* - TextAnalysisTool.NET
+08:35:36:  K64_BTCR-1100191200300037_20210122082426.log - DRB.tat* - TextAnalysisTool.NET
+08:35:46:  K64_BTCR-1100191200300037_20210122082842.log - DRB.tat* - TextAnalysisTool.NET
+08:35:51:  K64_BTCR-1100191200300037_20210122084039.log - DRB.tat* - TextAnalysisTool.NET
+08:35:56:  K64_BTCR-1100191200300037_20210122084448.log - DRB.tat* - TextAnalysisTool.NET
+08:36:01:  Decode
+08:36:06:  K64_BTCR-1100191200300037_20210122084904.log - DRB.tat* - TextAnalysisTool.NET
+08:36:16:  K64_BTCR-1100191200300037_20210122085040.log - DRB.tat* - TextAnalysisTool.NET
+08:36:21:  K64_BTCR-1100191200300037_20210122085127.log - DRB.tat* - TextAnalysisTool.NET
+08:36:26:  Decode
+08:36:31:  K64_BTCR-1100191200300037_20210122085753.log - DRB.tat* - TextAnalysisTool.NET
+08:36:41:  K64_BTCR-1100191200300037_20210122085904.log - DRB.tat* - TextAnalysisTool.NET
+08:36:51:  锁屏状态
+08:36:56:  K64_BTCR-1100191200300037_20210122090415.log - DRB.tat* - TextAnalysisTool.NET
+08:37:06:  K64_BTCR-1100191200300037_20210122090551.log - DRB.tat* - TextAnalysisTool.NET
+08:37:11:  锁屏状态
+08:37:16:  K64_BTCR-1100191200300037_20210122092028.log - DRB.tat* - TextAnalysisTool.NET
+08:37:26:  Decode
+08:37:36:  BTCR日志解析工具（研发版）V1.00.30
+08:37:41:  TCRControlCmdDLL
+08:37:46:  BTCR日志解析工具（研发版）V1.00.30
+08:38:31:  K64_BTCR-1100191200300037_20210122092644.log - DRB.tat* - TextAnalysisTool.NET
+08:38:36:  BTCR日志解析工具（研发版）V1.00.30
+08:39:31:  20210122
+08:39:36:  Decode
+08:39:51:  K64_BTCR-1100191200300037_20210122154054.log - DRB.tat* - TextAnalysisTool.NET
+08:40:16:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:40:26:  K64_BTCR-1100191200300037_20210122154054.log - DRB.tat* - TextAnalysisTool.NET
+08:41:01:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:41:06:  K64_BTCR-1100191200300037_20210122154054.log - DRB.tat* - TextAnalysisTool.NET
+08:42:22:  Edit Filter
+08:42:32:  K64_BTCR-1100191200300037_20210122154054.log - DRB.tat* - TextAnalysisTool.NET
+08:42:37:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:42:42:  Edit Filter
+08:42:47:  K64_BTCR-1100191200300037_20210122154054.log - DRB.tat* - TextAnalysisTool.NET
+08:42:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:43:02:  K64_BTCR-1100191200300037_20210122154054.log - DRB.tat* - TextAnalysisTool.NET
+08:43:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:43:12:  K64_BTCR-1100191200300037_20210122154054.log - DRB.tat* - TextAnalysisTool.NET
+08:43:22:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:43:32:  选择文件夹
+08:43:42:  D:\CRS\KE18-VERSION1\Applications\InstrExp\InstrExp.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+08:43:47:  untitled (trunk) - Sublime Text (UNREGISTERED)
+08:43:57:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:44:17:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+08:44:42:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.h (trunk) - Sublime Text (UNREGISTERED)
+08:44:47:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+08:44:17:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+08:44:42:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.h (trunk) - Sublime Text (UNREGISTERED)
+08:44:47:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+08:45:07:  K64_BTCR-1100191200300037_20210122154054.log - DRB.tat* - TextAnalysisTool.NET
+08:45:12:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:45:22:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+08:45:27:  Decode
+08:45:37:  K64_BTCR-1100191200300037_20210122154054.log - DRB.tat* - TextAnalysisTool.NET
+08:45:57:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:46:22:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+08:48:32:  K64_BTCR-1100191200300037_20210122154054.log - DRB.tat* - TextAnalysisTool.NET
+08:48:47:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:48:52:  K64_BTCR-1100191200300037_20210122154054.log - DRB.tat* - TextAnalysisTool.NET
+08:49:17:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:49:22:  K64_BTCR-1100191200300037_20210122154054.log - DRB.tat* - TextAnalysisTool.NET
+08:49:42:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:49:47:  K64_BTCR-1100191200300037_20210122154054.log - DRB.tat* - TextAnalysisTool.NET
+08:49:52:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+08:50:12:  D:\00-06\1T1-Stop-Length\trunk\Applications\ErrCode\ErrCode.h (trunk) - Sublime Text (UNREGISTERED)
+08:50:17:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+08:50:32:  K64_BTCR-1100191200300037_20210122154054.log - DRB.tat* - TextAnalysisTool.NET
+08:51:17:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:51:32:  K64_BTCR-1100191200300037_20210122154054.log - DRB.tat* - TextAnalysisTool.NET
+08:51:57:  BTCR日志解析工具（研发版）V1.00.30
+08:52:17:  Decode
+08:52:27:  K64_BTCR-1100191200300037_20210122154442.log - DRB.tat* - TextAnalysisTool.NET
+08:53:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:53:12:  K64_BTCR-1100191200300037_20210122154442.log - DRB.tat* - TextAnalysisTool.NET
+08:53:52:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:53:57:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+08:54:02:  D:\00-06\1T1-Stop-Length\trunk\FwLib\StdSnbc\StdMacro.h (trunk) - Sublime Text (UNREGISTERED)
+08:54:07:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+08:54:52:  K64_BTCR-1100191200300037_20210122154442.log - DRB.tat* - TextAnalysisTool.NET
+08:55:02:  BTCR日志解析工具（研发版）V1.00.30
+08:55:27:  Decode
+08:55:37:  K64_BTCR-1100191200300037_20210122154604.log - DRB.tat* - TextAnalysisTool.NET
+08:56:52:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:37:  K64_BTCR-1100191200300037_20210122154604.log - DRB.tat* - TextAnalysisTool.NET
+08:58:37:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:52:  计算器
+08:59:07:  D:\00-06\1T1-Stop-Length\trunk\FwLib\StdSnbc\StdMacro.h (trunk) - Sublime Text (UNREGISTERED)
+08:59:12:  CRS调测工具（研发版）V1.0.2.1
+08:59:17:  计算器
+08:59:27:  K64_BTCR-1100191200300037_20210122154604.log - DRB.tat* - TextAnalysisTool.NET
+08:59:32:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:37:  D:\00-06\1T1-Stop-Length\trunk\FwLib\StdSnbc\StdMacro.h (trunk) - Sublime Text (UNREGISTERED)
+08:59:47:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:57:  计算器
+08:58:37:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:52:  计算器
+08:59:07:  D:\00-06\1T1-Stop-Length\trunk\FwLib\StdSnbc\StdMacro.h (trunk) - Sublime Text (UNREGISTERED)
+08:59:12:  CRS调测工具（研发版）V1.0.2.1
+08:59:17:  计算器
+08:59:27:  K64_BTCR-1100191200300037_20210122154604.log - DRB.tat* - TextAnalysisTool.NET
+08:59:32:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:37:  D:\00-06\1T1-Stop-Length\trunk\FwLib\StdSnbc\StdMacro.h (trunk) - Sublime Text (UNREGISTERED)
+08:59:47:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+08:59:57:  计算器
+09:00:37:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:00:42:  K64_BTCR-1100191200300037_20210122154604.log - DRB.tat* - TextAnalysisTool.NET
+09:01:17:  BTCR日志解析工具（研发版）V1.00.30
+09:01:22:  Decode
+09:01:32:  K64_BTCR-1100191200300037_20210122160421.log - DRB.tat* - TextAnalysisTool.NET
+09:01:42:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:01:47:  K64_BTCR-1100191200300037_20210122160421.log - DRB.tat* - TextAnalysisTool.NET
+09:01:57:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:02:02:  K64_BTCR-1100191200300037_20210122160421.log - DRB.tat* - TextAnalysisTool.NET
+09:02:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:02:57:  K64_BTCR-1100191200300037_20210122160421.log - DRB.tat* - TextAnalysisTool.NET
+09:03:07:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:03:12:  K64_BTCR-1100191200300037_20210122160421.log - DRB.tat* - TextAnalysisTool.NET
+09:03:47:  BTCR日志解析工具（研发版）V1.00.30
+09:03:57:  K64_BTCR-1100191200300037_20210122154604.log - DRB.tat* - TextAnalysisTool.NET
+09:04:07:  BTCR日志解析工具（研发版）V1.00.30
+09:04:12:  K64_BTCR-1100191200300037_20210122154442.log - DRB.tat* - TextAnalysisTool.NET
+09:04:22:  BTCR日志解析工具（研发版）V1.00.30
+09:04:27:  K64_BTCR-1100191200300037_20210122154442.log - DRB.tat* - TextAnalysisTool.NET
+09:05:37:  Decode
+09:05:42:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:05:47:  BTCR日志解析工具（研发版）V1.00.30
+09:05:52:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:06:02:  系统登录 - Internet Explorer
+09:06:07:  新北洋OA信息化平台 - Internet Explorer
+09:06:27:  费用报销流程_新北洋 - Internet Explorer
+09:06:32:  新北洋OA信息化平台 - Internet Explorer
+09:06:57:  小程序
+09:07:12:  dist
+09:07:17:  锁屏状态
+09:07:27:  dist
+09:07:32:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:08:12:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:08:17:  About μVision
+09:08:22:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:10:42:  eSpace
+09:10:47:  新北洋OA信息化平台 - Internet Explorer
+09:10:52:  TD回复格式.docx [兼容模式] - Word
+09:10:57:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:11:12:  新北洋OA信息化平台 - Internet Explorer
+09:11:27:  http://oa.byintra.com/iBPM/BPM/DecryptUlt.aspx?Mode=Apply&TASKID=012508b8040d11b865dcfc5fad1653 - Internet Explorer
+09:11:32:  费用报销流程_新北洋 - Internet Explorer
+09:11:57:  http://oa.byintra.com/iBPM/BPM/NewGraphicalView.aspx?TASKID=012508b8040d11b865dcfc5fad1653 - Internet Explorer
+09:12:27:  费用报销流程_新北洋 - Internet Explorer
+09:12:32:  新北洋OA信息化平台 - Internet Explorer
+09:12:37:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:13:12:  于斌1
+09:13:27:  锁屏状态
+09:13:37:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:13:42:  于斌1
+09:18:07:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:18:57:  0-工作 - 张开发 - 印象笔记
+09:19:22:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:20:02:  自动播放
+09:20:22:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:20:32:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:20:37:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+09:20:42:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:20:47:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+09:20:57:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:21:02:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.h (trunk) - Sublime Text (UNREGISTERED)
+09:21:07:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:27:32:  PaperManage.c - trunk - Visual Studio Code [管理员]
+09:30:32:  dist
+09:32:47:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:32:52:  dist
+09:32:57:  K64_BTCR-1100191200300037_20210122154442.log - DRB.tat* - TextAnalysisTool.NET
+09:33:02:  dist
+09:35:27:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:36:07:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:36:22:  自动播放
+09:36:37:  锁屏状态
+09:36:52:  新标签页 - Google Chrome
+09:37:07:  百度一下，你就知道 - Google Chrome
+09:37:17:  省内回济南需要核酸检测吗_百度搜索 - Google Chrome
+09:37:22:  https://www.baidu.com/link?url=laShnDBF1L0t9i1r76F8YDqaedtYhDLIeQO1uAsEv3SMac_eKk2GZj65U0lxSAd_&wd=&eqid=fdf320d400149ea900000002600f724b - Google Chrome
+09:37:27:  现在去青岛返回济南还需要做核酸检测么？【济南泉城吧】_百度贴吧 - Google Chrome
+09:38:17:  无标题 - Google Chrome
+09:38:23:  省内返乡需要做核酸检测吗（省内回家需要核酸检测吗）_创闻头条 - Google Chrome
+09:38:28:  省内回济南需要核酸检测吗_百度搜索 - Google Chrome
+09:38:43:  百度贴吧_省内回济南需要核酸检测吗 - Google Chrome
+09:38:48:  【本地求助】省内外市去济南还需要核酸检测吗？目前在青岛，30日回济南_济南吧_百度贴吧 - Google Chrome
+09:38:53:  百度贴吧_省内回济南需要核酸检测吗 - Google Chrome
+09:38:58:  求问现在回济南需要核酸检测吗，济南站下车有没有查的【山东建筑大学吧】_百度贴吧 - Google Chrome
+09:39:03:  百度贴吧_省内回济南需要核酸检测吗 - Google Chrome
+09:39:13:  求问现在回济南需要核酸检测吗，济南站下车有没有查的【山东建筑大学吧】_百度贴吧 - Google Chrome
+09:39:18:  百度贴吧_省内回济南需要核酸检测吗 - Google Chrome
+09:39:23:  想问一下现在从威海回济南需要核酸检测结果吗_威海吧_百度贴吧 - Google Chrome
+09:39:38:  百度贴吧_省内回济南需要核酸检测吗 - Google Chrome
+09:39:53:  百度贴吧_章丘吧 - Google Chrome
+09:40:03:  百度贴吧_核酸 - Google Chrome
+09:40:08:  百度贴吧_章丘 核酸 - Google Chrome
+09:40:18:  百度贴吧_济南 核酸 - Google Chrome
+09:40:38:  百度贴吧_省内回济南 核酸 - Google Chrome
+09:40:43:  【本地求助】问一下，在济南历下历城区这边做核酸检测一次多少钱？求各位告知，谢谢！_济南吧_百度贴吧 - Google Chrome
+09:40:58:  百度贴吧_省内回济南 核酸 - Google Chrome
+09:41:03:  【本地求助】省内回来，不用核酸检测吧。【济南吧】_百度贴吧 - Google Chrome
+09:41:13:  百度贴吧_省内回济南 核酸 - Google Chrome
+09:42:23:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:42:28:  选择文件夹
+09:42:33:  untitled (gfgd) - Sublime Text (UNREGISTERED)
+09:42:43:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+09:43:13:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (gfgd) - Sublime Text (UNREGISTERED)
+09:43:19:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+09:43:24:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (gfgd) - Sublime Text (UNREGISTERED)
+09:43:34:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+09:43:39:  新建文本文档.exe - 快捷方式
+09:43:44:  打开文件夹
+09:43:49:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (gfgd) - Sublime Text (UNREGISTERED)
+09:43:54:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+09:44:04:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (gfgd) - Sublime Text (UNREGISTERED)
+09:44:19:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+09:44:24:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (gfgd) - Sublime Text (UNREGISTERED)
+09:44:39:  E:\深圳出差\gfgd\Applications\Common\AppCommon.h (gfgd) - Sublime Text (UNREGISTERED)
+09:44:49:  06- 刘建生
+09:44:54:  CRS
+09:44:59:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:44:19:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+09:44:24:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (gfgd) - Sublime Text (UNREGISTERED)
+09:44:39:  E:\深圳出差\gfgd\Applications\Common\AppCommon.h (gfgd) - Sublime Text (UNREGISTERED)
+09:44:49:  06- 刘建生
+09:44:54:  CRS
+09:44:59:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:45:09:  Excel
+09:45:19:  CRS错误码表-20200922.xlsx  [受保护的视图] - Excel
+09:45:49:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (gfgd) - Sublime Text (UNREGISTERED)
+09:46:04:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (gfgd) - Sublime Text (UNREGISTERED)
+09:46:24:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (gfgd) - Sublime Text (UNREGISTERED)
+09:46:29:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (gfgd) - Sublime Text (UNREGISTERED)
+09:47:09:  CRS错误码表-20200922.xlsx  [受保护的视图] - Excel
+09:47:24:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (gfgd) - Sublime Text (UNREGISTERED)
+09:47:29:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+09:47:39:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (gfgd) - Sublime Text (UNREGISTERED)
+09:47:49:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+09:47:54:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (gfgd) - Sublime Text (UNREGISTERED)
+09:47:59:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (gfgd) - Sublime Text (UNREGISTERED)
+09:48:14:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+09:49:59:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (gfgd) - Sublime Text (UNREGISTERED)
+09:50:19:  E:\深圳出差\gfgd\Applications\Common\AppCommon.h (gfgd) - Sublime Text (UNREGISTERED)
+09:50:24:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (gfgd) - Sublime Text (UNREGISTERED)
+09:50:29:  CRS错误码表-20200922.xlsx  [受保护的视图] - Excel
+09:50:34:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (gfgd) - Sublime Text (UNREGISTERED)
+09:50:39:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (gfgd) - Sublime Text (UNREGISTERED)
+09:50:44:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.h (gfgd) - Sublime Text (UNREGISTERED)
+09:50:49:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+09:50:54:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (gfgd) - Sublime Text (UNREGISTERED)
+09:51:09:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (gfgd) - Sublime Text (UNREGISTERED)
+09:51:49:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (gfgd) - Sublime Text (UNREGISTERED)
+09:51:54:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (gfgd) - Sublime Text (UNREGISTERED)
+09:51:59:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+09:52:19:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (gfgd) - Sublime Text (UNREGISTERED)
+09:52:24:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+09:52:29:  冯宁
+09:52:34:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (gfgd) - Sublime Text (UNREGISTERED)
+09:52:49:  E:\深圳出差\gfgd\Applications\Common\AppCommon.h (gfgd) - Sublime Text (UNREGISTERED)
+09:52:54:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+09:53:09:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+09:53:14:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+09:53:29:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (gfgd) - Sublime Text (UNREGISTERED)
+09:53:39:  E:\深圳出差\gfgd\Applications\Common\AppCommon.h (gfgd) - Sublime Text (UNREGISTERED)
+09:53:49:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (gfgd) - Sublime Text (UNREGISTERED)
+09:53:59:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (gfgd) - Sublime Text (UNREGISTERED)
+09:54:04:  冯宁
+09:54:09:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+09:56:39:  K64_BTCR-1100191200300037_20210122154442.log - DRB.tat* - TextAnalysisTool.NET
+09:57:29:  eSpace
+10:00:59:  错误码表
+10:01:04:  TCR
+10:01:09:  主控板集成测试方案-报告
+10:01:14:  Excel
+10:01:19:  6.2.2.6 钞箱测试1T2 .xls  [受保护的视图] - Excel
+10:01:29:  CRS错误码表-20200922.xlsx  [受保护的视图] - Excel
+10:01:34:  Excel
+10:01:39:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+10:01:49:  主控板集成测试方案-报告
+10:01:54:  6.2.2.6 钞箱测试1T2 .xls  [受保护的视图] - Excel
+10:02:04:  Everything
+10:02:09:  钞箱测试 - Everything
+10:02:14:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:02:44:  选择文件夹
+10:03:04:  untitled (10) - Sublime Text (UNREGISTERED)
+10:03:19:  D:\00-KE64\10\Applications\ErrorHandle\ErrorHandle.c (10) - Sublime Text (UNREGISTERED)
+10:03:39:  D:\00-KE64\10\Middlewares\ErrorCode\ErrorCode.h (10) - Sublime Text (UNREGISTERED)
+10:03:54:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+10:04:04:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.c (gfgd) - Sublime Text (UNREGISTERED)
+10:04:09:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.h (gfgd) - Sublime Text (UNREGISTERED)
+10:04:24:  D:\00-KE64\10\Middlewares\ErrorCode\ErrorCode.h (10) - Sublime Text (UNREGISTERED)
+10:04:29:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+10:04:39:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+10:05:34:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.h (10) - Sublime Text (UNREGISTERED)
+10:05:39:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+10:05:44:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.h (10) - Sublime Text (UNREGISTERED)
+10:05:49:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+10:05:54:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+10:06:09:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+10:06:34:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+10:06:39:  D:\00-KE64\10\Middlewares\ErrorCode\ErrorCode.h (10) - Sublime Text (UNREGISTERED)
+10:06:54:  D:\00-KE64\10\Applications\FlowControl\CashPress\PressModuleIF.c (10) - Sublime Text (UNREGISTERED)
+10:07:14:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+10:07:44:  锁屏状态
+10:07:49:  K64_BTCR-1100191200300037_20210122154442.log - DRB.tat* - TextAnalysisTool.NET
+10:07:59:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:08:09:  锁屏状态
+10:08:14:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:08:19:  计算器
+10:08:24:  D:\00-KE64\10\Middlewares\ErrorCode\ErrorCode.h (10) - Sublime Text (UNREGISTERED)
+10:08:34:  计算器
+10:08:59:  D:\00-KE64\10\Middlewares\ErrorCode\ErrorCode.h (10) - Sublime Text (UNREGISTERED)
+10:09:04:  D:\00-KE64\10\Middlewares\ErrorCode\ErrorCode.c (10) - Sublime Text (UNREGISTERED)
+10:09:14:  D:\00-KE64\10\Middlewares\ErrorCode\ErrorCode.h (10) - Sublime Text (UNREGISTERED)
+10:09:19:  D:\00-KE64\10\Middlewares\ErrorCode\ErrorCode.c (10) - Sublime Text (UNREGISTERED)
+10:09:29:  D:\00-KE64\10\Applications\FlowControl\Plate\PlateDriver.c (10) - Sublime Text (UNREGISTERED)
+10:09:39:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.h (gfgd) - Sublime Text (UNREGISTERED)
+10:09:49:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+10:09:54:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.c (gfgd) - Sublime Text (UNREGISTERED)
+10:09:59:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+10:10:19:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.h (gfgd) - Sublime Text (UNREGISTERED)
+10:10:24:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+10:10:29:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.c (gfgd) - Sublime Text (UNREGISTERED)
+10:10:39:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+10:10:49:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+10:10:54:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (gfgd) - Sublime Text (UNREGISTERED)
+10:10:59:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (gfgd) - Sublime Text (UNREGISTERED)
+10:11:39:  D:\00-KE64\10\Applications\FlowControl\Plate\PlateDriver.c (10) - Sublime Text (UNREGISTERED)
+10:11:49:  D:\00-KE64\10\Middlewares\ErrorCode\ErrorCode.h (10) - Sublime Text (UNREGISTERED)
+10:11:54:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (10) - Sublime Text (UNREGISTERED)
+10:11:59:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (10) - Sublime Text (UNREGISTERED)
+10:12:04:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (10) - Sublime Text (UNREGISTERED)
+10:12:14:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (10) - Sublime Text (UNREGISTERED)
+10:12:19:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (10) - Sublime Text (UNREGISTERED)
+10:12:24:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (10) - Sublime Text (UNREGISTERED)
+10:12:39:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (10) - Sublime Text (UNREGISTERED)
+10:12:54:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (10) - Sublime Text (UNREGISTERED)
+10:12:59:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (10) - Sublime Text (UNREGISTERED)
+10:13:04:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (10) - Sublime Text (UNREGISTERED)
+10:13:14:  D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)
+10:14:35:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (10) - Sublime Text (UNREGISTERED)
+10:14:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (10) - Sublime Text (UNREGISTERED)
+10:14:55:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (10) - Sublime Text (UNREGISTERED)
+10:14:35:  E:\深圳出差\gfgd\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (10) - Sublime Text (UNREGISTERED)
+10:14:40:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (10) - Sublime Text (UNREGISTERED)
+10:14:55:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (10) - Sublime Text (UNREGISTERED)
+10:15:05:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+10:15:15:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+10:15:20:  D:\00-06\meger\Applications\ErrCode\ErrCode.h (meger) - Sublime Text (UNREGISTERED)
+10:16:10:  计算器
+10:16:20:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+10:16:30:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (meger) - Sublime Text (UNREGISTERED)
+10:16:50:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:17:15:  CRS错误码表-20200922.xlsx  [受保护的视图] - Excel
+10:17:20:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:21:20:  锁屏状态
+10:21:25:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (gfgd) - Sublime Text (UNREGISTERED)
+10:21:30:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.c (gfgd) - Sublime Text (UNREGISTERED)
+10:21:50:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.h (gfgd) - Sublime Text (UNREGISTERED)
+10:22:05:  D:\00-06\meger\Middlewares\Plate\LowerPlate.c (meger) - Sublime Text (UNREGISTERED)
+10:22:10:  D:\00-06\meger\Applications\Instruction\InstrReturn.c (meger) - Sublime Text (UNREGISTERED)
+10:22:15:  D:\00-06\meger\Applications\PlateCtrl\PressurePlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+10:22:20:  D:\00-06\meger\Applications\PlateCtrl\PlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+10:22:25:  D:\00-06\meger\Applications\Instruction\InstrReturn.c (meger) - Sublime Text (UNREGISTERED)
+10:22:30:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.c (gfgd) - Sublime Text (UNREGISTERED)
+10:23:40:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.h (gfgd) - Sublime Text (UNREGISTERED)
+10:23:45:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.c (gfgd) - Sublime Text (UNREGISTERED)
+10:26:25:  D:\00-06\meger\Applications\PlateCtrl\PlateCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+10:26:35:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+10:26:50:  百度贴吧_省内回济南 核酸 - Google Chrome
+10:27:00:  tieba.baidu.com - Google Chrome
+10:27:05:  核酸吧-百度贴吧 - Google Chrome
+10:27:15:  百度贴吧_省内回济南 核酸 - Google Chrome
+10:27:40:  百度贴吧_省内回济南核酸 - Google Chrome
+10:28:05:  现在从济南回曹县用进行核酸检测吗？准备30日左右回去，这两个都是低风险啊，省内 无冷链食品，不用核酸检测吧_曹县吧_百度贴吧 - Google Chrome
+10:28:25:  百度贴吧_省内回济南核酸 - Google Chrome
+10:28:40:  百度一下，你就知道 - Google Chrome
+10:28:45:  省内回济南核酸_百度搜索 - Google Chrome
+10:29:00:  【本地求助】省内外市去济南还需要核酸检测吗？目前在青岛，30日回济南_济南吧_百度贴吧 - Google Chrome
+10:29:10:  省内回济南核酸_百度搜索 - Google Chrome
+10:29:15:  无标题 - Google Chrome
+10:29:20:  2021年济南回德州需要做核酸吗？_百度知道 - Google Chrome
+10:29:35:  省内回济南核酸_百度搜索 - Google Chrome
+10:28:05:  现在从济南回曹县用进行核酸检测吗？准备30日左右回去，这两个都是低风险啊，省内 无冷链食品，不用核酸检测吧_曹县吧_百度贴吧 - Google Chrome
+10:28:25:  百度贴吧_省内回济南核酸 - Google Chrome
+10:28:40:  百度一下，你就知道 - Google Chrome
+10:28:45:  省内回济南核酸_百度搜索 - Google Chrome
+10:29:00:  【本地求助】省内外市去济南还需要核酸检测吗？目前在青岛，30日回济南_济南吧_百度贴吧 - Google Chrome
+10:29:10:  省内回济南核酸_百度搜索 - Google Chrome
+10:29:15:  无标题 - Google Chrome
+10:29:20:  2021年济南回德州需要做核酸吗？_百度知道 - Google Chrome
+10:29:35:  省内回济南核酸_百度搜索 - Google Chrome
+10:30:25:  新建文本文档.exe - 快捷方式
+10:30:30:  冯宁
+10:30:35:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (10) - Sublime Text (UNREGISTERED)
+10:30:50:  TD回复格式.docx [兼容模式] - Word
+10:31:50:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.c (10) - Sublime Text (UNREGISTERED)
+10:31:55:  主控板集成测试方案-报告
+10:32:05:  gfgd
+10:32:10:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+10:38:25:  锁屏状态
+10:38:30:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+10:38:35:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrHandle.h (10) - Sublime Text (UNREGISTERED)
+10:38:55:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (10) - Sublime Text (UNREGISTERED)
+10:39:00:  E:\深圳出差\gfgd\Applications\Common\AppCommon.h (10) - Sublime Text (UNREGISTERED)
+10:39:05:  D:\00-KE64\10\Applications\ErrorHandle\ErrorHandle.c (10) - Sublime Text (UNREGISTERED)
+10:39:10:  D:\00-06\meger\Applications\PlateCtrl\PlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+10:39:15:  D:\00-06\meger\Applications\ErrCode\ErrCode.h (meger) - Sublime Text (UNREGISTERED)
+10:39:50:  D:\00-06\meger\Applications\ErrCode\ErrCode.h • (meger) - Sublime Text (UNREGISTERED)
+10:39:55:  D:\00-06\meger\Applications\ErrCode\ErrCode.h (meger) - Sublime Text (UNREGISTERED)
+10:40:00:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+10:40:10:  D:\00-KE64\10\Applications\ErrorHandle\ErrorHandle.c (10) - Sublime Text (UNREGISTERED)
+10:40:25:  D:\00-KE64\10\Middlewares\ErrorCode\ErrorCode.h (10) - Sublime Text (UNREGISTERED)
+10:40:45:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+10:40:50:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.h (gfgd) - Sublime Text (UNREGISTERED)
+10:41:00:  D:\00-KE64\10\Middlewares\ErrorCode\ErrorCode.h (10) - Sublime Text (UNREGISTERED)
+10:41:25:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.h (gfgd) - Sublime Text (UNREGISTERED)
+10:41:35:  D:\00-06\meger\Applications\ErrCode\ErrCode.h (meger) - Sublime Text (UNREGISTERED)
+10:41:40:  D:\00-06\meger\Applications\ErrCode\ErrCode.h • (meger) - Sublime Text (UNREGISTERED)
+10:41:55:  00-06
+10:42:00:  D:\00-06\meger - 提交 - TortoiseSVN
+10:42:10:  ErrCode.h - TortoiseMerge
+10:42:15:  D:\00-06\meger - 提交 - TortoiseSVN
+10:42:25:  D:\00-06\meger - 日志信息 - TortoiseSVN
+10:42:30:  D:\00-06\meger - 提交 - TortoiseSVN
+10:42:50:  meger
+10:42:55:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.h (gfgd) - Sublime Text (UNREGISTERED)
+10:43:00:  D:\00-KE64\10\Applications\ErrorHandle\ErrorHandle.c (meger) - Sublime Text (UNREGISTERED)
+10:43:05:  eSpace
+10:43:15:  新北洋OA信息化平台 - Internet Explorer
+10:43:20:  http://oa.byintra.com/iBPM/BPM/DecryptUlt.aspx?Mode=Apply&TASKID=012508b8040d11b865dcfc5fad1653 - Internet Explorer
+10:43:25:  新北洋OA信息化平台 - Internet Explorer
+10:43:30:  锁屏状态
+10:43:35:  钞箱测试 - Everything
+10:43:45:  D:\00-KE64\10\Applications\ErrorHandle\ErrorHandle.c (meger) - Sublime Text (UNREGISTERED)
+10:44:10:  CRS错误码表-20200922.xlsx  [受保护的视图] - Excel
+10:44:15:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:44:25:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+10:44:30:  D:\00-06\meger\Applications\Instruction\InstrHandle.h (meger) - Sublime Text (UNREGISTERED)
+10:44:35:  D:\00-06\meger\Applications\Instruction\InstrHandle.c (meger) - Sublime Text (UNREGISTERED)
+10:44:40:  D:\00-06\meger\Applications\ErrCode\ErrCode.h (meger) - Sublime Text (UNREGISTERED)
+10:44:45:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+10:44:55:  D:\00-06\meger\Applications\ErrCode\ErrCode.h (meger) - Sublime Text (UNREGISTERED)
+10:45:00:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+10:44:10:  CRS错误码表-20200922.xlsx  [受保护的视图] - Excel
+10:44:15:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:44:25:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+10:44:30:  D:\00-06\meger\Applications\Instruction\InstrHandle.h (meger) - Sublime Text (UNREGISTERED)
+10:44:35:  D:\00-06\meger\Applications\Instruction\InstrHandle.c (meger) - Sublime Text (UNREGISTERED)
+10:44:40:  D:\00-06\meger\Applications\ErrCode\ErrCode.h (meger) - Sublime Text (UNREGISTERED)
+10:44:45:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+10:44:55:  D:\00-06\meger\Applications\ErrCode\ErrCode.h (meger) - Sublime Text (UNREGISTERED)
+10:45:00:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+10:45:10:  D:\00-06\meger - 提交 - TortoiseSVN
+10:45:20:  PressurePlate.c - TortoiseMerge
+10:45:25:  D:\00-06\meger - 提交 - TortoiseSVN
+10:45:40:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:46:00:  meger
+10:46:05:  钞箱测试 - Everything
+10:46:10:  06 固件日报
+10:46:15:  TCR
+10:46:20:  CRS
+10:46:25:  固件集成测试方案
+10:46:30:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+10:46:50:  主控板集成测试方案-报告
+10:47:00:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:47:05:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:48:55:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:49:00:  Excel
+10:49:05:  主控板集成测试方案-报告
+10:49:10:  6.2.2.5 钞箱测试1T1 .xls  [受保护的视图] - Excel
+10:49:20:  主控板集成测试方案-报告
+10:49:25:  钞箱测试 - Everything
+10:49:30:  主控板集成测试方案-报告
+10:49:35:  固件集成测试方案
+10:49:40:  复制文件
+10:49:45:  钞箱测试 - Everything
+10:49:50:  锁屏状态
+10:49:55:  于斌1
+10:51:10:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+10:51:20:  库
+10:51:25:  meger
+10:51:30:  PaperManage.c - TortoiseMerge
+10:51:35:  于斌1
+10:51:40:  meger
+10:53:20:  UpperPlateCtrl.c - TortoiseMerge
+10:55:10:  锁屏状态
+10:55:15:  UpperPlateCtrl.c - TortoiseMerge
+10:55:50:  跳转列表
+10:55:55:  dist
+10:56:00:  压缩文件名和参数
+10:56:05:  dist
+10:56:15:  getTheDieal
+10:56:20:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+10:56:55:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+10:57:00:  Search Dialog
+10:57:05:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+10:57:15:  Save On Close
+10:57:20:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+10:57:55:  Search Dialog
+10:58:05:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+10:58:20:  getTheDieal
+10:58:25:  跳转列表
+10:58:40:  dist
+10:59:35:  「开始」菜单
+10:58:05:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+10:58:20:  getTheDieal
+10:58:25:  跳转列表
+10:58:40:  dist
+10:59:35:  「开始」菜单
+11:00:30:  dist
+11:00:35:  getTheDieal
+11:01:20:  dist
+11:01:35:  getTheDieal
+11:01:40:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+11:02:10:  getTheDieal
+11:02:15:  D:\00-KE64\10\Middlewares\ErrorCode\ErrorCode.h (10) - Sublime Text (UNREGISTERED)
+11:03:05:  新标签页 - Google Chrome
+11:03:30:  百度一下，你就知道 - Google Chrome
+11:03:40:  pyinstaller打包exe文件太大_百度搜索 - Google Chrome
+11:03:45:  Pyinstaller打包，文件太大了怎么办？ - 知乎 - Google Chrome
+11:05:15:  运行
+11:05:25:  管理员: C:\Windows\system32\cmd.exe
+11:05:35:  管理员: C:\Windows\system32\cmd.exe - pip  pipenv
+11:05:40:  管理员: C:\Windows\system32\cmd.exe
+11:05:45:  管理员: C:\Windows\system32\cmd.exe - pip  install pipenv
+11:06:10:  Pyinstaller打包，文件太大了怎么办？ - 知乎 - Google Chrome
+11:07:40:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+11:08:55:  锁屏状态
+11:09:05:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+11:09:30:  管理员: C:\Windows\system32\cmd.exe - pip  install pipenv
+11:09:35:  锁屏状态
+11:09:45:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+11:10:05:  锁屏状态
+11:10:15:  管理员: C:\Windows\system32\cmd.exe - pip  install pipenv
+11:10:40:  getTheDieal
+11:11:00:  Pyinstaller打包，文件太大了怎么办？ - 知乎 - Google Chrome
+11:11:05:  锁屏状态
+11:11:10:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:11:25:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+11:11:30:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:11:50:  pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)
+11:12:00:  Pyinstaller打包，文件太大了怎么办？ - 知乎 - Google Chrome
+11:12:05:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:12:10:  getTheDieal
+11:12:15:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:12:20:  管理员: C:\Windows\system32\cmd.exe
+11:12:25:  pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)
+11:12:30:  getTheDieal
+11:12:35:  管理员: C:\Windows\system32\cmd.exe
+11:12:40:  pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)
+11:12:50:  管理员: C:\Windows\system32\cmd.exe - pipenv  install
+11:12:55:  管理员: C:\Windows\system32\cmd.exe
+11:13:00:  pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)
+11:13:10:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:13:20:  pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)
+11:13:25:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:13:30:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install requests
+11:13:50:  pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)
+11:13:55:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:14:00:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install win32gui
+11:14:30:  getTheDieal
+11:14:35:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install win32gui
+11:14:40:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:14:45:  pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)
+11:14:50:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install requests win32gui win32con time re lxml xlrd os datetime json
+11:14:55:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:14:30:  getTheDieal
+11:14:35:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install win32gui
+11:14:40:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:14:45:  pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)
+11:14:50:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install requests win32gui win32con time re lxml xlrd os datetime json
+11:14:55:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:15:15:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:15:20:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install requests win32gui time re lxml xlrd os datetime json
+11:15:25:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:15:30:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:15:35:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:15:40:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install requests win32gui   lxml xlrd  datetime json
+11:15:45:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:15:50:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install requests win32gui   lxml xlrd  datetime 
+11:16:00:  锁屏状态
+11:16:05:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+11:17:20:  锁屏状态
+11:17:25:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:17:30:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:17:40:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install requests win32gui   lxml xlrd  datetime 
+11:17:50:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+11:18:10:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:18:20:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install requests win32gui   lxml xlrd  datetime 
+11:18:35:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:18:45:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install lxml
+11:18:50:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:18:55:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:19:00:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install xlrd
+11:19:05:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:19:15:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install datetime
+11:19:25:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:19:35:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:19:40:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install win32gui
+11:19:55:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:20:15:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install pyinstaller
+11:20:20:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:20:40:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install pyinstaller
+11:20:45:  锁屏状态
+11:21:05:  Everything
+11:21:15:  win32 - Everything
+11:21:25:  win32gui - Everything
+11:21:30:  PaperManage.c - TortoiseMerge
+11:21:35:  转发: 转发: 上海农商行样机测试缺陷,中国银行样机测试缺陷
+11:22:15:  上海农商行样机测试缺陷.xlsx
+11:22:40:  转发: 转发: 上海农商行样机测试缺陷,中国银行样机测试缺陷
+11:22:45:  中国银行样机测试缺陷.xlsx
+11:24:30:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:24:35:  转发: 转发: 上海农商行样机测试缺陷,中国银行样机测试缺陷
+11:24:40:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:24:45:  dist
+11:25:05:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pyinstaller  -F GetTheideal.py
+11:25:30:  dist
+11:25:40:  管理员: C:\Windows\system32\cmd.exe
+11:25:50:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:25:55:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:26:00:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:26:05:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install win32gui
+11:26:20:  选定 管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:26:30:  No module named 'win32.distutils.command_百度搜索 - Google Chrome
+11:26:35:  No module named 'win32api'使用pip install win32api出错及解决方案_duan_mo_ran的博客-CSDN博客 - Google Chrome
+11:26:40:  (3条消息) No module named 'win32api'使用pip install win32api出错及解决方案_duan_mo_ran的博客-CSDN博客 - Google Chrome
+11:26:45:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install pypiwin32
+11:27:00:  dist
+11:27:15:  转发: 转发: 上海农商行样机测试缺陷,中国银行样机测试缺陷
+11:27:20:  中国银行样机测试缺陷.xlsx
+11:28:00:  上海农商行样机测试缺陷.xlsx
+11:28:30:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install pypiwin32
+11:28:35:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:28:40:  上海农商行样机测试缺陷.xlsx
+11:29:35:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:29:50:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:29:55:  Fatal error detected
+11:30:00:  dist
+11:28:30:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install pypiwin32
+11:28:35:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:28:40:  上海农商行样机测试缺陷.xlsx
+11:29:35:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:29:50:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:29:55:  Fatal error detected
+11:30:00:  dist
+11:30:05:  Fatal error detected
+11:30:15:  管理员: C:\Windows\system32\cmd.exe
+11:30:20:  Fatal error detected
+11:30:25:  No module named 'win32.distutils.command_百度搜索 - Google Chrome
+11:30:30:  failed_百度搜索 - Google Chrome
+11:30:40:  failed to execute怎么解决_百度搜索 - Google Chrome
+11:30:50:  pyinstall failed to execute怎么解决_百度搜索 - Google Chrome
+11:30:55:  pyinstaller failed to execute script_江南小虫虫的博客-CSDN博客 - Google Chrome
+11:31:00:  (3条消息) pyinstaller failed to execute script_江南小虫虫的博客-CSDN博客 - Google Chrome
+11:31:15:  Fatal error detected
+11:31:20:  getTheDieal
+11:31:25:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+11:31:30:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:31:35:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pyinstaller  -Fw GetTheideal.py
+11:31:45:  锁屏状态
+11:31:50:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pyinstaller  -Fw GetTheideal.py
+11:32:00:  dist
+11:32:05:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:32:10:  (3条消息) pyinstaller failed to execute script_江南小虫虫的博客-CSDN博客 - Google Chrome
+11:32:46:  getTheDieal
+11:32:51:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+11:32:56:  warn-GetTheideal.txt - 记事本
+11:33:06:  GetTheideal
+11:33:11:  1
+11:33:16:  管理员: C:\Windows\system32\cmd.exe
+11:33:26:  (3条消息) pyinstaller failed to execute script_江南小虫虫的博客-CSDN博客 - Google Chrome
+11:33:46:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -D pachonggui.py
+11:33:51:  管理员: C:\Windows\system32\cmd.exe
+11:33:56:  dist
+11:34:01:  build
+11:34:06:  dist
+11:34:11:  删除文件夹
+11:34:16:  删除文件
+11:34:21:  getTheDieal
+11:34:26:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -D pachonggui.py
+11:34:31:  管理员: C:\Windows\system32\cmd.exe
+11:34:46:  getTheDieal
+11:34:51:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -D GetTheideal.py
+11:35:46:  GetTheideal
+11:36:01:  管理员: C:\Windows\system32\cmd.exe
+11:36:11:  getTheDieal
+11:36:21:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+11:36:26:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:36:31:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:36:36:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:36:41:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pyinstaller  -D GetTheideal.py
+11:36:46:  dist
+11:36:51:  GetTheideal
+11:36:56:  管理员: C:\Windows\system32\cmd.exe
+11:37:01:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pyinstaller  -D GetTheideal.py
+11:37:11:  GetTheideal
+11:37:21:  管理员: C:\Windows\system32\cmd.exe - GetTheideal.exe
+11:37:26:  管理员: C:\Windows\system32\cmd.exe
+11:37:46:  dist
+11:37:51:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:37:56:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pyinstaller  -Fw GetTheideal.py
+11:38:01:  dist
+11:38:11:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:38:16:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:38:26:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:38:31:  *pyenv.py - F:\小程序\getTheDieal\pyenv.py (3.7.3)*
+11:38:41:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:38:46:  getTheDieal
+11:38:51:  锁屏状态
+11:38:56:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:39:21:  (3条消息) No module named 'win32api'使用pip install win32api出错及解决方案_duan_mo_ran的博客-CSDN博客 - Google Chrome
+11:39:26:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:40:01:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell - pip  install win32con
+11:40:06:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+11:40:16:  锁屏状态
+13:17:21:  管理员: C:\Windows\system32\cmd.exe - pipenv  shell
+13:17:26:  锁屏状态
+13:17:31:  getTheDieal
+13:18:12:  新北洋OA信息化平台 - Internet Explorer
+13:18:22:  http://hrms.byintra.com:8800/psc/HCMPRD/EMPLOYEE/HRMS/s/WEBLIB_PORTAL1.ICRIPTPORTAL.FieldFormul - Internet Explorer
+13:18:27:  考勤异常 - Internet Explorer
+13:18:32:  新北洋OA信息化平台 - Internet Explorer
+13:18:37:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+13:18:42:  D:\00-06\meger - 工作副本 - TortoiseSVN
+13:18:47:  UpperPlateCtrl.c - TortoiseMerge
+13:19:32:  D:\00-06\meger - 工作副本 - TortoiseSVN
+13:19:37:  Track.c - TortoiseMerge
+13:21:37:  D:\00-06\meger - 工作副本 - TortoiseSVN
+13:21:42:  PublicDriver.c - TortoiseMerge
+13:21:52:  SensorDriver.c - TortoiseMerge
+13:27:12:  于斌1
+13:27:32:  SensorDriver.c - TortoiseMerge
+13:28:32:  于斌1
+13:28:37:  win32gui - Everything
+13:28:47:  win32gui_menu.py - C:\Users\zhangkaifa\.virtualenvs\getTheDieal-aSSOFaOa\Lib\site-packages\win32\Demos\win32gui_menu.py (3.7.3)
+13:29:07:  SensorDriver.c - TortoiseMerge
+13:28:32:  于斌1
+13:28:37:  win32gui - Everything
+13:28:47:  win32gui_menu.py - C:\Users\zhangkaifa\.virtualenvs\getTheDieal-aSSOFaOa\Lib\site-packages\win32\Demos\win32gui_menu.py (3.7.3)
+13:29:07:  SensorDriver.c - TortoiseMerge
+13:30:42:  于斌1
+13:30:57:  锁屏状态
+13:31:02:  SensorDriver.c - TortoiseMerge
+13:31:07:  于斌1
+13:31:22:  PaperManage.c - trunk - Visual Studio Code [管理员]
+13:31:27:  SensorDriver.c - TortoiseMerge
+13:42:27:  LowerPlate.c - TortoiseMerge
+13:45:52:  自动播放
+13:45:57:  张开发的IPhone 
+13:46:07:  Internal Storage
+13:46:12:  张开发的IPhone 
+13:46:17:  Internal Storage
+13:46:22:  张开发的IPhone 
+13:46:32:  Internal Storage
+13:46:37:  104APPLE
+13:46:47:  本地磁盘 (D:)
+13:46:52:  fenxi
+13:46:57:  apai
+13:47:02:  weiboping (2).py - D:\fenxi\apai\weiboping (2).py (3.7.3)
+13:47:17:  apai
+13:47:22:  Windows 照片查看器
+13:47:27:  IMG_E4093.JPG - Windows 照片查看器
+13:47:42:  apai
+13:47:52:  新建文件夹 (3)
+13:47:57:  爆仓问题(1)
+13:48:02:  IMG_E4090.JPG - Windows 照片查看器
+13:48:07:  IMG_E4081.JPG - Windows 照片查看器
+13:48:12:  爆仓问题(1)
+13:48:17:  LowerPlate.c - TortoiseMerge
+13:48:32:  getTheDieal
+13:48:37:  fenxi
+13:48:42:  apai
+13:48:47:  锁屏状态
+13:48:52:  IMG_E4093.JPG - Windows 照片查看器
+13:48:57:  LowerPlate.c - TortoiseMerge
+13:49:32:  D:\00-06\meger - 工作副本 - TortoiseSVN
+13:49:37:  UpperPlate.c - TortoiseMerge
+13:50:17:  D:\00-06\meger\Applications\PlateCtrl\PressurePlateCtrl.h (meger) - Sublime Text (UNREGISTERED)
+13:50:22:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+13:50:27:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+13:50:32:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+13:50:37:  D:\00-06\meger\Middlewares\Plate\PressurePlate.c (meger) - Sublime Text (UNREGISTERED)
+13:50:42:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+13:50:47:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+13:50:52:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+13:52:37:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+13:52:42:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.h (meger) - Sublime Text (UNREGISTERED)
+13:52:47:  锁屏状态
+13:52:52:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:53:12:  Options for Target 'CashBox_1T2'
+13:53:27:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:53:52:  TD回复格式.docx [兼容模式] - Word
+13:55:02:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:55:12:  Options for Target 'CashBox_1T2'
+13:55:17:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:57:42:  eSpace
+13:57:57:  D:\00-06\meger - 工作副本 - TortoiseSVN
+13:58:02:  UpperPlate.c - TortoiseMerge
+14:00:42:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+14:02:22:  TD回复格式.docx [兼容模式] - Word
+14:02:42:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+14:17:48:  D:\00-06\meger - 工作副本 - TortoiseSVN
+14:17:53:  PaperManage.c - TortoiseMerge
+14:37:08:  新建文本文档.exe - 快捷方式
+14:37:13:  新标签页 - Google Chrome
+14:37:18:  百度一下，你就知道 - Google Chrome
+14:37:23:  省内回济南核酸_百度搜索 - Google Chrome
+14:37:33:  【本地求助】省内回来，不用核酸检测吧。【济南吧】_百度贴吧 - Google Chrome
+14:37:38:  新建文本文档.exe - 快捷方式
+14:37:58:  www.baidu.com - Google Chrome
+14:38:03:  百度一下，你就知道 - Google Chrome
+14:38:18:  威海回济南需要核酸检测吗_百度搜索 - Google Chrome
+14:38:28:  想问一下现在从威海回济南需要核酸检测结果吗_威海吧_百度贴吧 - Google Chrome
+14:38:33:  威海回济南需要核酸检测吗_百度搜索 - Google Chrome
+14:38:38:  从山东济南回山东德州需要做核酸检测吗【齐河吧】_百度贴吧 - Google Chrome
+14:38:53:  威海回济南需要核酸检测吗_百度搜索 - Google Chrome
+14:39:03:  新建文本文档.exe - 快捷方式
+14:42:58:  印象笔记
+14:43:03:  0-工作 - 张开发 - 印象笔记
+14:43:08:  所有笔记本 - 张开发 - 印象笔记
+14:44:08:  PaperManage.c - trunk - Visual Studio Code [管理员]
+14:44:08:  PaperManage.c - trunk - Visual Studio Code [管理员]
+14:49:08:  GetTheideal.exe - 快捷方式 属性
+14:49:13:  本地磁盘 (E:)
+14:49:23:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.h (gfgd) - Sublime Text (UNREGISTERED)
+14:50:08:  E:\2.txt (gfgd) - Sublime Text (UNREGISTERED)
+14:50:13:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.h (gfgd) - Sublime Text (UNREGISTERED)
+14:50:18:  设置 - trunk - Visual Studio Code [管理员]
+14:50:23:  PaperManage.c - trunk - Visual Studio Code [管理员]
+14:51:38:  设置 - trunk - Visual Studio Code [管理员]
+14:51:43:  PaperManage.c - trunk - Visual Studio Code [管理员]
+14:52:49:  设置 - trunk - Visual Studio Code [管理员]
+14:52:54:  PaperManage.c - trunk - Visual Studio Code [管理员]
+14:54:09:  ● PaperManage.c - trunk - Visual Studio Code [管理员]
+14:54:34:  新北洋OA信息化平台 - Internet Explorer
+14:54:39:  PaperManage.c - trunk - Visual Studio Code [管理员]
+14:54:44:  设置 - trunk - Visual Studio Code [管理员]
+14:54:49:  PaperManage.c - trunk - Visual Studio Code [管理员]
+14:55:14:  设置 - trunk - Visual Studio Code [管理员]
+14:55:24:  PaperManage.c - trunk - Visual Studio Code [管理员]
+14:55:34:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+14:56:24:  PaperManage.c - trunk - Visual Studio Code [管理员]
+14:56:44:  设置 - trunk - Visual Studio Code [管理员]
+14:56:49:  PaperManage.c - trunk - Visual Studio Code [管理员]
+14:57:39:  设置 - trunk - Visual Studio Code [管理员]
+14:57:44:  PaperManage.c - trunk - Visual Studio Code [管理员]
+14:58:04:  设置 - trunk - Visual Studio Code [管理员]
+14:58:09:  PaperManage.c - trunk - Visual Studio Code [管理员]
+14:58:09:  PaperManage.c - trunk - Visual Studio Code [管理员]
+15:04:04:  ● PaperManage.c - trunk - Visual Studio Code [管理员]
+15:06:14:  eSpace
+15:06:29:  PaperManage.c - trunk - Visual Studio Code [管理员]
+15:08:59:  新北洋OA信息化平台 - Internet Explorer
+15:09:04:  员工自助 - Internet Explorer
+15:09:09:  PaperManage.c - trunk - Visual Studio Code [管理员]
+15:27:39:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+15:27:49:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+15:32:24:  员工自助 - Internet Explorer
+15:32:29:  新北洋OA信息化平台 - Internet Explorer
+15:32:39:  费用报销流程_新北洋 - Internet Explorer
+15:33:34:  E:\深圳出差\gfgd\Applications\ErrorHandle\ErrCode.h (gfgd) - Sublime Text (UNREGISTERED)
+15:33:39:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+15:33:44:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+15:33:49:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+15:33:54:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+15:34:34:  D:\00-06\meger\FwLib\OpticalSensor\OpticalSensor.h (meger) - Sublime Text (UNREGISTERED)
+15:34:39:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+15:35:14:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+15:35:44:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+15:36:19:  PaperManage.c - trunk - Visual Studio Code [管理员]
+15:37:49:  编译通过通知
+15:37:54:  PaperManage.c - trunk - Visual Studio Code [管理员]
+15:43:55:  于斌1
+15:44:00:  PaperManage.c - trunk - Visual Studio Code [管理员]
+15:44:50:  于斌1
+15:44:50:  于斌1
+15:45:15:  PaperManage.c - trunk - Visual Studio Code [管理员]
+15:47:10:  于斌1
+15:47:20:  PaperManage.c - trunk - Visual Studio Code [管理员]
+15:47:25:  于斌1
+15:48:10:  PaperManage.c - trunk - Visual Studio Code [管理员]
+15:51:50:  于斌1
+15:51:55:  eSpace
+15:52:00:  锁屏状态
+15:52:05:  于斌1
+15:52:10:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+15:52:30:  PaperManage.c - TortoiseMerge
+15:52:40:  本地磁盘 (E:)
+15:52:45:  trunk
+15:52:50:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+15:52:55:  PaperManage.c Revision 4204 - TortoiseMerge
+15:53:45:  4:30开始打扫卫生
+15:54:05:  PaperManage.c Revision 4204 - TortoiseMerge
+16:02:45:  锁屏状态
+16:02:50:  【通知】卫生不合格，重新打扫
+16:02:55:  现场检查记录2021.pdf
+16:04:05:  【通知】卫生不合格，重新打扫
+16:05:50:  PaperManage.c Revision 4204 - TortoiseMerge
+16:06:35:  通知区域图标
+16:07:20:  PaperManage.c Revision 4204 - TortoiseMerge
+16:07:35:  计算器
+16:10:05:  PaperManage.c - trunk - Visual Studio Code [管理员]
+16:10:35:  PaperManage.c Revision 4204 - TortoiseMerge
+16:12:15:  计算器
+16:13:55:  PaperManage.c Revision 4204 - TortoiseMerge
+16:18:45:  TD回复格式.docx [兼容模式] - Word
+16:18:55:  PaperManage.c Revision 4204 - TortoiseMerge
+16:20:40:  PaperManage.c - trunk - Visual Studio Code [管理员]
+16:23:50:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:23:55:  PaperManage.h Revision 4204 - TortoiseMerge
+16:25:30:  TD回复格式.docx [兼容模式] - Word
+16:30:20:  PaperManage.c - trunk - Visual Studio Code [管理员]
+16:41:05:  Fatal error detected
+16:53:35:  本地磁盘 (D:)
+16:53:40:  本地磁盘 (F:)
+16:53:45:  小程序
+16:53:50:  getTheDieal
+16:53:55:  1
+16:54:00:  dist
+16:54:05:  win32gui - Everything
+16:54:10:  dist
+16:56:05:  PaperManage.c - trunk - Visual Studio Code [管理员]
+16:57:35:  新北洋OA信息化平台 - Internet Explorer
+16:57:40:  费用报销流程_新北洋 - Internet Explorer
+16:57:45:  新北洋OA信息化平台 - Internet Explorer
+16:58:05:  TD回复格式.docx [兼容模式] - Word
+16:58:05:  TD回复格式.docx [兼容模式] - Word
+17:01:45:  于斌1
+17:01:50:  PaperManage.c - trunk - Visual Studio Code [管理员]
+17:02:25:  TD回复格式.docx [兼容模式] - Word
+17:03:35:  于斌1
+17:03:50:  计算器
+17:04:00:  于斌1
+17:04:05:  锁屏状态

@@ -1,0 +1,17 @@
+2020-02-10 08:30:05-- 08:31:00     :早上上班    频繁  ：   0共停留 0.0分钟
+2020-02-10 08:31:00-- 09:00:37     :差缺补漏    频繁  ：(39 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   18共停留 9.0分钟
+2020-02-10 09:00:37-- 09:30:13     :连张    频繁  ：D:\00-06\7\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   38共停留 19.0分钟
+2020-02-10 09:30:13-- 10:00:14     :连张    频繁  ：D:\00-06\7\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   42共停留 21.0分钟
+2020-02-10 10:00:14-- 10:30:17     :连张    频繁  ：D:\00-06\1T111\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   11共停留 5.5分钟
+2020-02-10 10:30:17-- 11:01:25     :连张    频繁  ：D:\00-06\1T111\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   27共停留 13.5分钟
+2020-02-10 11:01:25-- 11:30:48     :连张    频繁  ：Log_Filter.xlsx - Excel   15共停留 7.5分钟
+2020-02-10 11:30:48-- 13:24:54     :下午上班    频繁  ：   25共停留 12.5分钟
+2020-02-10 13:24:54-- 13:30:28     :下午上班    频繁  ：(39 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   9共停留 4.5分钟
+2020-02-10 13:47:58-- 13:48:04     :    频繁  ：   0共停留 0.0分钟
+2020-02-10 14:03:43-- 14:03:58     :    频繁  ：   0共停留 0.0分钟
+2020-02-10 14:03:58-- 14:30:31     :    频繁  ：D:\00-KE64\4\trunk\Drivers\CanDriver\SnbcCanDriver.c (trunk) - Sublime Text (UNREGISTERED)   9共停留 4.5分钟
+2020-02-10 14:30:31-- 15:00:02     :    频繁  ：绘图1 - Microsoft Visio   22共停留 11.0分钟
+2020-02-10 15:00:02-- 15:35:12     :    频繁  ：刘茂林,张开发   18共停留 9.0分钟
+2020-02-10 15:35:12-- 16:01:14     :    频繁  ：于斌1   13共停留 6.5分钟
+2020-02-10 16:01:14-- 16:33:29     :    频繁  ：于斌1   22共停留 11.0分钟
+2020-02-10 16:33:29-- 17:00:31     :    频繁  ：(39 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   14共停留 7.0分钟

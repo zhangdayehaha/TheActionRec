@@ -1,0 +1,528 @@
+08:02:08:  回复: 回复: 关于自研TCR机芯BV升级的业务联络【BV再次升级】
+08:02:33:  Plate.c - TortoiseMerge
+08:02:43:  eSpace
+08:05:48:  Plate.c - TortoiseMerge
+08:13:23:  回复: 招标DRB样机（4台）发货测试~2020.10.17
+08:15:18:  回复: DRB出厂测试软件更改申请
+08:17:18:  WinRAR
+08:17:28:  Plate.c - TortoiseMerge
+08:22:33:  密码锁
+08:22:38:  荆文波
+08:22:48:  D:\00-06\DRB-NearFull - 日志信息 - TortoiseSVN
+08:22:53:  跳转列表
+08:22:58:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+08:23:03:  跳转列表
+08:23:08:  Visual Studio Code
+08:23:13:  欢迎使用 - DRB-NearFull - Visual Studio Code [管理员]
+08:23:43:  PlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:23:48:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:24:48:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+08:24:58:  PlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:26:08:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:34:50:  TCR调测工具 V3.36
+08:34:55:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:35:15:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+08:35:20:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+08:35:25:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+08:35:35:  TCR调测工具 V3.36
+08:35:45:  钞箱配置
+08:35:55:  TCR调测工具 V3.36
+08:39:30:  取款
+08:39:35:  TCR调测工具 V3.36
+08:41:50:  BTCRTestTool
+08:41:55:  取款
+08:42:00:  TCR调测工具 V3.36
+09:22:20:  钞箱配置
+09:22:25:  TCR调测工具 V3.36
+09:22:30:  新建文本文档.exe - 快捷方式
+09:23:00:  DRB测试缺陷列表.xlsx
+09:23:16:  TCR调测工具 V3.36
+09:23:36:  （上海+邮储）DRB钞箱发货测试
+09:23:41:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+09:23:46:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:23:51:  Box_3__BTCR-1100190803000_20201019103004.log - DRB.tat* - TextAnalysisTool.NET
+09:23:56:  TCR调测工具 V3.36
+09:24:01:  取款
+09:24:06:  TCR调测工具 V3.36
+09:24:21:  K64_BTCR-1100200600510420_20201017103524
+09:24:26:  TCR调测工具 V3.36
+09:24:36:  BTCRTestTool V3.36
+09:24:41:  TCR调测工具 V3.36
+09:24:51:  BTCRTestTool V3.36
+09:24:56:  20201020
+09:25:06:  锁屏状态
+09:25:11:  TCR调测工具 V3.36
+09:25:31:  20201020
+09:25:56:  Decode
+09:26:01:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:26:06:  K64_BTCR-1100190803000_20201020092415
+09:26:11:  Box_3__BTCR-1100190803000_20201020092415.log - DRB.tat* - TextAnalysisTool.NET
+09:26:46:  D:\00-06\DRB--\Middlewares\Sensor\Sensor.c (DRB--) - Sublime Text (UNREGISTERED)
+09:26:56:  Add Filter
+09:27:06:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+09:27:11:  D:\00-06\DRB--\Applications\PaperManage\PaperManage.c (DRB--) - Sublime Text (UNREGISTERED)
+09:27:31:  1T1-Stop-Length
+09:27:36:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+09:27:46:  D:\00-06\DRB--\Applications\PaperManage\PaperManage.c (DRB--) - Sublime Text (UNREGISTERED)
+09:28:06:  D:\00-06\DRB--\Applications\PaperManage\PaperManage.h (DRB--) - Sublime Text (UNREGISTERED)
+09:28:16:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+09:29:26:  D:\00-06\DRB--\Applications\PaperManage\PaperManage.c (DRB--) - Sublime Text (UNREGISTERED)
+09:29:36:  TCR调测工具 V3.36
+09:29:56:  钞箱传感器
+09:30:01:  TCR调测工具 V3.36
+09:28:06:  D:\00-06\DRB--\Applications\PaperManage\PaperManage.h (DRB--) - Sublime Text (UNREGISTERED)
+09:28:16:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+09:29:26:  D:\00-06\DRB--\Applications\PaperManage\PaperManage.c (DRB--) - Sublime Text (UNREGISTERED)
+09:29:36:  TCR调测工具 V3.36
+09:29:56:  钞箱传感器
+09:30:01:  TCR调测工具 V3.36
+09:30:26:  Box_3__BTCR-1100190803000_20201020092415.log - DRB.tat* - TextAnalysisTool.NET
+09:37:11:  TCR调测工具 V3.36
+09:39:11:  计算器
+09:39:21:  TCR调测工具 V3.36
+09:39:31:  计算器
+09:39:36:  TCR调测工具 V3.36
+09:44:56:  取款
+09:45:01:  TCR调测工具 V3.36
+09:44:56:  取款
+09:45:01:  TCR调测工具 V3.36
+09:46:21:  取款
+09:46:31:  TCR调测工具 V3.36
+09:49:26:  Decode
+09:49:36:  20201019
+09:49:41:  BTCRTestTool V3.36
+09:49:46:  20201020
+09:50:06:  ID-20 10元5元混合纸币，纸币进入钞箱，10元纸币进入下腔
+09:50:16:  20201019
+09:50:26:  20201020
+09:50:51:  Decode
+09:50:56:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:51:06:  K64_BTCR-1100190803000_20201020094841
+09:51:11:  Box_4__BTCR-1100190803000_20201020094841.log - DRB.tat* - TextAnalysisTool.NET
+09:51:56:  K64_BTCR-1100190803000_20201020094841
+09:52:01:  Decode
+09:52:06:  Box_4__BTCR-1100190803000_20201020094841.log - DRB.tat* - TextAnalysisTool.NET
+09:54:16:  选择文件夹
+09:54:21:  untitled (DRB--) - Sublime Text (UNREGISTERED)
+09:54:31:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+09:54:51:  Box_4__BTCR-1100190803000_20201020094841.log - DRB.tat* - TextAnalysisTool.NET
+09:57:56:  C:\Windows\py.exe
+09:58:01:  TheDateInfo.xls  [兼容模式] - Excel
+10:00:06:  TCR调测工具 V3.36
+10:01:26:  取款
+10:01:31:  TCR调测工具 V3.36
+10:01:56:  锁屏状态
+10:02:01:  20201020
+10:02:06:  TCR调测工具 V3.36
+10:02:26:  20201020
+10:02:31:  TCR调测工具 V3.36
+10:02:36:  20201020
+10:02:41:  TCR调测工具 V3.36
+10:03:06:  20201020
+10:03:11:  文件夹正在使用
+10:03:16:  20201020
+10:03:21:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:03:31:  Box_4__BTCR-1100190803000_20201020094841.log - DRB.tat* - TextAnalysisTool.NET
+10:03:36:  Box_4__BTCR-1100190803000_20201020100129.log - DRB.tat* - TextAnalysisTool.NET
+10:03:51:  K64_BTCR-1100190803000_20201020100129
+10:03:56:  锁屏状态
+10:04:01:  K64_BTCR-1100190803000_20201020100129
+10:04:06:  TheDateInfo.xls  [兼容模式] - Excel
+10:04:46:  TCR调测工具 V3.36
+10:06:56:  取款
+10:07:01:  TCR调测工具 V3.36
+10:09:01:  20201020
+10:09:11:  取款
+10:09:16:  TCR调测工具 V3.36
+10:14:01:  20201020
+10:14:06:  BTCRTestTool
+10:14:11:  TCR调测工具 V3.36
+10:14:06:  BTCRTestTool
+10:14:11:  TCR调测工具 V3.36
+10:25:01:  钞箱配置
+10:25:06:  TCR调测工具 V3.36
+10:25:11:  钞箱配置
+10:25:16:  TCR调测工具 V3.36
+10:27:26:  取款
+10:27:31:  TCR调测工具 V3.36
+10:35:57:  20201020
+10:36:07:  Box_4__BTCR-1100190803000_20201020100129.log - DRB.tat* - TextAnalysisTool.NET
+10:37:57:  TCR调测工具 V3.36
+10:39:27:  钞箱配置
+10:39:32:  取款
+10:39:37:  BTCRTestTool
+10:39:42:  TCR调测工具 V3.36
+10:40:52:  取款
+10:40:57:  TCR调测工具 V3.36
+10:49:32:  取款
+10:49:37:  TCR调测工具 V3.36
+10:50:57:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+10:51:17:  TCR调测工具 V3.36
+10:51:27:  取款
+10:51:32:  TCR调测工具 V3.36
+10:52:07:  取款
+10:52:22:  TCR调测工具 V3.36
+10:53:02:  取款
+10:53:07:  TCR调测工具 V3.36
+10:55:17:  20201020
+10:55:22:  固件设计中心
+10:55:27:  20201020
+10:55:32:  Decode
+10:55:37:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:55:42:  Decode
+11:00:32:  固件设计中心
+11:03:22:  TCR调测工具 V3.36
+11:05:07:  Decode
+11:05:47:  TCR调测工具 V3.36
+11:07:42:  取款
+11:07:47:  TCR调测工具 V3.36
+11:08:27:  20201020
+11:09:22:  自动播放
+11:09:52:  Decode
+11:09:57:  K64_BTCR-1100190803000_20201020110745
+11:10:02:  Box_4__BTCR-1100190803000_20201020110745.log - DRB.tat* - TextAnalysisTool.NET
+11:15:22:  LOG
+11:15:27:  Decode
+11:15:32:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+11:15:37:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:17:37:  TCR调测工具 V3.36
+11:18:42:  取款
+11:18:47:  TCR调测工具 V3.36
+11:19:12:  20201020
+11:19:42:  Decode
+11:19:47:  K64_BTCR-1100190803000_20201020111847
+11:19:52:  Box_4__BTCR-1100190803000_20201020111847.log - DRB.tat* - TextAnalysisTool.NET
+11:20:37:  TCR调测工具 V3.36
+11:21:02:  取款
+11:22:37:  TCR调测工具 V3.36
+11:23:52:  取款
+11:23:57:  TCR调测工具 V3.36
+11:24:27:  计算器
+11:25:07:  TCR调测工具 V3.36
+11:25:12:  K64_BTCR-1100190803000_20201020111847
+11:25:17:  20201020
+11:25:42:  TCR调测工具 V3.36
+11:25:57:  取款
+11:26:02:  TCR调测工具 V3.36
+11:26:12:  取款
+11:26:17:  TCR调测工具 V3.36
+11:26:57:  20201020
+11:27:02:  TCR调测工具 V3.36
+11:27:12:  20201020
+11:27:17:  TCR调测工具 V3.36
+11:27:32:  20201020
+11:27:37:  TCR调测工具 V3.36
+11:27:57:  20201020
+11:28:02:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:28:07:  K64_BTCR-1100190803000_20201020112613
+11:28:12:  Box_4__BTCR-1100190803000_20201020112613.log - DRB.tat* - TextAnalysisTool.NET
+11:28:07:  K64_BTCR-1100190803000_20201020112613
+11:28:12:  Box_4__BTCR-1100190803000_20201020112613.log - DRB.tat* - TextAnalysisTool.NET
+11:30:57:  TCR调测工具 V3.36
+11:31:02:  钞箱配置
+11:31:07:  TCR调测工具 V3.36
+11:32:27:  取款
+11:32:32:  TCR调测工具 V3.36
+11:32:52:  20201020
+11:33:47:  TCR调测工具 V3.36
+11:33:52:  托板控制
+11:35:02:  TCR调测工具 V3.36
+11:36:02:  取款
+11:36:12:  TCR调测工具 V3.36
+11:38:57:  取款
+11:39:02:  TCR调测工具 V3.36
+13:06:39:  自动播放
+13:07:54:  荆文波
+13:07:59:  DRB钞箱整改后，初始化异响，且下腔无法入钞
+13:20:39:  荆文波
+13:20:44:  DRB钞箱整改后，初始化异响，且下腔无法入钞
+13:20:49:  爆仓问题(1)
+13:20:59:  桌面整理
+13:21:04:  删除 3,459 个项目(1.12 GB)
+13:21:09:  爆仓问题(1)
+13:21:14:  DRB钞箱整改后，初始化异响，且下腔无法入钞
+13:21:19:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:21:24:  Decode
+13:21:54:  Box_4__BTCR-1100190803000_20201020112613.log - DRB.tat* - TextAnalysisTool.NET
+13:21:59:  Box_4__BTCR-1100200600510420_20201019174803.log - DRB.tat* - TextAnalysisTool.NET
+13:22:14:  荆文波
+13:22:19:  K64_BTCR-1100200600510420_20201019174803
+13:22:24:  爆仓问题(1)
+13:22:29:  K64_BTCR-1100200600510420_20201019174700
+13:22:34:  Box_4__BTCR-1100200600510420_20201019174700.log - DRB.tat* - TextAnalysisTool.NET
+13:22:59:  荆文波
+13:23:34:  Box_4__BTCR-1100200600510420_20201019174700.log - DRB.tat* - TextAnalysisTool.NET
+13:24:09:  荆文波
+13:32:09:  Box_4__BTCR-1100200600510420_20201019174700.log - DRB.tat* - TextAnalysisTool.NET
+13:32:14:  TCR调测工具 V3.36
+13:32:54:  荆文波
+13:35:44:  TCR调测工具 V3.36
+13:35:49:  取款
+13:35:54:  荆文波
+13:35:59:  取款
+13:44:59:  TCR调测工具 V3.36
+13:44:59:  TCR调测工具 V3.36
+13:48:04:  跳转列表
+13:48:19:  BTCRTestTool V3.36
+13:48:24:  20201020
+13:48:34:  Decode
+13:48:39:  TCR调测工具 V3.36
+13:49:14:  打开
+13:49:24:  TCR调测工具 V3.36
+13:53:55:  取款
+13:54:00:  TCR调测工具 V3.36
+13:54:15:  删除多个项目
+13:54:20:  20201020
+13:54:55:  K64_BTCR-1100190803000_20201020135355
+13:55:00:  20201020
+13:55:05:  Decode
+13:55:10:  K64-_BTCR-1100190803000_20201020135355
+13:55:15:  Box_4_-_BTCR-1100190803000_20201020135355.log - DRB.tat* - TextAnalysisTool.NET
+13:56:25:  TCR调测工具 V3.36
+13:57:15:  取款
+13:57:20:  TCR调测工具 V3.36
+13:58:50:  取款
+13:59:30:  大家更新一下当前人力投入占比情况，没有包含的项目或工作可写在备注中，所有项目合计不超过100%，下班前反馈
+13:59:55:  TCR调测工具 V3.36
+13:58:50:  取款
+13:59:30:  大家更新一下当前人力投入占比情况，没有包含的项目或工作可写在备注中，所有项目合计不超过100%，下班前反馈
+13:59:55:  TCR调测工具 V3.36
+14:01:10:  钞箱配置
+14:01:20:  TCR调测工具 V3.36
+14:02:00:  警告
+14:02:05:  正在打开 - 20201031固件团建报名表.xlsx
+14:02:10:  20201031固件团建报名表.xlsx  [受保护的视图] - Excel
+14:02:30:  20201031固件团建报名表.xlsx  [共享] - Excel
+14:02:45:  20201020
+14:02:55:  LOG
+14:03:00:  Box_1__BTCR-1100190803000_20201020140129.log - DRB.tat* - TextAnalysisTool.NET
+14:04:50:  TCR调测工具 V3.36
+14:10:15:  eSpace
+14:10:20:  荆文波
+14:10:55:  自动播放
+14:11:40:  荆文波
+14:15:05:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+14:18:25:  荆文波
+14:18:30:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+14:18:35:  D:\00-06\DRB--\Middlewares\Plate\UpperPlate.c (DRB--) - Sublime Text (UNREGISTERED)
+14:18:45:  D:\00-06\DRB--\Middlewares\Plate\UpperPlate.c • (DRB--) - Sublime Text (UNREGISTERED)
+14:18:50:  D:\00-06\DRB--\Applications\PlateCtrl\UpperPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+14:19:00:  D:\00-06\DRB--\Middlewares\Plate\UpperPlate.c (DRB--) - Sublime Text (UNREGISTERED)
+14:19:10:  D:\00-06\DRB--\Applications\PlateCtrl\LowerPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+14:19:25:  D:\00-06\DRB--\Middlewares\Plate\LowerPlate.c (DRB--) - Sublime Text (UNREGISTERED)
+14:19:40:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:20:10:  D:\00-06\1T1-82\Middlewares\StepMotor\StepMotor.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:20:15:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:23:10:  DRB钞箱整改后，初始化异响，且下腔无法入钞
+14:23:25:  招标DRB样机（4台）发货测试~2020.10.16
+14:23:30:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:27:25:  TCR调测工具 V3.36
+14:33:15:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:33:25:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010191557.log
+14:36:50:  自动播放
+14:36:55:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010191557.log
+14:44:21:  20201031固件团建报名表.xlsx  [受保护的视图] - Excel
+14:44:21:  20201031固件团建报名表.xlsx  [受保护的视图] - Excel
+14:50:41:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010191557.log
+14:52:26:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+15:00:36:  颜晓军
+15:00:41:  TCR调测工具 V3.36
+15:00:46:  颜晓军
+15:01:26:  TCR调测工具 V3.36
+15:11:31:  取款
+15:11:36:  TCR调测工具 V3.36
+15:21:11:  钞箱配置
+15:21:21:  TCR调测工具 V3.36
+15:22:01:  荆文波
+15:22:21:  TCR调测工具 V3.36
+15:22:41:  荆文波
+15:23:21:  取款
+15:23:26:  TCR调测工具 V3.36
+15:23:41:  颜晓军
+15:23:46:  荆文波
+15:23:51:  TCR调测工具 V3.36
+15:24:26:  荆文波
+15:24:31:  TCR调测工具 V3.36
+15:25:11:  取款
+15:25:16:  TCR调测工具 V3.36
+15:25:31:  荆文波
+15:25:41:  TCR调测工具 V3.36
+15:28:51:  untitled (1T1-82) - Sublime Text (UNREGISTERED)
+15:28:56:  V1.009
+15:29:01:  TCR调测工具（研发版）V1.0.0.4
+15:28:51:  untitled (1T1-82) - Sublime Text (UNREGISTERED)
+15:28:56:  V1.009
+15:29:01:  TCR调测工具（研发版）V1.0.0.4
+15:37:06:  锁屏状态
+15:37:11:  主页 - Internet Explorer
+15:37:51:  无法显示此页 - Internet Explorer
+15:38:26:  untitled (1T1-82) - Sublime Text (UNREGISTERED)
+15:38:31:  TCR调测工具 V3.36
+15:40:11:  BTCRTestTool
+15:40:16:  TCR调测工具 V3.36
+15:43:46:  荆文波
+15:49:47:  TCR调测工具 V3.36
+15:49:57:  荆文波
+15:50:42:  DRB钞箱档位调节说明20191211.xlsx
+15:50:52:  荆文波
+15:50:57:  TCR调测工具 V3.36
+15:51:37:  荆文波
+15:52:17:  TCR调测工具 V3.36
+15:52:22:  荆文波
+15:53:07:  TCR调测工具 V3.36
+15:53:27:  荆文波
+15:53:57:  TCR调测工具 V3.36
+15:54:02:  荆文波
+15:55:47:  TCR调测工具 V3.36
+15:55:52:  荆文波
+15:56:42:  TCR调测工具 V3.36
+15:56:47:  取款
+15:56:52:  TCR调测工具 V3.36
+15:57:22:  荆文波
+15:58:12:  TCR调测工具 V3.36
+15:59:02:  取款
+15:59:07:  TCR调测工具 V3.36
+15:59:27:  荆文波
+15:58:12:  TCR调测工具 V3.36
+15:59:02:  取款
+15:59:07:  TCR调测工具 V3.36
+15:59:27:  荆文波
+16:03:12:  回复: 回复: DRB出厂测试软件更改申请
+16:03:42:  取款
+16:03:47:  TCR调测工具 V3.36
+16:03:52:  于斌1
+16:03:57:  TCR调测工具 V3.36
+16:04:12:  eSpace
+16:04:17:  于斌1
+16:04:27:  TCR调测工具 V3.36
+16:04:57:  于斌1
+16:05:27:  TCR调测工具 V3.36
+16:57:38:  颜晓军
+16:58:03:  TCR调测工具 V3.36
+16:58:13:  DRB传感器.txt - 记事本
+16:58:18:  TCR调测工具 V3.36
+16:58:13:  DRB传感器.txt - 记事本
+16:58:18:  TCR调测工具 V3.36
+17:01:13:  DRB传感器.txt - 记事本
+17:06:28:  E:\深圳出差\44\Applications\CanComm\CanComm.c (44) - Sublime Text (UNREGISTERED)
+17:06:33:  untitled (1T1-82) - Sublime Text (UNREGISTERED)
+17:06:38:  选择文件夹
+17:06:48:  untitled (44) - Sublime Text (UNREGISTERED)
+17:07:08:  E:\深圳出差\44\Applications\FlowControl\FlowCtrl.c (44) - Sublime Text (UNREGISTERED)
+17:07:28:  E:\深圳出差\44\Applications\CanComm\CanComm.c (44) - Sublime Text (UNREGISTERED)
+17:08:53:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+17:09:38:  E:\深圳出差\44\FwLib\UsbDeviceStack\UsbStack.c (44) - Sublime Text (UNREGISTERED)
+17:09:43:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+17:09:48:  E:\深圳出差\44\FwLib\UsbDeviceStack\UsbStack.c (44) - Sublime Text (UNREGISTERED)
+17:09:53:  E:\深圳出差\44\Drivers\UsbDriver\SnbcUsbdDriver.c (44) - Sublime Text (UNREGISTERED)
+17:10:03:  TCR调测工具 V3.36
+17:10:13:  E:\深圳出差\44\FwLib\UsbDeviceStack\UsbStack.c (44) - Sublime Text (UNREGISTERED)
+17:10:18:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+17:11:18:  TCR调测工具 V3.36
+17:11:58:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+17:12:33:  TCR调测工具 V3.36
+17:14:03:  取款
+17:14:13:  TCR调测工具 V3.36
+17:14:53:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+17:14:13:  TCR调测工具 V3.36
+17:14:53:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+17:17:43:  Decode
+17:17:48:  20201020
+17:17:53:  K18_BTCR-1100190803000_20201020140502.log - DRB.tat* - TextAnalysisTool.NET
+17:18:08:  Decode
+17:19:33:  回复: 回复: DRB出厂测试软件更改申请
+17:19:38:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+17:20:38:  大家更新一下当前人力投入占比情况，没有包含的项目或工作可写在备注中，所有项目合计不超过100%，下班前反馈
+17:22:13:  回复: 大家更新一下当前人力投入占比情况，没有包含的项目或工作可写在备注中，所有项目合计不超过100%，下班前反馈 - 写邮件
+17:22:38:  正在打开 - Excel
+17:22:48:  副本024 二级评审会议纪要;评V1.01.xlsx - Excel
+17:22:58:  桌面整理
+17:23:03:  新建Microsoft Excel 工作表.xlsx - Excel
+17:27:08:  大家更新一下当前人力投入占比情况，没有包含的项目或工作可写在备注中，所有项目合计不超过100%，下班前反馈
+17:27:38:  转发: 大家更新一下当前人力投入占比情况，没有包含的项目或工作可写在备注中，所有项目合计不超过100%，下班前反馈 - 写邮件
+17:28:33:  新建Microsoft Excel 工作表.xlsx - Excel
+17:29:08:  未命名 - 写邮件
+17:29:53:  未命名 - 写邮件   17:29:49 已保存
+17:28:33:  新建Microsoft Excel 工作表.xlsx - Excel
+17:29:08:  未命名 - 写邮件
+17:29:53:  未命名 - 写邮件   17:29:49 已保存
+17:31:18:  桌面整理
+17:31:28:  工作占比-张开发 - 写邮件   17:30:49 已保存
+17:31:58:  桌面整理
+17:32:03:  工作占比-张开发 - 写邮件   17:31:49 已保存
+17:32:13:  DRB传感器.txt - 记事本
+17:32:18:  D:\00-06\DRB--\Middlewares\Plate\LowerPlate.c (DRB--) - Sublime Text (UNREGISTERED)
+17:32:23:  D:\00-06\DRB--\Applications\PlateCtrl\LowerPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+17:32:53:  20201019
+17:32:58:  Project
+17:33:03:  μVision
+17:33:08:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+17:33:23:  DRB--
+17:33:28:  Update.c - TortoiseMerge
+17:33:33:  TortoiseMerge
+17:33:43:  D:\00-06\DRB--\Tools\CreateJK.exe
+17:33:48:  桌面整理
+17:47:44:  TCR调测工具 V3.36
+17:49:49:  取款
+17:49:54:  TCR调测工具 V3.36
+17:52:34:  取款
+17:52:39:  TCR调测工具 V3.36
+17:54:44:  取款
+17:54:49:  TCR调测工具 V3.36
+17:56:49:  取款
+17:56:54:  TCR调测工具 V3.36
+17:58:09:  取款
+17:58:14:  TCR调测工具 V3.36
+17:58:09:  取款
+17:58:14:  TCR调测工具 V3.36
+18:01:14:  自动播放
+18:15:19:  桌面整理
+18:15:24:  TCR调测工具 V3.36
+18:16:34:  取款
+18:16:39:  TCR调测工具 V3.36
+18:18:39:  取款
+18:18:44:  TCR调测工具 V3.36
+18:25:34:  回复: Re: 关于自研TCR机芯BV升级的业务联络【BV再次升级】
+18:25:44:  TCR调测工具 V3.36
+18:26:44:  取款
+18:26:59:  TCR调测工具 V3.36
+18:45:39:  取款
+18:45:49:  TCR调测工具 V3.36
+18:45:54:  BTCRTestTool
+18:45:59:  TCR调测工具 V3.36
+18:49:14:  荆文波
+18:49:24:  取款
+18:49:29:  TCR调测工具 V3.36
+18:51:29:  荆文波
+18:52:19:  删除多个项目
+18:52:24:  228#循环钞箱使用300张执行普通取款，出现115张结构拒钞。
+18:52:29:  Decode
+18:52:39:  打开
+18:52:44:  K64_BTCR-1100200600510420_20201020184729.log - DRB.tat - TextAnalysisTool.NET
+18:53:14:  Decode
+18:53:19:  K64_BTCR-1100200600510420_20201020184729.log - DRB.tat - TextAnalysisTool.NET
+19:02:30:  钞箱配置
+19:02:35:  TCR调测工具 V3.36
+19:04:20:  取款
+19:04:30:  TCR调测工具 V3.36
+19:15:30:  Decode
+19:15:40:  DRB传感器.txt - 记事本
+19:15:45:  K64_BTCR-1100200600510420_20201020184729.log - DRB.tat - TextAnalysisTool.NET
+19:16:00:  开始
+19:16:20:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+19:16:50:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+19:17:05:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+19:17:10:  确认
+19:17:15:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+19:17:50:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+19:20:10:  Tools
+19:20:15:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V11_MAIN_T16 - 写邮件
+19:20:25:  「开始」菜单
+19:20:55:  计算机管理
+19:21:50:  桌面整理
+19:21:55:  开始
+19:22:15:  计算机管理
+19:22:40:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+19:23:05:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+19:23:20:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+19:23:25:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]

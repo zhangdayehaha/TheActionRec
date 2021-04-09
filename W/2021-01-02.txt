@@ -1,0 +1,89 @@
+10:09:58:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:17:18:  KE06LOG.bat - 快捷方式 (2)
+10:17:33:  LogExpert #3 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101021017.log
+10:17:53:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:25:08:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101021024.log
+10:25:58:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:27:43:  LogExpert #4 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101021024.log
+10:27:48:  LogExpert #5 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101021027.log
+10:27:58:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:28:03:  LogExpert
+10:28:08:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101021027.log
+10:28:48:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:28:08:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101021027.log
+10:28:48:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:49:28:  CRS调测工具（研发版）V1.0.2.1
+10:51:53:  06 固件日报
+10:51:58:  查找
+10:52:13:  CRS调测工具（研发版）V1.0.2.1
+10:52:18:  Dialog
+10:52:23:  CRS调测工具（研发版）V1.0.2.1
+10:55:43:  Search
+10:55:48:  查找
+10:55:53:  Dialog
+10:55:58:  CRS调测工具（研发版）V1.0.2.1
+10:58:13:  打开
+10:58:28:  CRS调测工具（研发版）V1.0.2.1
+10:58:13:  打开
+10:58:28:  CRS调测工具（研发版）V1.0.2.1
+11:00:48:  Dialog
+11:00:58:  CRS调测工具（研发版）V1.0.2.1
+11:01:13:  Dialog
+11:01:18:  传感器校验
+11:01:23:  CRS调测工具（研发版）V1.0.2.1
+11:01:28:  CRS调测工具（研发版）V1.0.2.1 (未响应)
+11:01:33:  CRS调测工具（研发版）V1.0.2.1
+11:06:13:  Dialog
+11:06:28:  CRS调测工具（研发版）V1.0.2.1
+12:15:44:  自动播放
+12:20:59:  错误码表
+12:21:04:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+12:22:14:  SEGGER J-Link V6.10b - Control panel
+12:22:19:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:03:14:  Toolbox
+13:03:19:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:27:14:  CRS调测工具（研发版）V1.0.2.1
+13:28:59:  CRSTestTool
+13:29:04:  CRS调测工具（研发版）V1.0.2.1
+13:29:14:  钞箱配置
+13:29:24:  取款
+13:29:29:  CRS调测工具（研发版）V1.0.2.1
+13:28:59:  CRSTestTool
+13:29:04:  CRS调测工具（研发版）V1.0.2.1
+13:29:14:  钞箱配置
+13:29:24:  取款
+13:29:29:  CRS调测工具（研发版）V1.0.2.1
+13:30:14:  CRSTesttool
+13:30:19:  20210102
+13:30:24:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:30:34:  Decode
+13:30:39:  K64_0000_20210102132929
+13:30:49:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:32:09:  本地磁盘 (E:)
+13:32:14:  meger
+13:32:19:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:32:24:  D:\00-06\meger\Tools\CreateJK.exe
+13:32:39:  Tools
+13:33:39:  CRS调测工具（研发版）V1.0.2.1
+13:33:49:  打开
+13:33:59:  CRSTestTool
+13:34:04:  CRS调测工具（研发版）V1.0.2.1
+13:34:19:  CRSTestTool
+13:34:24:  CRS调测工具（研发版）V1.0.2.1
+13:36:14:  取款
+13:36:19:  可接收
+13:36:24:  取款
+13:36:29:  CRS调测工具（研发版）V1.0.2.1
+13:39:29:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:41:44:  LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101021341.log
+13:41:49:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:42:09:  LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101021341.log
+13:42:14:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:42:29:  LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101021341.log
+13:42:44:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:42:49:  LogExpert #1 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101021341.log
+13:43:04:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+13:44:55:  LogExpert #2 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101021344.log
+13:44:55:  LogExpert #2 - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202101021344.log
+13:45:30:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+14:05:40:  锁屏状态

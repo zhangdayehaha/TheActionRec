@@ -1,0 +1,718 @@
+08:10:31:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:10:36:  DRB工程样机系统测试进展汇报~0714
+08:11:01:  上腔电机
+08:11:06:  fenxi
+08:11:26:  正在从 100元反面反向盘点T20-T40第1729张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B5(1).rar 中提取
+08:11:31:  100元反面反向盘点T20-T40第1729张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B5
+08:11:36:  Decode
+08:11:41:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:12:01:  fenxi
+08:12:06:  捕.PNG - Windows 照片查看器
+08:12:36:  捕获.PNG - Windows 照片查看器
+08:12:41:  锁屏状态
+08:12:46:  Re: TD   Delay状态的缺陷    制定解决计划
+08:14:06:  100元反面反向盘点T20-T40第1729张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B5
+08:14:11:  Box_2__BTCR-1100190803000001_20200714133249.log - DRB.tat* - TextAnalysisTool.NET
+08:14:06:  100元反面反向盘点T20-T40第1729张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B5
+08:14:11:  Box_2__BTCR-1100190803000001_20200714133249.log - DRB.tat* - TextAnalysisTool.NET
+08:18:46:  远程邮箱管理
+08:19:06:  问题日志
+08:20:11:  eSpace
+08:20:16:  荆文波
+08:20:36:  问题日志
+08:24:41:  EXTFEDU6V12.PDF - Adobe Reader
+08:26:46:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+08:26:51:  EXTFEDU6V12.PDF - Adobe Reader
+09:14:32:  《毛泽东选集》湖南农民运动考察报告,毛泽东 - Internet Explorer
+09:14:37:  荆文波
+09:14:42:  Adobe Reader
+09:14:47:  EXTFEDU6V12.PDF - Adobe Reader
+09:14:57:  锁屏状态
+09:14:32:  《毛泽东选集》湖南农民运动考察报告,毛泽东 - Internet Explorer
+09:14:37:  荆文波
+09:14:42:  Adobe Reader
+09:14:47:  EXTFEDU6V12.PDF - Adobe Reader
+09:14:57:  锁屏状态
+09:15:07:  5.12 直流电机测试.pptx - PowerPoint
+09:15:17:  DRB传感器.txt - 记事本
+09:16:42:  EXTFEDU6V12.PDF - Adobe Reader
+09:33:17:  问题日志
+09:33:22:  TestDirector 8.0
+09:33:52:  Defect Details
+09:34:02:  DRB工程样机系统测试
+09:34:07:  系统测试过程数据
+09:34:12:  问题日志
+09:34:22:  Defect Details
+09:34:32:  荆文波
+09:34:42:  问题日志
+09:34:47:  发货钞箱DRB
+09:34:52:  Defect Details
+09:34:57:  5 第3轮整改DRB测试
+09:35:02:  Defect Details
+09:35:07:  DRB-200120600008
+09:35:12:  Excel
+09:35:17:  DRB测试缺陷列表.xlsx  [受保护的视图] - Excel
+09:36:17:  发货钞箱DRB
+09:36:37:  5 第3轮整改DRB测试
+09:36:42:  DRB-200120600010
+09:36:47:  ID-41-1 5元上腔取款第101张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X864601B5五元钞票进入下腔。
+09:36:52:  DRB-200120600010
+09:37:02:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+09:37:07:  ID-41-1 5元上腔取款第101张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X864601B5五元钞票进入下腔。
+09:37:12:  Decode
+09:37:32:  fenxi
+09:37:37:  LOG
+09:37:42:  Box_1__BTCR-1100190802300001_20200527103316.log - DRB.tat* - TextAnalysisTool.NET
+09:40:27:  K64_BTCR-1100190802300001_20200527103316
+09:40:32:  K64-_BTCR-1100190802300001_20200527103316 - 写邮件
+09:40:37:  发送邮件
+09:49:47:  K64_BTCR-1100190802300001_20200527103316
+09:49:52:  Box_1__BTCR-1100190802300001_20200527103316.log - DRB.tat* - TextAnalysisTool.NET
+09:50:22:  K64_BTCR-1100190802300001_20200527103316
+09:50:27:  Defect Details
+09:50:52:  Error
+09:50:57:  Defect Details
+09:51:07:  荆文波
+09:51:22:  Defect Details
+09:51:37:  荆文波
+09:51:52:  Defect Details
+09:51:57:  荆文波
+09:53:37:  TestDirector 8.0
+09:53:42:  DRB测试缺陷列表.xlsx  [受保护的视图] - Excel
+09:53:47:  5.18 传感器测试v1.1.xlsx - Excel
+09:58:47:  跳转列表
+09:58:52:  荆文波
+09:58:57:  TestDirector 8.0
+09:59:17:  Defect Details
+09:59:27:  荆文波
+09:59:32:  Defect Details
+09:59:42:  Error
+09:59:47:  Defect Details
+09:58:47:  跳转列表
+09:58:52:  荆文波
+09:58:57:  TestDirector 8.0
+09:59:17:  Defect Details
+09:59:27:  荆文波
+09:59:32:  Defect Details
+09:59:42:  Error
+09:59:47:  Defect Details
+10:00:52:  TestDirector 8.0
+10:00:57:  Defect Details
+10:01:02:  荆文波
+10:01:22:  EXTFEDU6V12.PDF - Adobe Reader
+10:03:42:  TestDirector 8.0
+10:03:47:  桌面整理
+10:04:02:  TestDirector 8.0
+10:04:17:  Tdexplorer
+10:04:22:  TestDirector 8.0
+10:04:32:  荆文波
+10:04:37:  Defect Details
+10:04:52:  TestDirector 8.0
+10:05:07:  Defect Details
+10:05:22:  传感器测试 - Everything
+10:05:27:  回复格式 - Everything
+10:05:32:  格式 - Everything
+10:05:52:  正在打开 - Word
+10:05:57:  EXTFEDU6V12.PDF - Adobe Reader
+10:08:52:  TestDirector 8.0
+10:09:07:  Defect Details
+10:09:17:  TD回复格式.docx [兼容模式] - Word
+10:09:47:  Defect Details
+10:09:57:  TestDirector 8.0
+10:10:02:  TD回复格式.docx [兼容模式] - Word
+10:10:12:  Defect Details
+10:15:17:  TestDirector 8.0
+10:15:22:  荆文波
+10:15:27:  EXTFEDU6V12.PDF - Adobe Reader
+10:23:32:  DRB传感器.txt - 记事本
+10:23:47:  EXTFEDU6V12.PDF - Adobe Reader
+10:31:07:  DRB传感器.txt - 记事本
+10:31:12:  EXTFEDU6V12.PDF - Adobe Reader
+10:34:42:  警告
+10:34:47:  库
+10:34:52:  03 TD数据
+10:34:57:  03 TD数据 (未响应)
+10:35:12:  03 TD数据
+10:35:22:  锁屏状态
+10:35:27:  Excel
+10:35:32:  TD缺陷报表 2020年7月第2周-----------本次统计该表20200711.xlsx  [受保护的视图] - Excel
+10:36:17:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:37:57:  DRB传感器.txt - 记事本
+10:38:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:38:12:  5.12 直流电机测试.pptx [只读] - PowerPoint
+10:38:17:  5.12 直流电机测试.pptx - PowerPoint
+10:45:12:  EXTFEDU6V12.PDF - Adobe Reader
+11:04:28:  新标签页 - Google Chrome
+11:04:38:  员工自助 - Google Chrome
+11:04:43:  我的薪酬 - Google Chrome
+11:05:03:  图片
+11:05:08:  计算器
+11:05:38:  我的薪酬 - Google Chrome
+11:06:03:  截图3.PNG - Windows 照片查看器
+11:06:28:  计算器
+11:06:38:  截图3.PNG - Windows 照片查看器
+11:06:58:  「开始」菜单
+11:07:03:  计算器
+11:07:33:  我的薪酬 - Google Chrome
+11:07:43:  《毛泽东选集》湖南农民运动考察报告,毛泽东 - Internet Explorer
+11:07:48:  新北洋OA信息化平台 - Internet Explorer
+11:08:33:  新标签页 - Google Chrome
+11:08:38:  我的薪酬 - Google Chrome
+11:10:13:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:10:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:10:28:  JLink - Cortex-M Error
+11:10:33:  μVision
+11:10:38:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:10:43:  μVision
+11:11:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:12:33:  Toolbox
+11:12:38:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:20:43:  计算器
+11:21:08:  5.12 直流电机测试.pptx [只读] - PowerPoint
+11:23:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:25:48:  5.12 直流电机测试.pptx [只读] - PowerPoint
+11:28:38:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:29:28:  5.12 直流电机测试.pptx [只读] - PowerPoint
+11:28:38:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:29:28:  5.12 直流电机测试.pptx [只读] - PowerPoint
+11:30:18:  5.12 直流电机测试.pptx - PowerPoint
+11:30:48:  5.12 直流电机测试.pptx [只读] - PowerPoint
+11:31:28:  5.12 直流电机测试.pptx - PowerPoint
+11:31:58:  5.12 直流电机测试.pptx [只读] - PowerPoint
+11:32:28:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:32:38:  5.12 直流电机测试.pptx [只读] - PowerPoint
+11:32:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:38:18:  5.12 直流电机测试.pptx [只读] - PowerPoint
+11:42:03:  5.12 直流电机测试.pptx - PowerPoint
+11:43:13:  5.12 直流电机测试.pptx [只读] - PowerPoint
+11:43:58:  TCR调测工具 V3.36
+11:44:03:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:45:23:  锁屏状态
+13:15:34:  新建文本文档.txt - 记事本
+13:15:44:  荆文波
+13:15:54:  Windows 资源管理器
+13:15:59:  192.168.28.2
+13:16:04:  192.168.28.2 (未响应)
+13:16:19:  资料共享
+13:16:24:  荆文波
+13:16:49:  TD回复格式.docx [兼容模式] - Word
+13:16:54:  跳转列表
+13:16:59:  5.12 直流电机测试.pptx [只读] - PowerPoint
+13:17:19:  本地磁盘 (D:)
+13:17:24:  新建文件夹 (2)
+13:17:29:  上腔电机
+13:17:34:  scope_72.png - Windows 照片查看器
+13:17:39:  scope_81.png - Windows 照片查看器
+13:17:44:  scope_85.png - Windows 照片查看器
+13:17:49:  scope_86.png - Windows 照片查看器
+13:18:04:  5.12 直流电机测试.pptx [只读] - PowerPoint
+13:19:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:21:24:  KE06LOG.bat - 快捷方式 (2)
+13:21:29:  荆文波
+13:21:34:  LogExpert
+13:21:44:  荆文波
+13:21:59:  资料共享
+13:22:04:  荆文波
+13:22:09:  正在复制 1 个项目(14.3 MB)
+13:22:14:  fenxi
+13:22:19:  新建文件夹
+13:22:39:  荆文波
+13:22:44:  锁屏状态
+13:22:49:  荆文波
+13:23:59:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:24:24:  锁屏状态
+13:24:29:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007151321.log
+13:25:39:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:29:34:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:34:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:31:19:  5.12 直流电机测试.pptx [只读] - PowerPoint
+13:34:54:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:41:44:  5.12 直流电机测试.pptx [只读] - PowerPoint
+13:45:24:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:45:54:  荆文波
+13:45:59:  LOG
+13:46:14:  100元反面反向盘点T20-T40第1729张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B5.rar - WinRAR (非商业个人版)
+13:46:19:  LOG
+13:46:44:  K64_BTCR-1100190803000001_20200714133249
+13:46:49:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:46:54:  Box_2__BTCR-1100190803000001_20200714133249.log - DRB.tat* - TextAnalysisTool.NET
+13:47:59:  K64_BTCR-1100190803000001_20200714133249
+13:48:04:  K64_BTCR-1100190803000001_20200714150913
+13:48:09:  Box_2__BTCR-1100190803000001_20200714150913.log - DRB.tat* - TextAnalysisTool.NET
+13:48:39:  Box_2__BTCR-1100190803000001_20200714151114.log - DRB.tat* - TextAnalysisTool.NET
+13:48:44:  K64_BTCR-1100190803000001_20200714151223
+13:48:49:  Box_2__BTCR-1100190803000001_20200714151223.log - DRB.tat* - TextAnalysisTool.NET
+13:49:19:  LOG
+13:49:24:  Box_2__BTCR-1100190803000001_20200714152106.log - DRB.tat* - TextAnalysisTool.NET
+13:49:49:  K64_BTCR-1100190803000001_20200714152143
+13:49:54:  Box_2__BTCR-1100190803000001_20200714152143.log - DRB.tat* - TextAnalysisTool.NET
+13:50:54:  LOG
+13:50:59:  Box_2__BTCR-1100190803000001_20200714152506.log - DRB.tat* - TextAnalysisTool.NET
+13:51:14:  LOG
+13:51:24:  Box_2__BTCR-1100190803000001_20200714133210.log - DRB.tat* - TextAnalysisTool.NET
+13:51:29:  K64_BTCR-1100190803000001_20200714132620
+13:51:34:  Box_2__BTCR-1100190803000001_20200714132620.log - DRB.tat* - TextAnalysisTool.NET
+13:51:39:  捕.PNG - Windows 照片查看器
+13:51:49:  100元反面反向盘点T20-T40第1729张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B5
+13:51:54:  新建文件夹
+13:51:59:  LOG
+13:52:09:  K64_BTCR-1100190803000001_20200714132620
+13:52:14:  LOG
+13:52:19:  Box_2__BTCR-1100190803000001_20200714133210.log - DRB.tat* - TextAnalysisTool.NET
+13:52:29:  K64_BTCR-1100190803000001_20200714133249
+13:52:34:  Box_2__BTCR-1100190803000001_20200714133249.log - DRB.tat* - TextAnalysisTool.NET
+13:53:29:  Box_2__BTCR-1100190803000001_20200714150913.log - DRB.tat* - TextAnalysisTool.NET
+13:53:54:  LOG
+13:54:04:  Box_2__BTCR-1100190803000001_20200714151223.log - DRB.tat* - TextAnalysisTool.NET
+13:54:09:  Box_2__BTCR-1100190803000001_20200714152106.log - DRB.tat* - TextAnalysisTool.NET
+13:54:19:  LOG
+13:54:24:  Box_2__BTCR-1100190803000001_20200714152143.log - DRB.tat* - TextAnalysisTool.NET
+13:54:29:  K64_BTCR-1100190803000001_20200714152506
+13:54:34:  LOG
+13:54:44:  K64_BTCR-1100190803000001_20200714153254
+13:54:49:  Box_2__BTCR-1100190803000001_20200714153254.log - DRB.tat* - TextAnalysisTool.NET
+13:54:54:  K64_BTCR-1100190803000001_20200714153709
+13:54:59:  Box_2__BTCR-1100190803000001_20200714153709.log - DRB.tat* - TextAnalysisTool.NET
+13:55:04:  K64_BTCR-1100190803000001_20200714154936
+13:55:09:  Box_2__BTCR-1100190803000001_20200714154936.log - DRB.tat* - TextAnalysisTool.NET
+13:55:14:  K64_BTCR-1100190803000001_20200714155146
+13:55:19:  Box_2__BTCR-1100190803000001_20200714155146.log - DRB.tat* - TextAnalysisTool.NET
+13:55:24:  LOG
+13:55:29:  K64_BTCR-1100190803000001_20200714155413
+13:55:34:  Box_2__BTCR-1100190803000001_20200714155413.log - DRB.tat* - TextAnalysisTool.NET
+13:55:39:  Box_2__BTCR-1100190803000001_20200714155458.log - DRB.tat* - TextAnalysisTool.NET
+13:55:49:  K64_BTCR-1100190803000001_20200714155751
+13:55:54:  LOG
+13:55:59:  Box_2__BTCR-1100190803000001_20200714155826.log - DRB.tat* - TextAnalysisTool.NET
+13:56:04:  K64_BTCR-1100190803000001_20200714160008
+13:56:09:  LOG
+13:56:14:  Box_2__BTCR-1100190803000001_20200714160058.log - DRB.tat* - TextAnalysisTool.NET
+13:56:19:  K64_BTCR-1100190803000001_20200714160206
+13:56:29:  Box_2__BTCR-1100190803000001_20200714160206.log - DRB.tat* - TextAnalysisTool.NET
+13:57:49:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:58:39:  跳转列表
+13:58:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:58:49:  Box_2__BTCR-1100190803000001_20200714160206.log - DRB.tat* - TextAnalysisTool.NET
+13:58:54:  K64_BTCR-1100190803000001_20200714160206
+13:59:04:  5.12 直流电机测试.pptx [只读] - PowerPoint
+13:58:39:  跳转列表
+13:58:44:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:58:49:  Box_2__BTCR-1100190803000001_20200714160206.log - DRB.tat* - TextAnalysisTool.NET
+13:58:54:  K64_BTCR-1100190803000001_20200714160206
+13:59:04:  5.12 直流电机测试.pptx [只读] - PowerPoint
+14:01:34:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:03:49:  5.12 直流电机测试.pptx [只读] - PowerPoint
+14:05:14:  计算器
+14:07:29:  锁屏状态
+14:07:34:  计算器
+14:07:54:  K64_BTCR-1100190803000001_20200714160206
+14:07:59:  K64_BTCR-1100190803000001_20200714160206 (未响应)
+14:08:19:  06 固件日报
+14:08:39:  网络错误
+14:08:59:  06 固件日报
+14:09:04:  运行
+14:10:14:  问题日志
+14:10:19:  问题日志 (未响应)
+14:10:35:  42 CRS现金循环模块
+14:10:40:  1T1-Stop-Length
+14:10:45:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+14:10:50:  PaperManage.c - TortoiseMerge
+14:11:05:  State.c - TortoiseMerge
+14:11:15:  Track.c - TortoiseMerge
+14:11:30:  TortoiseMerge
+14:11:35:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+14:11:40:  Tools
+14:12:05:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:12:45:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:12:50:  untitled (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:12:55:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:13:25:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:13:55:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:00:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:10:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:20:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:25:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:30:  trunk
+14:14:35:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+14:14:40:  State.c - TortoiseMerge
+14:14:45:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:55:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+14:15:00:  State.c - TortoiseMerge
+14:14:10:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:20:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:25:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:30:  trunk
+14:14:35:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+14:14:40:  State.c - TortoiseMerge
+14:14:45:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:55:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+14:15:00:  State.c - TortoiseMerge
+14:15:05:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:15:10:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:15:35:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:15:50:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:16:00:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:16:40:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:16:45:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:16:50:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:17:00:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:17:05:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:17:20:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:17:35:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:17:45:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:17:55:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:18:10:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:18:15:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:18:25:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:18:40:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:18:45:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:19:15:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:19:25:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:19:30:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:19:50:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:19:55:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\PlateCtrl.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:20:00:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:20:05:  D:\00-06\DRB-PRESS\Middlewares\Plate\PlateCommon.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:20:10:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:20:25:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:21:35:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:21:45:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:21:50:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:23:05:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:23:30:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:23:35:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:24:25:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:24:40:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:24:45:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:24:55:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:26:15:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:26:20:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:26:25:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:30:05:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:30:25:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:30:40:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:31:05:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:31:10:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:31:15:  D:\00-06\DRB-PRESS\Applications\MemoryConfig.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:31:25:  D:\00-06\DRB-PRESS\Applications\MemoryConfig.h • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:31:40:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:31:50:  D:\00-06\DRB-PRESS\Applications\MemoryConfig.h • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:31:55:  D:\00-06\DRB-PRESS\Applications\MemoryConfig.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:32:05:  D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:32:20:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:32:35:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:35:40:  00-06
+14:35:45:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+14:35:50:  Tools
+14:35:55:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V11_MAIN_T99 - 写邮件
+14:36:55:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V11_MAIN_T99 - 写邮件   14:36:52 已保存
+14:37:55:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V11_MAIN_T99 - 写邮件   14:37:52 已保存
+14:38:55:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V11_MAIN_T99 - 写邮件   14:38:52 已保存
+14:39:15:  压板测试 - 写邮件   14:38:52 已保存
+14:39:20:  Tools
+14:39:25:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:39:30:  5.12 直流电机测试.pptx [只读] - PowerPoint
+14:39:40:  计算器
+14:39:45:  5.12 直流电机测试.pptx [只读] - PowerPoint
+14:41:50:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:42:35:  自动播放
+14:44:20:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:44:20:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:45:20:  跳转列表
+14:45:30:  KE06LOG.bat - 快捷方式 (2)
+14:45:35:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:45:45:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007151321.log
+14:46:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:48:10:  5.12 直流电机测试.pptx [只读] - PowerPoint
+14:49:55:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:52:40:  ErrCode_list_txt_flg.txt - 记事本
+14:52:45:  查找
+14:53:15:  ErrCode_list_txt_flg.txt - 记事本
+14:53:20:  TCR调测工具 V3.36
+14:53:25:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:55:15:  5.12 直流电机测试.pptx [只读] - PowerPoint
+15:00:15:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:01:45:  5.12 直流电机测试.pptx [只读] - PowerPoint
+15:03:50:  Tools
+15:04:00:  100元反面反向盘点T20-T40第1729张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B5
+15:04:05:  K64_BTCR-1100190803000001_20200714133249
+15:04:10:  Box_2__BTCR-1100190803000001_20200714133249.log - DRB.tat* - TextAnalysisTool.NET
+15:04:40:  fenxi
+15:04:45:  LOG
+15:04:50:  K64_BTCR-1100190803000001_20200714133249
+15:04:55:  Box_2__BTCR-1100190803000001_20200714133249.log - DRB.tat* - TextAnalysisTool.NET
+15:07:45:  荆文波
+15:13:05:  问题日志
+15:13:10:  K64_BTCR-1100190803000001_20200714133249
+15:13:20:  42 CRS现金循环模块
+15:15:00:  荆文波
+15:15:00:  荆文波
+15:16:00:  初始化报错
+15:16:10:  「开始」菜单
+15:16:15:  计算器
+15:16:35:  DRB传感器.txt - 记事本
+15:16:40:  桌面整理
+15:16:45:  查找
+15:16:55:  初始化报错
+15:17:00:  查找
+15:17:20:  ErrCode_list_txt_flg.txt - 记事本
+15:17:30:  DRB传感器.txt - 记事本
+15:17:40:  查找
+15:17:45:  荆文波
+15:18:00:  初始化报错
+15:18:40:  荆文波
+15:18:50:  初始化报错
+15:19:05:  DRB传感器.txt - 记事本
+15:19:20:  初始化报错
+15:22:10:  查找
+15:22:15:  荆文波
+15:22:50:  5.12 直流电机测试.pptx - PowerPoint
+15:23:05:  EXTFEDU6V12.PDF - Adobe Reader
+15:23:10:  42 CRS现金循环模块
+15:23:20:  新建文件夹 (2)
+15:23:25:  新建文件夹 (2) (未响应)
+15:23:45:  新建文件夹 (2)
+15:23:55:  威海新北洋 (G:)
+15:24:15:  正在移动 38 个项目(1.84 MB)
+15:24:20:  下腔电机
+15:26:40:  本地磁盘 (D:)
+15:26:45:  fenxi
+15:27:35:  上腔电机
+15:27:40:  下腔电机
+15:27:50:  42 CRS现金循环模块
+15:27:55:  固件集成测试方案
+15:28:00:  钞箱集成测试方案-报告
+15:28:06:  上腔电机
+15:28:16:  5.12 直流电机测试.pptx - PowerPoint
+15:28:21:  跳转列表
+15:28:31:  scope_111.png - Windows 照片查看器
+15:28:36:  scope_112.png - Windows 照片查看器
+15:28:46:  5.12 直流电机测试.pptx - PowerPoint
+15:28:51:  插入图片
+15:28:56:  5.12 直流电机测试.pptx - PowerPoint
+15:29:06:  插入图片
+15:29:21:  scope_113.png - Windows 照片查看器
+15:29:31:  5.12 直流电机测试.pptx - PowerPoint
+15:29:36:  scope_113.png - Windows 照片查看器
+15:29:41:  插入图片
+15:29:46:  5.12 直流电机测试.pptx - PowerPoint
+15:29:51:  插入图片
+15:29:56:  5.12 直流电机测试.pptx - PowerPoint
+15:28:06:  上腔电机
+15:28:16:  5.12 直流电机测试.pptx - PowerPoint
+15:28:21:  跳转列表
+15:28:31:  scope_111.png - Windows 照片查看器
+15:28:36:  scope_112.png - Windows 照片查看器
+15:28:46:  5.12 直流电机测试.pptx - PowerPoint
+15:28:51:  插入图片
+15:28:56:  5.12 直流电机测试.pptx - PowerPoint
+15:29:06:  插入图片
+15:29:21:  scope_113.png - Windows 照片查看器
+15:29:31:  5.12 直流电机测试.pptx - PowerPoint
+15:29:36:  scope_113.png - Windows 照片查看器
+15:29:41:  插入图片
+15:29:46:  5.12 直流电机测试.pptx - PowerPoint
+15:29:51:  插入图片
+15:29:56:  5.12 直流电机测试.pptx - PowerPoint
+15:30:16:  插入图片
+15:30:21:  5.12 直流电机测试.pptx - PowerPoint
+15:31:01:  scope_116.png - Windows 照片查看器
+15:31:06:  锁屏状态
+15:31:11:  5.12 直流电机测试.pptx - PowerPoint
+15:31:36:  scope_117.png - Windows 照片查看器
+15:31:46:  插入图片
+15:31:51:  scope_118.png - Windows 照片查看器
+15:32:01:  5.12 直流电机测试.pptx - PowerPoint
+15:32:06:  scope_118.png - Windows 照片查看器
+15:32:11:  5.12 直流电机测试.pptx - PowerPoint
+15:32:31:  scope_118.png - Windows 照片查看器
+15:32:36:  scope_121.png - Windows 照片查看器
+15:32:41:  插入图片
+15:32:46:  5.12 直流电机测试.pptx - PowerPoint
+15:32:51:  scope_120.png - Windows 照片查看器
+15:32:56:  scope_122.png - Windows 照片查看器
+15:33:01:  5.12 直流电机测试.pptx - PowerPoint
+15:33:06:  scope_123.png - Windows 照片查看器
+15:33:16:  锁屏状态
+15:33:21:  scope_123.png - Windows 照片查看器
+15:33:26:  插入图片
+15:33:31:  scope_124.png - Windows 照片查看器
+15:33:36:  5.12 直流电机测试.pptx - PowerPoint
+15:33:41:  scope_125.png - Windows 照片查看器
+15:33:51:  插入图片
+15:33:56:  5.12 直流电机测试.pptx - PowerPoint
+15:34:06:  scope_126.png - Windows 照片查看器
+15:34:11:  scope_127.png - Windows 照片查看器
+15:34:16:  插入图片
+15:34:21:  5.12 直流电机测试.pptx - PowerPoint
+15:34:46:  scope_127.png - Windows 照片查看器
+15:34:51:  5.12 直流电机测试.pptx - PowerPoint
+15:35:06:  荆文波
+15:35:56:  scope_128.png - Windows 照片查看器
+15:36:01:  荆文波
+15:36:26:  scope_128.png - Windows 照片查看器
+15:36:41:  5.12 直流电机测试.pptx - PowerPoint
+15:36:46:  scope_130.png - Windows 照片查看器
+15:36:51:  scope_131.png - Windows 照片查看器
+15:36:56:  scope_125.png - Windows 照片查看器
+15:37:01:  插入图片
+15:37:06:  荆文波
+15:37:36:  scope_131.png - Windows 照片查看器
+15:37:41:  插入图片
+15:37:46:  5.12 直流电机测试.pptx - PowerPoint
+15:38:21:  scope_133.png - Windows 照片查看器
+15:38:31:  插入图片
+15:38:36:  荆文波
+15:38:41:  DRB传感器.txt - 记事本
+15:38:46:  荆文波
+15:39:51:  锁屏状态
+15:39:56:  荆文波
+15:41:41:  锁屏状态
+15:41:46:  荆文波
+15:42:41:  5.12 直流电机测试.pptx - PowerPoint
+15:42:46:  计算器
+15:42:56:  5.12 直流电机测试.pptx - PowerPoint
+15:43:06:  scope_135.png - Windows 照片查看器
+15:43:11:  scope_133.png - Windows 照片查看器
+15:43:16:  scope_135.png - Windows 照片查看器
+15:43:31:  5.12 直流电机测试.pptx - PowerPoint
+15:44:01:  scope_136.png - Windows 照片查看器
+15:44:06:  scope_137.png - Windows 照片查看器
+15:44:16:  插入图片
+15:44:21:  scope_137.png - Windows 照片查看器
+15:44:26:  scope_140.png - Windows 照片查看器
+15:44:31:  scope_139.png - Windows 照片查看器
+15:44:36:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:44:41:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+15:44:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:44:06:  scope_137.png - Windows 照片查看器
+15:44:16:  插入图片
+15:44:21:  scope_137.png - Windows 照片查看器
+15:44:26:  scope_140.png - Windows 照片查看器
+15:44:31:  scope_139.png - Windows 照片查看器
+15:44:36:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:44:41:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+15:44:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:45:36:  荆文波
+15:46:06:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:47:26:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007151445.log
+15:47:56:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:48:01:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007151445.log
+15:48:06:  5.12 直流电机测试.pptx - PowerPoint
+15:48:31:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:49:11:  KE06LOG.bat - 快捷方式 (2)
+15:49:16:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:49:36:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007151445.log
+15:49:56:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:51:56:  荆文波
+15:52:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:53:06:  5.12 直流电机测试.pptx - PowerPoint
+15:53:36:  荆文波
+15:53:41:  5.12 直流电机测试.pptx - PowerPoint
+15:58:06:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:58:06:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:04:06:  新建文件夹 (2)
+16:09:41:  5.12 直流电机测试.pptx - PowerPoint
+16:09:46:  scope_141.png - Windows 照片查看器
+16:09:56:  scope_140.png - Windows 照片查看器
+16:10:01:  5.12 直流电机测试.pptx - PowerPoint
+16:10:16:  插入图片
+16:10:21:  scope_140.png - Windows 照片查看器
+16:10:26:  5.12 直流电机测试.pptx - PowerPoint
+16:10:41:  scope_140.png - Windows 照片查看器
+16:10:46:  scope_144.png - Windows 照片查看器
+16:11:06:  插入图片
+16:11:11:  5.12 直流电机测试.pptx - PowerPoint
+16:11:16:  插入图片
+16:11:21:  5.12 直流电机测试.pptx - PowerPoint
+16:11:41:  scope_146.png - Windows 照片查看器
+16:11:51:  5.12 直流电机测试.pptx - PowerPoint
+16:11:56:  插入图片
+16:12:01:  scope_146.png - Windows 照片查看器
+16:12:06:  5.12 直流电机测试.pptx - PowerPoint
+16:12:11:  插入图片
+16:12:16:  5.12 直流电机测试.pptx - PowerPoint
+16:14:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:14:11:  5.12 直流电机测试.pptx - PowerPoint
+16:14:16:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:14:11:  5.12 直流电机测试.pptx - PowerPoint
+16:14:16:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:20:11:  下腔电机
+16:20:16:  威海新北洋 (G:)
+16:20:21:  scope_111.png - Windows 照片查看器
+16:20:26:  本地磁盘 (D:)
+16:20:31:  桌面
+16:20:36:  新建文件夹 (2)
+16:20:41:  复制文件
+16:20:46:  下腔电机
+16:20:51:  删除多个项目
+16:20:56:  新建文件夹
+16:21:01:  scope_111.png - Windows 照片查看器
+16:21:06:  scope_112.png - Windows 照片查看器
+16:21:11:  scope_113.png - Windows 照片查看器
+16:21:16:  锁屏状态
+16:21:21:  5.12 直流电机测试.pptx - PowerPoint
+16:21:36:  插入图片
+16:21:41:  5.12 直流电机测试.pptx - PowerPoint
+16:22:36:  scope_113.png - Windows 照片查看器
+16:22:46:  scope_114.png - Windows 照片查看器
+16:22:51:  scope_113.png - Windows 照片查看器
+16:22:56:  5.12 直流电机测试.pptx - PowerPoint
+16:23:06:  scope_114.png - Windows 照片查看器
+16:23:11:  scope_115.png - Windows 照片查看器
+16:23:16:  scope_116.png - Windows 照片查看器
+16:23:21:  scope_118.png - Windows 照片查看器
+16:23:26:  scope_117.png - Windows 照片查看器
+16:23:31:  插入图片
+16:23:36:  5.12 直流电机测试.pptx - PowerPoint
+16:25:36:  TCR调测工具 V3.36
+16:26:51:  钞箱 - Everything
+16:26:56:  钞箱资料
+16:27:06:  钞箱资料 (未响应)
+16:27:11:  新建文本文档.exe - 快捷方式
+16:27:16:  EXTFEDU6V12.PDF - Adobe Reader
+16:27:21:  EXTFEDUV21_1t1.PDF - Adobe Reader
+16:31:21:  DRB传感器.txt - 记事本
+16:31:36:  TCR调测工具 V3.36
+16:31:41:  钞箱传感器
+16:31:51:  TCR调测工具 V3.36
+16:32:11:  钞箱传感器
+16:32:16:  TCR调测工具 V3.36
+16:32:21:  DRB传感器.txt - 记事本
+16:32:26:  TCR调测工具 V3.36
+16:32:56:  选择文件夹
+16:33:06:  untitled (trunk) - Sublime Text (UNREGISTERED)
+16:33:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:33:16:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+16:33:21:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:33:36:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+16:33:46:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+16:33:51:  D:\00-06\1T1-Stop-Length\trunk\Drivers\SensorDriver\SensorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+16:33:56:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+16:35:11:  锁屏状态
+16:35:16:  钞箱传感器
+16:35:21:  TCR调测工具 V3.36
+16:36:01:  D:\00-06\1T1-Stop-Length\trunk\Drivers\SensorDriver\SensorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+16:36:11:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+16:36:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:36:36:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+16:36:41:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+16:37:06:  TCR调测工具 V3.36
+16:37:21:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+16:37:41:  D:\00-06\1T1-Stop-Length\trunk\Drivers\SensorDriver\SensorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+16:37:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+16:37:56:  DRB传感器.txt - 记事本
+16:38:01:  TCR调测工具 V3.36
+16:38:46:  钞箱传感器
+16:38:51:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+16:38:56:  DRB传感器.txt - 记事本
+16:39:06:  TCR调测工具 V3.36
+16:41:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:41:06:  00-06
+16:41:11:  SECSplashWnd
+16:41:16:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:42:16:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.c (trunk) - Sublime Text (UNREGISTERED)
+16:42:21:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+17:07:07:  μVision
+17:07:17:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+17:09:02:  锁屏状态

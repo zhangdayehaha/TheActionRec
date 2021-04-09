@@ -1,0 +1,366 @@
+13:06:46:  速度测试10元反向盘点报通道传输过程中卡钞 钞票残留  返回码0X874604BA
+13:06:56:  锁屏状态
+13:07:01:  速度测试10元反向盘点报通道传输过程中卡钞 钞票残留  返回码0X874604BA
+13:07:16:  上腔托板
+13:07:21:  本地磁盘 (D:)
+13:07:26:  fenxi
+13:07:36:  回收
+13:07:41:  桌面整理
+13:07:51:  fenxi
+13:07:56:  速度测试10元反向盘点报通道传输过程中卡钞 钞票残留  返回码0X874604BA
+13:08:06:  Decode
+13:08:11:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:08:16:  Decode
+13:08:21:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:08:26:  ● CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:08:36:  CashGateModuleApp.h - trunk - Visual Studio Code [管理员]
+13:08:46:  ● CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:08:51:  LOG
+13:08:56:  K64_0000_20200713162127
+13:09:01:  Box_2__0000_20200713161715.log - DRB.tat* - TextAnalysisTool.NET
+13:09:16:  K64_0000_20200713162423
+13:09:21:  速度测试10元反向盘点报通道传输过程中卡钞 钞票残留  返回码0X874604BA
+13:09:26:  速度测试10元反向盘点第346张报通道传输过程中卡钞 钞票残留  返回码0X874604BA，出钞过程中，出钞不顺（多次出现497间距），打开后通道发现1张纸币在拨叉处，纸币倾斜（EC982
+13:09:31:  回收 
+13:09:36:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:09:41:  LOG
+13:09:46:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+13:09:51:  速度测试10元反向盘点第346张报通道传输过程中卡钞 钞票残留  返回码0X874604BA，出钞过程中，出钞不顺（多次出现497间距），打开后通道发现1张纸币在拨叉处，纸币倾斜（EC982
+13:09:56:  速度测试10元反向盘点第346张报通道传输过程中卡钞 钞票残留  返回码0X874604BA，出钞过程中，出钞不顺（多次出现497间距），打开后通道发现1张纸币在拨叉处，纸币倾斜（EC982
+13:10:01:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:10:06:  锁屏状态
+13:10:11:  192.168.28.228:7108/default.asp - Google Chrome
+13:10:16:  班车管理系统 - Google Chrome
+13:10:21:  班车管理系统 [新北洋集团] - Google Chrome
+13:10:26:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:11:11:  跳转列表
+13:11:32:  LOG
+13:11:47:  K64_0000_20200713163148
+13:12:32:  Box_2__0000_20200713163148.log - DRB.tat* - TextAnalysisTool.NET
+13:12:47:  Decode
+13:12:57:  Box_1__0000_20200713133539.log - DRB.tat* - TextAnalysisTool.NET
+13:13:32:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:13:42:  eSpace
+13:13:52:  荆文波
+13:14:02:  本地磁盘 (D:)
+13:14:07:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:14:07:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:26:22:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+13:29:28:  ● CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:29:38:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:29:43:  CashGateModuleApp.h - trunk - Visual Studio Code [管理员]
+13:29:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:29:58:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+13:29:28:  ● CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:29:38:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:29:43:  CashGateModuleApp.h - trunk - Visual Studio Code [管理员]
+13:29:48:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:29:58:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+13:30:08:  eSpace
+13:30:13:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+13:30:23:  桌面整理
+13:30:28:  新建文件夹 (2)
+13:30:33:  新建文件夹 (2) (未响应)
+13:30:54:  新建文件夹 (2)
+13:31:09:  上腔托板
+13:31:14:  正在打开 - PowerPoint
+13:31:19:  Windows Installer
+13:31:44:  于斌1
+13:31:54:  5.6 步进电机测试.pptx - PowerPoint
+13:32:45:  于斌1
+13:32:50:  5.6 步进电机测试.pptx - PowerPoint
+13:36:45:  本地磁盘 (D:)
+13:36:50:  D:\00-KE64\trunk\Tools\CreateJK.exe
+13:36:55:  Tools
+13:37:00:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件
+13:38:00:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T93 - 写邮件   13:37:58 已保存
+13:38:10:  发送邮件
+13:38:15:  Tools
+13:38:20:  06 固件日报
+13:38:25:  钞箱1T2集成测试方案
+13:38:30:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+13:43:50:  5.6 步进电机测试.pptx - PowerPoint
+13:43:55:  新建文件夹 (2)
+13:44:00:  新建文件夹 (2) (未响应)
+13:44:20:  新建文件夹 (2)
+13:44:20:  新建文件夹 (2)
+13:45:10:  上腔电机
+13:45:20:  5.12 直流电机测试.pptx - PowerPoint
+13:46:35:  「开始」菜单
+13:46:40:  计算器
+13:47:10:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:48:00:  5.12 直流电机测试.pptx - PowerPoint
+13:50:55:  DRB传感器.txt - 记事本
+13:51:00:  EXTFEDU6V12.PDF - Adobe Reader
+13:51:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:52:45:  EXTFEDU6V12.PDF - Adobe Reader
+13:53:55:  D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision
+13:54:05:  EXTFEDU6V12.PDF - Adobe Reader
+13:54:10:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:58:05:  5.12 直流电机测试.pptx - PowerPoint
+13:59:25:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:58:05:  5.12 直流电机测试.pptx - PowerPoint
+13:59:25:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:01:40:  EXTFEDU6V12.PDF - Adobe Reader
+14:05:15:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:09:25:  锁屏状态
+14:09:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:14:00:  5.12 直流电机测试.pptx - PowerPoint
+14:17:05:  计算器
+14:24:25:  5.12 直流电机测试.pptx - PowerPoint
+14:24:30:  本地磁盘 (D:)
+14:24:40:  本地磁盘 (D:) (未响应)
+14:24:50:  更改后ESBM1.BMP - Windows 照片查看器
+14:24:55:  威海新北洋 (G:)
+14:25:05:  5.12 直流电机测试.pptx - PowerPoint
+14:25:45:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:27:20:  5.12 直流电机测试.pptx - PowerPoint
+14:30:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:31:15:  5.12 直流电机测试.pptx - PowerPoint
+14:32:10:  上腔电机
+14:32:20:  scope_65.png - Windows 照片查看器
+14:32:25:  威海新北洋 (G:)
+14:32:40:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:33:15:  计算器
+14:33:20:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:33:50:  Windows 照片查看器
+14:37:35:  上腔托板
+14:37:45:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:38:50:  5.12 直流电机测试.pptx - PowerPoint
+14:42:20:  回复: 速度测试10元反向盘点报通道传输过程中卡钞 钞票残留  返回码0X874604BA
+14:42:55:  5.12 直流电机测试.pptx - PowerPoint
+14:45:05:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:45:10:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:46:00:  5.12 直流电机测试.pptx - PowerPoint
+14:46:10:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:46:25:  KE06LOG.bat - 快捷方式 (2)
+14:46:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:46:40:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007141446.log
+14:46:50:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:47:00:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007141446.log
+14:47:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:48:30:  5.12 直流电机测试.pptx - PowerPoint
+14:55:16:  本地磁盘 (D:)
+14:55:21:  fenxi
+14:55:26:  100元反面反向盘点T20-T40第1729张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B5
+14:55:36:  Decode
+14:55:41:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:57:01:  Decode
+14:57:16:  Box_1__0000_20200713133539.log - DRB.tat* - TextAnalysisTool.NET
+14:57:21:  Box_2__BTCR-1100190803000001_20200714133249.log - DRB.tat* - TextAnalysisTool.NET
+14:57:56:  Box_2__BTCR-1100190803000001_20200714133210.log - DRB.tat* - TextAnalysisTool.NET
+14:58:01:  LOG
+14:58:06:  Box_2__BTCR-1100190803000001_20200714132620.log - DRB.tat* - TextAnalysisTool.NET
+14:58:16:  荆文波
+14:59:36:  固件集成测试方案
+14:59:41:  正在打开 - 5.12 直流电机测试.pptx - PowerPoint
+14:59:46:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+14:58:06:  Box_2__BTCR-1100190803000001_20200714132620.log - DRB.tat* - TextAnalysisTool.NET
+14:58:16:  荆文波
+14:59:36:  固件集成测试方案
+14:59:41:  正在打开 - 5.12 直流电机测试.pptx - PowerPoint
+14:59:46:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+15:01:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:01:56:  荆文波
+15:02:01:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+15:03:06:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:04:41:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+15:04:51:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:05:36:  荆文波
+15:08:06:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:13:16:  锁屏状态
+15:13:21:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+15:15:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:16:51:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+15:17:26:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007141446.log
+15:17:36:  计算器
+15:22:21:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+15:23:36:  计算器
+15:24:11:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007141446.log
+15:24:26:  计算器
+15:24:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:25:26:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+15:25:41:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:26:11:  荆文波
+15:26:41:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+15:27:16:  荆文波
+15:28:01:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+15:34:51:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:38:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007141446.log
+15:39:26:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007141537.log
+15:40:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:40:26:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007141537.log
+15:41:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:41:46:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007141537.log
+15:42:06:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:45:16:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+15:45:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:48:11:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007141537.log
+15:48:21:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:48:36:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007141548.log
+15:49:21:  自动播放
+15:49:31:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007141548.log
+15:49:51:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+15:54:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:56:16:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007141548.log
+15:56:21:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:59:21:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+15:59:36:  100元反面反向盘点T20-T40第1729张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B5
+15:59:41:  计算机
+16:00:01:  威海新北洋 (G:)
+15:59:21:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+15:59:36:  100元反面反向盘点T20-T40第1729张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B5
+15:59:41:  计算机
+16:00:01:  威海新北洋 (G:)
+16:00:06:  上腔电机
+16:00:11:  scope_65.png - Windows 照片查看器
+16:00:21:  scope_66.png - Windows 照片查看器
+16:00:26:  scope_67.png - Windows 照片查看器
+16:00:31:  scope_68.png - Windows 照片查看器
+16:00:36:  scope_69.png - Windows 照片查看器
+16:00:46:  scope_73.png - Windows 照片查看器
+16:01:01:  5.12 直流电机测试.pptx - PowerPoint
+16:01:11:  插入图片
+16:01:21:  scope_72.png - Windows 照片查看器
+16:01:26:  scope_66.png - Windows 照片查看器
+16:01:31:  scope_68.png - Windows 照片查看器
+16:01:36:  5.12 直流电机测试.pptx - PowerPoint
+16:01:51:  插入图片
+16:01:56:  5.12 直流电机测试.pptx - PowerPoint
+16:02:16:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+16:02:56:  scope_70.png - Windows 照片查看器
+16:03:01:  scope_73.png - Windows 照片查看器
+16:03:16:  5.12 直流电机测试.pptx - PowerPoint
+16:03:41:  scope_73.png - Windows 照片查看器
+16:03:46:  scope_74.png - Windows 照片查看器
+16:04:01:  scope_76.png - Windows 照片查看器
+16:04:11:  scope_74.png - Windows 照片查看器
+16:04:21:  scope_73.png - Windows 照片查看器
+16:04:26:  scope_74.png - Windows 照片查看器
+16:04:41:  scope_75.png - Windows 照片查看器
+16:04:56:  插入图片
+16:05:01:  5.12 直流电机测试.pptx - PowerPoint
+16:05:41:  插入图片
+16:05:46:  5.12 直流电机测试.pptx - PowerPoint
+16:07:01:  scope_77.png - Windows 照片查看器
+16:07:06:  5.12 直流电机测试.pptx - PowerPoint
+16:07:26:  插入图片
+16:07:31:  5.12 直流电机测试.pptx - PowerPoint
+16:07:41:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:09:31:  5.12 直流电机测试.pptx - PowerPoint
+16:10:16:  scope_77.png - Windows 照片查看器
+16:10:21:  scope_78.png - Windows 照片查看器
+16:10:26:  scope_79.png - Windows 照片查看器
+16:10:41:  scope_78.png - Windows 照片查看器
+16:11:36:  5.12 直流电机测试.pptx - PowerPoint
+16:11:41:  5.12 直流电机测试.pptx - PowerPoint (未响应)
+16:11:46:  5.12 直流电机测试.pptx - PowerPoint
+16:12:16:  scope_78.png - Windows 照片查看器
+16:12:21:  scope_80.png - Windows 照片查看器
+16:12:26:  锁屏状态
+16:12:31:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:13:11:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+16:14:46:  scope_80.png - Windows 照片查看器
+16:14:46:  scope_80.png - Windows 照片查看器
+16:15:26:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+16:15:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:16:51:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+16:19:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:22:46:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+16:23:11:  计算机
+16:23:21:  上腔电机
+16:23:26:  威海新北洋 (G:)
+16:23:31:  scope_101.png - Windows 照片查看器
+16:23:36:  5.12 直流电机测试.pptx - PowerPoint
+16:24:46:  插入图片
+16:24:56:  5.12 直流电机测试.pptx - PowerPoint
+16:31:06:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+16:31:26:  5.12 直流电机测试.pptx - PowerPoint
+16:31:31:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+16:31:41:  5.12 直流电机测试.pptx - PowerPoint
+16:32:01:  scope_101.png - Windows 照片查看器
+16:32:06:  scope_104.png - Windows 照片查看器
+16:32:11:  scope_107.png - Windows 照片查看器
+16:32:16:  5.12 直流电机测试.pptx [受保护的视图] - PowerPoint
+16:32:21:  5.12 直流电机测试.pptx - PowerPoint
+16:33:01:  scope_80.png - Windows 照片查看器
+16:33:21:  scope_78.png - Windows 照片查看器
+16:33:31:  插入图片
+16:33:36:  5.12 直流电机测试.pptx - PowerPoint
+16:34:11:  scope_103.png - Windows 照片查看器
+16:34:16:  scope_104.png - Windows 照片查看器
+16:34:21:  5.12 直流电机测试.pptx - PowerPoint
+16:34:26:  插入图片
+16:34:31:  5.12 直流电机测试.pptx - PowerPoint
+16:34:46:  插入图片
+16:34:51:  scope_103.png - Windows 照片查看器
+16:34:56:  5.12 直流电机测试.pptx - PowerPoint
+16:47:47:  scope_103.png - Windows 照片查看器
+16:47:52:  scope_105.png - Windows 照片查看器
+16:47:57:  5.12 直流电机测试.pptx - PowerPoint
+16:48:02:  scope_105.png - Windows 照片查看器
+16:48:07:  5.12 直流电机测试.pptx - PowerPoint
+16:48:32:  插入图片
+16:48:37:  5.12 直流电机测试.pptx - PowerPoint
+16:48:52:  scope_106.png - Windows 照片查看器
+16:48:57:  插入图片
+16:49:02:  5.12 直流电机测试.pptx - PowerPoint
+16:49:22:  scope_107.png - Windows 照片查看器
+16:49:32:  5.12 直流电机测试.pptx - PowerPoint
+16:49:57:  替换
+16:50:07:  5.12 直流电机测试.pptx - PowerPoint
+16:50:27:  5.12 直流电机测试.pptx [只读] - PowerPoint
+16:50:42:  5.12 直流电机测试.pptx - PowerPoint
+16:50:47:  scope_78.png - Windows 照片查看器
+16:50:52:  scope_84.png - Windows 照片查看器
+16:50:57:  scope_85.png - Windows 照片查看器
+16:51:07:  scope_86.png - Windows 照片查看器
+16:51:27:  scope_85.png - Windows 照片查看器
+16:51:32:  scope_87.png - Windows 照片查看器
+16:51:42:  scope_85.png - Windows 照片查看器
+16:51:47:  scope_87.png - Windows 照片查看器
+16:51:57:  插入图片
+16:52:07:  5.12 直流电机测试.pptx - PowerPoint
+16:52:22:  锁屏状态
+16:52:27:  scope_88.png - Windows 照片查看器
+16:52:32:  插入图片
+16:52:37:  5.12 直流电机测试.pptx - PowerPoint
+16:52:47:  scope_88.png - Windows 照片查看器
+16:52:52:  scope_90.png - Windows 照片查看器
+16:52:57:  插入图片
+16:53:02:  5.12 直流电机测试.pptx - PowerPoint
+16:53:37:  插入图片
+16:53:42:  5.12 直流电机测试.pptx - PowerPoint
+16:53:52:  scope_91.png - Windows 照片查看器
+16:53:57:  5.12 直流电机测试.pptx - PowerPoint
+16:54:02:  插入图片
+16:54:07:  5.12 直流电机测试.pptx - PowerPoint
+16:54:37:  scope_95.png - Windows 照片查看器
+16:54:42:  插入图片
+16:54:47:  5.12 直流电机测试.pptx - PowerPoint
+16:55:27:  scope_96.png - Windows 照片查看器
+16:55:37:  插入图片
+16:55:42:  scope_96.png - Windows 照片查看器
+16:55:47:  5.12 直流电机测试.pptx - PowerPoint
+16:55:57:  scope_97.png - Windows 照片查看器
+16:56:12:  5.12 直流电机测试.pptx - PowerPoint
+16:56:17:  插入图片
+16:56:22:  5.12 直流电机测试.pptx - PowerPoint
+17:04:37:  scope_98.png - Windows 照片查看器
+17:04:52:  scope_65.png - Windows 照片查看器
+17:04:57:  scope_100.png - Windows 照片查看器
+17:05:02:  5.12 直流电机测试.pptx - PowerPoint
+17:05:12:  冯斌
+17:05:17:  5.12 直流电机测试.pptx - PowerPoint
+17:05:22:  scope_100.png - Windows 照片查看器
+17:05:27:  scope_99.png - Windows 照片查看器
+17:05:32:  插入图片
+17:05:37:  5.12 直流电机测试.pptx - PowerPoint
+17:05:57:  scope_99.png - Windows 照片查看器
+17:06:02:  scope_100.png - Windows 照片查看器
+17:06:17:  5.12 直流电机测试.pptx - PowerPoint
+17:08:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:08:17:  μVision
+17:08:32:  Toolbox
+17:08:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:09:02:  锁屏状态

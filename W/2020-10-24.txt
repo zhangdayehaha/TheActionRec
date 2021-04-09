@@ -1,0 +1,954 @@
+08:07:16:  邮储招标DRB样机（2台）发货测试~2020.10.23
+08:08:07:  锁屏状态
+08:08:12:  运行
+08:08:22:  正在打开 - Excel
+08:08:32:  周报及工作日志.xlsx  [受保护的视图] - Excel
+08:09:02:  Decode
+08:09:07:  00-06
+08:09:32:  1T1-82
+08:09:37:  文档
+08:09:42:  本地磁盘 (D:)
+08:09:47:  本地磁盘 (E:)
+08:09:52:  00-06
+08:10:07:  本地磁盘 (D:)
+08:10:42:  eSpace
+08:10:52:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+08:11:07:  ASCII_百度百科 - Google Chrome
+08:11:12:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+08:11:17:  ASCII_百度百科 - Google Chrome
+08:11:42:  计算器
+08:12:02:  锁屏状态
+08:12:07:  计算器
+08:12:22:  ASCII_百度百科 - Google Chrome
+08:12:37:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+08:12:42:  本地磁盘 (D:)
+08:13:12:  日报
+08:13:17:  周报及工作日志.xlsx  [受保护的视图] - Excel
+08:13:27:  文档
+08:13:32:  W
+08:13:37:  2020-10-09.txt - 记事本
+08:14:02:  周报及工作日志.xlsx  [受保护的视图] - Excel
+08:14:17:  周报及工作日志.xlsx  [只读] - Excel
+08:14:17:  周报及工作日志.xlsx  [只读] - Excel
+08:15:42:  2020-10-12.txt - 记事本
+08:16:07:  邮储招标DRB样机（2台）发货测试~2020.10.23
+08:16:12:  周报及工作日志.xlsx  [只读] - Excel
+08:16:47:  2020-10-12.txt - 记事本
+08:17:27:  周报及工作日志.xlsx  [只读] - Excel
+08:18:32:  2020-10-12.txt - 记事本
+08:18:47:  周报及工作日志.xlsx  [只读] - Excel
+08:19:17:  2020-10-12.txt - 记事本
+08:19:32:  W
+08:19:37:  2020-10-13.txt - 记事本
+08:20:07:  W
+08:20:12:  周报及工作日志.xlsx  [只读] - Excel
+08:20:37:  2020-10-12.txt - 记事本
+08:21:02:  本地磁盘 (D:)
+08:21:07:  深圳出差
+08:21:12:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+08:21:27:  44
+08:21:32:  周报及工作日志.xlsx  [只读] - Excel
+08:22:57:  W
+08:23:02:  2020-10-14.txt - 记事本
+08:23:37:  邮储招标DRB样机（2台）发货测试~2020.10.23
+08:23:42:  周报及工作日志.xlsx  [只读] - Excel
+08:24:07:  2020-10-14.txt - 记事本
+08:24:22:  2020-10-15.txt - 记事本
+08:24:47:  周报及工作日志.xlsx  [只读] - Excel
+08:25:37:  2020-10-16.txt - 记事本
+08:25:57:  周报及工作日志.xlsx  [只读] - Excel
+08:26:27:  2020-10-19.txt - 记事本
+08:26:42:  周报及工作日志.xlsx  [只读] - Excel
+08:27:12:  2020-10-20.txt - 记事本
+08:27:22:  周报及工作日志.xlsx  [只读] - Excel
+08:27:32:  2020-10-20.txt - 记事本
+08:27:37:  周报及工作日志.xlsx  [只读] - Excel
+08:28:42:  W
+08:28:47:  2020-10-21.txt - 记事本
+08:28:57:  周报及工作日志.xlsx  [只读] - Excel
+08:28:42:  W
+08:28:47:  2020-10-21.txt - 记事本
+08:28:57:  周报及工作日志.xlsx  [只读] - Excel
+08:32:52:  Microsoft Excel
+08:32:57:  另存为
+08:33:02:  王亮杰
+08:33:17:  日报
+08:33:22:  删除文件
+08:33:27:  副本周报及工作日志.xlsx  [受保护的视图] - Excel
+08:33:32:  日报
+08:33:42:  王亮杰
+08:33:47:  开始
+08:33:52:  W
+08:33:57:  TCRControlCmdDLL
+08:34:02:  Decode
+08:34:22:  K64_0000_20201023150444.log - [No filter file] - TextAnalysisTool.NET
+08:34:32:  回收站
+08:34:42:  Decode
+08:34:47:  K18_0000_20201023145940.log - 记事本
+08:34:52:  E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\K18_0000_20201023145940.log (44) - Sublime Text (UNREGISTERED)
+08:35:27:  Decode
+08:35:32:  Python 3.7.3 Shell
+08:35:37:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:35:42:  E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\KE18\None_0000_20201023145940.log (DRB--) - Sublime Text (UNREGISTERED)
+08:36:02:  D:\00-06\DRB--\Applications\PlateCtrl\LowerPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+08:36:07:  删除多个项目
+08:36:12:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+08:36:22:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+08:36:37:  Save Before Run or Check
+08:36:42:  KE18
+08:36:47:  打开方式
+08:36:52:  D:\00-06\DRB--\Applications\PlateCtrl\LowerPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+08:36:57:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+08:37:02:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+08:37:22:  SyntaxError
+08:37:32:  Save Before Run or Check
+08:37:37:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:37:47:  Decode
+08:37:52:  E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\K18_0000_20201023145940.log (DRB--) - Sublime Text (UNREGISTERED)
+08:37:57:  KE18
+08:38:07:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:39:12:  E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\K18_0000_20201023145940.log (DRB--) - Sublime Text (UNREGISTERED)
+08:39:17:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:39:42:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:39:47:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:46:22:  自动播放
+08:47:27:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:47:32:  Decode
+08:47:37:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:47:42:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:47:47:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:47:52:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:48:22:  Decode
+08:48:27:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:48:32:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:48:37:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:51:42:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:51:47:  Decode
+08:51:57:  E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\K18_0000_20201023145940.log (DRB--) - Sublime Text (UNREGISTERED)
+08:52:12:  KE18
+08:52:17:  Decode
+08:52:22:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:52:27:  KE18
+08:52:32:  Decode
+08:52:37:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:52:42:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:53:07:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:53:12:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:54:17:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:54:37:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:54:47:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:55:57:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:56:02:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:58:17:  Decode
+08:58:22:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+08:59:37:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+08:59:42:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:59:47:  Decode
+08:59:52:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:59:57:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:58:17:  Decode
+08:58:22:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+08:59:37:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+08:59:42:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:59:47:  Decode
+08:59:52:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+08:59:57:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:00:07:  Decode
+09:00:12:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:00:57:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+09:10:07:  所有笔记本 - 张开发 - 印象笔记
+09:10:12:  印象笔记
+09:11:02:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+09:11:22:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:11:27:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+09:11:32:  本地磁盘 (E:)
+09:11:37:  CRS调试工具
+09:11:42:  20201023
+09:11:47:  Decode
+09:11:52:  KE18
+09:11:57:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:12:22:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:12:27:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:12:32:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:12:52:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:13:02:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:14:27:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:14:27:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:15:22:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:15:52:  跳转列表
+09:15:57:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:16:32:  收取邮件 - 张开发
+09:16:42:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:16:47:  KE18
+09:16:52:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:16:57:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+09:17:02:  Python 3.7.3 Shell
+09:17:07:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:17:27:  E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\K18_0000_20201023145940.log (DRB--) - Sublime Text (UNREGISTERED)
+09:17:37:  KE18
+09:17:42:  LogExpert - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\KE18\None_0000_20201023144919.log
+09:17:47:  LogExpert - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\KE18\None_0000_20201023145940.log
+09:18:02:  KE18
+09:18:07:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:18:27:  20201023
+09:18:37:  锁屏状态
+09:18:42:  KE18
+09:18:52:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:19:02:  KE18
+09:19:07:  E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\K18_0000_20201023145940.log (DRB--) - Sublime Text (UNREGISTERED)
+09:19:17:  E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\K18_0000_20201023145940.log • (DRB--) - Sublime Text (UNREGISTERED)
+09:19:27:  KE18
+09:19:32:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:19:47:  20201023
+09:19:52:  Decode
+09:20:07:  E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\K18_0000_20201023145940.log (DRB--) - Sublime Text (UNREGISTERED)
+09:20:12:  E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\K18_0000_20201023145940.log • (DRB--) - Sublime Text (UNREGISTERED)
+09:20:17:  KE18
+09:20:22:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:20:27:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:20:32:  CS_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:21:02:  Decode
+09:21:07:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:21:52:  Decode
+09:21:57:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:22:02:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:22:07:  CS_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:22:12:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:22:22:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+09:22:27:  Kill?
+09:22:32:  Python 3.7.3 Shell
+09:22:37:  *Python 3.7.3 Shell*
+09:22:57:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:23:02:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+09:23:12:  *Python 3.7.3 Shell*
+09:23:52:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:23:57:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+09:24:17:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:24:22:  *Python 3.7.3 Shell*
+09:24:37:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+09:24:57:  KE18
+09:25:02:  Decode
+09:25:07:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:25:22:  Decode
+09:25:27:  CS_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:25:32:  KE18
+09:25:42:  锁屏状态
+09:25:47:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:25:57:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+09:26:22:  *Python 3.7.3 Shell*
+09:26:37:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+09:26:42:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:26:52:  C:\Windows\py.exe
+09:26:57:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:27:07:  CS_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:27:12:  Decode
+09:27:17:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:27:32:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+09:28:07:  Decode
+09:28:12:  CS_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:28:17:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:28:22:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:28:27:  KE18
+09:28:37:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:28:52:  Decode
+09:28:57:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:29:02:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:29:12:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:29:17:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:29:22:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:28:07:  Decode
+09:28:12:  CS_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:28:17:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:28:22:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:28:27:  KE18
+09:28:37:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:28:52:  Decode
+09:28:57:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:29:02:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:29:12:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:29:17:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:29:22:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:31:02:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:31:07:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:31:17:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:32:57:  eSpace
+09:33:42:  Save Before Run or Check
+09:33:47:  *Python 3.7.3 Shell*
+09:38:12:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:42:17:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:42:27:  Decode
+09:42:32:  爆仓问题(1)
+09:42:47:  50元20元混合纸币，大额存款第387张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X894602B4
+09:42:52:  Decode
+09:42:57:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:43:17:  Decode
+09:43:22:  K64_BTCR-1100200600510420_20201024092117
+09:43:27:  跳转列表
+09:43:32:  打开
+09:43:37:  Box_4__BTCR-1100200600510420_20201024092117.log - DRB.tat - TextAnalysisTool.NET
+09:46:13:  荆文波
+09:46:58:  Box_4__BTCR-1100200600510420_20201024092117.log - DRB.tat - TextAnalysisTool.NET
+09:47:08:  50元20元混合纸币，大额存款第387张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X894602B4
+09:47:13:  爆仓问题(1)
+09:47:23:  Decode
+09:47:33:  LOG
+09:47:38:  Box_4__BTCR-1100200600510420_20201024093257.log - DRB.tat - TextAnalysisTool.NET
+09:49:58:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:50:28:  Box_4__BTCR-1100200600510420_20201024093257.log - DRB.tat - TextAnalysisTool.NET
+09:57:28:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:58:48:  K64_BTCR-1100200600510420_20201024093257
+09:58:53:  深圳出差
+09:58:58:  log
+09:59:03:  KE18
+09:59:08:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:59:13:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:59:23:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+09:58:48:  K64_BTCR-1100200600510420_20201024093257
+09:58:53:  深圳出差
+09:58:58:  log
+09:59:03:  KE18
+09:59:08:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:59:13:  None_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+09:59:23:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+10:00:53:  *Python 3.7.3 Shell*
+10:00:58:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+10:01:03:  *Python 3.7.3 Shell*
+10:01:13:  KE18
+10:01:18:  锁屏状态
+10:01:23:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+10:01:33:  KE18
+10:01:38:  Decode
+10:01:53:  ASCII_百度百科 - Google Chrome
+10:01:58:  Decode
+10:02:43:  本地磁盘 (D:)
+10:03:08:  eSpace
+10:03:18:  主页 - Internet Explorer
+10:03:23:  系统登录 - Internet Explorer
+10:03:28:  新北洋OA信息化平台 - Internet Explorer
+10:03:33:  员工自助 - Internet Explorer
+10:03:38:  考勤异常 - Internet Explorer
+10:03:43:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+10:03:48:  Employee-facing registry content - Internet Explorer
+10:03:58:  绩效申请 - Internet Explorer
+10:04:38:  绩效评价 - Internet Explorer
+10:04:48:  绩效申请 - Internet Explorer
+10:04:53:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+10:04:58:  绩效申请 - Internet Explorer
+10:05:08:  员工自助 - Internet Explorer
+10:05:13:  空白页 - Internet Explorer
+10:05:18:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+10:05:38:  Employee-facing registry content - Internet Explorer
+10:06:03:  绩效申请 - Internet Explorer
+10:06:33:  员工自助 - Internet Explorer
+10:06:38:  绩效申请 - Internet Explorer
+10:11:48:  绩效评价 - Internet Explorer
+10:14:08:  绩效申请 - Internet Explorer
+10:14:13:  绩效评价 - Internet Explorer
+10:14:23:  新北洋OA信息化平台 - Internet Explorer
+10:14:28:  http://hrms.byintra.com:8800/psc/HCMPRD/EMPLOYEE/HRMS/s/WEBLIB_PORTAL1.ICRIPTPORTAL.FieldFormul - Internet Explorer
+10:14:43:  员工自助 - Internet Explorer
+10:14:08:  绩效申请 - Internet Explorer
+10:14:13:  绩效评价 - Internet Explorer
+10:14:23:  新北洋OA信息化平台 - Internet Explorer
+10:14:28:  http://hrms.byintra.com:8800/psc/HCMPRD/EMPLOYEE/HRMS/s/WEBLIB_PORTAL1.ICRIPTPORTAL.FieldFormul - Internet Explorer
+10:14:43:  员工自助 - Internet Explorer
+10:15:23:  新北洋OA信息化平台 - Internet Explorer
+10:15:58:  员工自助 - Internet Explorer
+10:16:03:  Employee-facing registry content - Internet Explorer
+10:16:13:  http://snbcproject.byintra.com/Login.aspx - Internet Explorer
+10:16:18:  Employee-facing registry content - Internet Explorer
+10:17:18:  员工自助 - Internet Explorer
+10:17:23:  Employee-facing registry content - Internet Explorer
+10:17:53:  员工自助 - Internet Explorer
+10:18:08:  Employee-facing registry content - Internet Explorer
+10:18:13:  绩效评价 - Internet Explorer
+10:18:18:  绩效申请 - Internet Explorer
+10:18:23:  新北洋OA信息化平台 - Internet Explorer
+10:18:28:  http://snbcproject.byintra.com/Login.aspx - Internet Explorer
+10:18:33:  绩效申请 - Internet Explorer
+10:18:38:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_AM_MENU.C_ATT_EQRY.GBL?FolderPath=POR - Internet Explorer
+10:18:43:  考勤异常 - Internet Explorer
+10:18:48:  员工自助 - Internet Explorer
+10:18:58:  Employee-facing registry content - Internet Explorer
+10:19:03:  绩效申请 - Internet Explorer
+10:19:23:  员工自助 - Internet Explorer
+10:19:38:  绩效申请 - Internet Explorer
+10:19:53:  新北洋OA信息化平台 - Internet Explorer
+10:19:58:  本地磁盘 (D:)
+10:20:03:  本地磁盘 (F:)
+10:20:13:  小程序
+10:20:18:  *GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)*
+10:20:23:  *Python 3.7.3 Shell*
+10:20:28:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+10:20:33:  *Python 3.7.3 Shell*
+10:20:53:  员工自助 - Internet Explorer
+10:21:03:  Python 3.7.3 Shell
+10:21:23:  本地磁盘 (D:)
+10:24:28:  WinRAR
+10:24:33:  SNBC-YF-015-03-V2.0 技术中心绩效激励管理规定.rar - WinRAR (非商业个人版)
+10:24:38:  SNBC-YF-015-03-V2.0 技术中心绩效激励管理规定.docx - Word
+10:25:28:  计算器
+10:27:13:  本地磁盘 (D:)
+10:27:23:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+10:27:28:  untitled (10) - Sublime Text (UNREGISTERED)
+10:28:08:  100元反向盘点T40-T10倾斜张数过多.rar
+10:28:13:  本地磁盘 (D:)
+10:28:18:  fenxi
+10:28:28:  爆仓问题(1)
+10:28:33:  Decode
+10:28:43:  K64_BTCR-1100190802300007_20201024101412.log - [No filter file]* - TextAnalysisTool.NET
+10:28:48:  K64_BTCR-1100190802300007_20201024101412.log - DRB.tat - TextAnalysisTool.NET
+10:29:18:  Edit Filter
+10:29:23:  K64_BTCR-1100190802300007_20201024101412.log - DRB.tat* - TextAnalysisTool.NET
+10:29:43:  查找
+10:29:48:  K64_BTCR-1100190802300007_20201024101412.log - DRB.tat* - TextAnalysisTool.NET
+10:29:53:  查找
+10:29:58:  K64_BTCR-1100190802300007_20201024101412.log - DRB.tat* - TextAnalysisTool.NET
+10:30:03:  查找
+10:28:08:  100元反向盘点T40-T10倾斜张数过多.rar
+10:28:13:  本地磁盘 (D:)
+10:28:18:  fenxi
+10:28:28:  爆仓问题(1)
+10:28:33:  Decode
+10:28:43:  K64_BTCR-1100190802300007_20201024101412.log - [No filter file]* - TextAnalysisTool.NET
+10:28:48:  K64_BTCR-1100190802300007_20201024101412.log - DRB.tat - TextAnalysisTool.NET
+10:29:18:  Edit Filter
+10:29:23:  K64_BTCR-1100190802300007_20201024101412.log - DRB.tat* - TextAnalysisTool.NET
+10:29:43:  查找
+10:29:48:  K64_BTCR-1100190802300007_20201024101412.log - DRB.tat* - TextAnalysisTool.NET
+10:29:53:  查找
+10:29:58:  K64_BTCR-1100190802300007_20201024101412.log - DRB.tat* - TextAnalysisTool.NET
+10:30:03:  查找
+10:30:08:  锁屏状态
+10:30:13:  K64_BTCR-1100190802300007_20201024101412.log - DRB.tat* - TextAnalysisTool.NET
+10:30:23:  Decode
+10:30:28:  K64_BTCR-1100190802300007_20201024101325.log - DRB.tat* - TextAnalysisTool.NET
+10:31:08:  Decode
+10:31:13:  K64_BTCR-1100190802300007_20201024101412.log - DRB.tat* - TextAnalysisTool.NET
+10:32:13:  Decode
+10:32:18:  K64_BTCR-1100190802300007_20201024101325.log - DRB.tat* - TextAnalysisTool.NET
+10:34:18:  untitled (10) - Sublime Text (UNREGISTERED)
+10:34:23:  D:\00-KE64\10\Applications\Update\Update.c (10) - Sublime Text (UNREGISTERED)
+10:34:28:  锁屏状态
+10:34:33:  D:\00-KE64\10\Applications\Update\Update.c (10) - Sublime Text (UNREGISTERED)
+10:34:38:  选择文件夹
+10:34:43:  untitled (44) - Sublime Text (UNREGISTERED)
+10:34:53:  E:\深圳出差\44\Applications\Update\Update.c (44) - Sublime Text (UNREGISTERED)
+10:35:03:  E:\深圳出差\44\Drivers\FlashDriver\SnbcFlashDriver.c (44) - Sublime Text (UNREGISTERED)
+10:35:18:  E:\深圳出差\44\Applications\Update\Update.c (44) - Sublime Text (UNREGISTERED)
+10:35:23:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+10:37:18:  自动播放
+10:37:28:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+10:42:58:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c • (44) - Sublime Text (UNREGISTERED)
+10:44:23:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+10:44:53:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c • (44) - Sublime Text (UNREGISTERED)
+10:45:03:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+10:44:23:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+10:44:53:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c • (44) - Sublime Text (UNREGISTERED)
+10:45:03:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+10:45:23:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c • (44) - Sublime Text (UNREGISTERED)
+10:45:43:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:45:48:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+10:45:58:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+10:46:03:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+10:46:08:  ● CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+10:46:13:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+10:46:18:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+10:54:15:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+10:54:20:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+11:06:35:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+11:06:40:  ● CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+11:06:45:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+11:06:50:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+11:11:45:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+11:11:50:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+11:33:35:  eSpace
+11:33:40:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+11:33:45:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c • (44) - Sublime Text (UNREGISTERED)
+11:37:10:  锁屏状态
+11:37:15:  回复: 农信返修的钞箱，请尽快处理
+11:37:20:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c • (44) - Sublime Text (UNREGISTERED)
+11:38:15:  新北洋OA信息化平台 - Internet Explorer
+11:38:55:  测试需求通知单II类提交 - Internet Explorer
+11:39:10:  员工自助 - Internet Explorer
+11:39:15:  新北洋OA信息化平台 - Internet Explorer
+11:39:20:  http://oa.byintra.com/iPortal/AjaxHandle/BPM.ashx?fun=OpenForm&Mode=2&TASKID=1024118d28c38c93fa - Internet Explorer
+11:39:25:   -- 网页对话框
+11:39:55:  新北洋OA信息化平台 - Internet Explorer
+11:40:05:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+11:40:10:   -- 网页对话框
+11:40:30:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+11:40:35:  锁屏状态
+13:15:36:   -- 网页对话框
+13:20:26:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+13:20:36:   -- 网页对话框
+13:21:01:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+13:21:06:  fenxi
+13:21:11:  T87
+13:21:41:  1T1-Stop-Length
+13:21:46:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+13:21:51:  PlateCtrl.c - TortoiseMerge
+13:22:01:  DebugConfig.h - TortoiseMerge
+13:22:06:  trunk
+13:22:11:  历史记录
+13:22:16:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+13:22:21:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+13:23:21:  trunk
+13:23:26:  打开方式
+13:23:31:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c • (44) - Sublime Text (UNREGISTERED)
+13:23:36:  选择文件夹
+13:23:41:  untitled (trunk) - Sublime Text (UNREGISTERED)
+13:23:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+13:24:01:  Applications
+13:24:06:  milestone.txt - 记事本
+13:24:31:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+13:24:36:  milestone.txt - 记事本
+13:24:46:  trunk
+13:24:51:  PlateCtrl.c - TortoiseMerge
+13:24:56:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+13:25:06:  提交 完成！
+13:25:11:  trunk
+13:25:16:  Project
+13:25:21:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+13:25:57:  Project
+13:26:02:  trunk
+13:26:07:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:26:22:  Tools
+13:26:32:  00-KE64
+13:26:37:  10
+13:26:42:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+13:26:47:  00-KE64
+13:26:52:  9
+13:26:57:  D:\00-KE64\9 - 日志信息 - TortoiseSVN
+13:27:02:  D:\00-KE64\9 - 版本库浏览器 - TortoiseSVN
+13:27:07:  9
+13:27:12:  trunk
+13:27:17:  D:\00-KE64\新建文件夹\trunk - 版本库浏览器 - TortoiseSVN
+13:27:22:  D:\00-KE64\新建文件夹\trunk - 日志信息 - TortoiseSVN
+13:27:27:  D:\00-KE64\新建文件夹\trunk - 更新 - TortoiseSVN
+13:27:32:  TortoiseSVN
+13:27:37:  D:\00-KE64\新建文件夹\trunk - 日志信息 - TortoiseSVN
+13:27:42:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+13:27:47:  本地磁盘 (D:)
+13:27:52:  20200717-T94
+13:27:57:  DRB
+13:28:17:  20200717-T94
+13:28:32:  DRB
+13:28:37:  T88
+13:28:47:  计算机
+13:28:52:  Tools
+13:28:57:  T88
+13:29:07:  删除文件
+13:29:17:  BTCR-1100-EEPROM更改记录_V100.xls  [兼容模式] - Excel
+13:29:22:  正在打开 - Excel
+13:29:27:  BTCR-1100产品型号MAIN测试对象FV1.000.14版本内部测试报告_20200817.xls  [兼容模式] - Excel
+13:29:37:  trunk
+13:29:42:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+13:29:47:  BTCR-1100产品型号MAIN测试对象FV1.000.14版本内部测试报告_20200817.xls  [兼容模式] - Excel
+13:28:17:  20200717-T94
+13:28:32:  DRB
+13:28:37:  T88
+13:28:47:  计算机
+13:28:52:  Tools
+13:28:57:  T88
+13:29:07:  删除文件
+13:29:17:  BTCR-1100-EEPROM更改记录_V100.xls  [兼容模式] - Excel
+13:29:22:  正在打开 - Excel
+13:29:27:  BTCR-1100产品型号MAIN测试对象FV1.000.14版本内部测试报告_20200817.xls  [兼容模式] - Excel
+13:29:37:  trunk
+13:29:42:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+13:29:47:  BTCR-1100产品型号MAIN测试对象FV1.000.14版本内部测试报告_20200817.xls  [兼容模式] - Excel
+13:30:52:  Microsoft Excel
+13:30:57:  BTCR-1100产品型号MAIN测试对象FV1.000.14版本内部测试报告_20200817.xls  [兼容模式] - Excel
+13:31:17:  trunk
+13:31:22:  T88
+13:31:27:  1T1-Stop-Length
+13:31:37:  T88
+13:32:02:  Tools
+13:32:07:  T88
+13:32:12:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+13:33:22:  T88
+13:33:27:  milestone.txt - 记事本
+13:33:32:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+13:34:17:  milestone.txt - 记事本
+13:34:22:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+13:34:27:  新建文件夹
+13:34:32:  新建文本文档.txt - 记事本
+13:34:37:  新建文件夹
+13:34:47:  20200717-T94
+13:34:52:  fenxi
+13:35:07:  新建文件夹
+13:35:12:  BTCR-1100产品型号MAIN测试对象FV1.000.86版本内部测试报告_20200811.xls  [兼容模式] - Excel
+13:35:22:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+13:35:32:  运行
+13:35:42:  问题日志
+13:35:47:  模具2.0系统测试过程数据
+13:35:52:  192.168.28.47
+13:35:57:  样机配置履历表
+13:36:02:  Microsoft Excel
+13:36:07:  BTCR-1100-固件更改记录_V100.xls  [受保护的视图] - Excel
+13:36:17:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+13:36:37:  ErrCode_list_txt_flg.txt - 记事本
+13:36:42:  trunk
+13:36:47:  milestone.txt - 记事本
+13:36:52:  BTCR-1100-固件更改记录_V100.xls  [兼容模式] - Excel
+13:37:27:  trunk
+13:37:37:  复制文件
+13:37:42:  T88
+13:37:52:  trunk
+13:37:57:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:38:12:  Tools
+13:38:17:  trunk
+13:38:27:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+13:38:47:  PlateCtrl.c Revision 4116 - TortoiseMerge
+13:38:57:  trunk
+13:39:12:  最新固件
+13:39:17:  K06
+13:39:32:  WinRAR
+13:39:37:  C:\Users\zhangkaifa\AppData\Local\Temp\Rar$DIa0.920\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB-弹性摆块.EEP (44) - Sublime Text (UNREGISTERED)
+13:39:42:  C:\Users\zhangkaifa\AppData\Local\Temp\Rar$DIa0.969\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_RB-弹性摆块.EEP (44) - Sublime Text (UNREGISTERED)
+13:39:47:  弹性摆块EEPROM.rar - WinRAR (非商业个人版)
+13:39:57:  T88
+13:40:12:  1T1-Stop-Length
+13:40:17:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:40:37:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c • (44) - Sublime Text (UNREGISTERED)
+13:43:27:  E:\深圳出差\44\Applications\Update\Update.c (44) - Sublime Text (UNREGISTERED)
+13:44:27:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c • (44) - Sublime Text (UNREGISTERED)
+13:44:27:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c • (44) - Sublime Text (UNREGISTERED)
+13:45:37:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:45:57:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c • (44) - Sublime Text (UNREGISTERED)
+13:46:02:  E:\深圳出差\44\Applications\ErrorHandle\ErrCode.h (44) - Sublime Text (UNREGISTERED)
+13:46:07:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c • (44) - Sublime Text (UNREGISTERED)
+13:46:37:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:46:42:  eSpace
+13:46:47:  戚晓东
+13:47:22:  荆文波
+13:47:27:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:47:32:  戚晓东
+13:47:47:  密码锁
+13:47:52:  所有笔记本 - 张开发 - 印象笔记
+13:47:57:  0-工作 - 张开发 - 印象笔记
+13:51:27:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:52:22:  0-工作 - 张开发 - 印象笔记
+13:52:57:  戚晓东
+13:54:27:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:54:42:  戚晓东
+13:54:57:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c • (44) - Sublime Text (UNREGISTERED)
+13:55:12:  戚晓东
+13:55:17:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c • (44) - Sublime Text (UNREGISTERED)
+13:55:22:  戚晓东
+13:55:37:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:55:47:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c • (44) - Sublime Text (UNREGISTERED)
+13:55:52:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:56:47:  trunk
+13:56:52:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+13:57:12:  Tools
+13:57:42:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:59:22:  eSpace
+13:59:27:  程明昌
+13:59:22:  eSpace
+13:59:27:  程明昌
+14:00:52:  新标签页 - Google Chrome
+14:01:02:  员工自助 - Internet Explorer
+14:01:07:  Employee-facing registry content - Internet Explorer
+14:01:12:  绩效申请 - Internet Explorer
+14:01:27:  Employee-facing registry content - Internet Explorer
+14:01:32:  绩效申请 - Internet Explorer
+14:01:47:  员工自助 - Internet Explorer
+14:01:57:  Employee-facing registry content - Internet Explorer
+14:02:02:  绩效申请 - Internet Explorer
+14:02:12:  员工自助 - Internet Explorer
+14:02:17:  绩效申请 - Internet Explorer
+14:02:57:  员工自助 - Internet Explorer
+14:03:02:  绩效申请 - Internet Explorer
+14:03:27:  Employee-facing registry content - Internet Explorer
+14:03:32:  绩效申请 - Internet Explorer
+14:03:37:  Employee-facing registry content - Internet Explorer
+14:03:42:  绩效申请 - Internet Explorer
+14:03:47:  员工自助 - Internet Explorer
+14:03:52:  Employee-facing registry content - Internet Explorer
+14:03:57:  绩效申请 - Internet Explorer
+14:06:47:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+14:06:52:  Employee-facing registry content - Internet Explorer
+14:06:57:  绩效申请 - Internet Explorer
+14:10:47:  eSpace
+14:11:02:  姚世龙
+14:11:17:  eSpace
+14:11:47:  自动播放
+14:12:37:  eSpace
+14:12:47:  trunk
+14:12:52:  Tools
+14:12:57:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+14:13:57:  100元反向盘点T40-T10倾斜张数过多.rar
+14:14:02:  μVision
+14:14:17:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:14:17:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:20:27:  T88
+14:20:32:  「开始」菜单
+14:20:37:  运行
+14:20:42:  TCR
+14:20:47:  共享文件
+14:20:52:  指令集
+14:20:57:  20200708_CRS软固件接口_V0.1.xlsx  [受保护的视图] - Excel
+14:21:22:  TCR调测工具（研发版）V1.0.0.4
+14:21:27:  钞箱传感器
+14:21:37:  绩效申请 - Internet Explorer
+14:23:17:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+14:24:52:  姚世龙
+14:24:57:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:25:12:  绩效申请 - Internet Explorer
+14:26:07:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+14:26:12:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:26:22:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+14:26:47:  20200708_CRS软固件接口_V0.1.xlsx  [受保护的视图] - Excel
+14:27:02:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:27:07:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+14:27:17:  来自网页的消息
+14:27:22:  新北洋OA信息化平台 - Internet Explorer
+14:27:27:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+14:27:32:  新北洋OA信息化平台 - Internet Explorer
+14:27:37:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+14:27:47:  T88
+14:27:52:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:29:02:  milestone.txt - 记事本
+14:29:07:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:29:27:  T88
+14:29:32:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:29:52:  Tools
+14:29:57:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+14:29:02:  milestone.txt - 记事本
+14:29:07:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:29:27:  T88
+14:29:32:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+14:29:52:  Tools
+14:29:57:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+14:30:17:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+14:30:27:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+14:31:22:  本地磁盘 (E:)
+14:31:32:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+14:32:12:  本地磁盘 (D:)
+14:32:52:  新标签页 - Google Chrome
+14:32:57:  20200708_CRS软固件接口_V0.1.xlsx  [受保护的视图] - Excel
+14:33:07:  锁屏状态
+14:33:17:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:37:22:  本地磁盘 (D:)
+14:37:27:  trunk
+14:37:32:  本地磁盘 (E:)
+14:37:37:  E:\深圳出差\44\Tools\CreateJK.exe
+14:37:42:  Tools
+14:37:47:  打开
+14:37:57:  00-06
+14:38:02:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+14:40:28:  TCR调测工具（研发版）V1.0.0.4
+14:40:53:  D:\00-KE64\10\Applications\Update\Update.c (10) - Sublime Text (UNREGISTERED)
+14:41:08:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+14:41:28:  D:\00-KE64\10\Applications\FlowControl\TrackMotor\MotorModuleIF.h (10) - Sublime Text (UNREGISTERED)
+14:41:33:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+14:41:43:  戚晓东
+14:44:33:  20200708_CRS软固件接口_V0.1.xlsx  [受保护的视图] - Excel
+14:44:33:  20200708_CRS软固件接口_V0.1.xlsx  [受保护的视图] - Excel
+14:45:13:  Tools
+14:45:18:  trunk
+14:45:23:  InstrExp
+14:45:28:  D:\00-KE64\新建文件夹\trunk\Applications\InstrExp - 日志信息 - TortoiseSVN
+14:46:43:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+14:46:58:  本地磁盘 (D:)
+14:47:03:  44
+14:47:08:  InstrProc1D.c - TortoiseMerge
+14:47:13:  CashBoxComm.h - TortoiseMerge
+14:47:33:  TCR调测工具（研发版）V1.0.0.4
+14:48:33:  戚晓东
+14:48:43:  锁屏状态
+14:48:48:  20200708_CRS软固件接口_V0.1.xlsx  [受保护的视图] - Excel
+14:50:23:  TCR调测工具（研发版）V1.0.0.4
+14:55:48:  要离线?
+14:56:18:  TCR调测工具（研发版）V1.0.0.4
+14:56:23:  eSpace
+14:56:28:  于斌1
+14:56:33:  eSpace
+14:56:38:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+14:56:43:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+14:56:53:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+14:57:03:  新标签页 - Google Chrome
+14:57:08:  登录页面 - 数据抓取工具 - Google Chrome
+14:57:13:  于斌1
+14:57:18:  数据抓取工具 - Google Chrome
+14:57:28:  正在打开 - Excel
+14:57:33:  于斌1
+14:57:43:  个人周报-张开发 (51).xlsx - Excel
+15:00:33:  打开
+15:00:38:  数据抓取工具 - Google Chrome
+15:00:48:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+15:01:18:  桌面整理
+15:02:33:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+15:02:48:  本地磁盘 (D:)
+15:02:53:  本地磁盘 (E:)
+15:03:03:  TortoiseMerge
+15:03:08:  InstrProc1D.c - TortoiseMerge
+15:03:13:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+15:03:18:  44
+15:03:23:  历史记录
+15:03:28:  E:\深圳出差\44 - 提交 - TortoiseSVN
+15:03:33:  44
+15:03:38:  更新 失败！
+15:03:43:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+15:03:48:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+15:04:43:  eSpace
+15:04:53:  吉哲
+15:05:03:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+15:05:23:  TCR调测工具（研发版）V1.0.0.4
+15:05:38:  吉哲
+15:06:03:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+15:06:18:  指令集
+15:06:23:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+15:07:58:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+15:08:03:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+15:09:58:  【周报更新】TCR/DRB和CRS周报更新
+15:10:38:  指令集
+15:10:43:  44
+15:10:48:  1T1-82
+15:10:53:  StepMotorDriver.c - TortoiseMerge
+15:11:48:  D:\00-06\1T1-82 - 工作副本 - TortoiseSVN
+15:11:53:  Plate.c - TortoiseMerge
+15:12:48:  StepMotor.c - TortoiseMerge
+15:12:53:  StepMotor.h - TortoiseMerge
+15:13:18:  1T1-82
+15:13:38:  03 项目周报
+15:13:43:  正在打开 - Excel
+15:13:48:  03 项目周报
+15:13:53:  TCR+DRB+CRS 项目周报.xlsx  [受保护的视图] - Excel
+15:16:03:  TCR+DRB+CRS 项目周报.xlsx  [共享] - Excel
+15:17:03:  03 项目周报
+15:17:08:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+15:17:18:  新标签页 - Google Chrome
+15:17:23:  新建文本文档.exe - 快捷方式
+15:17:28:  打开文件夹
+15:17:38:  百度一下，你就知道 - Google Chrome
+15:17:43:  首页 - 知乎 - Google Chrome
+15:17:48:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+15:22:18:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+15:23:28:  跳转列表
+15:23:33:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+15:23:48:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:23:53:  新标签页 - Google Chrome
+15:24:24:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+15:24:34:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+15:24:39:  www.zhihu.com - Google Chrome
+15:24:44:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+15:24:49:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:29:14:  吉哲
+15:29:14:  吉哲
+15:30:54:  新标签页 - Google Chrome
+15:30:59:  吉哲
+15:31:04:  www.baidu.com - Google Chrome
+15:31:09:  苕_百度搜索 - Google Chrome
+15:31:14:  吉哲
+15:31:29:  苕_百度搜索 - Google Chrome
+15:32:09:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:47:59:  锁屏状态
+15:48:04:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:48:24:  吉哲
+15:49:59:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:50:34:  苕_百度搜索 - Google Chrome
+15:50:44:  shao 桶_百度搜索 - Google Chrome
+15:50:59:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:51:54:  shao 桶_百度搜索 - Google Chrome
+15:52:44:  密码锁
+15:52:49:  印象笔记
+15:52:59:  0-工作 - 张开发 - 印象笔记
+15:53:04:  所有笔记本 - 张开发 - 印象笔记
+15:53:24:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:54:44:  LogExpert - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\KE18\None_0000_20201023145940.log
+15:54:49:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:55:44:  新标签页 - Google Chrome
+15:55:49:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+15:55:59:  (99+ 封私信 / 80 条消息) 哪些话语曾经在一瞬间击中你 - 搜索结果 - 知乎 - Google Chrome
+15:56:39:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:56:54:  (99+ 封私信 / 80 条消息) 哪些话语曾经在一瞬间击中你 - 搜索结果 - 知乎 - Google Chrome
+15:57:34:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:57:49:  (99+ 封私信 / 80 条消息) 哪些话语曾经在一瞬间击中你 - 搜索结果 - 知乎 - Google Chrome
+15:57:54:  哪些话语曾经在一瞬间击中你 - 搜索结果 - 知乎 - Google Chrome
+15:57:59:  (99+ 封私信 / 80 条消息) 哪些话语曾经在一瞬间击中你 - 搜索结果 - 知乎 - Google Chrome
+15:58:04:  新建文本文档.exe - 快捷方式
+15:58:09:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:58:44:  (99+ 封私信 / 80 条消息) 哪些话语曾经在一瞬间击中你 - 搜索结果 - 知乎 - Google Chrome
+15:59:39:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:58:09:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:58:44:  (99+ 封私信 / 80 条消息) 哪些话语曾经在一瞬间击中你 - 搜索结果 - 知乎 - Google Chrome
+15:59:39:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:00:49:  (99+ 封私信 / 80 条消息) 哪些话语曾经在一瞬间击中你 - 搜索结果 - 知乎 - Google Chrome
+16:01:34:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:02:14:  (99+ 封私信 / 80 条消息) 哪些话语曾经在一瞬间击中你 - 搜索结果 - 知乎 - Google Chrome
+16:03:24:  密码锁
+16:03:34:  印象笔记
+16:03:39:  (99+ 封私信 / 80 条消息) 哪些话语曾经在一瞬间击中你 - 搜索结果 - 知乎 - Google Chrome
+16:04:04:  密码锁
+16:04:09:  0-工作 - 张开发 - 印象笔记
+16:04:49:  KE18升级流程 - 印象笔记
+16:05:14:  0-工作 - 张开发 - 印象笔记
+16:05:54:  KE18升级流程 - 印象笔记
+16:06:09:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:06:14:  (99+ 封私信 / 80 条消息) 哪些话语曾经在一瞬间击中你 - 搜索结果 - 知乎 - Google Chrome
+16:06:54:  https://www.zhihu.com/search?type=content&q=哪些话语曾经在一瞬间击中你 - Google Chrome
+16:06:59:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:12:24:  新建文本文档.exe - 快捷方式
+16:12:29:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:28:54:  自动播放
+16:28:59:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:29:04:  TCR调测工具（研发版）V1.0.0.4
+16:29:19:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+16:29:24:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:28:54:  自动播放
+16:28:59:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:29:04:  TCR调测工具（研发版）V1.0.0.4
+16:29:19:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+16:29:24:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:39:24:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+16:39:34:  trunk
+16:39:39:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+16:39:44:  Tools
+16:39:49:  D:\00-06\1T1-Stop-Length\trunk\Tools - 日志信息 - TortoiseSVN
+16:39:54:  要离线?
+16:39:59:  锁屏状态
+16:40:04:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+16:46:09:  (99+ 封私信 / 80 条消息) 哪些话语曾经在一瞬间击中你 - 搜索结果 - 知乎 - Google Chrome
+16:46:19:  Internet Explorer
+16:46:24:  Windows 安全
+16:46:34:  Windchill - Internet Explorer
+16:46:44:  自主研发_更改请求 - 59398 - Internet Explorer
+16:46:49:  编辑设计更改通知单 - Internet Explorer
+16:47:49:  自主研发_更改请求 - 59398 - Internet Explorer
+16:47:59:  存储库 - C01 固件库 - Internet Explorer
+16:50:24:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+16:50:39:  存储库 - C01 固件库 - Internet Explorer
+16:51:09:  新北洋OA信息化平台 - Internet Explorer
+16:51:19:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+16:51:44:  http://oa.byintra.com/iBPM/BPM/NewGraphicalView.aspx?TASKID=0911095ad4dbbc9eca12c5e4ba1768 - Internet Explorer
+16:51:59:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+16:52:04:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+16:55:49:  (99+ 封私信 / 80 条消息) 哪些话语曾经在一瞬间击中你 - 搜索结果 - 知乎 - Google Chrome
+16:55:54:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+16:56:14:  高逸
+16:56:19:  编辑设计更改通知单 - Internet Explorer
+16:57:29:  查找对象 - Internet Explorer
+16:57:34:  编辑设计更改通知单 - Internet Explorer
+16:57:49:  高逸
+16:58:19:  Tools
+16:58:24:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+16:58:34:  Tools
+16:59:39:  TCR调测工具（研发版）V1.0.0.4
+16:59:44:  00-06
+16:59:49:  本地磁盘 (D:)
+16:58:19:  Tools
+16:58:24:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+16:58:34:  Tools
+16:59:39:  TCR调测工具（研发版）V1.0.0.4
+16:59:44:  00-06
+16:59:49:  本地磁盘 (D:)
+17:00:19:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+17:00:29:  新北洋OA信息化平台 - Internet Explorer
+17:00:34:  1_需求申请人_测试需求通知单II类提交 - Internet Explorer
+17:00:39:  存储库 - C01 固件库 - Internet Explorer
+17:00:44:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+17:01:09:  「开始」菜单
+17:01:14:  锁屏状态

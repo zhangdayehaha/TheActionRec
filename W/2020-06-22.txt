@@ -1,0 +1,743 @@
+08:05:10:  Box_3__BTCR-1100190803000001_20200619101043.log - DRB.tat* - TextAnalysisTool.NET
+08:05:15:  新结构DRB钞箱测试~06.20
+08:06:30:  本地磁盘 (D:)
+08:06:35:  压钞托板测试
+08:06:40:  0-测试-DRB
+08:06:45:  锁屏状态
+08:06:50:  测试压板数据.xls  [兼容模式] - Excel
+08:06:55:  激活
+08:07:00:  测试压板数据.xls  [兼容模式] - Excel
+08:30:11:  42 CRS现金循环模块
+08:30:21:  Excel
+08:30:26:  TCR（DRB）项目周报.xlsx  [受保护的视图] - Excel
+08:30:36:  警告
+08:30:51:  03 项目周报
+08:31:01:  eSpace
+08:31:36:  03 项目周报
+08:34:51:  本地磁盘 (D:)
+08:34:56:  新建文件夹 (3)
+08:35:06:  计算机
+08:35:11:  运行
+08:35:16:  新结构DRB钞箱测试
+08:35:31:  DRB-200120600008
+08:35:36:  IMG_20200618_191955.jpg - Windows 照片查看器
+08:35:56:  LOG
+08:36:01:  Box_2__BTCR-1100190803000001_20200618191443.log - DRB.tat* - TextAnalysisTool.NET
+08:36:36:  IMG_20200618_191955.jpg - Windows 照片查看器
+08:36:41:  Box_2__BTCR-1100190803000001_20200618191443.log - DRB.tat* - TextAnalysisTool.NET
+08:37:06:  IMG_20200618_191955.jpg - Windows 照片查看器
+08:37:16:  Box_2__BTCR-1100190803000001_20200618191443.log - DRB.tat* - TextAnalysisTool.NET
+08:37:31:  IMG_20200618_191955.jpg - Windows 照片查看器
+08:37:51:  Box_2__BTCR-1100190803000001_20200618191443.log - DRB.tat* - TextAnalysisTool.NET
+09:29:47:  计算机
+09:29:52:  IMG_20200618_191955.jpg - Windows 照片查看器
+09:29:47:  计算机
+09:29:52:  IMG_20200618_191955.jpg - Windows 照片查看器
+09:30:17:  Box_2__BTCR-1100190803000001_20200618191443.log - DRB.tat* - TextAnalysisTool.NET
+09:30:47:  IMG_20200618_191955.jpg - Windows 照片查看器
+09:31:07:  Box_2__BTCR-1100190803000001_20200618191443.log - DRB.tat* - TextAnalysisTool.NET
+09:31:42:  IMG_20200618_191955.jpg - Windows 照片查看器
+09:32:07:  IMG_20200618_191934.jpg - Windows 照片查看器
+09:32:12:  IMG_20200618_191955.jpg - Windows 照片查看器
+09:34:22:  Box_2__BTCR-1100190803000001_20200618191443.log - DRB.tat* - TextAnalysisTool.NET
+09:36:57:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (CRS) - Sublime Text (UNREGISTERED)
+09:37:02:  untitled (press2) - Sublime Text (UNREGISTERED)
+09:37:07:  Box_2__BTCR-1100190803000001_20200618191443.log - DRB.tat* - TextAnalysisTool.NET
+09:38:12:  untitled (press2) - Sublime Text (UNREGISTERED)
+09:38:17:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+09:38:37:  TCR（DRB）项目周报.xlsx - Excel
+09:38:42:  TCR（DRB）项目周报.xlsx  [共享] - Excel
+09:39:22:  Box_2__BTCR-1100190803000001_20200618191443.log - DRB.tat* - TextAnalysisTool.NET
+09:39:32:  TCR（DRB）项目周报.xlsx  [共享] - Excel
+09:40:02:  Subversion
+09:40:07:  TCR（DRB）项目周报.xlsx  [共享] - Excel
+09:40:12:  孙颖
+09:40:27:  Subversion
+09:40:37:  TCR（DRB）项目周报.xlsx  [共享] - Excel
+09:41:37:  锁屏状态
+09:41:42:  Microsoft Excel
+09:41:47:  Excel
+09:41:52:  IMG_20200618_191955.jpg - Windows 照片查看器
+09:41:57:  TCR（DRB）项目周报.xlsx  [受保护的视图] - Excel
+09:44:22:  个人周报-张开发 (38).xlsx - Excel
+09:44:27:  TCR（DRB）项目周报.xlsx  [受保护的视图] - Excel
+09:44:37:  TCR（DRB）项目周报.xlsx  [共享] - Excel
+09:44:42:  锁屏状态
+09:44:47:  个人周报-张开发 (38).xlsx - Excel
+09:44:52:  TCR（DRB）项目周报.xlsx  [共享] - Excel
+09:44:22:  个人周报-张开发 (38).xlsx - Excel
+09:44:27:  TCR（DRB）项目周报.xlsx  [受保护的视图] - Excel
+09:44:37:  TCR（DRB）项目周报.xlsx  [共享] - Excel
+09:44:42:  锁屏状态
+09:44:47:  个人周报-张开发 (38).xlsx - Excel
+09:44:52:  TCR（DRB）项目周报.xlsx  [共享] - Excel
+09:45:32:  10#.xls  [兼容模式] - Excel
+09:45:37:  运行
+09:45:42:  IMG_20200618_191955.jpg - Windows 照片查看器
+09:45:47:  Subversion
+09:45:52:  跳转列表
+09:45:57:  新结构DRB钞箱测试 (未响应)
+09:46:02:  新结构DRB钞箱测试
+09:46:12:  DRB-200120600008
+09:46:17:  K64_BTCR-1100190803000001_20200618192749
+09:46:27:  Decode
+09:46:32:  DRB-200120600008
+09:46:37:  K64_BTCR-1100190803000001_20200618191443
+09:46:42:  K64-_BTCR-1100190803000001_20200618191443 - 写邮件
+09:46:52:  K64_BTCR-1100190803000001_20200618191443
+09:46:57:  K64-_BTCR-1100190803000001_20200618191443.log - DRB.tat* - TextAnalysisTool.NET
+09:48:12:  个人周报-张开发 (38).xlsx - Excel
+09:48:27:  测试压板数据.xls  [兼容模式] - Excel
+09:48:42:  K64-_BTCR-1100190803000001_20200618191443.log - DRB.tat* - TextAnalysisTool.NET
+09:51:52:  DRB-200120600008
+10:18:47:  eSpace
+10:18:57:  测试压板数据.xls  [兼容模式] - Excel
+10:23:27:  DRB-200120600008
+10:23:32:  ID-1 大额存款9张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B6
+10:23:42:  IMG_20200618_190341.jpg - Windows 照片查看器
+10:23:47:  ID-2-③ 初始化过程报电机 在电机运转过程中检测到电机停止 返回码0X87280420
+10:24:07:  20200620.txt - 记事本
+10:24:22:  Decode
+10:24:27:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:24:32:  Decode
+10:24:42:  Box_2__BTCR-1100190803000001_20200620134602.log - DRB.tat* - TextAnalysisTool.NET
+10:25:12:  DRB-200120600008
+10:25:17:  ID-2 初始化过程中报电机 在电机运转过程中检测到电机停止 返回码0X87280420
+10:25:22:  IMG_20200618_191955.jpg - Windows 照片查看器
+10:25:27:  ID-2 初始化过程中报电机 在电机运转过程中检测到电机停止 返回码0X87280420
+10:25:37:  DRB-200120600008
+10:25:42:  Decode
+10:25:47:  Box_2__BTCR-1100190803000001_20200618192749.log - DRB.tat* - TextAnalysisTool.NET
+10:28:52:  ID-2-② 初始化过程中报 电机 在电机运转过程中检测到电机停止 返回码0X87280420
+10:29:42:  DRB-200120600008
+10:29:47:  ID-1 大额存款9张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B6
+10:29:57:  ID-2 初始化过程中报电机 在电机运转过程中检测到电机停止 返回码0X87280420
+10:30:02:  ID-2-② 初始化过程中报 电机 在电机运转过程中检测到电机停止 返回码0X87280420
+10:28:52:  ID-2-② 初始化过程中报 电机 在电机运转过程中检测到电机停止 返回码0X87280420
+10:29:42:  DRB-200120600008
+10:29:47:  ID-1 大额存款9张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B6
+10:29:57:  ID-2 初始化过程中报电机 在电机运转过程中检测到电机停止 返回码0X87280420
+10:30:02:  ID-2-② 初始化过程中报 电机 在电机运转过程中检测到电机停止 返回码0X87280420
+10:30:07:  ID-2-③ 初始化过程报电机 在电机运转过程中检测到电机停止 返回码0X87280420
+10:30:12:  ID-5 50元上腔普通取款171张报钞箱口 500ms纸币未进入 返回码0X075E0900
+10:30:22:  Decode
+10:30:27:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:31:02:  K64_BTCR-1100190803000001_20200620083405
+10:31:07:  Box_2__BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+10:32:32:  K64_BTCR-1100190803000001_20200620083405
+10:32:37:  ID-5 50元上腔普通取款171张报钞箱口 500ms纸币未进入 返回码0X075E0900
+10:33:47:  ID-5-② 50元上腔普通取款295张报钞箱口 500ms纸币未进入 返回码0X075E0900
+10:33:52:  Decode
+10:33:57:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:34:02:  Decode
+10:34:07:  K64_BTCR-1100190803000001_20200620095151
+10:34:12:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+10:34:42:  K64_BTCR-1100190803000001_20200620095151
+10:34:47:  Decode
+10:34:52:  DRB-200120600008
+10:34:57:  删除文件
+10:35:02:  DRB-200120600008
+10:35:07:  ID-1 大额存款9张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B6
+10:35:37:  DRB-200120600008
+10:35:42:  ID-1 大额存款9张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B6
+10:35:47:  ID-1-② 大额存款55张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B6
+10:35:52:  ID-2 初始化过程中报电机 在电机运转过程中检测到电机停止 返回码0X87280420
+10:36:07:  DRB-200120600008
+10:36:12:  ID-5 50元上腔普通取款171张报钞箱口 500ms纸币未进入 返回码0X075E0900
+10:36:17:  DRB-200120600008
+10:36:22:  ID-6 8#样机取款过程中出现异常噪音
+10:36:27:  Decode
+10:36:32:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:36:47:  Decode
+10:36:52:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+10:36:57:  Box_2__BTCR-1100190803000001_20200620082844.log - DRB.tat* - TextAnalysisTool.NET
+10:37:12:  K64_BTCR-1100190803000001_20200620082844
+10:37:17:  Box_2__BTCR-1100190803000001_20200620082756.log - DRB.tat* - TextAnalysisTool.NET
+10:37:27:  K64_BTCR-1100190803000001_20200620082756
+10:37:32:  LOG
+10:37:37:  K64-_BTCR-1100190803000001_20200620082844.log - DRB.tat* - TextAnalysisTool.NET
+10:38:02:  查找
+10:38:07:  K64-_BTCR-1100190803000001_20200620082844.log - DRB.tat* - TextAnalysisTool.NET
+10:38:22:  查找
+10:38:42:  K64-_BTCR-1100190803000001_20200620082844.log - DRB.tat* - TextAnalysisTool.NET
+10:39:02:  K64_BTCR-1100190803000001_20200620082844
+10:39:07:  ID-7 100元下腔普通取款报 通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B5(打开后通道纸币掉落）
+10:39:12:  IMG_20200620_140611.jpg - Windows 照片查看器
+10:39:42:  Decode
+10:40:12:  K64_BTCR-1100190803000001_20200620135340.log - DRB.tat* - TextAnalysisTool.NET
+10:40:22:  Decode
+10:40:37:  新建文件夹 (3)
+10:40:47:  K64_BTCR-1100190803000001_20200620135249
+10:40:52:  Box_2__BTCR-1100190803000001_20200620135249.log - DRB.tat* - TextAnalysisTool.NET
+10:40:57:  K64_BTCR-1100190803000001_20200620135340
+10:41:02:  Box_2__BTCR-1100190803000001_20200620135340.log - DRB.tat* - TextAnalysisTool.NET
+10:41:42:  K64_BTCR-1100190803000001_20200620135340
+10:41:47:  fenxi
+10:41:52:  ID-7 100元下腔普通取款报 通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B5(打开后通道纸币掉落）
+10:41:57:  IMG_20200620_140611.jpg - Windows 照片查看器
+10:42:22:  Box_2__BTCR-1100190803000001_20200620135340.log - DRB.tat* - TextAnalysisTool.NET
+10:42:47:  IMG_20200620_140611.jpg - Windows 照片查看器
+10:42:52:  ID-7 100元下腔普通取款报 通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B5(打开后通道纸币掉落）
+10:44:22:  ID-8 20元上腔普通取款159张报通道传输过程中卡钞 钞票残留  返回码0X874604B8
+10:44:27:  IMG_20200620_161538.jpg - Windows 照片查看器
+10:44:32:  ID-8 20元上腔普通取款159张报通道传输过程中卡钞 钞票残留  返回码0X874604B8
+10:44:37:  Decode
+10:44:42:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:44:47:  Decode
+10:44:22:  ID-8 20元上腔普通取款159张报通道传输过程中卡钞 钞票残留  返回码0X874604B8
+10:44:27:  IMG_20200620_161538.jpg - Windows 照片查看器
+10:44:32:  ID-8 20元上腔普通取款159张报通道传输过程中卡钞 钞票残留  返回码0X874604B8
+10:44:37:  Decode
+10:44:42:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:44:47:  Decode
+10:45:22:  K64_BTCR-1100190803000001_20200620160859
+10:45:27:  Box_2__BTCR-1100190803000001_20200620160859.log - DRB.tat* - TextAnalysisTool.NET
+10:45:42:  LOG
+10:45:47:  Box_2__BTCR-1100190803000001_20200620160752.log - DRB.tat* - TextAnalysisTool.NET
+10:45:52:  ID-8 20元上腔普通取款159张报通道传输过程中卡钞 钞票残留  返回码0X874604B8
+10:46:07:  新结构DRB钞箱测试
+10:46:12:  DRB-200120600010
+10:46:22:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+10:46:27:  Decode
+10:46:37:  IMG_20200619_150230.jpg - Windows 照片查看器
+10:46:42:  K64_BTCR-1100190803000001_20200619145811
+10:46:47:  Box_3__BTCR-1100190803000001_20200619145811.log - DRB.tat* - TextAnalysisTool.NET
+10:46:52:  K64_BTCR-1100190803000001_20200619145723
+10:46:57:  ID-3-② 20元下腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X035E0900
+10:47:07:  ID-4 10元上腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X085E0900
+10:47:12:  LOG
+10:47:17:  Box_3__BTCR-1100190803000001_20200619132133.log - DRB.tat* - TextAnalysisTool.NET
+10:47:22:  ID-4 10元上腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X085E0900
+10:47:37:  IMG_20200620_140611.jpg - Windows 照片查看器
+10:47:57:  03 项目周报
+10:48:02:  IMG_20200620_140611.jpg - Windows 照片查看器
+10:48:12:  Subversion
+10:48:17:  DRB-200120600008
+10:48:27:  ID-5 50元上腔普通取款171张报钞箱口 500ms纸币未进入 返回码0X075E0900
+10:48:32:  K64_BTCR-1100190803000001_20200620083405
+10:48:37:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+10:49:02:  Add Filter
+10:49:07:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+10:49:12:  查找
+10:49:22:  ErrCode_list_txt_flg.txt - 记事本
+10:49:27:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+10:49:32:  Edit Filter
+10:49:37:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+10:50:52:  计算器
+10:51:12:  K64_BTCR-1100190803000001_20200620083405
+10:51:17:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+10:52:57:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+10:53:07:  D:\00-KE64\press2\Applications\FlowControl\CashPress\PressModuleIF.c (press2) - Sublime Text (UNREGISTERED)
+10:53:12:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+10:53:27:  D:\00-KE64\press2\Applications\FlowControl\CashPress\PressModuleIF.c (press2) - Sublime Text (UNREGISTERED)
+10:53:37:  D:\00-KE64\press2\Applications\FlowControl\CashPress\PressModuleIF.h (press2) - Sublime Text (UNREGISTERED)
+10:53:42:  D:\00-KE64\press2\Applications\FlowControl\CashPress\PressModuleIF.c (press2) - Sublime Text (UNREGISTERED)
+10:53:47:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+10:54:08:  计算器
+10:54:13:  D:\00-KE64\press2\Applications\FlowControl\CashPress\PressModuleIF.c (press2) - Sublime Text (UNREGISTERED)
+10:54:18:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+10:55:48:  D:\00-KE64\press2\Applications\FlowControl\CashPress\PressModuleIF.c (press2) - Sublime Text (UNREGISTERED)
+10:56:03:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+10:56:28:  D:\00-KE64\press2\Applications\FlowControl\CashPress\PressModuleIF.h (press2) - Sublime Text (UNREGISTERED)
+10:56:33:  D:\00-KE64\press2\Applications\FlowControl\CashPress\PressModuleIF.c (press2) - Sublime Text (UNREGISTERED)
+10:56:38:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+10:57:23:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (CRS) - Sublime Text (UNREGISTERED)
+10:57:28:  D:\00-KE64\press2\Applications\FlowControl\CashPress\PressModuleIF.h (press2) - Sublime Text (UNREGISTERED)
+10:57:33:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+10:58:33:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+10:58:43:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+10:59:53:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+10:58:33:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+10:58:43:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+10:59:53:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+11:00:58:  Add Filter
+11:01:03:  ErrCode_list_txt_flg.txt - 记事本
+11:01:08:  查找
+11:01:18:  K64-_BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+11:02:53:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+11:05:53:  新结构DRB钞箱测试
+11:05:58:  DRB-200120600010
+11:09:38:  ID-4 10元上腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X085E0900
+11:09:48:  K64_BTCR-1100190803000001_20200619132133
+11:09:53:  Box_3__BTCR-1100190803000001_20200619132133.log - DRB.tat* - TextAnalysisTool.NET
+11:10:18:  新结构DRB钞箱测试
+11:10:23:  DRB-200120600008
+11:10:28:  Decode
+11:10:33:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+11:11:03:  K64_BTCR-1100190803000001_20200620095151
+11:11:08:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+11:13:03:  K64_BTCR-1100190803000001_20200620095151
+11:13:08:  K64-_BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+11:13:28:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+11:14:18:  计算器
+11:14:48:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+11:15:03:  计算器
+11:14:18:  计算器
+11:14:48:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+11:15:03:  计算器
+11:15:18:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+11:15:33:  DRB工程样机问题讨论
+11:15:38:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+11:16:03:  K64-_BTCR-1100190803000001_20200620095151 - 写邮件
+11:16:08:  发送邮件
+11:30:43:  00-KE64
+11:30:48:  Project
+11:30:53:  TCR调测工具 V3.36
+11:31:03:  D:\00-KE64\press2\Project\k64_rtt.uvprojx - μVision
+11:32:48:  Project
+11:32:53:  Tools
+11:32:58:  D:\00-KE64\press2\Project\k64_rtt.uvprojx - μVision
+11:33:03:  Tools
+11:33:08:  TCR调测工具 V3.36
+11:33:13:  打开
+11:33:23:  BTCRTestTool
+11:33:28:  打开
+11:33:38:  TCR调测工具 V3.36
+11:33:43:  有道词典错误收集程序
+11:34:38:  跳转列表
+11:34:43:  TCR调测工具 V3.36
+11:35:43:  模块使能
+11:36:18:  取款
+11:36:23:  TCR调测工具 V3.36
+11:36:43:  BTCRTestTool V3.36
+11:37:03:  C:\Users\zhangkaifa\Desktop\CashboxDatePur-V1.8.py • (CRS) - Sublime Text (UNREGISTERED)
+11:37:08:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+11:37:18:  BTCRTestTool V3.36
+11:37:23:  20200622
+11:37:38:  LOG
+11:37:43:  Box_1__0000_20200622113628.log - DRB.tat* - TextAnalysisTool.NET
+11:37:58:  计算器
+11:38:03:  Box_1__0000_20200622113628.log - DRB.tat* - TextAnalysisTool.NET
+11:38:23:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+11:38:28:  untitled (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:38:38:  D:\00-06\DRB-PRESS\Middlewares\Plate\PressurePlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:38:48:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+11:38:53:  Box_1__0000_20200622113628.log - DRB.tat* - TextAnalysisTool.NET
+11:39:23:  K64_0000_20200622113544
+11:39:28:  LOG
+11:39:33:  TCRControlCmdDLL
+11:39:43:  Tools
+11:39:48:  K64-_BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+11:40:18:  Edit Filter
+11:40:23:  K64-_BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+11:41:13:  K64_BTCR-1100190803000001_20200620095151
+11:41:18:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+11:44:53:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+11:44:58:  untitled (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:45:03:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:44:53:  D:\00-KE64\press2\Applications\FlowControl\TrackModule\CashGateModuleApp.c (press2) - Sublime Text (UNREGISTERED)
+11:44:58:  untitled (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:45:03:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+11:45:08:  锁屏状态
+13:18:49:  D:\00-06\DRB-PRESS\Middlewares\Plate\UpperPlate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:18:54:  DRB-200120600008
+13:18:59:  删除多个项目
+13:19:04:  新建文件夹 (3)
+13:19:09:  DRB-200120600008
+13:19:34:  ID-5-③ 10元上腔普通取款297张报钞箱口 500ms纸币未进入 返回码0X075E0900
+13:19:39:  Decode
+13:19:44:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:19:54:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+13:19:59:  Box_2__BTCR-1100190803000001_20200622083012.log - DRB.tat* - TextAnalysisTool.NET
+13:22:19:  LOG
+13:22:24:  ID-5-③ 10元上腔普通取款297张报钞箱口 500ms纸币未进入 返回码0X075E0900
+13:22:34:  ID-5-③-1 问题1处理后执行普通取款报通道传输过程中卡钞 钞票残留  返回码0X874604B8
+13:22:39:  IMG_20200622_084941.jpg - Windows 照片查看器
+13:22:44:  Decode
+13:22:49:  回复: DRB-200120600008 - 写邮件
+13:23:49:  回复: DRB-200120600008 - 写邮件   13:23:49 已保存
+13:23:59:  Box_2__BTCR-1100190803000001_20200622083012.log - DRB.tat* - TextAnalysisTool.NET
+13:24:59:  回复: DRB-200120600008 - 写邮件   13:24:49 已保存
+13:25:04:  Decode
+13:25:09:  K64_BTCR-1100190803000001_20200622084236
+13:25:14:  Box_2__BTCR-1100190803000001_20200622084236.log - DRB.tat* - TextAnalysisTool.NET
+13:28:24:  ID-5-③-1 问题1处理后执行普通取款报通道传输过程中卡钞 钞票残留  返回码0X874604B8
+13:28:29:  IMG_20200622_084941.jpg - Windows 照片查看器
+13:28:34:  捕获.PNG - Windows 照片查看器
+13:28:39:  IMG_20200622_084941.jpg - Windows 照片查看器
+13:28:24:  ID-5-③-1 问题1处理后执行普通取款报通道传输过程中卡钞 钞票残留  返回码0X874604B8
+13:28:29:  IMG_20200622_084941.jpg - Windows 照片查看器
+13:28:34:  捕获.PNG - Windows 照片查看器
+13:28:39:  IMG_20200622_084941.jpg - Windows 照片查看器
+13:32:04:  ID-5-③-1 问题1处理后执行普通取款报通道传输过程中卡钞 钞票残留  返回码0X874604B8
+14:09:20:  运行
+14:09:25:  新结构DRB钞箱测试
+14:09:30:  新结构DRB钞箱测试 (未响应)
+14:09:45:  新结构DRB钞箱测试
+14:10:35:  DRB测试缺陷.xlsx  [受保护的视图] - Excel
+14:10:40:  新结构DRB钞箱测试
+14:10:45:  DRB（新压板）测试记录表.xlsx  [受保护的视图] - Excel
+14:10:55:  DRB（新压板）测试记录表.xlsx - Excel
+14:11:30:  Box_2__BTCR-1100190803000001_20200622084236.log - DRB.tat* - TextAnalysisTool.NET
+14:11:50:  DRB-200120600008
+14:11:55:  LOG
+14:12:00:  Box_2__BTCR-1100190803000001_20200622084236.log - DRB.tat* - TextAnalysisTool.NET
+14:12:20:  DRB（新压板）测试记录表.xlsx - Excel
+14:12:30:  回复: DRB-200120600008 - 写邮件   13:24:49 已保存
+14:13:15:  Box_2__BTCR-1100190803000001_20200622084236.log - DRB.tat* - TextAnalysisTool.NET
+14:14:10:  DRB（新压板）测试记录表.xlsx - Excel
+14:15:00:  转发: DRB-200120600008 - 写邮件
+14:14:10:  DRB（新压板）测试记录表.xlsx - Excel
+14:15:00:  转发: DRB-200120600008 - 写邮件
+14:33:25:  关于非必要情况下禁止员工前往北京出差的通知
+14:33:30:  Box_2__BTCR-1100190803000001_20200622084236.log - DRB.tat* - TextAnalysisTool.NET
+14:45:35:  DRB（新压板）测试记录表.xlsx - Excel
+14:45:40:  测试压板数据.xls  [兼容模式] - Excel
+14:45:45:  回复: DRB-200120600008 - 写邮件   13:24:49 已保存
+14:45:50:  回复: DRB-200120600008 - 写邮件   14:45:50 已保存
+14:46:50:  回复: DRB-200120600008 - 写邮件   14:46:50 已保存
+14:46:55:  Box_2__BTCR-1100190803000001_20200622084236.log - DRB.tat* - TextAnalysisTool.NET
+14:47:05:  回复: DRB-200120600008 - 写邮件   14:46:50 已保存
+14:47:40:  回复: DRB-200120600008 - 写邮件   14:47:40 已保存
+14:48:45:  DRB-200120600008
+14:49:25:  D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)
+14:49:30:  D:\00-18\CRS\Applications\InstrExp\InstrExp.c (CRS) - Sublime Text (UNREGISTERED)
+14:49:45:  D:\00-18\CRS\Applications\InstrExp\InstrExe.c (CRS) - Sublime Text (UNREGISTERED)
+14:49:55:  Box_2__BTCR-1100190803000001_20200622084236.log - DRB.tat* - TextAnalysisTool.NET
+14:52:20:  K64_BTCR-1100190803000001_20200620095151
+14:52:25:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+14:55:10:  Decode
+14:55:15:  DRB-200120600008
+14:55:20:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+14:55:51:  ID-3-② 20元下腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X035E0900
+14:55:56:  DRB-200120600010
+14:56:01:  Decode
+14:56:06:  Box_3__BTCR-1100190803000001_20200619132133.log - DRB.tat* - TextAnalysisTool.NET
+14:56:16:  新结构DRB钞箱测试
+14:56:21:  DRB-200120600008
+14:56:26:  ID-7 100元下腔普通取款报 通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B5(打开后通道纸币掉落）
+14:56:36:  Decode
+14:56:46:  LOG
+14:56:51:  fenxi
+14:56:56:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:57:01:  新建文件夹 (3)
+14:57:16:  Box_2__BTCR-1100190803000001_20200620135340.log - DRB.tat* - TextAnalysisTool.NET
+15:00:51:  Add Filter
+15:00:56:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:01:36:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:01:46:  Box_2__BTCR-1100190803000001_20200620135340.log - DRB.tat* - TextAnalysisTool.NET
+15:01:56:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:02:01:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:02:56:  Box_2__BTCR-1100190803000001_20200620135340.log - DRB.tat* - TextAnalysisTool.NET
+15:05:31:  ErrCode_list_txt_flg.txt - 记事本
+15:05:36:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:06:06:  K64_BTCR-1100190803000001_20200620135340
+15:06:11:  Box_2__BTCR-1100190803000001_20200620135340.log - DRB.tat* - TextAnalysisTool.NET
+15:06:46:  K64_BTCR-1100190803000001_20200620135340
+15:06:51:  ID-7 100元下腔普通取款报 通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B5(打开后通道纸币掉落）
+15:07:36:  ID-8 20元上腔普通取款159张报通道传输过程中卡钞 钞票残留  返回码0X874604B8
+15:07:41:  ID-5-② 50元上腔普通取款295张报钞箱口 500ms纸币未进入 返回码0X075E0900
+15:07:46:  ID-5 50元上腔普通取款171张报钞箱口 500ms纸币未进入 返回码0X075E0900
+15:07:51:  ID-2-③ 初始化过程报电机 在电机运转过程中检测到电机停止 返回码0X87280420
+15:07:56:  ID-1 大额存款9张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B6
+15:08:01:  Box_2__BTCR-1100190803000001_20200620135340.log - DRB.tat* - TextAnalysisTool.NET
+15:08:06:  新结构DRB钞箱测试
+15:09:06:  桌面整理
+15:09:11:  测试压板数据.xls  [兼容模式] - Excel
+15:09:21:  桌面整理
+15:09:26:  测试压板数据 - 写邮件
+15:10:31:  DRB测试缺陷记录综合分析（评审用）20200622.xlsx
+15:11:06:  跳转列表
+15:11:11:  本地磁盘 (D:)
+15:11:16:  正在打开 - Word
+15:11:21:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00.doc [兼容模式] - Word
+15:15:16:  Microsoft Visio
+15:15:51:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:16:11:  TCR调测工具 V3.36
+15:16:26:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00.doc [兼容模式] - Word
+15:16:41:  运行
+15:16:46:  DRB-200120600008
+15:16:51:  Decode
+15:16:56:  Box_2__BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+15:17:51:  D:\00-18\CRS\Applications\InstrExp\InstrExe.c (CRS) - Sublime Text (UNREGISTERED)
+15:18:01:  untitled (trunk) - Sublime Text (UNREGISTERED)
+15:18:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:18:21:  D:\00-18\CRS\Applications\InstrExp\InstrExp.c (trunk) - Sublime Text (UNREGISTERED)
+15:18:26:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:21:36:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00.doc [兼容模式] - Word
+15:21:41:  D:\00-18\CRS\Applications\InstrExp\InstrExe.c (CRS) - Sublime Text (UNREGISTERED)
+15:22:26:  TCR调测工具 V3.36
+15:23:06:  托板控制
+15:23:21:  TCR调测工具 V3.36
+15:41:36:  BTCRTestTool
+15:41:41:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00.doc [兼容模式] - Word
+15:42:06:  绘图 在 C:\Users\zhangkaifa\Desktop\... - Microsoft Visio
+15:47:21:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00.doc [兼容模式] - Word
+15:50:11:  绘图 在 C:\Users\zhangkaifa\Desktop\... - Microsoft Visio
+15:51:51:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00.doc [兼容模式] - Word
+15:55:36:  Microsoft Visio
+15:55:41:  继续阅读
+15:55:46:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+15:56:16:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00 - 写邮件
+15:56:51:  开始
+15:56:56:  荆文波
+15:57:06:  TCR调测工具 V3.36
+15:57:26:  荆文波
+15:57:31:  BNE-R1200M固件模块方案设计-出入钞口叶轮模块v1.00.doc
+15:58:01:  eSpace
+15:58:11:  TCR调测工具 V3.36
+15:58:31:  托板控制
+15:58:11:  TCR调测工具 V3.36
+15:58:31:  托板控制
+16:00:06:  TCR调测工具 V3.36
+16:02:16:  跳转列表
+16:02:21:  TCRControlCmdDLL
+16:02:26:  Decode
+16:02:31:  20200622
+16:02:36:  Decode
+16:02:41:  Box_1__0000_20200622160003.log - DRB.tat* - TextAnalysisTool.NET
+16:03:06:  托板控制
+16:03:11:  TCR调测工具 V3.36
+16:03:16:  Box_1__0000_20200622160003.log - DRB.tat* - TextAnalysisTool.NET
+16:04:01:  托板控制
+16:04:06:  TCR调测工具 V3.36
+16:05:51:  K64_BTCR-1100190803000001_20200620083405
+16:05:56:  新标签页 - Google Chrome
+16:06:01:  班车管理系统 - Google Chrome
+16:06:11:  班车管理系统 [新北洋集团] - Google Chrome
+16:06:31:  锁屏状态
+16:06:36:  主页 - Internet Explorer
+16:06:41:  系统登录 - Internet Explorer
+16:06:51:  新北洋OA信息化平台 - Internet Explorer
+16:06:56:  登陆到CoPlan - Internet Explorer
+16:07:06:  SNBC CoPlan - Internet Explorer
+16:15:06:  绩效考核详细信息 - Internet Explorer
+16:15:16:  SNBC CoPlan - Internet Explorer
+16:15:56:  来自网页的消息
+16:16:01:  SNBC CoPlan - Internet Explorer
+16:16:26:  Windows 安全
+16:16:31:  SNBC CoPlan - Internet Explorer
+16:16:36:  绩效考核详细信息 - Internet Explorer
+16:16:41:  SNBC CoPlan - Internet Explorer
+16:16:46:  绩效考核详细信息 - Internet Explorer
+16:17:26:  SNBC CoPlan - Internet Explorer
+16:17:31:  绩效考核详细信息 - Internet Explorer
+16:18:32:  SNBC CoPlan - Internet Explorer
+16:18:37:  http://snbcproject.byintra.com/PerformanceQuery/EvaluationDetail.aspx?PerMId=10682&UserId=eed8c - Internet Explorer
+16:18:42:  绩效考核详细信息 - Internet Explorer
+16:18:57:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:19:42:  Box_1__0000_20200622160003.log - DRB.tat* - TextAnalysisTool.NET
+16:19:47:  锁屏状态
+16:19:52:  Box_2__BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+16:20:07:  BS-ID8101 竞品样机对比测试请求协助
+16:20:22:  Box_1__0000_20200622160003.log - DRB.tat* - TextAnalysisTool.NET
+16:21:57:  eSpace
+16:22:07:  荆文波
+16:22:12:  Box_1__0000_20200622160003.log - DRB.tat* - TextAnalysisTool.NET
+16:34:57:  K64_BTCR-1100190803000001_20200620083405
+16:39:02:  TCR调测工具 V3.36
+16:39:07:  发送指令到K06
+16:39:32:  TCR调测工具 V3.36
+16:40:17:  发送指令到K06
+16:40:27:  TCR调测工具 V3.36
+16:40:37:  发送指令到K06
+16:40:47:  TCR调测工具 V3.36
+16:40:52:  发送指令到K06
+16:41:02:  TCR调测工具 V3.36
+16:41:07:  发送指令到K06
+16:41:37:  TCR调测工具 V3.36
+16:41:47:  发送指令到K06
+16:41:52:  TCR调测工具 V3.36
+16:42:02:  K64_BTCR-1100190803000001_20200620083405
+16:42:17:  Microsoft Visio
+16:42:22:  K64_BTCR-1100190803000001_20200620083405
+16:42:27:  DRB-200120600008
+16:43:07:  ID-2-② 初始化过程中报 电机 在电机运转过程中检测到电机停止 返回码0X87280420
+16:43:12:  ID-2-③ 初始化过程报电机 在电机运转过程中检测到电机停止 返回码0X87280420
+16:43:32:  DRB-200120600008
+16:43:37:  ID-5 50元上腔普通取款171张报钞箱口 500ms纸币未进入 返回码0X075E0900
+16:43:42:  Box_1__0000_20200622160003.log - DRB.tat* - TextAnalysisTool.NET
+16:43:47:  Box_2__BTCR-1100190803000001_20200620083405.log - DRB.tat* - TextAnalysisTool.NET
+16:45:27:  ID-5 50元上腔普通取款171张报钞箱口 500ms纸币未进入 返回码0X075E0900
+16:45:32:  Decode
+16:45:37:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+16:47:42:  DRB-200120600008
+16:47:47:  ID-7 100元下腔普通取款报 通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B5(打开后通道纸币掉落）
+16:47:52:  DRB-200120600008
+16:48:02:  ID-8 20元上腔普通取款159张报通道传输过程中卡钞 钞票残留  返回码0X874604B8
+16:48:07:  新结构DRB钞箱测试
+16:48:17:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+16:48:22:  DRB-200120600010
+16:49:22:  BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word
+16:56:17:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:56:22:  untitled (trunk) - Sublime Text (UNREGISTERED)
+16:56:27:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+16:58:02:  DRB-200120600010
+16:58:12:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+16:58:17:  IMG_20200619_092149.jpg - Windows 照片查看器
+16:58:22:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+16:58:37:  ID-6 8#样机取款过程中出现异常噪音
+16:58:12:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+16:58:17:  IMG_20200619_092149.jpg - Windows 照片查看器
+16:58:22:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+16:58:37:  ID-6 8#样机取款过程中出现异常噪音
+17:00:27:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+17:02:27:  桌面整理
+17:02:32:  Box_2__BTCR-1100190803000001_20200620095151.log - DRB.tat* - TextAnalysisTool.NET
+17:02:42:  iTunes
+17:02:52:  本地磁盘 (D:)
+17:02:57:  新标签页 - Google Chrome
+17:03:02:  新建文本文档.exe - 快捷方式
+17:03:07:  www.baidu.com - Google Chrome
+17:03:12:  本地磁盘 (E:)
+17:03:17:  ID-6 8#样机取款过程中出现异常噪音
+17:03:22:  运行
+17:03:28:  新结构DRB钞箱测试
+17:03:33:  新结构DRB钞箱测试 (未响应)
+17:04:13:  DRB测试记录表~1.xlsx
+17:04:38:  DRB测试缺陷.xlsx
+17:05:09:  DRB-200120600008
+17:05:14:  ID-7 100元下腔普通取款报 通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B5(打开后通道纸币掉落）
+17:06:50:  LOG
+17:06:55:  本地磁盘 (D:)
+17:07:00:  fenxi
+17:07:20:  新建文件夹 (3)
+17:07:25:  Decode
+17:07:35:  新建文件夹 (3)
+17:07:45:  Decode
+17:07:50:  K64_BTCR-1100190803000001_20200620135340
+17:07:55:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+17:08:00:  Box_2__BTCR-1100190803000001_20200620135340.log - DRB.tat* - TextAnalysisTool.NET
+17:08:10:  Go To
+17:08:15:  Box_2__BTCR-1100190803000001_20200620135340.log - DRB.tat* - TextAnalysisTool.NET
+17:10:21:  fenxi
+17:10:26:  日志不足.txt - 记事本
+17:10:31:  ID-8 20元上腔普通取款159张报通道传输过程中卡钞 钞票残留  返回码0X874604B8
+17:10:36:  DRB测试缺陷.xlsx
+17:11:16:  计算器
+17:11:31:  DRB测试缺陷.xlsx
+17:11:36:  DRB-200120600010
+17:11:41:  DRB-200120600008
+17:14:57:  本地磁盘 (E:)
+17:15:02:  于斌1
+17:14:57:  本地磁盘 (E:)
+17:15:02:  于斌1
+17:15:07:  Box_2__BTCR-1100190803000001_20200620135340.log - DRB.tat* - TextAnalysisTool.NET
+17:15:32:  锁屏状态
+19:06:49:  荆文波
+19:07:04:  本地磁盘 (E:)
+19:13:29:  运行
+19:13:34:  新结构DRB钞箱测试
+19:14:14:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+19:14:19:  ID-3-② 20元下腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X035E0900
+19:14:29:  荆文波
+19:14:14:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+19:14:19:  ID-3-② 20元下腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X035E0900
+19:14:29:  荆文波
+19:17:29:  ID-3-② 20元下腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X035E0900
+19:21:24:  收取邮件 - 张开发
+19:21:29:  ID-3-② 20元下腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X035E0900
+19:22:29:  ID-4 10元上腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X085E0900
+19:22:34:  ID-4
+19:22:54:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+19:23:19:  Decode
+19:23:44:  ID-4 10元上腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X085E0900
+19:23:49:  LOG
+19:23:54:  ID-4
+19:23:59:  ID-4 10元上腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X085E0900
+19:24:04:  LOG
+19:24:09:  ID-4
+19:24:19:  Decode
+19:24:34:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+19:24:54:  新建文件夹
+19:25:39:  LOG
+19:25:44:  Box_3__BTCR-1100190803000001_20200619132133.log - DRB.tat* - TextAnalysisTool.NET
+19:25:59:  ID-4 10元上腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X085E0900
+19:26:09:  K64_BTCR-1100190803000001_20200619132133
+19:26:19:  Box_3__BTCR-1100190803000001_20200619132133.log - DRB.tat* - TextAnalysisTool.NET
+19:27:24:  LOG
+19:27:29:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+19:27:34:  ID-4 10元上腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X085E0900
+19:28:24:  DRB-200120600010
+19:28:29:  LOG
+19:28:34:  Box_3__BTCR-1100190803000001_20200619091535.log - DRB.tat* - TextAnalysisTool.NET
+19:28:24:  DRB-200120600010
+19:28:29:  LOG
+19:28:34:  Box_3__BTCR-1100190803000001_20200619091535.log - DRB.tat* - TextAnalysisTool.NET
+19:30:24:  LOG
+19:30:29:  IMG_20200619_092237.jpg - Windows 照片查看器
+19:30:34:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+19:30:44:  IMG_20200619_092149.jpg - Windows 照片查看器
+19:30:54:  荆文波
+19:31:39:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+19:31:49:  ID-3-② 20元下腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X035E0900
+19:31:54:  荆文波
+19:31:59:  新结构DRB钞箱测试
+19:32:04:  正在从 6.22.rar 中提取
+19:32:09:  ID-8 20元上腔普通取款159张报通道传输过程中卡钞 钞票残留  返回码0X874604B8
+19:32:14:  DRB-200120600010
+19:32:19:  ID-3-② 20元下腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X035E0900
+19:32:24:  捕获.PNG - Windows 照片查看器
+19:32:29:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+19:32:34:  ID-4 10元上腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X085E0900
+19:32:44:  荆文波
+19:33:09:  ID-4 10元上腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X085E0900
+19:33:39:  DRB-200120600010
+19:33:44:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+19:34:04:  Box_3__BTCR-1100190803000001_20200619091535.log - DRB.tat* - TextAnalysisTool.NET
+19:34:24:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+19:35:09:  ID-3-② 20元下腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X035E0900
+19:35:14:  DRB-200120600010
+19:35:19:  ID-4 10元上腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X085E0900
+19:35:34:  IMG_20200619_133202.jpg - Windows 照片查看器
+19:35:39:  Decode
+19:35:44:  LOG
+19:35:49:  ID-4 10元上腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X085E0900
+19:36:04:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+19:36:09:  DRB-200120600010
+19:36:14:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+19:36:29:  ID-3-② 20元下腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X035E0900
+19:36:34:  新结构DRB钞箱测试
+19:36:39:  荆文波
+19:36:49:  6.22
+19:36:54:  ID-8 20元上腔普通取款159张报通道传输过程中卡钞 钞票残留  返回码0X874604B8
+19:36:59:  Decode
+19:37:04:  ID-8
+19:37:09:  Decode
+19:37:24:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+19:37:39:  Decode
+19:37:45:  Box_2__BTCR-1100190803000001_20200620160859.log - DRB.tat* - TextAnalysisTool.NET
+19:38:35:  K64_BTCR-1100190803000001_20200620160859
+19:38:40:  Box_2__BTCR-1100190803000001_20200620160859.log - DRB.tat* - TextAnalysisTool.NET
+19:40:10:  Decode
+19:40:20:  ID-7 100元下腔普通取款报 通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X824601B5(打开后通道纸币掉落）
+19:40:35:  ID-8 20元上腔普通取款159张报通道传输过程中卡钞 钞票残留  返回码0X874604B8
+19:41:00:  ID-6 8#样机取款过程中出现异常噪音
+19:41:10:  K64_BTCR-1100190803000001_20200620082844
+19:41:15:  ID-6 8#样机取款过程中出现异常噪音
+19:41:25:  新建文件夹
+19:41:30:  Decode
+19:41:35:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+19:41:40:  荆文波
+19:41:45:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+19:42:00:  Box_2__BTCR-1100190803000001_20200620082844.log - DRB.tat* - TextAnalysisTool.NET
+19:44:35:  Add Filter
+19:44:40:  Box_2__BTCR-1100190803000001_20200620082844.log - DRB.tat* - TextAnalysisTool.NET
+19:45:00:  荆文波
+19:44:35:  Add Filter
+19:44:40:  Box_2__BTCR-1100190803000001_20200620082844.log - DRB.tat* - TextAnalysisTool.NET
+19:45:00:  荆文波
+19:45:05:  Box_2__BTCR-1100190803000001_20200620082844.log - DRB.tat* - TextAnalysisTool.NET
+19:46:20:  荆文波
+19:46:25:  Box_2__BTCR-1100190803000001_20200620082844.log - DRB.tat* - TextAnalysisTool.NET
+19:47:10:  Add Filter
+19:47:15:  Box_2__BTCR-1100190803000001_20200620082844.log - DRB.tat* - TextAnalysisTool.NET
+19:48:05:  Decode
+19:48:10:  ID-6 8#样机取款过程中出现异常噪音
+19:48:50:  荆文波
+19:49:00:  ID-1 大额存款9张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B6
+19:49:05:  ID-2 初始化过程中报电机 在电机运转过程中检测到电机停止 返回码0X87280420
+19:49:10:  DRB-200120600008
+19:49:15:  ID-6 8#样机取款过程中出现异常噪音
+19:49:25:  DRB-200120600008
+19:49:30:  荆文波
+19:49:50:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+19:49:55:  ID-3-② 20元下腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X035E0900
+19:50:00:  ID-4 10元上腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X085E0900
+19:50:10:  荆文波
+19:50:45:  ID-3-② 20元下腔普通取款299张报钞箱口 500ms纸币未进入 返回码0X035E0900
+19:50:50:  ID-3 20元下腔普通取款299张报 钞箱口 500ms纸币未进入 返回码0X035E0900
+19:50:55:  荆文波
+19:51:10:  新结构DRB钞箱测试
+19:51:15:  荆文波
+19:51:40:  锁屏状态

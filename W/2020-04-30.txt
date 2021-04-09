@@ -1,0 +1,384 @@
+08:03:06:  D:\00-06\DRB-Seclect-New\BR-1-CashBox1T2.txt (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+08:03:11:  untitled (1T1) - Sublime Text (UNREGISTERED)
+08:03:16:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+08:04:56:  
+08:05:06:  收取邮件 - 张开发
+08:05:11:  
+08:06:11:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+08:12:56:  库
+08:13:01:  00-06
+08:13:06:  log
+08:13:11:  20200428
+08:13:16:  K64_0000_20200428132105.log - [No filter file] - TextAnalysisTool.NET
+08:13:26:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+08:16:46:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c • (1T1) - Sublime Text (UNREGISTERED)
+08:17:21:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+08:17:36:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c • (1T1) - Sublime Text (UNREGISTERED)
+08:17:51:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+08:19:11:  
+08:19:16:  eSpace
+08:19:21:  
+08:19:41:  荆文波
+08:19:56:  
+08:20:01:  荆文波
+08:20:11:  
+08:20:16:  http://192.168.28.47/08tcr测试过程记录/系统测试记录/模具2.0系统测试过程数据/系统测试过程数据/DRB测试/第2轮DRB测试/DRB-200120600010 - Internet Explorer
+08:20:26:  
+08:20:31:  00-06
+08:20:36:  第3轮DRB测试
+08:20:41:  正在打开 - DRB测试记录表.xlsx
+08:20:46:  DRB测试记录表.xlsx  [受保护的视图] - Excel
+08:20:56:  Microsoft Excel
+08:21:01:  荆文波
+08:21:36:  使用3.43软件，机芯内3个钞箱（DRB钞箱、盘点箱、回收箱），开启工具后，设置完可接受金额后，直接点击钞箱配置，软件停止工作，使用3.42，该问题依然存在。更换机芯电脑后，软件仍存在该问题
+08:21:41:  第3轮DRB测试
+08:21:46:  DRB-200120600010
+08:21:56:  荆文波
+08:22:06:  DRB-200120600007
+08:22:21:  删除多个项目
+08:22:26:  正在复制 50 个项目(94.5 MB)
+08:22:36:  ID-7 民生银行DRB(7#)大额存款285张后，再次大额存款第9张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X874601B6
+08:22:51:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:22:56:  本地磁盘 (D:)
+08:23:06:  
+08:23:11:  D:\00-06\DRB-Seclect-New\BR-1-CashBox1T2.txt (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+08:23:21:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+08:25:41:  1T1
+08:25:46:  μVision
+08:25:51:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+08:25:56:  Project
+08:26:01:  Tools
+08:26:21:  D:\00-06\1T1\Tools\CreateJK.exe
+08:26:26:  TCR调测工具 V3.36
+08:27:06:  打开
+08:27:11:  Tools
+08:27:16:  打开
+08:27:31:  TCR调测工具 V3.36
+08:28:16:  取款
+08:28:21:  TCR调测工具 V3.36
+08:28:26:  取款
+08:28:31:  TCR调测工具 V3.36
+08:29:11:  跳转列表
+08:29:16:  TCRControlCmdDLL
+08:29:21:  20200430
+08:29:26:  Decode
+08:29:31:  K64_0000_20200430082827.log - [No filter file] - TextAnalysisTool.NET
+08:29:36:  Add Filter
+08:29:41:  K64_0000_20200430082827.log - [No filter file]* - TextAnalysisTool.NET
+08:29:46:  Edit Filter
+08:29:51:  K64_0000_20200430082827.log - [No filter file]* - TextAnalysisTool.NET
+08:28:16:  取款
+08:28:21:  TCR调测工具 V3.36
+08:28:26:  取款
+08:28:31:  TCR调测工具 V3.36
+08:29:11:  跳转列表
+08:29:16:  TCRControlCmdDLL
+08:29:21:  20200430
+08:29:26:  Decode
+08:29:31:  K64_0000_20200430082827.log - [No filter file] - TextAnalysisTool.NET
+08:29:36:  Add Filter
+08:29:41:  K64_0000_20200430082827.log - [No filter file]* - TextAnalysisTool.NET
+08:29:46:  Edit Filter
+08:29:51:  K64_0000_20200430082827.log - [No filter file]* - TextAnalysisTool.NET
+08:30:16:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+08:31:41:  收取邮件 - 张开发
+08:31:46:  
+08:37:47:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+08:37:52:  D:\00-06\1T1\Middlewares\Plate\Plate.c (1T1) - Sublime Text (UNREGISTERED)
+08:38:47:  Tools
+08:40:47:  1T1
+08:40:52:  State.c - TortoiseMerge
+08:40:57:  Update.c - TortoiseMerge
+08:41:02:  1T1
+08:41:07:  Update
+08:41:12:  Applications
+08:41:17:  
+08:41:22:  D:\00-06\1T1\Middlewares\Plate\Plate.c (1T1) - Sublime Text (UNREGISTERED)
+08:41:27:  D:\00-06\1T1\Applications\Update\Update.c (1T1) - Sublime Text (UNREGISTERED)
+08:41:32:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+08:41:47:  荆文波
+08:42:42:  1T1
+08:42:47:  D:\00-06\1T1\Tools\CreateJK.exe
+08:42:52:  DRB-Seclect-New
+08:42:57:  D:\00-06\DRB-Seclect-New - 日志信息 - TortoiseSVN
+08:43:32:  
+08:43:37:  收取邮件 - 张开发
+08:43:42:  
+08:43:47:  本地磁盘 (D:)
+08:43:52:  2 大额存款流程T10入钞300张后，执行大额取款，出钞口298，回收箱2张，报钞箱口 500ms纸币未进入 返回码0X015E0900
+08:43:57:  AD值.txt - 记事本
+08:44:22:  2 大额存款流程T10入钞300张后，执行大额取款，出钞口298，回收箱2张，报钞箱口 500ms纸币未进入 返回码0X015E0900
+08:44:32:  删除多个项目
+08:44:37:  Decode
+08:44:42:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:44:57:  K64_BTCR-1100200101100016_20200427095424
+08:45:02:  Box_1__BTCR-1100200101100016_20200427095424.log - [No filter file]* - TextAnalysisTool.NET
+08:45:42:  打开
+08:45:47:  Box_1__BTCR-1100200101100016_20200427095424.log - [No filter file]* - TextAnalysisTool.NET
+08:45:52:  Box_1__BTCR-1100200101100016_20200427095424.log - selector.tat - TextAnalysisTool.NET
+08:45:57:  Box_1__BTCR-1100200101100016_20200427095424.log - selector.tat* - TextAnalysisTool.NET
+08:47:52:  Add Filter
+08:48:02:  Box_1__BTCR-1100200101100016_20200427095424.log - selector.tat* - TextAnalysisTool.NET
+08:53:32:  固件设计中心
+08:53:37:  Box_1__BTCR-1100200101100016_20200427095424.log - selector.tat* - TextAnalysisTool.NET
+08:54:52:  Add Filter
+08:55:02:  Box_1__BTCR-1100200101100016_20200427095424.log - selector.tat* - TextAnalysisTool.NET
+08:55:32:  Add Filter
+08:55:47:  Box_1__BTCR-1100200101100016_20200427095424.log - selector.tat* - TextAnalysisTool.NET
+08:56:52:  1元测试日志
+08:56:57:  ID-6 民生银行DRB(7#)大额存款流程T10入钞300张后，执行大额取款，出钞口297张，回收箱3张，报钞箱口 500ms纸币未进入 返回码0X015E0900
+08:57:02:  删除多个项目
+08:57:07:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:57:27:  Box_2__BTCR-1100200101100016_20200429163741.log - selector.tat* - TextAnalysisTool.NET
+08:59:22:  K64_BTCR-1100200101100016_20200429163655
+08:59:27:  Box_2__BTCR-1100200101100016_20200429163655.log - selector.tat* - TextAnalysisTool.NET
+08:59:32:  LOG
+08:59:37:  1元测试日志
+08:59:42:  Decode
+08:59:47:  Box_2__BTCR-1100200101100016_20200429164530.log - selector.tat* - TextAnalysisTool.NET
+08:59:22:  K64_BTCR-1100200101100016_20200429163655
+08:59:27:  Box_2__BTCR-1100200101100016_20200429163655.log - selector.tat* - TextAnalysisTool.NET
+08:59:32:  LOG
+08:59:37:  1元测试日志
+08:59:42:  Decode
+08:59:47:  Box_2__BTCR-1100200101100016_20200429164530.log - selector.tat* - TextAnalysisTool.NET
+09:03:47:  TCR调测工具 V3.36
+09:04:27:  本地磁盘 (F:)
+09:04:32:  DRB-Seclect-New
+09:04:37:  SECSplashWnd
+09:04:42:  D:\00-06\DRB-Seclect-New\Project\CashBox_1T2.uvprojx - μVision
+09:04:57:  DRB-Seclect-New
+09:05:02:  Tools
+09:05:22:  打开
+09:05:27:  TCR调测工具 V3.36
+09:06:22:  
+09:06:27:  Project
+09:06:32:  00-KE64
+09:06:37:  μVision
+09:06:42:  D:\00-KE64\normol\trunk\Project\k64_rtt.uvprojx - μVision
+09:07:12:  
+09:07:17:  trunk
+09:07:22:  Tools
+09:07:27:  回收 
+09:07:32:  Tools
+09:08:07:  D:\00-KE64\normol\trunk\Tools\CreateJK.exe
+09:08:12:  TCR调测工具 V3.36
+09:08:17:  打开
+09:08:32:  TCR调测工具 V3.36
+09:09:57:  D:\00-KE64\normol\trunk\Project\k64_rtt.uvprojx - μVision
+09:11:28:  
+09:11:33:  D:\00-KE64\normol\trunk\Tools\CreateJK.exe
+09:11:38:  打开
+09:11:43:  TCR调测工具 V3.36
+09:12:03:  BTCRTestTool
+09:12:13:  TCR调测工具 V3.36
+09:13:38:  BTCRTestTool
+09:13:43:  TCR调测工具 V3.36
+09:14:23:  于斌1
+09:14:43:  TCR调测工具 V3.36
+09:15:03:  
+09:15:08:  荆文波
+09:15:28:  TCR调测工具 V3.36
+09:16:08:  荆文波
+09:16:13:  TCR调测工具 V3.36
+09:17:38:  Everything
+09:17:43:  3. - Everything
+09:17:48:  TCR调测工具 V3.07
+09:17:53:  BTCRTestTool V3.07
+09:18:03:  TCR调测工具 V3.36
+09:19:23:  取款
+09:19:28:  TCR调测工具 V3.36
+09:21:23:  
+09:21:28:  00-KE64
+09:21:33:  Tools
+09:21:38:  D:\00-06\DRB-Seclect-New\Tools\CreateJK.exe
+09:21:53:  Tools
+09:21:58:  D:\00-06\1T1\Tools\CreateJK.exe
+09:22:03:  
+09:22:13:  回复: BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T83 - 写邮件
+09:22:58:  回复: BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T83 - 写邮件   09:22:56 已保存
+09:23:08:  
+09:23:13:  TCR调测工具 V3.36
+09:23:18:  D:\00-KE64\normol\trunk\Project\k64_rtt.uvprojx - μVision
+09:23:48:  荆文波
+09:23:53:  D:\00-KE64\normol\trunk\Project\k64_rtt.uvprojx - μVision
+09:32:28:  Box_2__BTCR-1100200101100016_20200429164530.log - selector.tat* - TextAnalysisTool.NET
+09:32:58:  Add Filter
+09:33:03:  Box_2__BTCR-1100200101100016_20200429164530.log - selector.tat* - TextAnalysisTool.NET
+09:33:38:  
+09:33:43:  eSpace
+09:33:48:  
+09:33:58:  http://192.168.28.47/08tcr测试过程记录/系统测试记录/模具2.0系统测试过程数据/系统测试过程数据/DRB测试/第2轮DRB测试/DRB-200120600010 - Internet Explorer
+09:34:03:  荆文波
+09:37:13:  
+09:37:53:  ID-9  民生银行DRB(7#)下腔大额存款300张后，执行普通取款，取款至298张报钞箱口 500ms纸币未进入 返回码0X025E0900,上腔剩余纸币状态完好
+09:38:08:  TCR调测工具 V3.36
+09:38:38:  
+09:38:53:  本地磁盘 (D:)
+09:38:58:  TCR调测工具 V3.36
+09:39:13:  1元测试日志
+09:39:18:  ID-9&nbsp; 民生银行DRB(7#)下腔大额存款300张后，执行普通取款，取款至298张报钞箱口 500ms纸币未进入 返回码0X025E0900,上腔剩余纸币状态完好
+09:39:23:  2
+09:39:33:  Decode
+09:39:38:  TCR调测工具 V3.36
+09:40:33:  1元测试日志
+09:40:38:  取款
+09:40:43:  可接收
+09:40:48:  TCR调测工具 V3.36
+09:41:33:  取款
+09:41:38:  TCR调测工具 V3.36
+09:42:43:  D:\00-06\1T1\Applications\Update\Update.c (1T1) - Sublime Text (UNREGISTERED)
+09:42:48:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+09:46:38:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c • (1T1) - Sublime Text (UNREGISTERED)
+09:46:43:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+09:46:53:  D:\00-06\DRB-Seclect-New\Project\CashBox_1T2.uvprojx - μVision
+09:46:58:  00-06
+09:47:03:  Project
+09:47:13:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+09:47:33:  
+09:47:38:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+09:48:18:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c • (1T1) - Sublime Text (UNREGISTERED)
+09:48:23:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+09:48:58:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c • (1T1) - Sublime Text (UNREGISTERED)
+09:49:08:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+09:49:23:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c • (1T1) - Sublime Text (UNREGISTERED)
+09:49:33:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+09:49:38:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c • (1T1) - Sublime Text (UNREGISTERED)
+09:49:48:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+09:50:03:  荆文波
+09:50:18:  2
+09:50:23:  Box_2__BTCR-1100200101100016_20200429164530.log - selector.tat* - TextAnalysisTool.NET
+09:50:28:  Box_2__BTCR-1100200101100016_20200430092646.log - selector.tat* - TextAnalysisTool.NET
+09:51:53:  
+09:51:58:  Project
+09:52:03:  D:\00-06\1T1\Tools\CreateJK.exe
+09:52:08:  打开
+09:52:18:  TCR调测工具 V3.36
+09:52:33:  取款
+09:52:38:  TCR调测工具 V3.36
+09:52:58:  1T1
+09:53:03:  荆文波
+09:53:18:  1T1
+09:53:23:  BTCRTestTool 属性
+09:53:28:  荆文波
+09:53:38:  20200430
+09:53:53:  荆文波
+09:53:58:  20200430
+09:54:03:  K64_0000_20200430095234.log - selector.tat* - TextAnalysisTool.NET
+09:54:18:  Add Filter
+09:54:23:  K64_0000_20200430095234.log - selector.tat* - TextAnalysisTool.NET
+09:54:33:  Edit Filter
+09:54:38:  
+09:54:43:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+09:54:48:  K64_0000_20200430095234.log - selector.tat* - TextAnalysisTool.NET
+09:54:53:  
+09:54:58:  荆文波
+09:55:38:  K64_0000_20200430095234.log - selector.tat* - TextAnalysisTool.NET
+09:55:43:  
+09:55:53:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+09:55:58:  Tools
+09:56:19:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+09:56:49:  D:\00-06\1T1\Tools\CreateJK.exe
+09:56:54:  TCR调测工具 V3.36
+09:56:59:  荆文波
+09:57:09:  TCR调测工具 V3.36
+09:57:14:  BTCRTestTool
+09:57:34:  BTCRTestTool V3.36
+09:57:39:  20200430
+09:57:49:  K64_0000_20200430095711.log - selector.tat* - TextAnalysisTool.NET
+09:57:54:  TCR调测工具 V3.36
+09:58:04:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+09:59:34:  K64_0000_20200430095711.log - selector.tat* - TextAnalysisTool.NET
+09:59:39:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+09:59:34:  K64_0000_20200430095711.log - selector.tat* - TextAnalysisTool.NET
+09:59:39:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+10:00:49:  D:\00-06\1T1\Middlewares\Plate\Plate.c (1T1) - Sublime Text (UNREGISTERED)
+10:00:54:  荆文波
+10:00:59:  D:\00-06\1T1\Applications\TrackCtrl\TrackCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+10:01:19:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+10:01:24:  D:\00-06\1T1\Applications\TrackCtrl\TrackCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+10:01:29:  
+10:01:34:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+10:01:44:  
+10:01:49:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+10:01:54:  Tools
+10:01:59:  D:\00-06\1T1\Tools\CreateJK.exe
+10:02:04:  打开
+10:02:09:  TCR调测工具 V3.36
+10:02:34:  取款
+10:02:39:  BTCRTestTool
+10:03:14:  
+10:03:19:  20200430
+10:03:24:  D:\00-06\1T1\Applications\TrackCtrl\TrackCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+10:03:39:  D:\00-06\1T1\Drivers\BldcDriver\BldcDriver.h (1T1) - Sublime Text (UNREGISTERED)
+10:03:44:  D:\00-06\1T1\Middlewares\Track\Track.h (1T1) - Sublime Text (UNREGISTERED)
+10:03:49:  D:\00-06\1T1\Drivers\BldcDriver\BldcDriver.h (1T1) - Sublime Text (UNREGISTERED)
+10:03:54:  D:\00-06\1T1\Applications\TrackCtrl\TrackCtrl.c • (1T1) - Sublime Text (UNREGISTERED)
+10:03:59:  TCR调测工具 V3.36
+10:04:04:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+10:04:54:  荆文波
+10:04:59:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+10:05:04:  
+10:05:09:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+10:05:39:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+10:05:44:  D:\00-06\1T1\Tools\CreateJK.exe
+10:05:49:  打开
+10:05:54:  TCR调测工具 V3.36
+10:06:04:  取款
+10:06:09:  BTCRTestTool
+10:06:34:  TCR调测工具 V3.36
+10:06:44:  取款
+10:06:49:  TCR调测工具 V3.36
+10:06:59:  
+10:07:04:  TCR调测工具 V3.36
+10:07:19:  荆文波
+10:07:39:  取款
+10:07:44:  TCR调测工具 V3.36
+10:08:04:  
+10:08:14:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+10:08:24:  
+10:08:29:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+10:08:34:  20200430
+10:08:44:  K64_0000_20200430100739.log - selector.tat* - TextAnalysisTool.NET
+10:08:54:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+10:10:04:  K64_0000_20200430100739.log - selector.tat* - TextAnalysisTool.NET
+10:10:09:  Decode
+10:10:14:  00-06
+10:10:19:  Tools
+10:10:29:  回复: 回复: BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T83 - 写邮件
+10:11:14:  
+10:11:24:  回复: 回复: BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T83 - 写邮件
+10:11:34:  Tools
+10:11:44:  回复: 回复: BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T83 - 写邮件   10:11:28 已保存
+10:11:49:  Tools
+10:11:54:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+10:14:44:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c • (1T1) - Sublime Text (UNREGISTERED)
+10:14:54:  D:\00-06\1T1\Applications\PlateCtrl\PlateCtrl.c (1T1) - Sublime Text (UNREGISTERED)
+10:15:09:  D:\00-06\1T1\Project\CashBox.uvprojx - μVision
+10:15:24:  荆文波
+10:16:19:  收取邮件 - 张开发
+10:16:24:  
+10:16:39:  Tools
+10:16:44:  运行
+10:16:49:  荆文波
+10:23:24:  
+10:23:34:  192.168.28.47
+10:23:39:  
+10:23:44:  主页 - Internet Explorer
+10:23:54:  新北洋OA信息化平台 - Internet Explorer
+10:24:04:  测试需求通知单II类提交 - Internet Explorer
+10:24:09:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+10:24:14:   -- 网页对话框
+10:24:29:  2_提交需求_测试需求通知单II类提交 - Internet Explorer
+10:24:39:  荆文波
+10:24:59:  
+10:25:14:  00-06
+10:25:19:  1元测试日志
+10:25:29:  2
+10:25:59:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:26:04:  荆文波
+10:26:19:  K64_BTCR-1100200101100016_20200430095152
+10:26:24:  Box_2__BTCR-1100200101100016_20200430095152.log - selector.tat* - TextAnalysisTool.NET
+10:34:20:  
+10:34:30:  转发: 回复: BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T83 - 写邮件
+10:34:40:  

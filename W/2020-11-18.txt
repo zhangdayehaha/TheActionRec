@@ -1,0 +1,866 @@
+08:09:34:  E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)
+08:11:50:  于斌1
+08:12:00:  E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)
+08:16:25:  于斌1
+08:16:40:  E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)
+08:16:50:  收取邮件 - 张开发
+08:17:00:  E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)
+08:17:05:  于斌1
+08:17:10:  E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)
+08:20:10:  于斌1
+08:20:20:  E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)
+08:24:20:  锁屏状态
+08:24:30:  本地磁盘 (C:)
+08:24:35:  00-06
+08:24:45:  1T1-82
+08:24:55:  D:\00-06\1T1-82 - 工作副本 - TortoiseSVN
+08:25:05:  Plate.c - TortoiseMerge
+08:26:10:  StepMotor.c - TortoiseMerge
+08:26:25:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:26:40:  Tools
+08:26:50:  TCR调测工具 V3.36
+08:28:55:  打开
+08:29:05:  TCR调测工具 V3.36
+08:29:45:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+08:28:55:  打开
+08:29:05:  TCR调测工具 V3.36
+08:29:45:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+08:30:05:  μVision
+08:30:10:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+08:30:15:  TCR调测工具 V3.36
+08:30:20:  D:\CRS\666\Applications\ImpellerCtrl\ImpellerCtrl.h (666) - Sublime Text (UNREGISTERED)
+08:30:25:  选择文件夹
+08:30:35:  untitled (10) - Sublime Text (UNREGISTERED)
+08:30:40:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+08:31:45:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+08:32:10:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+08:32:20:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+08:33:05:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+08:33:10:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+08:33:15:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+08:33:50:  本地磁盘 (D:)
+08:34:00:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+08:34:55:  Project
+08:35:00:  本地磁盘 (D:)
+08:35:05:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+08:35:30:  本地磁盘 (D:)
+08:35:45:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+08:35:50:  10
+08:35:55:  D:\00-KE64\10\Tools\CreateJK.exe
+08:36:00:  Tools
+08:36:05:  D:\00-KE64\10 - 更新 - TortoiseSVN
+08:36:10:  10
+08:36:15:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+08:36:25:  Tools
+08:36:30:  D:\00-KE64\10\Tools\CreateJK.exe
+08:36:35:  打开
+08:36:40:  TCR调测工具 V3.36
+08:39:05:  所有笔记本 - 张开发 - 印象笔记
+08:39:20:  TCR调测工具 V3.36
+08:39:35:  所有笔记本 - 张开发 - 印象笔记
+08:40:40:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+08:40:45:  TCR调测工具 V3.36
+08:41:20:  所有笔记本 - 张开发 - 印象笔记
+08:41:25:  TCR调测工具 V3.36
+08:44:55:  钞箱配置
+08:45:00:  TCR调测工具 V3.36
+08:44:55:  钞箱配置
+08:45:00:  TCR调测工具 V3.36
+08:45:40:  取款
+08:45:50:  TCR调测工具 V3.36
+08:45:55:  取款
+08:46:10:  TCR调测工具 V3.36
+08:46:15:  钞箱配置
+08:46:20:  TCR调测工具 V3.36
+08:47:05:  BTCRTestTool V3.36
+08:47:10:  TCRControlCmdDLL
+08:47:15:  20201118
+08:47:20:  Decode
+08:47:35:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+08:47:40:  K64_44444_20201118084625.log - [No filter file]* - TextAnalysisTool.NET
+08:47:45:  K64_44444_20201118084625.log - DRB.tat - TextAnalysisTool.NET
+08:48:15:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:49:45:  00-06
+08:49:50:  1T1-82
+08:49:55:  Tools
+08:50:00:  打开
+08:50:10:  TCR调测工具 V3.36
+08:51:35:  取款
+08:51:45:  TCR调测工具 V3.36
+08:52:00:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:52:25:  TCR调测工具 V3.36
+08:52:30:  Tools
+08:52:35:  log
+08:52:40:  20201118
+08:52:45:  K64_44444_20201118085141.log - DRB.tat - TextAnalysisTool.NET
+08:53:30:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:54:00:  K64_44444_20201118085141.log - DRB.tat - TextAnalysisTool.NET
+08:55:15:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+08:55:45:  K64_44444_20201118085141.log - DRB.tat - TextAnalysisTool.NET
+08:56:10:  计算器
+08:56:45:  K64_44444_20201118085141.log - DRB.tat - TextAnalysisTool.NET
+08:57:20:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+08:57:25:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+08:57:45:  K64_44444_20201118085141.log - DRB.tat - TextAnalysisTool.NET
+08:57:50:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+09:00:10:  K64_44444_20201118085141.log - DRB.tat - TextAnalysisTool.NET
+09:00:50:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+09:01:25:  K64_44444_20201118085141.log - DRB.tat - TextAnalysisTool.NET
+09:02:15:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+09:02:25:  K64_44444_20201118085141.log - DRB.tat - TextAnalysisTool.NET
+09:02:55:  Add Filter
+09:03:00:  K64_44444_20201118085141.log - DRB.tat* - TextAnalysisTool.NET
+09:03:40:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+09:03:50:  锁屏状态
+09:03:55:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+09:04:45:  K64_44444_20201118085141.log - DRB.tat* - TextAnalysisTool.NET
+09:05:40:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+09:06:25:  K64_44444_20201118085141.log - DRB.tat* - TextAnalysisTool.NET
+09:07:35:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+09:09:10:  锁屏状态
+09:09:20:  D:\00-06\1T1-82\Tools\CreateJK.exe
+09:09:25:  打开
+09:09:30:  TCR调测工具 V3.36
+09:10:25:  20201118
+09:10:30:  TCR调测工具 V3.36
+09:10:40:  20201118
+09:10:55:  Decode
+09:11:00:  K64_44444_20201118091020.log - DRB.tat* - TextAnalysisTool.NET
+09:11:40:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:12:10:  K64_44444_20201118091020.log - DRB.tat* - TextAnalysisTool.NET
+09:12:20:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+09:12:35:  K64_44444_20201118091020.log - DRB.tat* - TextAnalysisTool.NET
+09:13:20:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:18:25:  Decode
+09:18:30:  K64_44444_20201118091020.log - DRB.tat* - TextAnalysisTool.NET
+09:18:35:  K64_44444_20201118090946.log - DRB.tat* - TextAnalysisTool.NET
+09:18:40:  锁屏状态
+09:18:50:  桌面整理
+09:18:55:  正在打开 - Excel
+09:19:05:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:19:10:  K64_44444_20201118090946.log - DRB.tat* - TextAnalysisTool.NET
+09:19:30:  Add Filter
+09:19:40:  K64_44444_20201118090946.log - DRB.tat* - TextAnalysisTool.NET
+09:19:50:  Add Filter
+09:20:05:  K64_44444_20201118090946.log - DRB.tat* - TextAnalysisTool.NET
+09:20:25:  Add Filter
+09:20:30:  K64_44444_20201118090946.log - DRB.tat* - TextAnalysisTool.NET
+09:20:55:  TCR调测工具 V3.36
+09:21:35:  V1.003
+09:21:40:  TCR调测工具 V3.36
+09:22:16:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:22:21:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+09:22:56:  本地磁盘 (D:)
+09:23:01:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+09:23:21:  提交
+09:23:26:  D:\00-KE64\10 - 提交 - TortoiseSVN
+09:23:31:  CashGateModuleApp.c - TortoiseMerge
+09:23:51:  D:\00-KE64\10 - 提交 - TortoiseSVN
+09:23:56:  CashGateModuleApp.c - TortoiseMerge
+09:24:31:  历史记录
+09:24:36:  D:\00-KE64\10 - 提交 - TortoiseSVN
+09:25:51:  milestone.txt - 记事本
+09:26:31:  D:\00-KE64\10 - 提交 - TortoiseSVN
+09:26:46:  CashGateModuleApp.c - TortoiseMerge
+09:27:41:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:27:46:  TortoiseMerge
+09:27:51:  D:\00-KE64\10 - 提交 - TortoiseSVN
+09:28:01:  提交
+09:28:06:  TCR调测工具 V3.36
+09:28:11:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:28:16:  Tools
+09:28:21:  D:\00-KE64\10\Tools\CreateJK.exe
+09:28:26:  TCR调测工具 V3.36
+09:28:31:  打开
+09:28:36:  TCR调测工具 V3.36
+09:28:06:  TCR调测工具 V3.36
+09:28:11:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:28:16:  Tools
+09:28:21:  D:\00-KE64\10\Tools\CreateJK.exe
+09:28:26:  TCR调测工具 V3.36
+09:28:31:  打开
+09:28:36:  TCR调测工具 V3.36
+09:31:01:  取款
+09:31:06:  TCR调测工具 V3.36
+09:31:41:  20201118
+09:31:46:  Decode
+09:31:51:  K64_44444_20201118093104.log - DRB.tat* - TextAnalysisTool.NET
+09:32:11:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+09:32:31:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+09:32:36:  μVision
+09:32:46:  本地磁盘 (D:)
+09:32:51:  trunk
+09:32:56:  TrackCtrl.c - TortoiseMerge
+09:38:46:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+09:38:56:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:39:01:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision (未响应)
+09:39:06:  Project
+09:39:11:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+09:39:26:  trunk
+09:39:31:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+09:39:36:  Tools
+09:39:46:  TCR调测工具 V3.36
+09:39:51:  打开
+09:39:56:  TCR调测工具 V3.36
+09:40:11:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+09:41:01:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+09:41:06:  TCR调测工具 V3.36
+09:42:21:  取款
+09:42:26:  TCR调测工具 V3.36
+09:42:36:  Tools
+09:42:41:  Project
+09:42:46:  20201118
+09:43:01:  关于申报“2020年万名大学生聚集计划生活津贴”和“博士、硕士住房补助”的通知
+09:43:06:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:43:11:  20201118
+09:43:16:  Decode
+09:43:21:  K64_44444_20201118094224.log - DRB.tat* - TextAnalysisTool.NET
+09:43:31:  TextAnalysisTool.NET
+09:43:36:  关于申报“2020年万名大学生聚集计划生活津贴”和“博士、硕士住房补助”的通知
+09:43:56:  桌面整理
+09:44:01:  新建文件夹 (2)
+09:44:06:  Excel
+09:44:19:  附件1：万名大学生聚集计划生活津贴企业名单.xlsx - Excel
+09:44:39:  新建文件夹 (2)
+09:44:44:  附件5：继续申领住房补贴人员名单.xlsx - Excel
+09:44:06:  Excel
+09:44:19:  附件1：万名大学生聚集计划生活津贴企业名单.xlsx - Excel
+09:44:39:  新建文件夹 (2)
+09:44:44:  附件5：继续申领住房补贴人员名单.xlsx - Excel
+09:45:29:  eSpace
+09:45:34:  于斌1
+09:45:59:  附件5：继续申领住房补贴人员名单.xlsx - Excel
+09:46:09:  新建文件夹 (2)
+09:46:14:  附件6：2019高区：万名大学生聚集计划生活津贴申请名单.xlsx - Excel
+09:46:39:  于斌1
+09:47:04:  附件6：2019高区：万名大学生聚集计划生活津贴申请名单.xlsx - Excel
+09:47:09:  附件7：2019环翠区：万名大学生聚集计划生活津贴申请名单.xlsx - Excel
+09:47:19:  新建文件夹 (2)
+09:47:29:  附件4：环翠区“企业博士、硕士聚集计划”住房补助申请表.docx [兼容模式] - Word
+09:47:34:  新建文件夹 (2)
+09:47:39:  附件3：威海市英才计划博士硕士住房补助申请表.doc [兼容模式] - Word
+09:47:44:  新建文件夹 (2)
+09:47:54:  新政策：关于申报2020年万名大学生聚集计划生活津贴和博士硕士住房补助的公告.docx - Word
+09:50:39:  新建文件夹 (2)
+09:50:44:  老政策：关于申报2019年万名大学生聚集计划生活津贴和博士硕士住房补助的公告.docx - Word
+09:50:59:  新建文件夹 (2)
+09:51:04:  正在打开 - Excel
+09:51:09:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+09:52:39:  新建文件夹 (2)
+09:52:59:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+09:53:14:  新建文件夹 (2)
+09:53:24:  关于申报“2020年万名大学生聚集计划生活津贴”和“博士硕士住房补助”的说明.docx - Word
+10:01:39:  新标签页 - Google Chrome
+10:02:04:  www.baidu.com - Google Chrome
+10:02:09:  qq邮箱_百度搜索 - Google Chrome
+10:02:14:  登录QQ邮箱 - Google Chrome
+10:02:49:  中信银行个人账户明细证明书 - QQ邮箱 - Google Chrome
+10:03:09:  新建文本文档.exe - 快捷方式
+10:03:14:  Subversion
+10:03:19:  输入密码
+10:03:24:  Subversion
+10:03:29:  于斌1
+10:03:44:  URCP_001_ECPS_ZXLS_fc5459e24d2a4d9e8be2b89c3f827161_20201118.pdf
+10:03:49:  于斌1
+10:03:59:  URCP_001_ECPS_ZXLS_fc5459e24d2a4d9e8be2b89c3f827161_20201118.pdf - Adobe Reader
+10:06:50:  URCP_001_ECPS_ZXLS_fc5459e24d2a4d9e8be2b89c3f827161_20201118.pdf
+10:08:05:  计算器
+10:11:46:  关于申报“2020年万名大学生聚集计划生活津贴”和“博士硕士住房补助”的说明.docx - Word
+10:12:31:  WinRAR
+10:12:36:  张开发劳务合同.jpg - Windows 照片查看器
+10:12:56:  新北洋 张开发.rar - WinRAR (非商业个人版)
+10:13:01:  张开发银行流水.jpg - Windows 照片查看器
+10:13:26:  URCP_001_ECPS_ZXLS_fc5459e24d2a4d9e8be2b89c3f827161_20201118.pdf
+10:13:31:  URCP_001_ECPS_ZXLS_fc5459e24d2a4d9e8be2b89c3f827161_20201118.pdf - Adobe Reader
+10:14:01:  「开始」菜单
+10:14:06:  计算器
+10:14:06:  计算器
+10:17:21:  新北洋 张开发.rar - WinRAR (非商业个人版)
+10:17:26:  关于申报“2020年万名大学生聚集计划生活津贴”和“博士硕士住房补助”的说明.docx - Word
+10:17:31:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+10:17:46:  1T1-Stop-Length
+10:17:51:  trunk
+10:18:41:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+10:34:06:  Project
+10:34:11:  μVision
+10:34:16:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:34:31:  1T1-82
+10:34:36:  μVision
+10:34:41:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+10:34:51:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:35:11:  Toolbox
+10:35:16:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+10:37:16:  程明昌
+10:37:21:  主页 - Internet Explorer
+10:37:26:  Windows 安全
+10:37:36:  管理规定 - Internet Explorer
+10:37:41:  程明昌
+10:37:46:  Windows 安全
+10:37:51:  管理规定 - Internet Explorer
+10:38:01:  程明昌
+10:38:11:  LogExpert - D:\fenxi\爆仓问题(1)\log\log\TCRControlCmdDLL\20201110\Decode\CS_0000_20201110134515.log
+10:38:21:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181036.log
+10:38:46:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+10:39:01:  跳转列表
+10:39:06:  锁屏状态
+10:39:11:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+10:39:16:  D:\00-06\DRB--\Applications\Update\Update.c (DRB--) - Sublime Text (UNREGISTERED)
+10:39:46:  选择文件夹
+10:39:51:  untitled (1T1-82) - Sublime Text (UNREGISTERED)
+10:40:01:  D:\00-06\1T1-82\Applications\PlateCtrl\PlateCtrl.c (1T1-82) - Sublime Text (UNREGISTERED)
+10:40:06:  机票发票信息
+10:40:16:  D:\00-06\1T1-82\Applications\PlateCtrl\PlateCtrl.c (1T1-82) - Sublime Text (UNREGISTERED)
+10:40:51:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+10:49:41:  开始
+10:49:46:  所有笔记本 - 张开发 - 印象笔记
+10:49:56:  0-工作 - 张开发 - 印象笔记
+10:50:01:  开始
+10:50:06:  钞箱资料 - Everything
+10:50:11:  SNBC-016-20-V1.2 技术评审委员管理规定
+10:50:16:  钞箱资料
+10:50:21:  EXTFEDUV21_1t1.PDF - Adobe Reader
+10:50:26:  D:\00-06\1T1-82\Applications\PlateCtrl\PlateCtrl.c (1T1-82) - Sublime Text (UNREGISTERED)
+10:50:41:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+10:50:46:  EXTFEDUV21_1t1.PDF - Adobe Reader
+10:51:11:  锁屏状态
+10:51:16:  转发: 关于申报“2020年万名大学生聚集计划生活津贴”和“博士、硕士住房补助”的通知
+10:51:51:  EXTFEDUV21_1t1.PDF - Adobe Reader
+10:54:11:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+10:55:01:  KE06LOG.bat - 快捷方式 (2)
+10:55:06:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181055.log
+10:56:56:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+10:57:21:  技术中心字【2020】06号红头文：关于技术中心张蛟龙同志任命项目经理的通知.pdf
+10:57:31:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+10:58:06:  K64_44444_20201118094224.log - DRB.tat* - TextAnalysisTool.NET
+10:58:11:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+10:58:16:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181055.log
+10:58:21:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+10:58:56:  计算器
+10:59:06:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181055.log
+10:59:31:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+10:58:06:  K64_44444_20201118094224.log - DRB.tat* - TextAnalysisTool.NET
+10:58:11:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+10:58:16:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181055.log
+10:58:21:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+10:58:56:  计算器
+10:59:06:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181055.log
+10:59:31:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:00:41:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+11:00:56:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:01:06:  D:\00-06\1T1-82\Applications\PlateCtrl\PlateCtrl.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:01:16:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:01:51:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+11:01:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181055.log
+11:02:06:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:02:26:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:02:36:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+11:03:21:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+11:03:26:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:03:31:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:03:41:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:03:46:  μVision
+11:03:51:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+11:03:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181103.log
+11:04:36:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+11:04:51:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181103.log
+11:05:16:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:05:46:  D:\00-06\1T1-82\Middlewares\StepMotor\StepMotor.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:05:56:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:06:21:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:06:46:  D:\00-06\1T1-82\Middlewares\StepMotor\StepMotor.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:06:51:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:07:16:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:07:56:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:08:01:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:08:11:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:08:31:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:08:36:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:08:41:  D:\00-06\1T1-82\Middlewares\StepMotor\StepMotor.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:08:46:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:09:01:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:09:06:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+11:10:11:  Toolbox
+11:10:16:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+11:10:26:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181103.log
+11:10:31:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181110.log
+11:10:41:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+11:10:51:  锁屏状态
+11:10:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181110.log
+11:11:26:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+11:11:31:  锁屏状态
+11:11:36:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181110.log
+11:11:41:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+11:12:01:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181110.log
+11:12:21:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+11:13:51:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:14:41:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181110.log
+11:14:41:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181110.log
+11:15:07:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:15:12:  D:\00-06\1T1-82\Applications\PlateCtrl\PlateCtrl.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:15:22:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:18:42:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:26:02:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:26:07:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:26:12:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:27:17:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:28:37:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:29:02:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:29:12:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:29:22:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:29:42:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:29:47:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:28:37:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:29:02:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:29:12:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:29:22:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:29:42:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:29:47:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:30:12:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:31:27:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:32:07:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:32:32:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:32:47:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:32:52:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:33:02:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:33:32:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:33:42:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:37:27:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:37:47:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:37:57:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:38:07:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:38:17:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:38:32:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:38:37:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:38:42:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:38:47:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:39:17:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:39:22:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:39:37:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:39:47:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:39:52:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:39:57:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:40:02:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+11:40:17:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+11:40:42:  锁屏状态
+13:13:32:  程明昌
+13:13:42:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+13:19:02:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:19:22:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+13:19:32:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:20:07:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+13:20:12:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:20:17:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+13:20:32:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:23:02:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+13:23:07:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:23:17:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+13:23:27:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:24:17:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+13:24:22:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:24:27:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+13:24:37:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:24:47:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+13:24:57:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:25:12:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+13:25:32:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:25:37:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+13:25:42:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:25:57:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+13:26:02:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:27:02:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+13:28:07:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181110.log
+13:28:12:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+13:28:22:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181327.log
+13:28:32:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+13:28:42:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181327.log
+13:30:02:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+13:28:07:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181110.log
+13:28:12:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+13:28:22:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181327.log
+13:28:32:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+13:28:42:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181327.log
+13:30:02:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+13:32:52:  00-06
+13:32:57:  trunk
+13:33:02:  D:\00-06\1T1-82\Tools\CreateJK.exe
+13:33:07:  Tools
+13:33:12:  打开
+13:33:17:  TCR调测工具 V3.36
+13:33:27:  打开
+13:33:32:  TCR调测工具 V3.36
+13:36:22:  跳转列表
+13:36:27:  TCRControlCmdDLL
+13:36:32:  20201118
+13:36:37:  回收
+13:36:42:  20201118
+13:37:12:  Decode
+13:37:17:  K64_44444_20201118133505.log - DRB.tat* - TextAnalysisTool.NET
+13:37:22:  桌面整理
+13:37:27:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:37:32:  K64_44444_20201118133505.log - DRB.tat* - TextAnalysisTool.NET
+13:37:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:42:17:  TCR调测工具 V3.36
+13:42:47:  可接收
+13:42:52:  TCR调测工具 V3.36
+13:43:27:  20201118
+13:43:32:  Decode
+13:43:37:  K64_44444_20201118134256.log - DRB.tat* - TextAnalysisTool.NET
+13:43:52:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:44:02:  锁屏状态
+13:44:07:  TCR调测工具 V3.36
+13:44:12:  托板控制
+13:44:22:  TCR调测工具 V3.36
+13:44:07:  TCR调测工具 V3.36
+13:44:12:  托板控制
+13:44:22:  TCR调测工具 V3.36
+13:46:27:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+13:46:42:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+13:47:07:  TCR调测工具 V3.36
+13:47:22:  Decode
+13:47:32:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:47:37:  K64_44444_20201118134605.log - DRB.tat* - TextAnalysisTool.NET
+13:47:42:  TCR调测工具 V3.36
+13:48:22:  K64_44444_20201118134605.log - DRB.tat* - TextAnalysisTool.NET
+13:48:27:  20201118
+13:48:37:  TCR调测工具 V3.36
+13:48:42:  20201118
+13:48:47:  Decode
+13:48:52:  K64_44444_20201118134739.log - DRB.tat* - TextAnalysisTool.NET
+13:49:12:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:49:17:  K64_44444_20201118134739.log - DRB.tat* - TextAnalysisTool.NET
+13:49:22:  TCR调测工具 V3.36
+13:51:17:  Decode
+13:51:23:  K64_44444_20201118135036.log - DRB.tat* - TextAnalysisTool.NET
+13:51:38:  Edit Filter
+13:51:43:  K64_44444_20201118135036.log - DRB.tat* - TextAnalysisTool.NET
+13:54:43:  自动播放
+13:55:38:  K64_44444_20201118135036.log - DRB.tat* - TextAnalysisTool.NET
+13:59:48:  Decode
+13:59:58:  于斌1
+13:59:48:  Decode
+13:59:58:  于斌1
+14:00:13:  K64_44444_20201118135036.log - DRB.tat* - TextAnalysisTool.NET
+14:00:23:  于斌1
+14:00:33:  K64_44444_20201118135036.log - DRB.tat* - TextAnalysisTool.NET
+14:01:53:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+14:02:23:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+14:02:28:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+14:02:33:  跳转列表
+14:02:38:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+14:02:58:  EXTFEDUV21_1t1.PDF - Adobe Reader
+14:05:48:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+14:05:53:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+14:10:33:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:10:38:  EXTFEDUV21_1t1.PDF - Adobe Reader
+14:13:48:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+14:20:23:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181419.log
+14:21:18:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+14:21:23:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181419.log
+14:21:28:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+14:22:03:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181419.log
+14:22:43:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+14:22:58:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181419.log
+14:24:28:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+14:24:53:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181419.log
+14:25:08:  D:\00-06\1T1-82\Project\CashBox.uvprojx - μVision
+14:25:28:  eSpace
+14:25:33:  王亮杰
+14:26:03:  自动播放
+14:31:58:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+14:32:13:  D:\00-06\DRB--\Applications\Update\Update.c (DRB--) - Sublime Text (UNREGISTERED)
+14:32:18:  D:\00-06\DRB--\Middlewares\Plate\LowerPlate.c (DRB--) - Sublime Text (UNREGISTERED)
+14:32:28:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+14:36:08:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:36:13:  00-06
+14:36:18:  工作副本
+14:36:23:  D:\00-06\DRB-NearFull - 工作副本 - TortoiseSVN
+14:36:33:  D:\00-06\DRB-NearFull - 日志信息 - TortoiseSVN
+14:36:48:  InstrExecute.c Revision 4083 - TortoiseMerge
+14:36:53:  UpperPlateCtrl.c Revision 4083 - TortoiseMerge
+14:37:48:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:37:53:  选择文件夹
+14:38:03:  untitled (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:38:13:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:38:18:  D:\00-06\DRB-NearFull\Middlewares\Plate\PressurePlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:38:28:  D:\00-06\DRB-NearFull\Middlewares\Plate\UpperPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:39:13:  D:\00-06\DRB-NearFull\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:41:38:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:41:53:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c • (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:42:03:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:42:38:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:42:53:  锁屏状态
+14:42:58:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c • (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:43:18:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:43:43:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c • (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:44:33:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:44:43:  D:\00-06\1T1-82\Middlewares\Plate\Plate.h (1T1-82) - Sublime Text (UNREGISTERED)
+14:44:48:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:44:33:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:44:43:  D:\00-06\1T1-82\Middlewares\Plate\Plate.h (1T1-82) - Sublime Text (UNREGISTERED)
+14:44:48:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:45:08:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181419.log
+14:45:28:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:46:48:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181419.log
+14:47:43:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:47:48:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c • (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:47:53:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:47:58:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:48:03:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c • (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:48:08:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:48:18:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+14:48:23:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:48:33:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c • (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:48:48:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:48:53:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c • (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:48:58:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:49:53:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c • (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:50:08:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:50:13:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c • (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:50:23:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:51:28:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c • (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:51:33:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:51:48:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+14:54:48:  KE06LOG.bat - 快捷方式 (2)
+14:55:03:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+14:55:53:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181454.log
+14:56:08:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+14:56:18:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181454.log
+14:56:23:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+14:56:38:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181454.log
+14:57:18:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+14:57:28:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181454.log
+14:57:38:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+14:59:03:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181458.log
+14:59:28:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+14:59:38:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181458.log
+14:59:58:  D:\00-06\DRB-NearFull\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:59:03:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181458.log
+14:59:28:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+14:59:38:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181458.log
+14:59:58:  D:\00-06\DRB-NearFull\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+15:00:08:  D:\00-06\DRB-NearFull\Middlewares\Plate\UpperPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+15:00:13:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181458.log
+15:00:18:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:00:23:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181458.log
+15:01:03:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:04:38:  计算器
+15:04:53:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:06:38:  计算器
+15:07:48:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:08:23:  计算器
+15:08:58:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:20:43:  KE06LOG.bat - 快捷方式 (2)
+15:20:48:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181520.log
+15:21:18:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:21:43:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181520.log
+15:28:18:  选择文件夹
+15:28:33:  untitled (10) - Sublime Text (UNREGISTERED)
+15:28:38:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+15:29:43:  未命名 - 写邮件
+15:28:18:  选择文件夹
+15:28:33:  untitled (10) - Sublime Text (UNREGISTERED)
+15:28:38:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+15:29:43:  未命名 - 写邮件
+15:30:43:  未命名 - 写邮件   15:30:43 已保存
+15:31:43:  未命名 - 写邮件   15:31:43 已保存
+15:32:43:  未命名 - 写邮件   15:32:43 已保存
+15:33:03:  容量 - 写邮件   15:32:55 已保存
+15:33:08:  容量更新结构数据 - 写邮件   15:32:55 已保存
+15:33:18:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+15:34:03:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+15:34:13:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+15:34:28:  D:\00-06\DRB-NearFull\Middlewares\Plate\UpperPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+15:34:33:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+15:35:48:  计算器
+15:36:23:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+15:36:28:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+15:36:53:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+15:38:03:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+15:41:08:  D:\00-06\1T1-82\Applications\PlateCtrl\PlateCtrl.c (1T1-82) - Sublime Text (UNREGISTERED)
+15:41:28:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+15:43:53:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:45:18:  Toolbox
+15:45:23:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:46:03:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181520.log
+15:46:08:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181546.log
+15:46:28:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:46:49:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181546.log
+15:49:09:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:50:59:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+15:51:04:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+15:53:59:  Toolbox
+15:54:04:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:55:34:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181546.log
+15:55:39:  KE06LOG.bat - 快捷方式 (2)
+15:55:44:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:55:59:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181555.log
+15:56:19:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+15:56:54:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c • (DRB-NearFull) - Sublime Text (UNREGISTERED)
+15:56:59:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+15:57:04:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+15:58:14:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:58:19:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+15:58:24:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+15:58:29:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:59:14:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181559.log
+15:59:44:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:59:49:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181559.log
+15:58:14:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:58:19:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+15:58:24:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+15:58:29:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:59:14:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181559.log
+15:59:44:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+15:59:49:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181559.log
+16:00:09:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+16:00:39:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011181559.log
+16:00:54:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+16:08:54:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+16:09:39:  D:\00-06\DRB-NearFull\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+16:09:54:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+16:10:04:  D:\00-06\1T1-82\Applications\PlateCtrl\PlateCtrl.c (1T1-82) - Sublime Text (UNREGISTERED)
+16:11:09:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+16:11:19:  D:\00-06\1T1-82\Applications\PlateCtrl\PlateCtrl.c (1T1-82) - Sublime Text (UNREGISTERED)
+16:11:49:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+16:12:24:  D:\00-06\1T1-82\Applications\PlateCtrl\PlateCtrl.c (1T1-82) - Sublime Text (UNREGISTERED)
+16:13:59:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+16:14:04:  D:\00-06\1T1-82\Applications\PlateCtrl\PlateCtrl.c (1T1-82) - Sublime Text (UNREGISTERED)
+16:18:49:  「开始」菜单
+16:20:39:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+16:27:34:  D:\00-KE64\10\Applications\FlowControl\Plate\PlateModuleIF.h (10) - Sublime Text (UNREGISTERED)
+16:27:39:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+16:28:24:  D:\00-KE64\10\Applications\FlowControl\Plate\PlateModuleIF.h (10) - Sublime Text (UNREGISTERED)
+16:28:29:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+16:28:39:  D:\00-KE64\10\Applications\FlowControl\Plate\PlateModuleIF.h (10) - Sublime Text (UNREGISTERED)
+16:28:44:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+16:29:44:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+16:29:49:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+16:28:24:  D:\00-KE64\10\Applications\FlowControl\Plate\PlateModuleIF.h (10) - Sublime Text (UNREGISTERED)
+16:28:29:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+16:28:39:  D:\00-KE64\10\Applications\FlowControl\Plate\PlateModuleIF.h (10) - Sublime Text (UNREGISTERED)
+16:28:44:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+16:29:44:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+16:29:49:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+16:30:39:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+16:31:09:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+16:31:14:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+16:31:29:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+16:31:34:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+16:36:54:  D:\00-KE64\10\Applications\FlowControl\TrackModule\GateModule.h (10) - Sublime Text (UNREGISTERED)
+16:37:04:  D:\00-KE64\10\Applications\FlowControl\Plate\PlateModuleIF.h (10) - Sublime Text (UNREGISTERED)
+16:37:09:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (10) - Sublime Text (UNREGISTERED)
+16:37:19:  D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (10) - Sublime Text (UNREGISTERED)
+16:37:44:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+16:39:59:  TCR调测工具 V3.36
+16:40:04:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+16:40:09:  Project
+16:40:14:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+16:40:19:  00-KE64
+16:40:24:  10
+16:40:29:  SECSplashWnd
+16:40:34:  μVision
+16:40:39:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+16:41:24:  00-KE64
+16:41:29:  D:\00-KE64\10\Tools\CreateJK.exe
+16:41:54:  TCR调测工具 V3.36
+16:41:59:  打开
+16:42:04:  TCR调测工具 V3.36
+16:42:19:  BTCRTestTool
+16:42:24:  打开
+16:42:49:  00-06
+16:42:54:  D:\00-06\DRB-NearFull\Tools\CreateJK.exe
+16:43:04:  打开
+16:43:09:  TCR调测工具 V3.36
+16:43:44:  20201118
+16:43:49:  TCR调测工具 V3.36
+16:44:19:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+16:44:54:  计算器
+16:45:04:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+16:44:19:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+16:44:54:  计算器
+16:45:04:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+16:45:09:  D:\00-06\DRB-NearFull\Middlewares\Plate\PlateCommon.h (DRB-NearFull) - Sublime Text (UNREGISTERED)
+16:45:14:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+16:47:04:  JLink - Cortex-M Error
+16:47:09:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+16:48:24:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+16:49:44:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+16:49:49:  Tools
+16:49:54:  TCR调测工具 V3.36
+16:50:24:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+16:50:29:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+16:50:39:  TCR调测工具 V3.36
+16:51:34:  20201118
+16:51:39:  TCRControlCmdDLL
+16:51:44:  Decode
+16:51:49:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:51:54:  Decode
+16:52:09:  K64_44444_20201118165039
+16:52:14:  Box_1__44444_20201118165039.log - DRB.tat* - TextAnalysisTool.NET
+16:54:29:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+16:55:19:  Box_1__44444_20201118165039.log - DRB.tat* - TextAnalysisTool.NET
+16:55:34:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+16:56:29:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c • (DRB-NearFull) - Sublime Text (UNREGISTERED)
+16:56:34:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+16:56:49:  Tools
+16:56:54:  Box_1__44444_20201118165039.log - DRB.tat* - TextAnalysisTool.NET
+16:57:04:  D:\00-06\DRB-NearFull\Tools\CreateJK.exe
+16:57:09:  TCR调测工具 V3.36
+16:57:19:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+16:57:44:  TCR调测工具 V3.36
+16:57:49:  于斌1
+16:57:54:  TCR调测工具 V3.36
+16:57:59:  于斌1
+16:58:04:  本地磁盘 (D:)
+16:58:09:  trunk
+16:58:14:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:58:19:  于斌1
+16:58:44:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:58:49:  于斌1
+16:58:54:  TCR调测工具 V3.36
+16:58:59:  trunk
+16:59:04:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:59:09:  08tcr测试过程记录
+16:59:14:  样机配置履历表
+16:59:19:  于斌1
+16:59:24:  BTCR-1100-固件更改记录_V100.xls  [受保护的视图] - Excel
+16:59:44:  0-工作 - 张开发 - 印象笔记
+16:59:49:  印象笔记
+16:59:54:  无标题笔记 - 印象笔记
+16:58:09:  trunk
+16:58:14:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:58:19:  于斌1
+16:58:44:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:58:49:  于斌1
+16:58:54:  TCR调测工具 V3.36
+16:58:59:  trunk
+16:59:04:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:59:09:  08tcr测试过程记录
+16:59:14:  样机配置履历表
+16:59:19:  于斌1
+16:59:24:  BTCR-1100-固件更改记录_V100.xls  [受保护的视图] - Excel
+16:59:44:  0-工作 - 张开发 - 印象笔记
+16:59:49:  印象笔记
+16:59:54:  无标题笔记 - 印象笔记
+17:00:14:  0-工作 - 张开发 - 印象笔记
+17:00:19:  1、增加1T1钞箱钞间距过短(<=10mm)时，电机停进行调整的功能 - 印象笔记
+17:00:29:  0-工作 - 张开发 - 印象笔记
+17:00:39:  1、增加1T1钞箱钞间距过短(<=10mm)时，电机停进行调整的功能 - 印象笔记
+17:00:54:  eSpace
+17:00:59:  于斌1
+17:01:34:  1、增加1T1钞箱钞间距过短(<=10mm)时，电机停进行调整的功能 - 印象笔记
+17:02:34:  更改问题： - 印象笔记
+17:03:19:  于斌1
+17:03:39:  更改问题： - 印象笔记
+17:03:54:  跳转列表
+17:03:59:  TCRControlCmdDLL
+17:04:04:  Decode
+17:04:09:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+17:04:14:  K64_44444_20201118165854
+17:04:19:  Box_1__44444_20201118165854.log - DRB.tat* - TextAnalysisTool.NET
+17:06:14:  K64_44444_20201118165854
+17:06:19:  D:\00-06\DRB-NearFull\Middlewares\Plate\UpperPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+17:06:29:  D:\00-06\DRB-NearFull\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+17:06:44:  Box_1__44444_20201118165854.log - DRB.tat* - TextAnalysisTool.NET
+17:07:54:  D:\00-06\DRB-NearFull\Applications\PlateCtrl\UpperPlateCtrl.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+17:07:59:  锁屏状态

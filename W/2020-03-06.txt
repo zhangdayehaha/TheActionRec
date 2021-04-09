@@ -1,0 +1,638 @@
+08:02:49:  网易有道词典
+08:03:00:  PostWork.py - 快捷方式
+08:03:30:  Windows 资源管理器
+08:03:35:  本地磁盘 (D:)
+08:04:00:  Dialog
+08:04:15:  D:\00-06\6\branches\BR-1-CashBox1T2\Cpu\MKE06Z4.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:04:20:  本地磁盘 (D:)
+08:04:25:  6
+08:04:30:  Project
+08:04:35:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:04:55:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:05:00:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:05:05:  
+08:05:15:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:13:25:  
+08:13:30:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:16:40:  Project
+08:16:45:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:18:15:  KE06LOG.bat - 快捷方式 (2)
+08:18:25:  
+08:18:35:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060818.log
+08:18:55:  计算器
+08:19:05:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060818.log
+08:20:45:  自动播放
+08:20:50:  iTunes
+08:21:15:  自动播放
+08:21:25:  「开始」菜单
+08:21:30:  计算机管理
+08:21:50:  任务计划程序
+08:21:55:  计算机管理
+08:22:50:  
+08:22:55:  Windows 任务管理器
+08:23:10:  计算机管理
+08:23:35:  新标签页 - Google Chrome
+08:23:40:  登录页面 - 数据抓取工具 - Google Chrome
+08:23:50:  新标签页 - Google Chrome
+08:24:00:  192.168.28.228 - Google Chrome
+08:24:05:  班车管理系统 - Google Chrome
+08:24:15:  班车管理系统 [新北洋集团] - Google Chrome
+08:24:20:  数据抓取工具 - Google Chrome
+08:24:35:  登录页面 - 数据抓取工具 - Google Chrome
+08:24:40:  数据抓取工具 - Google Chrome
+08:25:05:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060818.log
+08:25:25:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:26:10:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:26:25:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:28:00:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060818.log
+08:28:05:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:29:35:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:30:00:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:28:05:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:29:35:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:30:00:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:30:20:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:30:25:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:30:35:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:30:45:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:30:55:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:31:35:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:31:40:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:32:05:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:32:30:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:32:35:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060818.log
+08:32:40:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:32:45:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:34:35:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:35:10:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:36:10:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:36:15:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:36:30:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:36:55:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:37:00:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:37:10:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:37:25:  
+08:37:40:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:37:45:  
+08:38:05:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060837.log
+08:38:50:  
+08:38:55:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:40:50:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:42:55:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:43:10:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:46:10:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:46:20:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:47:35:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:47:45:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Nfc\Nfc.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:48:00:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:48:25:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c • (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:48:55:  μVision
+08:49:00:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:49:05:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:49:10:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:49:45:  
+08:50:20:  数据抓取工具 - Google Chrome
+08:51:40:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060849.log
+08:51:45:  数据抓取工具 - Google Chrome
+08:51:55:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060849.log
+08:52:00:  数据抓取工具 - Google Chrome
+08:53:05:  新标签页 - Google Chrome
+08:53:10:  数据抓取工具 - Google Chrome
+08:53:25:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060849.log
+08:53:55:  数据抓取工具 - Google Chrome
+08:54:05:  Project
+08:54:10:  数据抓取工具 - Google Chrome
+08:54:50:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060849.log
+08:55:15:  数据抓取工具 - Google Chrome
+08:55:55:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060849.log
+08:56:15:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:56:56:  Project
+08:57:01:  W
+08:57:06:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-06.txt
+08:57:21:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:58:11:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060849.log
+08:58:16:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+08:58:11:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060849.log
+08:58:16:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:00:06:  Toolbox
+09:00:11:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:00:26:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+09:00:31:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:05:26:  
+09:05:46:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:12:01:  Visio Professional
+09:12:06:  Microsoft Office 激活向导
+09:12:11:  绘图1.vsd  [兼容模式] - Visio Professional
+09:12:16:  W
+09:12:21:  WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\WorkTime.py (3.7.3)
+09:12:26:  *WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\WorkTime.py (3.7.3)*
+09:12:31:  Figure 1
+09:12:36:  TheActtionRec
+09:12:41:  Bin
+09:12:56:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060849.log
+09:13:01:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-06.txt
+09:13:06:  Log
+09:13:11:  Bin
+09:13:16:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+09:13:56:  *GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)*
+09:14:56:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-06.txt
+09:15:06:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060818.log
+09:15:11:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060837.log
+09:15:16:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060849.log
+09:15:21:  数据抓取工具 - Google Chrome
+09:16:01:  192.168.28.52:8080/common/templates/home.html - Google Chrome
+09:16:11:  数据抓取工具 - Google Chrome
+09:16:16:  192.168.28.52:8080/common/templates/home.html - Google Chrome
+09:16:21:  数据抓取工具 - Google Chrome
+09:17:16:  Apache Tomcat/7.0.81 - Error report - Google Chrome
+09:17:31:  数据抓取工具 - Google Chrome
+09:17:41:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-06.txt
+09:17:51:  
+09:17:56:  新标签页 - Google Chrome
+09:18:01:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-06.txt
+09:18:06:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060849.log
+09:18:11:  新标签页 - Google Chrome
+09:18:16:  新建文本文档.exe - 快捷方式
+09:18:21:  
+09:18:26:  Subversion
+09:18:31:  C:\Users\zhangkaifa\Documents\GIF 2020-3-5 13-16-34.gif - Internet Explorer
+09:19:21:  C:\Users\zhangkaifa\Documents\GIF 2020-3-5 13-21-27.gif - Internet Explorer
+09:19:51:  文档
+09:19:56:  
+09:20:06:  C:\Users\zhangkaifa\Desktop\11.gif - Internet Explorer
+09:20:16:  
+09:20:21:  C:\Users\zhangkaifa\Desktop\11.gif - Internet Explorer
+09:21:26:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:21:36:  新标签页 - Google Chrome
+09:21:41:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:22:12:  
+09:22:27:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:22:47:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Nfc\Nfc.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:23:02:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:23:37:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:24:32:  绘图1.vsd  [兼容模式] - Visio Professional
+09:24:47:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:24:57:  (34 封私信 / 80 条消息) 如何看待《爱情公寓5》的大结局？ - 知乎 - Google Chrome
+09:25:07:  Subversion
+09:25:12:  letgo
+09:25:17:  C:\Windows\system32\cmd.exe
+09:25:32:  start
+09:25:37:  letgo
+09:25:42:  
+09:25:47:  start
+09:25:52:  letgo
+09:25:57:  middlewares.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\middlewares.py (3.7.3)
+09:26:27:  C:\Windows\system32\cmd.exe
+09:26:37:  pipelines.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\pipelines.py (3.7.3)
+09:26:57:  spiders
+09:27:02:  pachong.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\spiders\pachong.py (3.7.3)
+09:28:17:  C:\Windows\system32\cmd.exe
+09:28:22:  pachong.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\spiders\pachong.py (3.7.3)
+09:29:02:  letgo
+09:29:07:  C:\Windows\system32\cmd.exe
+09:29:27:  letgo
+09:29:32:  config.ini - 记事本
+09:29:47:  letgo
+09:29:57:  spiders
+09:30:02:  pachong.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\spiders\pachong.py (3.7.3)
+09:28:17:  C:\Windows\system32\cmd.exe
+09:28:22:  pachong.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\spiders\pachong.py (3.7.3)
+09:29:02:  letgo
+09:29:07:  C:\Windows\system32\cmd.exe
+09:29:27:  letgo
+09:29:32:  config.ini - 记事本
+09:29:47:  letgo
+09:29:57:  spiders
+09:30:02:  pachong.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\spiders\pachong.py (3.7.3)
+09:31:28:  Search Dialog
+09:32:13:  pachong.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\spiders\pachong.py (3.7.3)
+09:32:23:  letgo
+09:32:28:  config.ini - 记事本
+09:32:33:  letgo
+09:32:38:  middlewares.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\middlewares.py (3.7.3)
+09:33:03:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+09:33:13:  (34 封私信 / 80 条消息) 有哪些一听就能让人发愤好好学习的句子？ - 知乎 - Google Chrome
+09:33:18:  C:\Windows\system32\cmd.exe
+09:33:28:  middlewares.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\middlewares.py (3.7.3)
+09:33:48:  C:\Windows\system32\cmd.exe
+09:33:53:  
+09:33:58:  middlewares.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\middlewares.py (3.7.3)
+09:34:08:  C:\Windows\system32\cmd.exe
+09:34:18:  pachong.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\spiders\pachong.py (3.7.3)
+09:34:28:  middlewares.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\middlewares.py (3.7.3)
+09:34:33:  pachong.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\spiders\pachong.py (3.7.3)
+09:34:53:  middlewares.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\middlewares.py (3.7.3)
+09:34:58:  pachong.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\spiders\pachong.py (3.7.3)
+09:35:28:  letgo
+09:35:33:  config
+09:35:38:  config.ini - 记事本
+09:35:43:  C:\Windows\system32\cmd.exe
+09:35:53:  
+09:35:58:  middlewares.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\middlewares.py (3.7.3)
+09:36:38:  C:\Windows\system32\cmd.exe
+09:36:53:  letgo
+09:36:58:  C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\如何看待《爱情公寓5》的大结局？.txt (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:38:43:  D:\00-06\1T2-Aging\Applications\State\State.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:38:48:  D:\00-06\1T2-Aging\Drivers\PeripheralDriver\WatchDogDriver\SnbcWatchDogDriver.c (1T2-Aging) - Sublime Text (UNREGISTERED)
+09:38:53:  爬取结果
+09:39:08:  config
+09:39:13:  config.ini - 记事本
+09:39:18:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:39:23:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+09:39:28:  
+09:39:33:  选择文件夹
+09:39:53:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:39:58:  untitled (trunk) - Sublime Text (UNREGISTERED)
+09:40:03:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:40:13:  
+09:40:18:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:40:23:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:40:28:  爬取结果
+09:40:33:  C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\如何看待《爱情公寓5》的大结局？.txt (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:41:08:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Nfc\Nfc.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:41:13:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:41:23:  
+09:41:28:  C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\如何看待《爱情公寓5》的大结局？.txt (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:42:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Nfc\Nfc.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:42:48:  网络连接
+09:42:53:  D:\00-06\6\branches\BR-1-CashBox1T2\Middlewares\Nfc\Nfc.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:42:58:  C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\如何看待《爱情公寓5》的大结局？.txt (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:43:43:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:44:03:  C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\如何看待《爱情公寓5》的大结局？.txt (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:46:03:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:46:33:  D:\00-06\6\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision
+09:46:38:  D:\00-06\6\branches\BR-1-CashBox1T2\Applications\State\State.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+09:46:48:  绘图1.vsd  [兼容模式] - Visio Professional
+09:46:53:  便签条
+09:50:48:  绘图1.vsd  [兼容模式] - Visio Professional
+09:50:53:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:51:08:  爬取结果
+09:51:23:  打开方式
+09:51:28:  C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\有哪些一听就能让人发愤好好学习的句子？.txt (trunk) - Sublime Text (UNREGISTERED)
+09:52:13:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:52:18:  
+09:52:38:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:56:18:  爬取结果
+09:56:28:  如何提高自己的为人处世能力？.txt - 记事本
+09:57:08:  爬取结果
+09:57:53:  iPhone 11 系列的开箱、上手体验如何？.txt - 记事本
+09:58:18:  爬取结果
+09:58:33:  Save Before Run or Check
+09:58:38:  Figure 1
+09:59:08:  zuiduo.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\zuiduo.py (3.7.3)
+09:59:33:  音乐
+09:59:38:  TheActtionRec
+09:59:43:  W
+09:59:53:  zuiduo.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\zuiduo.py (3.7.3)
+09:59:58:  Python 3.7.3 Shell
+10:00:03:  zuiduo.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\zuiduo.py (3.7.3)
+09:58:18:  爬取结果
+09:58:33:  Save Before Run or Check
+09:58:38:  Figure 1
+09:59:08:  zuiduo.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\zuiduo.py (3.7.3)
+09:59:33:  音乐
+09:59:38:  TheActtionRec
+09:59:43:  W
+09:59:53:  zuiduo.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\zuiduo.py (3.7.3)
+09:59:58:  Python 3.7.3 Shell
+10:00:03:  zuiduo.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\zuiduo.py (3.7.3)
+10:00:08:  Save Before Run or Check
+10:00:13:  Figure 1
+10:00:33:  Python 3.7.3 Shell
+10:00:38:  zuiduo.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\zuiduo.py (3.7.3)
+10:00:53:  *Python 3.7.3 Shell*
+10:00:58:  Figure 1
+10:01:08:  *zuiduo.py - C:\Users\zhangkaifa\Documents\TheActtionRec\W\zuiduo.py (3.7.3)*
+10:01:18:  文档
+10:01:23:  爬取结果
+10:01:28:  *zuiduo.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\zuiduo.py (3.7.3)*
+10:01:33:  *Python 3.7.3 Shell*
+10:01:38:  Figure 1
+10:01:48:  *Python 3.7.3 Shell*
+10:01:53:  Figure 1
+10:01:58:  zuiduo.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\zuiduo.py (3.7.3)
+10:02:03:  *Python 3.7.3 Shell*
+10:02:08:  Figure 1
+10:02:13:  Python 3.7.3 Shell
+10:02:18:  zuiduo.py - C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\zuiduo.py (3.7.3)
+10:02:23:  Figure 1
+10:02:28:  爬取结果
+10:02:33:  
+10:02:38:  LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202003060849.log
+10:02:43:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-06.txt
+10:02:53:  本地磁盘 (D:)
+10:02:58:  TheActtionRec
+10:03:03:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+10:03:28:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-06.txt
+10:03:38:  GTD.pyw - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\GTD.pyw (3.7.3)
+10:03:48:  
+10:03:53:  WorkTime.py - C:\Users\zhangkaifa\Documents\TheActtionRec\Bin\WorkTime.py (3.7.3)
+10:04:08:  Bin
+10:04:13:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-06.txt
+10:04:18:  Bin
+10:04:23:  (34 封私信 / 95 条消息) 有哪些一听就能让人发愤好好学习的句子？ - 知乎 - Google Chrome
+10:04:28:  (34 封私信 / 95 条消息) 首页 - 知乎 - Google Chrome
+10:04:58:  无标题 - Google Chrome
+10:05:03:  (34 封私信 / 80 条消息) 如何看待孙杨删除有关血样完整证据等微博？ - 知乎 - Google Chrome
+10:06:03:  (34 封私信 / 95 条消息) 首页 - 知乎 - Google Chrome
+10:06:33:  无标题 - Google Chrome
+10:06:38:  (34 封私信 / 80 条消息) 你做整容后悔了吗？ - 知乎 - Google Chrome
+10:06:53:  (34 封私信 / 95 条消息) 首页 - 知乎 - Google Chrome
+10:07:03:  苹果的产品中哪些细节让你突然有感动的感觉？ - 知乎 - Google Chrome
+10:07:08:  (34 封私信 / 80 条消息) 苹果的产品中哪些细节让你突然有感动的感觉？ - 知乎 - Google Chrome
+10:07:13:  (34 封私信 / 95 条消息) 首页 - 知乎 - Google Chrome
+10:08:33:  Bin
+10:08:38:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:08:43:  Bin
+10:08:58:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\Log\2020-03-06.txt
+10:09:03:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\R\2020-03-06.txt
+10:09:23:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-06.txt
+10:09:53:  收取邮件 - 张开发
+10:09:58:  
+10:10:03:  「开始」菜单
+10:10:08:  
+10:10:13:  「开始」菜单
+10:10:18:  
+10:10:33:  「开始」菜单
+10:10:38:  Dialog
+10:10:43:  
+10:10:48:  Windows 任务管理器
+10:10:53:  
+10:11:08:  eSpace
+10:11:18:  固件设计中心
+10:11:33:  于斌1
+10:11:43:  LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-06.txt
+10:11:48:  绘图1.vsd  [兼容模式] - Visio Professional
+10:11:53:  本地磁盘 (F:)
+10:11:58:  于斌1
+10:12:03:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:12:13:  绘图1.vsd  [兼容模式] - Visio Professional
+10:12:23:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:12:38:  绘图1.vsd  [兼容模式] - Visio Professional
+10:12:48:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:13:38:  D:\00-KE64\6\trunk\Applications\FlowControl\Plate\PlateModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+10:13:43:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:13:48:  「开始」菜单
+10:13:53:  网易有道词典
+10:14:13:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:14:28:  D:\00-KE64\6\trunk\Applications\FlowControl\Plate\PlateModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+10:14:33:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:14:58:  新标签页 - Google Chrome
+10:15:03:  本地磁盘 (D:)
+10:15:08:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:15:48:  
+10:15:53:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:19:28:  D:\00-KE64\6\trunk\Applications\FlowControl\Plate\PlateModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+10:19:33:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:19:48:  D:\00-KE64\6\trunk\Applications\FlowControl\Plate\PlateModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:19:58:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:20:48:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackSelector\SelModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+10:20:53:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:22:43:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackSelector\SelModuleIF.h (trunk) - Sublime Text (UNREGISTERED)
+10:22:48:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:23:58:  D:\00-KE64\6\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+10:24:03:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:27:48:  新标签页 - Google Chrome
+10:27:53:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:28:23:  (34 封私信 / 80 条消息) 抹于软件 - 搜索结果 - 知乎 - Google Chrome
+10:28:28:  (34 封私信 / 80 条消息) 摸鱼软件 - 搜索结果 - 知乎 - Google Chrome
+10:28:23:  (34 封私信 / 80 条消息) 抹于软件 - 搜索结果 - 知乎 - Google Chrome
+10:28:28:  (34 封私信 / 80 条消息) 摸鱼软件 - 搜索结果 - 知乎 - Google Chrome
+10:31:13:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:36:13:  变幻线
+10:36:18:  本地磁盘 (D:)
+10:36:23:  face
+10:36:38:  人脸识别.py - E:\face\人脸识别.py (3.7.3)
+10:37:03:  TrainCascadeClassification
+10:37:08:  人脸识别.py - E:\face\人脸识别.py (3.7.3)
+10:37:23:  *人脸识别.py - E:\face\人脸识别.py (3.7.3)*
+10:37:33:  *Python 3.7.3 Shell*
+10:37:38:  人脸识别.py - E:\face\人脸识别.py (3.7.3)
+10:37:48:  TrainCascadeClassification
+10:37:53:  face
+10:37:58:  本地磁盘 (F:)
+10:38:03:  本地磁盘 (E:)
+10:38:08:  2019.5.11
+10:38:18:  face
+10:38:23:  人脸识别.py - E:\face\人脸识别.py (3.7.3)
+10:38:43:  *Python 3.7.3 Shell*
+10:38:48:  人脸识别.py - E:\face\人脸识别.py (3.7.3)
+10:38:58:  face
+10:39:03:  pos图片修改.py - E:\face\pos图片修改.py (3.7.3)
+10:39:08:  *pos图片修改.py - E:\face\pos图片修改.py (3.7.3)*
+10:39:23:  face
+10:39:28:  neg生成 .py - E:\face\neg生成 .py (3.7.3)
+10:39:38:  face
+10:39:43:  pos生成.py - E:\face\pos生成.py (3.7.3)
+10:40:18:  「开始」菜单
+10:40:23:  打开
+10:40:28:  无标题 - 画图
+10:40:38:  调整大小和扭曲
+10:40:48:  IMG_20190511_094045.jpg - 画图
+10:40:53:  
+10:40:58:  camera
+10:41:03:  人脸识别.py - E:\face\人脸识别.py (3.7.3)
+10:41:58:  *人脸识别.py - E:\face\人脸识别.py (3.7.3)*
+10:42:08:  camera
+10:42:13:  人脸识别.py - E:\face\人脸识别.py (3.7.3)
+10:42:33:  *Python 3.7.3 Shell*
+10:42:38:  人脸识别.py - E:\face\人脸识别.py (3.7.3)
+10:42:48:  Python 3.7.3 Shell
+10:42:53:  人脸识别.py - E:\face\人脸识别.py (3.7.3)
+10:42:58:  face
+10:43:08:  新标签页 - Google Chrome
+10:43:18:  百度一下，你就知道 - Google Chrome
+10:43:28:  python 网络_百度搜索 - Google Chrome
+10:43:33:  python 网络摄像头_百度搜索 - Google Chrome
+10:43:38:  用OpenCV调用IP摄像头（python版）_Python_qq_38957170的博客-CSDN博客 - Google Chrome
+10:43:53:  face
+10:44:08:  *camer.py - E:\face\camer.py (3.7.3)*
+10:45:53:  用OpenCV调用IP摄像头（python版）_Python_qq_38957170的博客-CSDN博客 - Google Chrome
+10:46:08:  *camer.py - E:\face\camer.py (3.7.3)*
+10:51:03:  python 网络摄像头_百度搜索 - Google Chrome
+10:51:13:  中信网上银行_理财产品、申请信用卡、个人贷款-中信银行官网 - Google Chrome
+10:51:38:  *camer.py - E:\face\camer.py (3.7.3)*
+10:57:03:  变幻线
+10:57:18:  i.bank.ecitic.com - Google Chrome
+10:57:23:  中信银行_百度搜索 - Google Chrome
+10:57:33:  苹果手机变网络摄像头_百度搜索 - Google Chrome
+10:57:58:  DroidCamX_百度搜索 - Google Chrome
+10:58:03:  DroidCamX电脑端下载_DroidCamX电脑端官方下载-太平洋下载中心 - Google Chrome
+10:58:33:  DroidCam - Download - Google Chrome
+10:58:53:  DroidCamX_百度搜索 - Google Chrome
+10:58:58:  https://www.baidu.com/link?url=h0FTBN0diVbbWgf-_oukwQqURllFtR4mlbtj-eKsZYNL56F8xiHxLYnnOJfGCwD36XCT1GEoTm7JVgHjjhHtZK&wd=&eqid=9e583d0a00013d3e000000025e61bc33 - Google Chrome
+10:59:03:  手机摄像头变身电脑端 DroidCamX Wireless Webcam Pro下载_v1.5.6安卓客户端_MDPDA手机网 - Google Chrome
+10:59:08:  打开文件 - 安全警告
+10:59:13:  
+10:59:18:  DroidCamX_百度搜索 - Google Chrome
+10:59:23:  DroidCamX 苹果_百度搜索 - Google Chrome
+10:59:28:  苹果手机变网络摄像头_百度搜索 - Google Chrome
+10:59:33:  怎么把苹果手机通过USB变成电脑摄像头？_百度知道 - Google Chrome
+10:58:33:  DroidCam - Download - Google Chrome
+10:58:53:  DroidCamX_百度搜索 - Google Chrome
+10:58:58:  https://www.baidu.com/link?url=h0FTBN0diVbbWgf-_oukwQqURllFtR4mlbtj-eKsZYNL56F8xiHxLYnnOJfGCwD36XCT1GEoTm7JVgHjjhHtZK&wd=&eqid=9e583d0a00013d3e000000025e61bc33 - Google Chrome
+10:59:03:  手机摄像头变身电脑端 DroidCamX Wireless Webcam Pro下载_v1.5.6安卓客户端_MDPDA手机网 - Google Chrome
+10:59:08:  打开文件 - 安全警告
+10:59:13:  
+10:59:18:  DroidCamX_百度搜索 - Google Chrome
+10:59:23:  DroidCamX 苹果_百度搜索 - Google Chrome
+10:59:28:  苹果手机变网络摄像头_百度搜索 - Google Chrome
+10:59:33:  怎么把苹果手机通过USB变成电脑摄像头？_百度知道 - Google Chrome
+11:00:13:  苹果手机变网络摄像头_百度搜索 - Google Chrome
+11:00:18:  DroidCamX电脑端下载_DroidCamX电脑端官方下载-太平洋下载中心 - Google Chrome
+11:00:23:  http://steamsc.ailom.com/ - Internet Explorer
+11:00:28:  iVCam - 手机用作电脑摄像头 - E2ESOFT - Google Chrome
+11:00:38:  *camer.py - E:\face\camer.py (3.7.3)*
+11:01:03:  iVCam - 手机用作电脑摄像头 - E2ESOFT - Google Chrome
+11:01:08:  人脸识别.py - E:\face\人脸识别.py (3.7.3)
+11:01:18:  
+11:01:28:  Windows 任务管理器
+11:01:58:  
+11:02:03:  face
+11:02:08:  人脸识别.py - E:\face\人脸识别.py (3.7.3)
+11:02:18:  本地磁盘 (F:)
+11:02:23:  新建文件夹 (3)
+11:02:28:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:02:38:  *人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)*
+11:02:58:  用OpenCV调用IP摄像头（python版）_Python_qq_38957170的博客-CSDN博客 - Google Chrome
+11:03:03:  ivcam_百度搜索 - Google Chrome
+11:03:08:  python 如何使用摄像头（opencv） - freebirds - 博客园 - Google Chrome
+11:03:43:  *人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)*
+11:04:38:  SyntaxError
+11:04:43:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:04:58:  python调用摄像头 - StarZhai - 博客园 - Google Chrome
+11:05:13:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:05:18:  Python 3.7.3 Shell
+11:05:23:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:05:33:  *人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)*
+11:05:38:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:05:48:  *人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)*
+11:05:53:  Python 3.7.3 Shell
+11:05:58:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:06:03:  *Python 3.7.3 Shell*
+11:06:08:  Kill?
+11:06:13:  打开文件 - 安全警告
+11:06:18:  安装向导 - iVCam 5.1
+11:06:33:  安装向导
+11:06:48:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:06:58:  cam = cv2.VideoCapture(0) minW = 0.1*cam.get(3) minH = 0.1*cam.get(4)_百度搜索 - Google Chrome
+11:07:03:  超有趣！手把手教你使用树莓派实现实时人脸检测 - Google Chrome
+11:08:03:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:08:08:  *人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)*
+11:09:03:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:09:08:  *人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)*
+11:09:13:  Python 3.7.3 Shell
+11:09:18:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:09:23:  *Python 3.7.3 Shell*
+11:09:28:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:09:33:  *人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)*
+11:09:38:  *Python 3.7.3 Shell*
+11:09:48:  
+11:09:53:  iVCam.exe - 系统错误
+11:10:03:  控制面板
+11:10:08:  程序和功能
+11:10:13:  卸载向导
+11:10:18:  iVCam卸载向导
+11:10:23:  cam = cv2.VideoCapture(0) minW = 0.1*cam.get(3) minH = 0.1*cam.get(4)_百度搜索 - Google Chrome
+11:10:28:  iVCam - 手机用作电脑摄像头 - E2ESOFT - Google Chrome
+11:10:33:  ivcam_百度搜索 - Google Chrome
+11:10:38:  ivcam win7_百度搜索 - Google Chrome
+11:10:43:  iVCam免费版-iVCam电脑版下载 3.5-新云软件园 - Google Chrome
+11:10:53:  Subversion
+11:11:03:  ivcam
+11:11:08:  Subversion
+11:11:13:  ivcam
+11:11:23:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:11:28:  安装向导 - iVCam
+11:11:38:  Windows 安全
+11:11:43:  安装向导
+11:11:53:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:11:58:  e2eSoft iVCam
+11:12:08:  运行
+11:12:13:  管理员: C:\Windows\system32\cmd.exe
+11:12:43:  确认
+11:12:48:  e2eSoft iVCam
+11:12:58:  选项设置
+11:13:03:  e2eSoft iVCam
+11:14:08:  自动播放
+11:14:13:  iTunes
+11:14:18:  
+11:14:23:  e2eSoft iVCam
+11:14:48:  iTunes
+11:14:53:  网络和共享中心
+11:14:58:  Windows 防火墙
+11:15:08:  e2eSoft iVCam
+11:15:13:  管理员: C:\Windows\system32\cmd.exe
+11:15:58:  iVCam - Use mobile phone as a PC webcam | E2ESOFT - Internet Explorer
+11:16:13:  
+11:16:18:  E2ESOFT | Easy to Enjoy - Internet Explorer
+11:16:23:  e2eSoft iVCam
+11:16:43:  
+11:16:48:  e2eSoft iVCam
+11:16:53:  ActiveMovie Window
+11:16:58:  e2eSoft iVCam
+11:17:03:  E2ESOFT | Easy to Enjoy - Internet Explorer
+11:17:23:  iVCam - Use mobile phone as a PC webcam | E2ESOFT - Internet Explorer
+11:17:28:  E2ESOFT | Easy to Enjoy - Internet Explorer
+11:17:33:  
+11:17:38:  Internet Explorer
+11:17:43:  e2eSoft iVCam
+11:17:58:  camera
+11:18:03:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:18:13:  camera
+11:18:18:  Save Before Run or Check
+11:18:23:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:18:28:  Kill?
+11:18:33:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:18:48:  e2eSoft iVCam
+11:18:53:  
+11:18:58:  e2eSoft iVCam
+11:19:03:  
+11:19:18:  选择语言
+11:19:23:  e2eSoft iVCam
+11:19:48:  自动播放
+11:19:53:  运行
+11:19:58:  管理员: C:\Windows\system32\cmd.exe
+11:20:43:  e2eSoft iVCam
+11:22:03:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:22:08:  新建文本文档.exe - 快捷方式
+11:22:13:  
+11:22:28:  自动播放
+11:22:48:  新建文本文档.exe - 快捷方式
+11:22:53:  eSpace
+11:22:58:  
+11:23:03:  桌面整理
+11:23:13:  iVCam 属性
+11:23:18:  
+11:23:23:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:23:28:  e2eSoft iVCam
+11:23:38:  管理员: C:\Windows\system32\cmd.exe
+11:24:13:  「开始」菜单
+11:24:18:  e2eSoft iVCam
+11:24:28:  关于
+11:24:33:  E2ESOFT | Easy to Enjoy - Google Chrome
+11:24:38:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:24:53:  www.e2esoft.com - Google Chrome
+11:24:58:  iVCam - Use mobile phone as a PC webcam | E2ESOFT - Google Chrome
+11:25:03:  E2ESOFT | Easy to Enjoy - Google Chrome
+11:25:23:  VCam - Virtual Camera | E2ESOFT - Google Chrome
+11:25:29:  iVCam - Use mobile phone as a PC webcam | E2ESOFT - Google Chrome
+11:25:44:  E2ESOFT | Easy to Enjoy - Google Chrome
+11:25:59:  ivcam
+11:26:04:  Subversion
+11:26:29:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:26:39:  Subversion
+11:26:54:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:26:59:  E2ESOFT | Easy to Enjoy - Google Chrome
+11:27:04:  Subversion
+11:27:14:  E2ESOFT | Easy to Enjoy - Google Chrome
+11:27:19:  Subversion
+11:27:24:  安装向导 - MyCam
+11:27:29:  Subversion
+11:27:34:  百度一下，你就知道 - Google Chrome
+11:27:39:  ivcam_百度搜索 - Google Chrome
+11:27:44:  ivcam 电脑端免费版下载(附使用教程) v6.0 - 软件学堂 - Google Chrome
+11:27:49:  无标题 - Google Chrome
+11:27:54:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)
+11:33:39:  变幻线
+11:38:39:  人脸识别.py - F:\新建文件夹 (3)\人脸识别.py (3.7.3)

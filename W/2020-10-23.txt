@@ -1,0 +1,835 @@
+08:02:41:  自动播放
+08:03:36:  D:\00-KE64\10\Applications\FunctionApp\EepHisApp\EepromConfig.h (10) - Sublime Text (UNREGISTERED)
+08:03:51:  自动播放
+08:04:46:  TCR调测工具 V3.36
+08:05:01:  BTCRTestTool
+08:05:06:  D:\00-KE64\10\Applications\FunctionApp\EepHisApp\EepromConfig.h (10) - Sublime Text (UNREGISTERED)
+08:05:46:  钞箱配置
+08:05:56:  BTCRTestTool
+08:06:01:  TCR调测工具 V3.36
+08:06:31:  取款
+08:06:36:  TCR调测工具 V3.36
+08:07:11:  log
+08:07:21:  log (未响应)
+08:07:36:  log
+08:07:41:  20201023
+08:07:46:  Decode
+08:07:51:  K64_BTCR-1100190803000_20201023080632
+08:07:56:  Box_1__BTCR-1100190803000_20201022163332.log - DRB.tat* - TextAnalysisTool.NET
+08:08:02:  Box_1__BTCR-1100190803000_20201023080632.log - DRB.tat* - TextAnalysisTool.NET
+08:08:27:  TCR调测工具 V3.36
+08:08:47:  Box_1__BTCR-1100190803000_20201023080632.log - DRB.tat* - TextAnalysisTool.NET
+08:08:57:  新建文本文档.exe - 快捷方式
+08:09:02:  TCR调测工具 V3.36
+08:12:02:  Box_1__BTCR-1100190803000_20201023080632.log - DRB.tat* - TextAnalysisTool.NET
+08:16:32:  TCR调测工具 V3.36
+08:16:37:  收取邮件 - 张开发
+08:16:42:  远程邮箱管理
+08:16:52:  收取邮件 - 张开发
+08:17:17:  WinRAR
+08:17:22:  日志文件内容查找工具V2.1.rar - WinRAR (非商业个人版)
+08:18:27:  远程邮箱管理
+08:21:42:  D:\00-KE64\10\Applications\Update\Update.c (10) - Sublime Text (UNREGISTERED)
+08:25:07:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+08:26:27:  D:\00-KE64\10\Applications\Update\Update.c (10) - Sublime Text (UNREGISTERED)
+08:26:32:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+08:27:07:  D:\00-KE64\10\Drivers\FlashDriver\SnbcFlashDriver.c (10) - Sublime Text (UNREGISTERED)
+08:27:12:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+08:27:52:  D:\00-KE64\10\Applications\Update\Update.c (10) - Sublime Text (UNREGISTERED)
+08:28:02:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+08:32:27:  TCR调测工具 V3.36
+08:32:32:  钞箱配置
+08:32:37:  TCR调测工具 V3.36
+08:34:32:  钞箱配置
+08:34:37:  TCR调测工具 V3.36
+08:38:17:  取款
+08:38:22:  TCR调测工具 V3.36
+08:42:17:  取款
+08:42:22:  TCR调测工具 V3.36
+08:45:17:  BTCRTestTool
+08:45:22:  TCR调测工具 V3.36
+08:45:27:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+08:46:02:  TCR调测工具 V3.36
+08:46:07:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+08:46:22:  TCR调测工具 V3.36
+08:46:32:  取款
+08:46:42:  TCR调测工具 V3.36
+08:50:32:  取款
+08:50:37:  TCR调测工具 V3.36
+08:53:22:  取款
+08:53:32:  TCR调测工具 V3.36
+08:56:17:  取款
+08:56:22:  TCR调测工具 V3.36
+09:00:07:  取款
+09:00:47:  TCR调测工具 V3.36
+09:09:17:  取款
+09:09:27:  TCR调测工具 V3.36
+09:12:07:  取款
+09:12:12:  TCR调测工具 V3.36
+09:17:48:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+09:17:53:  TCR调测工具 V3.36
+09:19:28:  取款
+09:19:33:  TCR调测工具 V3.36
+09:21:38:  取款
+09:21:43:  TCR调测工具 V3.36
+09:23:53:  取款
+09:23:58:  TCR调测工具 V3.36
+09:24:53:  BTCRTestTool 属性
+09:24:58:  TCRControlCmdDLL
+09:25:03:  20201023
+09:25:08:  颜晓军
+09:25:18:  20201023
+09:25:23:  颜晓军
+09:26:08:  20201023
+09:27:13:  TCR调测工具 V3.36
+09:27:43:  20201023
+09:27:48:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:28:18:  LOG
+09:28:23:  Box_1__BTCR-1100190803000_20201023092353.log - DRB.tat* - TextAnalysisTool.NET
+09:28:38:  TCR调测工具 V3.36
+09:28:18:  LOG
+09:28:23:  Box_1__BTCR-1100190803000_20201023092353.log - DRB.tat* - TextAnalysisTool.NET
+09:28:38:  TCR调测工具 V3.36
+09:32:03:  取款
+09:32:13:  TCR调测工具 V3.36
+09:33:43:  20201023
+09:33:53:  TCR调测工具 V3.36
+09:34:13:  20201023
+09:34:23:  Decode
+09:34:28:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:34:33:  K64_BTCR-1100190803000_20201023093210
+09:34:38:  Box_1__BTCR-1100190803000_20201023093210.log - DRB.tat* - TextAnalysisTool.NET
+09:34:58:  锁屏状态
+09:35:03:  TCR调测工具 V3.36
+09:35:28:  K64_BTCR-1100190803000_20201023093210
+09:35:33:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023093210\K64-_BTCR-1100190803000_20201023093210.log
+09:36:13:  Box_1__BTCR-1100190803000_20201023093210.log - DRB.tat* - TextAnalysisTool.NET
+09:36:33:  D:\00-06\DRB--\Applications\PaperManage\PaperManage.c (DRB--) - Sublime Text (UNREGISTERED)
+09:36:58:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+09:37:13:  Box_1__BTCR-1100190803000_20201023093210.log - DRB.tat* - TextAnalysisTool.NET
+09:37:38:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+09:37:43:  TCR调测工具 V3.36
+09:37:53:  Box_1__BTCR-1100190803000_20201023093210.log - DRB.tat* - TextAnalysisTool.NET
+09:38:08:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023093210\K64-_BTCR-1100190803000_20201023093210.log
+09:41:23:  「开始」菜单
+09:44:18:  TCR调测工具 V3.36
+09:44:18:  TCR调测工具 V3.36
+09:48:33:  取款
+09:48:38:  TCR调测工具 V3.36
+09:51:28:  Tools
+09:51:38:  20201023
+09:51:43:  Decode
+09:51:53:  Box_1__BTCR-1100190803000_20201023094836.log - DRB.tat* - TextAnalysisTool.NET
+09:52:08:  K64-_BTCR-1100190803000_20201023094836.log - DRB.tat* - TextAnalysisTool.NET
+09:52:13:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023093210\K64-_BTCR-1100190803000_20201023093210.log
+09:52:18:  TCR调测工具 V3.36
+09:52:23:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023094836\K64-_BTCR-1100190803000_20201023094836.log
+09:52:28:  TCR调测工具 V3.36
+09:52:33:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023094836\K64-_BTCR-1100190803000_20201023094836.log
+09:52:48:  TCR调测工具 V3.36
+09:52:53:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023094836\K64-_BTCR-1100190803000_20201023094836.log
+09:52:58:  Box_1__BTCR-1100190803000_20201023094836.log - DRB.tat* - TextAnalysisTool.NET
+09:54:43:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+09:54:48:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023094836\K64-_BTCR-1100190803000_20201023094836.log
+09:55:43:  TCR调测工具 V3.36
+09:56:13:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023094836\K64-_BTCR-1100190803000_20201023094836.log
+09:57:08:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (DRB--) - Sublime Text (UNREGISTERED)
+09:57:13:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+09:57:53:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023094836\K64-_BTCR-1100190803000_20201023094836.log
+09:58:08:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+09:58:13:  Box_1__BTCR-1100190803000_20201023094836.log - DRB.tat* - TextAnalysisTool.NET
+09:58:18:  Add Filter
+09:58:23:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+09:58:28:  D:\00-06\DRB--\Applications\PaperManage\PaperManage.c (DRB--) - Sublime Text (UNREGISTERED)
+09:58:58:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023094836\K64-_BTCR-1100190803000_20201023094836.log
+09:59:03:  Box_1__BTCR-1100190803000_20201023094836.log - DRB.tat* - TextAnalysisTool.NET
+09:59:23:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023094836\K64-_BTCR-1100190803000_20201023094836.log
+09:58:08:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+09:58:13:  Box_1__BTCR-1100190803000_20201023094836.log - DRB.tat* - TextAnalysisTool.NET
+09:58:18:  Add Filter
+09:58:23:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+09:58:28:  D:\00-06\DRB--\Applications\PaperManage\PaperManage.c (DRB--) - Sublime Text (UNREGISTERED)
+09:58:58:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023094836\K64-_BTCR-1100190803000_20201023094836.log
+09:59:03:  Box_1__BTCR-1100190803000_20201023094836.log - DRB.tat* - TextAnalysisTool.NET
+09:59:23:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023094836\K64-_BTCR-1100190803000_20201023094836.log
+10:07:48:  Box_1__BTCR-1100190803000_20201023094836.log - DRB.tat* - TextAnalysisTool.NET
+10:08:13:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023094836\K64-_BTCR-1100190803000_20201023094836.log
+10:09:33:  TCR调测工具 V3.36
+10:10:18:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023094836\K64-_BTCR-1100190803000_20201023094836.log
+10:11:18:  TCR调测工具 V3.36
+10:13:13:  Decode
+10:13:18:  20201023
+10:13:43:  日志文件内容查找工具V2.1
+10:13:48:  readme.txt - 记事本
+10:14:03:  FileCheckCfg_Ch.txt - 记事本
+10:14:18:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023094836\K64-_BTCR-1100190803000_20201023094836.log
+10:14:38:  FileCheckCfg_Ch.txt - 记事本
+10:14:43:  日志文件内容查找工具V2.1(1)
+10:14:48:  日志内容查找工具V2.1      author: lwg
+10:14:58:  选择文件夹
+10:14:18:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023094836\K64-_BTCR-1100190803000_20201023094836.log
+10:14:38:  FileCheckCfg_Ch.txt - 记事本
+10:14:43:  日志文件内容查找工具V2.1(1)
+10:14:48:  日志内容查找工具V2.1      author: lwg
+10:14:58:  选择文件夹
+10:15:08:  锁屏状态
+10:15:13:  选择文件夹
+10:15:48:  日志内容查找工具V2.1      author: lwg
+10:16:08:  LogExpert - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20201023\Decode\LOG\K64_BTCR-1100190803000_20201023094836\K64-_BTCR-1100190803000_20201023094836.log
+10:16:33:  日志内容查找工具V2.1      author: lwg
+10:16:48:  日志文件内容查找工具V2.1(1)
+10:16:53:  output
+10:16:58:  20201016_Check20201022172004.txt - 记事本
+10:17:08:  K64_BTCR-1100190803000_20201023094836_Check20201023101645.txt - 记事本
+10:17:33:  eSpace
+10:17:38:  赖伟光
+10:17:53:  output
+10:17:58:  日志内容查找工具V2.1      author: lwg
+10:18:03:  赖伟光
+10:20:13:  日志文件内容查找工具V2.1
+10:20:18:  20201023
+10:20:23:  日志内容查找工具V2.1      author: lwg
+10:20:33:  回复: 回复: 农信返修的钞箱，请尽快处理
+10:20:38:  20201023
+10:20:43:  TCR调测工具 V3.36
+10:20:53:  20201023
+10:21:08:  TCR调测工具 V3.36
+10:22:13:  赖伟光
+10:22:48:  TCR调测工具 V3.36
+10:22:53:  取款
+10:22:58:  赖伟光
+10:25:28:  TCR调测工具 V3.36
+10:27:03:  取款
+10:27:13:  TCR调测工具 V3.36
+10:28:03:  取款
+10:28:08:  TCR调测工具 V3.36
+10:30:03:  荆文波
+10:28:08:  TCR调测工具 V3.36
+10:30:03:  荆文波
+10:30:18:  eSpace
+10:30:38:  TCR调测工具 V3.36
+10:30:43:  跳转列表
+10:30:48:  TCR调测工具 V3.36
+10:31:08:  锁屏状态
+10:31:13:  新标签页 - Google Chrome
+10:31:18:  百度一下，你就知道 - Google Chrome
+10:31:33:  re.findall man_百度搜索 - Google Chrome
+10:31:38:  re.findall 慢_百度搜索 - Google Chrome
+10:31:43:  用python写的小爬虫碰到的问题，re.findall 卡死_python吧_百度贴吧 - Google Chrome
+10:31:53:  https://www.baidu.com/link?url=C-zyR6XyNmsh1uwdmdkJBKbpwFC_cjLkiX7pOevEn2TXs9eTaQydDMrWOuIs2ZqB_KnrqPjVkZ54wSoqxdB7emHaA1RZ1kjVWkvOPE7QWb_&wd=&eqid=baef40b300069dcb000000025f924084 - Google Chrome
+10:31:58:  (3条消息) Python re模块 findall()函数（算是一个坑点）_李狗嗨acc-CSDN博客 - Google Chrome
+10:32:38:  re.findall 慢_百度搜索 - Google Chrome
+10:32:53:  re.findall 效率低_百度搜索 - Google Chrome
+10:32:58:  无标题 - Google Chrome
+10:33:03:  (3条消息) python 笔记 之 re模块 正则及效率问题_weixin_34293902的博客-CSDN博客 - Google Chrome
+10:33:48:  开始
+10:33:53:  新建文本文档.exe - 快捷方式
+10:33:58:  新建文件夹
+10:34:13:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+10:36:03:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+10:36:08:  *Python 3.7.3 Shell*
+10:36:13:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)
+10:36:18:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+10:36:33:  锁屏状态
+10:36:38:  新标签页 - Google Chrome
+10:36:43:  (3条消息) python 笔记 之 re模块 正则及效率问题_weixin_34293902的博客-CSDN博客 - Google Chrome
+10:36:53:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*
+10:37:48:  *Python 3.7.3 Shell*
+10:37:58:  锁屏状态
+10:38:03:  新建文本文档.exe - 快捷方式
+10:38:08:  20201022
+10:38:13:  新建文件夹
+10:38:18:  *Python 3.7.3 Shell*
+10:38:23:  Python 3.7.3 Shell
+10:38:28:  Decode
+10:38:33:  删除多个项目
+10:38:38:  Decode
+10:38:43:  新建文件夹
+10:38:48:  Decode
+10:39:03:  K18_0000_20201022105639.log - [No filter file] - TextAnalysisTool.NET
+10:39:23:  Decode
+10:39:28:  20201022
+10:39:38:  TCRControlCmdDLL
+10:39:43:  Decode
+10:39:48:  LogExpert - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201022\Decode\K18_0000_20201022105639.log
+10:40:03:  Decode
+10:40:18:  LOG
+10:40:23:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+10:40:28:  新建文件夹
+10:40:43:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+10:40:53:  Kill?
+10:40:58:  Decode
+10:41:03:  本地磁盘 (D:)
+10:41:08:  深圳出差
+10:41:13:  检查更新
+10:41:18:  LogHandle.c - TortoiseMerge
+10:41:23:  SECSplashWnd
+10:41:28:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision (未响应)
+10:41:33:  TCR调测工具 V3.36
+10:42:44:  取款
+10:42:54:  TCR调测工具 V3.36
+10:44:34:  取款
+10:44:39:  TCR调测工具 V3.36
+10:44:34:  取款
+10:44:39:  TCR调测工具 V3.36
+10:48:14:  取款
+10:48:19:  TCR调测工具 V3.36
+10:50:24:  取款
+10:50:29:  TCR调测工具 V3.36
+11:07:24:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+11:08:04:  TCR调测工具 V3.36
+11:08:14:  发送指令到K06
+11:08:19:  TCR调测工具 V3.36
+11:08:24:  发送指令到K06
+11:08:39:  TCR调测工具 V3.36
+11:08:44:  发送指令到K06
+11:09:29:  TCR调测工具 V3.36
+11:09:34:  发送指令到K06
+11:09:44:  TCR调测工具 V3.36
+11:09:49:  发送指令到K06
+11:10:24:  TCR调测工具 V3.36
+11:10:29:  发送指令到K06
+11:10:34:  TCR调测工具 V3.36
+11:10:39:  发送指令到K06
+11:10:49:  TCR调测工具 V3.36
+11:11:39:  发送指令到K06
+11:11:49:  TCR调测工具 V3.36
+11:11:54:  发送指令到K06
+11:12:14:  TCR调测工具 V3.36
+11:12:19:  发送指令到K06
+11:12:29:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+11:12:34:  发送指令到K06
+11:12:39:  TCR调测工具 V3.36
+11:16:29:  BTCRTestTool
+11:16:34:  TCR调测工具 V3.36
+11:17:14:  取款
+11:17:19:  TCR调测工具 V3.36
+11:22:34:  荆文波
+11:22:39:  DRB传感器.txt - 记事本
+11:22:49:  荆文波
+11:23:09:  Project
+11:23:14:  爆仓问题(1)
+11:23:19:  300张50元纸币大额存款入下腔122张后，再次入钞，纸币全部进入回收箱
+11:23:24:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:23:34:  Decode
+11:24:09:  LOG
+11:24:14:  Box_4__BTCR-1100200600510420_20201023095548.log - DRB.tat* - TextAnalysisTool.NET
+11:24:29:  LOG
+11:24:34:  Box_4__BTCR-1100200600510420_20201023095502.log - DRB.tat* - TextAnalysisTool.NET
+11:24:39:  K64_BTCR-1100200600510420_20201023095548
+11:24:44:  Box_4__BTCR-1100200600510420_20201023095548.log - DRB.tat* - TextAnalysisTool.NET
+11:25:04:  荆文波
+11:32:24:  本地磁盘 (D:)
+11:32:29:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+11:32:34:  untitled (trunk) - Sublime Text (UNREGISTERED)
+11:32:39:  D:\00-06\BOOT\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+11:32:49:  D:\00-06\BOOT\trunk\Drivers\PeripheralDriver\FlashDriver\SnbcFlashDriver.c (trunk) - Sublime Text (UNREGISTERED)
+11:33:04:  D:\00-06\BOOT\trunk\Drivers\PeripheralDriver\Ke06bsp\flash.c (trunk) - Sublime Text (UNREGISTERED)
+11:33:09:  D:\00-06\BOOT\trunk\Drivers\PeripheralDriver\FlashDriver\SnbcFlashDriver.c (trunk) - Sublime Text (UNREGISTERED)
+11:37:14:  eSpace
+11:37:29:  D:\00-06\BOOT\trunk\Drivers\PeripheralDriver\FlashDriver\SnbcFlashDriver.c (trunk) - Sublime Text (UNREGISTERED)
+11:39:54:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+11:39:59:  CRS
+11:40:04:  D:\CRS\KE18-UP - 日志信息 - TortoiseSVN
+11:40:09:  CRS
+11:40:14:  D:\CRS\5555 - 日志信息 - TortoiseSVN
+11:40:19:  5555
+11:40:24:  工作副本
+11:40:34:  5555
+11:40:39:  锁屏状态
+13:19:15:  5555
+13:24:40:  Drivers
+13:24:55:  D:\CRS\5555\Drivers\FlashDriver - 加入 - TortoiseSVN
+13:25:00:  5555
+13:25:05:  D:\CRS\5555 - 提交 - TortoiseSVN
+13:25:35:  提交 完成！
+13:25:40:  eSpace
+13:25:45:  冯宁
+13:26:10:  D:\CRS\5555 - 日志信息 - TortoiseSVN
+13:26:15:  TortoiseSVN
+13:26:20:  SnbcFlashDriver.c - TortoiseMerge
+13:26:25:  D:\CRS\5555 - 日志信息 - TortoiseSVN
+13:26:35:  荆文波
+13:27:20:  王亮杰
+13:28:05:  5555
+13:28:10:  D:\CRS\5555 - 日志信息 - TortoiseSVN
+13:28:15:  SnbcFlashDriver.c - TortoiseMerge
+13:28:25:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:28:05:  5555
+13:28:10:  D:\CRS\5555 - 日志信息 - TortoiseSVN
+13:28:15:  SnbcFlashDriver.c - TortoiseMerge
+13:28:25:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:31:30:  CRS
+13:31:35:  本地磁盘 (E:)
+13:31:40:  44
+13:31:45:  E:\深圳出差\44\Tools\CreateJK.exe
+13:33:05:  TCR调测工具 V3.36
+13:33:10:  打开
+13:33:25:  TCR调测工具 V3.36
+13:33:40:  Tools
+13:33:45:  E:\深圳出差\44\Tools\CreateJK.exe
+13:34:15:  BTCRTestTool
+13:34:20:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:34:45:  BTCRTestTool
+13:34:50:  E:\深圳出差\44\Tools\CreateJK.exe
+13:34:55:  打开
+13:35:00:  BTCRTestTool
+13:35:05:  Tools
+13:35:10:  打开
+13:35:15:  TCR调测工具（研发版）V1.0.0.4
+13:36:40:  Tools
+13:36:45:  TCR调测工具（研发版）V1.0.0.4
+13:37:45:  Tools
+13:37:50:  BTCRTestTool (2) 属性
+13:38:00:  log
+13:38:05:  20201023
+13:38:10:  TCRControlCmdDLL
+13:38:15:  桌面整理
+13:38:25:  log
+13:38:30:  TCRControlCmdDLL
+13:38:35:  20201023
+13:38:40:  Decode
+13:38:45:  C:\Windows\py.exe
+13:38:50:  Decode
+13:39:00:  无标题 - 记事本
+13:39:05:  log0.txt - 记事本
+13:39:30:  Decode
+13:39:35:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+13:39:45:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+13:39:50:  Save On Close
+13:39:55:  LOG
+13:40:00:  Decode
+13:40:05:  删除多个项目
+13:40:10:  回收
+13:40:15:  Decode
+13:40:20:  CS_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+13:40:25:  KE18
+13:40:30:  ESC_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+13:40:40:  Decode
+13:40:55:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+13:41:05:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+13:41:20:  Decode
+13:41:25:  SyntaxError
+13:41:30:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+13:41:35:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+13:41:40:  *Python 3.7.3 Shell*
+13:42:05:  Save Before Run or Check
+13:42:10:  *Python 3.7.3 Shell*
+13:47:25:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:48:50:  Box_4__BTCR-1100200600510420_20201023095548.log - DRB.tat* - TextAnalysisTool.NET
+13:48:55:  *Python 3.7.3 Shell*
+13:49:00:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:49:05:  D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)
+13:49:10:  untitled (44) - Sublime Text (UNREGISTERED)
+13:49:15:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+13:50:55:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+13:54:20:  D:\00-06\DRB--\Applications\PaperManage\PaperManage.c (DRB--) - Sublime Text (UNREGISTERED)
+13:54:30:  D:\00-06\DRB--\Applications\PlateCtrl\LowerPlateCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+13:54:45:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+13:55:05:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+13:55:20:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+13:55:25:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:06:26:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+14:06:36:  E:\深圳出差\44\FwLib\UsbDeviceStack\UsbStack.c (44) - Sublime Text (UNREGISTERED)
+14:06:41:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+14:07:26:  E:\深圳出差\44\FwLib\UsbDeviceStack\UsbStack.c (44) - Sublime Text (UNREGISTERED)
+14:08:06:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+14:09:01:  *Python 3.7.3 Shell*
+14:09:36:  K18_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+14:09:46:  Decode
+14:09:56:  *Python 3.7.3 Shell*
+14:10:11:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+14:10:51:  *Python 3.7.3 Shell*
+14:11:06:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:13:11:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+14:17:36:  C:\Windows\py.exe
+14:17:41:  *Python 3.7.3 Shell*
+14:17:46:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:18:16:  LOG
+14:18:21:  Decode
+14:18:41:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:18:46:  Decode
+14:19:06:  *Python 3.7.3 Shell*
+14:19:11:  Decode
+14:19:16:  log0.txt - 记事本
+14:19:26:  log1.txt - 记事本
+14:19:31:  新建文件夹
+14:19:36:  Decode
+14:19:41:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:21:06:  回收站
+14:21:11:  移动文件
+14:21:16:  Decode
+14:21:21:  新建文件夹
+14:21:26:  Decode
+14:21:31:  回收站
+14:21:46:  *ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)*
+14:24:11:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:24:16:  Python 3.7.3 Shell
+14:24:21:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:24:31:  Decode
+14:24:36:  ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\Decode\ClassLog333.py (3.7.3)
+14:24:41:  Decode
+14:24:56:  *Python 3.7.3 Shell*
+14:25:01:  None_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+14:25:06:  KE18
+14:25:11:  Kill?
+14:25:16:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:25:21:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:26:01:  Decode
+14:26:06:  KE18
+14:26:11:  None_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+14:26:16:  KE18
+14:26:26:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:26:36:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:26:41:  Save Before Run or Check
+14:26:46:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:28:11:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:28:16:  CS_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+14:28:21:  ESC_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+14:28:26:  KE18
+14:28:31:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:28:46:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:29:56:  *Python 3.7.3 Shell*
+14:30:01:  ESC_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+14:28:11:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:28:16:  CS_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+14:28:21:  ESC_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+14:28:26:  KE18
+14:28:31:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:28:46:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:29:56:  *Python 3.7.3 Shell*
+14:30:01:  ESC_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+14:30:06:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:30:26:  *Python 3.7.3 Shell*
+14:30:36:  ESC_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+14:30:41:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:31:01:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:32:01:  None_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+14:32:16:  ESC_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+14:32:31:  K18_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+14:32:46:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:33:01:  *Python 3.7.3 Shell*
+14:33:16:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:33:21:  K18_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+14:34:51:  *Python 3.7.3 Shell*
+14:34:56:  K18_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+14:35:11:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:35:26:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:35:31:  *Python 3.7.3 Shell*
+14:36:31:  K18_0000_20201023133643.log - [No filter file] - TextAnalysisTool.NET
+14:37:21:  Kill?
+14:37:26:  Decode
+14:37:31:  20201023
+14:37:36:  TCR调测工具（研发版）V1.0.0.4
+14:37:51:  Decode
+14:37:56:  20201023
+14:38:01:  删除文件夹
+14:38:06:  文件夹正在使用
+14:38:11:  Decode
+14:38:16:  删除多个项目
+14:38:21:  TCR调测工具（研发版）V1.0.0.4
+14:38:51:  20201023
+14:39:01:  Decode
+14:39:16:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:39:21:  Decode
+14:39:31:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:39:36:  *Python 3.7.3 Shell*
+14:39:41:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:39:46:  KE18
+14:39:51:  TCR调测工具（研发版）V1.0.0.4
+14:39:56:  Decode
+14:40:01:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:40:06:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:40:11:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:40:21:  Python 3.7.3 Shell
+14:40:26:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:40:36:  Python 3.7.3 Shell
+14:40:51:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:41:01:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:41:21:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:41:26:  Python 3.7.3 Shell
+14:41:36:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:41:46:  新标签页 - Google Chrome
+14:41:51:  新建文本文档.exe - 快捷方式
+14:41:56:  百度一下，你就知道 - Google Chrome
+14:42:11:  python 去除字符串中的空格_百度搜索 - Google Chrome
+14:42:21:  python去掉字符串中空格的方法 - 周洋 - 博客园 - Google Chrome
+14:42:36:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:42:41:  Kill?
+14:42:46:  None_0000_20201023143820.log - [No filter file] - TextAnalysisTool.NET
+14:42:51:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:42:56:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:43:01:  KE18
+14:43:11:  python去掉字符串中空格的方法 - 周洋 - 博客园 - Google Chrome
+14:43:21:  python 去除字符串中的空格_百度搜索 - Google Chrome
+14:43:26:  Python中常见字符串去除空格的方法总结 - 清单范 - 博客园 - Google Chrome
+14:44:01:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:44:26:  None_0000_20201023143820.log - [No filter file] - TextAnalysisTool.NET
+14:44:36:  Save Before Run or Check
+14:44:41:  Add Filter
+14:44:51:  LogExpert
+14:44:56:  LogExpert - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\KE18\None_0000_20201023143820.log
+14:44:26:  None_0000_20201023143820.log - [No filter file] - TextAnalysisTool.NET
+14:44:36:  Save Before Run or Check
+14:44:41:  Add Filter
+14:44:51:  LogExpert
+14:44:56:  LogExpert - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\KE18\None_0000_20201023143820.log
+14:45:11:  KE18
+14:45:21:  CS_0000_20201023143820.log - [No filter file] - TextAnalysisTool.NET
+14:45:41:  K18_0000_20201023143820.log - [No filter file] - TextAnalysisTool.NET
+14:47:16:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:47:46:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:48:11:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:48:26:  Decode
+14:48:31:  本地磁盘 (E:)
+14:48:36:  E:\深圳出差\44\Tools\CreateJK.exe
+14:48:46:  Tools
+14:48:51:  TCR调测工具（研发版）V1.0.0.4
+14:50:16:  Decode
+14:50:21:  删除多个项目
+14:50:26:  20201023
+14:50:31:  Decode
+14:50:36:  KE18
+14:50:41:  None_0000_20201023143820.log - [No filter file] - TextAnalysisTool.NET
+14:50:46:  K18_0000_20201023144919.log - [No filter file] - TextAnalysisTool.NET
+14:50:51:  删除文件夹
+14:51:01:  跳转列表
+14:51:06:  Decode
+14:51:11:  KE18
+14:51:16:  None_0000_20201023144919.log - [No filter file] - TextAnalysisTool.NET
+14:51:21:  KE18
+14:51:26:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:51:31:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:51:36:  *Python 3.7.3 Shell*
+14:51:41:  Python 3.7.3 Shell
+14:51:46:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:51:56:  Python中常见字符串去除空格的方法总结 - 清单范 - 博客园 - Google Chrome
+14:52:21:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:52:26:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:52:31:  Python 3.7.3 Shell
+14:52:36:  Python中常见字符串去除空格的方法总结 - 清单范 - 博客园 - Google Chrome
+14:52:46:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:52:51:  Python中常见字符串去除空格的方法总结 - 清单范 - 博客园 - Google Chrome
+14:53:21:  python 去除字符串中的空格_百度搜索 - Google Chrome
+14:53:26:  python几种去掉字符串中间空格的方法_鶸者为何战斗-CSDN博客 - Google Chrome
+14:53:41:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:53:46:  *Python 3.7.3 Shell*
+14:53:56:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:54:01:  KE18
+14:54:06:  LogExpert - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\KE18\None_0000_20201023144919.log
+14:54:11:  KE18
+14:54:21:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:55:01:  python几种去掉字符串中间空格的方法_鶸者为何战斗-CSDN博客 - Google Chrome
+14:55:11:  python 去除字符串中的空格_百度搜索 - Google Chrome
+14:55:16:  Python如何删除字符串中所有空格-Python教程-PHP中文网 - Google Chrome
+14:55:26:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:55:41:  *Python 3.7.3 Shell*
+14:55:56:  python 去除字符串中的空格_百度搜索 - Google Chrome
+14:56:01:  Python中字符串String去除出换行符(\n,\r)和空格的问题_jerrygaoling的博客-CSDN博客 - Google Chrome
+14:56:06:  (4条消息) Python中字符串String去除出换行符(\n,\r)和空格的问题_jerrygaoling的博客-CSDN博客 - Google Chrome
+14:56:16:  https://www.baidu.com/link?url=3P-IAcdbN9gKRhicBFPQiNpMoblrZGNG1f969pmbaIqtcxniHG0rLGHfjBZuWTQs_dloE6E8fECmwNgCq6N6VY7CENcH11P8VhqRnd01XCC&wd=&eqid=eb9dc1910000718d000000025f927e7d - Google Chrome
+14:56:21:  (4条消息) python去除字符串中的换行符_要输就输给追求吧！-CSDN博客 - Google Chrome
+14:56:26:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:56:31:  *Python 3.7.3 Shell*
+14:56:36:  Kill?
+14:56:41:  Tools
+14:56:46:  44
+14:56:51:  20201023
+14:56:56:  Decode
+14:57:06:  *Python 3.7.3 Shell*
+14:57:11:  Python 3.7.3 Shell
+14:57:16:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:57:26:  Python 3.7.3 Shell
+14:57:46:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+14:57:56:  Decode
+14:58:06:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:58:16:  Python 3.7.3 Shell
+14:58:21:  KE18
+14:58:26:  None_0000_20201023143820.log - [No filter file] - TextAnalysisTool.NET
+14:58:31:  ESC_0000_20201023144919.log - [No filter file] - TextAnalysisTool.NET
+14:58:36:  CS_0000_20201023144847.log - [No filter file] - TextAnalysisTool.NET
+14:58:41:  KE18
+14:58:46:  K18_0000_20201023144847.log - [No filter file] - TextAnalysisTool.NET
+14:58:51:  KE18
+14:59:01:  None_0000_20201023144847.log - [No filter file] - TextAnalysisTool.NET
+14:59:06:  KE18
+14:59:11:  Decode
+14:59:16:  20201023
+14:59:21:  KE18
+14:59:26:  20201023
+14:59:31:  BTCRTestTool
+14:59:36:  TCR调测工具（研发版）V1.0.0.4
+14:59:46:  20201023
+14:59:51:  锁屏状态
+14:59:56:  20201023
+14:58:06:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+14:58:16:  Python 3.7.3 Shell
+14:58:21:  KE18
+14:58:26:  None_0000_20201023143820.log - [No filter file] - TextAnalysisTool.NET
+14:58:31:  ESC_0000_20201023144919.log - [No filter file] - TextAnalysisTool.NET
+14:58:36:  CS_0000_20201023144847.log - [No filter file] - TextAnalysisTool.NET
+14:58:41:  KE18
+14:58:46:  K18_0000_20201023144847.log - [No filter file] - TextAnalysisTool.NET
+14:58:51:  KE18
+14:59:01:  None_0000_20201023144847.log - [No filter file] - TextAnalysisTool.NET
+14:59:06:  KE18
+14:59:11:  Decode
+14:59:16:  20201023
+14:59:21:  KE18
+14:59:26:  20201023
+14:59:31:  BTCRTestTool
+14:59:36:  TCR调测工具（研发版）V1.0.0.4
+14:59:46:  20201023
+14:59:51:  锁屏状态
+14:59:56:  20201023
+15:00:16:  Decode
+15:00:21:  ESC_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+15:00:36:  CS_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+15:00:41:  Decode
+15:03:16:  20201023
+15:03:21:  Decode
+15:03:26:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+15:03:46:  *ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)*
+15:04:01:  Decode
+15:04:06:  ClassLog333.py - E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\ClassLog333.py (3.7.3)
+15:04:11:  KE18
+15:04:16:  20201023
+15:04:21:  TCR调测工具（研发版）V1.0.0.4
+15:04:41:  BTCRTestTool
+15:04:46:  TCR调测工具（研发版）V1.0.0.4
+15:05:11:  Decode
+15:05:16:  删除多个项目
+15:05:21:  KE18
+15:05:26:  ESC_0000_20201023150444.log - [No filter file] - TextAnalysisTool.NET
+15:05:31:  KE18
+15:05:41:  打开
+15:05:56:  TCR调测工具（研发版）V1.0.0.4
+15:07:01:  Pythonre.findall运行不佳怎么办？ - 问答 - 云+社区 - 腾讯云 - Google Chrome
+15:07:51:  KE18
+15:09:12:  桌面整理
+15:09:17:  Visual Studio Code
+15:09:32:  爆仓问题(1)
+15:09:37:  300张50元纸币大额存款入下腔122张后，再次入钞，纸币全部进入回收箱
+15:09:42:  K64_BTCR-1100200600510420_20201023095548
+15:09:47:  Box_4__BTCR-1100200600510420_20201023095548.log - DRB.tat* - TextAnalysisTool.NET
+15:11:47:  锁屏状态
+15:11:52:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+15:12:17:  密码锁
+15:12:22:  所有笔记本 - 张开发 - 印象笔记
+15:12:32:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+15:12:37:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+15:12:42:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+15:21:37:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+15:21:57:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+15:22:02:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+15:22:27:  自动播放
+15:22:32:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+15:22:37:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+15:28:17:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+15:28:22:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+15:28:27:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+15:28:17:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+15:28:22:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+15:28:27:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+15:33:57:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+15:34:07:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+15:34:12:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+15:40:37:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+15:40:42:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+15:40:47:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+15:51:57:  锁屏状态
+15:52:02:  TCR调测工具 V3.36
+15:53:07:  钞箱配置
+15:53:22:  可接收
+15:53:27:  TCR调测工具 V3.36
+15:58:32:  取款
+15:58:37:  TCR调测工具 V3.36
+15:58:32:  取款
+15:58:37:  TCR调测工具 V3.36
+16:00:47:  取款
+16:00:52:  TCR调测工具 V3.36
+16:03:57:  BTCRTestTool
+16:06:02:  TCR调测工具 V3.36
+16:24:22:  桌面整理
+16:24:32:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:24:37:  打开文件夹
+16:24:42:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:24:47:  Box_4__BTCR-1100200600510420_20201023095548.log - DRB.tat* - TextAnalysisTool.NET
+16:25:23:  新建文本文档.exe - 快捷方式
+16:25:28:  eSpace
+16:25:33:  荆文波
+16:27:43:  eSpace
+16:27:48:  K64_BTCR-1100200600510420_20201023095548
+16:27:53:  TCRControlCmdDLL
+16:27:58:  20201023
+16:28:03:  Decode
+16:28:08:  ESC_0000_20201023150444.log - [No filter file] - TextAnalysisTool.NET
+16:28:18:  KE18
+16:28:38:  Decode
+16:29:18:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+16:28:08:  ESC_0000_20201023150444.log - [No filter file] - TextAnalysisTool.NET
+16:28:18:  KE18
+16:28:38:  Decode
+16:29:18:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+16:30:08:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+16:31:08:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+16:32:38:  荆文波
+16:33:23:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+16:34:58:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+16:35:18:  荆文波
+16:35:28:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+16:38:13:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+16:38:18:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+16:39:18:  K18_0000_20201023145940.log - [No filter file] - TextAnalysisTool.NET
+16:39:23:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+16:41:18:  新建文本文档.exe - 快捷方式
+16:41:23:  新标签页 - Google Chrome
+16:41:33:  百度一下，你就知道 - Google Chrome
+16:41:43:  十进制转化为二进制_百度搜索 - Google Chrome
+16:41:48:  十进制转化ascii码_百度搜索 - Google Chrome
+16:41:53:  ASCII_百度百科 - Google Chrome
+16:46:43:  计算器
+16:46:48:  ASCII_百度百科 - Google Chrome
+16:48:38:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+16:48:43:  E:\深圳出差\44\FwLib\UsbDeviceStack\UsbStack.c (44) - Sublime Text (UNREGISTERED)
+16:48:48:  E:\深圳出差\44\Drivers\UsbDriver\SnbcUsbdDriver.c (44) - Sublime Text (UNREGISTERED)
+16:49:03:  锁屏状态
+16:49:08:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+16:50:08:  于斌1
+16:50:13:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+16:50:23:  eSpace
+16:50:28:  姚世龙
+16:51:28:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)
+16:51:48:  锁屏状态
+16:51:58:  姚世龙
+16:53:13:  ASCII_百度百科 - Google Chrome
+16:53:18:  姚世龙
+16:53:28:  ASCII_百度百科 - Google Chrome
+16:53:38:  姚世龙
+16:55:23:  E:\深圳出差\44\Applications\ErrorHandle\ErrHandle.c (44) - Sublime Text (UNREGISTERED)
+16:55:28:  E:\深圳出差\44\Applications\FlowControl\BldcCtrl\BldcCtrl.c (44) - Sublime Text (UNREGISTERED)
+16:55:33:  E:\深圳出差\44\FwLib\DebugLog\DebugLog.h (44) - Sublime Text (UNREGISTERED)
+16:55:38:  E:\深圳出差\44\FwLib\DebugLog\LogPrint\PrintService.c (44) - Sublime Text (UNREGISTERED)
+16:56:13:  姚世龙
+16:56:28:  E:\深圳出差\44\FwLib\DebugLog\LogPrint\PrintService.c (44) - Sublime Text (UNREGISTERED)
+16:56:53:  姚世龙
+16:58:18:  E:\深圳出差\44\Applications\FlowControl\BldcCtrl\BldcCtrl.c (44) - Sublime Text (UNREGISTERED)
+16:59:13:  Decode
+16:59:23:  「开始」菜单
+16:59:33:  HxD
+16:59:38:  HxD - [E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\K18_0000_20201023145940.log]
+16:59:53:  计算器
+16:58:18:  E:\深圳出差\44\Applications\FlowControl\BldcCtrl\BldcCtrl.c (44) - Sublime Text (UNREGISTERED)
+16:59:13:  Decode
+16:59:23:  「开始」菜单
+16:59:33:  HxD
+16:59:38:  HxD - [E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\K18_0000_20201023145940.log]
+16:59:53:  计算器
+17:02:23:  E:\深圳出差\44\Applications\FlowControl\BldcCtrl\BldcCtrl.c (44) - Sublime Text (UNREGISTERED)
+17:02:38:  HxD - [E:\深圳出差\CRS调试工具\log\TCRControlCmdDLL\20201023\Decode\K18_0000_20201023145940.log]
+17:03:13:  E:\深圳出差\44\Applications\FlowControl\BldcCtrl\BldcCtrl.c (44) - Sublime Text (UNREGISTERED)
+17:03:18:  E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)
+17:03:53:  ASCII_百度百科 - Google Chrome
+17:04:33:  「开始」菜单
+17:04:38:  计算器
+17:05:28:  锁屏状态

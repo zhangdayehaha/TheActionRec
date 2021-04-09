@@ -1,0 +1,623 @@
+08:06:30:  窦志远
+08:06:50:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:07:10:  窦志远
+08:07:30:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:07:35:  窦志远
+08:07:50:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+08:07:55:  窦志远
+08:09:10:  张健4
+08:09:20:  窦志远
+08:11:50:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+08:13:45:  姚世龙
+08:13:50:  窦志远
+08:14:25:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+08:14:25:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+08:21:20:  ● CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+08:25:15:  自动播放
+08:25:25:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:25:45:  设置 - CRS-64-1 - Visual Studio Code [管理员]
+08:25:50:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:30:11:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:30:16:  设置 - CRS-64-1 - Visual Studio Code [管理员]
+08:30:21:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:30:26:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:30:46:  ● CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:30:51:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:31:06:  ● CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:31:16:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:31:56:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:35:12:  ● CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:35:17:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:43:52:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:46:07:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:46:12:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:46:37:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:46:52:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:46:57:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:47:07:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+08:47:12:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:47:42:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:49:52:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+08:49:57:  新建文本文档.exe - 快捷方式
+08:50:12:  eSpace
+08:50:17:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+08:53:22:  钞箱1T2集成测试方案
+08:53:27:  跳转列表
+08:53:42:  00-18
+08:53:47:  本地磁盘 (D:)
+08:53:52:  CRS
+08:54:07:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+08:54:17:  InstrExe.c - TortoiseMerge
+08:54:27:  KE18-ESS
+08:54:32:  检出
+08:54:37:  trunk - 检出 - TortoiseSVN
+08:54:47:  检出 完成！
+08:54:52:  D:\CRS\KE18-ESS - 复制（分支/标记） - TortoiseSVN
+08:55:07:   - 版本库浏览器 - TortoiseSVN
+08:55:17:  D:\CRS\KE18-ESS - 复制（分支/标记） - TortoiseSVN
+08:55:37:  历史记录
+08:55:42:  D:\CRS\KE18-ESS - 复制（分支/标记） - TortoiseSVN
+08:55:52:  http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K18_MAIN/trunk - 日志信息 - TortoiseSVN
+08:55:57:  D:\CRS\KE18-ESS - 复制（分支/标记） - TortoiseSVN
+08:56:27:  KE18-ESS
+08:56:32:   - 版本库浏览器 - TortoiseSVN
+08:56:47:  D:\CRS\KE18-ESS - 切换 - TortoiseSVN
+08:56:52:  KE18-ESS
+08:57:02:  KE18-UP
+08:57:07:  正在复制 2,655 个项目(169 MB)
+08:57:12:  复制文件
+08:57:17:  正在复制 2,655 个项目(169 MB)
+08:57:22:  eSpace
+08:57:27:  KE18-ESS
+08:57:32:  Init.c - TortoiseMerge
+08:58:22:  InstrExe.c - TortoiseMerge
+08:58:32:  TortoiseMerge
+08:58:37:  InstrExe.h - TortoiseMerge
+08:58:42:  InstrExp.c - TortoiseMerge
+08:58:47:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+08:58:52:  InstrExp.h - TortoiseMerge
+08:59:17:  InstrExp.c - TortoiseMerge
+08:59:37:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+08:59:47:  Update.c - TortoiseMerge
+08:58:22:  InstrExe.c - TortoiseMerge
+08:58:32:  TortoiseMerge
+08:58:37:  InstrExe.h - TortoiseMerge
+08:58:42:  InstrExp.c - TortoiseMerge
+08:58:47:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+08:58:52:  InstrExp.h - TortoiseMerge
+08:59:17:  InstrExp.c - TortoiseMerge
+08:59:37:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+08:59:47:  Update.c - TortoiseMerge
+09:00:17:  TortoiseMerge
+09:00:22:  startup_MKE18F16.s - TortoiseMerge
+09:00:37:  D:\CRS\KE18-ESS - 工作副本 - TortoiseSVN
+09:00:42:  StepMotor.c - TortoiseMerge
+09:00:52:  D:\CRS\KE18-ESS - 提交 - TortoiseSVN
+09:01:02:  Init.c - TortoiseMerge
+09:01:07:  D:\CRS\KE18-ESS - 提交 - TortoiseSVN
+09:02:27:  TortoiseMerge
+09:02:32:  D:\CRS\KE18-ESS - 提交 - TortoiseSVN
+09:02:37:  InstrExe.c - TortoiseMerge
+09:02:42:  D:\CRS\KE18-ESS - 提交 - TortoiseSVN
+09:02:47:  Drivers
+09:02:52:  加入 失败！
+09:12:12:  自动播放
+09:12:52:  Drivers
+09:12:57:  KE18-ESS
+09:13:12:  检出
+09:13:17:  2-BOOT - 检出 - TortoiseSVN
+09:13:32:  KE18-ESS
+09:13:42:  正在复制 2,655 个项目(169 MB)
+09:13:47:  复制文件
+09:13:52:  KE18-ESS
+09:14:22:  KE18-UP
+09:14:32:  确认文件夹替换
+09:14:37:  复制文件
+09:14:42:  KE18-ESS
+09:14:47:  Drivers
+09:14:52:  KE18-ESS
+09:14:57:  D:\CRS\KE18-ESS - 提交 - TortoiseSVN
+09:14:22:  KE18-UP
+09:14:32:  确认文件夹替换
+09:14:37:  复制文件
+09:14:42:  KE18-ESS
+09:14:47:  Drivers
+09:14:52:  KE18-ESS
+09:14:57:  D:\CRS\KE18-ESS - 提交 - TortoiseSVN
+09:15:07:  startup_MKE18F16.s - TortoiseMerge
+09:15:12:  TortoiseSVN
+09:15:17:  Update.h - TortoiseMerge
+09:16:17:  Init.c - TortoiseMerge
+09:16:37:  SnbcFlashDriver.h - TortoiseMerge
+09:16:42:  D:\CRS\KE18-ESS - 提交 - TortoiseSVN
+09:16:47:  SnbcFlashDriver.c - TortoiseMerge
+09:16:52:  D:\CRS\KE18-ESS - 提交 - TortoiseSVN
+09:16:57:  Update.c - TortoiseMerge
+09:17:27:  D:\CRS\KE18-ESS - 提交 - TortoiseSVN
+09:17:32:  InstrExp.h - TortoiseMerge
+09:17:37:  InstrExe.h - TortoiseMerge
+09:17:47:  D:\CRS\KE18-ESS - 提交 - TortoiseSVN
+09:18:17:  D:\00-KE64\CRS-64\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c (CRS-64) - Sublime Text (UNREGISTERED)
+09:18:22:  KE18-ESS
+09:18:27:  DRB--
+09:18:32:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:18:57:  MKE06P80M48SF0RM.pdf - Adobe Reader
+09:21:42:  DRB--
+09:21:47:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:24:47:  eSpace
+09:24:52:  窦志远
+09:25:07:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:25:17:  窦志远
+09:25:27:  D:\CRS\KE18-ESS - 提交 - TortoiseSVN
+09:26:32:  提交
+09:26:42:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:26:47:  DRB--
+09:26:52:  00-KE64
+09:26:57:  D:\00-KE64\trunk - 日志信息 - TortoiseSVN
+09:27:07:  trunk
+09:27:12:  00-KE64
+09:27:22:  branch-crs.txt - 记事本
+09:27:27:  D:\00-KE64\trunk - 日志信息 - TortoiseSVN
+09:27:32:  trunk
+09:27:37:  00-KE64
+09:27:42:  D:\00-KE64\新建文件夹\trunk - 提交 - TortoiseSVN
+09:27:47:  D:\00-KE64\新建文件夹\trunk - 日志信息 - TortoiseSVN
+09:28:02:  trunk
+09:28:07:  D:\00-KE64\新建文件夹\trunk - 版本库浏览器 - TortoiseSVN
+09:28:12:  trunk
+09:28:17:  D:\00-KE64\trunk - 版本库浏览器 - TortoiseSVN
+09:28:22:  00-KE64
+09:28:27:  D:\00-KE64\新建文件夹\trunk - 更新 - TortoiseSVN
+09:28:37:  更新 完成！
+09:28:52:  trunk
+09:29:07:  Visual Studio Code
+09:29:12:  欢迎使用 - Visual Studio Code [管理员]
+09:29:17:  打开文件夹
+09:29:22:  Visual Studio Code
+09:29:27:  欢迎使用 - trunk - Visual Studio Code [管理员]
+09:29:37:  FlowControl.c - trunk - Visual Studio Code [管理员]
+09:29:47:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:28:07:  D:\00-KE64\新建文件夹\trunk - 版本库浏览器 - TortoiseSVN
+09:28:12:  trunk
+09:28:17:  D:\00-KE64\trunk - 版本库浏览器 - TortoiseSVN
+09:28:22:  00-KE64
+09:28:27:  D:\00-KE64\新建文件夹\trunk - 更新 - TortoiseSVN
+09:28:37:  更新 完成！
+09:28:52:  trunk
+09:29:07:  Visual Studio Code
+09:29:12:  欢迎使用 - Visual Studio Code [管理员]
+09:29:17:  打开文件夹
+09:29:22:  Visual Studio Code
+09:29:27:  欢迎使用 - trunk - Visual Studio Code [管理员]
+09:29:37:  FlowControl.c - trunk - Visual Studio Code [管理员]
+09:29:47:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:30:27:  trunk
+09:30:32:  D:\00-KE64\新建文件夹\trunk - 日志信息 - TortoiseSVN
+09:30:37:  CashGateModuleApp.c Revision 4095 - TortoiseMerge
+09:33:32:  D:\00-KE64\新建文件夹\trunk - 日志信息 - TortoiseSVN
+09:33:37:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:33:52:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:34:18:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:34:58:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:35:48:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:36:08:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:37:28:  08tcr测试过程记录
+09:37:33:  固件版本
+09:37:38:  K06
+09:37:43:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T81 - “K06”中的搜索结果
+09:37:48:  固件版本
+09:37:53:  桌面整理
+09:37:58:  未命名 - 写邮件
+09:38:03:  BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_MAIN_T81 - 写邮件
+09:42:58:  桌面整理
+09:43:03:  开始
+09:43:08:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:43:28:  eSpace
+09:43:33:  方俊杰
+09:51:03:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:51:18:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:51:23:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:51:28:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:51:33:  ● CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:51:43:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:51:48:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:51:53:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:52:28:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:52:38:  GateModuleApp.h - trunk - Visual Studio Code [管理员]
+09:52:48:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:52:58:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:53:08:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:53:48:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:54:28:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+09:54:33:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:54:53:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:55:08:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:55:13:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:55:28:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:55:48:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:56:18:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:56:23:  ComponentStatus.h - CRS-64-1 - Visual Studio Code [管理员]
+09:56:28:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:56:48:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+09:57:28:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:58:03:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:01:18:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:02:28:  桌面整理
+10:02:33:  DRB传感器.txt - 记事本
+10:02:38:  方俊杰
+10:07:13:  锁屏状态
+10:07:18:  方俊杰
+10:07:23:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:07:33:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:07:38:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:07:48:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:07:58:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:08:33:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:08:53:  GateModuleApp.h - trunk - Visual Studio Code [管理员]
+10:08:58:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:09:08:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:09:18:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:09:23:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:09:38:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:09:43:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:09:53:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:10:23:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:10:58:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:11:03:  InstrExp.h - CRS-64-1 - Visual Studio Code [管理员]
+10:11:13:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:11:48:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:11:58:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:12:03:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:12:13:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:12:28:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:12:38:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:12:53:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:13:23:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:13:43:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:13:48:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:13:53:  GateModuleApp.h - trunk - Visual Studio Code [管理员]
+10:13:58:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:14:33:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:14:43:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:14:53:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:14:33:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:14:43:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:14:53:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:15:23:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:15:28:  GateModuleApp.h - CRS-64-1 - Visual Studio Code [管理员]
+10:15:38:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:15:58:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:16:13:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:16:23:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:16:38:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:16:43:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:16:48:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:16:58:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:17:03:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:17:13:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:17:18:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:17:23:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:17:28:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:17:33:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:21:28:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:21:33:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:21:48:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:22:18:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:22:23:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:22:28:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:43:58:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:48:53:  寻物启示
+10:48:58:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+10:54:48:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:11:38:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+11:13:33:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:13:38:  计算器
+11:13:58:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:14:03:  MindMaster
+11:14:13:  MindMaster Pro
+11:14:23:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+11:14:48:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:14:13:  MindMaster Pro
+11:14:23:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+11:14:48:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:15:58:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+11:17:43:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:17:48:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+11:18:28:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:18:53:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+11:18:58:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:19:13:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+11:19:49:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:21:39:  MindMaster Pro
+11:22:14:  密码锁
+11:22:19:  0-工作 - 张开发 - 印象笔记
+11:22:29:  2-财务分配 - 张开发 - 印象笔记
+11:22:34:  印象笔记
+11:22:44:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+11:22:49:  计算器
+11:23:24:  本地磁盘 (D:)
+11:23:29:  TheDateInfo.xls  [兼容模式] - Excel
+11:24:24:  Microsoft Excel
+11:24:34:  桌面整理
+11:24:39:  MindMaster Pro
+11:24:54:  MindMaster.exe
+11:24:59:  TheDateInfo.xls  [兼容模式] - Excel
+11:26:14:  Microsoft Excel
+11:26:24:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:27:44:  eSpace
+11:27:49:  吉哲
+11:28:14:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:28:19:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+11:28:29:  本地磁盘 (D:)
+11:28:39:  00-KE64
+11:28:44:  CRS-64
+11:28:54:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+11:28:59:  00-KE64
+11:29:09:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:29:14:  00-KE64
+11:29:19:  CRS
+11:29:24:  本地磁盘 (D:)
+11:29:39:  00-KE64
+11:29:44:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:28:14:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:28:19:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+11:28:29:  本地磁盘 (D:)
+11:28:39:  00-KE64
+11:28:44:  CRS-64
+11:28:54:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+11:28:59:  00-KE64
+11:29:09:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:29:14:  00-KE64
+11:29:19:  CRS
+11:29:24:  本地磁盘 (D:)
+11:29:39:  00-KE64
+11:29:44:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:30:09:  CRS-64-1
+11:30:14:  E:\深圳出差\CRS-64-1 - 日志信息 - TortoiseSVN
+11:30:19:  CRS-64-1
+11:30:24:  合并
+11:30:29:   - 版本库浏览器 - TortoiseSVN
+11:30:39:  合并
+11:30:44:  E:\深圳出差\CRS-64-1 - 合并 仅测试 - TortoiseSVN
+11:30:54:  合并 仅测试 完成！
+11:31:09:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:45:29:  锁屏状态
+13:21:25:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:25:30:  新建文本文档.exe - 快捷方式
+13:25:40:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+13:25:45:  ● CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+13:25:50:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+13:26:00:  设置 - CRS-64-1 - Visual Studio Code [管理员]
+13:26:05:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:35:40:  新建文本文档.exe - 快捷方式
+13:35:45:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:37:00:  锁屏状态
+13:37:05:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:39:15:  合并
+13:39:20:  E:\深圳出差\CRS-64-1 - 合并 仅测试 - TortoiseSVN
+13:39:35:  E:\深圳出差\CRS-64-1 - 合并 - TortoiseSVN
+13:39:45:  解决冲突
+13:39:55:  CashBoxModuleApp.c - TortoiseMerge
+13:40:00:  解决冲突
+13:40:05:  E:\深圳出差\CRS-64-1 - 合并 - TortoiseSVN
+13:40:10:  CashBoxModuleApp.c.working - TortoiseMerge
+13:40:40:  D:\00-KE64\CRS-64\Applications\CanComm\SlaveBoardComm\EscBoardCmd.c (CRS-64) - Sublime Text (UNREGISTERED)
+13:40:45:  CashBoxModuleApp.c.working - TortoiseMerge
+13:40:50:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:41:10:  CashBoxModuleApp.c.working - TortoiseMerge
+13:41:20:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:41:30:  CashBoxModuleApp.c.working - TortoiseMerge
+13:41:35:  合并 完成！
+13:41:40:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:41:50:  工作副本
+13:41:55:  CashBoxModuleApp.c - TortoiseMerge
+13:42:05:  深圳出差
+13:42:10:  00-KE64
+13:42:15:  trunk
+13:42:20:  CRS-64
+13:42:25:  D:\00-KE64\CRS-64 - 日志信息 - TortoiseSVN
+13:42:30:  GateModuleApp.c Revision 469 - TortoiseMerge
+13:42:40:  D:\00-KE64\CRS-64 - 日志信息 - TortoiseSVN
+13:42:45:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:43:15:  D:\00-KE64\CRS-64 - 日志信息 - TortoiseSVN
+13:43:20:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:43:25:  CRS-64
+13:43:30:  trunk
+13:43:35:  D:\00-KE64\新建文件夹\trunk - 日志信息 - TortoiseSVN
+13:43:45:  锁屏状态
+13:43:55:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:44:00:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:44:20:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:44:25:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:44:20:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:44:25:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:45:20:  密码锁
+13:45:25:  2-财务分配 - 张开发 - 印象笔记
+13:45:35:  3-日常 - 张开发 - 印象笔记
+13:45:45:  0-工作 - 张开发 - 印象笔记
+13:45:50:  读书笔记 - 张开发 - 印象笔记
+13:46:15:  日记 - 张开发 - 印象笔记
+13:46:20:  读书笔记 - 张开发 - 印象笔记
+13:46:25:  1-记录 - 张开发 - 印象笔记
+13:46:45:  0-工作 - 张开发 - 印象笔记
+13:47:40:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:47:45:  0-工作 - 张开发 - 印象笔记
+13:47:50:  1-记录 - 张开发 - 印象笔记
+13:50:00:  0-工作 - 张开发 - 印象笔记
+13:50:15:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+13:57:10:  0-工作 - 张开发 - 印象笔记
+13:57:15:  1-记录 - 张开发 - 印象笔记
+14:02:15:  0-工作 - 张开发 - 印象笔记
+14:02:20:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:03:05:  文档
+14:03:15:  2020-09-19.txt - 记事本
+14:03:55:  锁屏状态
+14:04:00:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:04:05:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:04:25:  本地磁盘 (E:)
+14:04:30:  TortoiseMerge
+14:04:35:  文件补丁  
+14:04:40:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+14:04:50:  CRS-64-1
+14:04:55:  E:\深圳出差\CRS-64-1 - 提交 - TortoiseSVN
+14:05:00:  GateModuleApp.c - TortoiseMerge
+14:05:10:  历史记录
+14:05:15:  E:\深圳出差\CRS-64-1 - 提交 - TortoiseSVN
+14:06:00:  提交
+14:06:05:  CRS-64-1
+14:06:10:  E:\深圳出差\CRS-64-1 - 日志信息 - TortoiseSVN
+14:06:20:  CRS-64-1
+14:06:25:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:06:45:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:07:00:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:07:10:  密码锁
+14:07:15:  0-工作 - 张开发 - 印象笔记
+14:07:25:  印象笔记
+14:09:10:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:09:15:  1-记录 - 张开发 - 印象笔记
+14:10:00:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:15:50:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:16:10:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:16:15:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:16:25:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:16:30:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:16:40:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:21:40:  eSpace
+14:21:45:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:24:15:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:24:20:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:24:45:  0-工作 - 张开发 - 印象笔记
+14:25:00:  所有笔记本 - 张开发 - 印象笔记
+14:25:05:  0-工作 - 张开发 - 印象笔记
+14:25:15:  所有笔记本 - 张开发 - 印象笔记
+14:25:20:  2-财务分配 - 张开发 - 印象笔记
+14:25:30:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:25:35:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:25:50:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:25:55:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:26:25:  GateModuleApp.h - CRS-64-1 - Visual Studio Code [管理员]
+14:26:30:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:26:35:  GateModuleApp.h - CRS-64-1 - Visual Studio Code [管理员]
+14:26:40:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:36:46:  锁屏状态
+14:36:51:  新标签页 - Google Chrome
+14:37:01:  百度一下，你就知道 - Google Chrome
+14:37:31:  落肩尺寸比正常_百度搜索 - Google Chrome
+14:37:51:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:38:01:  锁屏状态
+14:38:06:  1-记录 - 张开发 - 印象笔记
+14:38:16:  0-工作 - 张开发 - 印象笔记
+14:38:21:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:43:06:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:47:46:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:50:21:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:50:41:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:50:46:  SensorCheck.h - CRS-64-1 - Visual Studio Code [管理员]
+14:50:51:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:51:21:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:51:51:  SensorCheck.h - CRS-64-1 - Visual Studio Code [管理员]
+14:52:06:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:52:21:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:52:26:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:52:46:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:53:06:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+14:53:36:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:59:41:  0-工作 - 张开发 - 印象笔记
+14:59:46:  1-记录 - 张开发 - 印象笔记
+15:00:01:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:59:41:  0-工作 - 张开发 - 印象笔记
+14:59:46:  1-记录 - 张开发 - 印象笔记
+15:00:01:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:07:11:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+15:07:31:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:08:06:  SensorCheck.h - CRS-64-1 - Visual Studio Code [管理员]
+15:08:31:  SensorCheck.c - CRS-64-1 - Visual Studio Code [管理员]
+15:08:56:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:14:36:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+15:14:36:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+15:15:16:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:18:56:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+15:30:11:  03 项目周报
+15:30:16:  Excel
+15:30:21:  TCR（DRB）项目周报.xlsx  [共享] - Excel
+15:31:41:  Microsoft Excel
+15:32:21:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:32:26:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+15:32:36:  eSpace
+15:45:12:  新标签页 - Google Chrome
+15:45:17:  落肩尺寸比正常_百度搜索 - Google Chrome
+15:45:22:  落肩尺寸_百度搜索 - Google Chrome
+15:45:27:  大*们 关于尺码这种落肩的码怎么选 本人181 77kg【福神吧】_百度贴吧 - Google Chrome
+15:45:42:  落肩尺寸_百度搜索 - Google Chrome
+15:45:52:  打落肩袖的款，在肩点不知道外出多少尺寸怎... 来自妙裁女装 - 微博 - Google Chrome
+15:46:02:  落肩尺寸_百度搜索 - Google Chrome
+15:46:17:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+15:47:42:  打开文件夹
+15:47:47:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:48:27:  落肩尺寸_百度搜索 - Google Chrome
+15:48:32:  落肩尺寸怎么计算_百度搜索 - Google Chrome
+15:48:52:  落肩袖怎么算肩宽_百度搜索 - Google Chrome
+15:48:57:  落肩袖的原始肩宽怎么定-服装打版/工艺讨论 - 穿针引线服装论坛 - Google Chrome
+15:49:22:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+15:49:27:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+16:02:02:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+16:15:57:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+16:21:52:  落肩袖怎么算肩宽_百度搜索 - Google Chrome
+16:22:12:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+16:22:32:  安装
+16:22:37:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+16:22:57:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+16:23:02:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+16:23:12:  BldcDriver.c - trunk - Visual Studio Code [管理员]
+16:23:17:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+16:23:32:  文档
+16:23:37:  2020-09-19.txt - 记事本
+16:23:47:  W
+16:23:57:  2020-09-14.txt - 记事本
+16:24:42:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+16:25:27:  1-记录 - 张开发 - 印象笔记
+16:26:37:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+16:28:07:  1-记录 - 张开发 - 印象笔记
+16:29:27:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+16:29:47:  eSpace
+16:29:57:  郑磊
+16:28:07:  1-记录 - 张开发 - 印象笔记
+16:29:27:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+16:29:47:  eSpace
+16:29:57:  郑磊
+16:30:07:  eSpace
+16:30:17:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+16:36:57:  主页 - Internet Explorer
+16:37:02:  系统登录 - Internet Explorer
+16:37:07:  新北洋OA信息化平台 - Internet Explorer
+16:37:17:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+16:37:22:  新标签页 - Google Chrome
+16:37:32:  系统登录 - Internet Explorer
+16:37:37:  员工自助 - Internet Explorer
+16:37:42:  考勤异常 - Internet Explorer
+16:37:52:  员工自助 - Internet Explorer
+16:38:02:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+16:40:27:  新标签页 - Google Chrome
+16:40:37:  百度一下，你就知道 - Google Chrome
+16:40:42:  (96 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:41:22:  无标题 - Google Chrome
+16:41:27:  (96 封私信 / 80 条消息) 如何评价百里玄策 赛年限定皮肤「原初追逐者」？ - 知乎 - Google Chrome
+16:41:32:  (96 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:41:42:  (96 封私信 / 80 条消息) 米家小饭煲 - 搜索结果 - 知乎 - Google Chrome
+16:41:47:  (96 封私信 / 80 条消息) 米家小饭煲 煮面 - 搜索结果 - 知乎 - Google Chrome
+16:42:22:  用米家小饭煲怎么煮挂面？用什么烹饪模式？ - 知乎 - Google Chrome
+16:42:27:  (96 封私信 / 80 条消息) 凭什么好游戏都没王者火 - 搜索结果 - 知乎 - Google Chrome
+16:42:32:  (96 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:42:57:  首页 - 知乎 - Google Chrome
+16:43:02:  (96 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:45:47:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+16:48:32:  (96 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:48:52:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+16:48:57:  (96 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:51:27:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+16:51:47:  (96 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:52:47:  (96 封私信 / 80 条消息) 佳能M6 镜头 - 搜索结果 - 知乎 - Google Chrome
+16:57:07:  CashGateModuleApp.c - trunk - Visual Studio Code [管理员]
+17:00:43:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+17:02:08:  「开始」菜单
+17:04:13:  锁屏状态

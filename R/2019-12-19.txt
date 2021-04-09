@@ -1,0 +1,12 @@
+2019-12-19 08:08:58-- 08:09:50     :上午上班    频繁  ：   0
+2019-12-19 08:21:43-- 08:22:22     :    频繁  ：   0
+2019-12-19 08:23:49-- 08:23:53     :    频繁  ：   0
+2019-12-19 08:23:53-- 08:30:42     :恢复集成测试文件    频繁  ：DRB缺陷.xlsx  [只读] - Excel   2
+2019-12-19 08:30:42-- 09:00:30     :恢复集成测试文件    频繁  ：TCR调测工具 V3.36   22
+2019-12-19 09:00:30-- 09:34:46     :消防演练    频繁  ：D:\00-06\BOOT\trunk\Project\CashBox_Boot.uvprojx - μVision   28
+2019-12-19 09:34:46-- 10:00:43     :纸币合并测试，    频繁  ：D:\00-06\2\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision   14
+2019-12-19 10:00:43-- 10:30:16     :纸币合并测试，    频繁  ：D:\00-06\2\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision   13
+2019-12-19 10:30:16-- 11:00:25     :电机功能测试    频繁  ：11 (version 1).xlsb [自动保存的] - Excel   12
+2019-12-19 11:00:25-- 11:30:26     :电机功能测试    频繁  ：D:\00-06\2\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   11
+2019-12-19 11:30:26-- 13:23:44     :下午上班    频繁  ：D:\00-06\2\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   7
+2019-12-19 13:23:44-- 13:30:15     :下午上班    频繁  ：D:\00-06\2\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   7

@@ -1,0 +1,842 @@
+08:08:07:  高逸
+08:11:57:  颜晓军
+08:17:32:  于斌1
+08:24:37:  颜晓军
+08:24:42:  iTunes
+08:25:42:  于斌1
+08:27:27:  DRB--
+08:27:37:  钞箱1T2集成测试方案
+08:27:57:  5.4 日志功能测试.xls  [兼容模式] - Excel
+08:28:07:  于斌1
+08:28:22:  5.12 直流电机测试.pptx - PowerPoint
+08:28:27:  5.4 日志信号测试v1.0.pptx - PowerPoint
+08:28:42:  于斌1
+08:29:02:  K06
+08:29:32:  00-06
+08:29:37:  深圳出差
+08:29:42:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+08:29:57:  44
+08:28:07:  于斌1
+08:28:22:  5.12 直流电机测试.pptx - PowerPoint
+08:28:27:  5.4 日志信号测试v1.0.pptx - PowerPoint
+08:28:42:  于斌1
+08:29:02:  K06
+08:29:32:  00-06
+08:29:37:  深圳出差
+08:29:42:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+08:29:57:  44
+08:32:47:  本地磁盘 (D:)
+08:32:52:  SECSplashWnd
+08:32:57:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:33:32:  Toolbox
+08:33:37:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:36:32:  锁屏状态
+08:36:37:  KE06LOG.bat - 快捷方式 (2)
+08:36:47:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+08:36:57:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010140836.log
+08:37:02:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+09:05:17:  eSpace
+09:05:27:  方俊杰
+09:07:02:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+09:07:17:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:07:47:  E:\深圳出差\44\Applications\FlowControl\CashSlot\PressurePlateCtrl.c (44) - Sublime Text (UNREGISTERED)
+09:08:12:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:08:27:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:08:37:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:08:42:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:08:52:  E:\深圳出差\44\Applications\FlowControl\TrackSelector\SelCtrl.c (44) - Sublime Text (UNREGISTERED)
+09:09:27:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:09:42:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:09:47:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:10:07:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:10:12:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:10:22:  eSpace
+09:10:27:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:10:37:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:11:02:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:11:07:  E:\深圳出差\44\Applications\StateCheck\StateCheck.c (44) - Sublime Text (UNREGISTERED)
+09:11:12:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:12:02:  E:\深圳出差\44\Applications\StateCheck\StateCheck.c (44) - Sublime Text (UNREGISTERED)
+09:12:22:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:12:37:  E:\深圳出差\44\Applications\StateCheck\StateCheck.c (44) - Sublime Text (UNREGISTERED)
+09:13:02:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:13:12:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:13:22:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:13:32:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:15:07:  E:\深圳出差\44\Applications\StateCheck\StateCheck.c (44) - Sublime Text (UNREGISTERED)
+09:15:17:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:15:22:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:15:27:  eSpace
+09:15:32:  于斌1
+09:15:52:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:15:57:  于斌1
+09:16:07:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:27:32:  锁屏状态
+09:28:12:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:28:17:  于斌1
+09:28:27:  方俊杰
+09:28:32:  颜晓军
+09:28:47:  本地磁盘 (D:)
+09:28:52:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+09:29:02:  44
+09:29:07:  固件版本
+09:29:12:  \\192.168.28.47\08tcr测试过程记录\样机配置履历表\固件版本\最新固件\K06\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB-弹性摆块.EEP (trunk) - Sublime Text (UNREGISTERED)
+09:29:17:  锁屏状态
+09:29:27:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:29:37:  eSpace
+09:29:42:  于斌1
+09:28:12:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:28:17:  于斌1
+09:28:27:  方俊杰
+09:28:32:  颜晓军
+09:28:47:  本地磁盘 (D:)
+09:28:52:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+09:29:02:  44
+09:29:07:  固件版本
+09:29:12:  \\192.168.28.47\08tcr测试过程记录\样机配置履历表\固件版本\最新固件\K06\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB-弹性摆块.EEP (trunk) - Sublime Text (UNREGISTERED)
+09:29:17:  锁屏状态
+09:29:27:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:29:37:  eSpace
+09:29:42:  于斌1
+09:30:17:  K06
+09:30:22:  运行
+09:30:42:  主控板集成测试方案-报告
+09:30:52:  5.20 电磁铁功能测试_V1.0.xls  [受保护的视图] - Excel
+09:31:02:  主控板集成测试方案-报告
+09:31:07:  锁屏状态
+09:31:12:  5.20 电磁铁功能测试_V1.0.xls  [受保护的视图] - Excel
+09:31:17:  于斌1
+09:31:37:  5.20 电磁铁功能测试_V1.0.xls  [受保护的视图] - Excel
+09:31:47:  于斌1
+09:31:52:  主控板集成测试方案-报告
+09:32:57:  于斌1
+09:33:22:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:33:42:  E:\深圳出差\44\Drivers\FlashDriver\SnbcFlashDriver.c (44) - Sublime Text (UNREGISTERED)
+09:33:52:  于斌1
+09:35:22:  从控板集成测试方案-报告
+09:35:27:  主控板集成测试方案-报告
+09:35:32:  于斌1
+09:35:37:  固件集成测试方案
+09:38:37:  工作记录
+09:38:42:  结构图
+09:38:47:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+09:38:52:  20200826_CRS电机和拨叉方向.pdf - Adobe Reader
+09:39:02:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+09:39:07:  结构图
+09:39:12:  CAXA电子图板
+09:39:18:  无名文件 - CAXA电子图板2005(企业版)
+09:39:23:  \\192.168.28.3\文件共享\组织共享\技术中心项目组共享\02-识别产品线\06- 刘建生\06 固件日报\共享文件\CRS\结构图\CRS电机作用范围.exb - CAXA电子图板2005(企业版)
+09:39:38:  CRS
+09:39:43:  原理图
+09:39:48:  正在打开 - Excel
+09:39:53:  原理图
+09:39:58:  CRS电气资料.xlsx  [受保护的视图] - Excel
+09:41:13:  E:\深圳出差\44\Drivers\FlashDriver\SnbcFlashDriver.c (44) - Sublime Text (UNREGISTERED)
+09:41:18:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:41:43:  选择文件夹
+09:42:18:  untitled (trunk) - Sublime Text (UNREGISTERED)
+09:42:23:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:42:28:  untitled (trunk) - Sublime Text (UNREGISTERED)
+09:42:33:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\HistoryStruct.h (trunk) - Sublime Text (UNREGISTERED)
+09:42:58:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+09:43:48:  eSpace
+09:43:53:  收取邮件 - 张开发
+09:43:58:  荆文波
+09:44:18:  选择文件夹
+09:44:18:  选择文件夹
+09:46:38:  untitled (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+09:50:13:  WinRAR
+09:50:23:  爆仓问题.rar - WinRAR (非商业个人版)
+09:50:28:  主控板集成测试方案-报告
+09:50:33:  fenxi
+09:50:38:  爆仓问题
+09:50:43:  K64_BTCR-1100190802300006_20201014092953.log - DRB.tat* - TextAnalysisTool.NET
+09:50:58:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+09:51:08:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+09:51:13:  Edit Filter
+09:51:18:  K64_BTCR-1100190802300006_20201014092953.log - DRB.tat* - TextAnalysisTool.NET
+09:51:23:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+09:51:33:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+09:51:48:  K64_BTCR-1100190802300006_20201014092953.log - DRB.tat* - TextAnalysisTool.NET
+09:51:58:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+09:52:08:  K64_BTCR-1100190802300006_20201014092953.log - DRB.tat* - TextAnalysisTool.NET
+09:52:13:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+09:52:33:  CRS电气资料.xlsx  [受保护的视图] - Excel
+09:52:38:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+10:00:23:  荆文波
+10:00:33:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+10:03:28:  本地磁盘 (D:)
+10:03:33:  SECSplashWnd
+10:03:38:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:04:38:  锁屏状态
+10:04:43:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+10:04:58:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:10:53:  于斌1
+10:11:03:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:11:38:  于斌1
+10:12:18:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:15:23:  锁屏状态
+10:15:28:  于斌1
+10:15:33:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:16:18:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+10:17:08:  于斌1
+10:17:38:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+10:27:48:  Everything
+10:27:53:  于斌1
+10:28:03:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:28:43:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010141007.log
+10:28:48:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010141028.log
+10:28:43:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010141007.log
+10:28:48:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010141028.log
+10:30:48:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:30:53:  于斌1
+10:31:03:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:31:18:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010141031.log
+10:31:23:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:31:28:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010141031.log
+10:37:58:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+10:46:28:  CRS电气资料.xlsx  [只读] - Excel
+10:47:03:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+10:47:08:  CRS电气资料.xlsx  [只读] - Excel
+10:47:43:  CRS
+10:47:48:  结构图
+10:47:53:  CRS
+10:47:58:  结构图
+10:48:03:  20200826_CRS电机和拨叉方向.pdf - Adobe Reader
+10:48:13:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\HistoryStruct.h (trunk) - Sublime Text (UNREGISTERED)
+10:48:43:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:48:53:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\HistoryStruct.h (trunk) - Sublime Text (UNREGISTERED)
+10:54:13:  锁屏状态
+10:54:18:  CRS电气资料.xlsx  [只读] - Excel
+10:54:23:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\HistoryStruct.h (trunk) - Sublime Text (UNREGISTERED)
+10:55:03:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:55:18:  D:\00-KE64\trunk\Applications\FlowControl\Shutter\ShutModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:57:03:  CRS电气资料.xlsx  [只读] - Excel
+10:57:08:  D:\00-KE64\trunk\Applications\FlowControl\Shutter\ShutModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:57:23:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+10:57:33:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+10:57:38:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+10:58:03:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+10:58:08:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:58:23:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+10:59:28:  E:\深圳出差\44\Applications\FlowControl\Escrow\AdapterCtrl.c (44) - Sublime Text (UNREGISTERED)
+10:59:33:  E:\深圳出差\44\Applications\FlowControl\Escrow\BarCtrl.c (44) - Sublime Text (UNREGISTERED)
+10:59:38:  E:\深圳出差\44\Applications\FlowControl\Escrow\EscPlateCtrl.c (44) - Sublime Text (UNREGISTERED)
+10:59:43:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+10:58:08:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+10:58:23:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+10:59:28:  E:\深圳出差\44\Applications\FlowControl\Escrow\AdapterCtrl.c (44) - Sublime Text (UNREGISTERED)
+10:59:33:  E:\深圳出差\44\Applications\FlowControl\Escrow\BarCtrl.c (44) - Sublime Text (UNREGISTERED)
+10:59:38:  E:\深圳出差\44\Applications\FlowControl\Escrow\EscPlateCtrl.c (44) - Sublime Text (UNREGISTERED)
+10:59:43:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+11:00:28:  E:\深圳出差\44\Applications\FlowControl\TrackSelector\SelCtrl.c (44) - Sublime Text (UNREGISTERED)
+11:00:33:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+11:00:53:  E:\深圳出差\44\Applications\StateCheck\StateCheck.c (44) - Sublime Text (UNREGISTERED)
+11:01:03:  E:\深圳出差\44\Applications\FlowControl\TrackSelector\SelCtrl.c (44) - Sublime Text (UNREGISTERED)
+11:01:13:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+11:01:23:  D:\00-KE64\trunk\Applications\FlowControl\Shutter\ShutModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+11:01:28:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.h (44) - Sublime Text (UNREGISTERED)
+11:04:29:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:07:29:  D:\00-KE64\trunk\Applications\FlowControl\Shutter\ShutModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+11:07:34:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+11:07:59:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.h (44) - Sublime Text (UNREGISTERED)
+11:08:09:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+11:11:14:  本地磁盘 (D:)
+11:11:24:  00-06
+11:11:29:  trunk
+11:11:34:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+11:27:19:  王晓华
+11:27:44:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+11:27:54:  TortoiseMerge
+11:27:59:  PlateCtrl.c Revision 3375 - TortoiseMerge
+11:28:09:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+11:28:14:  文件补丁  
+11:28:19:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+11:28:29:  PlateCtrl.c Revision 3222 - TortoiseMerge
+11:28:34:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+11:28:39:  PlateCtrl.c Revision 3222 - TortoiseMerge
+11:28:49:  王晓华
+11:29:59:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+11:28:09:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+11:28:14:  文件补丁  
+11:28:19:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+11:28:29:  PlateCtrl.c Revision 3222 - TortoiseMerge
+11:28:34:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+11:28:39:  PlateCtrl.c Revision 3222 - TortoiseMerge
+11:28:49:  王晓华
+11:29:59:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+11:30:19:  王晓华
+11:30:34:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+11:31:19:  主页 - Internet Explorer
+11:31:24:  系统登录 - Internet Explorer
+11:31:29:  新北洋OA信息化平台 - Internet Explorer
+11:31:44:  2020年新北洋张村食堂10.12-10.17日菜谱+.xlsx  [受保护的视图] - Excel
+11:31:54:  eSpace
+11:31:59:  于斌1
+11:32:04:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+11:32:09:  eSpace
+11:32:14:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+11:40:24:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:40:29:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+11:40:39:  锁屏状态
+13:24:45:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+13:24:50:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+13:25:00:  结构图
+13:25:05:  trunk
+13:25:10:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+13:25:20:  PlateCtrl.c - TortoiseMerge
+13:25:25:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+13:25:30:  Project
+13:25:35:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+13:27:45:  JLink - Cortex-M Error
+13:27:50:  Cortex JLink/JTrace Target Driver Setup
+13:28:10:  Options for Target 'CashBox'
+13:28:35:  Cortex JLink/JTrace Target Driver Setup
+13:29:10:  JL2CM3
+13:29:15:  Options for Target 'CashBox'
+13:29:40:  SEGGER J-Link V6.10b - Control panel
+13:29:45:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+13:28:10:  Options for Target 'CashBox'
+13:28:35:  Cortex JLink/JTrace Target Driver Setup
+13:29:10:  JL2CM3
+13:29:15:  Options for Target 'CashBox'
+13:29:40:  SEGGER J-Link V6.10b - Control panel
+13:29:45:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+13:36:26:  CRS电气资料.xlsx  [只读] - Excel
+13:36:31:  计算器
+13:36:36:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+13:36:41:  本地磁盘 (D:)
+13:36:46:  10
+13:36:51:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+13:36:56:  深圳出差
+13:37:01:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+13:37:21:  CashBoxPlateCtrl.c Revision 567 - TortoiseMerge
+13:37:26:  ComponentCtrl.c Revision 567 - TortoiseMerge
+13:37:36:  CashBoxModuleApp.c Revision 567 - TortoiseMerge
+13:37:46:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+13:38:01:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+13:38:06:  选择文件夹
+13:38:16:  untitled (44) - Sublime Text (UNREGISTERED)
+13:38:26:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+13:38:36:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+13:38:41:  E:\深圳出差\44\Applications\FlowControl\TrackSelector\SelCtrl.c (44) - Sublime Text (UNREGISTERED)
+13:38:51:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+13:39:11:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+13:40:51:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+13:40:56:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+13:41:01:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+13:41:06:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+13:41:21:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+13:41:26:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+13:41:31:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+13:41:36:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+13:41:51:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+13:43:16:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+13:44:36:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+13:44:36:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+13:45:21:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+13:46:16:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+13:46:26:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+13:46:31:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+13:46:36:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+13:46:41:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+13:47:01:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+13:49:01:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+13:49:51:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+13:55:46:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+13:56:21:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+13:57:36:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+13:59:46:  V1.003
+13:59:51:  TCR调测工具 V3.36
+13:59:46:  V1.003
+13:59:51:  TCR调测工具 V3.36
+14:00:11:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:00:16:  TCR调测工具 V3.36
+14:01:01:  托板控制
+14:01:41:  钞箱配置
+14:01:46:  TCR调测工具 V3.36
+14:01:51:  钞箱使能
+14:01:56:  回收钞口
+14:02:01:  TCR调测工具 V3.36
+14:02:06:  钞箱配置
+14:02:16:  TCR调测工具 V3.36
+14:02:21:  回收钞口
+14:02:36:  TCR调测工具 V3.36
+14:05:11:  BTCRTestTool 属性
+14:05:16:  20201014
+14:05:21:  K64_BTCR-1100190803000_20201014140442.log - DRB.tat* - TextAnalysisTool.NET
+14:05:56:  回收钞口
+14:06:01:  钞箱使能
+14:06:06:  回收钞口
+14:06:21:  TCR调测工具 V3.36
+14:07:56:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+14:08:26:  TCR调测工具 V3.36
+14:09:11:  钞箱使能
+14:09:16:  回收钞口
+14:09:21:  TCR调测工具 V3.36
+14:11:36:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (1T1-Stop-Length) - Sublime Text (UNREGISTERED)
+14:13:06:  44
+14:13:11:  DCIM
+14:13:21:  101APPLE
+14:13:26:  103APPLE
+14:13:31:  本地磁盘 (C:)
+14:13:36:  正在复制...
+14:14:11:  发送指令到K06
+14:14:16:  TCR调测工具 V3.36
+14:14:21:  发送指令到K06
+14:14:26:  TCR调测工具 V3.36
+14:14:31:  正在复制...
+14:14:46:  TCR调测工具 V3.36
+14:14:56:  正在复制...
+14:14:11:  发送指令到K06
+14:14:16:  TCR调测工具 V3.36
+14:14:21:  发送指令到K06
+14:14:26:  TCR调测工具 V3.36
+14:14:31:  正在复制...
+14:14:46:  TCR调测工具 V3.36
+14:14:56:  正在复制...
+14:15:41:  fenxi
+14:16:41:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:17:21:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:17:51:  E:\深圳出差\44\Applications\EepHisApp\EepromConfig.h (44) - Sublime Text (UNREGISTERED)
+14:17:56:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+14:18:06:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:18:16:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:18:26:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:18:46:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+14:18:56:  E:\深圳出差\44\Applications\StateCheck\StateCheck.c (44) - Sublime Text (UNREGISTERED)
+14:21:26:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+14:22:31:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c • (44) - Sublime Text (UNREGISTERED)
+14:22:51:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+14:23:06:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:24:11:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:24:16:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:24:46:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:24:51:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:25:16:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:25:26:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:25:41:  This is an unregistered copy
+14:25:46:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:26:26:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:26:46:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:26:51:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:27:01:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:27:11:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:27:16:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:27:21:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:27:46:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:27:51:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:27:56:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:28:06:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:28:31:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:28:36:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:29:01:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:29:06:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:29:21:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:29:51:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:56:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:28:06:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:28:31:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:28:36:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:29:01:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:29:06:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:29:21:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:29:51:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+14:29:56:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:30:11:  D:\00-KE64\trunk\Applications\StateCheck\StateCheck.c (trunk) - Sublime Text (UNREGISTERED)
+14:30:56:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+14:31:11:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:31:36:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c • (44) - Sublime Text (UNREGISTERED)
+14:31:46:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:32:06:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:33:06:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:33:46:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:33:56:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:34:01:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:34:06:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:34:11:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:34:16:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:34:21:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:34:26:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:34:36:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:34:46:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:34:51:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:34:56:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:35:01:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:35:41:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:35:46:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:36:16:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:36:21:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:36:56:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:37:01:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:37:51:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:37:56:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:38:01:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:38:06:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:38:11:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:38:26:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:38:31:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)
+14:38:41:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:38:46:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)
+14:38:56:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:39:01:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:39:06:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:39:11:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:39:16:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:39:31:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (trunk) - Sublime Text (UNREGISTERED)
+14:39:46:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:39:51:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+14:40:01:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c • (44) - Sublime Text (UNREGISTERED)
+14:40:37:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:40:42:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:41:32:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:41:47:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:41:52:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:41:57:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+14:42:02:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:42:12:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c • (44) - Sublime Text (UNREGISTERED)
+14:42:17:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:42:22:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:42:27:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:42:47:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c • (44) - Sublime Text (UNREGISTERED)
+14:42:57:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:43:02:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:43:32:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:43:42:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:43:47:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)
+14:43:57:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+14:44:07:  D:\00-KE64\trunk\Applications\FlowControl\TrackSelector\SelModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+14:44:17:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:44:37:  E:\深圳出差\44\Middlewares\Selector\Selector.c (44) - Sublime Text (UNREGISTERED)
+14:44:47:  E:\深圳出差\44\Applications\FlowControl\TrackSelector\SelCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:44:07:  D:\00-KE64\trunk\Applications\FlowControl\TrackSelector\SelModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+14:44:17:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:44:37:  E:\深圳出差\44\Middlewares\Selector\Selector.c (44) - Sublime Text (UNREGISTERED)
+14:44:47:  E:\深圳出差\44\Applications\FlowControl\TrackSelector\SelCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:45:12:  E:\深圳出差\44\Applications\FlowControl\TrackSelector\SelCtrl.h (44) - Sublime Text (UNREGISTERED)
+14:45:17:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:45:37:  E:\深圳出差\44\Applications\StateCheck\StateCheck.c (44) - Sublime Text (UNREGISTERED)
+14:45:47:  E:\深圳出差\44\Applications\FlowControl\TrackMotor\TrackMotor.h (44) - Sublime Text (UNREGISTERED)
+14:46:17:  E:\深圳出差\44\Applications\StateCheck\StateCheck.c (44) - Sublime Text (UNREGISTERED)
+14:46:27:  E:\深圳出差\44\Applications\FlowControl\TrackMotor\TrackMotor.h (44) - Sublime Text (UNREGISTERED)
+14:46:37:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:46:42:  E:\深圳出差\44\Applications\FlowControl\TrackMotor\TrackMotor.h (44) - Sublime Text (UNREGISTERED)
+14:46:47:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:46:52:  E:\深圳出差\44\Applications\FlowControl\TrackMotor\TrackMotor.h (44) - Sublime Text (UNREGISTERED)
+14:46:57:  E:\深圳出差\44\Applications\StateCheck\StateCheck.c (44) - Sublime Text (UNREGISTERED)
+14:48:57:  E:\深圳出差\44\Applications\FlowControl\TrackMotor\TrackMotor.h (44) - Sublime Text (UNREGISTERED)
+14:49:02:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:49:22:  E:\深圳出差\44\Applications\FlowControl\TrackMotor\TrackMotor.h (44) - Sublime Text (UNREGISTERED)
+14:49:27:  D:\00-KE64\trunk\Applications\FlowControl\TrackSelector\SelModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+14:49:37:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+14:49:52:  D:\00-KE64\trunk\Applications\StateCheck\StateCheck.c (trunk) - Sublime Text (UNREGISTERED)
+14:50:02:  D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+14:50:07:  D:\00-KE64\trunk\Applications\StateCheck\StateCheck.c (trunk) - Sublime Text (UNREGISTERED)
+14:50:12:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:50:17:  E:\深圳出差\44\Applications\FlowControl\TrackMotor\TrackMotor.h (44) - Sublime Text (UNREGISTERED)
+14:50:27:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:50:32:  E:\深圳出差\44\Applications\FlowControl\TrackMotor\TrackMotor.h (44) - Sublime Text (UNREGISTERED)
+14:50:37:  E:\深圳出差\44\Applications\FlowControl\TrackMotor\TrackMotor.h • (44) - Sublime Text (UNREGISTERED)
+14:50:42:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:50:47:  E:\深圳出差\44\Applications\StateCheck\StateCheck.c (44) - Sublime Text (UNREGISTERED)
+14:51:17:  eSpace
+14:52:17:  运行
+14:52:22:  Excel
+14:52:27:  5.3 历史记录功能测试-K64.xls  [受保护的视图] - Excel
+14:52:57:  E:\深圳出差\44\Applications\StateCheck\StateCheck.c (44) - Sublime Text (UNREGISTERED)
+14:53:02:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:54:02:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:54:07:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:54:12:  D:\00-KE64\trunk\Applications\FlowControl\Plate\PlateDriver.c (44) - Sublime Text (UNREGISTERED)
+14:54:17:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c • (44) - Sublime Text (UNREGISTERED)
+14:54:22:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+14:54:27:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c • (44) - Sublime Text (UNREGISTERED)
+14:54:47:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:55:02:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)
+14:55:57:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:56:07:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)
+14:56:12:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:56:17:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+14:56:22:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:56:27:  5.3 历史记录功能测试-K64.xls  [受保护的视图] - Excel
+14:56:32:  5.3 历史记录功能测试-K64.xls  [兼容模式] - Excel
+14:57:17:  eSpace
+14:58:02:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:58:37:  5.3 历史记录功能测试-K64.xls  [兼容模式] - Excel
+14:58:42:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:58:52:  5.3 历史记录功能测试-K64.xls  [兼容模式] - Excel
+14:58:57:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:59:12:  5.3 历史记录功能测试-K64.xls  [兼容模式] - Excel
+14:59:27:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:58:37:  5.3 历史记录功能测试-K64.xls  [兼容模式] - Excel
+14:58:42:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:58:52:  5.3 历史记录功能测试-K64.xls  [兼容模式] - Excel
+14:58:57:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+14:59:12:  5.3 历史记录功能测试-K64.xls  [兼容模式] - Excel
+14:59:27:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+15:02:57:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)
+15:04:02:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:04:07:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\HistoryStruct.h (trunk) - Sublime Text (UNREGISTERED)
+15:04:27:  5.3 历史记录功能测试-K64.xls  [兼容模式] - Excel
+15:04:42:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)
+15:04:52:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\HistoryStruct.h (trunk) - Sublime Text (UNREGISTERED)
+15:04:57:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:05:02:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\HistoryStruct.h (trunk) - Sublime Text (UNREGISTERED)
+15:05:12:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:05:17:  5.3 历史记录功能测试-K64.xls  [兼容模式] - Excel
+15:05:42:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)
+15:05:52:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+15:05:57:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)
+15:06:02:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+15:06:07:  5.3 历史记录功能测试-K64.xls  [兼容模式] - Excel
+15:06:17:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h • (44) - Sublime Text (UNREGISTERED)
+15:06:22:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)
+15:06:42:  主控板集成测试方案-报告
+15:06:47:  Excel
+15:07:02:  5.1 BOOTLOADER测试V1.0.xls  [兼容模式] - Excel
+15:12:17:  D:\00-KE64\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+15:12:27:  5.1 BOOTLOADER测试V1.0.xls  [兼容模式] - Excel
+15:16:37:  5.3 历史记录功能测试-K64.xls  [兼容模式] - Excel
+15:16:47:  5.1 BOOTLOADER测试V1.0.xls  [受保护的视图] - Excel
+15:16:52:  5.1 BOOTLOADER测试V1.0.xls  [兼容模式] - Excel
+15:18:22:  固件集成测试方案
+15:18:27:  5.1 BOOTLOADER测试V1.0.xls  [受保护的视图] - Excel
+15:18:37:  5.1 BOOTLOADER测试V1.0.xls  [兼容模式] - Excel
+15:20:42:  5.3 历史记录功能测试-K64.xls  [兼容模式] - Excel
+15:21:17:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:24:22:  吉哲
+15:24:27:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:24:32:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+15:24:57:  打开文件夹
+15:25:12:  Visual Studio Code
+15:25:17:  收取邮件 - 张开发
+15:25:27:  荆文波
+15:25:37:  eSpace
+15:25:42:  fenxi
+15:25:47:  打开方式
+15:25:52:  Windows Media Player
+15:26:32:  fenxi
+15:26:37:  欢迎使用 - 44 - Visual Studio Code [管理员]
+15:26:47:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+15:27:02:  ● ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+15:27:17:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+15:27:27:  设置 - 44 - Visual Studio Code [管理员]
+15:27:32:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+15:27:52:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:27:57:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+15:28:07:  锁屏状态
+15:28:12:  新标签页 - Google Chrome
+15:28:17:  eSpace
+15:28:22:  桌面整理
+15:28:27:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)
+15:28:42:  MindMaster Pro
+15:29:43:  MindMaster 发现新版本。
+15:30:03:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)
+15:28:07:  锁屏状态
+15:28:12:  新标签页 - Google Chrome
+15:28:17:  eSpace
+15:28:22:  桌面整理
+15:28:27:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)
+15:28:42:  MindMaster Pro
+15:29:43:  MindMaster 发现新版本。
+15:30:03:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)
+15:30:08:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+15:30:13:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:30:23:  打开文件夹
+15:30:28:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:31:18:  扩展: Docker - 44 - Visual Studio Code [管理员]
+15:31:28:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:31:33:  桌面整理
+15:31:38:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)
+15:31:43:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:33:24:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+15:33:29:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:33:39:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+15:42:15:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:42:25:  设置 - 44 - Visual Studio Code [管理员]
+15:42:30:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+15:51:35:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:51:40:  ● CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:51:45:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:52:25:  设置 - 44 - Visual Studio Code [管理员]
+15:52:35:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:53:00:  荆文波
+15:53:30:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+15:55:05:  下腔小面额出钞结构拒钞过多
+15:55:10:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+15:55:15:  荆文波
+15:55:25:  20201014
+15:55:45:  本地磁盘 (D:)
+15:55:50:  爆仓问题(1)
+15:55:55:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+15:56:50:  爆仓问题(1)
+15:56:55:  荆文波
+15:57:00:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+15:58:20:  荆文波
+15:58:25:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+15:58:30:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:58:35:  ● CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:58:40:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+15:58:55:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:59:00:  ● CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:59:05:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:59:10:  荆文波
+15:59:20:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:59:55:  荆文波
+15:58:20:  荆文波
+15:58:25:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+15:58:30:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:58:35:  ● CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:58:40:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+15:58:55:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:59:00:  ● CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:59:05:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:59:10:  荆文波
+15:59:20:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+15:59:55:  荆文波
+16:00:10:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+16:00:25:  ● CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+16:00:30:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+16:00:45:  新建文本文档.exe - 快捷方式
+16:00:50:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+16:01:20:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:01:25:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+16:02:55:  ● CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+16:03:00:  Decode
+16:03:05:  Box_3__BTCR-1100200600510420_20201014144936.log - DRB.tat* - TextAnalysisTool.NET
+16:03:40:  荆文波
+16:03:50:  K64_BTCR-1100200600510420_20201014144936
+16:03:55:  K64_BTCR-1100200600510420_20201014145304
+16:04:00:  Box_3__BTCR-1100200600510420_20201014144835.log - DRB.tat* - TextAnalysisTool.NET
+16:04:05:  LOG
+16:04:10:  Box_3__BTCR-1100200600510420_20201014144727.log - DRB.tat* - TextAnalysisTool.NET
+16:04:15:  K64_BTCR-1100200600510420_20201014144638
+16:04:20:  LOG
+16:04:25:  Box_3__BTCR-1100200600510420_20201014144309.log - DRB.tat* - TextAnalysisTool.NET
+16:04:45:  K64_BTCR-1100200600510420_20201014144129
+16:04:50:  Box_3__BTCR-1100200600510420_20201014144129.log - DRB.tat* - TextAnalysisTool.NET
+16:05:00:  K64_BTCR-1100200600510420_20201014144020
+16:05:10:  K64-_BTCR-1100200600510420_20201014144020.log - DRB.tat* - TextAnalysisTool.NET
+16:05:25:  荆文波
+16:05:35:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+16:05:40:  ● CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+16:05:45:  新建文本文档.exe - 快捷方式
+16:05:50:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+16:05:55:  ● CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+16:06:00:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+16:06:05:  设置 - 44 - Visual Studio Code [管理员]
+16:06:10:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+16:07:25:  荆文波
+16:07:30:  K64-_BTCR-1100200600510420_20201014144020.log - DRB.tat* - TextAnalysisTool.NET
+16:07:35:  LOG
+16:07:40:  K64-_BTCR-1100200600510420_20201014143836.log - DRB.tat* - TextAnalysisTool.NET
+16:10:25:  Edit Filter
+16:10:30:  K64-_BTCR-1100200600510420_20201014143836.log - DRB.tat* - TextAnalysisTool.NET
+16:10:35:  Edit Filter
+16:10:40:  K64-_BTCR-1100200600510420_20201014143836.log - DRB.tat* - TextAnalysisTool.NET
+16:11:00:  LOG
+16:11:05:  K64_BTCR-1100200600510420_20201014143017
+16:11:10:  K64-_BTCR-1100200600510420_20201014143017.log - DRB.tat* - TextAnalysisTool.NET
+16:11:26:  LOG
+16:11:31:  K64-_BTCR-1100200600510420_20201014144936.log - DRB.tat* - TextAnalysisTool.NET
+16:11:36:  K64_BTCR-1100200600510420_20201014144936
+16:11:41:  K64-_BTCR-1100200600510420_20201014144835.log - DRB.tat* - TextAnalysisTool.NET
+16:12:26:  K64_BTCR-1100200600510420_20201014144835
+16:12:31:  Box_3__BTCR-1100200600510420_20201014144936.log - DRB.tat* - TextAnalysisTool.NET
+16:12:46:  荆文波
+16:12:56:  K64_BTCR-1100200600510420_20201014144936
+16:13:01:  K64_BTCR-1100200600510420_20201014144309
+16:13:06:  K64-_BTCR-1100200600510420_20201014144309.log - DRB.tat* - TextAnalysisTool.NET
+16:13:11:  荆文波
+16:13:16:  K64_BTCR-1100200600510420_20201014144129
+16:13:21:  K64-_BTCR-1100200600510420_20201014144129.log - DRB.tat* - TextAnalysisTool.NET
+16:13:41:  K64_BTCR-1100200600510420_20201014144309
+16:13:46:  LOG
+16:13:51:  K64-_BTCR-1100200600510420_20201014144129.log - DRB.tat* - TextAnalysisTool.NET
+16:14:01:  K64_BTCR-1100200600510420_20201014144309
+16:14:06:  Box_3__BTCR-1100200600510420_20201014144309.log - DRB.tat* - TextAnalysisTool.NET
+16:14:16:  荆文波
+16:14:21:  K64_BTCR-1100200600510420_20201014144309
+16:14:26:  K64-_BTCR-1100200600510420_20201014144309.log - DRB.tat* - TextAnalysisTool.NET
+16:14:31:  LOG
+16:14:06:  Box_3__BTCR-1100200600510420_20201014144309.log - DRB.tat* - TextAnalysisTool.NET
+16:14:16:  荆文波
+16:14:21:  K64_BTCR-1100200600510420_20201014144309
+16:14:26:  K64-_BTCR-1100200600510420_20201014144309.log - DRB.tat* - TextAnalysisTool.NET
+16:14:31:  LOG
+16:15:06:  荆文波
+16:15:31:  LOG
+16:15:46:  K64_BTCR-1100200600510420_20201014112102
+16:15:51:  K64-_BTCR-1100200600510420_20201014112102.log - DRB.tat* - TextAnalysisTool.NET
+16:15:56:  LOG
+16:16:01:  K64-_BTCR-1100200600510420_20201014112017.log - DRB.tat* - TextAnalysisTool.NET
+16:16:06:  LOG
+16:16:11:  K64_BTCR-1100200600510420_20201014112330
+16:16:16:  K64-_BTCR-1100200600510420_20201014112330.log - DRB.tat* - TextAnalysisTool.NET
+16:16:21:  荆文波
+16:16:31:  LOG
+16:16:36:  K64-_BTCR-1100200600510420_20201014112102.log - DRB.tat* - TextAnalysisTool.NET
+16:16:56:  荆文波
+16:17:01:  K64-_BTCR-1100200600510420_20201014112102.log - DRB.tat* - TextAnalysisTool.NET
+16:17:11:  K64_BTCR-1100200600510420_20201014112102
+16:17:16:  LOG
+16:17:21:  K64_BTCR-1100200600510420_20201014112226
+16:17:26:  K64-_BTCR-1100200600510420_20201014112226.log - DRB.tat* - TextAnalysisTool.NET
+16:17:31:  K64-_BTCR-1100200600510420_20201014112330.log - DRB.tat* - TextAnalysisTool.NET
+16:17:36:  荆文波
+16:18:06:  K64_BTCR-1100200600510420_20201014112434
+16:18:11:  K64-_BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+16:18:16:  荆文波
+16:18:21:  K64-_BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+16:18:31:  LOG
+16:18:36:  K64_BTCR-1100200600510420_20201014133020
+16:18:41:  Box_3__BTCR-1100200600510420_20201014133020.log - DRB.tat* - TextAnalysisTool.NET
+16:19:06:  K64_BTCR-1100200600510420_20201014112434
+16:19:11:  Box_3__BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+16:19:26:  锁屏状态
+16:19:31:  K64_BTCR-1100200600510420_20201014112330
+16:19:36:  K64-_BTCR-1100200600510420_20201014112330.log - [No filter file] - TextAnalysisTool.NET
+16:19:41:  K64-_BTCR-1100200600510420_20201014112330.log - DRB.tat - TextAnalysisTool.NET
+16:19:51:  Edit Filter
+16:19:56:  K64-_BTCR-1100200600510420_20201014112330.log - DRB.tat* - TextAnalysisTool.NET
+16:20:01:  Edit Filter
+16:20:11:  K64_BTCR-1100200600510420_20201014112330
+16:20:16:  LOG
+16:20:21:  K64-_BTCR-1100200600510420_20201014112330.log - DRB.tat* - TextAnalysisTool.NET
+16:20:26:  K64-_BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+16:20:41:  Box_3__BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+16:20:51:  「开始」菜单
+16:21:01:  Box_3__BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+16:21:16:  K64-_BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+16:21:26:  Box_3__BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+16:22:26:  荆文波
+16:22:56:  Box_3__BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+16:23:16:  荆文波
+16:23:21:  Box_3__BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+16:23:31:  荆文波
+16:27:46:  Box_3__BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+16:28:01:  荆文波
+16:28:21:  K64-_BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+16:28:26:  荆文波
+16:29:46:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+16:28:21:  K64-_BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+16:28:26:  荆文波
+16:29:46:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+16:33:36:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+16:33:41:  K64-_BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+16:33:46:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+16:33:51:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+16:34:06:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+16:46:16:  计算器
+16:46:26:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+16:47:41:  新建文本文档.exe - 快捷方式
+16:55:16:  关于激活使用医保电子凭证明白纸.pdf
+16:55:36:  桌面整理
+16:55:46:  跳转列表
+16:55:51:  桌面整理
+16:55:56:  关于激活使用医保电子凭证明白纸.pdf - Adobe Reader
+17:02:31:  所有笔记本 - 张开发 - 印象笔记
+17:02:41:  印象笔记
+17:03:11:  所有笔记本 - 张开发 - 印象笔记
+17:03:26:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+17:03:31:  锁屏状态

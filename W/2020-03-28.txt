@@ -1,0 +1,681 @@
+08:07:35:  网易有道词典
+08:08:00:  Dialog
+08:08:10:  
+08:08:15:  eSpace Login
+08:08:50:  
+08:13:27:  PostWork.py - 快捷方式
+08:13:32:  
+08:13:37:  库
+08:13:42:  搜狐新闻 (未响应)
+08:13:47:  库
+08:13:52:  于斌1,吉哲,张开发
+08:13:57:  库
+08:17:22:  
+08:17:32:  PostWork.py - 快捷方式
+08:18:07:  本地磁盘 (D:)
+08:18:12:  00-06
+08:18:27:  主控板集成测试方案-报告
+08:18:32:  正在打开 - Excel
+08:18:37:  
+08:18:42:  6.2.2.6 钞箱测试1T2.xls  [受保护的视图] - Excel
+08:18:47:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:21:18:  
+08:21:28:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:21:38:  
+08:21:43:  轴标签
+08:21:58:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:22:08:  轴标签
+08:22:23:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:22:38:  轴标签
+08:22:43:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:22:48:  
+08:22:58:  选择数据源
+08:23:13:  于斌1
+08:23:18:  
+08:24:03:  于斌1
+08:24:08:  
+08:24:33:  选择数据源
+08:25:03:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:25:13:  
+08:25:18:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:25:23:  轴标签
+08:25:28:  选择数据源
+08:25:33:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:25:48:  
+08:25:53:  轴标签
+08:26:03:  选择数据源
+08:26:08:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:35:38:  BTCR-1100_SLAVE_KE18_FV1064_EXTFEDU3V13&5V_MAIN_T10
+08:35:43:  删除多个项目
+08:35:48:  桌面整理
+08:35:53:  TCR调测工具 V3.36
+08:35:58:  打开
+08:36:08:  BTCRTestTool
+08:36:18:  TCR调测工具 V3.36
+08:36:48:  
+08:36:53:  打开
+08:36:58:  TCR调测工具 V3.36
+08:37:28:  BTCRTestTool V3.36
+08:37:33:  BTCRTestTool (2) 属性
+08:37:48:  开始
+08:37:53:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:40:33:  选择数据源
+08:40:38:  轴标签
+08:40:43:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:41:13:  
+08:41:18:  yf-yuzhenhai
+08:41:23:  TCRControlCmdDLL
+08:41:28:  20200323
+08:41:33:  本地磁盘 (D:)
+08:41:38:  1元测试日志
+08:41:43:  本地磁盘 (D:)
+08:41:48:  1元测试日志
+08:41:53:  正在复制 49 个项目(65.6 MB)
+08:41:58:  1元测试日志
+08:42:18:  20200320
+08:42:23:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+08:42:33:  Decode
+08:42:38:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:42:58:  iTunes
+08:43:08:  
+08:44:53:  LOG
+08:45:08:  K64_BTCR-1100190803000009_20200320162655
+08:45:13:  K64-_BTCR-1100190803000009_20200320162655.log - [No filter file] - TextAnalysisTool.NET
+08:46:08:  Add Filter
+08:46:13:  K64-_BTCR-1100190803000009_20200320162655.log - [No filter file]* - TextAnalysisTool.NET
+08:46:38:  Add Filter
+08:46:43:  D:\00-06\8\branches\BR-1-CashBox1T2\Drivers\BldcDriver\BldcDriver.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+08:46:48:  untitled (trunk) - Sublime Text (UNREGISTERED)
+08:46:53:  D:\00-KE64\7\trunk\Applications\FlowControl\PageManage\PageManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:47:03:  D:\00-KE64\7\trunk\Applications\BvComm\BvInstrCmd.h (trunk) - Sublime Text (UNREGISTERED)
+08:47:08:  D:\00-KE64\7\trunk\Applications\FlowControl\PageManage\PageManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:47:18:  D:\00-KE64\7\trunk\Applications\FlowControl\PageManage\PageManageOut.h (trunk) - Sublime Text (UNREGISTERED)
+08:47:28:  D:\00-KE64\7\trunk\Applications\FlowControl\PageManage\PageManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:48:13:  K64-_BTCR-1100190803000009_20200320162655.log - [No filter file]* - TextAnalysisTool.NET
+08:48:18:  
+08:48:23:  D:\00-KE64\7\trunk\Applications\FlowControl\PageManage\PageManageOut.h (trunk) - Sublime Text (UNREGISTERED)
+08:48:28:  D:\00-KE64\7\trunk\Applications\FlowControl\PageManage\PageManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:48:43:  K64_BTCR-1100190803000009_20200320162655
+08:48:48:  K64_BTCR-1100190803000009_20200320112329
+08:48:53:  K64-_BTCR-1100190803000009_20200320112329.log - [No filter file]* - TextAnalysisTool.NET
+08:49:03:  
+08:49:08:  BTCRTestTool V3.36
+08:49:13:  删除多个项目
+08:49:18:  TCR调测工具 V3.36
+08:49:53:  20200328
+08:49:58:  回复: BTCR-1100_SLAVE_KE18_FV1064_EXTFEDU3V13&5V_MAIN_T10 - 写邮件
+08:50:03:  20200328
+08:50:08:  K64-_BTCR-1100190803000009_20200320112329.log - [No filter file]* - TextAnalysisTool.NET
+08:50:23:  K64_BTCR-1100190803000009_20200320112329
+08:50:33:  
+08:50:38:  Box_2__BTCR-1100190803000009_20200320112329.log - [No filter file]* - TextAnalysisTool.NET
+08:50:58:  于斌1
+08:51:08:  K64_BTCR-1100190803000009_20200320112329
+08:51:13:  LOG
+08:51:18:  Box_2__BTCR-1100190803000009_20200320112007.log - [No filter file]* - TextAnalysisTool.NET
+08:51:23:  K64-_BTCR-1100190803000009_20200320112007.log - [No filter file]* - TextAnalysisTool.NET
+08:51:38:  Box_2__BTCR-1100190803000009_20200320112007.log - [No filter file]* - TextAnalysisTool.NET
+08:52:03:  Add Filter
+08:52:08:  Box_2__BTCR-1100190803000009_20200320112007.log - [No filter file]* - TextAnalysisTool.NET
+08:52:23:  
+08:52:28:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:52:38:  文本分列向导 - 第 2 步，共 3 步
+08:52:48:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:52:58:  Edit Filter
+08:53:03:  Box_2__BTCR-1100190803000009_20200320112007.log - [No filter file]* - TextAnalysisTool.NET
+08:53:08:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:53:23:  固件设计中心
+08:53:28:  
+08:53:33:  K64_BTCR-1100190803000009_20200320112007
+08:53:38:  K64_BTCR-1100190803000009_20200320112221
+08:53:43:  K64-_BTCR-1100190803000009_20200320112329.log - [No filter file]* - TextAnalysisTool.NET
+08:53:48:  K64_BTCR-1100190803000009_20200320112329
+08:53:53:  Box_2__BTCR-1100190803000009_20200320112329.log - [No filter file]* - TextAnalysisTool.NET
+08:54:23:  Add Filter
+08:54:28:  Box_2__BTCR-1100190803000009_20200320112329.log - [No filter file]* - TextAnalysisTool.NET
+08:54:33:  K64-_BTCR-1100190803000009_20200320112454.log - [No filter file]* - TextAnalysisTool.NET
+08:54:58:  K64_BTCR-1100190803000009_20200320112820
+08:55:03:  K64-_BTCR-1100190803000009_20200320112820.log - [No filter file]* - TextAnalysisTool.NET
+08:55:08:  K64_BTCR-1100190803000009_20200320113003
+08:55:13:  K64-_BTCR-1100190803000009_20200320113003.log - [No filter file]* - TextAnalysisTool.NET
+08:55:23:  Box_1__BTCR-1100190803000009_20200320113003.log - [No filter file]* - TextAnalysisTool.NET
+08:55:53:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:55:58:  文本分列向导 - 第 1 步，共 3 步
+08:56:03:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:56:13:  Box_1__BTCR-1100190803000009_20200320113003.log - [No filter file]* - TextAnalysisTool.NET
+08:56:23:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:56:28:  文本分列向导 - 第 1 步，共 3 步
+08:56:33:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:56:48:  K64_BTCR-1100190803000009_20200320113003
+08:56:53:  Box_1__BTCR-1100190803000009_20200320113003.log - [No filter file]* - TextAnalysisTool.NET
+08:56:58:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:57:13:  Box_1__BTCR-1100190803000009_20200320113003.log - [No filter file]* - TextAnalysisTool.NET
+08:57:23:  K64_BTCR-1100190803000009_20200320113003
+08:57:28:  Box_2__BTCR-1100190803000009_20200320113003.log - [No filter file]* - TextAnalysisTool.NET
+08:57:33:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:58:03:  Box_2__BTCR-1100190803000009_20200320113003.log - [No filter file]* - TextAnalysisTool.NET
+08:58:08:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:58:43:  K64_BTCR-1100190803000009_20200320131221
+08:58:48:  K64_BTCR-1100190803000009_20200320131315
+08:58:53:  K64-_BTCR-1100190803000009_20200320131315.log - [No filter file]* - TextAnalysisTool.NET
+08:58:58:  K64_BTCR-1100190803000009_20200320131531
+08:59:03:  K64-_BTCR-1100190803000009_20200320131531.log - [No filter file]* - TextAnalysisTool.NET
+08:59:08:  K64_BTCR-1100190803000009_20200320131531
+08:59:13:  Box_2__BTCR-1100190803000009_20200320131531.log - [No filter file]* - TextAnalysisTool.NET
+08:59:18:  K64-_BTCR-1100190803000009_20200320131830.log - [No filter file]* - TextAnalysisTool.NET
+08:59:23:  K64_BTCR-1100190803000009_20200320131944
+08:59:28:  K64-_BTCR-1100190803000009_20200320131944.log - [No filter file]* - TextAnalysisTool.NET
+08:59:33:  K64_BTCR-1100190803000009_20200320132146
+08:59:38:  K64-_BTCR-1100190803000009_20200320132146.log - [No filter file]* - TextAnalysisTool.NET
+08:59:43:  Box_2__BTCR-1100190803000009_20200320132146.log - [No filter file]* - TextAnalysisTool.NET
+08:59:53:  文本分列向导 - 第 1 步，共 3 步
+08:59:58:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:00:03:  Edit Filter
+08:58:08:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+08:58:43:  K64_BTCR-1100190803000009_20200320131221
+08:58:48:  K64_BTCR-1100190803000009_20200320131315
+08:58:53:  K64-_BTCR-1100190803000009_20200320131315.log - [No filter file]* - TextAnalysisTool.NET
+08:58:58:  K64_BTCR-1100190803000009_20200320131531
+08:59:03:  K64-_BTCR-1100190803000009_20200320131531.log - [No filter file]* - TextAnalysisTool.NET
+08:59:08:  K64_BTCR-1100190803000009_20200320131531
+08:59:13:  Box_2__BTCR-1100190803000009_20200320131531.log - [No filter file]* - TextAnalysisTool.NET
+08:59:18:  K64-_BTCR-1100190803000009_20200320131830.log - [No filter file]* - TextAnalysisTool.NET
+08:59:23:  K64_BTCR-1100190803000009_20200320131944
+08:59:28:  K64-_BTCR-1100190803000009_20200320131944.log - [No filter file]* - TextAnalysisTool.NET
+08:59:33:  K64_BTCR-1100190803000009_20200320132146
+08:59:38:  K64-_BTCR-1100190803000009_20200320132146.log - [No filter file]* - TextAnalysisTool.NET
+08:59:43:  Box_2__BTCR-1100190803000009_20200320132146.log - [No filter file]* - TextAnalysisTool.NET
+08:59:53:  文本分列向导 - 第 1 步，共 3 步
+08:59:58:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:00:03:  Edit Filter
+09:00:08:  Box_2__BTCR-1100190803000009_20200320132146.log - [No filter file]* - TextAnalysisTool.NET
+09:00:13:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:00:23:  文本分列向导 - 第 1 步，共 3 步
+09:00:28:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:00:43:  
+09:00:48:  Box_1__BTCR-1100190803000009_20200320132146.log - [No filter file]* - TextAnalysisTool.NET
+09:01:03:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:01:08:  Box_1__BTCR-1100190803000009_20200320132146.log - [No filter file]* - TextAnalysisTool.NET
+09:01:13:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:01:28:  Edit Filter
+09:01:33:  Box_1__BTCR-1100190803000009_20200320132146.log - [No filter file]* - TextAnalysisTool.NET
+09:01:38:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:01:53:  Box_1__BTCR-1100190803000009_20200320132146.log - [No filter file]* - TextAnalysisTool.NET
+09:02:13:  K64_BTCR-1100190803000009_20200320132146
+09:02:23:  K64_BTCR-1100190803000009_20200320160259
+09:02:28:  K64-_BTCR-1100190803000009_20200320160259.log - [No filter file]* - TextAnalysisTool.NET
+09:02:33:  LOG
+09:02:38:  K64_BTCR-1100190803000009_20200320160638
+09:02:43:  K64_BTCR-1100190803000009_20200320161259
+09:02:48:  LOG
+09:02:53:  K64-_BTCR-1100190803000009_20200320161753.log - [No filter file]* - TextAnalysisTool.NET
+09:02:58:  K64_BTCR-1100190803000009_20200320162401
+09:03:03:  LOG
+09:03:08:  20200320
+09:03:13:  20200328
+09:03:18:  运行
+09:03:23:  TCRControlCmdDLL
+09:03:28:  正在复制 91 个项目(150 MB)
+09:03:38:  剩余 5 秒
+09:03:48:  1元测试日志
+09:04:13:  20200321
+09:04:28:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+09:04:38:  20200321
+09:05:43:  Decode
+09:05:48:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:06:18:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:06:28:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:07:33:  Decode
+09:07:38:  K64_BTCR-1100190803000009_20200321151640
+09:07:48:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:08:08:  K64_BTCR-1100190803000009_20200321151640
+09:08:13:  K64_BTCR-1100190803000009_20200321094640
+09:08:18:  K64_BTCR-1100190803000009_20200321095244
+09:08:23:  K64-_BTCR-1100190803000009_20200321095244.log - [No filter file]* - TextAnalysisTool.NET
+09:08:28:  LOG
+09:08:33:  K64-_BTCR-1100190803000009_20200321095244.log - [No filter file]* - TextAnalysisTool.NET
+09:08:38:  K64_BTCR-1100190803000009_20200321105531
+09:08:43:  K64_BTCR-1100190803000009_20200321105633
+09:08:48:  LOG
+09:08:53:  K64_BTCR-1100190803000009_20200321110020
+09:08:58:  K64-_BTCR-1100190803000009_20200321110020.log - [No filter file]* - TextAnalysisTool.NET
+09:09:03:  K64_BTCR-1100190803000009_20200321110612
+09:09:08:  LOG
+09:09:13:  K64_BTCR-1100190803000009_20200321111149
+09:09:18:  LOG
+09:09:23:  K64-_BTCR-1100190803000009_20200321111332.log - [No filter file]* - TextAnalysisTool.NET
+09:09:28:  K64_BTCR-1100190803000009_20200321132902
+09:09:33:  K64-_BTCR-1100190803000009_20200321133206.log - [No filter file]* - TextAnalysisTool.NET
+09:09:38:  LOG
+09:09:43:  TCR调测工具 V3.36
+09:09:48:  K64-_BTCR-1100190803000009_20200321133751.log - [No filter file]* - TextAnalysisTool.NET
+09:09:58:  K64_BTCR-1100190803000009_20200321134149
+09:10:03:  K64-_BTCR-1100190803000009_20200321134321.log - [No filter file]* - TextAnalysisTool.NET
+09:10:08:  K64_BTCR-1100190803000009_20200321134831
+09:10:13:  K64-_BTCR-1100190803000009_20200321135040.log - [No filter file]* - TextAnalysisTool.NET
+09:10:18:  LOG
+09:10:23:  K64-_BTCR-1100190803000009_20200321135040.log - [No filter file]* - TextAnalysisTool.NET
+09:10:28:  K64_BTCR-1100190803000009_20200321135704
+09:10:33:  K64-_BTCR-1100190803000009_20200321135704.log - [No filter file]* - TextAnalysisTool.NET
+09:10:38:  LOG
+09:10:43:  K64-_BTCR-1100190803000009_20200321142738.log - [No filter file]* - TextAnalysisTool.NET
+09:10:53:  K64_BTCR-1100190803000009_20200321142920
+09:10:58:  LOG
+09:11:08:  K64-_BTCR-1100190803000009_20200321143305.log - [No filter file]* - TextAnalysisTool.NET
+09:11:13:  LOG
+09:11:18:  K64_BTCR-1100190803000009_20200321150724
+09:11:23:  K64-_BTCR-1100190803000009_20200321150724.log - [No filter file]* - TextAnalysisTool.NET
+09:11:28:  K64_BTCR-1100190803000009_20200321151321
+09:11:33:  K64-_BTCR-1100190803000009_20200321151321.log - [No filter file]* - TextAnalysisTool.NET
+09:11:38:  LOG
+09:11:43:  K64-_BTCR-1100190803000009_20200321151640.log - [No filter file]* - TextAnalysisTool.NET
+09:11:48:  LOG
+09:11:58:  K64_BTCR-1100190803000009_20200321152051
+09:12:03:  K64_BTCR-1100190803000009_20200321152156
+09:12:08:  K64-_BTCR-1100190803000009_20200321152156.log - [No filter file]* - TextAnalysisTool.NET
+09:12:13:  LOG
+09:12:18:  K64-_BTCR-1100190803000009_20200321152342.log - [No filter file]* - TextAnalysisTool.NET
+09:12:28:  K64_BTCR-1100190803000009_20200321152547
+09:12:33:  K64-_BTCR-1100190803000009_20200321152342.log - [No filter file]* - TextAnalysisTool.NET
+09:12:38:  LOG
+09:12:48:  K64-_BTCR-1100190803000009_20200321155214.log - [No filter file]* - TextAnalysisTool.NET
+09:12:53:  K64_BTCR-1100190803000009_20200321155418
+09:12:58:  K64-_BTCR-1100190803000009_20200321155418.log - [No filter file]* - TextAnalysisTool.NET
+09:13:03:  20200321
+09:13:08:  TCRControlCmdDLL
+09:13:13:  正在复制 70 个项目(102 MB)
+09:13:23:  1元测试日志
+09:13:53:  20200323
+09:14:13:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+09:14:23:  20200323
+09:14:48:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:15:53:  eSpace
+09:15:58:  
+09:16:28:  K64_BTCR-1100190803000009_20200323083856
+09:16:33:  K64-_BTCR-1100190803000009_20200323084253.log - [No filter file]* - TextAnalysisTool.NET
+09:16:38:  K64_BTCR-1100190803000009_20200323093659
+09:16:48:  K64_BTCR-1100190803000009_20200323191346
+09:16:53:  K64-_BTCR-1100190803000009_20200323191346.log - [No filter file]* - TextAnalysisTool.NET
+09:16:58:  TCRControlCmdDLL
+09:17:03:  正在复制 199 个项目(227 MB)
+09:17:13:  
+09:18:13:  20200324
+09:18:23:  
+09:18:28:  20200324
+09:18:33:  新标签页 - Google Chrome
+09:18:38:  百度一下，你就知道 - Google Chrome
+09:18:48:  打开文件夹
+09:18:53:  watch 为何不考虑加个离开 iPhone 的提醒功能呢 - V2EX - Google Chrome
+09:19:48:  Decode
+09:20:03:  watch 离开手机提醒_百度搜索 - Google Chrome
+09:20:08:  手机离开身边，手表发出提醒警告，这么简单的功能为啥没有？ - 威锋 - 千万果粉大本营 - Google Chrome
+09:20:33:  watch 离开手机提醒_百度搜索 - Google Chrome
+09:20:43:  介绍说iwatch离开手机10米距离会有提示，防止丢失，但是我的为什么没有提示？_百度知道 - Google Chrome
+09:20:48:  
+09:20:53:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:24:58:  Decode
+09:25:03:  K64_BTCR-1100190803000009_20200324085917
+09:25:08:  K64_BTCR-1100190803000009_20200324103147
+09:25:13:  K64_BTCR-1100190803000009_20200324140348
+09:25:18:  K64_BTCR-1100190803000009_20200324100032
+09:25:23:  LOG
+09:25:28:  K64-_BTCR-1100190803000009_20200324092259.log - [No filter file]* - TextAnalysisTool.NET
+09:25:33:  K64_BTCR-1100190803000009_20200324091919
+09:25:58:  Project
+09:26:03:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+09:26:53:  
+09:26:58:  本地磁盘 (D:)
+09:27:08:  检出
+09:27:13:  FW_BTCR-1100_K18_BOOT - 检出 - TortoiseSVN
+09:27:23:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+09:27:33:  FW_BTCR-1100_K18_BOOT - 检出 - TortoiseSVN
+09:27:43:  Project
+09:27:48:  D:\00-18BOOT\trunk\Project\ke18_rtt.uvprojx - μVision
+09:28:08:  μVision
+09:28:13:  D:\00-18BOOT\trunk\Project\ke18_rtt.uvprojx - μVision
+09:29:43:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+09:30:03:  本地磁盘 (D:)
+09:28:08:  μVision
+09:28:13:  D:\00-18BOOT\trunk\Project\ke18_rtt.uvprojx - μVision
+09:29:43:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+09:30:03:  本地磁盘 (D:)
+09:30:08:  LOG
+09:30:13:  K64-_BTCR-1100190803000009_20200324155955.log - [No filter file]* - TextAnalysisTool.NET
+09:30:18:  LOG
+09:30:23:  K64-_BTCR-1100190803000009_20200324142329.log - [No filter file]* - TextAnalysisTool.NET
+09:30:28:  K64_BTCR-1100190803000009_20200324104851
+09:30:33:  K64-_BTCR-1100190803000009_20200324104851.log - [No filter file]* - TextAnalysisTool.NET
+09:30:38:  K64_BTCR-1100190803000009_20200324100044
+09:30:43:  K64_BTCR-1100190803000009_20200324101109 属性
+09:30:48:  K64-_BTCR-1100190803000009_20200324101109.log - [No filter file]* - TextAnalysisTool.NET
+09:31:03:  K64_BTCR-1100190803000009_20200324101546
+09:31:08:  K64_BTCR-1100190803000009_20200324101658
+09:31:13:  K64-_BTCR-1100190803000009_20200324101658.log - [No filter file]* - TextAnalysisTool.NET
+09:31:23:  K64-_BTCR-1100190803000009_20200324101921.log - [No filter file]* - TextAnalysisTool.NET
+09:31:43:  TCR调测工具 V3.36
+09:31:48:  BTCRTestTool
+09:31:53:  TCR调测工具 V3.36
+09:36:13:  模块使能
+09:36:38:  eSpace
+09:36:43:  于斌1
+09:36:48:  eSpace
+09:36:53:  TCR调测工具 V3.36
+09:36:58:  K64-_BTCR-1100190803000009_20200324101921.log - [No filter file]* - TextAnalysisTool.NET
+09:37:03:  K64_BTCR-1100190803000009_20200324102929
+09:37:13:  K64_BTCR-1100190803000009_20200324103147
+09:37:18:  K64_BTCR-1100190803000009_20200324103815
+09:37:23:  K64-_BTCR-1100190803000009_20200324103815.log - [No filter file]* - TextAnalysisTool.NET
+09:37:28:  LOG
+09:37:33:  K64_BTCR-1100190803000009_20200324104851
+09:37:38:  K64-_BTCR-1100190803000009_20200324104851.log - [No filter file]* - TextAnalysisTool.NET
+09:37:43:  K64_BTCR-1100190803000009_20200324105307
+09:37:48:  LOG
+09:37:53:  K64_BTCR-1100190803000009_20200324131916
+09:37:58:  LOG
+09:38:03:  K64_BTCR-1100190803000009_20200324132945
+09:38:08:  K64_BTCR-1100190803000009_20200324133246
+09:38:13:  K64_BTCR-1100190803000009_20200324133329
+09:38:18:  LOG
+09:38:28:  K64_BTCR-1100190803000009_20200324135316
+09:38:33:  LOG
+09:38:48:  K64_BTCR-1100190803000009_20200324141231
+09:38:53:  K64_BTCR-1100190803000009_20200324154027
+09:38:58:  LOG
+09:39:03:  K64_BTCR-1100190803000009_20200324163126
+09:39:08:  K64_BTCR-1100190803000009_20200324163420
+09:39:13:  K64_BTCR-1100190803000009_20200324163659
+09:39:28:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:39:43:  
+09:39:48:  TCR调测工具 V3.36
+09:42:23:  
+09:42:28:  EXTFEDU3V13.PDF - Adobe Reader
+09:43:23:  TCR调测工具 V3.36
+09:44:48:  EXTFEDU3V13.PDF - Adobe Reader
+09:45:43:  TCR调测工具 V3.36
+09:48:33:  EXTFEDU3V13.PDF - Adobe Reader
+09:48:38:  K64_BTCR-1100190803000009_20200324163659
+09:48:43:  LOG
+09:48:53:  K64_BTCR-1100190803000009_20200324183543
+09:48:58:  K64_BTCR-1100190803000009_20200324184329
+09:49:03:  LOG
+09:49:08:  K64_BTCR-1100190803000009_20200324185341
+09:49:18:  LOG
+09:49:28:  K64_BTCR-1100190803000009_20200324190836
+09:49:33:  20200324
+09:49:38:  20200325
+09:49:58:  
+09:50:03:  20200325
+09:50:08:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:50:18:  本地磁盘 (D:)
+09:50:23:  20200324
+09:50:28:  LOG
+09:50:33:  K64-_BTCR-1100190803000009_20200324141908.log - [No filter file]* - TextAnalysisTool.NET
+09:50:43:  K64-_BTCR-1100190803000009_20200324190836.log - [No filter file]* - TextAnalysisTool.NET
+09:50:53:  LOG
+09:51:03:  K64-_BTCR-1100190803000009_20200324190836.log - [No filter file]* - TextAnalysisTool.NET
+09:51:08:  Box_1__BTCR-1100190803000009_20200324190836.log - [No filter file]* - TextAnalysisTool.NET
+09:51:38:  yf-yuzhenhai
+09:51:43:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+09:51:48:  人民币版本DRB钞箱测试数据记录表.xlsx  [只读] - Excel
+09:54:13:  TCR调测工具 V3.36
+09:57:48:  通道电机测试
+09:58:58:  人民币版本DRB钞箱测试缺陷.xlsx  [只读] - Excel
+09:59:18:  人民币版本DRB钞箱测试数据记录表.xlsx  [只读] - Excel
+09:59:58:  BTCRTestTool
+09:58:58:  人民币版本DRB钞箱测试缺陷.xlsx  [只读] - Excel
+09:59:18:  人民币版本DRB钞箱测试数据记录表.xlsx  [只读] - Excel
+09:59:58:  BTCRTestTool
+10:00:08:  EXTFEDU3V13.PDF - Adobe Reader
+10:01:13:  通道电机测试
+10:01:33:  BTCRTestTool
+10:01:43:  TCR调测工具 V3.36
+10:03:03:  通道电机测试
+10:04:14:  TCR调测工具 V3.36
+10:04:19:  EXTFEDU3V13.PDF - Adobe Reader
+10:04:24:  通道电机测试
+10:06:04:  人民币版本DRB钞箱测试数据记录表.xlsx  [只读] - Excel
+10:06:29:  
+10:06:34:  K64_BTCR-1100190803000009_20200324190836
+10:06:54:  20200324
+10:06:59:  LOG
+10:07:09:  K64_BTCR-1100190803000009_20200324155047
+10:07:14:  K64-_BTCR-1100190803000009_20200324155047.log - [No filter file]* - TextAnalysisTool.NET
+10:07:24:  Box_2__BTCR-1100190803000009_20200324155047.log - [No filter file]* - TextAnalysisTool.NET
+10:07:34:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:07:44:  Box_2__BTCR-1100190803000009_20200324155047.log - [No filter file]* - TextAnalysisTool.NET
+10:07:49:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:08:04:  Edit Filter
+10:08:09:  Box_2__BTCR-1100190803000009_20200324155047.log - [No filter file]* - TextAnalysisTool.NET
+10:08:14:  文本分列向导 - 第 1 步，共 3 步
+10:08:19:  Box_2__BTCR-1100190803000009_20200324155047.log - [No filter file]* - TextAnalysisTool.NET
+10:08:24:  LOG
+10:08:29:  K64-_BTCR-1100190803000009_20200324154659.log - [No filter file]* - TextAnalysisTool.NET
+10:08:34:  Edit Filter
+10:08:39:  K64-_BTCR-1100190803000009_20200324154659.log - [No filter file]* - TextAnalysisTool.NET
+10:08:44:  Add Filter
+10:08:54:  K64-_BTCR-1100190803000009_20200324154659.log - [No filter file]* - TextAnalysisTool.NET
+10:08:59:  K64_BTCR-1100190803000009_20200324154659
+10:09:04:  Box_1__BTCR-1100190803000009_20200324154659.log - [No filter file]* - TextAnalysisTool.NET
+10:09:09:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:09:19:  文本分列向导 - 第 1 步，共 3 步
+10:09:24:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:09:39:  
+10:10:04:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:10:39:  Box_1__BTCR-1100190803000009_20200324154659.log - [No filter file]* - TextAnalysisTool.NET
+10:10:49:  文本分列向导 - 第 1 步，共 3 步
+10:10:54:  
+10:10:59:  Box_1__BTCR-1100190803000009_20200324154659.log - [No filter file]* - TextAnalysisTool.NET
+10:11:04:  K64_BTCR-1100190803000009_20200324155511
+10:11:09:  K64-_BTCR-1100190803000009_20200324155511.log - [No filter file]* - TextAnalysisTool.NET
+10:11:14:  K64_BTCR-1100190803000009_20200324155511
+10:11:24:  LOG
+10:11:34:  K64_BTCR-1100190803000009_20200324155955
+10:11:39:  
+10:11:44:  Box_1__BTCR-1100190803000009_20200324155955.log - [No filter file]* - TextAnalysisTool.NET
+10:11:59:  K64_BTCR-1100190803000009_20200324155955
+10:12:04:  K64-_BTCR-1100190803000009_20200324155955.log - [No filter file]* - TextAnalysisTool.NET
+10:12:19:  K64_BTCR-1100190803000009_20200324155955
+10:12:29:  K64-_BTCR-1100190803000009_20200324160340.log - [No filter file]* - TextAnalysisTool.NET
+10:12:34:  K64_BTCR-1100190803000009_20200324160340
+10:12:44:  Box_2__BTCR-1100190803000009_20200324160340.log - [No filter file]* - TextAnalysisTool.NET
+10:12:54:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:12:59:  文本分列向导 - 第 1 步，共 3 步
+10:13:04:  Edit Filter
+10:13:09:  Box_2__BTCR-1100190803000009_20200324160340.log - [No filter file]* - TextAnalysisTool.NET
+10:13:34:  D:\00-18BOOT\trunk\Project\ke18_rtt.uvprojx - μVision
+10:13:39:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+10:14:04:  TCR调测工具 V3.36
+10:14:09:  通道电机测试
+10:14:39:  
+10:14:44:  丛柏屹
+10:15:04:  08 同类产品的历史问题
+10:15:09:  固件集成测试方案
+10:15:14:  钞箱1T2集成测试方案
+10:15:19:  5.22 钞箱托板功能测试V1.0.xls  [受保护的视图] - Excel
+10:15:34:  Everything
+10:15:39:  钞箱 - Everything
+10:15:44:  丛柏屹
+10:15:49:  
+10:15:54:  5.22 钞箱托板功能测试V1.0.xls  [兼容模式] - Excel
+10:16:14:  钞箱托板功能 - Everything
+10:16:19:  5.22 钞箱托板功能测试V1.0.xls  [兼容模式] - Excel
+10:16:24:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:16:34:  钞箱托板功能.xls  [兼容模式] - Excel
+10:16:39:  丛柏屹
+10:16:44:  
+10:17:04:  丛柏屹
+10:17:59:  
+10:24:29:  D:\00-KE64\7\trunk\Applications\FlowControl\PageManage\PageManage.c (trunk) - Sublime Text (UNREGISTERED)
+10:24:34:  D:\00-06\8\branches\BR-1-CashBox1T2\Drivers\BldcDriver\BldcDriver.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:24:44:  untitled (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:24:49:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\LowerPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:24:54:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:25:14:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\LowerPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:25:39:  D:\00-06\1T2-Seclect-Aging\Middlewares\Plate\LowerPlate.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:25:44:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\LowerPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:25:54:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:25:59:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\LowerPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:26:44:  D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)
+10:33:59:  钞箱托板功能.xls  [兼容模式] - Excel
+10:34:04:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:34:19:  K64_BTCR-1100190803000009_20200324160340
+10:34:24:  1元测试日志
+10:34:29:  20200323
+10:34:54:  Decode
+10:34:59:  20200323
+10:35:04:  
+10:35:09:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:37:19:  D:\00-KE64\7\trunk\Applications\FlowControl\PageManage\PageManage.c (trunk) - Sublime Text (UNREGISTERED)
+10:37:29:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:37:59:  
+10:38:09:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:38:14:  
+10:38:19:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:39:24:  
+10:39:29:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:39:34:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:39:59:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:40:24:  
+10:40:29:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:41:24:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:52:09:  TCR调测工具 V3.36
+10:53:39:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+10:57:04:  20200323
+10:57:19:  20200324
+10:57:29:  1元测试日志
+10:57:34:  20200324
+10:57:39:  LOG
+10:57:49:  K64_BTCR-1100190803000009_20200324163929
+10:57:54:  LOG
+10:58:14:  通道电机测试
+10:58:24:  TCR调测工具 V3.36
+10:59:34:  通道电机测试
+10:59:44:  TCR调测工具 V3.36
+10:58:14:  通道电机测试
+10:58:24:  TCR调测工具 V3.36
+10:59:34:  通道电机测试
+10:59:44:  TCR调测工具 V3.36
+11:00:19:  06 固件日报
+11:00:24:  ErrCode_list_txt_flg.txt - 记事本
+11:00:29:  查找
+11:00:49:  TCR调测工具 V3.36
+11:01:59:  本地磁盘 (D:)
+11:02:04:  本地磁盘 (F:)
+11:02:09:  测试
+11:02:14:  TCR调测工具 V3.07
+11:02:39:  模块使能
+11:02:44:  BTCRTestTool V3.07
+11:02:49:  丛柏屹
+11:03:04:  
+11:03:19:  丛柏屹
+11:03:24:  
+11:03:34:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:03:39:  
+11:03:44:  Box_2__BTCR-1100190803000009_20200324160340.log - [No filter file]* - TextAnalysisTool.NET
+11:03:49:  1元测试日志
+11:03:54:  LOG
+11:03:59:  删除文件夹
+11:04:04:  K64_BTCR-1100190803000009_20200324163126
+11:04:09:  LOG
+11:04:14:  K64_BTCR-1100190803000009_20200324162716
+11:04:19:  LOG
+11:04:29:  K64_BTCR-1100190803000009_20200324141812
+11:04:34:  K64_BTCR-1100190803000009_20200324141908
+11:04:39:  K64-_BTCR-1100190803000009_20200324141908.log - [No filter file]* - TextAnalysisTool.NET
+11:04:44:  于斌1
+11:04:59:  K64-_BTCR-1100190803000009_20200324141908.log - [No filter file]* - TextAnalysisTool.NET
+11:05:04:  K64_BTCR-1100190803000009_20200324135955
+11:05:09:  LOG
+11:05:14:  K64_BTCR-1100190803000009_20200324155955
+11:05:19:  K64-_BTCR-1100190803000009_20200324155955.log - [No filter file]* - TextAnalysisTool.NET
+11:05:29:  于斌1
+11:05:34:  K64-_BTCR-1100190803000009_20200324155955.log - [No filter file]* - TextAnalysisTool.NET
+11:05:49:  K64_BTCR-1100190803000009_20200324155955
+11:05:54:  Box_1__BTCR-1100190803000009_20200324155955.log - [No filter file]* - TextAnalysisTool.NET
+11:05:59:  于斌1
+11:06:04:  K64_BTCR-1100190803000009_20200324160340
+11:06:09:  K64-_BTCR-1100190803000009_20200324160340.log - [No filter file]* - TextAnalysisTool.NET
+11:06:19:  Edit Filter
+11:06:24:  Box_2__BTCR-1100190803000009_20200324160340.log - [No filter file]* - TextAnalysisTool.NET
+11:06:29:  于斌1
+11:06:34:  Add Filter
+11:06:39:  
+11:06:44:  Add Filter
+11:06:49:  于斌1
+11:06:59:  查找和替换
+11:07:04:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:07:34:  于斌1
+11:07:49:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:07:59:  Edit Filter
+11:08:04:  Box_2__BTCR-1100190803000009_20200324160340.log - [No filter file]* - TextAnalysisTool.NET
+11:08:09:  文本分列向导 - 第 1 步，共 3 步
+11:08:14:  
+11:08:19:  于斌1
+11:08:34:  
+11:08:39:  Decode
+11:08:44:  LOG
+11:08:49:  K64-_BTCR-1100190803000009_20200324160837.log - [No filter file]* - TextAnalysisTool.NET
+11:08:54:  K64_BTCR-1100190803000009_20200324160837
+11:09:04:  LOG
+11:09:29:  K64_BTCR-1100190803000009_20200324184713
+11:09:34:  K64_BTCR-1100190803000009_20200324184757
+11:09:39:  K64-_BTCR-1100190803000009_20200324184757.log - [No filter file]* - TextAnalysisTool.NET
+11:09:49:  Box_1__BTCR-1100190803000009_20200324184757.log - [No filter file]* - TextAnalysisTool.NET
+11:09:59:  Add Filter
+11:10:04:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:10:09:  查找和替换
+11:10:14:  丛柏屹
+11:10:29:  
+11:10:59:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:11:09:  Microsoft Excel
+11:11:14:  Box_1__BTCR-1100190803000009_20200324184757.log - [No filter file]* - TextAnalysisTool.NET
+11:11:19:  文本分列向导 - 第 1 步，共 3 步
+11:11:24:  Edit Filter
+11:11:29:  Box_1__BTCR-1100190803000009_20200324184757.log - [No filter file]* - TextAnalysisTool.NET
+11:11:34:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:11:39:  于斌1
+11:13:09:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:13:14:  Box_1__BTCR-1100190803000009_20200324184757.log - [No filter file]* - TextAnalysisTool.NET
+11:13:19:  Edit Filter
+11:13:24:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:13:34:  K64_BTCR-1100190803000009_20200324185341
+11:13:39:  K64-_BTCR-1100190803000009_20200324185341.log - [No filter file]* - TextAnalysisTool.NET
+11:13:44:  K64_BTCR-1100190803000009_20200324185341
+11:13:49:  Box_2__BTCR-1100190803000009_20200324185341.log - [No filter file]* - TextAnalysisTool.NET
+11:13:59:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:14:04:  Microsoft Excel
+11:14:09:  查找和替换
+11:14:14:  Box_2__BTCR-1100190803000009_20200324185341.log - [No filter file]* - TextAnalysisTool.NET
+11:14:19:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:14:24:  文本分列向导 - 第 1 步，共 3 步
+11:14:29:  Box_2__BTCR-1100190803000009_20200324185341.log - [No filter file]* - TextAnalysisTool.NET
+11:14:39:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:14:59:  LOG
+11:15:04:  K64_BTCR-1100190803000009_20200324190155
+11:15:09:  K64-_BTCR-1100190803000009_20200324190155.log - [No filter file]* - TextAnalysisTool.NET
+11:15:14:  Box_2__BTCR-1100190803000009_20200324190155.log - [No filter file]* - TextAnalysisTool.NET
+11:15:19:  Decode
+11:15:24:  20200325
+11:15:29:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:16:49:  于斌1
+11:17:29:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:17:34:  于斌1
+11:17:44:  6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel
+11:18:19:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:18:29:  新标签页 - Google Chrome
+11:18:34:  数据抓取工具 - Google Chrome
+11:18:54:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:19:54:  D:\00-KE64\7\trunk\Applications\StateCheck\StateCheck.c (trunk) - Sublime Text (UNREGISTERED)
+11:19:59:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:21:39:  Sublime Text
+11:21:44:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:21:49:  于斌1
+11:21:54:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:21:59:  eSpace
+11:22:29:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+11:22:39:  D:\00-18BOOT\trunk\Project\ke18_rtt.uvprojx - μVision
+11:23:04:  
+11:23:09:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+11:25:19:  D:\00-06\8\branches\BR-1-CashBox1T2\Drivers\BldcDriver\BldcDriver.h (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+11:25:29:  untitled (trunk) - Sublime Text (UNREGISTERED)
+11:25:39:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)

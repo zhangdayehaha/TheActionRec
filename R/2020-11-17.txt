@@ -1,0 +1,96 @@
+2020-11-16 23:45:02-- 00:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 00:00:02-- 00:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 00:15:02-- 00:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 00:30:02-- 00:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 00:45:03-- 01:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 01:00:03-- 01:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 01:15:03-- 01:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 01:30:03-- 01:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 01:45:03-- 02:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 02:00:04-- 02:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 02:15:04-- 02:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 02:30:04-- 02:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 02:45:04-- 03:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 03:00:04-- 03:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 03:15:00-- 03:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 03:30:00-- 03:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 03:45:00-- 04:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 04:00:00-- 04:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 04:15:00-- 04:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 04:30:01-- 04:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 04:45:01-- 05:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 05:00:01-- 05:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 05:15:01-- 05:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 05:30:01-- 05:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 05:45:02-- 06:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 06:00:02-- 06:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 06:15:02-- 06:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 06:30:02-- 06:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 06:45:02-- 07:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 07:00:03-- 07:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 07:15:03-- 07:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 07:30:03-- 07:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 07:45:03-- 08:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 08:00:04-- 08:15:04     :    一  ：D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)   97/8.08分钟       二  ：锁屏状态   83/6.91分钟     三  ：   0/0.0分钟
+2020-11-17 08:15:04-- 08:30:02     :    一  ：D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)   60/5.0分钟       二  ：自动播放   60/5.0分钟     三  ：CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]   48/4.0分钟
+2020-11-17 08:30:02-- 08:45:00     :    一  ：CS_0000_20201112095747.log - DRB.tat* - TextAnalysisTool.NET   59/4.91分钟       二  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   46/3.83分钟     三  ：CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]   37/3.08分钟
+2020-11-17 08:45:00-- 09:00:00     :    一  ：于斌1   127/10.5分钟       二  ：CS_0000_20201112095747.log - DRB.tat* - TextAnalysisTool.NET   37/3.08分钟     三  ：C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)   9/0.75分钟
+2020-11-17 09:00:00-- 09:15:01     :    一  ：于斌1   76/6.33分钟       二  ：CS_0000_20201112095747.log - DRB.tat* - TextAnalysisTool.NET   32/2.66分钟     三  ：新建文本文档.txt - 记事本   15/1.25分钟
+2020-11-17 09:15:01-- 09:30:01     :    一  ：CS_0000_20201106161618.log - DRB.tat* - TextAnalysisTool.NET   107/8.91分钟       二  ：C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)   29/2.41分钟     三  ：新建文本文档.txt - 记事本   25/2.08分钟
+2020-11-17 09:30:01-- 09:45:01     :    一  ：新建文本文档.txt - 记事本   72/6.0分钟       二  ：CS_0000_20201110144019.log - DRB.tat* - TextAnalysisTool.NET   62/5.16分钟     三  ：K18_0000_20201022163434.log - DRB.tat* - TextAnalysisTool.NET   11/0.91分钟
+2020-11-17 09:45:01-- 10:00:01     :    一  ：新建文本文档.txt - 记事本   74/6.16分钟       二  ：于斌1   23/1.91分钟     三  ：Decode   13/1.08分钟
+2020-11-17 10:00:01-- 10:15:01     :    一  ：于斌1   73/6.08分钟       二  ：00Log_Filter.xlsx  [受保护的视图] - Excel   22/1.83分钟     三  ：D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)   15/1.25分钟
+2020-11-17 10:15:01-- 10:30:01     :    一  ：CS_0000_20201110134515.log - [No filter file]* - TextAnalysisTool.NET   26/2.16分钟       二  ：Decode   22/1.83分钟     三  ：00Log_Filter.xlsx  [受保护的视图] - Excel   19/1.58分钟
+2020-11-17 10:30:01-- 10:45:01     :    一  ：CS_0000_20201110134515.log - [No filter file]* - TextAnalysisTool.NET   84/7.0分钟       二  ：C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)   18/1.5分钟     三  ：图片   9/0.75分钟
+2020-11-17 10:45:01-- 11:00:02     :    一  ：D:\CRS\666\Applications\InstrExp\InstrExe.c (666) - Sublime Text (UNREGISTERED)   63/5.25分钟       二  ：于斌1   49/4.08分钟     三  ：D:\CRS\666\Applications\LifterCtrl\LifterCtrl.c (666) - Sublime Text (UNREGISTERED)   13/1.08分钟
+2020-11-17 11:00:02-- 11:15:02     :    一  ：于斌1   115/9.58分钟       二  ：D:\CRS\666\Applications\InstrExp\InstrExe.c (666) - Sublime Text (UNREGISTERED)   21/1.75分钟     三  ：Decode   12/1.0分钟
+2020-11-17 11:15:02-- 11:30:02     :    一  ：CS_0000_20201110144019.log - [No filter file]* - TextAnalysisTool.NET   75/6.25分钟       二  ：程明昌   63/5.25分钟     三  ：于斌1   22/1.83分钟
+2020-11-17 11:30:02-- 11:45:02     :    一  ：于斌1   109/9.08分钟       二  ：计算器   45/3.75分钟     三  ：CS_0000_20201110144019.log - [No filter file]* - TextAnalysisTool.NET   25/2.08分钟
+2020-11-17 11:45:02-- 12:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 12:00:02-- 12:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 12:15:02-- 12:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 12:30:02-- 12:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 12:45:03-- 13:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 13:00:03-- 13:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 13:15:03-- 13:30:03     :    一  ：E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)   44/3.66分钟       二  ：于斌1   37/3.08分钟     三  ：段续   37/3.08分钟
+2020-11-17 13:30:03-- 13:45:03     :    一  ：E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (44) - Sublime Text (UNREGISTERED)   63/5.25分钟       二  ：E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)   45/3.75分钟     三  ：K64_0000_20201111110643.log - DRB.tat - TextAnalysisTool.NET   17/1.41分钟
+2020-11-17 13:45:03-- 14:00:03     :    一  ：E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxComm.c (44) - Sublime Text (UNREGISTERED)   51/4.25分钟       二  ：D:\00-KE64\10\Applications\FlowControl\TrackModule\CashGateModuleApp.c (44) - Sublime Text (UNREGISTERED)   30/2.5分钟     三  ：E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (44) - Sublime Text (UNREGISTERED)   28/2.33分钟
+2020-11-17 14:00:03-- 14:15:03     :    一  ：D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)   91/7.58分钟       二  ：E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxComm.c (44) - Sublime Text (UNREGISTERED)   32/2.66分钟     三  ：E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)   16/1.33分钟
+2020-11-17 14:15:03-- 14:30:03     :    一  ：E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (44) - Sublime Text (UNREGISTERED)   50/4.16分钟       二  ：D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)   35/2.91分钟     三  ：E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)   23/1.91分钟
+2020-11-17 14:30:03-- 14:45:04     :    一  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   49/4.08分钟       二  ：E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)   29/2.41分钟     三  ：● LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   25/2.08分钟
+2020-11-17 14:45:04-- 15:00:04     :    一  ：eSpace   94/7.83分钟       二  ：D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)   72/6.0分钟     三  ：D:\00-KE64\10\Applications\CanComm\CashBoxComm\CashBoxComm.c (10) - Sublime Text (UNREGISTERED)   10/0.83分钟
+2020-11-17 15:00:04-- 15:15:04     :    一  ：E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)   70/5.83分钟       二  ：E:\深圳出差\44\Applications\FlowControl\FlowCtrl.c (44) - Sublime Text (UNREGISTERED)   51/4.25分钟     三  ：D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)   14/1.16分钟
+2020-11-17 15:15:04-- 15:30:04     :    一  ：E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)   91/7.58分钟       二  ：● LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   63/5.25分钟     三  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   24/2.0分钟
+2020-11-17 15:30:04-- 15:45:04     :    一  ：便签条   47/3.91分钟       二  ：E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)   46/3.83分钟     三  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   23/1.91分钟
+2020-11-17 15:45:04-- 16:00:00     :    一  ：E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)   71/5.91分钟       二  ：E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c • (44) - Sublime Text (UNREGISTERED)   43/3.58分钟     三  ：便签条   20/1.66分钟
+2020-11-17 16:00:00-- 16:15:00     :    一  ：E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c • (44) - Sublime Text (UNREGISTERED)   83/6.91分钟       二  ：E:\深圳出差\44\Applications\FlowControl\CashSlot\CashSlot.c (44) - Sublime Text (UNREGISTERED)   39/3.25分钟     三  ：CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]   17/1.41分钟
+2020-11-17 16:15:00-- 16:30:00     :    一  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   97/8.08分钟       二  ：DRB稳定性测试20201029.xlsx  [受保护的视图] - Excel   13/1.08分钟     三  ：锁屏状态   11/0.91分钟
+2020-11-17 16:30:00-- 16:45:01     :    一  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   107/8.91分钟       二  ：便签条   12/1.0分钟     三  ：所有笔记本 - 张开发 - 印象笔记   11/0.91分钟
+2020-11-17 16:45:01-- 17:00:01     :    一  ：所有笔记本 - 张开发 - 印象笔记   76/6.33分钟       二  ：E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision   24/2.0分钟     三  ：收取邮件 - 张开发   17/1.41分钟
+2020-11-17 17:00:01-- 17:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 17:15:01-- 17:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 17:30:01-- 17:45:01     :    一  ：收取邮件 - 张开发   114/9.5分钟       二  ：D:\CRS\666\Applications\ImpellerCtrl\ImpellerCtrl.c (666) - Sublime Text (UNREGISTERED)   25/2.08分钟     三  ：D:\CRS\666\Applications\ImpellerCtrl\ImpellerCtrl.c • (666) - Sublime Text (UNREGISTERED)   23/1.91分钟
+2020-11-17 17:45:01-- 18:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 18:00:01-- 18:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 18:15:02-- 18:30:02     :    一  ：锁屏状态   112/9.33分钟       二  ：D:\CRS\666\Applications\ImpellerCtrl\ImpellerCtrl.c (666) - Sublime Text (UNREGISTERED)   22/1.83分钟     三  ：TCR调测工具（研发版）V1.0.0.4   6/0.5分钟
+2020-11-17 18:30:02-- 18:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 18:45:02-- 19:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 19:00:02-- 19:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 19:15:02-- 19:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 19:30:02-- 19:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 19:45:03-- 20:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 20:00:03-- 20:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 20:15:03-- 20:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 20:30:03-- 20:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 20:45:03-- 21:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 21:00:03-- 21:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 21:15:04-- 21:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 21:30:04-- 21:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 21:45:04-- 22:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 22:00:04-- 22:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 22:15:04-- 22:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 22:30:04-- 22:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 22:45:04-- 23:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 23:00:00-- 23:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 23:15:00-- 23:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-17 23:30:00-- 23:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

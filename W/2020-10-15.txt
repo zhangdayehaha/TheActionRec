@@ -1,0 +1,838 @@
+08:07:32:  TCR调测工具 V3.36
+08:07:37:  BTCRTestTool
+08:07:42:  TCR调测工具 V3.36
+08:09:32:  钞箱传感器
+08:09:37:  DRB传感器.txt - 记事本
+08:09:42:  TCR调测工具 V3.36
+08:09:47:  DRB传感器.txt - 记事本
+08:09:52:  TCR调测工具 V3.36
+08:16:02:  荆文波
+08:16:07:  TCR调测工具 V3.36
+08:17:37:  锁屏状态
+08:17:42:  主页 - Internet Explorer
+08:17:47:  新北洋OA信息化平台 - Internet Explorer
+08:17:52:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_AM_MENU.C_ATT_EQRY.GBL?FolderPath=POR - Internet Explorer
+08:17:57:  员工自助 - Internet Explorer
+08:18:02:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_AM_MENU.C_ANNUAL_EQUY.GBL?FolderPath= - Internet Explorer
+08:18:07:  新北洋OA信息化平台 - Internet Explorer
+08:18:17:  荆文波
+08:18:22:  运行
+08:18:52:  荆文波
+08:20:57:  新北洋OA信息化平台 - Internet Explorer
+08:21:02:  Internet Explorer
+08:21:07:  荆文波
+08:21:27:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+08:21:42:  自动播放
+08:21:52:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+08:21:57:  新建文本文档.exe - 快捷方式
+08:22:02:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+08:22:07:  设置 - 44 - Visual Studio Code [管理员]
+08:22:12:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+08:22:27:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+08:22:37:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+08:28:15:  ● ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+08:28:49:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+08:28:54:  设置 - 44 - Visual Studio Code [管理员]
+08:28:59:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+08:28:15:  ● ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+08:28:49:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+08:28:54:  设置 - 44 - Visual Studio Code [管理员]
+08:28:59:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+08:32:34:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+08:32:39:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+08:33:59:  TCR调测工具 V3.36
+08:34:09:  锁屏状态
+08:34:14:  TCR调测工具 V3.36
+08:34:29:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+08:39:09:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+08:39:14:  设置 - 44 - Visual Studio Code [管理员]
+08:39:19:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+08:39:39:  网络连接
+08:39:44:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+08:39:54:  自动播放
+08:40:09:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+08:42:24:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+08:53:34:  所有笔记本 - 张开发 - 印象笔记
+08:53:39:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+09:08:24:  锁屏状态
+09:08:29:  跳转列表
+09:08:34:  μVision
+09:08:59:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:09:24:  荆文波
+09:09:29:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:09:34:  关于激活使用医保电子凭证明白纸.pdf
+09:10:09:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:10:49:  Decode
+09:10:54:  44
+09:10:59:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+09:11:09:  锁屏状态
+09:11:24:  44
+09:11:29:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:11:39:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)
+09:11:44:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:12:04:  E:\深圳出差\44\Applications\ErrorHandle\ErrHandle.c (44) - Sublime Text (UNREGISTERED)
+09:12:09:  E:\深圳出差\44\Applications\CanComm\CanComm.c (44) - Sublime Text (UNREGISTERED)
+09:12:14:  E:\深圳出差\44\Applications\ErrorHandle\ErrHandle.c (44) - Sublime Text (UNREGISTERED)
+09:12:19:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:13:09:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision (未响应)
+09:13:24:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:16:34:  TCR调测工具 V3.36
+09:16:44:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:24:34:  E:\深圳出差\44\Applications\ErrorHandle\ErrHandle.c (44) - Sublime Text (UNREGISTERED)
+09:24:59:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h • (44) - Sublime Text (UNREGISTERED)
+09:25:29:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:27:59:  所有笔记本 - 张开发 - 印象笔记
+09:28:04:  新标签页 - Google Chrome
+09:28:09:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:28:09:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:31:44:  TCR调测工具 V3.36
+09:32:24:  钞箱传感器
+09:32:29:  TCR调测工具 V3.36
+09:33:19:  eSpace
+09:36:19:  TCR调测工具 V3.36
+09:36:34:  DRB传感器.txt - 记事本
+09:36:49:  TCR调测工具 V3.36
+09:37:09:  计算器
+09:38:49:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+09:38:54:  选择文件夹
+09:38:59:  untitled (DRB--) - Sublime Text (UNREGISTERED)
+09:39:04:  D:\00-06\DRB--\Middlewares\Sensor\Sensor.c (DRB--) - Sublime Text (UNREGISTERED)
+09:39:14:  D:\00-06\DRB--\Applications\ErrCode\ErrCode.h (DRB--) - Sublime Text (UNREGISTERED)
+09:39:19:  D:\00-06\DRB--\Middlewares\Sensor\Sensor.c (DRB--) - Sublime Text (UNREGISTERED)
+09:39:24:  D:\00-06\DRB--\Drivers\SensorDriver\SensorDriver.h (DRB--) - Sublime Text (UNREGISTERED)
+09:39:49:  桌面整理
+09:39:54:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+09:46:44:  锁屏状态
+09:46:49:  TCR调测工具 V3.36
+09:46:54:  DRB传感器.txt - 记事本
+09:48:24:  TCR调测工具 V3.36
+09:49:29:  钞箱配置
+09:49:34:  可接收
+09:49:39:  TCR调测工具 V3.36
+09:52:15:  钞箱配置
+09:52:20:  TCR调测工具 V3.36
+10:05:00:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:05:40:  新标签页 - Google Chrome
+10:05:45:  www.baidu.com - Google Chrome
+10:05:50:  百度一下，你就知道 - Google Chrome
+10:06:00:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:06:05:  锁屏状态
+10:06:10:  山东公积金能贷款多少_百度搜索 - Google Chrome
+10:06:20:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:08:25:  山东公积金能贷款多少_百度搜索 - Google Chrome
+10:15:10:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:18:15:  计算器
+10:18:45:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+10:20:15:  新标签页 - Google Chrome
+10:20:20:  百度一下，你就知道 - Google Chrome
+10:20:25:  支付宝_百度搜索 - Google Chrome
+10:20:30:  支付宝 知托付！ - Google Chrome
+10:20:40:  登录 - 支付宝 - Google Chrome
+10:20:50:  我的账单 - 支付宝 - Google Chrome
+10:20:55:  桌面整理
+10:21:05:  MindMaster
+10:21:15:  MindMaster Pro
+10:21:40:  我的账单 - 支付宝 - Google Chrome
+10:22:00:  支付宝_百度搜索 - Google Chrome
+10:22:05:  MindMaster Pro
+10:22:10:  登录 - 随笔记 - Google Chrome
+10:22:55:  随笔记_百度搜索 - Google Chrome
+10:23:00:  随手记——记账就要随手记！随手记免费为您提供：网上账本，预算控制，在线理财，网上记账，账单同步等服务 - Google Chrome
+10:23:05:  随手记 - Google Chrome
+10:23:10:  数据导入 - 随手记 - Google Chrome
+10:23:15:  fenxi
+10:23:20:  Subversion
+10:23:25:  支付宝消费数据导入 - 随手记 - Google Chrome
+10:23:35:  打开
+10:23:45:  支付宝消费数据导入 - 随手记 - Google Chrome
+10:24:20:  账户 - 随手记 - Google Chrome
+10:25:45:  记账 - 随手记 - Google Chrome
+10:26:25:  账户 - 随手记 - Google Chrome
+10:26:35:  Subversion
+10:27:00:  MindMaster Pro
+10:27:55:  账户 - 随手记 - Google Chrome
+10:28:10:  贷款管理 - 贷款 - 随手记 - Google Chrome
+10:28:15:  我的账单 - 支付宝 - Google Chrome
+10:28:20:  新标签页 - Google Chrome
+10:28:30:  新建文本文档.exe - 快捷方式
+10:29:40:  eSpace
+10:29:45:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+10:29:50:  本地磁盘 (D:)
+10:28:10:  贷款管理 - 贷款 - 随手记 - Google Chrome
+10:28:15:  我的账单 - 支付宝 - Google Chrome
+10:28:20:  新标签页 - Google Chrome
+10:28:30:  新建文本文档.exe - 快捷方式
+10:29:40:  eSpace
+10:29:45:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+10:29:50:  本地磁盘 (D:)
+10:30:05:  alipay_record_20201015_1021
+10:30:10:  alipay_record_20200923_1337
+10:30:15:  C:\Windows\py.exe
+10:30:20:  alipay_record_20201015_1021
+10:30:25:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20201015_1021\TheOneForExcel - 副本.py (3.7.3)
+10:30:30:  alipay_record_20201015_1021
+10:30:35:  TheDateInfo.xls  [兼容模式] - Excel
+10:32:45:  于斌1
+10:33:35:  TheDateInfo.xls  [兼容模式] - Excel
+10:34:05:  于斌1
+10:34:40:  TheDateInfo.xls  [兼容模式] - Excel
+10:35:25:  新标签页 - Google Chrome
+10:35:30:  于斌1
+10:35:40:  新标签页 - Google Chrome
+10:35:45:  TheDateInfo.xls  [兼容模式] - Excel
+10:35:55:  于斌1
+10:36:20:  锁屏状态
+10:36:25:  系统登录 - Internet Explorer
+10:36:30:  新北洋OA信息化平台 - Internet Explorer
+10:36:35:  员工自助 - Internet Explorer
+10:36:40:  我的薪酬 - Internet Explorer
+10:37:55:  alipay_record_20201015_1021
+10:38:25:  TheDateInfo.xls  [兼容模式] - Excel
+10:47:20:  alipay_record_20201015_1021
+10:47:25:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+10:51:35:  密码锁
+10:51:40:  所有笔记本 - 张开发 - 印象笔记
+10:52:10:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+10:58:25:  于斌1
+10:59:00:  本地磁盘 (F:)
+10:59:05:  00-06
+10:59:10:  Project
+10:59:15:  于斌1
+10:59:20:  本地磁盘 (D:)
+10:59:25:  钞箱1T2集成测试方案
+10:59:30:  于斌1
+10:59:40:  钞箱1T2集成测试方案
+10:59:45:  于斌1
+10:58:25:  于斌1
+10:59:00:  本地磁盘 (F:)
+10:59:05:  00-06
+10:59:10:  Project
+10:59:15:  于斌1
+10:59:20:  本地磁盘 (D:)
+10:59:25:  钞箱1T2集成测试方案
+10:59:30:  于斌1
+10:59:40:  钞箱1T2集成测试方案
+10:59:45:  于斌1
+11:00:30:  5.18 传感器测试v1.1.xlsx - Excel
+11:00:40:  于斌1
+11:01:25:  钞箱1T2集成测试方案
+11:01:40:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+11:16:01:  新标签页 - Google Chrome
+11:16:06:  百度一下，你就知道 - Google Chrome
+11:16:11:  随手记——记账就要随手记！随手记免费为您提供：网上账本，预算控制，在线理财，网上记账，账单同步等服务 - Google Chrome
+11:16:16:  随手记 - Google Chrome
+11:16:21:  账户 - 随手记 - Google Chrome
+11:17:01:  新标签页 - Google Chrome
+11:17:06:  随手记_百度搜索 - Google Chrome
+11:17:16:  随手记 导入花呗_百度搜索 - Google Chrome
+11:17:41:  https://www.baidu.com/link?url=z9G-MKPXFHolOQ_GzDEZZJsb2jW3JKyJEgPOev3DeJSFC_5aI1_FZIWtyIHdPQkG&wd=&eqid=9589ca0e000282f1000000025f87bf3a - Google Chrome
+11:17:46:  问一下大家，花呗、信用卡支出怎么记？【随手记吧】_百度贴吧 - Google Chrome
+11:18:06:  随手记 导入花呗_百度搜索 - Google Chrome
+11:18:16:  随手记怎么和支付宝绑定_百度知道 - Google Chrome
+11:18:41:  alipay_record_20201015_1021
+11:18:56:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+11:19:11:  alipay_record_20201015_1021
+11:19:16:  alipay_record_20201015_1021_1.csv - Excel
+11:20:01:  随手记怎么和支付宝绑定_百度知道 - Google Chrome
+11:20:06:  账户 - 随手记 - Google Chrome
+11:20:11:  随手记-高级设置 - Google Chrome
+11:20:16:  随手记-支出分类 - Google Chrome
+11:20:21:  预算设置 - 随手记 - Google Chrome
+11:20:31:  合并重复账单 - 随手记 - Google Chrome
+11:20:41:  随手记 - Google Chrome
+11:21:01:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+11:21:51:  ● ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+11:22:26:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+11:22:36:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+11:22:56:  ComponentStatus.h - 44 - Visual Studio Code [管理员]
+11:23:01:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+11:23:26:  ● ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+11:23:41:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+11:26:36:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:30:41:  eSpace
+11:30:56:  程明昌
+11:31:06:  Windows Internet Explorer
+11:31:11:  员工自助 - Internet Explorer
+11:31:16:  新北洋OA信息化平台 - Internet Explorer
+11:31:21:  主页 - Internet Explorer
+11:31:26:  eSpace
+11:31:41:  新标签页 - Google Chrome
+11:31:51:  www.baidu.com - Google Chrome
+11:31:56:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+11:32:51:  (99+ 封私信 / 80 条消息) 男朋友的爸爸去世已经下葬了，现在我联系不上他，我该不该去看看他？ - 知乎 - Google Chrome
+11:32:56:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+11:33:41:  为什么射手出破晓，战士出碎星锤？ - 知乎 - Google Chrome
+11:33:46:  (99+ 封私信 / 80 条消息) 为什么射手出破晓，战士出碎星锤？ - 知乎 - Google Chrome
+11:34:21:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+11:34:36:  (99+ 封私信 / 80 条消息) 《塞尔达传说：旷野之息》中怎么赚钱？ - 知乎 - Google Chrome
+11:39:21:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:39:26:  (99+ 封私信 / 80 条消息) 《塞尔达传说：旷野之息》中怎么赚钱？ - 知乎 - Google Chrome
+11:39:41:  塞尔达 古代箭 - 搜索结果 - 知乎 - Google Chrome
+11:39:46:  (99+ 封私信 / 80 条消息) 塞尔达 古代箭 - 搜索结果 - 知乎 - Google Chrome
+11:40:26:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:40:31:  锁屏状态
+13:17:48:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:21:53:  μVision
+13:21:58:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:23:43:  TCR调测工具 V3.36
+13:23:48:  锁屏状态
+13:23:53:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:24:18:  TCR调测工具 V3.36
+13:24:28:  TCR调测工具（研发版）V1.0.0.4
+13:24:33:  发送指令到K18
+13:24:38:  TCR调测工具（研发版）V1.0.0.4
+13:24:53:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:25:13:  TCR调测工具（研发版）V1.0.0.4
+13:25:18:  发送指令到K18
+13:25:23:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:25:28:  TCR调测工具（研发版）V1.0.0.4
+13:25:33:  发送指令到K18
+13:25:43:  μVision
+13:25:48:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:26:13:  μVision
+13:26:18:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:26:23:  TCR调测工具（研发版）V1.0.0.4
+13:26:28:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:29:18:  μVision
+13:29:33:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:29:18:  μVision
+13:29:33:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:37:08:  Toolbox
+13:37:13:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:39:03:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+13:39:18:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:39:23:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+13:39:28:  untitled (trunk) - Sublime Text (UNREGISTERED)
+13:39:33:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:40:38:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:40:43:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:41:28:  荆文波
+13:41:33:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:42:13:  荆文波
+13:42:53:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:44:08:  荆文波
+13:44:13:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:45:03:  本地磁盘 (D:)
+13:44:08:  荆文波
+13:44:13:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:45:03:  本地磁盘 (D:)
+13:45:08:  本地磁盘 (E:)
+13:45:13:  44
+13:45:18:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+13:47:23:  关于激活使用医保电子凭证明白纸.pdf - Adobe Reader
+13:47:28:  打印
+13:47:33:  关于激活使用医保电子凭证明白纸.pdf - Adobe Reader
+13:47:38:  192.168.28.10 上的 Lexmark MS810 Series XL
+13:48:18:  荆文波
+13:48:23:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+13:49:13:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:51:08:  Toolbox
+13:51:13:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:53:18:  打印
+13:53:28:  进度
+13:53:33:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+13:55:48:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:56:38:  μVision
+13:56:48:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+13:56:58:  查询历史记录
+13:57:03:  TCR调测工具（研发版）V1.0.0.4
+13:57:08:  锁屏状态
+13:57:13:  Toolbox
+13:57:18:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:57:23:  TCR调测工具（研发版）V1.0.0.4
+13:57:53:  Bus Hound
+13:58:18:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:58:43:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+13:58:48:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:59:23:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+13:59:33:  Bus Hound
+13:59:38:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+13:58:18:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:58:43:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+13:58:48:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+13:59:23:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+13:59:33:  Bus Hound
+13:59:38:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:07:58:  计算器
+14:08:08:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:09:23:  Open File
+14:09:28:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:10:28:  计算器
+14:10:48:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:18:13:  锁屏状态
+14:18:18:  新标签页 - Google Chrome
+14:18:33:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:21:08:  Toolbox
+14:21:13:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:35:04:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+14:35:09:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:35:24:  自动播放
+14:35:29:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:35:54:  44
+14:35:59:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+14:36:04:  PageManage.c Revision 568 - TortoiseMerge
+14:36:09:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+14:36:14:  ComponentStatus.h Revision 571 - TortoiseMerge
+14:36:19:  文件补丁  
+14:36:24:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+14:36:29:  GateModuleApp.c Revision 571 - TortoiseMerge
+14:36:39:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+14:36:44:  SlaveBoardComm.c Revision 570 - TortoiseMerge
+14:36:49:  44
+14:36:54:  EepHisApp.c - TortoiseMerge
+14:37:09:  TortoiseMerge
+14:37:14:  HistoryStruct.h - TortoiseMerge
+14:37:49:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+14:37:54:  ComponentCtrl.c - TortoiseMerge
+14:38:14:  TortoiseMerge
+14:38:19:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+14:38:29:  μVision
+14:38:34:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+14:41:19:  运行
+14:41:39:  （上海+邮储）DRB钞箱发货测试
+14:41:44:  缺陷问题
+14:41:49:  ID-16 混合纸币大额存款第134张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X884602B5打开钞箱上腔1张纸币（SX43896931）异常扭曲
+14:41:54:  缺陷问题
+14:41:59:  ID-16 混合纸币大额存款第134张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X884602B5打开钞箱上腔1张纸币（SX43896931）异常扭曲
+14:42:04:  缺陷问题
+14:42:14:  正在打开 - Excel
+14:42:19:  DRB测试缺陷列表.xlsx  [受保护的视图] - Excel
+14:42:29:  DRB测试缺陷列表.xlsx  [只读] - Excel
+14:44:09:  eSpace
+14:44:14:  荆文波
+14:44:24:  eSpace
+14:44:29:  缺陷问题
+14:44:39:  1602501413100.jpg - Windows 照片查看器
+14:44:44:  缺陷问题
+14:44:49:  20201013
+14:44:54:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+14:44:59:  荆文波
+14:44:09:  eSpace
+14:44:14:  荆文波
+14:44:24:  eSpace
+14:44:29:  缺陷问题
+14:44:39:  1602501413100.jpg - Windows 照片查看器
+14:44:44:  缺陷问题
+14:44:49:  20201013
+14:44:54:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+14:44:59:  荆文波
+14:45:09:  缺陷问题
+14:45:14:  本地磁盘 (D:)
+14:45:19:  爆仓问题(1)
+14:45:24:  删除多个项目
+14:45:29:  正在准备 删除
+14:45:39:  删除 20,663 个项目(1.46 GB)
+14:45:49:  剩余 25 秒
+14:46:04:  爆仓问题(1)
+14:46:09:  正在复制 81 个项目(110 MB)
+14:46:19:  爆仓问题(1)
+14:46:24:  ID-16 混合纸币大额存款第134张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X884602B5打开钞箱上腔1张纸币（SX43896931）异常扭曲
+14:46:29:  Decode
+14:46:34:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:47:14:  荆文波
+14:47:44:  Decode
+14:47:49:  （上海+邮储）DRB钞箱发货测试
+14:47:54:  荆文波
+14:48:39:  Decode
+14:48:44:  警告
+14:48:49:  测试工具
+14:48:54:  荆文波
+14:49:54:  （上海+邮储）DRB钞箱发货测试
+14:49:59:  荆文波
+14:50:14:  （上海+邮储）DRB钞箱发货测试
+14:50:19:  DRB测试缺陷列表.xlsx  [受保护的视图] - Excel
+14:50:24:  DRB测试缺陷列表.xlsx  [只读] - Excel
+14:52:59:  另存为
+14:53:14:  荆文波
+14:53:24:  eSpace
+14:53:29:  孙颖
+14:53:49:  荆文波
+14:53:59:  另存为
+14:54:04:  固件-DRB测试缺陷列表.xlsx - Excel
+14:54:09:  LOG
+14:54:14:  Box_3__BTCR-1100200600510420_20201013164949.log - DRB.tat* - TextAnalysisTool.NET
+14:54:19:  LOG
+14:54:24:  K64_BTCR-1100200600510420_20201013164129
+14:54:34:  LOG
+14:54:39:  K64_BTCR-1100200600510420_20201013164949
+14:54:44:  LOG
+14:54:49:  Box_3__BTCR-1100200600510420_20201013163944.log - DRB.tat* - TextAnalysisTool.NET
+14:55:09:  K64_BTCR-1100200600510420_20201013163753
+14:55:14:  Box_3__BTCR-1100200600510420_20201013163753.log - DRB.tat* - TextAnalysisTool.NET
+14:55:19:  K64_BTCR-1100200600510420_20201013163221
+14:55:24:  Box_3__BTCR-1100200600510420_20201013163221.log - DRB.tat* - TextAnalysisTool.NET
+14:55:34:  LOG
+14:55:39:  固件-DRB测试缺陷列表.xlsx - Excel
+14:55:44:  LOG
+14:55:54:  荆文波
+14:56:04:  LOG
+14:56:09:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+14:56:14:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:56:19:  荆文波
+14:56:59:  K64_BTCR-1100200600510420_20201013183644
+14:57:04:  Box_3__BTCR-1100200600510420_20201013183644.log - DRB.tat* - TextAnalysisTool.NET
+14:58:29:  荆文波
+14:58:54:  固件-DRB测试缺陷列表.xlsx - Excel
+14:59:49:  荆文波
+14:59:59:  LOG
+15:00:04:  回收
+14:58:29:  荆文波
+14:58:54:  固件-DRB测试缺陷列表.xlsx - Excel
+14:59:49:  荆文波
+14:59:59:  LOG
+15:00:04:  回收
+15:00:09:  LOG
+15:00:14:  荆文波
+15:00:19:  Box_3__BTCR-1100200600510420_20201013160540.log - DRB.tat* - TextAnalysisTool.NET
+15:00:29:  K64-_BTCR-1100200600510420_20201013160540.log - DRB.tat* - TextAnalysisTool.NET
+15:00:34:  LOG
+15:00:39:  K64_BTCR-1100200600510420_20201013161228
+15:00:44:  Box_3__BTCR-1100200600510420_20201013161228.log - DRB.tat* - TextAnalysisTool.NET
+15:00:59:  固件-DRB测试缺陷列表.xlsx - Excel
+15:01:09:  Box_3__BTCR-1100200600510420_20201013161228.log - DRB.tat* - TextAnalysisTool.NET
+15:01:24:  荆文波
+15:01:59:  Box_3__BTCR-1100200600510420_20201013161228.log - DRB.tat* - TextAnalysisTool.NET
+15:02:19:  固件-DRB测试缺陷列表.xlsx - Excel
+15:04:14:  荆文波
+15:06:04:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+15:06:09:  EepHisApp.c - TortoiseMerge
+15:06:24:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+15:06:29:  HistoryStruct.h - TortoiseMerge
+15:06:34:  ComponentCtrl.c - TortoiseMerge
+15:06:49:  TrackMotor.h - TortoiseMerge
+15:06:54:  StateCheck.c - TortoiseMerge
+15:06:59:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+15:07:04:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:08:10:  44
+15:08:15:  TrackMotor.h - TortoiseMerge
+15:08:20:  ComponentCtrl.c - TortoiseMerge
+15:08:25:  锁屏状态
+15:08:30:  HistoryStruct.h - TortoiseMerge
+15:08:35:  E:\深圳出差\44 - 提交 - TortoiseSVN
+15:09:00:  ComponentCtrl.c - TortoiseMerge
+15:09:10:  HistoryStruct.h - TortoiseMerge
+15:09:15:  EepHisApp.c - TortoiseMerge
+15:09:20:  HistoryStruct.h - TortoiseMerge
+15:09:25:  E:\深圳出差\44 - 提交 - TortoiseSVN
+15:09:35:  荆文波
+15:09:40:  E:\深圳出差\44 - 更新 - TortoiseSVN
+15:09:45:  TortoiseSVN
+15:09:50:  锁屏状态
+15:09:55:  固件-DRB测试缺陷列表.xlsx - Excel
+15:10:00:  荆文波
+15:10:10:  固件-DRB测试缺陷列表.xlsx - Excel
+15:10:30:  荆文波
+15:10:50:  固件-DRB测试缺陷列表.xlsx - Excel
+15:11:05:  锁屏状态
+15:11:10:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:11:15:  锁屏状态
+15:11:21:  于斌1
+15:11:46:  eSpace
+15:11:56:  于斌1
+15:12:06:  eSpace
+15:12:46:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:12:56:  荆文波
+15:13:01:  固件-DRB测试缺陷列表.xlsx - Excel
+15:13:11:  Bus Hound
+15:13:16:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+15:13:26:  锁屏状态
+15:13:31:  荆文波
+15:13:41:  缺陷问题
+15:13:46:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+15:13:51:  20201014
+15:14:06:  fenxi
+15:14:11:  爆仓问题(1)
+15:14:16:  删除多个项目
+15:14:21:  正在复制 97 个项目(317 MB)
+15:14:31:  剩余 20 秒
+15:14:36:  剩余 15 秒
+15:14:41:  剩余 10 秒
+15:14:46:  剩余 5 秒
+15:14:51:  新建文件夹
+15:15:01:  Decode
+15:14:06:  fenxi
+15:14:11:  爆仓问题(1)
+15:14:16:  删除多个项目
+15:14:21:  正在复制 97 个项目(317 MB)
+15:14:31:  剩余 20 秒
+15:14:36:  剩余 15 秒
+15:14:41:  剩余 10 秒
+15:14:46:  剩余 5 秒
+15:14:51:  新建文件夹
+15:15:01:  Decode
+15:15:06:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:16:21:  所有笔记本 - 张开发 - 印象笔记
+15:16:26:  Decode
+15:17:41:  密码锁
+15:17:46:  Decode
+15:19:51:  于斌1
+15:20:36:  荆文波
+15:21:06:  于斌1
+15:21:11:  荆文波
+15:21:36:  Decode
+15:22:16:  eSpace
+15:23:06:  计算器
+15:23:46:  Decode
+15:23:51:  荆文波
+15:26:01:  LOG
+15:26:06:  K64-_BTCR-1100200600510420_20201014133147.log - DRB.tat* - TextAnalysisTool.NET
+15:26:16:  K64_BTCR-1100200600510420_20201014133020
+15:26:21:  K64-_BTCR-1100200600510420_20201014133020.log - DRB.tat* - TextAnalysisTool.NET
+15:26:51:  LOG
+15:27:01:  K64-_BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+15:27:31:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+15:27:36:  untitled (DRB--) - Sublime Text (UNREGISTERED)
+15:27:41:  D:\00-06\DRB--\Applications\Instruction\InstrReturn.c (DRB--) - Sublime Text (UNREGISTERED)
+15:28:01:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+15:28:16:  锁屏状态
+15:28:21:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+15:28:56:  K64-_BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+15:29:11:  LOG
+15:29:16:  K64_BTCR-1100200600510420_20201014133020
+15:29:21:  Box_3__BTCR-1100200600510420_20201014133020.log - DRB.tat* - TextAnalysisTool.NET
+15:29:31:  LOG
+15:29:36:  Box_3__BTCR-1100200600510420_20201014133246.log - DRB.tat* - TextAnalysisTool.NET
+15:29:46:  K64_BTCR-1100200600510420_20201014112434
+15:29:51:  Box_3__BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+15:28:16:  锁屏状态
+15:28:21:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+15:28:56:  K64-_BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+15:29:11:  LOG
+15:29:16:  K64_BTCR-1100200600510420_20201014133020
+15:29:21:  Box_3__BTCR-1100200600510420_20201014133020.log - DRB.tat* - TextAnalysisTool.NET
+15:29:31:  LOG
+15:29:36:  Box_3__BTCR-1100200600510420_20201014133246.log - DRB.tat* - TextAnalysisTool.NET
+15:29:46:  K64_BTCR-1100200600510420_20201014112434
+15:29:51:  Box_3__BTCR-1100200600510420_20201014112434.log - DRB.tat* - TextAnalysisTool.NET
+15:30:11:  K64_BTCR-1100200600510420_20201014112434
+15:30:26:  TheDateInfo.xls  [兼容模式] - Excel
+15:32:51:  固件-DRB测试缺陷列表.xlsx - Excel
+15:38:21:  荆文波
+15:38:26:  固件-DRB测试缺陷列表.xlsx - Excel
+15:39:41:  桌面整理
+15:39:56:  固件-DRB测试缺陷列表 - 写邮件
+15:40:01:  开始
+15:40:06:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+15:40:11:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+15:40:16:  TrackMotor.h - TortoiseMerge
+15:40:36:  ComponentCtrl.c - TortoiseMerge
+15:40:41:  E:\深圳出差\44 - 提交 - TortoiseSVN
+15:40:46:  HistoryStruct.h - TortoiseMerge
+15:41:01:  E:\深圳出差\44 - 提交 - TortoiseSVN
+15:41:06:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+15:41:26:  E:\深圳出差\44 - 提交 - TortoiseSVN
+15:42:21:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+15:42:26:  E:\深圳出差\44 - 提交 - TortoiseSVN
+15:42:31:  ComponentCtrl.c - TortoiseMerge
+15:42:56:  TrackMotor.h - TortoiseMerge
+15:43:06:  E:\深圳出差\44 - 提交 - TortoiseSVN
+15:43:16:  提交
+15:43:21:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+15:43:31:  D:\CRS\KE64\Project\k64_rtt.uvprojx - μVision
+15:45:31:  荆文波
+15:46:06:  K64_BTCR-1100200600510420_20201014112434
+15:46:16:  TheDateInfo - 写邮件
+15:46:21:  缺陷I - 写邮件
+15:46:26:  发送邮件
+15:46:31:  TheDateInfo.xls
+15:47:11:  TheDateInfo.xls  [兼容模式] - Excel
+15:47:16:  固件-DRB测试缺陷列表.xlsx
+15:47:41:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+15:48:06:  E:\深圳出差\44\Applications\ErrorHandle\ErrHandle.c (44) - Sublime Text (UNREGISTERED)
+15:49:06:  荆文波
+15:50:56:  固件-DRB测试缺陷列表.xlsx
+15:51:01:  TheDateInfo.xls
+15:54:12:  荆文波
+15:54:22:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+15:54:27:  EepHisApp.c Revision 574 - TortoiseMerge
+15:54:37:  HistoryStruct.h Revision 574 - TortoiseMerge
+15:54:47:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+15:54:52:  ComponentCtrl.c Revision 574 - TortoiseMerge
+15:55:07:  TrackMotor.h Revision 574 - TortoiseMerge
+15:55:12:  ComponentCtrl.c Revision 574 - TortoiseMerge
+15:55:27:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+15:55:32:  HistoryStruct.h Revision 574 - TortoiseMerge
+15:55:47:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+15:55:52:  TheDateInfo.xls  [兼容模式] - Excel
+15:56:07:  44
+15:56:12:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+15:56:42:  CashBoxModuleApp.c Revision 567 - TortoiseMerge
+15:57:12:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+15:57:17:  TheDateInfo.xls  [兼容模式] - Excel
+15:57:32:  eSpace
+15:57:37:  固件-DRB测试缺陷列表.xlsx
+16:00:07:  更新周报
+16:00:12:  TheDateInfo.xls  [兼容模式] - Excel
+16:01:52:  固件-DRB测试缺陷列表.xlsx
+16:02:02:  桌面整理
+16:04:32:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+16:06:22:  44
+16:06:37:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+16:06:42:  EepHisApp.c Revision 574 - TortoiseMerge
+16:06:57:  HistoryStruct.h Revision 574 - TortoiseMerge
+16:07:07:  ComponentCtrl.c Revision 574 - TortoiseMerge
+16:07:12:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+16:07:17:  TrackMotor.h Revision 574 - TortoiseMerge
+16:07:22:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+16:07:27:  E:\深圳出差\44 - 统计 - TortoiseSVN
+16:08:17:  44
+16:08:22:  DRB--
+16:08:27:  D:\00-06\DRB-- - 统计 - TortoiseSVN
+16:09:07:  00-06
+16:09:12:  00-18
+16:09:17:  D:\00-18 - 统计 - TortoiseSVN
+16:09:32:  00-18
+16:09:47:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:09:52:  于斌1
+16:10:02:  程明昌
+16:10:12:  eSpace
+16:14:22:  程明昌
+16:14:32:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:14:52:  00-18
+16:15:02:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+16:14:22:  程明昌
+16:14:32:  D:\00-KE64\trunk\Applications\FunctionApp\EepHisApp\EepHisApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:14:52:  00-18
+16:15:02:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+16:15:47:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:15:52:  JLink - Cortex Error
+16:15:57:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:16:32:  JLink - Cortex Error
+16:16:37:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:17:22:  μVision
+16:17:37:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:20:07:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+16:20:27:  JLink - Cortex-M Error
+16:20:32:  μVision
+16:20:37:  Cortex JLink/JTrace Target Driver Setup
+16:20:42:  JLink - Cortex-M Error
+16:21:52:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+16:21:57:  μVision
+16:22:02:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+16:23:52:  eSpace
+16:23:57:  窦志远
+16:24:27:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+16:25:52:  新标签页 - Google Chrome
+16:25:57:  eSpace
+16:26:02:  www.baidu.com - Google Chrome
+16:26:17:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+16:26:42:  本地磁盘 (D:)
+16:26:47:  www.baidu.com - Google Chrome
+16:26:52:  新建文本文档.exe - 快捷方式
+16:26:57:  本地磁盘 (D:)
+16:27:02:  C:\Windows\system32\cmd.exe
+16:27:07:  本地磁盘 (D:)
+16:27:12:  fenxi.py - D:\fenxi.py (3.7.3)
+16:27:22:  本地磁盘 (D:)
+16:27:27:  密码锁
+16:27:32:  本地磁盘 (D:)
+16:27:42:  回收
+16:27:47:  锁屏状态
+16:27:52:  固件-DRB测试缺陷列表.xlsx
+16:28:07:  TheDateInfo.xls  [兼容模式] - Excel
+16:28:57:  本地磁盘 (D:)
+16:29:02:  运行
+16:29:17:  03 项目周报
+16:29:22:  Excel
+16:29:27:  锁屏状态
+16:29:37:  TCR DRB CRS 项目周报.xlsx  [受保护的视图] - Excel
+16:28:07:  TheDateInfo.xls  [兼容模式] - Excel
+16:28:57:  本地磁盘 (D:)
+16:29:02:  运行
+16:29:17:  03 项目周报
+16:29:22:  Excel
+16:29:27:  锁屏状态
+16:29:37:  TCR DRB CRS 项目周报.xlsx  [受保护的视图] - Excel
+16:30:37:  TCR DRB CRS 项目周报.xlsx - Excel
+16:34:17:  Excel
+16:34:22:  【不再使用】TCR（DRB）项目周报.xlsx  [受保护的视图] - Excel
+16:34:47:  03 项目周报
+16:34:52:  Excel
+16:34:57:  TCR DRB CRS 项目周报.xlsx  [受保护的视图] - Excel
+16:35:07:  eSpace
+16:35:17:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:35:27:  窦志远
+16:35:37:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:35:42:  窦志远
+16:36:22:  D:\00-18\Project\ke18_rtt.uvprojx - μVision
+16:36:37:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:39:27:  锁屏状态
+16:39:37:  打开文件夹
+16:39:42:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+16:39:57:  ● CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+16:40:02:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+16:40:07:  本地磁盘 (D:)
+16:40:12:  44
+16:40:17:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+16:40:32:  CSBoardCmd.c Revision 567 - TortoiseMerge
+16:40:37:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+16:40:42:  ComponentCtrl.c Revision 567 - TortoiseMerge
+16:40:52:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+16:40:57:  ComponentCtrl.c Revision 574 - TortoiseMerge
+16:41:12:  TheDateInfo.xls  [兼容模式] - Excel
+16:41:27:  新标签页 - Google Chrome
+16:41:37:  TheDateInfo.xls  [兼容模式] - Excel
+16:42:02:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:42:27:  锁屏状态
+16:42:37:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:42:52:  TheDateInfo.xls  [兼容模式] - Excel
+16:43:02:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:43:47:  TheDateInfo.xls  [兼容模式] - Excel
+16:44:37:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:44:47:  江苏师范大学科文学院 22 名在校生患肺结核，近期又发现 43 人异常，目前情况如何？ - 知乎 - Google Chrome
+16:44:52:  (99+ 封私信 / 80 条消息) 江苏师范大学科文学院 22 名在校生患肺结核，近期又发现 43 人异常，目前情况如何？ - 知乎 - Google Chrome
+16:44:37:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:44:47:  江苏师范大学科文学院 22 名在校生患肺结核，近期又发现 43 人异常，目前情况如何？ - 知乎 - Google Chrome
+16:44:52:  (99+ 封私信 / 80 条消息) 江苏师范大学科文学院 22 名在校生患肺结核，近期又发现 43 人异常，目前情况如何？ - 知乎 - Google Chrome
+16:45:27:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:45:52:  TheDateInfo.xls  [兼容模式] - Excel
+16:46:43:  锁屏状态
+16:46:48:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:47:33:  TheDateInfo.xls  [兼容模式] - Excel
+16:47:43:  CheckTheBookTital.py - 44 - Visual Studio Code [管理员]
+16:47:48:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+16:47:53:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:48:53:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+16:49:23:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:49:43:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+16:50:48:  (99+ 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:53:13:  (99+ 封私信 / 80 条消息) 边牧还是金毛 - 搜索结果 - 知乎 - Google Chrome
+16:54:33:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+16:54:53:  新标签页 - Google Chrome
+16:55:03:  新建文本文档.exe - 快捷方式
+16:55:08:  192.168.28.52 - Google Chrome
+16:55:13:  新标签页 - Google Chrome
+16:55:18:  登录页面 - 数据抓取工具 - Google Chrome
+16:55:23:  数据抓取工具 - Google Chrome
+16:55:43:  个人周报-张开发 (50).xlsx - Excel
+16:55:58:  于斌1
+16:56:18:  个人周报-张开发 (50).xlsx - Excel
+16:59:13:  本地磁盘 (D:)
+16:59:18:  00-KE64
+16:59:23:  44
+16:59:28:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+16:59:38:  个人周报-张开发 (50).xlsx - Excel
+16:59:13:  本地磁盘 (D:)
+16:59:18:  00-KE64
+16:59:23:  44
+16:59:28:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+16:59:38:  个人周报-张开发 (50).xlsx - Excel
+17:01:08:  于斌1
+17:01:43:  个人周报-张开发 (50).xlsx - Excel
+17:01:48:  E:\深圳出差\44\Applications\ErrorHandle\ErrHandle.c (44) - Sublime Text (UNREGISTERED)
+17:01:53:  E:\深圳出差\44\Applications\CanComm\CanComm.c (44) - Sublime Text (UNREGISTERED)
+17:01:58:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+17:02:03:  E:\深圳出差\44\Applications\ErrorHandle\ErrHandle.c (44) - Sublime Text (UNREGISTERED)
+17:02:08:  E:\深圳出差\44\Applications\CanComm\CanComm.c (44) - Sublime Text (UNREGISTERED)
+17:02:23:  E:\深圳出差\44\Applications\ErrorHandle\ErrHandle.c (44) - Sublime Text (UNREGISTERED)
+17:02:28:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+17:02:33:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+17:02:38:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+17:02:43:  E:\深圳出差\44\Applications\EepHisApp\HistoryStruct.h (44) - Sublime Text (UNREGISTERED)
+17:03:18:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+17:03:23:  于斌1
+17:03:33:  E:\深圳出差\44\Applications\EepHisApp\EepHisApp.c (44) - Sublime Text (UNREGISTERED)
+17:03:58:  E:\深圳出差\44\Applications\ErrorHandle\ErrHandle.c (44) - Sublime Text (UNREGISTERED)
+17:04:03:  E:\深圳出差\44\Applications\CanComm\CanComm.c (44) - Sublime Text (UNREGISTERED)
+17:04:18:  于斌1
+17:04:28:  锁屏状态

@@ -1,0 +1,664 @@
+08:31:18:  iTunes
+08:31:23:  
+08:31:28:  网络连接
+08:32:13:  eSpace Login
+08:32:43:  eSpace
+08:33:28:  本地磁盘 (C:)
+08:33:33:  00-06
+08:33:38:  trunk
+08:33:43:  D:\00-06 - 工作副本 - TortoiseSVN
+08:33:48:  Thespace
+08:33:53:  ErrCode.h-revBASE.svn001.tmp.h <--> ErrCode.h - 文本比较(T) - Beyond Compare
+08:33:58:  State.c-revBASE.svn001.tmp.c <--> State.c - 文本比较(T) - Beyond Compare
+08:34:08:  TrackCtrl.c-revBASE.svn001.tmp.c <--> TrackCtrl.c - 文本比较(T) - Beyond Compare
+08:34:28:  TrackCtrl.c-revBASE.svn001.tmp.c <--> TrackCtrl.c* - 文本比较(T) - Beyond Compare
+08:34:48:  D:\00-06\Thespace\trunk - 工作副本 - TortoiseSVN
+08:34:53:  TrackCtrl.c-revBASE.svn003.tmp.c <--> TrackCtrl.c - 文本比较(T) - Beyond Compare
+08:35:08:  DebugConfig.h-revBASE.svn001.tmp.h <--> DebugConfig.h - 文本比较(T) - Beyond Compare
+08:35:13:  Plate.c-revBASE.svn001.tmp.c <--> Plate.c - 文本比较(T) - Beyond Compare
+08:35:28:  Beyond Compare
+08:35:33:  D:\00-06\Thespace\trunk - 工作副本 - TortoiseSVN
+08:35:38:  trunk
+08:35:43:  文档
+08:35:48:  W
+08:35:53:  2020-02-25.txt - 记事本
+08:35:58:  W
+08:36:03:  1.bmp - Windows 照片查看器
+08:36:08:  R
+08:36:18:  2020-02-26.txt - 记事本
+08:36:23:  eSpace
+08:36:28:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+08:37:23:  eSpace
+08:37:28:  00-06
+08:37:38:  Tools
+08:37:48:  TCR调测工具 V3.36
+08:37:53:  打开
+08:38:03:  TCR调测工具 V3.36
+08:38:13:  
+08:38:28:  TCR调测工具 V3.36
+08:38:33:  
+08:38:38:  新标签页 - Google Chrome
+08:38:43:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+08:38:58:  (34 封私信 / 80 条消息) 说话不调理 - 搜索结果 - 知乎 - Google Chrome
+08:39:03:  (34 封私信 / 80 条消息) 说话不清楚 - 搜索结果 - 知乎 - Google Chrome
+08:39:13:  (34 封私信 / 80 条消息) 说话条理 - 搜索结果 - 知乎 - Google Chrome
+08:39:18:  TCR调测工具 V3.36
+08:39:28:  钞箱配置
+08:39:33:  TCR调测工具 V3.36
+08:41:13:  (34 封私信 / 80 条消息) 说话条理 - 搜索结果 - 知乎 - Google Chrome
+08:41:43:  TCR调测工具 V3.36
+08:43:18:  取款
+08:43:23:  TCR调测工具 V3.36
+08:43:28:  取款
+08:44:03:  TCR调测工具 V3.36
+08:44:48:  取款
+08:44:53:  TCR调测工具 V3.36
+08:45:43:  取款
+08:45:48:  TCR调测工具 V3.36
+08:46:33:  取款
+08:46:38:  (34 封私信 / 80 条消息) 说话条理 - 搜索结果 - 知乎 - Google Chrome
+08:46:58:  TCR调测工具 V3.36
+08:47:33:  (34 封私信 / 80 条消息) 说话条理 - 搜索结果 - 知乎 - Google Chrome
+08:47:53:  TCR调测工具 V3.36
+08:48:38:  (34 封私信 / 80 条消息) 说话条理 - 搜索结果 - 知乎 - Google Chrome
+08:49:38:  TCR调测工具 V3.36
+08:49:43:  取款
+08:49:48:  TCR调测工具 V3.36
+08:50:33:  取款
+08:50:38:  TCR调测工具 V3.36
+08:51:23:  取款
+08:51:28:  TCR调测工具 V3.36
+08:52:13:  取款
+08:52:18:  TCR调测工具 V3.36
+08:53:28:  
+08:53:33:  TCR调测工具 V3.36
+08:53:38:  
+08:53:43:  跳转列表
+08:53:48:  
+08:53:53:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:54:08:  untitled (trunk) - Sublime Text (UNREGISTERED)
+08:54:13:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:54:18:  Package Control Messages (trunk) - Sublime Text (UNREGISTERED)
+08:54:23:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:54:33:  计算器
+08:54:38:  
+08:54:43:  TCRControlCmdDLL
+08:54:48:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+08:54:53:  K64_CSZJ-190300200006_20200226085215.log - [No filter file] - TextAnalysisTool.NET
+08:55:03:  K64_CSZJ-190300200006_20200226085215.log - [No filter file]* - TextAnalysisTool.NET
+08:55:08:  Go To
+08:55:13:  K64_CSZJ-190300200006_20200226085215.log - [No filter file]* - TextAnalysisTool.NET
+08:55:28:  Add Filter
+08:55:43:  K64_CSZJ-190300200006_20200226085215.log - [No filter file]* - TextAnalysisTool.NET
+08:55:58:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+08:56:13:  K64_CSZJ-190300200006_20200226085215.log - [No filter file]* - TextAnalysisTool.NET
+08:56:18:  Add Filter
+08:56:23:  K64_CSZJ-190300200006_20200226085215.log - [No filter file]* - TextAnalysisTool.NET
+08:56:33:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:08:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:13:  D:\00-06\Thespace\trunk\Applications\ErrCode\ErrCode.h (trunk) - Sublime Text (UNREGISTERED)
+08:57:18:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+08:57:53:  K64_CSZJ-190300200006_20200226085215.log - [No filter file]* - TextAnalysisTool.NET
+08:58:03:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+08:58:08:  TCR调测工具 V3.36
+08:58:43:  (34 封私信 / 80 条消息) 说话条理 - 搜索结果 - 知乎 - Google Chrome
+08:58:53:  TCR调测工具 V3.36
+08:58:58:  
+08:59:03:  「开始」菜单
+08:59:18:  iTunes
+08:59:38:  K64_CSZJ-190300200006_20200226085215.log - [No filter file]* - TextAnalysisTool.NET
+08:59:43:  iTunes
+09:45:05:  Q
+09:45:25:  TCR调测工具 V3.36
+09:45:35:  (34 封私信 / 80 条消息) 结构化思维 - 搜索结果 - 知乎 - Google Chrome
+09:46:20:  (34 封私信 / 80 条消息) 结构化思维 - 知乎 - Google Chrome
+09:46:25:  https://mp.weixin.qq.com/s?__biz=MzI3OTk5NzI5NA==&mid=2247486676&amp;idx=1&amp;sn=7560cdeca27bf8d3d21ce64f8b23c347&source=41#wechat_redirect - Google Chrome
+09:46:30:  为什么你总是有口难言 | 技术帖 - Google Chrome
+09:46:35:  (34 封私信 / 80 条消息) 结构化思维 - 知乎 - Google Chrome
+09:46:40:  (34 封私信 / 80 条消息) 结构化思维 - 搜索结果 - 知乎 - Google Chrome
+09:46:50:  为什么你总是有口难言 | 技术帖 - Google Chrome
+09:47:25:  TCR调测工具 V3.36
+09:47:45:  (34 封私信 / 80 条消息) 结构化思维 - 知乎 - Google Chrome
+09:48:10:  TCR调测工具 V3.36
+09:48:20:  *Python 3.7.3 Shell*
+09:48:25:  TCR调测工具 V3.36
+09:48:30:  取款
+09:48:35:  Q
+09:48:40:  R.txt - 记事本
+09:48:45:  Q
+09:48:50:  WorkTime.py - C:\Users\zhangkaifa\Documents\Q\WorkTime.py (3.7.3)
+09:49:15:  Q
+09:49:20:  (34 封私信 / 80 条消息) 结构化思维 - 知乎 - Google Chrome
+09:49:25:  Q
+09:49:30:  TCR调测工具 V3.36
+09:49:40:  BTCRTestTool (2) 属性
+09:49:45:  跳转列表
+09:49:50:  BTCRTestTool V3.36
+09:49:55:  K64_CSZJ-190300200006_20200226091620.log - [No filter file]* - TextAnalysisTool.NET
+09:50:05:  
+09:50:15:  log
+09:50:20:  20200226
+09:50:25:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+09:50:30:  20200226
+09:50:35:  Decode
+09:50:40:  K64_CSZJ-190300200006_20200226091620.log - [No filter file]* - TextAnalysisTool.NET
+09:50:45:  K64_CSZJ-190300200006_20200226094832.log - [No filter file]* - TextAnalysisTool.NET
+09:50:55:  Edit Filter
+09:51:00:  K64_CSZJ-190300200006_20200226094832.log - [No filter file]* - TextAnalysisTool.NET
+09:51:25:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+09:51:40:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+09:51:45:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.h • (trunk) - Sublime Text (UNREGISTERED)
+09:51:50:  K64_CSZJ-190300200006_20200226094832.log - [No filter file]* - TextAnalysisTool.NET
+09:51:55:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+09:52:00:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+09:52:05:  K64_CSZJ-190300200006_20200226094832.log - [No filter file]* - TextAnalysisTool.NET
+09:52:15:  K64_CSZJ-190300200006_20200226094739.log - [No filter file]* - TextAnalysisTool.NET
+09:52:25:  K64_CSZJ-190300200006_20200226094316.log - [No filter file]* - TextAnalysisTool.NET
+09:52:30:  Decode
+09:52:35:  K64_CSZJ-190300200006_20200226094138.log - [No filter file]* - TextAnalysisTool.NET
+09:52:40:  K64_CSZJ-190300200006_20200226093430.log - [No filter file]* - TextAnalysisTool.NET
+09:52:45:  计算器
+09:52:55:  D:\00-06\Thespace\trunk\Applications\ErrCode\ErrCode.h (trunk) - Sublime Text (UNREGISTERED)
+09:53:00:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+09:53:05:  K64_CSZJ-190300200006_20200226093430.log - [No filter file]* - TextAnalysisTool.NET
+09:53:10:  K64_CSZJ-190300200006_20200226093328.log - [No filter file]* - TextAnalysisTool.NET
+09:53:15:  K64_CSZJ-190300200006_20200226093223.log - [No filter file]* - TextAnalysisTool.NET
+09:53:25:  K64_CSZJ-190300200006_20200226092708.log - [No filter file]* - TextAnalysisTool.NET
+09:53:30:  K64_CSZJ-190300200006_20200226092519.log - [No filter file]* - TextAnalysisTool.NET
+09:53:35:  K64_CSZJ-190300200006_20200226092122.log - [No filter file]* - TextAnalysisTool.NET
+09:53:50:  K64_CSZJ-190300200006_20200226091904.log - [No filter file]* - TextAnalysisTool.NET
+09:53:55:  K64_CSZJ-190300200006_20200226091713.log - [No filter file]* - TextAnalysisTool.NET
+09:54:00:  K64_CSZJ-190300200006_20200226091506.log - [No filter file]* - TextAnalysisTool.NET
+09:54:05:  K64_CSZJ-190300200006_20200226091316.log - [No filter file]* - TextAnalysisTool.NET
+09:54:10:  K64_CSZJ-190300200006_20200226091002.log - [No filter file]* - TextAnalysisTool.NET
+09:54:15:  K64_CSZJ-190300200006_20200226090823.log - [No filter file]* - TextAnalysisTool.NET
+09:54:20:  取款
+09:54:30:  TCR调测工具 V3.36
+09:56:00:  取款
+09:56:05:  TCR调测工具 V3.36
+10:01:29:  2020-02-26.txt - 记事本
+10:01:44:  TCR调测工具 V3.36
+10:02:59:  取款
+10:03:04:  TCR调测工具 V3.36
+10:03:49:  取款
+10:03:54:  TCR调测工具 V3.36
+10:05:14:  取款
+10:05:19:  TCR调测工具 V3.36
+10:05:24:  
+10:05:29:  新建文本文档.exe - 快捷方式
+10:05:34:  
+10:05:54:  W
+10:05:59:  20200226
+10:06:04:  Decode
+10:06:09:  TCR调测工具 V3.36
+10:06:14:  Decode
+10:06:24:  K64_CSZJ-190300200006_20200226090823.log - [No filter file]* - TextAnalysisTool.NET
+10:06:29:  K64_CSZJ-190300200006_20200226100351.log - [No filter file]* - TextAnalysisTool.NET
+10:06:39:  K64_CSZJ-190300200006_20200226100148.log - [No filter file]* - TextAnalysisTool.NET
+10:07:09:  
+10:07:14:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+10:07:24:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.h • (trunk) - Sublime Text (UNREGISTERED)
+10:07:29:  K64_CSZJ-190300200006_20200226100148.log - [No filter file]* - TextAnalysisTool.NET
+10:07:54:  TCR调测工具 V3.36
+10:08:14:  K64_CSZJ-190300200006_20200226100148.log - [No filter file]* - TextAnalysisTool.NET
+10:08:24:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+10:08:29:  TCR调测工具 V3.36
+10:08:34:  K64_CSZJ-190300200006_20200226100148.log - [No filter file]* - TextAnalysisTool.NET
+10:08:44:  D:\00-06\Thespace\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+10:08:49:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+10:08:54:  计算器
+10:08:59:  D:\00-06\Thespace\trunk\Applications\ErrCode\ErrCode.h (trunk) - Sublime Text (UNREGISTERED)
+10:09:04:  计算器
+10:09:14:  K64_CSZJ-190300200006_20200226100148.log - [No filter file]* - TextAnalysisTool.NET
+10:09:19:  计算器
+10:09:24:  D:\00-06\Thespace\trunk\Applications\ErrCode\ErrCode.h (trunk) - Sublime Text (UNREGISTERED)
+10:09:29:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+10:09:54:  K64_CSZJ-190300200006_20200226100148.log - [No filter file]* - TextAnalysisTool.NET
+10:09:59:  
+10:10:04:  K64_CSZJ-190300200006_20200226100148.log - [No filter file]* - TextAnalysisTool.NET
+10:10:09:  取款
+10:10:14:  TCR调测工具 V3.36
+10:12:14:  取款
+10:12:19:  TCR调测工具 V3.36
+10:13:14:  取款
+10:13:19:  TCR调测工具 V3.36
+10:15:04:  
+10:15:09:  收取邮件 - 张开发
+10:15:14:  
+10:15:39:  桌面整理
+10:15:49:  
+10:15:54:  员工能力提升专项活动实施方案
+10:15:59:  正在打开 - Excel
+10:16:04:  附件2：员工能力提升双月测评计划表--XX部门--XXX姓名.xlsx - Excel
+10:16:14:  于斌1
+10:16:19:  
+10:16:29:  于斌1
+10:16:34:  
+10:16:39:  于斌1
+10:16:54:  附件2：员工能力提升双月测评计划表--XX部门--XXX姓名.xlsx - Excel
+10:17:59:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+10:18:19:  附件2：员工能力提升双月测评计划表--XX部门--XXX姓名.xlsx - Excel
+10:18:24:  于斌1
+10:18:29:  
+10:18:34:  于斌1
+10:18:59:  员工能力提升专项活动实施方案
+10:19:04:  
+10:19:14:  于斌1
+10:19:24:  有居家办情况公同事注意
+10:19:29:  于斌1
+10:20:19:  员工能力提升专项活动实施方案
+10:20:24:  取款
+10:20:29:  TCR调测工具 V3.36
+10:20:34:  
+10:20:39:  TCR调测工具 V3.36
+10:20:44:  于斌1
+10:21:09:  
+10:21:14:  TCR调测工具 V3.36
+10:26:04:  取款
+10:26:14:  TCR调测工具 V3.36
+10:27:04:  取款
+10:27:09:  TCR调测工具 V3.36
+10:27:44:  
+10:27:49:  20200226
+10:28:24:  TCR调测工具 V3.36
+10:28:29:  取款
+10:28:34:  TCR调测工具 V3.36
+10:29:14:  (34 封私信 / 80 条消息) 结构化思维 - 知乎 - Google Chrome
+10:29:24:  TCR调测工具 V3.36
+11:01:16:  Q
+11:01:21:  TCR调测工具 V3.36
+11:01:36:  2020-02-26.txt - 记事本
+11:01:41:  W
+11:01:51:  取款
+11:02:06:  TCR调测工具 V3.36
+11:02:11:  Decode
+11:02:16:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+11:02:21:  正在打开 - Excel
+11:02:26:  
+11:02:31:  Log_Filter.xlsx - Excel
+11:02:51:  TCR调测工具 V3.36
+11:03:01:  取款
+11:03:06:  TCR调测工具 V3.36
+11:03:56:  取款
+11:04:01:  TCR调测工具 V3.36
+13:16:50:  *Python 3.7.3 Shell*
+13:17:00:  GTD.pyw - C:\Users\zhangkaifa\Documents\Q\GTD.pyw (3.7.3)
+13:17:21:  自动播放
+13:17:26:  GTD.pyw - C:\Users\zhangkaifa\Documents\Q\GTD.pyw (3.7.3)
+13:17:56:  
+13:19:12:  *Python 3.7.3 Shell*
+13:19:17:  GTD.pyw - C:\Users\zhangkaifa\Documents\Q\GTD.pyw (3.7.3)
+13:19:22:  
+13:21:01:  WorkTime.py - C:\Users\zhangkaifa\Documents\Q\WorkTime.py (3.7.3)
+13:21:21:  *WorkTime.py - C:\Users\zhangkaifa\Documents\Q\WorkTime.py (3.7.3)*
+13:21:26:  WorkTime.py - C:\Users\zhangkaifa\Documents\Q\WorkTime.py (3.7.3)
+13:21:41:  *Python 3.7.3 Shell*
+13:21:46:  
+13:21:56:  于斌1
+13:23:16:  WorkTime.py - C:\Users\zhangkaifa\Documents\Q\WorkTime.py (3.7.3)
+13:23:21:  GTD.pyw - C:\Users\zhangkaifa\Documents\Q\GTD.pyw (3.7.3)
+13:23:31:  
+13:23:36:  新标签页 - Google Chrome
+13:23:41:  (34 封私信 / 80 条消息) 结构化思维 - 知乎 - Google Chrome
+13:23:46:  百度一下，你就知道 - Google Chrome
+13:23:56:  python 调用完别的py 不往下执行_百度搜索 - Google Chrome
+13:37:13:  TCR调测工具 V3.36
+13:37:48:  *Python 3.7.3 Shell*
+13:38:28:  
+13:38:33:  W
+13:38:38:  2020-02-26.txt - 记事本
+13:38:54:  GTD.pyw - C:\Users\zhangkaifa\Documents\Q\GTD.pyw (3.7.3)
+13:43:43:  *Python 3.7.3 Shell*
+13:43:48:  GTD.pyw - C:\Users\zhangkaifa\Documents\Q\GTD.pyw (3.7.3)
+13:43:53:  *GTD.pyw - C:\Users\zhangkaifa\Documents\Q\GTD.pyw (3.7.3)*
+13:43:58:  GTD.pyw - C:\Users\zhangkaifa\Documents\Q\GTD.pyw (3.7.3)
+13:44:03:  
+13:45:28:  TCR调测工具 V3.36
+13:45:33:  取款
+13:45:43:  *Python 3.7.3 Shell*
+13:45:48:  TCR调测工具 V3.36
+13:45:53:  
+13:47:07:  GTD.pyw - C:\Users\zhangkaifa\Documents\Q\GTD.pyw (3.7.3)
+13:47:27:  取款
+13:47:32:  TCR调测工具 V3.36
+13:47:37:  *Python 3.7.3 Shell*
+13:49:54:  取款
+13:49:59:  TCR调测工具 V3.36
+13:50:04:  
+13:55:15:  *Python 3.7.3 Shell*
+13:55:40:  TCR调测工具 V3.36
+13:55:45:  取款
+13:55:50:  TCR调测工具 V3.36
+13:57:17:  取款
+13:57:22:  TCR调测工具 V3.36
+13:57:42:  取款
+13:57:47:  TCR调测工具 V3.36
+13:57:52:  
+13:59:35:  *Python 3.7.3 Shell*
+13:59:50:  取款
+13:59:55:  
+14:00:20:  *Python 3.7.3 Shell*
+14:01:10:  取款
+14:01:15:  *Python 3.7.3 Shell*
+14:01:45:  
+14:04:20:  2020-02-26.txt - 记事本
+14:05:45:  文档
+14:05:50:  2020-02-26.txt - 记事本
+14:06:15:  TCR调测工具 V3.36
+14:08:20:  取款
+14:08:35:  TCR调测工具 V3.36
+14:08:45:  文档
+14:08:50:  2020-02-26.txt - 记事本
+14:08:55:  TCR调测工具 V3.36
+14:09:45:  取款
+14:09:50:  TCR调测工具 V3.36
+14:11:15:  模块使能
+14:14:25:  TCR调测工具 V3.36
+14:17:25:  取款
+14:17:30:  TCR调测工具 V3.36
+14:19:30:  读写ERROM
+14:19:40:  TCR调测工具 V3.36
+14:24:35:  模块使能
+14:25:10:  TCR调测工具 V3.36
+14:26:45:  模块使能
+14:27:15:  TCR调测工具 V3.36
+14:30:12:  W
+14:30:17:  2020-02-26.txt - 记事本
+14:30:32:  W
+14:30:42:  TCR调测工具 V3.36
+14:30:47:  自动播放
+14:30:52:  百度一下，你就知道 - Google Chrome
+14:30:57:  结构化思维_百度搜索 - Google Chrome
+14:31:02:  结构化思维 音频_百度搜索 - Google Chrome
+14:31:12:  结构化思维|让你的表达更有效率在线收听_沟通_喜马拉雅FM - Google Chrome
+14:31:17:  结构化思维 音频_百度搜索 - Google Chrome
+14:31:42:  结构化思维|让你的表达更有效率在线收听_沟通_喜马拉雅FM - Google Chrome
+14:32:02:  结构化思维 音频_百度搜索 - Google Chrome
+14:32:07:  取款
+14:32:12:  TCR调测工具 V3.36
+14:33:32:  取款
+14:33:42:  TCR调测工具 V3.36
+14:34:37:  取款
+14:34:47:  TCR调测工具 V3.36
+14:34:57:  
+14:35:02:  跳转列表
+14:35:07:  2020-02-26.txt - 记事本
+14:35:12:  BTCRTestTool V3.36
+14:35:17:  Microsoft Excel
+14:35:22:  20200226
+14:35:32:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+14:35:47:  Decode
+14:36:22:  K64_CSZJ-190300200006_20200226143442.log - [No filter file]* - TextAnalysisTool.NET
+14:36:27:  Decode
+14:36:37:  本地磁盘 (F:)
+14:36:42:  Decode
+14:36:47:  TCR调测工具 V3.36
+14:36:52:  取款
+14:36:57:  TCR调测工具 V3.36
+14:37:37:  eSpace
+14:37:42:  于斌1
+14:37:57:  Decode
+14:38:02:  新建文件夹 (2)
+14:38:07:  管理员: C:\Windows\system32\cmd.exe - 00Log_filter.exe
+14:38:12:  TCR调测工具 V3.36
+14:38:27:  管理员: C:\Windows\system32\cmd.exe - 00Log_filter.exe
+14:38:37:  管理员: C:\Windows\system32\cmd.exe
+14:38:42:  Decode
+14:38:52:  管理员: C:\Windows\system32\cmd.exe
+14:38:57:  管理员: C:\Windows\system32\cmd.exe - 00Log_filter.exe
+14:39:12:  
+14:40:27:  管理员: C:\Windows\system32\cmd.exe
+14:40:32:  Decode
+14:40:37:  正在打开 - Excel
+14:40:42:  Log_Filter.xlsx - Excel
+14:40:47:  
+14:40:52:  Log_Filter.xlsx - Excel
+14:41:07:  查找和替换
+14:41:12:  Log_Filter.xlsx - Excel
+14:41:27:  TCR调测工具 V3.36
+14:41:32:  钞口容量
+14:41:37:  TCR调测工具 V3.36
+14:42:07:  取款
+14:42:17:  
+14:42:22:  Decode
+14:42:27:  K64_CSZJ-190300200006_20200226134539.log - [No filter file]* - TextAnalysisTool.NET
+14:43:12:  TCR调测工具 V3.36
+14:43:37:  取款
+14:43:42:  K64_CSZJ-190300200006_20200226134539.log - [No filter file]* - TextAnalysisTool.NET
+14:43:57:  Log_Filter.xlsx - Excel
+14:44:12:  K64_CSZJ-190300200006_20200226134539.log - [No filter file]* - TextAnalysisTool.NET
+14:44:22:  Add Filter
+14:44:32:  K64_CSZJ-190300200006_20200226134539.log - [No filter file]* - TextAnalysisTool.NET
+14:44:47:  Log_Filter.xlsx - Excel
+14:44:57:  K64_CSZJ-190300200006_20200226134539.log - [No filter file]* - TextAnalysisTool.NET
+14:45:27:  TCR调测工具 V3.36
+14:45:32:  K64_CSZJ-190300200006_20200226134539.log - [No filter file]* - TextAnalysisTool.NET
+14:46:47:  TCR调测工具 V3.36
+14:46:57:  Log_Filter.xlsx - Excel
+14:47:07:  D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+14:47:17:  K64_CSZJ-190300200006_20200226134539.log - [No filter file]* - TextAnalysisTool.NET
+14:47:32:  TCR调测工具 V3.36
+14:47:37:  Decode
+14:47:57:  TCR调测工具 V3.36
+14:48:37:  K64_CSZJ-190300200006_20200226134539.log - [No filter file]* - TextAnalysisTool.NET
+14:49:57:  TCR调测工具 V3.36
+14:51:07:  取款
+14:51:12:  K64_CSZJ-190300200006_20200226134539.log - [No filter file]* - TextAnalysisTool.NET
+14:51:17:  Log_Filter.xlsx - Excel
+14:51:27:  K64_CSZJ-190300200006_20200226134539.log - [No filter file]* - TextAnalysisTool.NET
+14:52:52:  TCR调测工具 V3.36
+14:52:57:  K64_CSZJ-190300200006_20200226134539.log - [No filter file]* - TextAnalysisTool.NET
+14:53:02:  取款
+14:53:07:  TCR调测工具 V3.36
+14:54:17:  新建文件夹 (2)
+14:54:22:  
+14:54:27:  BTCRTestTool (2) 属性
+14:54:32:  20200226
+14:54:42:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+14:55:07:  20200226
+14:55:17:  
+14:55:22:  新建文件夹 (2)
+14:55:27:  回收
+14:55:32:  新建文件夹 (2)
+14:55:37:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+14:55:42:  F:\新建文件夹 (2)\00Log_filter.exe
+14:55:47:  TCR调测工具 V3.36
+14:56:37:  F:\新建文件夹 (2)\00Log_filter.exe
+14:56:47:  新建文件夹 (2)
+14:56:52:  正在打开 - Excel
+14:56:57:  Log_Filter.xlsx - Excel
+14:57:02:  
+14:57:07:  TCR调测工具 V3.36
+14:58:02:  取款
+14:58:07:  新建文件夹 (2)
+14:58:12:  20200226
+14:58:57:  取款
+14:59:02:  TCR调测工具 V3.36
+14:59:57:  取款
+15:00:02:  TCR调测工具 V3.36
+15:00:18:  本地磁盘 (D:)
+15:00:23:  20200226
+15:01:03:  2020-02-26.txt - 记事本
+15:01:23:  W
+15:01:28:  TCR调测工具 V3.36
+15:01:53:  W
+15:01:58:  取款
+15:02:03:  TCR调测工具 V3.36
+15:03:48:  
+15:04:03:  TCRControlCmdDLL
+15:04:08:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+15:04:13:  Decode
+15:04:18:  K64_CSZJ-190300200006_20200226134539.log - [No filter file]* - TextAnalysisTool.NET
+15:04:23:  K64_CSZJ-190300200006_20200226150239.log - [No filter file]* - TextAnalysisTool.NET
+15:04:33:  K64_CSZJ-190300200006_20200226150159.log - [No filter file]* - TextAnalysisTool.NET
+15:04:38:  K64_CSZJ-190300200006_20200226145958.log - [No filter file]* - TextAnalysisTool.NET
+15:04:48:  K64_CSZJ-190300200006_20200226145901.log - [No filter file]* - TextAnalysisTool.NET
+15:04:53:  K64_CSZJ-190300200006_20200226145311.log - [No filter file]* - TextAnalysisTool.NET
+15:05:03:  K64_CSZJ-190300200006_20200226144958.log - [No filter file]* - TextAnalysisTool.NET
+15:05:08:  K64_CSZJ-190300200006_20200226144830.log - [No filter file]* - TextAnalysisTool.NET
+15:05:13:  Decode
+15:05:18:  TCR调测工具 V3.36
+15:05:23:  取款
+15:05:28:  TCR调测工具 V3.36
+15:07:03:  取款
+15:07:08:  TCR调测工具 V3.36
+15:09:58:  网络和共享中心
+15:10:03:  TCR调测工具 V3.36
+15:10:48:  取款
+15:10:53:  TCR调测工具 V3.36
+15:12:48:  取款
+15:12:53:  TCR调测工具 V3.36
+15:15:53:  
+15:17:28:  TCR调测工具 V3.36
+15:17:33:  取款
+15:17:38:  TCR调测工具 V3.36
+15:21:13:  取款
+15:21:18:  TCR调测工具 V3.36
+15:22:23:  取款
+15:22:28:  TCR调测工具 V3.36
+15:30:18:  00-06
+15:30:23:  文档
+15:30:28:  TCR调测工具 V3.36
+15:30:33:  2020-02-26.txt - 记事本
+15:31:13:  计算器
+15:31:28:  
+15:31:33:  文档
+15:31:38:  Q
+15:31:43:  WorkTime.py - C:\Users\zhangkaifa\Documents\Q\WorkTime.py (3.7.3)
+15:32:03:  *WorkTime.py - C:\Users\zhangkaifa\Documents\Q\WorkTime.py (3.7.3)*
+15:32:23:  Q
+15:32:43:  TCR调测工具 V3.36
+15:32:58:  
+15:33:38:  TCR调测工具 V3.36
+15:33:43:  取款
+15:33:48:  TCR调测工具 V3.36
+15:35:28:  取款
+15:35:38:  TCR调测工具 V3.36
+15:37:13:  
+15:37:18:  BTCRTestTool V3.36
+15:37:23:  TCR调测工具 V3.36
+15:37:28:  20200226
+15:37:38:  Decode
+15:37:43:  20200226
+15:37:48:  新建文件夹
+15:38:13:  Log_Filter.xlsx - Excel
+15:38:18:  新建文件夹
+15:38:23:  TCR调测工具 V3.36
+15:38:43:  
+15:38:58:  于斌1
+15:39:08:  取款
+15:39:13:  新建文件夹
+15:39:28:  K64_CSZJ-190300200006_20200226144830.log - [No filter file]* - TextAnalysisTool.NET
+15:39:33:  新建文件夹
+15:39:58:  TCR调测工具 V3.36
+15:40:03:  Decode
+15:40:13:  
+15:40:28:  于斌1
+15:40:38:  
+15:40:53:  于斌1
+15:41:08:  TCR调测工具 V3.36
+15:41:18:  Decode
+15:41:28:  K64_CSZJ-190300200006_20200226135745.log - [No filter file]* - TextAnalysisTool.NET
+15:41:58:  Decode
+15:42:03:  K64_CSZJ-190300200006_20200226135719.log - [No filter file]* - TextAnalysisTool.NET
+15:42:08:  K64_CSZJ-190300200006_20200226135547.log - [No filter file]* - TextAnalysisTool.NET
+15:42:18:  K64_CSZJ-190300200006_20200226135203.log - [No filter file]* - TextAnalysisTool.NET
+15:42:23:  Decode
+15:42:28:  K64_CSZJ-190300200006_20200226134539.log - [No filter file]* - TextAnalysisTool.NET
+15:42:48:  TCR调测工具 V3.36
+15:42:53:  
+15:43:23:  TCR调测工具 V3.36
+15:44:33:  固件一室值日划分.PNG
+15:45:23:  TCR调测工具 V3.36
+15:46:08:  K64_CSZJ-190300200006_20200226134539.log - [No filter file]* - TextAnalysisTool.NET
+15:46:33:  TCR调测工具 V3.36
+15:46:48:  取款
+15:46:53:  TCR调测工具 V3.36
+15:47:08:  取款
+15:47:13:  TCR调测工具 V3.36
+15:48:43:  取款
+15:48:48:  TCR调测工具 V3.36
+15:50:23:  结构化思维 音频_百度搜索 - Google Chrome
+15:50:28:  
+15:50:38:  新标签页 - Google Chrome
+15:50:43:  首页 - 知乎 - Google Chrome
+15:50:48:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+15:50:53:  (34 封私信 / 80 条消息) 结构化思维训练 - 搜索结果 - 知乎 - Google Chrome
+15:51:08:  TCR调测工具 V3.36
+15:51:18:  (34 封私信 / 80 条消息) 结构化思维训练 - 搜索结果 - 知乎 - Google Chrome
+15:51:48:  TCR调测工具 V3.36
+15:52:23:  
+15:53:09:  TCR调测工具 V3.36
+15:53:54:  取款
+15:53:59:  (34 封私信 / 80 条消息) 结构化思维训练 - 搜索结果 - 知乎 - Google Chrome
+15:54:19:  (34 封私信 / 80 条消息) 有效训练你的结构化思维 - 搜索结果 - 知乎 - Google Chrome
+15:55:09:  思维导图创始人亲授：高效学习、工作的思考术 - Google Chrome
+15:55:19:  (34 封私信 / 80 条消息) 有效训练你的结构化思维 - 搜索结果 - 知乎 - Google Chrome
+15:55:44:  (34 封私信 / 80 条消息) 训练结构化思维 - 搜索结果 - 知乎 - Google Chrome
+15:57:34:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:00:39:  TCR调测工具 V3.36
+16:01:09:  取款
+16:01:14:  TCR调测工具 V3.36
+16:01:49:  
+16:01:54:  TCR调测工具 V3.36
+16:02:14:  Decode
+16:02:24:  TCR调测工具 V3.36
+16:02:29:  新标签页 - Google Chrome
+16:02:34:  百度一下，你就知道 - Google Chrome
+16:02:44:  如何训练结构化思维——学习笔记 - Google Chrome
+16:02:54:  TCR调测工具 V3.36
+16:03:14:  如何训练结构化思维——学习笔记 - Google Chrome
+16:03:34:  
+16:03:39:  如何训练结构化思维——学习笔记 - Google Chrome
+16:03:44:  TCR调测工具 V3.36
+16:06:04:  如何训练结构化思维——学习笔记 - Google Chrome
+16:07:09:  结构化思维训练_百度搜索 - Google Chrome
+16:07:14:  什么是结构化思维？ - 知乎 - Google Chrome
+16:07:19:  (34 封私信 / 80 条消息) 什么是结构化思维？ - 知乎 - Google Chrome
+16:10:24:  TCR调测工具 V3.36
+16:10:34:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:11:04:  TCR调测工具 V3.36
+16:12:44:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:13:29:  TCR调测工具 V3.36
+16:14:14:  (34 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+16:14:29:  
+16:20:59:  变幻线
+16:22:54:  新标签页 - Google Chrome
+16:23:09:  www.baidu.com - Google Chrome
+16:23:14:  
+16:23:19:  百度一下，你就知道 - Google Chrome
+16:23:29:  https://www.baidu.com/link?url=_FaejXWSuCV4naz-Rw8Sy8K4-6S72G_wZW8Mzp9bakGZNBMrSw9hsM_i0Ekkw5mI9zKXHPjrz_0SVwjR2wdK28SVvzxpMHOnedOEq4_bo4W&wd=&eqid=afb12ae6000203af000000025e562afe - Google Chrome
+16:23:34:  结构体中指针赋值问题的分析及C代码示例_C/C++_mianhuantang848989的专栏-CSDN博客 - Google Chrome
+16:24:29:  C 结构体指针赋值_百度搜索 - Google Chrome
+16:24:49:  c语言中->和.的区别_百度知道 - Google Chrome
+16:26:19:  TCR调测工具 V3.36
+16:26:54:  D:\00-06\Thespace\trunk\Project\CashBox.uvprojx - μVision
+16:52:46:  
+16:52:51:  Decode
+16:52:56:  文档
+16:53:01:  W
+16:53:06:  WorkTime.py - C:\Users\zhangkaifa\Documents\W\WorkTime.py (3.7.3)
+16:53:11:  C:\Windows\py.exe
+16:53:16:  Figure 1
+16:53:21:  2020-02-26.txt - 记事本
+16:53:46:  Foxmail
+16:53:51:  转发: BTCR-1100_SLAVE_KE18_FV1064_EXTFEDU3V13&5V_MAIN_T09
+16:53:56:  桌面整理
+16:54:06:  打开
+16:54:16:  TCR调测工具 V3.36
+16:54:41:  BTCRTestTool
+16:55:11:  模块使能
+16:55:36:  BTCRTestTool
+16:55:46:  TCR调测工具 V3.36
+16:55:51:  BTCRTestTool
+16:55:56:  TCR调测工具 V3.36
+16:56:31:  BTCRTestTool
+16:56:36:  TCR调测工具 V3.36
+16:57:01:  BTCRTestTool
+16:57:06:  TCR调测工具 V3.36
+16:57:56:  BTCRTestTool
+16:58:46:  2020-02-26.txt - 记事本
+16:59:11:  W
+16:59:26:  Figure 1
+16:59:36:  W
+16:59:51:  WorkTime.py - C:\Users\zhangkaifa\Documents\W\WorkTime.py (3.7.3)

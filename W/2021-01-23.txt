@@ -1,0 +1,453 @@
+08:11:45:  计算器
+08:15:35:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:16:10:  D:\00-06\meger\Applications\Instruction\InstrHandle.c (meger) - Sublime Text (UNREGISTERED)
+08:16:15:  D:\00-06\meger\Applications\Separate\Separate.c (meger) - Sublime Text (UNREGISTERED)
+08:16:20:  D:\00-06\meger\Applications\PlateCtrl\LowerPlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+08:16:30:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c • (meger) - Sublime Text (UNREGISTERED)
+08:16:35:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (meger) - Sublime Text (UNREGISTERED)
+08:16:40:  D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+08:17:10:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+08:19:30:  新北洋OA信息化平台 - Internet Explorer
+08:19:35:  eSpace
+08:19:55:  本地磁盘 (D:)
+08:20:00:  fenxi
+08:21:15:  text
+08:21:20:  新建文本文档 - 副本.py - D:\fenxi\text\新建文本文档 - 副本.py (3.7.3)
+08:23:40:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+08:25:45:  eSpace
+08:26:15:  新建文本文档 - 副本.py - D:\fenxi\text\新建文本文档 - 副本.py (3.7.3)
+08:27:05:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+08:28:35:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:28:40:  D:\00-06\meger\Drivers\PeripheralDriver\FtmDriver\FtmConfig.h (meger) - Sublime Text (UNREGISTERED)
+08:28:45:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:28:50:  D:\00-06\meger\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.h (meger) - Sublime Text (UNREGISTERED)
+08:28:55:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.h (meger) - Sublime Text (UNREGISTERED)
+08:29:05:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+08:29:35:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:29:45:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+08:28:35:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:28:40:  D:\00-06\meger\Drivers\PeripheralDriver\FtmDriver\FtmConfig.h (meger) - Sublime Text (UNREGISTERED)
+08:28:45:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:28:50:  D:\00-06\meger\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.h (meger) - Sublime Text (UNREGISTERED)
+08:28:55:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.h (meger) - Sublime Text (UNREGISTERED)
+08:29:05:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+08:29:35:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:29:45:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+08:30:50:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+08:31:00:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:31:05:  锁屏状态
+08:33:45:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:33:50:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+08:33:55:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:34:10:  锁屏状态
+08:34:15:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)
+08:34:20:  D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)
+08:34:45:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+08:35:00:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+08:35:20:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+08:35:35:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+08:35:40:  锁屏状态
+08:35:45:  新标签页 - Google Chrome
+08:35:50:  数据抓取工具 - Google Chrome
+08:36:15:  锁屏状态
+08:36:20:  Excel
+08:36:30:  个人周报-张开发 (63).xlsx  [受保护的视图] - Excel
+08:36:45:  个人周报-张开发 (63).xlsx - Excel
+08:44:50:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+08:45:00:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:44:50:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+08:45:00:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:45:35:  数据抓取工具 - Google Chrome
+08:45:40:  打开
+08:45:45:  个人周报-张开发 (63).xlsx - Excel
+08:47:00:  数据抓取工具 - Google Chrome
+08:47:05:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:49:30:  D:\00-06\1T1-Stop-Length\trunk\FwLib\StdSnbc\StdMacro.h (trunk) - Sublime Text (UNREGISTERED)
+08:49:35:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:49:45:  eSpace
+08:49:50:  吉哲
+08:50:00:  历史记录管理器
+08:50:20:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:50:30:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+08:51:00:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+08:52:30:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:52:35:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+08:52:40:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:52:45:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+08:55:05:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:56:05:  D:\00-06\meger\Applications\Track\Track.c • (meger) - Sublime Text (UNREGISTERED)
+08:57:20:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+08:57:25:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+08:58:40:  eSpace
+08:59:40:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+08:58:40:  eSpace
+08:59:40:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:01:25:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:02:10:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:02:15:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:02:20:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:02:25:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:02:45:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:03:40:  D:\00-06\meger\Applications\PaperManage\PaperManage.h (meger) - Sublime Text (UNREGISTERED)
+09:03:50:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:04:10:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:04:25:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:06:00:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:06:10:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:06:15:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:06:25:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:06:40:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:06:50:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:08:40:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:08:45:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:09:15:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:09:51:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:10:01:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:10:06:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:10:21:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:10:26:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:10:41:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:12:46:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:12:56:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:13:16:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:18:56:  今日发布新北洋字【2021】01-04号 红头文，敬请查阅！
+09:19:01:  Foxmail
+09:19:06:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:21:21:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:21:46:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:21:56:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:22:01:  eSpace
+09:22:06:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:22:31:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:22:56:  D:\00-06\meger\Applications\Track\Track.c • (meger) - Sublime Text (UNREGISTERED)
+09:23:11:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:23:21:  D:\00-06\meger\Applications\Track\Track.c • (meger) - Sublime Text (UNREGISTERED)
+09:23:51:  D:\00-06\meger\Applications\PaperManage\PaperManage.h (meger) - Sublime Text (UNREGISTERED)
+09:23:56:  D:\00-06\meger\Applications\Track\Track.c • (meger) - Sublime Text (UNREGISTERED)
+09:24:11:  D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)
+09:24:16:  D:\00-06\meger\Applications\Track\Track.c • (meger) - Sublime Text (UNREGISTERED)
+09:24:21:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:25:01:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:25:21:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:25:36:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:25:41:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:25:51:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+09:26:16:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:27:46:  Windows 任务管理器
+09:28:36:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:28:36:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+09:31:06:  00-06
+09:31:16:  meger
+09:31:21:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:31:26:  InstrHandle.c - TortoiseMerge
+09:31:36:  PaperManage.c - TortoiseMerge
+09:31:51:  Track.c - TortoiseMerge
+09:32:01:  SECSplashWnd
+09:32:06:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:36:56:  工作副本
+09:37:01:  LowerPlate.c - TortoiseMerge
+09:37:26:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:37:31:  UpperPlate.c - TortoiseMerge
+09:37:41:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:37:46:  LowerPlate.c - TortoiseMerge
+09:37:51:  SensorDriver.c - TortoiseMerge
+09:38:06:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:38:26:  锁屏状态
+09:38:41:  Track.c - TortoiseMerge
+09:38:51:  PublicDriver.h - TortoiseMerge
+09:38:56:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:39:06:  Track.c - TortoiseMerge
+09:39:11:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:41:32:  运行
+09:41:37:  TCR
+09:41:47:  eSpace
+09:42:02:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:42:52:  DRB传感器.txt - 记事本
+09:43:02:  D:\00-06\meger - 工作副本 - TortoiseSVN
+09:43:07:  PaperManage.c - TortoiseMerge
+09:43:37:  D:\CRS\KE18-VERSION1\Applications\InstrExp\InstrExe.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:43:42:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:46:37:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:46:42:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+09:46:47:  CRS
+09:46:52:  D:\CRS\KE18-VERSION1 - 日志信息 - TortoiseSVN
+09:46:57:  KE18-VERSION1
+09:47:12:  更新 完成！
+09:47:17:  InstrExe.c - TortoiseMerge
+09:47:22:  KE18-VERSION1
+09:47:27:  ImpellerCtrl.c - TortoiseMerge
+09:47:47:  D:\CRS\KE18-VERSION1 - 工作副本 - TortoiseSVN
+09:47:52:  历史记录
+09:47:57:  D:\CRS\KE18-VERSION1 - 日志信息 - TortoiseSVN
+09:48:02:  D:\CRS\KE18-VERSION1 - 提交 - TortoiseSVN
+09:48:22:  KE18-VERSION1
+09:48:27:  提交 完成！
+09:49:17:  PaperManage.c - TortoiseMerge
+10:02:27:  颜晓军
+10:02:37:  锁屏状态
+10:02:42:  颜晓军
+10:03:47:  KE18-VERSION1
+10:03:52:  06- 刘建生
+10:03:57:  TCR
+10:04:02:  钞箱1T2集成测试方案
+10:31:37:  Foxmail
+10:31:47:  eSpace
+10:31:52:  新北洋OA信息化平台 - Internet Explorer
+10:32:07:  Oracle | PeopleSoft Enterprise 登录 - Internet Explorer
+10:32:12:  新北洋OA信息化平台 - Internet Explorer
+10:32:17:  员工自助 - Internet Explorer
+10:32:22:  考勤异常 - Internet Explorer
+10:32:32:  员工自助 - Internet Explorer
+10:32:37:  Subversion
+10:32:47:  员工自助 - Internet Explorer
+10:32:52:  我的假期 - Internet Explorer
+10:33:42:  PaperManage.c - TortoiseMerge
+10:37:22:  计算器
+10:37:27:  PaperManage.c - TortoiseMerge
+10:40:37:  计算器
+10:40:42:  跳转列表
+10:40:47:  颜晓军
+10:41:07:  我的假期 - Internet Explorer
+10:41:17:  颜晓军
+10:41:42:  锁屏状态
+10:41:47:  颜晓军
+10:42:02:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+10:44:57:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:44:57:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:52:27:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:53:17:  于斌1
+10:53:32:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:54:42:  于斌1
+10:54:52:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:55:37:  于斌1
+10:56:02:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+10:56:27:  于斌1
+10:56:57:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:08:37:  于斌1
+11:09:07:  eSpace
+11:09:12:  于斌1
+11:09:32:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:11:27:  于斌1
+11:14:02:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:15:22:  于斌1
+11:16:57:  eSpace
+11:17:07:  我的假期 - Internet Explorer
+11:17:17:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:23:57:  Windows 任务管理器
+11:24:22:  无法中止进程
+11:24:27:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:25:42:  D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)
+11:25:47:  D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)
+11:31:17:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+11:31:32:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+11:31:57:  于斌1
+11:32:37:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+11:32:47:  于斌1
+11:32:52:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+11:33:02:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+11:33:12:  于斌1
+11:33:17:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+11:33:22:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+11:33:37:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+11:33:47:  于斌1
+11:33:57:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+11:34:12:  于斌1
+11:37:07:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+11:38:13:  于斌1
+11:38:58:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+11:39:03:  于斌1
+11:39:33:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+11:40:23:  锁屏状态
+13:21:23:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+13:43:58:  D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+13:44:43:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+13:44:43:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+13:45:13:  D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+13:45:23:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+13:45:28:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+13:45:38:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+13:45:43:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+13:45:48:  D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)
+13:45:53:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)
+13:46:08:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+13:46:18:  D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+13:46:28:  于斌1
+13:46:33:  「开始」菜单
+13:46:38:  D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c (meger) - Sublime Text (UNREGISTERED)
+13:46:43:  D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c • (meger) - Sublime Text (UNREGISTERED)
+13:46:48:  于斌1
+13:47:38:  D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c • (meger) - Sublime Text (UNREGISTERED)
+13:47:48:  D:\CRS\KE18-VERSION1\Applications\ImpellerCtrl\ImpellerCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)
+13:47:58:  锁屏状态
+13:48:03:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:48:18:  于斌1
+13:48:28:  E:\深圳出差\gfgd\Applications\InstrExplain\InstrProc1D.c • (gfgd) - Sublime Text (UNREGISTERED)
+13:56:18:  D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c • (meger) - Sublime Text (UNREGISTERED)
+13:56:28:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+13:57:08:  本地磁盘 (D:)
+13:57:13:  trunk
+13:57:18:  InstrExecute.c - TortoiseMerge
+13:57:48:  PlateCtrl.c - TortoiseMerge
+13:58:03:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+13:58:08:  PaperManage.c - TortoiseMerge
+13:58:18:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+13:58:23:  TrackCtrl.c - TortoiseMerge
+13:58:38:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+13:58:43:  Update.c - TortoiseMerge
+13:58:48:  Plate.c - TortoiseMerge
+13:58:58:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+13:59:03:  PlateCtrl.c - TortoiseMerge
+13:59:13:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+13:59:18:  TrackCtrl.c - TortoiseMerge
+13:59:23:  trunk
+13:59:28:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+13:59:33:  PaperManage.h - TortoiseMerge
+13:59:38:  PaperManage.c - TortoiseMerge
+13:58:08:  PaperManage.c - TortoiseMerge
+13:58:18:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+13:58:23:  TrackCtrl.c - TortoiseMerge
+13:58:38:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+13:58:43:  Update.c - TortoiseMerge
+13:58:48:  Plate.c - TortoiseMerge
+13:58:58:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+13:59:03:  PlateCtrl.c - TortoiseMerge
+13:59:13:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+13:59:18:  TrackCtrl.c - TortoiseMerge
+13:59:23:  trunk
+13:59:28:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+13:59:33:  PaperManage.h - TortoiseMerge
+13:59:38:  PaperManage.c - TortoiseMerge
+14:00:08:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+14:00:13:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+14:00:18:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+14:00:48:  Applications
+14:00:53:  打开方式
+14:00:58:  D:\00-06\1T1-Stop-Length\trunk\Applications\Update\Update.c (meger) - Sublime Text (UNREGISTERED)
+14:01:08:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+14:01:18:  PaperManage.h - TortoiseMerge
+14:02:18:  历史记录
+14:02:23:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+14:02:33:  milestone.txt - 记事本
+14:03:33:  trunk
+14:03:38:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+14:03:43:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+14:03:48:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+14:03:58:  提交
+14:04:13:  03 项目周报
+14:04:18:  Excel
+14:04:58:  刘雅
+14:05:18:  eSpace
+14:05:28:  Excel
+14:05:33:  TCR+DRB+CRS 项目周报.xlsx  [共享] - Excel
+14:06:23:  刘雅
+14:06:38:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:06:43:  eSpace
+14:06:53:  荆文波
+14:07:13:  eSpace
+14:07:43:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:07:53:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+14:08:08:  00-06
+14:08:13:  meger
+14:08:18:  D:\00-06\meger - 复制（分支/标记） - TortoiseSVN
+14:08:23:   - 版本库浏览器 - TortoiseSVN
+14:08:38:  00-06
+14:08:58:   - 版本库浏览器 - TortoiseSVN
+14:09:13:  http://192.168.10.9:82/svn/BTCR-1100 - 版本库浏览器 - TortoiseSVN
+14:09:18:  BR-1-CashBox1T2-Press - 检出 - TortoiseSVN
+14:09:28:  检出 完成！
+14:09:38:  D:\00-06\DRB-1.3\Project\CashBox_1T2.uvprojx - μVision
+14:10:19:  DRB-1.3
+14:10:24:  00-06
+14:10:29:  meger
+14:10:34:  确认文件夹替换
+14:10:39:  文件访问被拒绝
+14:10:44:  复制文件
+14:10:49:  正在复制 910 个项目(216 MB)
+14:10:59:  剩余 5 秒
+14:11:04:  DRB-1.3
+14:11:09:  工作副本
+14:11:14:  InstrHandle.c - TortoiseMerge
+14:11:19:  InstrHandle.h - TortoiseMerge
+14:11:24:  MemoryConfig.h - TortoiseMerge
+14:11:29:  PaperManage.c - TortoiseMerge
+14:12:39:  D:\00-06\DRB-1.3 - 工作副本 - TortoiseSVN
+14:12:44:  PaperManage.h - TortoiseMerge
+14:12:54:  State.c - TortoiseMerge
+14:13:04:  D:\00-06\DRB-1.3 - 工作副本 - TortoiseSVN
+14:13:09:  D:\00-06\DRB-1.3 - 提交 - TortoiseSVN
+14:13:19:  D:\00-06\DRB-1.3 - 日志信息 - TortoiseSVN
+14:13:24:  PublicDriver.c - TortoiseMerge
+14:13:34:  D:\00-06\DRB-1.3 - 提交 - TortoiseSVN
+14:13:39:  PaperManage.c - TortoiseMerge
+14:13:44:  State.c - TortoiseMerge
+14:13:54:  D:\00-06\DRB-1.3 - 提交 - TortoiseSVN
+14:14:04:  Track.c - TortoiseMerge
+14:14:09:  InstrHandle.c - TortoiseMerge
+14:14:14:  D:\00-06\DRB-1.3 - 提交 - TortoiseSVN
+14:14:54:  提交
+14:15:04:  DRB-1.3
+14:14:09:  InstrHandle.c - TortoiseMerge
+14:14:14:  D:\00-06\DRB-1.3 - 提交 - TortoiseSVN
+14:14:54:  提交
+14:15:04:  DRB-1.3
+14:15:09:  PaperManage.c - TortoiseMerge
+14:15:19:  SensorDriver.c - TortoiseMerge
+14:15:29:  LowerPlate.c - TortoiseMerge
+14:15:39:  D:\00-06\DRB-1.3 - 工作副本 - TortoiseSVN
+14:15:44:  PublicDriver.c - TortoiseMerge
+14:15:49:  D:\00-06\DRB-1.3 - 提交 - TortoiseSVN
+14:15:54:  LowerPlate.c - TortoiseMerge
+14:16:24:  00-06
+14:16:29:  svnn
+14:16:34:  BR-1-CashBox1T2-Press
+14:16:39:  UpperPlate.c - TortoiseMerge
+14:16:44:  00-06
+14:16:49:  回收
+14:16:54:  00-06
+14:16:59:  DRB-1.3
+14:17:04:  D:\00-06\DRB-1.3 - 工作副本 - TortoiseSVN
+14:17:09:  LowerPlate.c - TortoiseMerge
+14:17:29:  D:\00-06\DRB-1.3 - 工作副本 - TortoiseSVN
+14:17:34:  D:\00-06\DRB-1.3 - 日志信息 - TortoiseSVN
+14:17:44:  LowerPlate.c Revision 4166 - TortoiseMerge
+14:17:54:  锁屏状态
+14:17:59:  LowerPlate.c - TortoiseMerge
+14:18:04:  UpperPlate.c - TortoiseMerge
+14:18:24:  PaperManage.c - trunk - Visual Studio Code [管理员]
+14:18:29:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+14:18:34:  本地磁盘 (D:)
+14:18:39:  本地磁盘 (E:)
+14:18:44:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+14:19:24:  E:\2.txt (meger) - Sublime Text (UNREGISTERED)
+14:19:29:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+14:19:34:  E:\2.txt (meger) - Sublime Text (UNREGISTERED)
+14:19:44:  设置 - trunk - Visual Studio Code [管理员]
+14:19:49:  PaperManage.c - trunk - Visual Studio Code [管理员]
+14:39:49:  荆文波
+14:39:54:  PaperManage.c - trunk - Visual Studio Code [管理员]
+15:22:05:  锁屏状态
+15:51:15:  颜晓军
+15:51:20:  于斌1
+15:53:00:  PaperManage.c - trunk - Visual Studio Code [管理员]
+15:56:15:  于斌1
+15:57:35:  PaperManage.c - trunk - Visual Studio Code [管理员]
+15:57:45:  于斌1
+15:57:55:  PaperManage.c - trunk - Visual Studio Code [管理员]
+15:59:25:  于斌1
+16:00:00:  PaperManage.c - trunk - Visual Studio Code [管理员]
+15:59:25:  于斌1
+16:00:00:  PaperManage.c - trunk - Visual Studio Code [管理员]
+16:00:35:  于斌1
+16:00:40:  PaperManage.c - trunk - Visual Studio Code [管理员]
+16:00:45:  eSpace
+16:00:50:  于斌1
+16:01:50:  PaperManage.c - trunk - Visual Studio Code [管理员]
+16:02:05:  于斌1
+16:02:55:  PaperManage.c - trunk - Visual Studio Code [管理员]
+16:29:06:  ● PaperManage.c - trunk - Visual Studio Code [管理员]
+16:29:06:  ● PaperManage.c - trunk - Visual Studio Code [管理员]
+16:55:16:  PaperManage.c - trunk - Visual Studio Code [管理员]
+16:58:26:  ● PaperManage.c - trunk - Visual Studio Code [管理员]
+16:58:26:  ● PaperManage.c - trunk - Visual Studio Code [管理员]
+17:05:47:  计算机
+17:05:52:  锁屏状态

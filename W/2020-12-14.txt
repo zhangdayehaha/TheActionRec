@@ -1,0 +1,1279 @@
+08:00:53:  taskeng.exe
+08:00:58:  deng
+08:07:14:  Microsoft Windows
+08:07:29:  deng
+08:07:39:  CRS调测工具（研发版）V1.0.2.1
+08:13:24:  Microsoft Windows
+08:15:49:  IMG_20201209_142511.jpg
+08:15:54:  IMG_20201209_142509.jpg
+08:16:14:  IMG_20201209_142511.jpg
+08:16:19:  IMG_20201209_142509.jpg
+08:16:29:  开始
+08:16:34:  CRS调测工具（研发版）V1.0.2.1
+08:18:04:  Microsoft Windows
+08:18:39:  CRS调测工具（研发版）V1.0.2.1
+08:19:09:  新建文本文档.exe - 快捷方式
+08:19:14:  CRS调测工具（研发版）V1.0.2.1
+08:20:04:  CashRecyclerTool 属性
+08:20:09:  CRSTesttool(1)
+08:20:14:  20201214
+08:20:19:  Decode
+08:20:24:  K64_0000_20201214081845.log - DRB.tat* - TextAnalysisTool.NET
+08:21:04:  20180613 TCR内部指令手册_V001.xlsx - Excel
+08:21:14:  K64_0000_20201214081845.log - DRB.tat* - TextAnalysisTool.NET
+08:21:29:  CRS调测工具（研发版）V1.0.2.1
+08:21:39:  K64_0000_20201214081845.log - DRB.tat* - TextAnalysisTool.NET
+08:22:09:  CRS调测工具（研发版）V1.0.2.1
+08:22:14:  钞箱配置
+08:22:29:  CRS调测工具（研发版）V1.0.2.1
+08:23:44:  Decode
+08:23:49:  K64_0000_20201214082307.log - DRB.tat* - TextAnalysisTool.NET
+08:24:09:  CRS调测工具（研发版）V1.0.2.1
+08:24:14:  K64_0000_20201214082307.log - DRB.tat* - TextAnalysisTool.NET
+08:24:34:  CRS调测工具（研发版）V1.0.2.1
+08:25:14:  20201214
+08:25:19:  K64_0000_20201214082435.log - DRB.tat* - TextAnalysisTool.NET
+08:28:39:  锁屏状态
+08:28:44:  CRS调测工具（研发版）V1.0.2.1
+08:29:19:  本地磁盘 (C:)
+08:29:24:  深圳出差
+08:29:29:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+08:29:44:  InstrProc1D.c Revision 753 - TortoiseMerge
+08:29:59:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+08:28:39:  锁屏状态
+08:28:44:  CRS调测工具（研发版）V1.0.2.1
+08:29:19:  本地磁盘 (C:)
+08:29:24:  深圳出差
+08:29:29:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+08:29:44:  InstrProc1D.c Revision 753 - TortoiseMerge
+08:29:59:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+08:30:14:  gfgd
+08:30:19:  InstrProc1D.c - TortoiseMerge
+08:30:24:  E:\深圳出差\gfgd - 工作副本 - TortoiseSVN
+08:30:29:  历史记录
+08:30:34:  程明昌
+08:30:44:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+08:31:14:  InstrProc1D.c - TortoiseMerge
+08:31:24:  提交 失败！
+08:31:29:  TortoiseSVN
+08:31:34:  gfgd
+08:31:39:  E:\深圳出差\gfgd - 更新 - TortoiseSVN
+08:31:44:  gfgd
+08:31:49:  E:\深圳出差\gfgd - 提交 - TortoiseSVN
+08:31:54:  InstrProc1D.c - TortoiseMerge
+08:31:59:  提交 完成！
+08:32:19:  Microsoft Windows
+08:32:24:  gfgd
+08:32:29:  CRS调测工具（研发版）V1.0.2.1
+08:36:04:  Decode
+08:36:14:  K64_0000_20201214083526.log - DRB.tat* - TextAnalysisTool.NET
+08:37:34:  CRS调测工具（研发版）V1.0.2.1
+08:37:39:  钞箱配置
+08:37:44:  CRS调测工具（研发版）V1.0.2.1
+08:39:09:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+08:39:14:  K64_0000_20201214083821.log - DRB.tat* - TextAnalysisTool.NET
+08:39:29:  Add Filter
+08:39:39:  K64_0000_20201214083821.log - DRB.tat* - TextAnalysisTool.NET
+08:40:09:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:40:49:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+08:40:54:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:41:14:  K64_0000_20201214083821.log - DRB.tat* - TextAnalysisTool.NET
+08:41:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:43:19:  发送指令到K06
+08:43:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+08:44:09:  CRS调测工具（研发版）V1.0.2.1
+08:44:09:  CRS调测工具（研发版）V1.0.2.1
+08:47:39:  eSpace
+08:47:44:  吉哲
+08:48:14:  CRS调测工具（研发版）V1.0.2.1
+08:48:34:  吉哲
+08:48:49:  CRS调测工具（研发版）V1.0.2.1
+08:48:54:  锁屏状态
+08:48:59:  CRS调测工具（研发版）V1.0.2.1
+08:49:39:  吉哲
+08:50:24:  CRS调测工具（研发版）V1.0.2.1
+08:50:39:  钞箱配置
+08:50:49:  CRS调测工具（研发版）V1.0.2.1
+08:51:19:  20201214
+08:51:24:  Decode
+08:51:29:  K64_0000_20201214083821.log - DRB.tat* - TextAnalysisTool.NET
+08:51:34:  K64_0000_20201214085047.log - DRB.tat* - TextAnalysisTool.NET
+08:51:44:  Microsoft Windows
+08:51:49:  K64_0000_20201214085047.log - DRB.tat* - TextAnalysisTool.NET
+08:51:54:  吉哲
+08:51:59:  于斌1
+08:52:04:  K64_0000_20201214085047.log - DRB.tat* - TextAnalysisTool.NET
+08:53:49:  CRS调测工具（研发版）V1.0.2.1
+08:57:14:  K64_0000_20201214085047.log - DRB.tat* - TextAnalysisTool.NET
+08:59:04:  CRS调测工具（研发版）V1.0.2.1
+08:59:09:  本地磁盘 (D:)
+08:59:59:  CRS调测工具（研发版）V1.0.2.1
+08:59:04:  CRS调测工具（研发版）V1.0.2.1
+08:59:09:  本地磁盘 (D:)
+08:59:59:  CRS调测工具（研发版）V1.0.2.1
+09:01:09:  WinRAR
+09:01:14:  IMG_20201211_080539.jpg - Windows 照片查看器
+09:01:19:  IMG_20201211_080622.jpg - Windows 照片查看器
+09:01:49:  IMG_20201211_080622.jpg
+09:01:54:  IMG_20201211_080539.jpg
+09:02:09:  IMG_20201211_080622.jpg
+09:04:19:  CRS调测工具（研发版）V1.0.2.1
+09:05:34:  K64_0000_20201214085047.log - DRB.tat* - TextAnalysisTool.NET
+09:06:09:  CRS调测工具（研发版）V1.0.2.1
+09:06:35:  查找
+09:06:50:  CRS调测工具（研发版）V1.0.2.1
+09:07:05:  Decode
+09:07:10:  20201214
+09:07:15:  Decode
+09:07:20:  K64_0000_20201214090609.log - DRB.tat* - TextAnalysisTool.NET
+09:07:25:  Edit Filter
+09:07:30:  K64_0000_20201214090609.log - DRB.tat* - TextAnalysisTool.NET
+09:07:40:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:07:45:  ErrCode_list_txt_flg.txt - 记事本
+09:07:50:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:07:55:  K64_0000_20201214090609.log - DRB.tat* - TextAnalysisTool.NET
+09:09:10:  CRS调测工具（研发版）V1.0.2.1
+09:09:25:  本地磁盘 (D:)
+09:09:30:  00-18
+09:09:35:  本地磁盘 (E:)
+09:09:40:  本地磁盘 (D:)
+09:09:45:  CashRecyclerTool 属性
+09:09:50:  CRSTesttool
+09:09:55:  Decode
+09:10:00:  20201214
+09:10:05:  K18_0000_20201214090910 - 写邮件
+09:10:10:  CRS调测工具（研发版）V1.0.2.1
+09:10:30:  钞箱配置
+09:10:35:  CRS调测工具（研发版）V1.0.2.1
+09:10:55:  钞箱配置
+09:11:00:  CRS调测工具（研发版）V1.0.2.1
+09:11:05:  钞箱配置
+09:11:20:  CRS调测工具（研发版）V1.0.2.1
+09:12:15:  20201214
+09:12:30:  K64_0000_20201214091130.log - DRB.tat* - TextAnalysisTool.NET
+09:12:40:  Microsoft Windows
+09:12:45:  K64_0000_20201214091130.log - DRB.tat* - TextAnalysisTool.NET
+09:13:25:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:13:35:  D:\00-06\1T1-Stop-Length\trunk\Applications\CashBoxInfo\CashBoxInfo.h (trunk) - Sublime Text (UNREGISTERED)
+09:13:45:  D:\00-06\1T1-Stop-Length\trunk\Applications\CashBoxInfo\CashBoxInfo.c (trunk) - Sublime Text (UNREGISTERED)
+09:13:50:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:14:20:  1T1-82
+09:14:25:  D:\00-06\1T1-82 - 日志信息 - TortoiseSVN
+09:14:30:  K64_0000_20201214091130.log - DRB.tat* - TextAnalysisTool.NET
+09:14:35:  CRS调测工具（研发版）V1.0.2.1
+09:14:40:  K64_0000_20201214091130.log - DRB.tat* - TextAnalysisTool.NET
+09:14:20:  1T1-82
+09:14:25:  D:\00-06\1T1-82 - 日志信息 - TortoiseSVN
+09:14:30:  K64_0000_20201214091130.log - DRB.tat* - TextAnalysisTool.NET
+09:14:35:  CRS调测工具（研发版）V1.0.2.1
+09:14:40:  K64_0000_20201214091130.log - DRB.tat* - TextAnalysisTool.NET
+09:15:05:  CRS调测工具（研发版）V1.0.2.1
+09:15:20:  K64_0000_20201214091130.log - DRB.tat* - TextAnalysisTool.NET
+09:15:55:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:16:00:  D:\CRS\KE18-UP\FwLib\SystemView\Config\SEGGER_SYSVIEW_Conf.h (trunk) - Sublime Text (UNREGISTERED)
+09:16:05:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:16:55:  CRS调测工具（研发版）V1.0.2.1
+09:17:00:  钞箱传感器
+09:17:05:  CRS调测工具（研发版）V1.0.2.1
+09:17:15:  桌面整理
+09:17:20:  DRB传感器.txt - 记事本
+09:17:25:  CRS调测工具（研发版）V1.0.2.1
+09:17:50:  Microsoft Windows
+09:17:55:  CRS调测工具（研发版）V1.0.2.1
+09:19:05:  1T1-82
+09:19:10:  trunk
+09:19:15:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+09:19:20:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:19:35:  trunk
+09:19:40:  SECSplashWnd
+09:19:45:  μVision
+09:19:50:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+09:20:10:  打开
+09:20:30:  CRS调测工具（研发版）V1.0.2.1
+09:20:50:  锁屏状态
+09:20:55:  Project
+09:21:00:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+09:21:05:  打开
+09:21:15:  CRS调测工具（研发版）V1.0.2.1
+09:23:40:  Microsoft Windows
+09:27:40:  Tools
+09:27:45:  CRSTestTool
+09:27:55:  CRS调测工具（研发版）V1.0.2.1
+09:28:05:  查找
+09:28:25:  CRS调测工具（研发版）V1.0.2.1
+09:28:35:  查找
+09:28:50:  ErrCode_list_txt_flg.txt - 记事本
+09:29:10:  计算器
+09:29:25:  CRS调测工具（研发版）V1.0.2.1
+09:29:45:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+09:29:50:  K64_0000_20201214092742.log - DRB.tat* - TextAnalysisTool.NET
+09:28:05:  查找
+09:28:25:  CRS调测工具（研发版）V1.0.2.1
+09:28:35:  查找
+09:28:50:  ErrCode_list_txt_flg.txt - 记事本
+09:29:10:  计算器
+09:29:25:  CRS调测工具（研发版）V1.0.2.1
+09:29:45:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+09:29:50:  K64_0000_20201214092742.log - DRB.tat* - TextAnalysisTool.NET
+09:30:25:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:30:30:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:31:00:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+09:31:05:  20201214
+09:31:10:  本地磁盘 (D:)
+09:31:15:  1T1-Stop-Length
+09:31:20:  D:\00-06\1T1-Stop-Length\trunk\Tools\CreateJK.exe
+09:31:25:  Tools
+09:31:50:  打开
+09:31:55:  CRS调测工具（研发版）V1.0.2.1
+09:32:15:  CRSTestTool
+09:32:20:  CRS调测工具（研发版）V1.0.2.1
+09:33:15:  钞箱配置
+09:33:30:  CRS调测工具（研发版）V1.0.2.1
+09:33:35:  盘点
+09:33:40:  注意!
+09:33:45:  CRS调测工具（研发版）V1.0.2.1
+09:34:15:  钞箱配置
+09:34:25:  盘点
+09:34:30:  CRS调测工具（研发版）V1.0.2.1
+09:35:35:  记事本
+09:35:40:  查找
+09:35:45:  CRS调测工具（研发版）V1.0.2.1
+09:35:50:  1T1-Stop-Length
+09:35:55:  20201214
+09:36:00:  K64_0000_20201214093427.log - DRB.tat* - TextAnalysisTool.NET
+09:37:10:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:37:20:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:37:30:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:38:00:  CRS调测工具（研发版）V1.0.2.1
+09:38:20:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:38:35:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:39:00:  D:\00-06\1T1-Stop-Length\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+09:39:10:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:40:35:  盘点
+09:40:45:  CRS调测工具（研发版）V1.0.2.1
+09:43:20:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:43:30:  CRS调测工具（研发版）V1.0.2.1
+09:44:20:  盘点
+09:44:25:  CRS调测工具（研发版）V1.0.2.1
+09:44:20:  盘点
+09:44:25:  CRS调测工具（研发版）V1.0.2.1
+09:45:25:  Microsoft Windows
+09:45:30:  CRS调测工具（研发版）V1.0.2.1
+09:45:45:  盘点
+09:45:55:  CRS调测工具（研发版）V1.0.2.1
+09:46:05:  记事本
+09:46:10:  查找
+09:46:20:  盘点
+09:46:25:  CRS调测工具（研发版）V1.0.2.1
+09:46:35:  DRB传感器.txt - 记事本
+09:46:40:  CRS调测工具（研发版）V1.0.2.1
+09:48:35:  钞箱配置
+09:48:45:  CRS调测工具（研发版）V1.0.2.1
+09:51:15:  DRB传感器.txt - 记事本
+09:51:30:  CRS调测工具（研发版）V1.0.2.1
+09:53:10:  Decode
+09:53:15:  K64_0000_20201214095205.log - DRB.tat* - TextAnalysisTool.NET
+09:53:55:  CRS调测工具（研发版）V1.0.2.1
+09:54:05:  K64_0000_20201214095205.log - DRB.tat* - TextAnalysisTool.NET
+09:54:30:  CRS调测工具（研发版）V1.0.2.1
+09:56:00:  CRSTestTool
+09:56:05:  CRS调测工具（研发版）V1.0.2.1
+10:01:05:  20201214
+10:01:15:  K64_0000_20201214095938.log - DRB.tat* - TextAnalysisTool.NET
+10:01:55:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:04:10:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:04:15:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:04:20:  CRS调测工具（研发版）V1.0.2.1
+10:04:50:  DRB传感器.txt - 记事本
+10:04:55:  CRS调测工具（研发版）V1.0.2.1
+10:05:20:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:05:30:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:06:00:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c • (trunk) - Sublime Text (UNREGISTERED)
+10:06:05:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+10:06:15:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c • (trunk) - Sublime Text (UNREGISTERED)
+10:07:35:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:07:40:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c • (trunk) - Sublime Text (UNREGISTERED)
+10:07:45:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Sensor\Sensor.h (trunk) - Sublime Text (UNREGISTERED)
+10:07:50:  D:\00-06\1T1-Stop-Length\trunk\FwLib\OpticalSensor\OpticalSensor.h (trunk) - Sublime Text (UNREGISTERED)
+10:07:55:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c • (trunk) - Sublime Text (UNREGISTERED)
+10:08:45:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:08:50:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c • (trunk) - Sublime Text (UNREGISTERED)
+10:09:00:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:09:50:  Tools
+10:10:00:  CRS调测工具（研发版）V1.0.2.1
+10:10:25:  Microsoft Windows
+10:10:30:  CRS调测工具（研发版）V1.0.2.1
+10:13:15:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:13:35:  trunk
+10:13:40:  PlateCtrl.c - TortoiseMerge
+10:13:45:  Plate.c - TortoiseMerge
+10:14:15:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:15:00:  trunk
+10:14:15:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+10:15:00:  trunk
+10:15:05:  CRS调测工具（研发版）V1.0.2.1
+10:15:20:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:15:50:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:16:10:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:16:20:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:16:50:  锁屏状态
+10:16:55:  CRS调测工具（研发版）V1.0.2.1
+10:17:45:  20201214
+10:17:50:  Decode
+10:17:55:  K64_0000_20201214101654.log - DRB.tat* - TextAnalysisTool.NET
+10:18:20:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:18:25:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:18:35:  D:\00-06\1T1-Stop-Length\trunk\Drivers\SensorDriver\SensorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+10:18:45:  K64_0000_20201214101654.log - DRB.tat* - TextAnalysisTool.NET
+10:19:05:  Add Filter
+10:19:15:  Edit Filter
+10:19:20:  Add Filter
+10:19:25:  Edit Filter
+10:19:30:  K64_0000_20201214101654.log - DRB.tat* - TextAnalysisTool.NET
+10:19:55:  Add Filter
+10:20:05:  K64_0000_20201214101654.log - DRB.tat* - TextAnalysisTool.NET
+10:20:10:  Add Filter
+10:20:15:  Edit Filter
+10:20:20:  K64_0000_20201214101654.log - DRB.tat* - TextAnalysisTool.NET
+10:20:55:  计算器
+10:21:00:  DRB传感器.txt - 记事本
+10:21:05:  K64_0000_20201214101654.log - DRB.tat* - TextAnalysisTool.NET
+10:21:10:  DRB传感器.txt - 记事本
+10:21:15:  K64_0000_20201214101654.log - DRB.tat* - TextAnalysisTool.NET
+10:21:50:  DRB传感器.txt - 记事本
+10:21:55:  K64_0000_20201214101654.log - DRB.tat* - TextAnalysisTool.NET
+10:23:20:  CRS调测工具（研发版）V1.0.2.1
+10:23:30:  CRSTestTool
+10:23:35:  CRS调测工具（研发版）V1.0.2.1
+10:27:21:  CRSTestTool
+10:27:31:  CRS调测工具（研发版）V1.0.2.1
+10:27:36:  Decode
+10:27:41:  20201214
+10:27:46:  K64_0000_20201214101654.log - DRB.tat* - TextAnalysisTool.NET
+10:27:51:  K64_0000_20201214102649.log - DRB.tat* - TextAnalysisTool.NET
+10:29:51:  K64_0000_20201214102604.log - DRB.tat* - TextAnalysisTool.NET
+10:29:51:  K64_0000_20201214102604.log - DRB.tat* - TextAnalysisTool.NET
+10:30:16:  K64_0000_20201214102649.log - DRB.tat* - TextAnalysisTool.NET
+10:32:21:  D:\00-06\1T1-Stop-Length\trunk\Drivers\SensorDriver\SensorDriver.h (trunk) - Sublime Text (UNREGISTERED)
+10:32:36:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:33:36:  K64_0000_20201214102649.log - DRB.tat* - TextAnalysisTool.NET
+10:33:51:  CRS调测工具（研发版）V1.0.2.1
+10:33:56:  K64_0000_20201214102649.log - DRB.tat* - TextAnalysisTool.NET
+10:35:51:  CRS调测工具（研发版）V1.0.2.1
+10:37:01:  K64_0000_20201214102649.log - DRB.tat* - TextAnalysisTool.NET
+10:37:21:  CRS调测工具（研发版）V1.0.2.1
+10:37:31:  CRSTestTool
+10:37:36:  CRS调测工具（研发版）V1.0.2.1
+10:44:31:  Decode
+10:44:41:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+10:44:31:  Decode
+10:44:41:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+10:45:16:  Add Filter
+10:45:26:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+10:46:36:  DRB传感器.txt - 记事本
+10:46:56:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+10:47:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:47:26:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:47:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\CashBoxInfo\CashBoxInfo.h (trunk) - Sublime Text (UNREGISTERED)
+10:47:51:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:47:56:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:48:46:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+10:49:16:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:49:26:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:50:11:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:50:21:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:50:31:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:50:41:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:51:01:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+10:51:16:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:51:21:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:51:36:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:51:41:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:52:31:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+10:52:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+10:53:06:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+10:53:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+10:53:16:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+10:53:21:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:53:46:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+10:54:01:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:55:21:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+10:55:41:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:55:46:  锁屏状态
+10:55:51:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+10:56:41:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:56:51:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+10:57:21:  Add Filter
+10:57:31:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+10:57:51:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:58:26:  Decode
+10:58:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:01:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:06:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:36:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:41:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:46:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+10:58:26:  Decode
+10:58:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:01:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:06:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:36:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:41:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:59:46:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+11:00:16:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:00:36:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+11:01:16:  CRS调测工具（研发版）V1.0.2.1
+11:01:21:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+11:01:26:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:01:41:  CRS调测工具（研发版）V1.0.2.1
+11:01:46:  锁屏状态
+11:01:51:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:02:01:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+11:04:21:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:04:51:  K64_0000_20201214103633.log - DRB.tat* - TextAnalysisTool.NET
+11:05:06:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:05:16:  计算器
+11:05:21:  发送指令到K06
+11:05:26:  CRS调测工具（研发版）V1.0.2.1
+11:05:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:05:41:  D:\00-06\1T1-Stop-Length\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+11:05:46:  CRS调测工具（研发版）V1.0.2.1
+11:05:51:  D:\00-06\1T1-Stop-Length\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)
+11:06:01:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+11:06:06:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:06:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+11:06:16:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:06:21:  计算器
+11:06:26:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:06:31:  CRS调测工具（研发版）V1.0.2.1
+11:06:36:  20201214
+11:06:41:  CRS调测工具（研发版）V1.0.2.1
+11:07:46:  20201214
+11:07:51:  CRS调测工具（研发版）V1.0.2.1
+11:08:01:  Decode
+11:08:06:  K64_0000_20201214110643.log - DRB.tat* - TextAnalysisTool.NET
+11:13:01:  姚世龙
+11:13:31:  「开始」菜单
+11:13:41:  姚世龙
+11:13:51:  Everything
+11:13:56:  minde - Everything
+11:14:01:  mindmas - Everything
+11:14:16:  锁屏状态
+11:14:21:  姚世龙
+11:14:41:  mindmas - Everything
+11:14:46:  姚世龙
+11:15:01:  mindmas - Everything
+11:14:16:  锁屏状态
+11:14:21:  姚世龙
+11:14:41:  mindmas - Everything
+11:14:46:  姚世龙
+11:15:01:  mindmas - Everything
+11:15:06:  姚世龙
+11:15:31:  mindmas - Everything
+11:15:36:  K64_0000_20201214110643.log - DRB.tat* - TextAnalysisTool.NET
+11:15:56:  CRS调测工具（研发版）V1.0.2.1
+11:16:11:  K64_0000_20201214110643.log - DRB.tat* - TextAnalysisTool.NET
+11:17:11:  Edit Filter
+11:17:16:  K64_0000_20201214110643.log - DRB.tat* - TextAnalysisTool.NET
+11:17:51:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:18:06:  K64_0000_20201214110643.log - DRB.tat* - TextAnalysisTool.NET
+11:18:16:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:18:31:  姚世龙
+11:18:36:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:19:21:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Sensor\Sensor.h (trunk) - Sublime Text (UNREGISTERED)
+11:19:26:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+11:19:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:19:36:  K64_0000_20201214110643.log - DRB.tat* - TextAnalysisTool.NET
+11:19:51:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:20:11:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+11:20:16:  K64_0000_20201214110643.log - DRB.tat* - TextAnalysisTool.NET
+11:20:56:  mindmas - Everything
+11:21:01:  visio - Everything
+11:21:21:  visio2013my_jb51.rar - WinRAR (非商业个人版)
+11:21:26:  visio - Everything
+11:21:36:  「开始」菜单
+11:22:06:  姚世龙
+11:22:11:  「开始」菜单
+11:22:21:  SplashForm
+11:22:26:  New Project By Approach
+11:22:31:  StarUML - Untit333led.uml
+11:22:41:  Open
+11:22:46:  姚世龙
+11:22:51:  StarUML - Untit333led.uml
+11:23:01:  姚世龙
+11:23:08:  「开始」菜单
+11:23:13:  New Project By Approach
+11:23:23:  StarUML - Plate.uml
+11:24:08:  姚世龙
+11:24:38:  visio - Everything
+11:24:48:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+11:24:53:  姚世龙
+11:24:58:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:25:33:  D:\00-06\1T1-Stop-Length\trunk\Applications\CashBoxInfo\CashBoxInfo.c (trunk) - Sublime Text (UNREGISTERED)
+11:25:48:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:29:23:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:29:53:  锁屏状态
+11:30:03:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:29:23:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:29:53:  锁屏状态
+11:30:03:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:30:13:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012141129.log
+11:30:18:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:30:28:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012141129.log
+11:30:53:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+11:31:03:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:31:33:  KE06LOG.bat - 快捷方式 (2)
+11:31:38:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012141131.log
+11:32:28:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:32:38:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012141131.log
+11:33:08:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:33:23:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012141131.log
+11:33:38:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:33:48:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012141131.log
+11:34:38:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:34:43:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012141131.log
+11:35:13:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:35:38:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012141131.log
+11:35:43:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:35:58:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:36:13:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:36:58:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012141131.log
+11:37:28:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:37:33:  锁屏状态
+11:37:38:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:37:53:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+11:38:18:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+11:38:23:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+11:39:13:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012141139.log
+11:40:23:  锁屏状态
+13:09:48:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012141139.log
+13:10:03:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:10:38:  自动播放
+13:11:08:  新建文本文档.exe - 快捷方式
+13:11:33:  跳转列表
+13:11:38:  姚世龙
+13:11:43:  dist
+13:11:53:  getTheDieal
+13:12:03:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+13:12:08:  *Python 3.7.3 Shell*
+13:12:13:  Python 3.7.3 Shell
+13:12:28:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+13:12:33:  Microsoft Excel
+13:12:38:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+13:12:43:  getTheDieal
+13:12:48:  DRB传感器.txt - 记事本
+13:12:53:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:13:33:  所有笔记本 - 张开发 - 印象笔记
+13:13:38:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:14:13:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+13:14:13:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+13:16:48:  跳转列表
+13:17:08:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+13:19:18:  KE06LOG.bat - 快捷方式 (2)
+13:19:23:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+13:19:53:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012141319.log
+13:19:58:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+13:20:13:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202012141319.log
+13:21:13:  K64_0000_20201214110643.log - DRB.tat* - TextAnalysisTool.NET
+13:23:58:  锁屏状态
+13:24:03:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:24:13:  K64_0000_20201214110643.log - DRB.tat* - TextAnalysisTool.NET
+13:24:18:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:25:39:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+13:25:54:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:25:59:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+13:26:09:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:26:14:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+13:30:39:  CRS调测工具（研发版）V1.0.2.1
+13:31:54:  CRSTestTool
+13:31:59:  CRS调测工具（研发版）V1.0.2.1
+13:32:09:  钞箱配置
+13:32:14:  CRS调测工具（研发版）V1.0.2.1
+13:32:19:  发送指令到K06
+13:32:44:  CRS调测工具（研发版）V1.0.2.1
+13:33:59:  20201214
+13:34:04:  K64_0000_20201214133247.log - DRB.tat* - TextAnalysisTool.NET
+13:34:49:  Add Filter
+13:34:59:  K64_0000_20201214133247.log - DRB.tat* - TextAnalysisTool.NET
+13:36:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:37:14:  K64_0000_20201214133247.log - DRB.tat* - TextAnalysisTool.NET
+13:37:34:  Decode
+13:37:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:37:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\CashBoxInfo\CashBoxInfo.c (trunk) - Sublime Text (UNREGISTERED)
+13:37:54:  K64_0000_20201214133247.log - DRB.tat* - TextAnalysisTool.NET
+13:37:59:  D:\00-06\1T1-Stop-Length\trunk\Applications\CashBoxInfo\CashBoxInfo.c (trunk) - Sublime Text (UNREGISTERED)
+13:38:04:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:38:09:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+13:39:19:  D:\00-06\1T1-Stop-Length\trunk\Applications\CashBoxInfo\CashBoxInfo.c (trunk) - Sublime Text (UNREGISTERED)
+13:39:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+13:39:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\CashBoxInfo\CashBoxInfo.c (trunk) - Sublime Text (UNREGISTERED)
+13:39:44:  K64_0000_20201214133247.log - DRB.tat* - TextAnalysisTool.NET
+13:39:49:  Add Filter
+13:39:54:  K64_0000_20201214133247.log - DRB.tat* - TextAnalysisTool.NET
+13:40:09:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:40:14:  K64_0000_20201214133247.log - DRB.tat* - TextAnalysisTool.NET
+13:43:14:  E:\深圳出差\gfgd\Rtos\RtosApi\RtosApiVersion.h (gfgd) - Sublime Text (UNREGISTERED)
+13:43:24:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:44:49:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageOut.c (gfgd) - Sublime Text (UNREGISTERED)
+13:44:54:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:44:49:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageOut.c (gfgd) - Sublime Text (UNREGISTERED)
+13:44:54:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:45:49:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:46:34:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModuleApp.h (gfgd) - Sublime Text (UNREGISTERED)
+13:46:44:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:47:19:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:48:14:  E:\深圳出差\gfgd\Applications\FlowControl\CashBox\CashBoxStatus.c (gfgd) - Sublime Text (UNREGISTERED)
+13:48:29:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:48:34:  E:\深圳出差\gfgd\Applications\FlowControl\CashBox\CashBoxStatus.c (gfgd) - Sublime Text (UNREGISTERED)
+13:48:39:  E:\深圳出差\gfgd\Applications\StateCheck\StateCheck.c (gfgd) - Sublime Text (UNREGISTERED)
+13:49:04:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:49:09:  E:\深圳出差\gfgd\Applications\FlowControl\CashBox\CashBoxStatus.c (gfgd) - Sublime Text (UNREGISTERED)
+13:49:19:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:49:24:  E:\深圳出差\gfgd\Applications\StateCheck\StateCheck.c (gfgd) - Sublime Text (UNREGISTERED)
+13:49:29:  E:\深圳出差\gfgd\Applications\FlowControl\CashBox\CashBoxStatus.c (gfgd) - Sublime Text (UNREGISTERED)
+13:49:34:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.c (gfgd) - Sublime Text (UNREGISTERED)
+13:49:39:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.h (gfgd) - Sublime Text (UNREGISTERED)
+13:49:44:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.c (gfgd) - Sublime Text (UNREGISTERED)
+13:50:14:  K64_0000_20201214133247.log - DRB.tat* - TextAnalysisTool.NET
+13:50:19:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.c (gfgd) - Sublime Text (UNREGISTERED)
+13:50:34:  K64_0000_20201214133247.log - DRB.tat* - TextAnalysisTool.NET
+13:50:44:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.c (gfgd) - Sublime Text (UNREGISTERED)
+13:50:49:  E:\深圳出差\gfgd\Applications\FlowControl\CashBox\CashBoxStatus.h (gfgd) - Sublime Text (UNREGISTERED)
+13:50:54:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.c (gfgd) - Sublime Text (UNREGISTERED)
+13:50:59:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:51:19:  E:\深圳出差\gfgd\Applications\CanComm\CashBoxComm\CashBoxComm.c (gfgd) - Sublime Text (UNREGISTERED)
+13:51:24:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.h (gfgd) - Sublime Text (UNREGISTERED)
+13:51:29:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:51:49:  E:\深圳出差\gfgd\Applications\FlowControl\CashBox\CashBoxStatus.c (gfgd) - Sublime Text (UNREGISTERED)
+13:51:54:  于斌1
+13:52:09:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:52:24:  E:\深圳出差\gfgd\Applications\StateCheck\StateCheck.c (gfgd) - Sublime Text (UNREGISTERED)
+13:52:49:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.h (gfgd) - Sublime Text (UNREGISTERED)
+13:52:54:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:52:59:  E:\深圳出差\gfgd\Applications\StateCheck\StateCheck.c (gfgd) - Sublime Text (UNREGISTERED)
+13:53:09:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:53:39:  于斌1
+13:57:34:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:57:39:  E:\深圳出差\gfgd\Applications\StateCheck\StateCheck.c (gfgd) - Sublime Text (UNREGISTERED)
+13:57:44:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:57:59:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+13:58:04:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:58:54:  E:\深圳出差\gfgd\Applications\Common\AppCommon.h (gfgd) - Sublime Text (UNREGISTERED)
+13:58:59:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:04:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:44:  K64_0000_20201214133247.log - DRB.tat* - TextAnalysisTool.NET
+13:59:49:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:54:  E:\深圳出差\gfgd\Applications\StateCheck\StateCheck.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:59:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:58:54:  E:\深圳出差\gfgd\Applications\Common\AppCommon.h (gfgd) - Sublime Text (UNREGISTERED)
+13:58:59:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:04:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:44:  K64_0000_20201214133247.log - DRB.tat* - TextAnalysisTool.NET
+13:59:49:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:54:  E:\深圳出差\gfgd\Applications\StateCheck\StateCheck.c (gfgd) - Sublime Text (UNREGISTERED)
+13:59:59:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+14:00:09:  K64_0000_20201214133247.log - DRB.tat* - TextAnalysisTool.NET
+14:01:29:  E:\深圳出差\gfgd\Applications\StateCheck\StateCheck.c (gfgd) - Sublime Text (UNREGISTERED)
+14:01:34:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c (gfgd) - Sublime Text (UNREGISTERED)
+14:02:59:  E:\深圳出差\gfgd\Applications\FlowControl\FlowCtrl.c • (gfgd) - Sublime Text (UNREGISTERED)
+14:03:24:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+14:04:29:  E:\深圳出差\gfgd\Applications\FlowControl\PageManage\PageManageOut.c (gfgd) - Sublime Text (UNREGISTERED)
+14:04:44:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (gfgd) - Sublime Text (UNREGISTERED)
+14:05:04:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+14:05:44:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c • (gfgd) - Sublime Text (UNREGISTERED)
+14:05:59:  E:\深圳出差\gfgd\Applications\FlowControl\TrackModule\GateModule.c (gfgd) - Sublime Text (UNREGISTERED)
+14:06:14:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+14:08:20:  本地磁盘 (E:)
+14:08:25:  E:\深圳出差\gfgd\Tools\CreateJK.exe
+14:08:30:  CRS调测工具（研发版）V1.0.2.1
+14:08:35:  打开
+14:08:50:  CRS调测工具（研发版）V1.0.2.1
+14:08:55:  打开
+14:09:10:  CRS调测工具（研发版）V1.0.2.1
+14:11:40:  可接收
+14:11:45:  CRS调测工具（研发版）V1.0.2.1
+14:13:05:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+14:13:20:  Internet Explorer
+14:13:25:  「开始」菜单
+14:13:30:  Starting Fiddler...
+14:13:40:  提示
+14:13:45:  Progress Telerik Fiddler Web Debugger
+14:13:50:  系统登录 - Internet Explorer
+14:13:55:  Progress Telerik Fiddler Web Debugger
+14:14:00:  新北洋OA信息化平台 - Internet Explorer
+14:14:05:  Progress Telerik Fiddler Web Debugger
+14:14:15:  CRS调测工具（研发版）V1.0.2.1
+14:14:20:  提示
+14:14:25:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:14:40:  Python 3.7.3 Shell
+14:14:50:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:14:05:  Progress Telerik Fiddler Web Debugger
+14:14:15:  CRS调测工具（研发版）V1.0.2.1
+14:14:20:  提示
+14:14:25:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:14:40:  Python 3.7.3 Shell
+14:14:50:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:15:10:  *Python 3.7.3 Shell*
+14:15:15:  锁屏状态
+14:15:20:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:15:25:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:15:35:  Progress Telerik Fiddler Web Debugger
+14:15:40:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:15:45:  *Python 3.7.3 Shell*
+14:15:50:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:16:00:  *Python 3.7.3 Shell*
+14:16:10:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:16:30:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:16:35:  *Python 3.7.3 Shell*
+14:16:45:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:16:55:  Save Before Run or Check
+14:17:00:  *Python 3.7.3 Shell*
+14:17:05:  Progress Telerik Fiddler Web Debugger
+14:17:10:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:17:15:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:17:45:  Progress Telerik Fiddler Web Debugger
+14:19:25:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:19:30:  Progress Telerik Fiddler Web Debugger
+14:19:45:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:21:00:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:21:15:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:21:25:  *Python 3.7.3 Shell*
+14:21:35:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:21:55:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:22:00:  *Python 3.7.3 Shell*
+14:22:05:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:22:10:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:22:15:  *Python 3.7.3 Shell*
+14:22:30:  Progress Telerik Fiddler Web Debugger
+14:23:35:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:23:40:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:24:40:  *Python 3.7.3 Shell*
+14:25:30:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:25:35:  Progress Telerik Fiddler Web Debugger
+14:25:45:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:25:50:  *Python 3.7.3 Shell*
+14:25:55:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:26:00:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:26:05:  *Python 3.7.3 Shell*
+14:26:15:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:26:20:  *Python 3.7.3 Shell*
+14:26:30:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:26:40:  锁屏状态
+14:26:45:  新标签页 - Google Chrome
+14:27:00:  百度一下，你就知道 - Google Chrome
+14:27:05:  python 列表与字典相互转换 - 淡淡的风景 - 博客园 - Google Chrome
+14:27:10:  python转字典_百度搜索 - Google Chrome
+14:27:15:  Python字符串转为字典方法大全 - dieyaxianju - 博客园 - Google Chrome
+14:27:25:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:27:35:  *Python 3.7.3 Shell*
+14:27:50:  Python字符串转为字典方法大全 - dieyaxianju - 博客园 - Google Chrome
+14:28:05:  *Python 3.7.3 Shell*
+14:28:10:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:28:15:  Python字符串转为字典方法大全 - dieyaxianju - 博客园 - Google Chrome
+14:28:20:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:28:25:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:28:30:  Python字符串转为字典方法大全 - dieyaxianju - 博客园 - Google Chrome
+14:28:35:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:28:45:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:28:50:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:28:55:  Save Before Run or Check
+14:29:00:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:29:05:  Python 3.7.3 Shell
+14:29:10:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:29:20:  getTheDieal
+14:29:25:  F:\小程序\getTheDieal\GetTheideal.py (trunk) - Sublime Text (UNREGISTERED)
+14:29:30:  F:\小程序\getTheDieal\GetTheideal.py • (trunk) - Sublime Text (UNREGISTERED)
+14:29:40:  getTheDieal
+14:29:50:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:30:00:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:28:05:  *Python 3.7.3 Shell*
+14:28:10:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:28:15:  Python字符串转为字典方法大全 - dieyaxianju - 博客园 - Google Chrome
+14:28:20:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:28:25:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:28:30:  Python字符串转为字典方法大全 - dieyaxianju - 博客园 - Google Chrome
+14:28:35:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:28:45:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:28:50:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:28:55:  Save Before Run or Check
+14:29:00:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:29:05:  Python 3.7.3 Shell
+14:29:10:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:29:20:  getTheDieal
+14:29:25:  F:\小程序\getTheDieal\GetTheideal.py (trunk) - Sublime Text (UNREGISTERED)
+14:29:30:  F:\小程序\getTheDieal\GetTheideal.py • (trunk) - Sublime Text (UNREGISTERED)
+14:29:40:  getTheDieal
+14:29:50:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:30:00:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:30:05:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:30:15:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:30:20:  *Python 3.7.3 Shell*
+14:30:25:  Kill?
+14:30:30:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:30:35:  F:\小程序\getTheDieal\GetTheideal.py • (trunk) - Sublime Text (UNREGISTERED)
+14:30:40:  getTheDieal
+14:30:45:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:30:50:  *Python 3.7.3 Shell*
+14:31:20:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:31:25:  *Python 3.7.3 Shell*
+14:31:30:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:31:35:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:31:45:  *Python 3.7.3 Shell*
+14:31:50:  Kill?
+14:31:55:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:32:00:  Save Before Run or Check
+14:32:05:  *Python 3.7.3 Shell*
+14:32:10:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:32:15:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:32:20:  *Python 3.7.3 Shell*
+14:32:30:  Python 3.7.3 Shell
+14:32:35:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:32:40:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:32:45:  *Python 3.7.3 Shell*
+14:32:55:  Kill?
+14:33:00:  *Python 3.7.3 Shell*
+14:33:40:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:33:45:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:33:50:  Save Before Run or Check
+14:33:55:  *Python 3.7.3 Shell*
+14:34:05:  Python 3.7.3 Shell
+14:34:10:  *Python 3.7.3 Shell*
+14:34:20:  Python 3.7.3 Shell
+14:34:50:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:34:55:  *Python 3.7.3 Shell*
+14:35:05:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:35:10:  *Python 3.7.3 Shell*
+14:35:20:  Python 3.7.3 Shell
+14:35:30:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:35:35:  *Python 3.7.3 Shell*
+14:35:40:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:35:50:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:35:55:  *Python 3.7.3 Shell*
+14:36:05:  Python 3.7.3 Shell
+14:36:20:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:36:30:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:36:40:  *Python 3.7.3 Shell*
+14:36:55:  Python 3.7.3 Shell
+14:37:10:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:37:15:  *Python 3.7.3 Shell*
+14:37:20:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:37:30:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:37:35:  *Python 3.7.3 Shell*
+14:37:45:  Python 3.7.3 Shell
+14:38:10:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:38:15:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:38:20:  *Python 3.7.3 Shell*
+14:38:25:  Kill?
+14:38:30:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:38:35:  *Python 3.7.3 Shell*
+14:38:45:  Python 3.7.3 Shell
+14:38:50:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:38:55:  *Python 3.7.3 Shell*
+14:39:05:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:39:10:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:39:45:  *Python 3.7.3 Shell*
+14:39:50:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:39:55:  *Python 3.7.3 Shell*
+14:40:05:  Python 3.7.3 Shell
+14:40:10:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:40:30:  *Python 3.7.3 Shell*
+14:40:35:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:40:40:  *Python 3.7.3 Shell*
+14:40:45:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:40:50:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:40:55:  *Python 3.7.3 Shell*
+14:41:05:  Python 3.7.3 Shell
+14:41:10:  Search Dialog
+14:41:25:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:41:35:  F:\小程序\getTheDieal\GetTheideal.py (trunk) - Sublime Text (UNREGISTERED)
+14:41:45:  getTheDieal
+14:45:00:  Python 3.7.3 Shell
+14:45:00:  Python 3.7.3 Shell
+14:45:05:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:45:30:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:45:35:  Python 3.7.3 Shell
+14:45:40:  *Python 3.7.3 Shell*
+14:45:45:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:45:50:  *Python 3.7.3 Shell*
+14:45:55:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:46:00:  *Python 3.7.3 Shell*
+14:46:05:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:46:10:  *Python 3.7.3 Shell*
+14:46:25:  Python 3.7.3 Shell
+14:46:30:  Save Before Run or Check
+14:46:35:  Kill?
+14:46:40:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:46:45:  *Python 3.7.3 Shell*
+14:46:55:  Python 3.7.3 Shell
+14:47:00:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:47:20:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:47:25:  Kill?
+14:47:30:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:47:55:  *Python 3.7.3 Shell*
+14:48:00:  Kill?
+14:48:05:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:48:10:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:48:30:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:48:40:  *Python 3.7.3 Shell*
+14:48:45:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:48:50:  *GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)*
+14:48:55:  GetTheideal.py - F:\小程序\getTheDieal\GetTheideal.py (3.7.3)
+14:49:00:  getTheDieal
+14:49:05:  管理员: C:\Windows\system32\cmd.exe
+14:49:20:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F -w GetTheideal.py
+14:49:25:  提示
+14:49:30:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F -w GetTheideal.py
+14:50:20:  小程序
+14:50:30:  文档
+14:50:50:  PostWork.py - C:\Users\zhangkaifa\Documents\PostWork.py (3.7.3)
+14:51:10:  20200514
+14:51:15:  20200507
+14:51:20:  本地磁盘 (F:)
+14:51:25:  PostWork
+14:51:30:  PostWork.py - F:\PostWork\PostWork.py (3.7.3)
+14:51:45:  dist
+14:51:55:  PostWork.py - F:\PostWork\PostWork.py (3.7.3)
+14:52:30:  dist
+14:52:35:  本地磁盘 (F:)
+14:52:40:  「开始」菜单
+14:52:45:  管理员: C:\Windows\system32\cmd.exe
+14:52:50:  Windows 任务管理器
+14:53:05:  管理员: C:\Windows\system32\cmd.exe - pyinstaller  -F -w GetTheideal.py
+14:53:10:  本地磁盘 (F:)
+14:53:15:  计算机管理
+14:54:10:  本地磁盘 (F:)
+14:54:15:  Windows
+14:54:20:  System32
+14:54:25:  11.bmp - Windows 照片查看器
+14:54:30:  1.bmp - Windows 照片查看器
+14:54:35:  计算机管理
+14:54:40:  本地磁盘 (D:)
+14:54:50:  06- 刘建生
+14:54:55:  06 固件日报
+14:55:00:  固件集成测试方案
+14:55:05:  主控板集成测试方案-报告
+14:55:15:  TCR
+14:55:20:  钞箱集成测试方案-报告
+14:55:25:  CRS
+14:55:30:  复制文件
+14:55:35:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:55:40:  主控板集成测试方案-报告
+14:55:45:  Excel
+14:55:50:  Windows 任务管理器
+14:55:55:  5.16.17 Can总线测试V1.0.xls  [受保护的视图] - Excel
+14:56:05:  5.16.17 Can总线测试V1.0.xls  [兼容模式] - Excel
+14:56:35:  K64
+14:56:45:  主控板集成测试方案-报告
+14:56:50:  锁屏状态
+14:56:55:  5.16.17 Can总线.pptx - PowerPoint
+14:57:15:  插入图片
+14:57:30:  Windows 照片查看器
+14:57:35:  Decode
+14:57:40:  scope_2.bmp - Windows 照片查看器
+14:57:50:  插入图片
+14:57:55:  5.16.17 Can总线.pptx - PowerPoint
+14:58:40:  scope_6.bmp - Windows 照片查看器
+14:58:45:  K64
+14:58:50:  5.16.17 Can总线.pptx - PowerPoint
+14:58:55:  插入图片
+14:59:00:  5.16.17 Can总线.pptx - PowerPoint
+14:59:05:  scope_3.bmp - Windows 照片查看器
+14:59:10:  5.16.17 Can总线.pptx - PowerPoint
+14:59:20:  scope_3.bmp - Windows 照片查看器
+14:59:25:  5.16.17 Can总线.pptx - PowerPoint
+14:59:55:  锁屏状态
+14:58:40:  scope_6.bmp - Windows 照片查看器
+14:58:45:  K64
+14:58:50:  5.16.17 Can总线.pptx - PowerPoint
+14:58:55:  插入图片
+14:59:00:  5.16.17 Can总线.pptx - PowerPoint
+14:59:05:  scope_3.bmp - Windows 照片查看器
+14:59:10:  5.16.17 Can总线.pptx - PowerPoint
+14:59:20:  scope_3.bmp - Windows 照片查看器
+14:59:25:  5.16.17 Can总线.pptx - PowerPoint
+14:59:55:  锁屏状态
+15:00:05:  插入图片
+15:00:15:  5.16.17 Can总线.pptx - PowerPoint
+15:00:35:  scope_11.bmp - Windows 照片查看器
+15:00:40:  scope_6.bmp - Windows 照片查看器
+15:01:00:  5.16.17 Can总线.pptx - PowerPoint
+15:01:10:  scope_6.bmp - Windows 照片查看器
+15:01:15:  5.16.17 Can总线.pptx - PowerPoint
+15:01:35:  5.16.17 Can总线测试V1.0.xls  [兼容模式] - Excel
+15:01:55:  计算器
+15:02:05:  scope_6.bmp - Windows 照片查看器
+15:02:15:  scope_5.bmp - Windows 照片查看器
+15:02:25:  scope_6.bmp - Windows 照片查看器
+15:02:35:  scope_10.bmp - Windows 照片查看器
+15:02:40:  scope_16.bmp - Windows 照片查看器
+15:02:50:  scope_2.bmp - Windows 照片查看器
+15:02:55:  scope_16.bmp - Windows 照片查看器
+15:03:00:  scope_6.bmp - Windows 照片查看器
+15:03:10:  锁屏状态
+15:03:15:  5.16.17 Can总线.pptx - PowerPoint
+15:03:45:  scope_6.bmp - Windows 照片查看器
+15:03:50:  scope_7.bmp - Windows 照片查看器
+15:03:55:  scope_6.bmp - Windows 照片查看器
+15:04:35:  插入图片
+15:04:40:  5.16.17 Can总线.pptx - PowerPoint
+15:04:55:  5.16.17 Can总线测试V1.0.xls  [兼容模式] - Excel
+15:05:05:  锁屏状态
+15:05:10:  5.16.17 Can总线.pptx - PowerPoint
+15:05:20:  5.16.17 Can总线测试V1.0.xls  [兼容模式] - Excel
+15:05:35:  5.16.17 Can总线.pptx - PowerPoint
+15:05:40:  锁屏状态
+15:05:45:  5.16.17 Can总线.pptx - PowerPoint
+15:06:25:  插入图片
+15:06:30:  5.16.17 Can总线.pptx - PowerPoint
+15:06:50:  插入图片
+15:06:55:  5.16.17 Can总线.pptx - PowerPoint
+15:07:00:  can
+15:07:05:  5.16.17 Can总线.pptx - PowerPoint
+15:08:05:  scope_22.bmp - Windows 照片查看器
+15:08:10:  5.16.17 Can总线.pptx - PowerPoint
+15:08:20:  锁屏状态
+15:08:25:  5.16.17 Can总线.pptx - PowerPoint
+15:08:30:  插入图片
+15:08:40:  5.16.17 Can总线.pptx - PowerPoint
+15:08:45:  scope_24.bmp - Windows 照片查看器
+15:08:55:  5.16.17 Can总线.pptx - PowerPoint
+15:09:05:  scope_24.bmp - Windows 照片查看器
+15:09:10:  scope_26.bmp - Windows 照片查看器
+15:09:20:  5.16.17 Can总线.pptx - PowerPoint
+15:09:30:  scope_28.bmp - Windows 照片查看器
+15:09:35:  scope_30.bmp - Windows 照片查看器
+15:09:40:  5.16.17 Can总线.pptx - PowerPoint
+15:11:30:  5.16.17 Can总线测试V1.0.xls  [兼容模式] - Excel
+15:14:15:  锁屏状态
+15:14:20:  CRS调测工具（研发版）V1.0.2.1
+15:14:15:  锁屏状态
+15:14:20:  CRS调测工具（研发版）V1.0.2.1
+15:18:25:  scope_21.bmp - Windows 照片查看器
+15:18:40:  CRS调测工具（研发版）V1.0.2.1
+15:21:30:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:22:20:  CRS调测工具（研发版）V1.0.2.1
+15:25:00:  主控板集成测试方案-报告
+15:25:05:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+15:25:10:  5.16.17 Can总线.pptx [受保护的视图] - PowerPoint
+15:25:35:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:25:45:  Adobe Reader
+15:25:50:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:30:45:  5.16.17 Can总线.pptx [受保护的视图] - PowerPoint
+15:30:50:  5.16.17 Can总线.pptx - PowerPoint
+15:31:05:  主控板集成测试方案-报告
+15:31:10:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:32:10:  CRS调测工具（研发版）V1.0.2.1
+15:33:45:  5.16.17 Can总线.pptx - PowerPoint
+15:33:50:  锁屏状态
+15:34:05:  CRS调测工具（研发版）V1.0.2.1
+15:34:10:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:34:55:  5.16.17 Can总线.pptx - PowerPoint
+15:35:05:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:38:40:  CRS调测工具（研发版）V1.0.2.1
+15:41:05:  EXTFEDAD1V10出入钞口控制板.PDF - Adobe Reader
+15:44:10:  06- 刘建生
+15:44:15:  CRS
+15:44:20:  FEDADV10主控板.PDF - Adobe Reader
+15:44:10:  06- 刘建生
+15:44:15:  CRS
+15:44:20:  FEDADV10主控板.PDF - Adobe Reader
+15:54:05:  5.16.17 Can总线.pptx - PowerPoint
+16:09:31:  于斌1
+16:09:46:  计算机
+16:10:01:  B75 (G:)
+16:10:06:  于斌1
+16:10:16:  新建文件夹 (4)
+16:10:21:  桌面整理
+16:10:26:  删除多个项目
+16:10:31:  新建文件夹
+16:10:46:  scope_1.png - Windows 照片查看器
+16:10:51:  scope_0.png - Windows 照片查看器
+16:10:56:  scope_1.png - Windows 照片查看器
+16:11:01:  scope_2.png - Windows 照片查看器
+16:11:06:  scope_3.png - Windows 照片查看器
+16:11:11:  新建文件夹
+16:11:16:  K64
+16:11:21:  scope_4.png - Windows 照片查看器
+16:11:26:  scope_3.png - Windows 照片查看器
+16:11:31:  scope_6.png - Windows 照片查看器
+16:11:36:  新建文件夹
+16:11:41:  5.16.17 Can总线.pptx - PowerPoint
+16:11:56:  插入图片
+16:12:06:  5.16.17 Can总线.pptx - PowerPoint
+16:12:26:  插入图片
+16:12:31:  5.16.17 Can总线.pptx - PowerPoint
+16:12:56:  插入图片
+16:13:01:  5.16.17 Can总线.pptx - PowerPoint
+16:13:06:  插入图片
+16:13:11:  5.16.17 Can总线.pptx - PowerPoint
+16:13:21:  插入图片
+16:13:31:  5.16.17 Can总线.pptx - PowerPoint
+16:13:46:  开始
+16:13:56:  5.16.17 Can总线测试V1.0.xls  [兼容模式] - Excel
+16:14:01:  锁屏状态
+16:14:06:  5.16.17 Can总线测试V1.0.xls  [兼容模式] - Excel
+16:14:41:  5.16.17 Can总线.pptx - PowerPoint
+16:14:46:  5.16.17 Can总线测试V1.0.xls  [兼容模式] - Excel
+16:14:06:  5.16.17 Can总线测试V1.0.xls  [兼容模式] - Excel
+16:14:41:  5.16.17 Can总线.pptx - PowerPoint
+16:14:46:  5.16.17 Can总线测试V1.0.xls  [兼容模式] - Excel
+16:15:16:  5.16.17 Can总线.pptx - PowerPoint
+16:15:21:  5.16.17 Can总线测试V1.0.xls  [兼容模式] - Excel
+16:15:36:  5.16.17 Can总线.pptx - PowerPoint
+16:15:41:  5.16.17 Can总线测试V1.0.xls  [兼容模式] - Excel
+16:15:56:  5.16.17 Can总线.pptx - PowerPoint
+16:16:01:  5.16.17 Can总线测试V1.0.xls  [兼容模式] - Excel
+16:16:16:  5.16.17 Can总线.pptx - PowerPoint
+16:16:21:  5.16.17 Can总线测试V1.0.xls  [兼容模式] - Excel
+16:17:06:  5.16.17 Can总线.pptx - PowerPoint
+16:17:11:  5.16.17 Can总线测试V1.0.xls  [兼容模式] - Excel
+16:17:21:  5.16.17 Can总线.pptx - PowerPoint
+16:17:26:  1张50元回收箱堆叠异常
+16:17:31:  主控板集成测试方案-报告
+16:17:36:  06 固件日报
+16:17:41:  固件集成测试方案
+16:17:46:  文件正在使用
+16:17:51:  Project Professional - CRS集成测试计划.mpp [只读]
+16:18:36:  任务信息
+16:18:41:  Project Professional - CRS集成测试计划.mpp [只读]
+16:18:46:  于斌1
+16:18:56:  Project Professional - CRS集成测试计划.mpp [只读]
+16:19:16:  任务信息
+16:19:26:  规划向导
+16:19:31:  Project Professional - CRS集成测试计划.mpp [只读]
+16:21:06:  文档已做过修改
+16:21:11:  Project Professional - CRS集成测试计划.mpp
+16:21:56:  于斌1
+16:22:01:  Project Professional - CRS集成测试计划.mpp
+16:22:11:  于斌1
+16:22:21:  Project Professional - CRS集成测试计划.mpp
+16:22:26:  任务信息
+16:22:36:  Project Professional - CRS集成测试计划.mpp
+16:22:41:  于斌1
+16:22:56:  Project Professional - CRS集成测试计划.mpp
+16:23:01:  于斌1
+16:23:06:  Project Professional - CRS集成测试计划.mpp
+16:26:06:  Microsoft Windows
+16:28:21:  主控板集成测试方案-报告
+16:28:26:  5.16.17 Can总线.pptx [受保护的视图] - PowerPoint
+16:28:46:  于斌1
+16:28:51:  Project Professional - CRS集成测试计划.mpp
+16:29:41:  主控板集成测试方案-报告
+16:29:46:  00-06
+16:28:21:  主控板集成测试方案-报告
+16:28:26:  5.16.17 Can总线.pptx [受保护的视图] - PowerPoint
+16:28:46:  于斌1
+16:28:51:  Project Professional - CRS集成测试计划.mpp
+16:29:41:  主控板集成测试方案-报告
+16:29:46:  00-06
+16:30:06:  所有笔记本 - 张开发 - 印象笔记
+16:30:51:  本地磁盘 (D:)
+16:31:01:  步进电机加速表生成计算公式.xlsx - Excel
+16:31:36:  本地磁盘 (D:)
+16:31:46:  666
+16:31:51:  D:\CRS\666 - 工作副本 - TortoiseSVN
+16:31:56:  StepMotorConfig.c - TortoiseMerge
+16:32:11:  KE18-UP
+16:32:16:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+16:32:21:  StepMotorConfig.c - TortoiseMerge
+16:32:36:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+16:32:41:  KE18-UP
+16:32:46:  D:\CRS\666 - 工作副本 - TortoiseSVN
+16:32:51:  主控板集成测试方案-报告
+16:32:56:  步进电机加速表生成计算公式.xlsx - Excel
+16:33:46:  主控板集成测试方案-报告
+16:33:56:  6.2.2.5 钞箱测试1T1 .xls  [兼容模式] - Excel
+16:35:46:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:35:51:  本地磁盘 (D:)
+16:35:56:  00-KE64
+16:36:01:  深圳出差
+16:36:06:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+16:36:11:  Rtos
+16:36:16:  Rtthread
+16:36:21:  gfgd
+16:36:26:  FwLib
+16:36:31:  SystemView
+16:36:36:  gfgd
+16:36:46:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:37:01:  Add Files to Group 'FwLib'
+16:37:26:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:37:36:  于斌1
+16:37:51:  E:\深圳出差\gfgd\Project\k64_rtt.uvprojx - μVision
+16:38:01:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+16:38:46:  InstrProc1D.c Revision 779 - TortoiseMerge
+16:38:51:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+16:39:31:  utility.c Revision 777 - TortoiseMerge
+16:39:36:  E:\深圳出差\gfgd - 日志信息 - TortoiseSVN
+16:39:41:  gfgd
+16:39:46:  跳转列表
+16:40:16:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:40:21:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+16:40:31:  Microsoft Windows
+16:40:46:  新建文本文档.exe - 快捷方式
+16:41:01:  GetTheideal.exe - 快捷方式 属性
+16:41:06:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+16:41:47:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:42:12:  Microsoft Windows
+16:42:27:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+16:42:48:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+16:42:58:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:43:08:  ● CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+16:43:13:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+16:43:33:  本地磁盘 (E:)
+16:43:38:  *Python 3.7.3 Shell*
+16:43:43:  CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)
+16:44:14:  *CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)*
+16:44:24:  *Python 3.7.3 Shell*
+16:44:29:  CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)
+16:44:34:  *Python 3.7.3 Shell*
+16:44:39:  CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)
+16:44:54:  *CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)*
+16:45:04:  CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)
+16:44:14:  *CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)*
+16:44:24:  *Python 3.7.3 Shell*
+16:44:29:  CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)
+16:44:34:  *Python 3.7.3 Shell*
+16:44:39:  CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)
+16:44:54:  *CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)*
+16:45:04:  CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)
+16:45:10:  Python 3.7.3 Shell
+16:45:15:  CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)
+16:45:20:  TheBo.txt - 记事本
+16:45:25:  本地磁盘 (E:)
+16:45:30:  CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)
+16:45:40:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+16:45:45:  CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)
+16:45:55:  Microsoft Windows
+16:46:00:  CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)
+16:46:05:  *CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)*
+16:46:10:  Python 3.7.3 Shell
+16:46:15:  Save Before Run or Check
+16:46:20:  Python 3.7.3 Shell
+16:46:25:  CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)
+16:46:35:  Python 3.7.3 Shell
+16:46:40:  *Python 3.7.3 Shell*
+16:46:45:  CheckTheBookTital.py - E:\CheckTheBookTital.py (3.7.3)
+16:46:51:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+16:47:11:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+16:48:41:  TD回复格式.docx [兼容模式] - Word
+16:49:26:  GetTheideal.exe - 快捷方式 属性
+16:50:17:  TD回复格式.docx [兼容模式] - Word
+16:50:32:  GetTheideal.exe - 快捷方式 属性
+16:51:37:  TD回复格式.docx [兼容模式] - Word
+16:52:02:  Microsoft Windows
+16:52:37:  TD回复格式.docx [兼容模式] - Word
+16:52:42:  Microsoft Windows
+16:53:02:  TD回复格式.docx [兼容模式] - Word
+16:53:07:  LowerPlate.c - DRB-NearFull - Visual Studio Code [管理员]
+16:57:22:  CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]
+16:57:27:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+16:57:32:  设置 - DRB-NearFull - Visual Studio Code [管理员]
+16:57:38:  LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]
+17:03:08:  TD回复格式.docx [兼容模式] - Word
+17:05:13:  Microsoft Windows
+17:05:23:  新建文本文档.exe - 快捷方式
+17:05:28:  eSpace
+17:05:38:  Microsoft Windows
+17:05:43:  吉哲
+17:05:58:  TD回复格式.docx [兼容模式] - Word
+17:07:08:  锁屏状态

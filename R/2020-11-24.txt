@@ -1,0 +1,96 @@
+2020-11-23 23:45:02-- 00:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 00:00:02-- 00:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 00:15:02-- 00:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 00:30:02-- 00:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 00:45:02-- 01:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 01:00:02-- 01:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 01:15:02-- 01:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 01:30:02-- 01:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 01:45:03-- 02:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 02:00:03-- 02:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 02:15:03-- 02:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 02:30:03-- 02:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 02:45:03-- 03:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 03:00:03-- 03:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 03:15:03-- 03:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 03:30:03-- 03:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 03:45:03-- 04:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 04:00:04-- 04:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 04:15:04-- 04:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 04:30:04-- 04:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 04:45:04-- 05:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 05:00:04-- 05:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 05:15:04-- 05:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 05:30:04-- 05:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 05:45:00-- 06:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 06:00:00-- 06:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 06:15:00-- 06:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 06:30:00-- 06:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 06:45:00-- 07:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 07:00:00-- 07:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 07:15:00-- 07:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 07:30:01-- 07:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 07:45:01-- 08:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 08:00:01-- 08:15:01     :    一  ：锁屏状态   86/7.16分钟       二  ：Too few initializers for aggregate 'sInstrStruct' of type 'const INSTR_STRUCT [98]' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   60/5.0分钟     三  ：D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c • (666) - Sublime Text (UNREGISTERED)   10/0.83分钟
+2020-11-24 08:15:01-- 08:30:01     :    一  ：计算器   144/12.0分钟       二  ：Too few initializers for aggregate 'sInstrStruct' of type 'const INSTR_STRUCT [98]' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   29/2.41分钟     三  ：自动播放   6/0.5分钟
+2020-11-24 08:30:01-- 08:45:03     :    一  ：问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   96/8.0分钟       二  ：计算器   38/3.16分钟     三  ：Adobe Photoshop CS3   14/1.16分钟
+2020-11-24 08:45:03-- 09:00:03     :    一  ：Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   79/6.58分钟       二  ：问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   17/1.41分钟     三  ：桌面整理   11/0.91分钟
+2020-11-24 09:00:03-- 09:15:03     :    一  ：Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   131/10.9分钟       二  ：比特币交易｜比特币交易平台｜数字货币交易平台｜币安 - Google Chrome   11/0.91分钟     三  ：https://accounts.binancezh.pro/cn/confirm-new-device?email=782464270%40qq.com&return_to=aHR0cHM6Ly9jMmMuYmluYW5jZXpoLnByby9jbi90cmFkZS9idXkvVVNEVA%3D%3D&userType=newYubikey - Google Chrome   10/0.83分钟
+2020-11-24 09:15:03-- 09:30:04     :    一  ：网易有道词典   75/6.25分钟       二  ：Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   57/4.75分钟     三  ：活动 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   10/0.83分钟
+2020-11-24 09:30:04-- 09:45:04     :    一  ：Possible access of out-of-bounds pointer (1 beyond end of data) by operator '[' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\PeripheralDriver\Ke06bsp\ftm.c: lines 302, 323] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   95/7.91分钟       二  ：Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   34/2.83分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)   24/2.0分钟
+2020-11-24 09:45:04-- 10:00:04     :    一  ：UpperPlate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   148/12.3分钟       二  ：网易有道词典   10/0.83分钟     三  ：local macro 'DISTANCE_FULL_TO_BOTTOM_NEW' (line 40, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Middlewares\Plate\UpperPlate.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   9/0.75分钟
+2020-11-24 10:00:04-- 10:15:04     :    一  ：于斌1   78/6.5分钟       二  ：UpperPlate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   61/5.08分钟     三  ：回复: 回复: 刘雅银行流水   17/1.41分钟
+2020-11-24 10:15:04-- 10:30:04     :    一  ：0-工作 - 张开发 - 印象笔记   42/3.5分钟       二  ：local macro 'DISTANCE_FULL_TO_BOTTOM_NEW' (line 40, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Middlewares\Plate\UpperPlate.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   41/3.41分钟     三  ：于斌1   36/3.0分钟
+2020-11-24 10:30:04-- 10:45:00     :    一  ：UpperPlate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   48/4.0分钟       二  ：local macro 'DISTANCE_FULL_TO_BOTTOM_NEW' (line 40, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Middlewares\Plate\UpperPlate.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   41/3.41分钟     三  ：Adobe Photoshop CS3 Extended   37/3.08分钟
+2020-11-24 10:45:00-- 11:00:00     :    一  ：local macro 'DISTANCE_FULL_TO_BOTTOM_NEW' (line 40, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Middlewares\Plate\UpperPlate.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   148/12.3分钟       二  ：Adobe Photoshop CS3 Extended   17/1.41分钟     三  ：于斌1   4/0.33分钟
+2020-11-24 11:00:00-- 11:15:00     :    一  ：UpperPlate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   101/8.41分钟       二  ：Adobe Photoshop CS3 Extended   31/2.58分钟     三  ：于斌1   24/2.0分钟
+2020-11-24 11:15:00-- 11:30:00     :    一  ：UpperPlate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   78/6.5分钟       二  ：Too few initializers for aggregate 'sInstrStruct' of type 'const INSTR_STRUCT [98]' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   25/2.08分钟     三  ：Adobe Photoshop CS3 Extended   24/2.0分钟
+2020-11-24 11:30:00-- 11:45:00     :    一  ：计算器   54/4.5分钟       二  ：锁屏状态   53/4.41分钟     三  ：问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   26/2.16分钟
+2020-11-24 11:45:00-- 12:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 12:00:00-- 12:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 12:15:00-- 12:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 12:30:01-- 12:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 12:45:01-- 13:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 13:00:01-- 13:15:01     :    一  ：锁屏状态   167/13.9分钟       二  ：问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   13/1.08分钟     三  ：   0/0.0分钟
+2020-11-24 13:15:01-- 13:30:01     :    一  ：FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   104/8.66分钟       二  ：问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   72/6.0分钟     三  ：活动 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   4/0.33分钟
+2020-11-24 13:30:01-- 13:45:02     :    一  ：LowerPlate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   90/7.5分钟       二  ：计算器   23/1.91分钟     三  ：FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   14/1.16分钟
+2020-11-24 13:45:02-- 14:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 14:00:02-- 14:15:03     :    一  ：LowerPlate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   125/10.4分钟       二  ：D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c • (666) - Sublime Text (UNREGISTERED)   17/1.41分钟     三  ：D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)   10/0.83分钟
+2020-11-24 14:15:03-- 14:30:03     :    一  ：D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)   139/11.5分钟       二  ：D:\CRS\666\Applications\PPCtrl\PPCtrl.c (666) - Sublime Text (UNREGISTERED)   40/3.33分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (666) - Sublime Text (UNREGISTERED)   1/0.08分钟
+2020-11-24 14:30:03-- 14:45:03     :    一  ：D:\CRS\666\Applications\PPCtrl\PPCtrl.c (666) - Sublime Text (UNREGISTERED)   144/12.0分钟       二  ：Issues - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   9/0.75分钟     三  ：FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   4/0.33分钟
+2020-11-24 14:45:03-- 15:00:03     :    一  ：于斌1   73/6.08分钟       二  ：问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   68/5.66分钟     三  ：固件设计中心   24/2.0分钟
+2020-11-24 15:00:03-- 15:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 15:15:03-- 15:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 15:30:03-- 15:45:04     :    一  ：Issues - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   53/4.41分钟       二  ：于斌1   41/3.41分钟     三  ：Lock.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   15/1.25分钟
+2020-11-24 15:45:04-- 16:00:04     :    一  ：Issues - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   64/5.33分钟       二  ：于斌1   33/2.75分钟     三  ：eSpace   23/1.91分钟
+2020-11-24 16:00:04-- 16:15:04     :    一  ：Lock.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   25/2.08分钟       二  ：Issues - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   15/1.25分钟     三  ：BR-1-CashBox1T2-Press   15/1.25分钟
+2020-11-24 16:15:04-- 16:30:00     :    一  ：Lock.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   52/4.33分钟       二  ：D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision   46/3.83分钟     三  ：于斌1   13/1.08分钟
+2020-11-24 16:30:00-- 16:45:00     :    一  ：Expecting ';' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   29/2.41分钟       二  ：BldcPid.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   27/2.25分钟     三  ：Log.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   26/2.16分钟
+2020-11-24 16:45:00-- 17:00:00     :    一  ：Selector.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   30/2.5分钟       二  ：Issues - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   27/2.25分钟     三  ：活动 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   27/2.25分钟
+2020-11-24 17:00:00-- 17:15:00     :    一  ：锁屏状态   109/9.08分钟       二  ：Issues - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   40/3.33分钟     三  ：Selector.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   8/0.66分钟
+2020-11-24 17:15:00-- 17:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 17:30:00-- 17:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 17:45:01-- 18:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 18:00:01-- 18:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 18:15:01-- 18:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 18:30:01-- 18:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 18:45:01-- 19:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 19:00:01-- 19:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 19:15:02-- 19:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 19:30:02-- 19:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 19:45:02-- 20:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 20:00:02-- 20:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 20:15:02-- 20:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 20:30:03-- 20:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 20:45:03-- 21:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 21:00:03-- 21:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 21:15:03-- 21:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 21:30:03-- 21:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 21:45:03-- 22:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 22:00:04-- 22:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 22:15:04-- 22:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 22:30:04-- 22:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 22:45:04-- 23:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 23:00:04-- 23:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 23:15:04-- 23:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-24 23:30:00-- 23:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

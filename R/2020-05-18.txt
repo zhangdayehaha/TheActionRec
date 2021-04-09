@@ -1,0 +1,8 @@
+2020-05-18 08:04:33-- 08:30:03     :    一  ：K64__20200511130352   57/4.75分钟       二  ：eSpace   52/4.33分钟     三  ：eSpace Login   29/2.41分钟
+2020-05-18 08:30:03-- 09:00:04     :    一  ：荆文波   122/10.1分钟       二  ：1元测试日志   71/5.91分钟     三  ：TheOneForExcel.xls  [兼容模式] - Excel   46/3.83分钟
+2020-05-18 09:00:04-- 09:30:04     :    一  ：K64__20200511130352   76/6.33分钟       二  ：1元测试日志   75/6.25分钟     三  ：荆文波   62/5.16分钟
+2020-05-18 09:30:04-- 10:00:04     :    一  ：Box_1__BTCR-1100190803000008_20200516163643.log - selector.tat* - TextAnalysisTool.NET   170/14.1分钟       二  ：Decode   70/5.83分钟     三  ：1元测试日志   56/4.66分钟
+2020-05-18 10:00:04-- 10:30:00     :    一  ：C:\Users\zhangkaifa\Documents\Class-Log-C1.exe   167/13.9分钟       二  ：Decode   64/5.33分钟     三  ：TheOneForExcel.xls  [兼容模式] - Excel   39/3.25分钟
+2020-05-18 10:30:00-- 11:00:03     :    一  ：   43/3.58分钟       二  ：DRB测试缺陷列表.xlsx  [只读] - Excel   43/3.58分钟     三  ：番外·下 • (trunk) - Sublime Text (UNREGISTERED)   26/2.16分钟
+2020-05-18 11:00:03-- 11:30:03     :    一  ：thief-book   98/8.16分钟       二  ：   58/4.83分钟     三  ：回复: DRB钞箱测试~5.16 - 写邮件   11:07:25 已保存   48/4.0分钟
+2020-05-18 11:30:03-- 12:00:03     :    一  ：Python 3.7.3 Shell   44/3.66分钟       二  ：TheOneForExcel.py - D:\新建文件夹\TheOneForExcel.py (3.7.3)   24/2.0分钟     三  ：D:\00-06\DRB-Seclect-New\Applications\PlateCtrl\PressurePlateCtrl.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)   20/1.66分钟

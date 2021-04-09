@@ -1,0 +1,1414 @@
+08:05:38:  iTunes
+08:05:48:  K18_0000_20201109151103
+08:05:53:  Decode
+08:05:58:  fenxi
+08:06:03:  新建文件夹
+08:06:13:  K64_12345678_20201126153107.log - [No filter file]* - TextAnalysisTool.NET
+08:06:18:  新建文件夹
+08:06:23:  K18_0000_20201109151103.log - [No filter file]* - TextAnalysisTool.NET
+08:06:48:  Add Filter
+08:06:53:  K18_0000_20201109151103.log - [No filter file]* - TextAnalysisTool.NET
+08:07:18:  Add Filter
+08:07:23:  D:\CRS\666\Applications\PPCtrl\PPCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:07:28:  D:\CRS\666\Applications\InstrExp\InstrExe.c (666) - Sublime Text (UNREGISTERED)
+08:07:48:  K18_0000_20201109151103.log - [No filter file]* - TextAnalysisTool.NET
+08:07:53:  D:\CRS\666\Applications\InstrExp\InstrExe.c (666) - Sublime Text (UNREGISTERED)
+08:08:03:  K18_0000_20201109151103.log - [No filter file]* - TextAnalysisTool.NET
+08:08:08:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:08:13:  E:\深圳出差\44\Applications\FlowControl\FlowCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:08:18:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:08:28:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.h (666) - Sublime Text (UNREGISTERED)
+08:08:33:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:09:03:  K18_0000_20201109151103.log - [No filter file]* - TextAnalysisTool.NET
+08:09:08:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:09:13:  D:\CRS\666\Applications\InstrExp\InstrExe.c (666) - Sublime Text (UNREGISTERED)
+08:09:24:  D:\CRS\666\Applications\InstrExp\InstrExp.h (666) - Sublime Text (UNREGISTERED)
+08:09:29:  D:\CRS\666\Applications\InstrExp\InstrExp.c (666) - Sublime Text (UNREGISTERED)
+08:09:44:  D:\CRS\666\Applications\InstrExp\InstrExp.h (666) - Sublime Text (UNREGISTERED)
+08:09:49:  D:\CRS\666\Applications\InstrExp\InstrExp.c (666) - Sublime Text (UNREGISTERED)
+08:10:04:  D:\CRS\666\Applications\InstrExp\InstrExe.c (666) - Sublime Text (UNREGISTERED)
+08:10:34:  D:\CRS\666\Applications\TrackMotorCtrl\TrackMotorCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:11:04:  D:\CRS\666\Applications\InstrExp\InstrExe.c (666) - Sublime Text (UNREGISTERED)
+08:11:14:  D:\CRS\666\Applications\InstrExp\InstrExp.c (666) - Sublime Text (UNREGISTERED)
+08:11:19:  D:\CRS\666\Applications\InstrExp\InstrExp.h (666) - Sublime Text (UNREGISTERED)
+08:11:29:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:11:44:  K18_0000_20201109151103.log - [No filter file]* - TextAnalysisTool.NET
+08:11:54:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:13:49:  D:\CRS\666\Applications\PPCtrl\PPCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:13:59:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:14:04:  D:\CRS\666\Middlewares\Plate\Plate.h (666) - Sublime Text (UNREGISTERED)
+08:14:09:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:15:04:  K18_0000_20201109151103.log - [No filter file]* - TextAnalysisTool.NET
+08:14:09:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:15:04:  K18_0000_20201109151103.log - [No filter file]* - TextAnalysisTool.NET
+08:15:29:  Plate.c - trunk - Visual Studio Code [管理员]
+08:15:34:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:17:34:  收取邮件 - 张开发
+08:17:39:  eSpace
+08:17:44:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:19:09:  锁屏状态
+08:19:14:  新建文件夹
+08:19:19:  K64_0000_20201109151103.log - [No filter file]* - TextAnalysisTool.NET
+08:20:04:  网易有道词典
+08:20:14:  Tools
+08:20:19:  CRS
+08:20:29:  106
+08:20:34:  检出
+08:20:39:   - 版本库浏览器 - TortoiseSVN
+08:20:49:  http://192.168.10.9:82/svn/BNE-R1200M - 版本库浏览器 - TortoiseSVN
+08:20:59:  http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K18_MAIN/trunk - 日志信息 - TortoiseSVN
+08:21:19:  检出
+08:21:24:  trunk - 检出 - TortoiseSVN
+08:21:39:  检出 完成！
+08:22:34:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+08:22:39:  选择文件夹
+08:22:44:  untitled (106) - Sublime Text (UNREGISTERED)
+08:23:04:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+08:24:39:  K64_0000_20201109151103.log - [No filter file]* - TextAnalysisTool.NET
+08:25:09:  eSpace
+08:25:14:  于斌1
+08:25:49:  Plate.c - trunk - Visual Studio Code [管理员]
+08:26:29:  计算器
+08:27:49:  于斌1
+08:28:04:  本地磁盘 (D:)
+08:28:09:  TCRControlCmdDLL
+08:28:19:  20201109
+08:28:24:  Decode
+08:28:49:  CS_0000_20201109151103.log - [No filter file]* - TextAnalysisTool.NET
+08:29:29:  CS_0000_20201109150957.log - [No filter file]* - TextAnalysisTool.NET
+08:28:09:  TCRControlCmdDLL
+08:28:19:  20201109
+08:28:24:  Decode
+08:28:49:  CS_0000_20201109151103.log - [No filter file]* - TextAnalysisTool.NET
+08:29:29:  CS_0000_20201109150957.log - [No filter file]* - TextAnalysisTool.NET
+08:30:19:  Decode
+08:30:59:  CS_0000_20201109105300.log - [No filter file]* - TextAnalysisTool.NET
+08:31:04:  Decode
+08:31:09:  CS_0000_20201109105837.log - [No filter file]* - TextAnalysisTool.NET
+08:31:14:  Decode
+08:31:54:  CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET
+08:32:50:  08tcr测试过程记录
+08:32:55:  固件版本
+08:33:10:  未命名 - 写邮件
+08:33:20:  桌面整理
+08:33:30:  CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET
+08:38:10:  K18_0000_20201109151103
+08:38:15:  CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET
+08:38:20:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+08:39:00:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.h (106) - Sublime Text (UNREGISTERED)
+08:39:05:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+08:39:25:  CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET
+08:39:30:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+08:39:45:  计算器
+08:40:05:  CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET
+08:40:30:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+08:40:45:  CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET
+08:40:50:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+08:41:15:  CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET
+08:41:20:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+08:41:50:  锁屏状态
+08:42:00:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+08:46:20:  CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET
+08:46:55:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+08:54:20:  CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET
+08:54:50:  Decode
+08:54:55:  CS_0000_20201109112748.log - [No filter file]* - TextAnalysisTool.NET
+08:56:35:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+08:56:50:  CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET
+08:57:05:  CS_0000_20201109112836.log - [No filter file]* - TextAnalysisTool.NET
+08:57:15:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+08:57:50:  K18_0000_20201109151103
+08:57:55:  “享承汇”（实践经验分享）项目创意口号投票
+08:58:15:  http://192.168.28.52:8080/common/pages/vote.html - Internet Explorer
+08:58:35:  “享承汇”（实践经验分享）项目创意口号投票
+08:58:40:  K18_0000_20201109151103
+08:59:05:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+08:58:15:  http://192.168.28.52:8080/common/pages/vote.html - Internet Explorer
+08:58:35:  “享承汇”（实践经验分享）项目创意口号投票
+08:58:40:  K18_0000_20201109151103
+08:59:05:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+09:03:10:  D:\CRS\106\Middlewares\Plate\Plate.h (106) - Sublime Text (UNREGISTERED)
+09:03:15:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+09:03:40:  D:\CRS\106\Middlewares\Plate\Plate.h (106) - Sublime Text (UNREGISTERED)
+09:03:45:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+09:03:55:  D:\CRS\106\Middlewares\Component\Component.c (106) - Sublime Text (UNREGISTERED)
+09:05:00:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+09:06:55:  CRS
+09:07:00:  D:\CRS\106\Tools\CreateJK.exe
+09:07:05:  Tools
+09:07:10:  Project
+09:11:50:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+09:13:25:  Add Files to Group 'Drivers'
+09:13:45:  106
+09:13:50:  D:\CRS\106 - 日志信息 - TortoiseSVN
+09:14:30:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+09:14:40:  新建文件夹 (3)
+09:14:45:  106
+09:14:55:  D:\CRS\106 - 更新 - TortoiseSVN
+09:14:30:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+09:14:40:  新建文件夹 (3)
+09:14:45:  106
+09:14:55:  D:\CRS\106 - 更新 - TortoiseSVN
+09:15:50:  D:\CRS\106 - 日志信息 - TortoiseSVN
+09:15:55:  D:\CRS\106 - 更新 - TortoiseSVN
+09:16:00:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:16:15:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+09:16:50:  Project
+09:16:55:  D:\CRS\106 - 日志信息 - TortoiseSVN
+09:17:05:  106
+09:17:15:  D:\CRS\106 - 日志信息 - TortoiseSVN
+09:17:25:  D:\CRS\106 - 更新 - TortoiseSVN
+09:17:30:  更新 完成！
+09:17:35:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+09:17:50:  106
+09:17:55:  D:\CRS\106\Tools\CreateJK.exe
+09:18:00:  CRS调测工具（研发版）V1.0.2.1
+09:18:05:  打开
+09:18:20:  CRSTestTool
+09:18:25:  CRS调测工具（研发版）V1.0.2.1
+09:18:40:  打开
+09:19:00:  CRS调测工具（研发版）V1.0.2.1
+09:19:05:  本地磁盘 (E:)
+09:19:10:  深圳出差
+09:19:15:  V1.009
+09:19:20:  打开
+09:19:30:  BTCRTestTool3
+09:19:35:  CRS调试工具
+09:19:40:  打开
+09:19:45:  TCR调测工具（研发版）V1.0.0.4
+09:19:50:  CRS调测工具（研发版）V1.0.2.1
+09:20:20:  打开
+09:20:30:  CRS调测工具（研发版）V1.0.2.1
+09:20:40:  打开
+09:20:50:  E:\深圳出差\44\Applications\FlowControl\TrackSensor\TrackSensor.c (44) - Sublime Text (UNREGISTERED)
+09:20:55:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+09:21:10:  CRS调测工具（研发版）V1.0.2.1
+09:21:20:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+09:21:35:  E:\深圳出差\44\Applications\ErrorHandle\ErrCode.h (44) - Sublime Text (UNREGISTERED)
+09:21:40:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+09:22:05:  CRS调测工具（研发版）V1.0.2.1
+09:22:10:  CRSTestTool
+09:22:15:  打开
+09:22:20:  CRS调测工具（研发版）V1.0.2.1
+09:22:45:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+09:23:00:  E:\深圳出差\44\Applications\ErrorHandle\ErrCode.h (44) - Sublime Text (UNREGISTERED)
+09:23:05:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+09:23:10:  CRS调测工具（研发版）V1.0.2.1
+09:23:15:  打开
+09:23:20:  CRS调测工具（研发版）V1.0.2.1
+09:23:25:  E:\深圳出差\44\Applications\InstrExplain\InstrProc1D.c (44) - Sublime Text (UNREGISTERED)
+09:23:35:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:25:40:  CRS调测工具（研发版）V1.0.2.1
+09:25:55:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:26:45:  CRS调测工具（研发版）V1.0.2.1
+09:26:50:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:26:55:  CRS调测工具（研发版）V1.0.2.1
+09:27:15:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:27:50:  转发: 地面清理准备工作
+09:28:00:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:28:15:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+09:28:25:  untitled (666) - Sublime Text (UNREGISTERED)
+09:28:35:  D:\CRS\666\Applications\Update\Update.c (666) - Sublime Text (UNREGISTERED)
+09:28:55:  D:\CRS\106\Applications\Update\Update.c (106) - Sublime Text (UNREGISTERED)
+09:29:10:  CRS调测工具（研发版）V1.0.2.1
+09:29:15:  D:\CRS\106\Applications\Update\Update.c (106) - Sublime Text (UNREGISTERED)
+09:29:25:  D:\CRS\106\Applications\InstrExp\InstrExe.c (106) - Sublime Text (UNREGISTERED)
+09:29:45:  D:\CRS\106\Applications\InstrExp\InstrExp.c (106) - Sublime Text (UNREGISTERED)
+09:28:15:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+09:28:25:  untitled (666) - Sublime Text (UNREGISTERED)
+09:28:35:  D:\CRS\666\Applications\Update\Update.c (666) - Sublime Text (UNREGISTERED)
+09:28:55:  D:\CRS\106\Applications\Update\Update.c (106) - Sublime Text (UNREGISTERED)
+09:29:10:  CRS调测工具（研发版）V1.0.2.1
+09:29:15:  D:\CRS\106\Applications\Update\Update.c (106) - Sublime Text (UNREGISTERED)
+09:29:25:  D:\CRS\106\Applications\InstrExp\InstrExe.c (106) - Sublime Text (UNREGISTERED)
+09:29:45:  D:\CRS\106\Applications\InstrExp\InstrExp.c (106) - Sublime Text (UNREGISTERED)
+09:30:10:  D:\CRS\106\Applications\InstrExp\InstrExp.h (106) - Sublime Text (UNREGISTERED)
+09:30:15:  D:\CRS\106\Applications\InstrExp\InstrExp.c (106) - Sublime Text (UNREGISTERED)
+09:30:20:  新建文本文档.exe - 快捷方式
+09:30:30:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:30:35:  CRS调测工具（研发版）V1.0.2.1
+09:30:40:  打开
+09:30:45:  CRS调测工具（研发版）V1.0.2.1
+09:30:50:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:32:00:  D:\CRS\666\Applications\Update\Update.c (666) - Sublime Text (UNREGISTERED)
+09:32:05:  D:\CRS\666\Applications\InstrExp\InstrExe.c (666) - Sublime Text (UNREGISTERED)
+09:32:10:  D:\CRS\666\Applications\InstrExp\InstrExp.h (666) - Sublime Text (UNREGISTERED)
+09:32:15:  D:\CRS\666\Applications\InstrExp\InstrExe.c (666) - Sublime Text (UNREGISTERED)
+09:32:30:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:32:50:  CRS调测工具（研发版）V1.0.2.1
+09:32:55:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:33:00:  CRS调测工具（研发版）V1.0.2.1
+09:33:05:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:33:15:  D:\CRS\666\Applications\InstrExp\InstrExe.c (666) - Sublime Text (UNREGISTERED)
+09:33:35:  D:\CRS\666\Applications\Update\Update.c (666) - Sublime Text (UNREGISTERED)
+09:33:40:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:33:45:  CRS调测工具（研发版）V1.0.2.1
+09:33:50:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:34:05:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+09:34:10:  Options for Target 'CashSlot'
+09:34:15:  Cortex JLink/JTrace Target Driver Setup
+09:34:20:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+09:34:30:  CRSTestTool
+09:34:35:  CRS调测工具（研发版）V1.0.2.1
+09:34:45:  CRSTestTool
+09:34:50:  CRS调测工具（研发版）V1.0.2.1
+09:34:55:  深圳出差
+09:35:00:  CRS
+09:35:05:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+09:35:15:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:35:25:  CRS调测工具（研发版）V1.0.2.1
+09:35:35:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:36:10:  CRS调测工具（研发版）V1.0.2.1
+09:36:15:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:37:35:  CRS
+09:37:40:  KE18-BOOT
+09:37:45:  μVision
+09:37:50:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:38:30:  Project
+09:39:20:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+09:39:30:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:39:45:  CRS调测工具（研发版）V1.0.2.1
+09:39:50:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:40:05:  打开
+09:40:10:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:41:40:  CRS调测工具（研发版）V1.0.2.1
+09:41:50:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:42:00:  CRS调测工具（研发版）V1.0.2.1
+09:42:05:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:42:25:  CRSTestTool
+09:42:30:  CRS调测工具（研发版）V1.0.2.1
+09:42:35:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:42:40:  打开
+09:42:45:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:43:25:  D:\CRS\666\Applications\Update\Update.c (666) - Sublime Text (UNREGISTERED)
+09:43:55:  D:\CRS\666\Drivers\FlashDriver\SnbcFlashDriver.c (666) - Sublime Text (UNREGISTERED)
+09:44:30:  D:\CRS\666\Drivers\Ke18Bsp\fsl_flash.h (666) - Sublime Text (UNREGISTERED)
+09:44:35:  D:\CRS\666\Drivers\FlashDriver\SnbcFlashDriver.c (666) - Sublime Text (UNREGISTERED)
+09:44:40:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:44:30:  D:\CRS\666\Drivers\Ke18Bsp\fsl_flash.h (666) - Sublime Text (UNREGISTERED)
+09:44:35:  D:\CRS\666\Drivers\FlashDriver\SnbcFlashDriver.c (666) - Sublime Text (UNREGISTERED)
+09:44:40:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+09:45:40:  CRS调测工具（研发版）V1.0.2.1
+09:45:45:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+09:45:50:  CRS调测工具（研发版）V1.0.2.1
+09:45:55:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+09:46:00:  CRS调测工具（研发版）V1.0.2.1
+09:46:40:  深圳出差
+09:46:45:  TCR调测工具（研发版）V1.0.0.4
+09:46:50:  发送指令到K18
+09:47:10:  TCR调测工具（研发版）V1.0.0.4
+09:47:20:  发送指令到K18
+09:47:25:  TCR调测工具（研发版）V1.0.0.4
+09:47:40:  发送指令到K18
+09:47:50:  TCR调测工具（研发版）V1.0.0.4
+09:47:55:  发送指令到K18
+09:48:00:  TCR调测工具（研发版）V1.0.0.4
+09:48:10:  发送指令到K18
+09:48:15:  TCR调测工具（研发版）V1.0.0.4
+09:48:25:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+09:48:55:  TCR调测工具（研发版）V1.0.0.4
+09:49:00:  发送指令到K18
+09:49:05:  TCR调测工具（研发版）V1.0.0.4
+09:49:10:  Decode
+09:49:15:  BTCRTestTool.exe 属性
+09:49:20:  深圳出差
+09:49:25:  20201127
+09:49:30:  Decode
+09:49:35:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+09:53:25:  Decode
+09:53:30:  CS_0000_20201109112836.log - [No filter file]* - TextAnalysisTool.NET
+09:53:35:  CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET
+09:54:10:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+09:57:00:  CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET
+09:57:11:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+09:58:16:  Decode
+09:58:21:  发送指令到K18
+09:58:26:  20201127
+09:58:31:  Decode
+09:58:36:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+09:59:16:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+09:59:41:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+09:58:16:  Decode
+09:58:21:  发送指令到K18
+09:58:26:  20201127
+09:58:31:  Decode
+09:58:36:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+09:59:16:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+09:59:41:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+10:00:36:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+10:00:51:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:01:06:  Toolbox
+10:01:11:  发送指令到K18
+10:01:21:  TCR调测工具（研发版）V1.0.0.4
+10:01:26:  发送指令到K18
+10:01:41:  Decode
+10:01:46:  K64_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+10:02:11:  Decode
+10:02:16:  20201127
+10:02:21:  Decode
+10:02:26:  K64_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+10:02:36:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+10:03:06:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c • (106) - Sublime Text (UNREGISTERED)
+10:03:16:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:03:31:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+10:03:56:  转发: 考勤异常提醒
+10:04:01:  异常20201127.xlsx
+10:05:56:  转发: 考勤异常提醒
+10:06:01:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+10:06:06:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+10:06:46:  Decode
+10:06:56:  正在打开 - Excel
+10:07:16:  异常20201127.xlsx - Excel
+10:07:51:  Decode
+10:07:56:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+10:08:06:  20201127
+10:08:11:  发送指令到K18
+10:08:16:  TCR调测工具（研发版）V1.0.0.4
+10:08:21:  20201127
+10:08:26:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+10:08:56:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+10:09:01:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.h (106) - Sublime Text (UNREGISTERED)
+10:09:06:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+10:09:11:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.h (106) - Sublime Text (UNREGISTERED)
+10:09:16:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+10:09:31:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+10:10:11:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:10:16:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+10:10:41:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:10:51:  Toolbox
+10:10:56:  发送指令到K18
+10:11:11:  TCR调测工具（研发版）V1.0.0.4
+10:11:16:  锁屏状态
+10:11:21:  20201127
+10:11:26:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+10:12:06:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+10:12:16:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c • (106) - Sublime Text (UNREGISTERED)
+10:12:21:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:12:36:  发送指令到K18
+10:12:41:  TCR调测工具（研发版）V1.0.0.4
+10:12:46:  删除多个项目
+10:12:51:  20201127
+10:12:56:  Decode
+10:13:01:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+10:13:06:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:13:36:  TCR调测工具（研发版）V1.0.0.4
+10:13:41:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:14:26:  TCR调测工具（研发版）V1.0.0.4
+10:14:31:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:14:41:  发送指令到K18
+10:14:46:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:14:26:  TCR调测工具（研发版）V1.0.0.4
+10:14:31:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:14:41:  发送指令到K18
+10:14:46:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:15:21:  发送指令到K18
+10:15:31:  20201127
+10:15:36:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+10:15:46:  TCR调测工具（研发版）V1.0.0.4
+10:15:51:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:15:56:  Decode
+10:16:01:  TCR调测工具（研发版）V1.0.0.4
+10:16:11:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+10:16:21:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:20:46:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+10:20:56:  D:\CRS\106\Middlewares\Component\Component.c (106) - Sublime Text (UNREGISTERED)
+10:22:26:  D:\CRS\106\Rtos\OSLib.c (106) - Sublime Text (UNREGISTERED)
+10:22:31:  D:\CRS\106\Middlewares\Component\Component.c (106) - Sublime Text (UNREGISTERED)
+10:22:46:  D:\CRS\106\Middlewares\StepMotor\StepMotor.c (106) - Sublime Text (UNREGISTERED)
+10:23:06:  D:\CRS\106\Middlewares\Component\Component.c (106) - Sublime Text (UNREGISTERED)
+10:23:21:  D:\CRS\106\Middlewares\StepMotor\StepMotor.c (106) - Sublime Text (UNREGISTERED)
+10:23:41:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:23:46:  D:\CRS\106\Middlewares\StepMotor\StepMotor.c (106) - Sublime Text (UNREGISTERED)
+10:23:51:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:23:56:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:24:01:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+10:24:31:  D:\00-06\DRB-NearFull\Drivers\PublicDriver\PublicDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+10:24:41:  D:\00-06\DRB-NearFull\Middlewares\StepMotor\StepMotor.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+10:25:31:  D:\CRS\106\Drivers\StepMotorDriver\StepMotorDriver.c (106) - Sublime Text (UNREGISTERED)
+10:25:46:  D:\CRS\106\Middlewares\StepMotor\StepMotor.c (106) - Sublime Text (UNREGISTERED)
+10:26:06:  D:\CRS\106\Drivers\StepMotorDriver\StepMotorDriver.c (106) - Sublime Text (UNREGISTERED)
+10:26:26:  D:\CRS\106\Middlewares\StepMotor\StepMotor.c (106) - Sublime Text (UNREGISTERED)
+10:27:01:  D:\CRS\106\Middlewares\Component\Component.c (106) - Sublime Text (UNREGISTERED)
+10:28:41:  于斌1
+10:28:56:  D:\CRS\106\Middlewares\Component\Component.c (106) - Sublime Text (UNREGISTERED)
+10:29:16:  D:\CRS\106\Middlewares\StepMotor\StepMotor.c (106) - Sublime Text (UNREGISTERED)
+10:29:56:  于斌1
+10:30:01:  D:\CRS\106\Middlewares\StepMotor\StepMotor.c (106) - Sublime Text (UNREGISTERED)
+10:28:41:  于斌1
+10:28:56:  D:\CRS\106\Middlewares\Component\Component.c (106) - Sublime Text (UNREGISTERED)
+10:29:16:  D:\CRS\106\Middlewares\StepMotor\StepMotor.c (106) - Sublime Text (UNREGISTERED)
+10:29:56:  于斌1
+10:30:01:  D:\CRS\106\Middlewares\StepMotor\StepMotor.c (106) - Sublime Text (UNREGISTERED)
+10:34:31:  D:\CRS\106\Middlewares\Component\Component.c (106) - Sublime Text (UNREGISTERED)
+10:34:36:  D:\CRS\666\Applications\Update\Update.c (106) - Sublime Text (UNREGISTERED)
+10:34:41:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+10:34:51:  D:\CRS\106\Middlewares\Plate\Plate.h (106) - Sublime Text (UNREGISTERED)
+10:34:56:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c • (106) - Sublime Text (UNREGISTERED)
+10:35:11:  Decode
+10:35:16:  CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET
+10:35:21:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c • (106) - Sublime Text (UNREGISTERED)
+10:35:56:  发送指令到K18
+10:36:06:  TCR调测工具（研发版）V1.0.0.4
+10:36:16:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c • (106) - Sublime Text (UNREGISTERED)
+10:36:31:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:36:51:  发送指令到K18
+10:36:56:  TCR调测工具（研发版）V1.0.0.4
+10:37:06:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:37:11:  CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET
+10:38:06:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+10:38:21:  CS_0000_20201109112812.log - [No filter file]* - TextAnalysisTool.NET
+10:38:26:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+10:38:31:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+10:38:36:  Decode
+10:38:46:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:39:06:  发送指令到K18
+10:39:11:  TCR调测工具（研发版）V1.0.0.4
+10:39:21:  Decode
+10:39:26:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+10:40:16:  TCR调测工具（研发版）V1.0.0.4
+10:40:36:  20201127
+10:40:41:  Decode
+10:40:46:  CS_0000_20201127104017.log - [No filter file]* - TextAnalysisTool.NET
+10:41:01:  Decode
+10:41:06:  锁屏状态
+10:41:11:  CS_0000_20201127094644.log - [No filter file] - TextAnalysisTool.NET
+10:41:16:  Add Filter
+10:41:21:  CS_0000_20201127094644.log - [No filter file]* - TextAnalysisTool.NET
+10:41:36:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (106) - Sublime Text (UNREGISTERED)
+10:41:46:  D:\CRS\106\Middlewares\Component\Component.c (106) - Sublime Text (UNREGISTERED)
+10:42:31:  D:\CRS\106\Middlewares\StepMotor\StepMotor.c (106) - Sublime Text (UNREGISTERED)
+10:43:01:  于斌1
+10:43:06:  D:\CRS\106\Middlewares\StepMotor\StepMotor.c (106) - Sublime Text (UNREGISTERED)
+10:43:21:  于斌1
+10:43:36:  D:\CRS\106\Middlewares\StepMotor\StepMotor.c (106) - Sublime Text (UNREGISTERED)
+10:48:06:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+10:48:51:  TCR调测工具（研发版）V1.0.0.4
+10:48:56:  发送指令到K18
+10:49:01:  TCR调测工具（研发版）V1.0.0.4
+10:49:11:  发送指令到K18
+10:49:16:  TCR调测工具（研发版）V1.0.0.4
+10:49:21:  Decode
+10:49:31:  CS_0000_20201127104017.log - [No filter file]* - TextAnalysisTool.NET
+10:51:41:  Plate.c - trunk - Visual Studio Code [管理员]
+10:53:26:  CS_0000_20201127104017.log - [No filter file]* - TextAnalysisTool.NET
+10:54:06:  Plate.c - trunk - Visual Studio Code [管理员]
+10:54:21:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+10:55:01:  自动播放
+10:55:06:  锁屏状态
+10:55:16:  跳转列表
+10:55:21:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+10:55:26:  设置 - trunk - Visual Studio Code [管理员]
+10:55:36:  InstrReturn.c - trunk - Visual Studio Code [管理员]
+10:55:46:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+10:55:51:  InstrReturn.c - trunk - Visual Studio Code [管理员]
+10:59:36:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+10:59:41:  InstrReturn.c - trunk - Visual Studio Code [管理员]
+10:59:36:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+10:59:41:  InstrReturn.c - trunk - Visual Studio Code [管理员]
+11:03:16:  设置 - trunk - Visual Studio Code [管理员]
+11:03:21:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+11:03:31:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+11:03:46:  InstrReturn.c - trunk - Visual Studio Code [管理员]
+11:10:26:  ● CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+11:10:31:  设置 - trunk - Visual Studio Code [管理员]
+11:10:36:  InstrReturn.c - trunk - Visual Studio Code [管理员]
+11:16:37:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+11:16:42:  设置 - trunk - Visual Studio Code [管理员]
+11:16:47:  InstrReturn.c - trunk - Visual Studio Code [管理员]
+11:22:22:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+11:23:17:  本地磁盘 (F:)
+11:23:22:  小程序
+11:23:32:  新建文件夹 (3)
+11:23:37:  Decode
+11:23:42:  weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)
+11:23:47:  F:\小程序\weibopinglun\新建文件夹 (3)\chromedriver.exe
+11:23:52:  *Python 3.7.3 Shell*
+11:24:07:  Kill?
+11:24:12:  Decode
+11:24:17:  新标签页 - Google Chrome
+11:24:57:  百度一下，你就知道 - Google Chrome
+11:25:07:  weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)
+11:25:12:  selenium o_百度搜索 - Google Chrome
+11:25:17:  selenium open_百度搜索 - Google Chrome
+11:25:27:  selenium + opencv突破滑动验证 - 郭楷丰 - 博客园 - Google Chrome
+11:26:27:  基于opencv的selenium滑动验证码的实现_菜鸟教程-CSDN博客 - Google Chrome
+11:26:32:  (4条消息) 基于opencv的selenium滑动验证码的实现_菜鸟教程-CSDN博客 - Google Chrome
+11:26:52:  (4条消息) selenium+opencv干掉滑动验证码_阿优乐扬的博客-CSDN博客 - Google Chrome
+11:28:07:  selenium + opencv突破滑动验证_园荐_博客园 - Google Chrome
+11:28:12:  selenium + opencv突破滑动验证 - 郭楷丰 - 博客园 - Google Chrome
+11:28:27:  weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)
+11:28:32:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+11:28:07:  selenium + opencv突破滑动验证_园荐_博客园 - Google Chrome
+11:28:12:  selenium + opencv突破滑动验证 - 郭楷丰 - 博客园 - Google Chrome
+11:28:27:  weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)
+11:28:32:  InstrExecute.c - trunk - Visual Studio Code [管理员]
+11:33:07:  InstrReturn.h - trunk - Visual Studio Code [管理员]
+11:33:12:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+11:33:22:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c • (trunk) - Sublime Text (UNREGISTERED)
+11:33:42:  D:\00-06\1T1-Stop-Length\trunk\FwLib\StdSnbc\StdMacro.h (trunk) - Sublime Text (UNREGISTERED)
+11:33:52:  【#微软删除最大人脸识别数据库# 包含超1000万张人脸照片】6月6日，英国《金融时报》报道，微软悄然删除MS Celeb人脸识别数据库，微软称该数据库是全球最大的公开人脸识别数据库。该数据库于2016年公开，含有约10万人的1000万张照片，这些照片未获得本人许可。4月媒体曝光其商业用途后，微软将其删除。世面的秒拍视频 @新京报我们视频.txt - 记事本
+11:34:02:  新建文件夹 (3)
+11:34:07:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+11:34:27:  计算机
+11:34:32:  本地磁盘 (F:)
+11:34:37:  小程序
+11:34:42:  新建文件夹 (3)
+11:35:07:  注册.txt - 记事本
+11:35:12:  新建文件夹 (3)
+11:35:37:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+11:39:37:  所有笔记本 - 张开发 - 印象笔记
+11:39:52:  新标签页 - Google Chrome
+11:39:57:  proxy.httpdaili.com/apinew.asp?sl=3&noinfo=true&ddbh=1393368050533637424 - Google Chrome
+11:40:12:  所有笔记本 - 张开发 - 印象笔记
+11:40:22:  新标签页 - Google Chrome
+11:40:27:  proxy.httpdaili.com - Google Chrome
+11:40:32:  锁屏状态
+13:17:13:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+13:19:08:  iTunes
+13:19:13:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+13:20:13:  注册.txt - 记事本
+13:20:18:  新建文件夹 (3)
+13:20:28:  无标题 - Google Chrome
+13:20:33:  data:, - Google Chrome
+13:20:43:  C:\Windows\py.exe
+13:20:48:  新建文件夹 (3)
+13:20:53:  weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)
+13:20:58:  F:\小程序\weibopinglun\新建文件夹 (3)\chromedriver.exe
+13:21:03:  data:, - Google Chrome
+13:21:08:  注册 | 币安 - Google Chrome
+13:21:18:  锁屏状态
+13:21:23:  weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)
+13:21:33:  *weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)*
+13:21:58:  Save Before Run or Check
+13:22:03:  F:\小程序\weibopinglun\新建文件夹 (3)\chromedriver.exe
+13:22:08:  data:, - Google Chrome
+13:22:13:  注册 | 币安 - Google Chrome
+13:22:33:  新建文件夹 (3)
+13:22:38:  weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)
+13:22:53:  *weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)*
+13:23:33:  weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)
+13:23:38:  F:\小程序\weibopinglun\新建文件夹 (3)\chromedriver.exe
+13:23:43:  *Python 3.7.3 Shell*
+13:24:03:  无标题 - Google Chrome
+13:24:08:  data:, - Google Chrome
+13:24:13:  *Python 3.7.3 Shell*
+13:24:28:  weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)
+13:24:33:  *Python 3.7.3 Shell*
+13:24:48:  F:\小程序\weibopinglun\新建文件夹 (3)\chromedriver.exe
+13:24:58:  新建文件夹 (3)
+13:25:03:  weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)
+13:25:08:  data:, - Google Chrome
+13:25:13:  *Python 3.7.3 Shell*
+13:25:28:  无标题 - Google Chrome
+13:25:33:  *Python 3.7.3 Shell*
+13:25:38:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+13:25:43:  weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)
+13:26:18:  *weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)*
+13:26:43:  Python 3.7.3 Shell
+13:26:48:  data:, - Google Chrome
+13:26:53:  CS_0000_20201127104017.log - [No filter file]* - TextAnalysisTool.NET
+13:27:13:  注册 | 币安 - Google Chrome
+13:27:18:  weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)
+13:27:23:  *weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)*
+13:27:28:  CS_0000_20201127104017.log - [No filter file]* - TextAnalysisTool.NET
+13:27:33:  data:, - Google Chrome
+13:27:38:  CS_0000_20201127104017.log - [No filter file]* - TextAnalysisTool.NET
+13:27:48:  跳转列表
+13:27:53:  CS_0000_20201127104017.log - [No filter file]* - TextAnalysisTool.NET
+13:28:13:  Kill?
+13:28:18:  F:\小程序\weibopinglun\新建文件夹 (3)\chromedriver.exe
+13:28:23:  *Python 3.7.3 Shell*
+13:29:03:  注册 | 币安 - Google Chrome
+13:29:08:  TCR调测工具（研发版）V1.0.0.4
+13:29:13:  新建文件夹 (3)
+13:29:18:  weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)
+13:29:23:  *weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)*
+13:29:38:  新建文件夹 (3)
+13:29:43:  PlateCtrl.c - trunk - Visual Studio Code [管理员]
+13:28:13:  Kill?
+13:28:18:  F:\小程序\weibopinglun\新建文件夹 (3)\chromedriver.exe
+13:28:23:  *Python 3.7.3 Shell*
+13:29:03:  注册 | 币安 - Google Chrome
+13:29:08:  TCR调测工具（研发版）V1.0.0.4
+13:29:13:  新建文件夹 (3)
+13:29:18:  weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)
+13:29:23:  *weiboping (2).py - F:\小程序\weibopinglun\新建文件夹 (3)\weiboping (2).py (3.7.3)*
+13:29:38:  新建文件夹 (3)
+13:29:43:  PlateCtrl.c - trunk - Visual Studio Code [管理员]
+13:30:23:  Possible access of out-of-bounds pointer (1 beyond end of data) by operator '[' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\PeripheralDriver\Ke06bsp\ftm.c: lines 302, 323] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:30:28:  项目 - Google Chrome
+13:30:43:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:30:48:  OWASP前10位 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:30:53:  SANS前25位 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:31:03:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:31:18:  项目总览 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:31:28:  Complex Functions - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:31:33:  Decode
+13:31:38:  trunk
+13:31:43:  InstrExecute.c - TortoiseMerge
+13:31:58:  InstrReturn.c - TortoiseMerge
+13:32:03:  PlateCtrl.c - TortoiseMerge
+13:32:08:  State.c - TortoiseMerge
+13:32:18:  TortoiseMerge
+13:32:23:  TrackCtrl.c - TortoiseMerge
+13:32:28:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+13:32:33:  Plate.c - TortoiseMerge
+13:32:43:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+13:32:48:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:32:58:  local structure member 'mStackUsageTotal' (line 41, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\trunk\Applications\HistoryRecord\HistoryRecord.c) not referenced - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:33:08:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+13:33:13:  D:\00-06\1T1-Stop-Length\trunk\Applications\HistoryRecord\HistoryRecord.c (trunk) - Sublime Text (UNREGISTERED)
+13:33:33:  选择文件夹
+13:33:43:  untitled (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+13:33:48:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\HistoryRecord\HistoryRecord.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+13:33:58:  D:\00-06\1T1-Stop-Length\trunk\Applications\HistoryRecord\HistoryRecord.c • (trunk) - Sublime Text (UNREGISTERED)
+13:34:08:  D:\00-06\1T1-Stop-Length\trunk\Applications\HistoryRecord\HistoryRecord.c (trunk) - Sublime Text (UNREGISTERED)
+13:34:13:  local structure member 'mStackUsageTotal' (line 41, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\trunk\Applications\HistoryRecord\HistoryRecord.c) not referenced - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:34:28:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:34:33:  D:\00-06\1T1-Stop-Length\trunk\Applications\HistoryRecord\HistoryRecord.c (trunk) - Sublime Text (UNREGISTERED)
+13:34:48:  D:\00-06\1T1-Stop-Length\trunk\Applications\Initial\Initial.c (trunk) - Sublime Text (UNREGISTERED)
+13:34:53:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:35:13:  D:\00-06\1T1-Stop-Length\trunk\Applications\Initial\Initial.c • (trunk) - Sublime Text (UNREGISTERED)
+13:35:18:  PlateCtrl.c - trunk - Visual Studio Code [管理员]
+13:35:23:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:35:33:  PlateCtrl.c - trunk - Visual Studio Code [管理员]
+13:35:48:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+13:35:58:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:36:13:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+13:36:43:  D:\00-06\1T1-Stop-Length\trunk\FwLib\DebugLog\DebugLog.h (trunk) - Sublime Text (UNREGISTERED)
+13:37:03:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+13:38:13:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:38:18:  「开始」菜单
+13:38:23:  F:\小程序\weibopinglun\新建文件夹 (3)\chromedriver.exe
+13:38:28:  网易有道词典
+13:38:38:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:39:08:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+13:39:13:  D:\00-06\1T1-Stop-Length\trunk\FwLib\DebugLog\DebugLog.h (trunk) - Sublime Text (UNREGISTERED)
+13:39:18:  D:\00-06\1T1-Stop-Length\trunk\FwLib\DebugLog\DebugConfig_Demo.h (trunk) - Sublime Text (UNREGISTERED)
+13:39:23:  D:\00-06\1T1-Stop-Length\trunk\FwLib\DebugLog\DebugLog.h (trunk) - Sublime Text (UNREGISTERED)
+13:40:43:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+13:42:03:  D:\00-06\1T1-Stop-Length\trunk\FwLib\Config\DebugConfig.h (trunk) - Sublime Text (UNREGISTERED)
+13:42:18:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+13:42:23:  D:\00-06\1T1-Stop-Length\trunk\FwLib\DebugLog\DebugLog.h (trunk) - Sublime Text (UNREGISTERED)
+13:43:03:  trunk
+13:43:08:  CRS
+13:43:13:  D:\CRS\106 - 日志信息 - TortoiseSVN
+13:43:53:  D:\00-06\1T1-Stop-Length\trunk\FwLib\DebugLog\DebugLog.h (trunk) - Sublime Text (UNREGISTERED)
+13:45:48:  D:\00-06\1T1-Stop-Length\trunk\FwLib\DebugLog\LogPrint\PrintService.c (trunk) - Sublime Text (UNREGISTERED)
+13:45:58:  D:\00-06\1T1-Stop-Length\trunk\FwLib\DebugLog\DebugLog.h (trunk) - Sublime Text (UNREGISTERED)
+13:46:48:  D:\00-06\1T1-Stop-Length\trunk\FwLib\DebugLog\DebugConfig_Demo.h (trunk) - Sublime Text (UNREGISTERED)
+13:46:53:  D:\00-06\1T1-Stop-Length\trunk\FwLib\DebugLog\DebugLog.h (trunk) - Sublime Text (UNREGISTERED)
+13:47:08:  D:\CRS\106\Middlewares\Component\Component.c (trunk) - Sublime Text (UNREGISTERED)
+13:47:13:  D:\CRS\106\Applications\SeparatorCtrl\SeparatorCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:47:18:  D:\00-06\1T1-Stop-Length\trunk\Applications\Initial\Initial.c • (trunk) - Sublime Text (UNREGISTERED)
+13:47:23:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+13:47:28:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:47:38:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+13:47:48:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:47:58:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrReturn.c (trunk) - Sublime Text (UNREGISTERED)
+13:48:03:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:48:08:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+13:48:13:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:48:28:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:48:43:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:48:53:  锁屏状态
+13:48:58:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:49:03:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+13:49:08:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:49:13:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:49:18:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:49:48:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+13:49:58:  锁屏状态
+13:50:03:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:50:08:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:50:43:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+13:51:13:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:51:33:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:51:38:  网易有道词典
+13:51:43:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:51:53:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:52:18:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+13:52:23:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:52:48:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:53:03:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:53:08:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+13:53:13:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:53:18:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:53:23:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:53:33:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:53:53:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+13:53:58:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:54:19:  D:\00-06\1T1-Stop-Length\trunk\Rtos\OSLib.h (trunk) - Sublime Text (UNREGISTERED)
+13:54:24:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:54:29:  D:\00-06\1T1-Stop-Length\trunk\Rtos\OSLib.h (trunk) - Sublime Text (UNREGISTERED)
+13:54:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:54:49:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:54:54:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:55:04:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:55:14:  网易有道词典
+13:55:19:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:55:34:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:55:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:56:04:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:56:14:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+13:56:24:  PlateCtrl.c - trunk - Visual Studio Code [管理员]
+13:56:29:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:56:44:  PlateCtrl.c - trunk - Visual Studio Code [管理员]
+13:56:49:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+13:56:54:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+13:59:54:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:59:59:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+13:59:54:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+13:59:59:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:00:09:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:00:34:  锁屏状态
+14:00:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:00:44:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:01:24:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:01:29:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:01:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:01:44:  锁屏状态
+14:01:49:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:01:59:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:02:19:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:02:24:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:02:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:02:44:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:02:49:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:02:54:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+14:02:59:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:03:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+14:03:39:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:03:49:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:04:14:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.h (trunk) - Sublime Text (UNREGISTERED)
+14:04:19:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:04:24:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.h (trunk) - Sublime Text (UNREGISTERED)
+14:04:29:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:04:34:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:05:04:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+14:05:39:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:05:44:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+14:05:59:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:06:09:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+14:06:24:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\BldcPid\BldcPid.c (trunk) - Sublime Text (UNREGISTERED)
+14:06:29:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Bldc\Bldc.c • (trunk) - Sublime Text (UNREGISTERED)
+14:06:39:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:06:44:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+14:06:49:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:06:54:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+14:06:59:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:07:04:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+14:07:09:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:07:14:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Bldc\Bldc.c (trunk) - Sublime Text (UNREGISTERED)
+14:07:19:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Bldc\Bldc.c • (trunk) - Sublime Text (UNREGISTERED)
+14:07:24:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:07:34:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\BldcPid\BldcPid.c (trunk) - Sublime Text (UNREGISTERED)
+14:07:49:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\BldcPid\BldcPidStruct.h (trunk) - Sublime Text (UNREGISTERED)
+14:07:54:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:07:59:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\BldcPid\BldcPid.c (trunk) - Sublime Text (UNREGISTERED)
+14:08:09:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:08:14:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\BldcPid\BldcPid.c (trunk) - Sublime Text (UNREGISTERED)
+14:08:29:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\BldcPid\BldcPid.c • (trunk) - Sublime Text (UNREGISTERED)
+14:08:34:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\BldcPid\BldcPid.c (trunk) - Sublime Text (UNREGISTERED)
+14:08:44:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:08:49:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\BldcPid\BldcPid.c (trunk) - Sublime Text (UNREGISTERED)
+14:08:54:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\BldcPid\BldcPid.c • (trunk) - Sublime Text (UNREGISTERED)
+14:09:04:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\BldcPid\BldcPid.c (trunk) - Sublime Text (UNREGISTERED)
+14:09:19:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:09:24:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\BldcPid\BldcPid.c (trunk) - Sublime Text (UNREGISTERED)
+14:09:34:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:09:39:  网易有道词典
+14:09:49:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\BldcPid\BldcPid.c (trunk) - Sublime Text (UNREGISTERED)
+14:09:59:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\BldcPid\BldcPidStruct.h (trunk) - Sublime Text (UNREGISTERED)
+14:10:04:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\BldcPid\BldcPid.c • (trunk) - Sublime Text (UNREGISTERED)
+14:10:09:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:10:14:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\BldcPid\BldcPid.c (trunk) - Sublime Text (UNREGISTERED)
+14:10:19:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:10:39:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:10:49:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:11:04:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:11:09:  锁屏状态
+14:11:14:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:11:29:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:11:39:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:11:44:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:11:49:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:12:29:  PlateCtrl.c - trunk - Visual Studio Code [管理员]
+14:12:34:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:12:44:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:12:49:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:12:59:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:13:09:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:13:19:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:13:39:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:13:49:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Middlewares\Plate\PlateCommon.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:13:54:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Middlewares\StepMotor\StepMotor.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:13:59:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:14:14:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Middlewares\StepMotor\StepMotor.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:14:19:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:14:34:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+14:14:39:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c • (trunk) - Sublime Text (UNREGISTERED)
+14:14:44:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+14:14:14:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Middlewares\StepMotor\StepMotor.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:14:19:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:14:34:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+14:14:39:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c • (trunk) - Sublime Text (UNREGISTERED)
+14:14:44:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+14:18:24:  TCR调测工具（研发版）V1.0.0.4
+14:20:29:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:20:44:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+14:21:49:  106
+14:21:54:  1T1-Stop-Length
+14:21:59:  HistoryRecord.c - TortoiseMerge
+14:22:04:  Project
+14:22:09:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:23:19:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+14:23:24:  历史记录
+14:23:29:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+14:23:34:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+14:23:39:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+14:23:44:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+14:23:59:  State.c - TortoiseMerge
+14:24:04:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+14:24:09:  StepMotor.c - TortoiseMerge
+14:24:14:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+14:24:19:  提交 完成！
+14:24:24:  本地磁盘 (E:)
+14:24:29:  Project
+14:24:34:  TCR调测工具（研发版）V1.0.0.4
+14:24:39:  CRS调测工具（研发版）V1.0.2.1
+14:24:54:  打开
+14:25:04:  CRS调测工具（研发版）V1.0.2.1
+14:27:24:  D:\CRS\106\Project\ke18_rtt.uvprojx - μVision
+14:27:29:  D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision
+14:27:34:  CRS调测工具（研发版）V1.0.2.1
+14:27:39:  打开
+14:27:54:  CRS调测工具（研发版）V1.0.2.1
+14:27:59:  CRSTestTool
+14:28:04:  CRS调测工具（研发版）V1.0.2.1
+14:28:24:  44
+14:28:29:  666
+14:28:34:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+14:28:39:  JLink - Cortex-M Error
+14:28:44:  Options for Target 'CashSlot'
+14:28:54:  ARM Development Tools
+14:29:19:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+14:29:34:  CRS调测工具（研发版）V1.0.2.1
+14:28:24:  44
+14:28:29:  666
+14:28:34:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+14:28:39:  JLink - Cortex-M Error
+14:28:44:  Options for Target 'CashSlot'
+14:28:54:  ARM Development Tools
+14:29:19:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+14:29:34:  CRS调测工具（研发版）V1.0.2.1
+14:31:04:  可接收
+14:31:09:  CRS调测工具（研发版）V1.0.2.1
+14:31:39:  锁屏状态
+14:31:44:  LogExpert - D:\fenxi\爆仓问题(1)\20201112\20201112\Decode\ESC_12345678_20201112175118.log
+14:34:24:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:34:39:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:34:59:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:35:34:  non-negative quantity cannot be less than zero - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:35:49:  代码规则 - Google Chrome
+14:36:24:  网易有道词典
+14:37:04:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:14:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:37:19:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.h (trunk) - Sublime Text (UNREGISTERED)
+14:37:24:  项目 - Google Chrome
+14:37:29:  项目总览 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:37:34:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:37:44:  PlateCtrl.c - trunk - Visual Studio Code [管理员]
+14:37:54:  TrackCtrl.c - trunk - Visual Studio Code [管理员]
+14:38:04:  DebugLog.h - trunk - Visual Studio Code [管理员]
+14:38:14:  DebugConfig.h - trunk - Visual Studio Code [管理员]
+14:38:19:  DebugLog.h - trunk - Visual Studio Code [管理员]
+14:38:29:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Middlewares\StepMotor\StepMotor.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:38:34:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\Track\Track.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:38:49:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\FwLib\DebugLog\DebugLog.h (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:38:54:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\Track\Track.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:39:04:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\FwLib\Config\DebugConfig.h (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:39:29:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\FwLib\StdSnbc\StdMacro.h (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:39:34:  跳转列表
+14:39:39:  New Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:39:44:  所有笔记本 - 张开发 - 印象笔记
+14:39:54:  eSpace
+14:39:59:  胡蕊
+14:40:34:  New Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:40:44:  项目总览 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:40:49:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:40:59:  代码规则 - Google Chrome
+14:41:14:  胡蕊
+14:41:29:  代码规则 - Google Chrome
+14:41:54:  胡蕊
+14:42:04:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\FwLib\Config\DebugConfig.h (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:42:29:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\FwLib\StdSnbc\StdMacro.h (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:42:54:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Track\Track.h (trunk) - Sublime Text (UNREGISTERED)
+14:42:59:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:43:04:  D:\00-06\1T1-Stop-Length\trunk\FwLib\Config\DebugConfig.h (trunk) - Sublime Text (UNREGISTERED)
+14:43:14:  μVision
+14:43:19:  00-06
+14:43:24:  trunk
+14:43:29:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:43:34:  历史记录
+14:43:39:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+14:43:44:  提交 完成！
+14:43:49:  代码规则 - Google Chrome
+14:43:54:  项目 - Google Chrome
+14:43:59:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:44:04:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:44:24:  项目总览 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:44:29:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:44:34:  代码规则 - Google Chrome
+14:44:54:  问题 - Google Chrome
+14:44:24:  项目总览 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:44:29:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:44:34:  代码规则 - Google Chrome
+14:44:54:  问题 - Google Chrome
+14:45:24:  项目 - Google Chrome
+14:45:29:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:45:34:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:45:54:  Expected unsigned type - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:45:59:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:46:49:  代码 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:47:04:  计算器
+14:47:24:  代码 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:47:34:  Sensor.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:47:54:  项目 - Google Chrome
+14:48:09:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:48:14:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:48:19:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:50:09:  计算器
+14:50:19:  D:\00-06\1T1-Stop-Length\trunk\FwLib\Config\DebugConfig.h (trunk) - Sublime Text (UNREGISTERED)
+14:50:24:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Sensor\Sensor.c (trunk) - Sublime Text (UNREGISTERED)
+14:50:29:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:50:34:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:50:39:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:50:59:  代码 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:51:19:  TrackCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:51:29:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:51:34:  TrackCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:51:39:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+14:51:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:51:49:  TrackCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:51:59:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+14:52:04:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:52:09:  TrackCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:52:14:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:52:19:  TrackCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:52:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:53:14:  This is an unregistered copy
+14:53:19:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:53:29:  TrackCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:53:34:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+14:53:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+14:53:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:53:54:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:53:59:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:54:04:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:54:09:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:54:19:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:54:24:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:54:29:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c • (trunk) - Sublime Text (UNREGISTERED)
+14:54:39:  μVision
+14:54:44:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:57:44:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\FwLib\Config\DebugConfig.h (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:57:49:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\Track\Track.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:57:54:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\Track\Track.h (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:57:59:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\PaperManage\PaperManage.h (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:58:04:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:58:09:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\MotorCtrl\MotorCtrl.h (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:58:19:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\Track\Track.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:58:54:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\PaperManage\PaperManage.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:58:59:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\Track\Track.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:59:04:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:59:09:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\Track\Track.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:59:29:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:59:34:  TrackCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:59:39:  代码 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:59:59:  PlateCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:58:09:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\MotorCtrl\MotorCtrl.h (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:58:19:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\Track\Track.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:58:54:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\PaperManage\PaperManage.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:58:59:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\Track\Track.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:59:04:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+14:59:09:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\Track\Track.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+14:59:29:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+14:59:34:  TrackCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:59:39:  代码 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+14:59:59:  PlateCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:00:14:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:00:19:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:00:24:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+15:00:34:  PlateCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:00:59:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+15:01:09:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+15:01:14:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:01:19:  PlateCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:01:24:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:01:29:  PlateCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:01:39:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:01:44:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+15:01:49:  PlateCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:01:59:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:02:04:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+15:02:40:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:02:45:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+15:02:50:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:03:00:  PlateCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:03:05:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:03:15:  PlateCtrl.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:04:00:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\Track\Track.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+15:04:05:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+15:04:20:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:04:35:  trunk
+15:04:40:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:05:15:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+15:05:30:  提交 完成！
+15:05:40:  log
+15:05:45:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+15:05:50:  Decode
+15:05:55:  K64_0000_20201127143105.log - [No filter file]* - TextAnalysisTool.NET
+15:06:20:  Decode
+15:06:25:  项目 - Google Chrome
+15:06:40:  新标签页 - Google Chrome
+15:06:45:  登录页面 - 数据抓取工具 - Google Chrome
+15:06:50:  数据抓取工具 - Google Chrome
+15:06:55:  无标题 - Google Chrome
+15:07:00:  数据抓取工具 - Google Chrome
+15:07:15:  正在打开 - Excel
+15:07:20:  个人周报-张开发 (55).xlsx  [受保护的视图] - Excel
+15:07:50:  Excel
+15:07:55:  个人周报-张开发 (55).xlsx - Excel
+15:09:00:  trunk
+15:09:05:  项目 - Google Chrome
+15:09:10:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:09:15:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:09:35:  个人周报-张开发 (55).xlsx - Excel
+15:11:55:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:12:00:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:12:05:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:12:10:  代码 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:12:20:  计算器
+15:12:35:  代码 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:12:45:  InstrExecute.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:13:25:  网易有道词典
+15:13:30:  InstrExecute.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:14:05:  个人周报-张开发 (55).xlsx - Excel
+15:14:05:  个人周报-张开发 (55).xlsx - Excel
+15:15:05:  于斌1
+15:15:25:  个人周报-张开发 (55).xlsx - Excel
+15:15:50:  于斌1
+15:16:25:  个人周报-张开发 (55).xlsx - Excel
+15:17:35:  数据抓取工具 - Google Chrome
+15:17:40:  打开
+15:18:05:  数据抓取工具 - Google Chrome
+15:18:15:  于斌1
+15:19:25:  正在打开 - Excel
+15:19:30:  TCR+DRB+CRS 项目周报.xlsx  [受保护的视图] - Excel
+15:19:35:  Excel
+15:19:40:  TCR+DRB+CRS 项目周报.xlsx  [共享] - Excel
+15:22:05:  运行
+15:22:15:  06- 刘建生
+15:22:20:  正在打开 - Excel
+15:22:25:  周报及工作日志.xlsx - Excel
+15:24:50:  InstrExecute.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:25:00:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+15:25:05:  InstrExecute.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:25:10:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+15:25:15:  InstrExecute.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:25:20:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c • (trunk) - Sublime Text (UNREGISTERED)
+15:25:25:  InstrExecute.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:25:30:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c • (trunk) - Sublime Text (UNREGISTERED)
+15:25:35:  InstrExecute.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:25:40:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+15:25:55:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c • (trunk) - Sublime Text (UNREGISTERED)
+15:26:05:  InstrExecute.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:26:20:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+15:26:25:  InstrExecute.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:28:25:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+15:28:30:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c • (trunk) - Sublime Text (UNREGISTERED)
+15:28:45:  主页 - Internet Explorer
+15:28:50:  新北洋OA信息化平台 - Internet Explorer
+15:28:55:  员工自助 - Internet Explorer
+15:29:00:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_AM_MENU.C_ATT_EQRY.GBL?FolderPath=POR - Internet Explorer
+15:29:05:  考勤异常 - Internet Explorer
+15:29:25:  员工自助 - Internet Explorer
+15:29:30:  考勤异常 - Internet Explorer
+15:29:50:  桌面整理
+15:29:55:  正在打开 - Excel
+15:30:00:  异常20201127.xlsx - Excel
+15:28:25:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+15:28:30:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c • (trunk) - Sublime Text (UNREGISTERED)
+15:28:45:  主页 - Internet Explorer
+15:28:50:  新北洋OA信息化平台 - Internet Explorer
+15:28:55:  员工自助 - Internet Explorer
+15:29:00:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_AM_MENU.C_ATT_EQRY.GBL?FolderPath=POR - Internet Explorer
+15:29:05:  考勤异常 - Internet Explorer
+15:29:25:  员工自助 - Internet Explorer
+15:29:30:  考勤异常 - Internet Explorer
+15:29:50:  桌面整理
+15:29:55:  正在打开 - Excel
+15:30:00:  异常20201127.xlsx - Excel
+15:30:25:  补签卡流程 - Internet Explorer
+15:30:30:  员工考勤异常信息 -- 网页对话框
+15:30:35:  补签卡流程 - Internet Explorer
+15:31:15:  员工考勤异常信息 -- 网页对话框
+15:31:20:  补签卡流程 - Internet Explorer
+15:31:25:  异常20201127.xlsx - Excel
+15:31:30:  补签卡流程 - Internet Explorer
+15:31:40:  新北洋OA信息化平台 - Internet Explorer
+15:31:50:  0_发起流程_补签卡流程 - Internet Explorer
+15:31:55:  补签卡流程 - Internet Explorer
+15:32:05:  新北洋OA信息化平台 - Internet Explorer
+15:32:10:  0_发起流程_补签卡流程 - Internet Explorer
+15:32:15:  员工自助 - Internet Explorer
+15:32:20:  补签卡流程 - Internet Explorer
+15:32:40:  员工考勤异常信息 -- 网页对话框
+15:32:45:  补签卡流程 - Internet Explorer
+15:32:50:  异常20201127.xlsx - Excel
+15:32:55:  补签卡流程 - Internet Explorer
+15:33:35:  员工考勤异常信息 -- 网页对话框
+15:33:40:  补签卡流程 - Internet Explorer
+15:34:40:  锁屏状态
+15:34:45:  异常20201127.xlsx - Excel
+15:34:55:  补签卡流程 - Internet Explorer
+15:35:25:  异常20201127.xlsx - Excel
+15:35:35:  补签卡流程 - Internet Explorer
+15:36:20:  于斌1
+15:36:30:  补签卡流程 - Internet Explorer
+15:37:05:  员工自助 - Internet Explorer
+15:37:10:  补签卡流程 - Internet Explorer
+15:37:25:  移动打卡审批 - Internet Explorer
+15:37:30:  异常20201127.xlsx - Excel
+15:37:35:  移动打卡审批 - Internet Explorer
+15:37:45:  异常20201127.xlsx - Excel
+15:37:50:  移动打卡审批 - Internet Explorer
+15:43:05:  异常20201127.xlsx - Excel
+15:43:40:  移动打卡审批 - Internet Explorer
+15:44:10:  锁屏状态
+15:44:15:  补签卡流程 - Internet Explorer
+15:44:20:  员工考勤异常信息 -- 网页对话框
+15:44:25:  异常20201127.xlsx - Excel
+15:44:40:  补签卡流程 - Internet Explorer
+15:44:45:  移动打卡审批 - Internet Explorer
+15:44:10:  锁屏状态
+15:44:15:  补签卡流程 - Internet Explorer
+15:44:20:  员工考勤异常信息 -- 网页对话框
+15:44:25:  异常20201127.xlsx - Excel
+15:44:40:  补签卡流程 - Internet Explorer
+15:44:45:  移动打卡审批 - Internet Explorer
+15:47:40:  异常20201127.xlsx - Excel
+15:47:50:  移动打卡审批 - Internet Explorer
+15:47:55:  异常20201127.xlsx - Excel
+15:48:00:  移动打卡审批 - Internet Explorer
+15:48:15:  异常20201127.xlsx - Excel
+15:48:35:  移动打卡审批 - Internet Explorer
+15:48:40:  异常20201127.xlsx - Excel
+15:48:45:  移动打卡审批 - Internet Explorer
+15:49:00:  于斌1
+15:49:05:  异常20201127.xlsx - Excel
+15:49:20:  移动打卡审批 - Internet Explorer
+15:49:25:  补签卡流程 - Internet Explorer
+15:50:05:  移动打卡审批 - Internet Explorer
+15:50:15:  补签卡流程 - Internet Explorer
+15:50:25:  员工自助 - Internet Explorer
+15:50:30:  eSpace
+15:50:35:  于斌1
+15:50:40:  我的薪酬 - Internet Explorer
+15:50:45:  新北洋OA信息化平台 - Internet Explorer
+15:50:50:  测试需求通知单II类提交 - Internet Explorer
+15:50:55:  于斌1
+15:51:10:  锁屏状态
+15:51:20:  代码 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:51:25:  InstrHandle.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:51:40:  代码 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:52:00:  PaperManage.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:53:50:  代码 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:54:00:  Update.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:54:10:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)
+15:54:25:  D:\00-06\1T1-Stop-Length\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+15:54:35:  Update.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:54:45:  代码 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+15:54:55:  trunk
+15:55:00:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+15:55:15:  InstrExecute.c - TortoiseMerge
+15:55:25:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+15:55:30:  1T1-Stop-Length
+15:55:35:  D:\00-06\1T1-82 - 工作副本 - TortoiseSVN
+15:55:40:  PlateCtrl.c - TortoiseMerge
+15:55:45:  D:\00-06\1T1-82 - 工作副本 - TortoiseSVN
+15:55:50:  StepMotorDriver.c - TortoiseMerge
+15:55:55:  D:\00-06\1T1-82 - 工作副本 - TortoiseSVN
+15:56:05:  Plate.c - TortoiseMerge
+15:58:40:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:59:00:  1T1-82
+15:59:05:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:59:10:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:59:15:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+15:59:30:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+15:59:35:  trunk
+15:59:40:  DRB-NearFull
+15:59:45:  工作副本
+15:59:50:  LowerPlateCtrl.c - TortoiseMerge
+15:59:55:  D:\00-06\DRB-NearFull - 工作副本 - TortoiseSVN
+16:00:00:  LowerPlate.c - TortoiseMerge
+15:58:40:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:59:00:  1T1-82
+15:59:05:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+15:59:10:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+15:59:15:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+15:59:30:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+15:59:35:  trunk
+15:59:40:  DRB-NearFull
+15:59:45:  工作副本
+15:59:50:  LowerPlateCtrl.c - TortoiseMerge
+15:59:55:  D:\00-06\DRB-NearFull - 工作副本 - TortoiseSVN
+16:00:00:  LowerPlate.c - TortoiseMerge
+16:00:35:  DRB-NearFull
+16:00:40:  Plate.c - TortoiseMerge
+16:00:50:  D:\00-06\DRB-NearFull\Middlewares\StepMotor\StepMotor.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+16:00:55:  选择文件夹
+16:01:05:  untitled (1T1-82) - Sublime Text (UNREGISTERED)
+16:01:10:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+16:01:20:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+16:01:25:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+16:01:30:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+16:01:40:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+16:01:50:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+16:02:00:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+16:02:10:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c • (1T1-82) - Sublime Text (UNREGISTERED)
+16:02:20:  00-06
+16:02:25:  D:\00-06\DRB-NearFull - 工作副本 - TortoiseSVN
+16:02:30:  LowerPlate.c - TortoiseMerge
+16:03:05:  D:\00-06\DRB-NearFull - 工作副本 - TortoiseSVN
+16:03:15:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+16:03:20:  代码 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:03:25:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:03:35:  D:\00-06\DRB-NearFull\Project\CashBox_1T2.uvprojx - μVision
+16:04:10:  Project
+16:04:15:  D:\00-06\1T1-82\Middlewares\Plate\Plate.c (1T1-82) - Sublime Text (UNREGISTERED)
+16:04:35:  于斌1
+16:05:00:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:06:00:  DebugLog.h - trunk - Visual Studio Code [管理员]
+16:06:20:  异常20201127.xlsx - Excel
+16:06:25:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:06:30:  于斌1
+16:07:15:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:07:20:  SonarQube - Google Chrome
+16:07:25:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:07:35:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+16:07:45:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:07:50:  00-06
+16:07:55:  trunk
+16:08:00:  D:\00-06\1T1-Stop-Length\trunk - 日志信息 - TortoiseSVN
+16:08:10:  trunk
+16:08:15:  代码 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:08:20:  InstrExecute.c - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:08:25:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:08:30:  Loss of precision (arg. no. 4) (float to unsigned short) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:08:45:  D:\00-06\1T1-Stop-Length\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+16:08:50:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:09:15:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+16:09:20:  Loss of precision (arg. no. 4) (float to unsigned short) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:09:40:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+16:09:45:  Loss of precision (arg. no. 4) (float to unsigned short) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:09:55:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c • (trunk) - Sublime Text (UNREGISTERED)
+16:10:00:  Loss of precision (arg. no. 4) (float to unsigned short) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:10:10:  另存为
+16:10:15:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:10:20:  Significant prototype coercion (arg. no. 4) float to unsigned short - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:10:25:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:10:30:  Unusual use of 'SYM' in argument to sizeof - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:10:35:  Loss of precision (assignment) (23 bits to 16 bits) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:10:45:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Applications\PlateCtrl\PlateCtrl.c (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+16:10:55:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:11:00:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:11:15:  Loss of precision (assignment) (23 bits to 16 bits) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:11:20:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:11:25:  锁屏状态
+16:11:30:  Loss of precision (assignment) (23 bits to 16 bits) - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:11:40:  Symbol 'PlateStackTSensorExist(PLATE_ID)' (line 1272, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\trunk\Middlewares\Plate\Plate.c) not referenced - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:11:50:  μVision
+16:11:55:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+16:12:00:  FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:12:10:  项目总览 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:12:15:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:12:35:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:12:45:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:13:00:  DebugLog.h - trunk - Visual Studio Code [管理员]
+16:13:05:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:13:15:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:13:20:  D:\00-06\1T1-Stop-Length\trunk - 提交 - TortoiseSVN
+16:13:30:  trunk
+16:13:50:  Issues - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:13:55:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:14:15:  eSpace
+16:14:20:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:14:15:  eSpace
+16:14:20:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:15:50:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:16:20:  另存为
+16:16:30:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:17:10:  untitled (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+16:17:15:  Bug • (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+16:17:20:  主要 • (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+16:17:25:  Pointer parameter 'Parameter' (line 31) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:17:40:  项目 - Google Chrome
+16:17:45:  程明昌
+16:17:55:  项目 - Google Chrome
+16:18:00:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:18:10:  程明昌
+16:18:20:  活动 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:20:11:  DebugLog.h - trunk - Visual Studio Code [管理员]
+16:20:16:  项目总览 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:20:26:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:20:56:  扩展程序
+16:21:01:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:21:56:  Bug • (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+16:22:01:  (C (Community)) L0018: Symbol 'Symbol' redeclared • (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+16:22:11:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:23:01:  Symbol '__thumb_startup(void)' redeclared (void/nonvoid) conflicts with line 61 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:23:11:  扩展程序
+16:23:16:  问题 - FW_BTCR-1100_K06_MAIN%trunk - Google Chrome
+16:24:06:  Symbol '__thumb_startup(void)' redeclared (void/no • (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+16:32:41:  本地磁盘 (D:)
+16:32:46:  新建文件夹 (3)
+16:32:51:  通道传输过程中卡钞 超过最大长度持续有钞  返回码0X814602A2
+16:32:56:  Decode
+16:33:01:  打开
+16:33:06:  K64_BTCR-1100200600510420_20201127161410.log - DRB.tat - TextAnalysisTool.NET
+16:33:36:  Edit Filter
+16:33:41:  K64_BTCR-1100200600510420_20201127161410.log - DRB.tat* - TextAnalysisTool.NET
+16:34:36:  Decode
+16:34:41:  K64_BTCR-1100200600510420_20201127161402.log - DRB.tat* - TextAnalysisTool.NET
+16:35:06:  K64_BTCR-1100200600510420_20201127161057.log - DRB.tat* - TextAnalysisTool.NET
+16:35:56:  桌面整理
+16:36:01:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:36:36:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:36:41:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:36:56:  DebugLog.h - trunk - Visual Studio Code [管理员]
+16:37:01:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:37:16:  K64_BTCR-1100200600510420_20201127161057.log - DRB.tat* - TextAnalysisTool.NET
+16:37:26:  LogExpert - D:\fenxi\爆仓问题(1)\20201112\20201112\Decode\ESC_12345678_20201112175118.log
+16:37:31:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:37:36:  K64_BTCR-1100200600510420_20201127161057.log - DRB.tat* - TextAnalysisTool.NET
+16:38:31:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:39:16:  K64_BTCR-1100200600510420_20201127161057.log - DRB.tat* - TextAnalysisTool.NET
+16:40:51:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:43:36:  K64_BTCR-1100200600510420_20201127161057.log - DRB.tat* - TextAnalysisTool.NET
+16:43:51:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:43:56:  K64_BTCR-1100200600510420_20201127161057.log - DRB.tat* - TextAnalysisTool.NET
+16:51:26:  Symbol '__thumb_startup(void)' redeclared (void/no • (BR-1-CashBox1T2-Press) - Sublime Text (UNREGISTERED)
+16:51:31:  K64_BTCR-1100200600510420_20201127161057.log - DRB.tat* - TextAnalysisTool.NET
+16:51:46:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+16:57:21:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+17:04:36:  D:\00-06\1T1-Stop-Length\trunk\Applications\Update\Update.c (trunk) - Sublime Text (UNREGISTERED)
+17:05:06:  Decode
+17:05:11:  Project
+17:05:21:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+17:05:46:  Toolbox
+17:05:51:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+17:06:26:  KE06LOG.bat - 快捷方式 (2)
+17:06:31:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+17:06:46:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202011271706.log

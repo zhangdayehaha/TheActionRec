@@ -1,0 +1,121 @@
+08:08:21:  Dialog
+08:08:36:  CommonManageTool
+08:08:41:  查看知识共享
+08:09:11:  eSpace Login
+08:09:16:  桌面整理
+08:09:31:  收取邮件 - 张开发
+08:09:36:  
+08:12:11:  DRB测试缺陷.xlsx
+08:12:21:  DRB测试缺陷.xlsx  [只读] - Excel
+08:12:41:  便签条
+08:13:36:  Microsoft Excel
+08:13:41:  
+08:14:06:  计算机
+08:14:16:  第3轮DRB测试
+08:14:21:  DRB-200120600010
+08:14:31:  ID-3 测试DRB钞箱（DRB-200120600010），大额存款后，纸币进错上下腔。
+08:14:36:  DRB-200120600009
+08:14:46:  IMG_9495.JPG - Windows 照片查看器
+08:14:51:  文件访问被拒绝
+08:14:56:  本地磁盘 (D:)
+08:15:01:  正在复制 21 个项目(49.7 MB)
+08:15:06:  ID-13使用100、50元各300张直接存款，软件返回T11入钞112张，T10入钞218张回收箱进入96张报通道传输过程中卡钞 超过最大长度持续有钞 ，返回码814602B6，打开钞箱发
+08:15:16:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:15:26:  K64_BTCR-1100200101100016_20200502095459
+08:15:31:  Box_1__BTCR-1100200101100016_20200502095459.log - [No filter file] - TextAnalysisTool.NET
+08:15:51:  Box_1__BTCR-1100200101100016_20200502095459.log - selector.tat - TextAnalysisTool.NET
+08:16:46:  ID-13使用100、50元各300张直接存款，软件返回T11入钞112张，T10入钞218张回收箱进入96张报通道传输过程中卡钞 超过最大长度持续有钞 ，返回码814602B6，打开钞箱发
+08:16:51:  Box_1__BTCR-1100200101100016_20200502095459.log - selector.tat - TextAnalysisTool.NET
+08:17:01:  ID-13使用100、50元各300张直接存款，软件返回T11入钞112张，T10入钞218张回收箱进入96张报通道传输过程中卡钞 超过最大长度持续有钞 ，返回码814602B6，打开钞箱发
+08:17:06:  Box_1__BTCR-1100200101100016_20200502095459.log - selector.tat - TextAnalysisTool.NET
+08:17:11:  Add Filter
+08:17:16:  Box_1__BTCR-1100200101100016_20200502095459.log - selector.tat - TextAnalysisTool.NET
+08:18:31:  K64_BTCR-1100200101100016_20200502095459
+08:18:36:  K64-_BTCR-1100200101100016_20200502095459.log - selector.tat - TextAnalysisTool.NET
+08:18:41:  Add Filter
+08:18:51:  K64-_BTCR-1100200101100016_20200502095459.log - selector.tat* - TextAnalysisTool.NET
+08:19:11:  Edit Filter
+08:19:16:  K64-_BTCR-1100200101100016_20200502095459.log - selector.tat* - TextAnalysisTool.NET
+08:19:41:  Box_1__BTCR-1100200101100016_20200502095459.log - selector.tat* - TextAnalysisTool.NET
+08:19:51:  K64_BTCR-1100200101100016_20200502095459
+08:19:56:  K64-_BTCR-1100200101100016_20200502095459.log - selector.tat* - TextAnalysisTool.NET
+08:20:11:  Edit Filter
+08:20:16:  K64-_BTCR-1100200101100016_20200502095459.log - selector.tat* - TextAnalysisTool.NET
+08:20:21:  Edit Filter
+08:20:26:  Box_1__BTCR-1100200101100016_20200502095459.log - selector.tat* - TextAnalysisTool.NET
+08:20:46:  K64-_BTCR-1100200101100016_20200502095459.log - selector.tat* - TextAnalysisTool.NET
+08:21:16:  Box_1__BTCR-1100200101100016_20200502095459.log - selector.tat* - TextAnalysisTool.NET
+08:21:46:  CRS SVN路径
+08:21:51:  Box_1__BTCR-1100200101100016_20200502095459.log - selector.tat* - TextAnalysisTool.NET
+08:22:01:  Decode
+08:22:06:  1元测试日志
+08:22:11:  ID-14使用 100、50元各300直接存款，软件返回进入T11箱299张，进入T10箱300张，实际全部进入T10下腔室。
+08:22:16:  Decode
+08:22:21:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:22:26:  
+08:22:31:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:22:36:  
+08:24:21:  Decode
+08:24:26:  1元测试日志
+08:24:31:  ID-14使用 100、50元各300直接存款，软件返回进入T11箱299张，进入T10箱300张，实际全部进入T10下腔室。
+08:24:41:  Decode
+08:24:46:  Box_1__BTCR-1100200101100016_20200502105520.log - selector.tat* - TextAnalysisTool.NET
+08:25:06:  K64_BTCR-1100200101100016_20200502105520
+08:25:11:  LOG
+08:25:16:  Box_1__BTCR-1100200101100016_20200502105158.log - selector.tat* - TextAnalysisTool.NET
+08:25:31:  
+08:25:41:  远程邮箱管理
+08:25:46:  Box_1__BTCR-1100200101100016_20200502105158.log - selector.tat* - TextAnalysisTool.NET
+08:25:51:  
+08:26:06:  K64_BTCR-1100200101100016_20200502105158
+08:26:16:  
+08:26:21:  DRB-200120600008
+08:26:31:  正在准备 再循环
+08:26:36:  DRB-200120600008
+08:26:41:  1元测试日志
+08:26:46:  正在复制 33 个项目(86.6 MB)
+08:26:51:  1元测试日志
+08:27:01:  ID-12  大额存款流程T10入钞100元300张后，执行大额取款，出钞口298，回收箱2张，报钞箱口 500ms纸币未进入 返回码0X015E0900
+08:27:11:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:27:26:  LOG
+08:27:31:  Box_2__BTCR-1100200101100016_20200430154409.log - selector.tat* - TextAnalysisTool.NET
+08:28:46:  
+08:29:01:  Box_2__BTCR-1100200101100016_20200430154409.log - selector.tat* - TextAnalysisTool.NET
+08:29:56:  Edit Filter
+08:30:01:  Box_2__BTCR-1100200101100016_20200430154409.log - selector.tat* - TextAnalysisTool.NET
+08:28:46:  
+08:29:01:  Box_2__BTCR-1100200101100016_20200430154409.log - selector.tat* - TextAnalysisTool.NET
+08:29:56:  Edit Filter
+08:30:01:  Box_2__BTCR-1100200101100016_20200430154409.log - selector.tat* - TextAnalysisTool.NET
+08:31:01:  Add Filter
+08:31:06:  YoudaoDictStrokeIcon
+08:31:11:  Box_2__BTCR-1100200101100016_20200430154409.log - selector.tat* - TextAnalysisTool.NET
+08:31:56:  K64_BTCR-1100200101100016_20200430154328
+08:32:01:  1元测试日志
+08:32:06:  ID-13 混合面额（上腔10元，下腔100元）大额存款第19张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X874601B9，两张钞票（100元PZ78051049、
+08:32:16:  IMG_20200430_160335.jpg - Windows 照片查看器
+08:32:21:  ID-13 混合面额（上腔10元，下腔100元）大额存款第19张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X874601B9，两张钞票（100元PZ78051049、
+08:32:31:  Decode
+08:32:36:  Box_2__BTCR-1100200101100016_20200430155903.log - selector.tat* - TextAnalysisTool.NET
+08:33:41:  K64_BTCR-1100200101100016_20200430155903
+08:33:46:  1元测试日志
+08:33:51:  本地磁盘 (D:)
+08:33:56:  
+08:34:01:  本地磁盘 (D:)
+08:34:06:  DRB-200120600007
+08:34:21:  ID-9  民生银行DRB(7#)上腔50元 大额存款300张后，执行普通取款，取款至298张报钞箱口 500ms纸币未进入 返回码0X025E0900,上腔剩余纸币状态完好
+08:34:26:  DRB-200120600007
+08:34:36:  第3轮DRB测试
+08:34:51:  DRB-200120600009
+08:35:21:  
+08:35:26:  DRB-200120600009
+08:37:11:  DRB-Seclect-New
+08:37:16:  D:\00-06\DRB-Seclect-New - 日志信息 - TortoiseSVN
+08:38:31:  V1.003
+08:38:36:  TCR调测工具 V3.36
+08:39:01:  钞箱配置
+08:39:16:  TCR调测工具 V3.36
+08:47:56:  DRB-Seclect-New
+08:48:01:  
+08:48:16:  DRB-Seclect-New
+08:48:21:  第3轮DRB测试

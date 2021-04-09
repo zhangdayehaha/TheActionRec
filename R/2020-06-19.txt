@@ -1,0 +1,37 @@
+2020-06-19 14:37:35-- 14:45:00     :    一  ：W   31/2.58分钟       二  ：dist   28/2.33分钟     三  ：D:\00-18\CRS\Applications\ImpellerCtrl\ImpellerCtrl.c (CRS) - Sublime Text (UNREGISTERED)   24/2.0分钟
+2020-06-19 14:45:00-- 15:00:00     :    一  ：新建文本文档.py - D:\00-记录\记录\2019-12\2019-12-16 08-01-12\新建文本文档.py (3.7.3)   56/4.66分钟       二  ：*新建文本文档.py - D:\00-记录\记录\2019-12\2019-12-16 08-01-12\新建文本文档.py (3.7.3)*   25/2.08分钟     三  ：D:\00-18\CRS\Applications\ImpellerCtrl\ImpellerCtrl.c (CRS) - Sublime Text (UNREGISTERED)   15/1.25分钟
+2020-06-19 15:00:00-- 15:15:00     :    一  ：D:\00-18\CRS\Applications\ImpellerCtrl\ImpellerCtrl.c (CRS) - Sublime Text (UNREGISTERED)   127/10.5分钟       二  ：(70 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome   34/2.83分钟     三  ：D:\00-18\CRS\Applications\InstrExp\InstrExp.c (CRS) - Sublime Text (UNREGISTERED)   10/0.83分钟
+2020-06-19 15:15:00-- 15:30:00     :    一  ：Box_3__BTCR-1100190803000001_20200619091535.log - DRB.tat* - TextAnalysisTool.NET   69/5.75分钟       二  ：D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)   26/2.16分钟     三  ：于斌1   21/1.75分钟
+2020-06-19 15:30:00-- 15:45:01     :    一  ：新结构DRB钞箱测试   42/3.5分钟       二  ：IMG_20200619_092237.jpg - Windows 照片查看器   23/1.91分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)   21/1.75分钟
+2020-06-19 15:45:01-- 16:00:01     :    一  ：letgo   23/1.91分钟       二  ：PostWork.py - F:\PostWork\PostWork.py (3.7.3)   18/1.5分钟     三  ：D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)   17/1.41分钟
+2020-06-19 16:00:01-- 16:15:01     :    一  ：eSpace   45/3.75分钟       二  ：程明昌   25/2.08分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   24/2.0分钟
+2020-06-19 16:15:01-- 16:30:01     :    一  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   77/6.41分钟       二  ：于斌1   69/5.75分钟     三  ：C:\Users\zhangkaifa\Downloads\scrapy\知乎爬取\letgo\letgo\爬取结果\你怎样拒绝「奶头乐」？.txt (trunk) - Sublime Text (UNREGISTERED)   26/2.16分钟
+2020-06-19 16:30:01-- 16:45:01     :    一  ：于斌1   76/6.33分钟       二  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   61/5.08分钟     三  ：D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)   22/1.83分钟
+2020-06-19 16:45:01-- 17:00:01     :    一  ：D:\00-18\CRS\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS) - Sublime Text (UNREGISTERED)   66/5.5分钟       二  ：BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [兼容模式] - Word   62/5.16分钟     三  ：D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   35/2.91分钟
+2020-06-19 17:00:01-- 17:15:01     :    一  ：D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   178/14.8分钟       二  ：荆文波   1/0.08分钟     三  ：锁屏状态   1/0.08分钟
+2020-06-19 17:15:01-- 17:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 17:30:01-- 17:45:02     :    一  ：D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   148/12.3分钟       二  ：D:\00-06\DRB-PRESS\Applications\Application.h (DRB-PRESS) - Sublime Text (UNREGISTERED)   31/2.58分钟     三  ：eSpace   1/0.08分钟
+2020-06-19 17:45:02-- 18:00:02     :    一  ：D:\00-06\DRB-PRESS\Applications\Update\Update.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   125/10.4分钟       二  ：D:\00-06\DRB-PRESS\Applications\Application.h (DRB-PRESS) - Sublime Text (UNREGISTERED)   55/4.58分钟     三  ：   0/0.0分钟
+2020-06-19 18:00:02-- 18:15:02     :    一  ：D:\00-06\DRB-PRESS\Applications\Update\Update.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   110/9.16分钟       二  ：锁屏状态   46/3.83分钟     三  ：eSpace   8/0.66分钟
+2020-06-19 18:15:02-- 18:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 18:30:02-- 18:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 18:45:02-- 19:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 19:00:02-- 19:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 19:15:02-- 19:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 19:30:02-- 19:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 19:45:02-- 20:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 20:00:02-- 20:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 20:15:03-- 20:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 20:30:03-- 20:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 20:45:03-- 21:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 21:00:03-- 21:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 21:15:03-- 21:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 21:30:03-- 21:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 21:45:03-- 22:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 22:00:03-- 22:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 22:15:03-- 22:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 22:30:03-- 22:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 22:45:04-- 23:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 23:00:04-- 23:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 23:15:04-- 23:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-06-19 23:30:04-- 23:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

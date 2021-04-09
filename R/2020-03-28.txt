@@ -1,0 +1,7 @@
+2020-03-28 08:07:30-- 08:30:03     :    一  ：6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel   92/7.66分钟       二  ：   81/6.75分钟     三  ：库   43/3.58分钟
+2020-03-28 08:30:03-- 09:00:03     :    一  ：6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel   135/11.2分钟       二  ：   28/2.33分钟     三  ：TCR调测工具 V3.36   20/1.66分钟
+2020-03-28 09:00:03-- 09:30:03     :    一  ：C:\Users\zhangkaifa\Documents\Class-Log-C1.exe   84/7.0分钟       二  ：   22/1.83分钟     三  ：D:\00-18BOOT\trunk\Project\ke18_rtt.uvprojx - μVision   22/1.83分钟
+2020-03-28 09:30:03-- 10:00:03     :    一  ：TCR调测工具 V3.36   179/14.9分钟       二  ：人民币版本DRB钞箱测试数据记录表.xlsx  [只读] - Excel   37/3.08分钟     三  ：EXTFEDU3V13.PDF - Adobe Reader   23/1.91分钟
+2020-03-28 10:00:03-- 10:30:04     :    一  ：   92/7.66分钟       二  ：D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   46/3.83分钟     三  ：通道电机测试   43/3.58分钟
+2020-03-28 10:30:04-- 11:00:04     :    一  ：6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel   206/17.1分钟       二  ：D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\PlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   46/3.83分钟     三  ：TCR调测工具 V3.36   37/3.08分钟
+2020-03-28 11:00:04-- 11:30:04     :    一  ：D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   54/4.5分钟       二  ：6.2.2.6 钞箱测试1T2.xls  [兼容模式] - Excel   45/3.75分钟     三  ：于斌1   43/3.58分钟

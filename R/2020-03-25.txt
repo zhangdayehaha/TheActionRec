@@ -1,0 +1,34 @@
+2020-03-25 08:09:06-- 08:30:01     :    一  ：eSpace Login   72/6.0分钟       二  ：董鲁乾   51/4.25分钟     三  ：D:\00-06\1T1Stop\trunk\Applications\Instruction\InstrExecute.c (trunk) - Sublime Text (UNREGISTERED)   47/3.91分钟
+2020-03-25 08:55:08-- 09:00:04     :    一  ：新北洋2020年节假日列表 (1).xlsx - Excel   19/1.58分钟       二  ：*Python 3.7.3 Shell*   18/1.5分钟     三  ：D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   13/1.08分钟
+2020-03-25 09:00:04-- 09:15:02     :    一  ：郑磊   59/4.91分钟       二  ：D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   34/2.83分钟     三  ：费用报销流程_新北洋 - Internet Explorer   32/2.66分钟
+2020-03-25 09:15:02-- 09:30:00     :    一  ：D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   90/7.5分钟       二  ：打印   25/2.08分钟     三  ：D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)   21/1.75分钟
+2020-03-25 09:30:00-- 09:45:04     :    一  ：D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   97/8.08分钟       二  ：D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)   17/1.41分钟     三  ：D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   13/1.08分钟
+2020-03-25 09:45:04-- 10:00:04     :    一  ：D:\00-06\1T2-Seclect-Aging\Applications\PlateCtrl\UpperPlateCtrl.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   75/6.25分钟       二  ：(41 封私信) 首页 - 知乎 - Google Chrome   30/2.5分钟     三  ：LogExpert - C:\Users\zhangkaifa\Documents\TheActtionRec\W\2020-03-25.txt   26/2.16分钟
+2020-03-25 10:00:04-- 10:15:02     :    一  ：D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   36/3.0分钟       二  ：回复: TCR钞箱老化EEP位清零 - 写邮件   10:08:25 已保存   15/1.25分钟     三  ：回复: TCR钞箱老化EEP位清零 - 写邮件   10:05:24 已保存   12/1.0分钟
+2020-03-25 10:15:02-- 10:30:01     :    一  ：D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   17/1.41分钟       二  ：C:\Windows\system32\cmd.exe   16/1.33分钟     三  ：记录   14/1.16分钟
+2020-03-25 10:30:01-- 10:45:04     :    一  ：GetTheCoPlan.py - C:\Users\zhangkaifa\Pictures\GetTheCoPlan.py (3.7.3)   23/1.91分钟       二  ：本地磁盘 (F:)   18/1.5分钟     三  ：Progress Telerik Fiddler Web Debugger   18/1.5分钟
+2020-03-25 10:45:04-- 11:00:02     :    一  ：D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   49/4.08分钟       二  ：D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision   34/2.83分钟     三  ：D:\00-06\1T2-Seclect-Aging\Rtos\MQXLITE\MQX1.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   29/2.41分钟
+2020-03-25 11:00:02-- 11:15:00     :    一  ：D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision   63/5.25分钟       二  ：关于 VPS 和翻墙的那些事 - StarryVoid - Blog - Google Chrome   60/5.0分钟     三  ：D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   47/3.91分钟
+2020-03-25 11:15:00-- 11:30:03     :    一  ：D:\00-06\1T2-Seclect-Aging\Middlewares\Sensor\Sensor.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   94/7.83分钟       二  ：D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   37/3.08分钟     三  ：eSpace   27/2.25分钟
+2020-03-25 11:30:03-- 11:45:01     :    一  ：锁屏状态   176/14.6分钟       二  ：D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   2/0.16分钟     三  ：D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   1/0.08分钟
+2020-03-25 11:45:01-- 12:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-25 12:00:00-- 12:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-25 12:15:02-- 12:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-25 12:30:00-- 12:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-25 12:45:03-- 13:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-25 13:00:01-- 13:15:00     :    一  ：D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   142/11.8分钟       二  ：锁屏状态   36/3.0分钟     三  ：*Python 3.7.3 Shell*   1/0.08分钟
+2020-03-25 13:15:00-- 13:30:03     :    一  ：锁屏状态   108/9.0分钟       二  ：D:\00-06\1T2-Seclect-Aging\Drivers\SensorDriver\SensorDriver.c • (1T2-Seclect-Aging) - Sublime Text (UNREGISTERED)   51/4.25分钟     三  ：2020-03-25.txt - 记事本   13/1.08分钟
+2020-03-25 13:30:03-- 13:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-25 13:45:01-- 14:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-25 14:00:04-- 14:15:03     :    一  ：锁屏状态   135/11.2分钟       二  ：D:\00-06\1T2-Seclect-Aging\Project\CashBox_1T2.uvprojx - μVision   12/1.0分钟     三  ：00-06   10/0.83分钟
+2020-03-25 14:15:03-- 14:30:02     :    一  ：锁屏状态   61/5.08分钟       二  ：桌面整理   29/2.41分钟     三  ：资料共享   21/1.75分钟
+2020-03-25 14:30:02-- 14:45:00     :    一  ：锁屏状态   160/13.3分钟       二  ：TCR调测工具 V3.36   14/1.16分钟     三  ：桌面整理   1/0.08分钟
+2020-03-25 14:45:00-- 15:00:05     :    一  ：TCR调测工具 V3.36   66/5.5分钟       二  ：Box_1__0000_20200325145520.log - [No filter file]* - TextAnalysisTool.NET   26/2.16分钟     三  ：20200325   11/0.91分钟
+2020-03-25 15:00:05-- 15:15:03     :    一  ：TCR调测工具 V3.36   73/6.08分钟       二  ：D:\00-06\list\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision   34/2.83分钟     三  ：BR-1-CashBox1T2   8/0.66分钟
+2020-03-25 15:15:03-- 15:30:02     :    一  ：TCR调测工具 V3.36   123/10.2分钟       二  ：Box_1__0000_20200325151559.log - [No filter file]* - TextAnalysisTool.NET   18/1.5分钟     三  ：发送指令到K06   8/0.66分钟
+2020-03-25 15:30:02-- 15:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-25 15:45:01-- 16:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-25 16:00:00-- 16:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-25 16:15:04-- 16:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-03-25 16:30:03-- 16:45:02     :    一  ：TCR调测工具 V3.36   159/13.2分钟       二  ：Tools   14/1.16分钟     三  ：内部样机明细表--自研TCR--TCR机芯44-8台费用化(5台借用)--36台ERP账上（31台借用）---钞箱45--全部在ERP账上（44台借用）3-18.xlsx  [只读] - Excel   5/0.41分钟
+2020-03-25 16:45:02-- 17:00:01     :    一  ：发送邮件   83/6.91分钟       二  ：内部样机明细表--自研TCR--TCR机芯44-8台费用化(5台借用)--36台ERP账上（31台借用）---钞箱45--全部在ERP账上（44台借用）.xlsx  [只读] - Excel   26/2.16分钟     三  ：未命名 - 写邮件   12/1.0分钟

@@ -1,0 +1,1128 @@
+08:00:11:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:05:36:  本地磁盘 (D:)
+08:05:41:  fenxi
+08:05:46:  20200723
+08:05:51:  K64_BTCR-1100190802300005_20200723135542
+08:06:06:  fenxi
+08:06:16:  log
+08:06:21:  20200723
+08:06:26:  Decode
+08:06:31:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:06:36:  Decode
+08:09:26:  K64_BTCR-1100190803000001_20200723182057
+08:09:31:  Box_2__BTCR-1100190803000001_20200723182057.log - DRB.tat* - TextAnalysisTool.NET
+08:10:16:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:13:31:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:16:56:  Box_2__BTCR-1100190803000001_20200723182057.log - DRB.tat* - TextAnalysisTool.NET
+08:17:01:  RTT_SeggerLog_202007240813.log - DRB.tat* - TextAnalysisTool.NET
+08:17:11:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:18:01:  RTT_SeggerLog_202007240813.log - DRB.tat* - TextAnalysisTool.NET
+08:20:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:20:41:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision (未响应)
+08:20:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:22:46:  RTT_SeggerLog_202007240822.log - DRB.tat* - TextAnalysisTool.NET
+08:23:06:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:23:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:24:31:  Toolbox
+08:24:36:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:26:01:  KE06LOG.bat - 快捷方式 (2)
+08:26:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:27:01:  RTT_SeggerLog_202007240825.log - DRB.tat* - TextAnalysisTool.NET
+08:27:11:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:28:01:  RTT_SeggerLog_202007240825.log - DRB.tat* - TextAnalysisTool.NET
+08:29:16:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:29:31:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:29:36:  跳转列表
+08:29:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:29:51:  J-Link V6.10b Device Selection
+08:30:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:29:16:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:29:31:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:29:36:  跳转列表
+08:29:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:29:51:  J-Link V6.10b Device Selection
+08:30:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:30:31:  RTT_SeggerLog_202007240830.log - DRB.tat* - TextAnalysisTool.NET
+08:30:36:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:31:31:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:31:46:  KE06LOG.bat - 快捷方式 (2)
+08:31:51:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:32:01:  RTT_SeggerLog_202007240830.log - DRB.tat* - TextAnalysisTool.NET
+08:32:06:  RTT_SeggerLog_202007240831.log - DRB.tat* - TextAnalysisTool.NET
+08:32:11:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:32:16:  文本分列向导 - 第 1 步，共 3 步
+08:32:21:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:34:11:  5.12 直流电机功能测试 .xlsx - Excel
+08:34:21:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:35:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:36:06:  SEGGER J-Link V6.10b - Control panel
+08:36:11:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:36:41:  RTT_SeggerLog_202007240836.log - DRB.tat* - TextAnalysisTool.NET
+08:36:46:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:38:26:  桌面整理
+08:38:31:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+08:41:16:  丁文科
+08:41:41:  KE06LOG.bat - 快捷方式 (2)
+08:42:01:  丁文科
+08:42:41:  eSpace
+08:43:11:  丁文科
+08:43:46:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+08:43:56:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:44:51:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:44:56:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:44:51:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:44:56:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:45:26:  Toolbox
+08:45:31:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:45:51:  KE06LOG.bat - 快捷方式 (2)
+08:45:56:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:46:21:  RTT_SeggerLog_202007240845.log - DRB.tat* - TextAnalysisTool.NET
+08:46:26:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:46:31:  文本分列向导 - 第 1 步，共 3 步
+08:46:36:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:46:56:  RTT_SeggerLog_202007240845.log - DRB.tat* - TextAnalysisTool.NET
+08:47:06:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:47:51:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:49:21:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007231814.log
+08:49:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:49:36:  RTT_SeggerLog_202007240849.log - DRB.tat* - TextAnalysisTool.NET
+08:49:46:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:50:31:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:50:36:  Toolbox
+08:50:41:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:50:46:  丁文科
+08:53:21:  KE06LOG.bat - 快捷方式 (2)
+08:53:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:53:31:  RTT_SeggerLog_202007240849.log - DRB.tat* - TextAnalysisTool.NET
+08:53:36:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:53:41:  RTT_SeggerLog_202007240849.log - DRB.tat* - TextAnalysisTool.NET
+08:53:46:  RTT_SeggerLog_202007240853.log - DRB.tat* - TextAnalysisTool.NET
+08:53:56:  锁屏状态
+08:54:01:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:54:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:55:21:  Toolbox
+08:55:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:56:01:  RTT_SeggerLog_202007240855.log - DRB.tat* - TextAnalysisTool.NET
+08:56:11:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:56:56:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:58:21:  RTT_SeggerLog_202007240855.log - DRB.tat* - TextAnalysisTool.NET
+08:58:41:  RTT_SeggerLog_202007240858.log - DRB.tat* - TextAnalysisTool.NET
+08:58:46:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:59:01:  锁屏状态
+08:59:06:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:59:26:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:59:31:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:59:41:  RTT_SeggerLog_202007240859.log - DRB.tat* - TextAnalysisTool.NET
+08:59:56:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:58:21:  RTT_SeggerLog_202007240855.log - DRB.tat* - TextAnalysisTool.NET
+08:58:41:  RTT_SeggerLog_202007240858.log - DRB.tat* - TextAnalysisTool.NET
+08:58:46:  新建 Microsoft Excel 工作表.xlsx - Excel
+08:59:01:  锁屏状态
+08:59:06:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:59:26:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+08:59:31:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:59:41:  RTT_SeggerLog_202007240859.log - DRB.tat* - TextAnalysisTool.NET
+08:59:56:  新建 Microsoft Excel 工作表.xlsx - Excel
+09:01:51:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:03:12:  00-06
+09:03:17:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+09:03:42:  打开
+09:03:52:  TCR调测工具 V3.36
+09:03:57:  打开
+09:04:02:  TCR调测工具 V3.36
+09:06:22:  钞箱配置
+09:06:27:  TCR调测工具 V3.36
+09:07:07:  log
+09:07:12:  20200724
+09:07:17:  Decode
+09:07:22:  Box_1__0000_20200724090635.log - DRB.tat* - TextAnalysisTool.NET
+09:08:42:  TCR调测工具 V3.36
+09:12:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:12:47:  TCR调测工具 V3.36
+09:13:17:  20200724
+09:14:37:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:14:42:  LOG
+09:14:47:  Box_1__0000_20200724091250.log - DRB.tat* - TextAnalysisTool.NET
+09:14:37:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:14:42:  LOG
+09:14:47:  Box_1__0000_20200724091250.log - DRB.tat* - TextAnalysisTool.NET
+09:15:27:  新建 Microsoft Excel 工作表.xlsx - Excel
+09:16:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:16:42:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+09:17:32:  Tools
+09:17:37:  打开
+09:17:42:  TCR调测工具 V3.36
+09:19:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:20:22:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+09:20:27:  打开
+09:20:32:  TCR调测工具 V3.36
+09:22:32:  20200724
+09:22:37:  删除多个项目
+09:22:42:  20200724
+09:24:02:  Decode
+09:24:12:  K64_0000_20200724092216
+09:24:17:  Box_1__0000_20200724092216.log - DRB.tat* - TextAnalysisTool.NET
+09:25:27:  K64_0000_20200724092216
+09:26:47:  Box_1__0000_20200724092216.log - DRB.tat* - TextAnalysisTool.NET
+09:26:52:  本地磁盘 (D:)
+09:26:57:  钞箱1T2集成测试方案
+09:27:02:  5.12 直流电机功能测试 .xlsx - Excel
+09:28:57:  锁屏状态
+09:29:02:  TCR调测工具 V3.36
+09:28:57:  锁屏状态
+09:29:02:  TCR调测工具 V3.36
+09:30:17:  20200724
+09:30:47:  TCR调测工具 V3.36
+09:31:32:  20200724
+09:32:52:  Decode
+09:32:57:  LOG
+09:33:02:  Box_1__0000_20200724093057.log - DRB.tat* - TextAnalysisTool.NET
+09:33:17:  K64_0000_20200724093057
+09:33:22:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:33:27:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:33:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:34:27:  DRB集成测试
+09:34:32:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+09:34:37:  打开
+09:34:42:  TCR调测工具 V3.36
+09:37:07:  20200724
+09:37:12:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:37:17:  D:\00-06\DRB-PRESS\FwLib\DebugLog\DebugLog.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:37:32:  D:\00-06\DRB-PRESS\FwLib\DebugLog\LogPrint\PrintService.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:38:37:  20200724
+09:38:47:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:38:57:  Decode
+09:39:02:  LOG
+09:39:07:  Box_1__0000_20200724093633.log - DRB.tat* - TextAnalysisTool.NET
+09:39:32:  新建 Microsoft Excel 工作表.xlsx - Excel
+09:39:57:  Box_1__0000_20200724093633.log - DRB.tat* - TextAnalysisTool.NET
+09:40:12:  新建 Microsoft Excel 工作表.xlsx - Excel
+09:40:52:  D:\00-06\1T1-Stop-Length\trunk\Project\CashBox.uvprojx - μVision
+09:40:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:41:37:  Tools
+09:41:42:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+09:41:47:  TCR调测工具 V3.36
+09:46:42:  20200724
+09:48:27:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:48:32:  K64_0000_20200724094550
+09:48:37:  Box_1__0000_20200724094550.log - DRB.tat* - TextAnalysisTool.NET
+09:54:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:55:47:  新建 Microsoft Excel 工作表.xlsx - Excel
+09:56:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:57:02:  KE06LOG.bat - 快捷方式 (2)
+09:57:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:58:32:  Box_1__0000_20200724094550.log - DRB.tat* - TextAnalysisTool.NET
+09:59:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:59:22:  KE06LOG.bat - 快捷方式 (2)
+09:59:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:58:32:  Box_1__0000_20200724094550.log - DRB.tat* - TextAnalysisTool.NET
+09:59:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:59:22:  KE06LOG.bat - 快捷方式 (2)
+09:59:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:01:47:  KE06LOG.bat - 快捷方式 (2)
+10:01:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:02:22:  RTT_SeggerLog_202007241001.log - DRB.tat* - TextAnalysisTool.NET
+10:02:27:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:02:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:03:02:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+10:03:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:04:57:  RTT_SeggerLog_202007241001.log - DRB.tat* - TextAnalysisTool.NET
+10:05:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:05:27:  RTT_SeggerLog_202007241004.log - DRB.tat* - TextAnalysisTool.NET
+10:05:32:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:05:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:06:37:  Sonar：有多个Keil工程的项目检查结果错误问题
+10:06:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:07:37:  跳转列表
+10:07:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:07:57:  RTT_SeggerLog_202007241007.log - DRB.tat* - TextAnalysisTool.NET
+10:08:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:08:17:  新建 Microsoft Excel 工作表.xlsx  [工作组] - Excel
+10:08:22:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:09:12:  TCR调测工具 V3.36
+10:09:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:09:22:  RTT_SeggerLog_202007210858.log 属性
+10:09:32:  接收
+10:09:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:09:57:  KE06LOG.bat - 快捷方式 (2)
+10:10:02:  RTT_SeggerLog_202007241007.log - DRB.tat* - TextAnalysisTool.NET
+10:10:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:10:22:  RTT_SeggerLog_202007241009.log - DRB.tat* - TextAnalysisTool.NET
+10:10:32:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:11:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:11:27:  DRB-PRESS
+10:11:32:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+10:11:47:  Bldc.c - TortoiseMerge
+10:11:52:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+10:12:07:  Track.c - TortoiseMerge
+10:12:22:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+10:12:37:  SystemConfig.h - TortoiseMerge
+10:12:42:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+10:12:47:  Initial.c - TortoiseMerge
+10:12:52:  DRB-PRESS
+10:12:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:13:47:  荆文波
+10:14:07:  RTT_SeggerLog_202007241009.log - DRB.tat* - TextAnalysisTool.NET
+10:14:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:14:37:  荆文波
+10:14:42:  RTT_SeggerLog_202007241009.log - DRB.tat* - TextAnalysisTool.NET
+10:14:47:  RTT_SeggerLog_202007241014.log - DRB.tat* - TextAnalysisTool.NET
+10:14:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:15:02:  文本分列向导 - 第 1 步，共 3 步
+10:14:07:  RTT_SeggerLog_202007241009.log - DRB.tat* - TextAnalysisTool.NET
+10:14:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:14:37:  荆文波
+10:14:42:  RTT_SeggerLog_202007241009.log - DRB.tat* - TextAnalysisTool.NET
+10:14:47:  RTT_SeggerLog_202007241014.log - DRB.tat* - TextAnalysisTool.NET
+10:14:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:15:02:  文本分列向导 - 第 1 步，共 3 步
+10:15:07:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:17:17:  荆文波
+10:17:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:18:27:  DRB-PRESS
+10:18:32:  Tools
+10:18:37:  BTCRTestTool
+10:18:42:  TCR调测工具 V3.36
+10:19:22:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:19:57:  TCR调测工具 V3.36
+10:20:42:  荆文波
+10:20:52:  20200724
+10:21:47:  Decode
+10:21:52:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:21:57:  K64_0000_20200724102003
+10:22:02:  Box_1__0000_20200724102003.log - DRB.tat* - TextAnalysisTool.NET
+10:22:27:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:23:57:  TCR调测工具 V3.36
+10:25:07:  于斌1
+10:25:12:  eSpace
+10:25:17:  于斌1
+10:25:42:  荆文波
+10:26:12:  于斌1
+10:26:42:  TCR调测工具 V3.36
+10:27:02:  20200724
+10:27:12:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:27:22:  LOG
+10:27:27:  Box_1__0000_20200724102003.log - DRB.tat* - TextAnalysisTool.NET
+10:27:32:  Box_1__0000_20200724102436.log - DRB.tat* - TextAnalysisTool.NET
+10:27:52:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:28:27:  丁文科
+10:28:37:  锁屏状态
+10:28:42:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:28:57:  Box_1__0000_20200724102436.log - DRB.tat* - TextAnalysisTool.NET
+10:29:22:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:29:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:28:27:  丁文科
+10:28:37:  锁屏状态
+10:28:42:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:28:57:  Box_1__0000_20200724102436.log - DRB.tat* - TextAnalysisTool.NET
+10:29:22:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:29:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:30:07:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+10:30:17:  TCR调测工具 V3.36
+10:32:12:  D:\00-06\DRB-PRESS\FwLib\DebugLog\LogPrint\PrintService.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:32:17:  untitled (trunk) - Sublime Text (UNREGISTERED)
+10:32:27:  D:\00-06\1T1-Stop-Length\trunk\Applications\Instruction\InstrHandle.c (trunk) - Sublime Text (UNREGISTERED)
+10:32:42:  D:\00-06\1T1-Stop-Length\trunk\Applications\ErrCode\ErrCode.h (trunk) - Sublime Text (UNREGISTERED)
+10:34:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:34:28:  TCR调测工具 V3.36
+10:37:38:  20200724
+10:37:43:  Decode
+10:37:48:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:37:53:  Decode
+10:38:08:  K64_0000_20200724103505
+10:38:13:  Box_1__0000_20200724103505.log - DRB.tat* - TextAnalysisTool.NET
+10:39:03:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:39:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:40:13:  TCR调测工具 V3.36
+10:45:08:  20200724
+10:45:13:  Decode
+10:45:18:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:45:23:  Decode
+10:45:28:  LOG
+10:45:33:  Box_1__0000_20200724104329.log - DRB.tat* - TextAnalysisTool.NET
+10:46:03:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:46:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+10:46:28:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:47:13:  Box_1__0000_20200724104329.log - DRB.tat* - TextAnalysisTool.NET
+10:48:13:  D:\00-06\DRB-PRESS\FwLib\DebugLog\LogPrint\PrintService.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:48:18:  D:\00-06\DRB-PRESS\FwLib\DebugLog\DebugLog.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:48:48:  D:\00-06\DRB-PRESS\Applications\Initial\Initial.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:48:58:  D:\00-06\DRB-PRESS\FwLib\DebugLog\DebugLog.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:49:03:  D:\00-06\DRB-PRESS\Applications\Initial\Initial.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:49:13:  D:\00-06\DRB-PRESS\FwLib\DebugLog\LogPrint\PrintService.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:51:48:  D:\00-06\DRB-PRESS\Applications\Initial\Initial.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:52:03:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:53:13:  Box_1__0000_20200724104329.log - DRB.tat* - TextAnalysisTool.NET
+10:54:23:  TCR调测工具 V3.36
+10:57:48:  20200724
+10:57:58:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:58:03:  Decode
+10:58:08:  K64_0000_20200724105630
+10:58:13:  Box_1__0000_20200724105630.log - DRB.tat* - TextAnalysisTool.NET
+10:58:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:59:58:  BTCRTestTool
+11:00:03:  TCR调测工具 V3.36
+10:58:08:  K64_0000_20200724105630
+10:58:13:  Box_1__0000_20200724105630.log - DRB.tat* - TextAnalysisTool.NET
+10:58:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+10:59:58:  BTCRTestTool
+11:00:03:  TCR调测工具 V3.36
+11:01:48:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:02:28:  TCR调测工具 V3.36
+11:04:18:  BTCRTestTool
+11:04:23:  TCR调测工具 V3.36
+11:04:33:  K64_0000_20200724105630
+11:04:38:  20200724
+11:04:43:  Decode
+11:04:48:  TextAnalysisTool.NET
+11:04:53:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+11:04:58:  Decode
+11:05:08:  LOG
+11:05:13:  Box_1__0000_20200724110416.log - DRB.tat* - TextAnalysisTool.NET
+11:06:48:  TCR调测工具 V3.36
+11:06:58:  荆文波
+11:07:13:  TCR调测工具 V3.36
+11:07:53:  20200724
+11:09:28:  Decode
+11:09:33:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:09:38:  Decode
+11:09:43:  K64_0000_20200724110723
+11:09:48:  Box_1__0000_20200724110723.log - DRB.tat* - TextAnalysisTool.NET
+11:10:13:  文本分列向导 - 第 1 步，共 3 步
+11:10:18:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:10:53:  钞箱配置
+11:10:58:  TCR调测工具 V3.36
+11:11:38:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:12:23:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+11:13:23:  锁屏状态
+11:13:28:  Tools
+11:13:33:  打开
+11:13:38:  荆文波
+11:13:58:  TCR调测工具 V3.36
+11:14:03:  荆文波
+11:14:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:14:38:  荆文波
+11:14:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:14:18:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:14:38:  荆文波
+11:14:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:15:18:  打开
+11:15:23:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+11:15:28:  打开
+11:15:38:  远程邮箱管理
+11:15:48:  TCR调测工具 V3.36
+11:17:38:  系统登录 - Internet Explorer
+11:17:43:  新北洋OA信息化平台 - Internet Explorer
+11:17:48:  Excel
+11:17:53:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:18:03:  TCR调测工具 V3.36
+11:18:43:  2020年新北洋张村食堂7.20-7.26菜谱.xlsx  [受保护的视图] - Excel
+11:18:53:  于斌1
+11:18:58:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:19:13:  20200724
+11:19:23:  Decode
+11:19:28:  K64_0000_20200724111808
+11:19:33:  Box_1__0000_20200724111808.log - DRB.tat* - TextAnalysisTool.NET
+11:19:58:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:20:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:21:48:  TCR调测工具 V3.36
+11:23:28:  于斌1
+11:23:33:  Tools
+11:24:28:  K64_0000_20200724111808
+11:24:33:  20200724
+11:24:38:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:24:43:  Decode
+11:24:48:  K64_0000_20200724112222
+11:24:53:  Box_1__0000_20200724112222.log - DRB.tat* - TextAnalysisTool.NET
+11:25:23:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:25:28:  文本分列向导 - 第 1 步，共 3 步
+11:25:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:25:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:26:03:  Tools
+11:26:13:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+11:26:23:  打开
+11:26:28:  TCR调测工具 V3.36
+11:27:28:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:27:48:  TCR调测工具 V3.36
+11:29:53:  20200724
+11:29:53:  20200724
+11:30:28:  LOG
+11:30:33:  Box_1__0000_20200724112222.log - DRB.tat* - TextAnalysisTool.NET
+11:30:53:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:31:08:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:31:28:  Tools
+11:32:03:  TCR调测工具 V3.36
+11:33:43:  20200724
+11:34:53:  回收 
+11:34:58:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:35:03:  Decode
+11:35:23:  LOG
+11:35:28:  Box_1__0000_20200724112222.log - DRB.tat* - TextAnalysisTool.NET
+11:35:33:  Box_1__0000_20200724113311.log - DRB.tat* - TextAnalysisTool.NET
+11:35:58:  锁屏状态
+11:36:03:  Box_1__0000_20200724113311.log - DRB.tat* - TextAnalysisTool.NET
+11:36:18:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:36:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:36:38:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:36:53:  TCR调测工具 V3.36
+11:39:28:  锁屏状态
+11:39:33:  20200724
+11:39:43:  Decode
+11:39:48:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:39:53:  Decode
+11:40:13:  K64_0000_20200724113827
+11:40:18:  Box_1__0000_20200724113827.log - DRB.tat* - TextAnalysisTool.NET
+11:40:33:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:42:28:  TCR调测工具 V3.36
+11:44:08:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:44:43:  20200724
+11:44:08:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+11:44:43:  20200724
+11:45:08:  Decode
+11:45:13:  K64_0000_20200724114353
+11:45:18:  Box_1__0000_20200724114353.log - DRB.tat* - TextAnalysisTool.NET
+11:45:23:  新建 Microsoft Excel 工作表.xlsx - Excel
+11:45:48:  锁屏状态
+13:18:34:  新建 Microsoft Excel 工作表.xlsx - Excel
+13:20:04:  新标签页 - Google Chrome
+13:20:09:  登录页面 - 数据抓取工具 - Google Chrome
+13:20:14:  数据抓取工具 - Google Chrome
+13:20:49:  Excel
+13:20:54:  个人周报-张开发 (43).xlsx - Excel
+13:22:55:  新建 Microsoft Excel 工作表.xlsx - Excel
+13:23:00:  数据抓取工具 - Google Chrome
+13:23:05:  打开
+13:23:10:  新建 Microsoft Excel 工作表.xlsx - Excel
+13:23:20:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:23:35:  TCR调测工具 V3.36
+13:24:00:  自动播放
+13:24:05:  iTunes
+13:24:10:  TCR调测工具 V3.36
+13:24:40:  可接收
+13:24:45:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:25:25:  20200724
+13:26:20:  Decode
+13:26:25:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:26:30:  K64_0000_20200724132441
+13:26:35:  Box_1__0000_20200724132441.log - DRB.tat* - TextAnalysisTool.NET
+13:26:55:  新建 Microsoft Excel 工作表.xlsx - Excel
+13:27:20:  于斌1
+13:27:25:  新建 Microsoft Excel 工作表.xlsx - Excel
+13:27:30:  于斌1
+13:27:50:  新建 Microsoft Excel 工作表.xlsx - Excel
+13:28:00:  于斌1
+13:28:10:  TCR调测工具 V3.36
+13:28:15:  打开
+13:28:20:  TCR调测工具 V3.36
+13:28:35:  于斌1
+13:28:40:  TCR调测工具 V3.36
+13:29:00:  于斌1
+13:30:00:  TCR调测工具 V3.36
+13:28:10:  TCR调测工具 V3.36
+13:28:15:  打开
+13:28:20:  TCR调测工具 V3.36
+13:28:35:  于斌1
+13:28:40:  TCR调测工具 V3.36
+13:29:00:  于斌1
+13:30:00:  TCR调测工具 V3.36
+13:30:05:  于斌1
+13:30:30:  TCR调测工具 V3.36
+13:30:40:  打开
+13:30:55:  于斌1
+13:31:15:  TCR调测工具 V3.36
+13:31:35:  于斌1
+13:31:45:  TCR调测工具 V3.36
+13:31:50:  模块使能
+13:32:05:  TCR调测工具 V3.36
+13:32:15:  于斌1
+13:32:20:  TCR调测工具 V3.36
+13:32:30:  于斌1
+13:32:35:  锁屏状态
+13:32:40:  于斌1
+13:32:55:  模块使能
+13:33:00:  于斌1
+13:33:05:  TCR调测工具 V3.36
+13:35:30:  BTCRTestTool
+13:35:35:  TCR调测工具 V3.36
+13:37:00:  20200724
+13:37:10:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:37:15:  Decode
+13:37:20:  Box_1__0000_20200724132441.log - DRB.tat* - TextAnalysisTool.NET
+13:37:25:  Box_1__0000_20200724133528.log - DRB.tat* - TextAnalysisTool.NET
+13:37:45:  新建 Microsoft Excel 工作表.xlsx - Excel
+13:39:50:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:40:05:  D:\00-06\DRB-PRESS\FwLib\DebugLog\DebugLog.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:40:10:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:40:30:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:42:55:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:43:00:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:15:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:25:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:35:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:40:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:55:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:45:00:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:15:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:25:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:35:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:40:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:55:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:45:00:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:45:25:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:45:30:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:45:35:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:45:40:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:45:55:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:46:00:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:46:35:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:46:45:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:46:50:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:47:15:  本地磁盘 (D:)
+13:47:20:  D:\00-06\DRB-PRESS\Tools\CreateJK.exe
+13:47:25:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:47:50:  打开
+13:47:55:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:48:00:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:49:30:  计算器
+13:50:55:  TCR调测工具 V3.36
+13:51:25:  新建 Microsoft Excel 工作表.xlsx - Excel
+13:52:20:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+13:52:25:  锁屏状态
+13:52:35:  log
+13:52:40:  20200724
+13:52:45:  Decode
+13:52:55:  LOG
+13:53:00:  Box_1__0000_20200724135104.log - DRB.tat* - TextAnalysisTool.NET
+13:53:15:  新建 Microsoft Excel 工作表.xlsx - Excel
+13:53:20:  文本分列向导 - 第 1 步，共 3 步
+13:53:25:  新建 Microsoft Excel 工作表.xlsx - Excel
+13:53:40:  Box_1__0000_20200724135104.log - DRB.tat* - TextAnalysisTool.NET
+13:54:10:  计算器
+13:56:30:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:56:45:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:57:50:  Box_1__0000_20200724135104.log - DRB.tat* - TextAnalysisTool.NET
+13:58:40:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:58:40:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:12:40:  荆文波
+14:12:45:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:12:50:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:13:30:  于斌1
+14:13:35:  荆文波
+14:13:50:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:14:25:  荆文波
+14:14:45:  本地磁盘 (D:)
+14:14:50:  Tools
+14:15:00:  未命名 - 写邮件
+14:14:25:  荆文波
+14:14:45:  本地磁盘 (D:)
+14:14:50:  Tools
+14:15:00:  未命名 - 写邮件
+14:15:05:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V11_MAIN_T12 - 写邮件
+14:15:15:  荆文波
+14:15:40:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:16:05:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:16:10:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:16:55:  D:\00-06\DRB-PRESS\Applications\Initial\Initial.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:17:00:  μVision
+14:17:05:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:17:10:  μVision
+14:17:15:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:17:25:  于斌1
+14:17:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:19:25:  RTT_SeggerLog_202007241418.log - DRB.tat* - TextAnalysisTool.NET
+14:19:30:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:20:05:  RTT_SeggerLog_202007241418.log - DRB.tat* - TextAnalysisTool.NET
+14:21:40:  Add Filter
+14:21:45:  Edit Filter
+14:21:55:  RTT_SeggerLog_202007241418.log - DRB.tat* - TextAnalysisTool.NET
+14:22:00:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:22:50:  fenxi
+14:22:55:  新建文件夹
+14:23:00:  log
+14:23:05:  20200724
+14:23:10:  LOG
+14:23:15:  Box_2__BTCR-1100190803000001_20200724142133.log - DRB.tat* - TextAnalysisTool.NET
+14:24:10:  荆文波
+14:24:25:  TCR调测工具 V3.36
+14:24:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:24:40:  新建 Microsoft Excel 工作表.xlsx - Excel
+14:25:00:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:25:10:  RTT_SeggerLog_202007241424.log - DRB.tat* - TextAnalysisTool.NET
+14:25:40:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:25:50:  Toolbox
+14:26:00:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:26:30:  RTT_SeggerLog_202007241424.log - DRB.tat* - TextAnalysisTool.NET
+14:26:35:  RTT_SeggerLog_202007241425.log - DRB.tat* - TextAnalysisTool.NET
+14:28:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:28:35:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:40:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:29:00:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:30:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:28:35:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:40:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:29:00:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:31:20:  荆文波
+14:31:40:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:31:50:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:32:10:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:32:35:  This is an unregistered copy
+14:32:40:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:33:10:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:34:05:  WinRAR
+14:34:10:  log
+14:34:15:  fenxi
+14:34:20:  新建文件夹
+14:34:25:  20200724
+14:34:30:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:34:35:  K64_BTCR-1100190803000001_20200724143213
+14:34:40:  Box_2__BTCR-1100190803000001_20200724143213.log - DRB.tat* - TextAnalysisTool.NET
+14:35:11:  荆文波
+14:35:16:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:35:51:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:35:56:  Toolbox
+14:36:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:36:06:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:36:56:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241425.log
+14:37:26:  RTT_SeggerLog_202007241436.log - DRB.tat* - TextAnalysisTool.NET
+14:38:16:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:38:36:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:38:46:  RTT_SeggerLog_202007241436.log - DRB.tat* - TextAnalysisTool.NET
+14:39:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:39:16:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241436.log
+14:39:21:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241439.log
+14:39:36:  RTT_SeggerLog_202007241436.log - DRB.tat* - TextAnalysisTool.NET
+14:39:41:  RTT_SeggerLog_202007241439.log - DRB.tat* - TextAnalysisTool.NET
+14:40:16:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:43:16:  D:\00-06\DRB-PRESS\Cpu\MKE06Z4.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:43:26:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:45:46:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:46:31:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:49:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:49:36:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:49:46:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:50:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:50:31:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:50:46:  Toolbox
+14:50:51:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:50:56:  RTT_SeggerLog_202007241439.log - DRB.tat* - TextAnalysisTool.NET
+14:51:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:51:06:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241439.log
+14:51:31:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241450.log
+14:51:56:  锁屏状态
+14:52:06:  RTT_SeggerLog_202007241450.log - DRB.tat* - TextAnalysisTool.NET
+14:52:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:52:31:  RTT_SeggerLog_202007241450.log - DRB.tat* - TextAnalysisTool.NET
+14:52:41:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+14:52:51:  桌面整理
+14:52:56:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+14:53:56:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:54:36:  RTT_SeggerLog_202007241450.log - DRB.tat* - TextAnalysisTool.NET
+14:54:41:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:54:46:  RTT_SeggerLog_202007241450.log - DRB.tat* - TextAnalysisTool.NET
+14:55:06:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:57:21:  RTT_SeggerLog_202007241450.log - DRB.tat* - TextAnalysisTool.NET
+14:57:26:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:59:36:  计算器
+14:59:46:  YoudaoDictStrokeIcon
+14:59:51:  计算器
+14:59:36:  计算器
+14:59:46:  YoudaoDictStrokeIcon
+14:59:51:  计算器
+15:00:06:  荆文波
+15:00:11:  计算器
+15:00:16:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:00:56:  RTT_SeggerLog_202007241450.log - DRB.tat* - TextAnalysisTool.NET
+15:01:01:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:07:01:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+15:07:06:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:12:56:  RTT_SeggerLog_202007241450.log - DRB.tat* - TextAnalysisTool.NET
+15:13:06:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:18:56:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\Ke06bsp\ftm.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:19:06:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:19:16:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+15:19:31:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\Ke06bsp\ftm.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:20:11:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:20:41:  RTT_SeggerLog_202007241450.log - DRB.tat* - TextAnalysisTool.NET
+15:20:46:  荆文波
+15:20:51:  eSpace
+15:20:56:  刘茂林
+15:21:21:  RTT_SeggerLog_202007241450.log - DRB.tat* - TextAnalysisTool.NET
+15:21:26:  刘茂林
+15:22:16:  RTT_SeggerLog_202007241450.log - DRB.tat* - TextAnalysisTool.NET
+15:22:26:  刘茂林
+15:22:41:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:22:46:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:22:51:  刘茂林,张开发
+15:23:01:  eSpace Meeting
+15:23:06:  刘茂林,张开发
+15:23:41:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:23:46:  RTT_SeggerLog_202007241450.log - DRB.tat* - TextAnalysisTool.NET
+15:24:51:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:25:01:  RTT_SeggerLog_202007241450.log - DRB.tat* - TextAnalysisTool.NET
+15:25:06:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:26:11:  RTT_SeggerLog_202007241450.log - DRB.tat* - TextAnalysisTool.NET
+15:26:16:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:27:36:  RTT_SeggerLog_202007241450.log - DRB.tat* - TextAnalysisTool.NET
+15:27:46:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:28:31:  选择文件夹
+15:28:36:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:29:31:  刘茂林,张开发
+15:29:36:  选择文件夹
+15:29:46:  untitled (TCR-18) - Sublime Text (UNREGISTERED)
+15:29:56:  D:\00-18\TCR-18\Drivers\FtmDriver\CapDriver.c (TCR-18) - Sublime Text (UNREGISTERED)
+15:28:31:  选择文件夹
+15:28:36:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:29:31:  刘茂林,张开发
+15:29:36:  选择文件夹
+15:29:46:  untitled (TCR-18) - Sublime Text (UNREGISTERED)
+15:29:56:  D:\00-18\TCR-18\Drivers\FtmDriver\CapDriver.c (TCR-18) - Sublime Text (UNREGISTERED)
+15:31:16:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (TCR-18) - Sublime Text (UNREGISTERED)
+15:31:26:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (TCR-18) - Sublime Text (UNREGISTERED)
+15:31:31:  D:\00-18\TCR-18\Drivers\FtmDriver\CapDriver.c (TCR-18) - Sublime Text (UNREGISTERED)
+15:31:36:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (TCR-18) - Sublime Text (UNREGISTERED)
+15:31:51:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (TCR-18) - Sublime Text (UNREGISTERED)
+15:32:06:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (TCR-18) - Sublime Text (UNREGISTERED)
+15:32:21:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (TCR-18) - Sublime Text (UNREGISTERED)
+15:33:11:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (TCR-18) - Sublime Text (UNREGISTERED)
+15:33:21:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:34:06:  选择文件夹
+15:34:11:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:34:31:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:34:41:  RTT_SeggerLog_202007241450.log - DRB.tat* - TextAnalysisTool.NET
+15:35:21:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:35:26:  KE06LOG.bat - 快捷方式 (2)
+15:36:01:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241535.log
+15:36:11:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:36:21:  RTT_SeggerLog_202007241535.log - DRB.tat* - TextAnalysisTool.NET
+15:36:41:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:39:01:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:39:21:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:39:26:  RTT_SeggerLog_202007241535.log - DRB.tat* - TextAnalysisTool.NET
+15:39:31:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:40:06:  KE06LOG.bat - 快捷方式 (2)
+15:40:11:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241535.log
+15:40:16:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241540.log
+15:40:36:  锁屏状态
+15:40:41:  RTT_SeggerLog_202007241540.log - DRB.tat* - TextAnalysisTool.NET
+15:41:11:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:41:41:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:41:51:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:41:56:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:42:01:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:43:01:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:43:11:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:43:21:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:43:41:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241543.log
+15:44:06:  RTT_SeggerLog_202007241543.log - DRB.tat* - TextAnalysisTool.NET
+15:44:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\ErrCode\ErrCode.h (trunk) - Sublime Text (UNREGISTERED)
+15:44:16:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:44:21:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:44:31:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:44:36:  RTT_SeggerLog_202007241543.log - DRB.tat* - TextAnalysisTool.NET
+15:44:06:  RTT_SeggerLog_202007241543.log - DRB.tat* - TextAnalysisTool.NET
+15:44:11:  D:\00-06\1T1-Stop-Length\trunk\Applications\ErrCode\ErrCode.h (trunk) - Sublime Text (UNREGISTERED)
+15:44:16:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:44:21:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:44:31:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:44:36:  RTT_SeggerLog_202007241543.log - DRB.tat* - TextAnalysisTool.NET
+15:45:41:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241545.log
+15:46:06:  RTT_SeggerLog_202007241545.log - DRB.tat* - TextAnalysisTool.NET
+15:46:16:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:46:21:  计算器
+15:46:36:  RTT_SeggerLog_202007241545.log - DRB.tat* - TextAnalysisTool.NET
+15:46:41:  计算器
+15:46:46:  锁屏状态
+15:46:51:  RTT_SeggerLog_202007241545.log - DRB.tat* - TextAnalysisTool.NET
+15:46:56:  计算器
+15:47:06:  RTT_SeggerLog_202007241545.log - DRB.tat* - TextAnalysisTool.NET
+15:47:11:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:47:16:  计算器
+15:47:26:  RTT_SeggerLog_202007241545.log - DRB.tat* - TextAnalysisTool.NET
+15:47:31:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:47:41:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:48:06:  RTT_SeggerLog_202007241545.log - DRB.tat* - TextAnalysisTool.NET
+15:48:21:  计算器
+15:48:46:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:48:56:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:49:21:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:49:26:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:49:31:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:49:36:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:49:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:51:01:  KE06LOG.bat - 快捷方式 (2)
+15:51:11:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241551.log
+15:51:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:52:06:  RTT_SeggerLog_202007241551.log - DRB.tat* - TextAnalysisTool.NET
+15:52:11:  计算器
+15:53:36:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:54:11:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:54:21:  μVision
+15:54:26:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:54:46:  计算器
+15:55:46:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:57:36:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+15:57:41:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:59:01:  KE06LOG.bat - 快捷方式 (2)
+15:59:06:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241551.log
+15:59:11:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241559.log
+15:59:31:  RTT_SeggerLog_202007241551.log - DRB.tat* - TextAnalysisTool.NET
+15:59:41:  计算器
+15:59:01:  KE06LOG.bat - 快捷方式 (2)
+15:59:06:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241551.log
+15:59:11:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241559.log
+15:59:31:  RTT_SeggerLog_202007241551.log - DRB.tat* - TextAnalysisTool.NET
+15:59:41:  计算器
+16:01:11:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:01:16:  计算器
+16:01:46:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:01:51:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (TCR-18) - Sublime Text (UNREGISTERED)
+16:02:01:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:02:06:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:03:36:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241603.log
+16:03:56:  RTT_SeggerLog_202007241559.log - DRB.tat* - TextAnalysisTool.NET
+16:04:01:  RTT_SeggerLog_202007241603.log - DRB.tat* - TextAnalysisTool.NET
+16:05:46:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:07:16:  RTT_SeggerLog_202007241603.log - DRB.tat* - TextAnalysisTool.NET
+16:07:46:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:08:17:  RTT_SeggerLog_202007241603.log - DRB.tat* - TextAnalysisTool.NET
+16:08:27:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:13:22:  RTT_SeggerLog_202007241603.log - DRB.tat* - TextAnalysisTool.NET
+16:13:52:  特殊软件统计-固件设计中心.xlsx
+16:13:57:  回复: 特殊软件统计
+16:14:02:  新建 Microsoft Excel 工作表.xlsx - Excel
+16:14:37:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:14:47:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\Ke06bsp\ftm.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:14:52:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:14:37:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:14:47:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\Ke06bsp\ftm.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:14:52:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:15:57:  RTT_SeggerLog_202007241603.log - DRB.tat* - TextAnalysisTool.NET
+16:16:32:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:17:02:  RTT_SeggerLog_202007241603.log - DRB.tat* - TextAnalysisTool.NET
+16:17:32:  计算器
+16:18:12:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:19:17:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:19:27:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:19:32:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:20:27:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:20:37:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:20:47:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:21:22:  网易有道词典
+16:21:27:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:21:32:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\Ke06bsp\ftm.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:21:37:  D:\00-06\DRB-PRESS\Cpu\MKE06Z4.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:21:42:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+16:25:27:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:25:47:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:25:52:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:26:22:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\FtmConfig.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:26:32:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:26:47:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\PitDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:26:52:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:02:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:07:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:12:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:27:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:29:42:  eSpace
+16:28:07:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:12:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:27:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:28:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:29:42:  eSpace
+16:30:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:30:22:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241630.log
+16:30:42:  RTT_SeggerLog_202007241630.log - DRB.tat* - TextAnalysisTool.NET
+16:32:57:  计算器
+16:33:07:  RTT_SeggerLog_202007241630.log - DRB.tat* - TextAnalysisTool.NET
+16:36:07:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:36:22:  锁屏状态
+16:36:27:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:36:42:  RTT_SeggerLog_202007241630.log - DRB.tat* - TextAnalysisTool.NET
+16:36:57:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:37:02:  RTT_SeggerLog_202007241630.log - DRB.tat* - TextAnalysisTool.NET
+16:38:37:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+16:39:17:  RTT_SeggerLog_202007241630.log - DRB.tat* - TextAnalysisTool.NET
+16:41:27:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+16:42:37:  RTT_SeggerLog_202007241630.log - DRB.tat* - TextAnalysisTool.NET
+16:44:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:44:32:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:44:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:44:32:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:17:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:22:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:52:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:45:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:46:12:  JLink - Cortex-M Error
+16:46:17:  μVision
+16:46:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:46:27:  μVision
+16:46:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:46:57:  Toolbox
+16:47:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:47:17:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241647.log
+16:47:32:  RTT_SeggerLog_202007241647.log - DRB.tat* - TextAnalysisTool.NET
+16:48:27:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:48:47:  RTT_SeggerLog_202007241647.log - DRB.tat* - TextAnalysisTool.NET
+16:49:22:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:49:27:  RTT_SeggerLog_202007241647.log - DRB.tat* - TextAnalysisTool.NET
+16:50:02:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:50:57:  RTT_SeggerLog_202007241647.log - DRB.tat* - TextAnalysisTool.NET
+16:51:52:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:52:37:  RTT_SeggerLog_202007241647.log - DRB.tat* - TextAnalysisTool.NET
+16:53:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:53:22:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:53:47:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:53:52:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:54:12:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:54:37:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:54:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:54:47:  锁屏状态
+16:54:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:56:37:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:56:42:  D:\00-18\TCR-18\Drivers\FtmDriver\CapDriver.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:56:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:57:32:  RTT_SeggerLog_202007241630.log - DRB.tat* - TextAnalysisTool.NET
+16:57:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+16:58:52:  D:\00-18\TCR-18\Drivers\FtmDriver\CapDriver.c (TCR-18) - Sublime Text (UNREGISTERED)
+16:58:52:  D:\00-18\TCR-18\Drivers\FtmDriver\CapDriver.c (TCR-18) - Sublime Text (UNREGISTERED)
+17:00:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:04:22:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+17:04:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:04:47:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+17:05:07:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:05:22:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+17:05:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:06:32:  D:\00-18\TCR-18\Drivers\FtmDriver\CapDriver.c (TCR-18) - Sublime Text (UNREGISTERED)
+17:06:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:06:57:  D:\00-18\TCR-18\Drivers\FtmDriver\CapDriver.c (TCR-18) - Sublime Text (UNREGISTERED)
+17:07:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:10:07:  μVision
+17:10:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:10:47:  KE06LOG.bat - 快捷方式 (2)
+17:10:57:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241710.log
+17:11:22:  RTT_SeggerLog_202007241710.log - DRB.tat* - TextAnalysisTool.NET
+17:11:52:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:11:57:  新建 Microsoft Excel 工作表.xlsx - Excel
+17:12:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:12:47:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241712.log
+17:13:07:  RTT_SeggerLog_202007241710.log - DRB.tat* - TextAnalysisTool.NET
+17:13:17:  RTT_SeggerLog_202007241630.log - DRB.tat* - TextAnalysisTool.NET
+17:13:52:  RTT_SeggerLog_202007241712.log - DRB.tat* - TextAnalysisTool.NET
+17:14:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:14:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:16:52:  RTT_SeggerLog_202007241712.log - DRB.tat* - TextAnalysisTool.NET
+17:17:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:19:47:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241719.log
+17:20:02:  RTT_SeggerLog_202007241719.log - DRB.tat* - TextAnalysisTool.NET
+17:20:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:20:17:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241719.log
+17:20:27:  RTT_SeggerLog_202007241719.log - DRB.tat* - TextAnalysisTool.NET
+17:20:32:  Add Filter
+17:20:37:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241719.log
+17:21:17:  RTT_SeggerLog_202007241719.log - DRB.tat* - TextAnalysisTool.NET
+17:22:02:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:22:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:22:17:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:22:37:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:23:02:  KE06LOG.bat - 快捷方式 (2)
+17:23:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:23:17:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:23:22:  μVision
+17:23:27:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:23:42:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:24:37:  KE06LOG.bat - 快捷方式 (2)
+17:24:47:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241724.log
+17:25:17:  Edit Filter
+17:25:22:  RTT_SeggerLog_202007241724.log - DRB.tat* - TextAnalysisTool.NET
+17:25:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:26:07:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241724.log
+17:26:22:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:26:47:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:26:52:  RTT_SeggerLog_202007241724.log - DRB.tat* - TextAnalysisTool.NET
+17:26:57:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:27:12:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:27:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:27:57:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+17:28:02:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:28:22:  Toolbox
+17:28:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:28:52:  KE06LOG.bat - 快捷方式 (2)
+17:29:02:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241728.log
+17:29:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:29:17:  RTT_SeggerLog_202007241728.log - DRB.tat* - TextAnalysisTool.NET
+17:29:22:  锁屏状态
+17:29:27:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:28:22:  Toolbox
+17:28:27:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:28:52:  KE06LOG.bat - 快捷方式 (2)
+17:29:02:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241728.log
+17:29:12:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:29:17:  RTT_SeggerLog_202007241728.log - DRB.tat* - TextAnalysisTool.NET
+17:29:22:  锁屏状态
+17:29:27:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:31:32:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:31:42:  Toolbox
+17:31:47:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:32:42:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241728.log
+17:32:52:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241732.log
+17:33:17:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:35:12:  Sublime Text
+17:35:17:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:36:47:  RTT_SeggerLog_202007241728.log - DRB.tat* - TextAnalysisTool.NET
+17:37:02:  RTT_SeggerLog_202007241732.log - DRB.tat* - TextAnalysisTool.NET
+17:42:17:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:48:47:  RTT_SeggerLog_202007241732.log - DRB.tat* - TextAnalysisTool.NET
+17:50:02:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:50:22:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:50:33:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:51:23:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:51:38:  D:\00-18\TCR-18\Drivers\FtmDriver\CapDriver.c (TCR-18) - Sublime Text (UNREGISTERED)
+17:51:58:  KE06LOG.bat - 快捷方式 (2)
+17:52:08:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241751.log
+17:52:28:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+17:52:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+17:52:53:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+18:07:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:08:08:  D:\00-06\1T1-Stop-Length\trunk\Applications\ErrCode\ErrCode.h (trunk) - Sublime Text (UNREGISTERED)
+18:08:13:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (trunk) - Sublime Text (UNREGISTERED)
+18:09:23:  MKE06P80M48SF0RM(中文).pdf - Adobe Reader
+18:09:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:09:53:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (trunk) - Sublime Text (UNREGISTERED)
+18:11:28:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\FtmConfig.c (trunk) - Sublime Text (UNREGISTERED)
+18:11:38:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (trunk) - Sublime Text (UNREGISTERED)
+18:12:08:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\FtmConfig.c (trunk) - Sublime Text (UNREGISTERED)
+18:12:28:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (trunk) - Sublime Text (UNREGISTERED)
+18:12:58:  D:\00-06\DRB-PRESS\Cpu\MKE06Z4.h (trunk) - Sublime Text (UNREGISTERED)
+18:13:03:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\Ke06bsp\ftm.h (trunk) - Sublime Text (UNREGISTERED)
+18:13:08:  D:\00-06\DRB-PRESS\Cpu\MKE06Z4.h (trunk) - Sublime Text (UNREGISTERED)
+18:13:13:  D:\00-06\1T1-Stop-Length\trunk\Cpu\MKE06Z4.h (trunk) - Sublime Text (UNREGISTERED)
+18:13:23:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (trunk) - Sublime Text (UNREGISTERED)
+18:13:28:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\FtmConfig.h (trunk) - Sublime Text (UNREGISTERED)
+18:13:33:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (trunk) - Sublime Text (UNREGISTERED)
+18:16:03:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:16:48:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241816.log
+18:17:38:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:17:43:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241816.log
+18:17:58:  锁屏状态
+18:18:08:  RTT_SeggerLog_202007241816.log - DRB.tat* - TextAnalysisTool.NET
+18:18:18:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241816.log
+18:18:33:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:18:38:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241816.log
+18:18:43:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (trunk) - Sublime Text (UNREGISTERED)
+18:18:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:19:38:  Toolbox
+18:19:43:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:19:48:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007241816.log
+18:19:53:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+18:19:58:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (trunk) - Sublime Text (UNREGISTERED)
+18:20:03:  锁屏状态
+18:20:08:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (trunk) - Sublime Text (UNREGISTERED)
+18:22:48:  RTT_SeggerLog_202007241816.log - DRB.tat* - TextAnalysisTool.NET
+18:23:33:  计算器
+18:23:58:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (trunk) - Sublime Text (UNREGISTERED)
+18:25:53:  RTT_SeggerLog_202007241816.log - DRB.tat* - TextAnalysisTool.NET
+18:26:18:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (trunk) - Sublime Text (UNREGISTERED)
+18:26:58:  RTT_SeggerLog_202007241816.log - DRB.tat* - TextAnalysisTool.NET
+18:27:08:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\FtmDriver\CapDriver\CapDriver.c (trunk) - Sublime Text (UNREGISTERED)
+18:32:33:  锁屏状态

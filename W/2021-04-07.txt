@@ -1,0 +1,1982 @@
+08:33:58:  DRB测试缺陷0406.xlsx
+08:34:08:  BNE-C52210122000006问题记录
+08:34:13:  ID-1 通道传输过程中卡钞纸币残留SENSOR_UAS04 返回码0X80460403，初始化后纸币异常折叠。
+08:34:18:  IMG_20210406_150633.jpg - Windows 照片查看器
+08:34:33:  IMG_20210406_150639.jpg - Windows 照片查看器
+08:34:38:  ID-1 通道传输过程中卡钞纸币残留SENSOR_UAS04 返回码0X80460403，初始化后纸币异常折叠。
+08:34:43:  BNE-C52210122000006问题记录
+08:34:48:  本地磁盘 (D:)
+08:34:53:  00-分析
+08:35:08:  正在复制 136 个项目(382 MB)
+08:35:18:  剩余 30 秒
+08:35:28:  剩余 20 秒
+08:35:33:  剩余 10 秒
+08:35:38:  剩余 5 秒
+08:35:48:  00-分析
+08:35:58:  于斌1
+08:36:18:  ID-1 通道传输过程中卡钞纸币残留SENSOR_UAS04 返回码0X80460403，初始化后纸币异常折叠。
+08:36:23:  于斌1
+08:36:28:  Decode
+08:36:33:  删除多个项目
+08:36:38:  于斌1
+08:37:13:  Decode
+08:37:18:  K64_BTCR-1100200600510423_20210406150928
+08:37:23:  于斌1
+08:38:18:  LOG
+08:38:33:  Box_3__BTCR-1100200600510423_20210406150008.log - DRB2.tat* - TextAnalysisTool.NET
+08:38:58:  LOG
+08:39:03:  K64_BTCR-1100200600510423_20210406150053
+08:39:08:  Box_3__BTCR-1100200600510423_20210406150053.log - DRB2.tat* - TextAnalysisTool.NET
+08:39:18:  于斌1
+08:39:38:  K64_BTCR-1100200600510423_20210406150225
+08:39:43:  于斌1
+08:39:53:  Box_3__BTCR-1100200600510423_20210406150300.log - DRB2.tat* - TextAnalysisTool.NET
+08:40:13:  于斌1
+08:40:18:  Box_3__BTCR-1100200600510423_20210406150300.log - DRB2.tat* - TextAnalysisTool.NET
+08:40:33:  K64_BTCR-1100200600510423_20210406150300
+08:40:38:  K64-_BTCR-1100200600510423_20210406150300.log - DRB2.tat* - TextAnalysisTool.NET
+08:40:48:  K64_BTCR-1100200600510423_20210406150300
+08:40:53:  Box_3__BTCR-1100200600510423_20210406150300.log - DRB2.tat* - TextAnalysisTool.NET
+08:41:03:  K64_BTCR-1100200600510423_20210406150420
+08:41:08:  K64_BTCR-1100200600510423_20210406150445
+08:41:13:  K64_BTCR-1100200600510423_20210406150523
+08:41:18:  LOG
+08:41:23:  Box_3__BTCR-1100200600510423_20210406150643.log - DRB2.tat* - TextAnalysisTool.NET
+08:41:28:  LOG
+08:41:33:  Box_3__BTCR-1100200600510423_20210406150928.log - DRB2.tat* - TextAnalysisTool.NET
+08:41:38:  K64_BTCR-1100200600510423_20210406150928
+08:41:43:  K64_BTCR-1100200600510423_20210406150504
+08:41:48:  LOG
+08:41:53:  K64-_BTCR-1100200600510423_20210406150420.log - DRB2.tat* - TextAnalysisTool.NET
+08:41:58:  K64_BTCR-1100200600510423_20210406150440
+08:42:03:  K64-_BTCR-1100200600510423_20210406150440.log - DRB2.tat* - TextAnalysisTool.NET
+08:42:09:  K64_BTCR-1100200600510423_20210406150445
+08:42:14:  K64_BTCR-1100200600510423_20210406150504
+08:42:19:  K64-_BTCR-1100200600510423_20210406150504.log - DRB2.tat* - TextAnalysisTool.NET
+08:42:24:  K64_BTCR-1100200600510423_20210406150523
+08:42:29:  K64-_BTCR-1100200600510423_20210406150523.log - DRB2.tat* - TextAnalysisTool.NET
+08:42:39:  K64_BTCR-1100200600510423_20210406150553
+08:42:49:  K64_BTCR-1100200600510423_20210406150636
+08:42:54:  K64-_BTCR-1100200600510423_20210406150643.log - DRB2.tat* - TextAnalysisTool.NET
+08:43:04:  K64_BTCR-1100200600510423_20210406150643
+08:43:19:  K64_BTCR-1100200600510423_20210406150841
+08:43:29:  K64-_BTCR-1100200600510423_20210406150928.log - DRB2.tat* - TextAnalysisTool.NET
+08:43:49:  K64_BTCR-1100200600510423_20210406150928
+08:43:54:  Box_3__BTCR-1100200600510423_20210406150928.log - DRB2.tat* - TextAnalysisTool.NET
+08:44:39:  LOG
+08:44:49:  Box_3__BTCR-1100200600510423_20210406150928.log - DRB2.tat* - TextAnalysisTool.NET
+08:44:39:  LOG
+08:44:49:  Box_3__BTCR-1100200600510423_20210406150928.log - DRB2.tat* - TextAnalysisTool.NET
+08:47:04:  LOG
+08:47:09:  K64_BTCR-1100200600510423_20210406150553
+08:47:14:  K64-_BTCR-1100200600510423_20210406150553.log - DRB2.tat* - TextAnalysisTool.NET
+08:47:19:  计算器
+08:47:29:  K64_BTCR-1100200600510423_20210406150636
+08:47:34:  K64-_BTCR-1100200600510423_20210406150636.log - DRB2.tat* - TextAnalysisTool.NET
+08:47:44:  Box_3__BTCR-1100200600510423_20210406150643.log - DRB2.tat* - TextAnalysisTool.NET
+08:47:49:  K64-_BTCR-1100200600510423_20210406150643.log - DRB2.tat* - TextAnalysisTool.NET
+08:47:59:  K64_BTCR-1100200600510423_20210406150841
+08:48:09:  K64-_BTCR-1100200600510423_20210406150928.log - DRB2.tat* - TextAnalysisTool.NET
+08:48:54:  00-06
+08:48:59:  BNE-C52210122000006问题记录
+08:49:04:  IMG_20210406_092950.jpg - Windows 照片查看器
+08:49:09:  ID-2 10元上腔大额存款打开上腔一张纸币异常卷曲。
+08:49:14:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:49:59:  BNE-C52210122000006问题记录
+08:50:24:  ID-1 通道传输过程中卡钞纸币残留SENSOR_UAS04 返回码0X80460403，初始化后纸币异常折叠。
+08:51:54:  BNE-C52210122000006问题记录
+08:51:59:  ID-2 10元上腔大额存款打开上腔一张纸币异常卷曲。
+08:52:04:  K64_BTCR-1100200600510423_20210406093152
+08:52:09:  Box_3__BTCR-1100200600510423_20210406093152.log - DRB2.tat* - TextAnalysisTool.NET
+08:52:19:  LOG
+08:52:44:  ID-2 10元上腔大额存款打开上腔一张纸币异常卷曲。
+08:52:49:  LOG
+08:52:54:  IMG_20210406_092850.jpg - Windows 照片查看器
+08:52:59:  IMG_20210406_092950.jpg - Windows 照片查看器
+08:53:04:  LOG
+08:53:09:  K64_BTCR-1100200600510423_20210406092437
+08:53:19:  LogExpert - D:\00-分析\BNE-C52210122000006问题记录\ID-2 10元上腔大额存款打开上腔一张纸币异常卷曲。\Decode\LOG\K64_BTCR-1100200600510423_20210406092437\K64-_BTCR-1100200600510423_20210406092437.log
+08:53:49:  BNE-C52210122000006问题记录
+08:53:54:  IMG_20210406_092950.jpg - Windows 照片查看器
+08:53:59:  LogExpert - D:\00-分析\BNE-C52210122000006问题记录\ID-2 10元上腔大额存款打开上腔一张纸币异常卷曲。\Decode\LOG\K64_BTCR-1100200600510423_20210406092437\K64-_BTCR-1100200600510423_20210406092437.log
+08:55:34:  Box_3__BTCR-1100200600510423_20210406093152.log - DRB2.tat* - TextAnalysisTool.NET
+08:55:39:  Box_3__BTCR-1100200600510423_20210406092437.log - DRB2.tat* - TextAnalysisTool.NET
+08:55:54:  K64_BTCR-1100200600510423_20210406092437
+08:55:59:  Box_3__BTCR-1100200600510423_20210406093152.log - DRB2.tat* - TextAnalysisTool.NET
+08:56:24:  锁屏状态
+08:56:29:  IMG_20210406_092950.jpg - Windows 照片查看器
+08:56:34:  IMG_20210406_092850.jpg - Windows 照片查看器
+08:56:39:  Box_3__BTCR-1100200600510423_20210406093152.log - DRB2.tat* - TextAnalysisTool.NET
+08:56:44:  LogExpert - D:\00-分析\BNE-C52210122000006问题记录\ID-2 10元上腔大额存款打开上腔一张纸币异常卷曲。\Decode\LOG\K64_BTCR-1100200600510423_20210406092437\K64-_BTCR-1100200600510423_20210406092437.log
+08:56:59:  Box_3__BTCR-1100200600510423_20210406093152.log - DRB2.tat* - TextAnalysisTool.NET
+08:57:34:  K64_BTCR-1100200600510423_20210406093152
+08:57:39:  Box_3__BTCR-1100200600510423_20210406093152.log - DRB2.tat* - TextAnalysisTool.NET
+08:58:34:  ID-2 10元上腔大额存款打开上腔一张纸币异常卷曲。
+08:58:39:  Box_3__BTCR-1100200600510423_20210406093152.log - DRB2.tat* - TextAnalysisTool.NET
+08:58:44:  ID-2 10元上腔大额存款打开上腔一张纸币异常卷曲。
+08:58:54:  TCR样机问题
+08:59:04:  50元上腔取款一张纸币异常卷曲
+08:59:09:  BNE-C52210122000003问题
+08:59:14:  ID-1 20元下腔正向盘点报151632.537 钞箱口 500ms纸币未进入 返回码0X035E0900
+08:59:19:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:59:29:  Decode
+09:00:04:  K64_BTCR-1100190803000005_20210406102409
+08:58:34:  ID-2 10元上腔大额存款打开上腔一张纸币异常卷曲。
+08:58:39:  Box_3__BTCR-1100200600510423_20210406093152.log - DRB2.tat* - TextAnalysisTool.NET
+08:58:44:  ID-2 10元上腔大额存款打开上腔一张纸币异常卷曲。
+08:58:54:  TCR样机问题
+08:59:04:  50元上腔取款一张纸币异常卷曲
+08:59:09:  BNE-C52210122000003问题
+08:59:14:  ID-1 20元下腔正向盘点报151632.537 钞箱口 500ms纸币未进入 返回码0X035E0900
+08:59:19:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:59:29:  Decode
+09:00:04:  K64_BTCR-1100190803000005_20210406102409
+09:00:09:  Box_2__BTCR-1100190803000005_20210406102409.log - DRB2.tat* - TextAnalysisTool.NET
+09:00:24:  K64_BTCR-1100190803000005_20210406102409
+09:00:29:  K64_BTCR-1100190803000005_20210406102037
+09:00:34:  Box_2__BTCR-1100190803000005_20210406102037.log - DRB2.tat* - TextAnalysisTool.NET
+09:00:39:  K64_BTCR-1100190803000005_20210406102409
+09:00:44:  K64-_BTCR-1100190803000005_20210406102409.log - DRB2.tat* - TextAnalysisTool.NET
+09:01:19:  K64_BTCR-1100190803000005_20210406102409
+09:01:24:  IMG_20210406_152430.jpg - Windows 照片查看器
+09:01:29:  IMG_20210406_152435.jpg - Windows 照片查看器
+09:02:19:  ID-2 100元上腔正向盘点第4张报142511.602 钞箱口 500ms纸币未进入 返回码0X085E0900
+09:02:24:  IMG_20210406_145232.jpg - Windows 照片查看器
+09:02:29:  IMG_20210406_142844.jpg - Windows 照片查看器
+09:02:34:  IMG_20210406_142738.jpg - Windows 照片查看器
+09:02:44:  BNE-C52210122000003问题
+09:02:59:  BNE-C52210122000006问题记录
+09:03:09:  问题
+09:03:14:  DRB测试缺陷0406.xlsx  [受保护的视图] - Excel
+09:03:19:  DRB测试缺陷0406.xlsx - Excel
+09:05:39:  固件一室
+09:05:54:  DRB测试缺陷0406.xlsx - Excel
+09:08:29:  ID-1 通道传输过程中卡钞纸币残留SENSOR_UAS04 返回码0X80460403，初始化后纸币异常折叠。
+09:08:34:  K64_BTCR-1100200600510423_20210406150440
+09:08:39:  问题
+09:08:49:  LOG
+09:08:59:  Box_3__BTCR-1100200600510423_20210406150300.log - DRB2.tat* - TextAnalysisTool.NET
+09:09:19:  K64_BTCR-1100200600510423_20210406150300
+09:09:24:  DRB测试缺陷0406.xlsx - Excel
+09:09:49:  问题
+09:09:54:  巴西发货钞箱
+09:10:04:  0406
+09:10:09:  TCRControlCmdDLL
+09:10:19:  TCR调测工具 V3.36
+09:10:39:  DRB-BNE-C52210122000003
+09:10:44:  问题
+09:10:49:  ID-1 20元下腔正向盘点报151632.537 钞箱口 500ms纸币未进入 返回码0X035E0900
+09:10:59:  巴西发货钞箱
+09:11:09:  20210406
+09:11:34:  00-分析
+09:11:39:  BNE-C52210122000003问题
+09:11:44:  正在复制 5 个项目(15.6 MB)
+09:11:49:  Decode
+09:11:54:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:12:04:  锁屏状态
+09:12:09:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:13:39:  K64_BTCR-1100190802300005_20210406151610
+09:13:44:  Box_3__BTCR-1100190802300005_20210406151610.log - DRB2.tat* - TextAnalysisTool.NET
+09:13:54:  K64_BTCR-1100190802300005_20210406152639
+09:13:59:  Box_3__BTCR-1100190802300005_20210406152639.log - DRB2.tat* - TextAnalysisTool.NET
+09:14:04:  K64-_BTCR-1100190802300005_20210406152639.log - DRB2.tat* - TextAnalysisTool.NET
+09:14:09:  K64-_BTCR-1100190802300005_20210406151610.log - DRB2.tat* - TextAnalysisTool.NET
+09:14:24:  D:\00-06\DRB-vER\Applications\ErrCode\ErrCode.h (DRB-vER) - Sublime Text (UNREGISTERED)
+09:14:34:  K64-_BTCR-1100190802300005_20210406151610.log - DRB2.tat* - TextAnalysisTool.NET
+09:14:39:  K64_BTCR-1100190802300005_20210406151610
+09:14:44:  Box_3__BTCR-1100190802300005_20210406151610.log - DRB2.tat* - TextAnalysisTool.NET
+09:14:09:  K64-_BTCR-1100190802300005_20210406151610.log - DRB2.tat* - TextAnalysisTool.NET
+09:14:24:  D:\00-06\DRB-vER\Applications\ErrCode\ErrCode.h (DRB-vER) - Sublime Text (UNREGISTERED)
+09:14:34:  K64-_BTCR-1100190802300005_20210406151610.log - DRB2.tat* - TextAnalysisTool.NET
+09:14:39:  K64_BTCR-1100190802300005_20210406151610
+09:14:44:  Box_3__BTCR-1100190802300005_20210406151610.log - DRB2.tat* - TextAnalysisTool.NET
+09:15:14:  K64_BTCR-1100190802300005_20210406152639
+09:15:24:  Box_3__BTCR-1100190802300005_20210406152657.log - DRB2.tat* - TextAnalysisTool.NET
+09:15:29:  LOG
+09:15:34:  Box_3__BTCR-1100190802300005_20210406152722.log - DRB2.tat* - TextAnalysisTool.NET
+09:15:39:  K64_BTCR-1100190802300005_20210406152816
+09:15:44:  Box_3__BTCR-1100190802300005_20210406152816.log - DRB2.tat* - TextAnalysisTool.NET
+09:17:09:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:17:29:  D:\00-06\DRB-vER\Applications\MotorCtrl\MotorCtrl.c (DRB-vER) - Sublime Text (UNREGISTERED)
+09:17:39:  Box_3__BTCR-1100190802300005_20210406152816.log - DRB2.tat* - TextAnalysisTool.NET
+09:17:49:  K64_BTCR-1100190802300005_20210406152816
+09:17:54:  2
+09:17:59:  正在复制 4 个项目(28.1 MB)
+09:18:04:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:18:34:  K64_BTCR-1100190802300005_20210406153726
+09:18:39:  K64_BTCR-1100190802300005_20210406151610
+09:18:44:  Box_3__BTCR-1100190802300005_20210406151610.log - DRB2.tat* - TextAnalysisTool.NET
+09:19:04:  K64-_BTCR-1100190802300005_20210406151610.log - DRB2.tat* - TextAnalysisTool.NET
+09:19:44:  K64_BTCR-1100190802300005_20210406151610
+09:19:49:  Box_3__BTCR-1100190802300005_20210406151610.log - DRB2.tat* - TextAnalysisTool.NET
+09:20:54:  K64_BTCR-1100190802300005_20210406152639
+09:20:59:  Box_3__BTCR-1100190802300005_20210406152639.log - DRB2.tat* - TextAnalysisTool.NET
+09:21:04:  Box_3__BTCR-1100190802300005_20210406152657.log - DRB2.tat* - TextAnalysisTool.NET
+09:21:09:  K64_BTCR-1100190802300005_20210406152722
+09:21:14:  K64_BTCR-1100190802300005_20210406152816
+09:21:19:  K64_BTCR-1100190802300005_20210406153100
+09:21:24:  Box_3__BTCR-1100190802300005_20210406153405.log - DRB2.tat* - TextAnalysisTool.NET
+09:21:29:  K64_BTCR-1100190802300005_20210406153503
+09:21:34:  Box_3__BTCR-1100190802300005_20210406153503.log - DRB2.tat* - TextAnalysisTool.NET
+09:21:39:  K64_BTCR-1100190802300005_20210406153726
+09:21:44:  Box_3__BTCR-1100190802300005_20210406153726.log - DRB2.tat* - TextAnalysisTool.NET
+09:22:04:  20210406
+09:22:09:  K64_BTCR-1100190802300005_20210406153726
+09:22:14:  2
+09:22:24:  Box_3__BTCR-1100190802300005_20210406153726.log - DRB2.tat* - TextAnalysisTool.NET
+09:22:29:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:23:39:  桌面整理
+09:23:54:  EXTFEDU6V13.PDF - Adobe Reader
+09:26:14:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:28:59:  EXTFEDU6V13.PDF - Adobe Reader
+09:29:09:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:28:59:  EXTFEDU6V13.PDF - Adobe Reader
+09:29:09:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+09:30:14:  Decode
+09:30:19:  Box_3__BTCR-1100190802300005_20210406160058.log - DRB2.tat* - TextAnalysisTool.NET
+09:30:24:  K64_BTCR-1100190802300005_20210406155752
+09:30:29:  Box_3__BTCR-1100190802300005_20210406155513.log - DRB2.tat* - TextAnalysisTool.NET
+09:30:34:  K64_BTCR-1100190802300005_20210406155348
+09:30:39:  Box_3__BTCR-1100190802300005_20210406155348.log - DRB2.tat* - TextAnalysisTool.NET
+09:30:44:  LOG
+09:30:59:  K64_BTCR-1100190802300005_20210406155111
+09:31:04:  Box_3__BTCR-1100190802300005_20210406155111.log - DRB2.tat* - TextAnalysisTool.NET
+09:31:09:  K64_BTCR-1100190802300005_20210406154323
+09:31:14:  Box_3__BTCR-1100190802300005_20210406154323.log - DRB2.tat* - TextAnalysisTool.NET
+09:31:24:  K64_BTCR-1100190802300005_20210406154137
+09:31:29:  Box_3__BTCR-1100190802300005_20210406154137.log - DRB2.tat* - TextAnalysisTool.NET
+09:31:34:  K64_BTCR-1100190802300005_20210406153726
+09:31:39:  Box_3__BTCR-1100190802300005_20210406153726.log - DRB2.tat* - TextAnalysisTool.NET
+09:33:39:  DRB测试缺陷0406.xlsx - Excel
+09:35:39:  K64_BTCR-1100190802300005_20210406153726
+09:35:44:  00-分析
+09:35:49:  ID-2 100元上腔正向盘点第4张报142511.602 钞箱口 500ms纸币未进入 返回码0X085E0900
+09:35:54:  IMG_20210406_142738.jpg - Windows 照片查看器
+09:35:59:  ID-2 100元上腔正向盘点第4张报142511.602 钞箱口 500ms纸币未进入 返回码0X085E0900
+09:36:04:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:36:14:  LOG
+09:36:19:  Box_2__BTCR-1100190803000005_20210406102409.log - DRB2.tat* - TextAnalysisTool.NET
+09:36:54:  LOG
+09:36:59:  Box_2__BTCR-1100190803000005_20210406102037.log - DRB2.tat* - TextAnalysisTool.NET
+09:37:09:  Box_2__BTCR-1100190803000005_20210406102409.log - DRB2.tat* - TextAnalysisTool.NET
+09:37:19:  ID-2 100元上腔正向盘点第4张报142511.602 钞箱口 500ms纸币未进入 返回码0X085E0900
+09:37:24:  LOG
+09:37:34:  DRB-BNE-C52210122000003
+09:37:39:  20210406
+09:38:04:  LOG
+09:38:09:  BNE-C52210122000003问题
+09:38:14:  ID-2 100元上腔正向盘点第4张报142511.602 钞箱口 500ms纸币未进入 返回码0X085E0900
+09:38:19:  LOG
+09:38:24:  K64_BTCR-1100190803000005_20210406102409
+09:38:34:  ID-2 100元上腔正向盘点第4张报142511.602 钞箱口 500ms纸币未进入 返回码0X085E0900
+09:38:49:  IMG_20210406_142738.jpg - Windows 照片查看器
+09:38:54:  ID-2 100元上腔正向盘点第4张报142511.602 钞箱口 500ms纸币未进入 返回码0X085E0900
+09:39:04:  20210406
+09:39:19:  BNE-C52210122000003问题
+09:39:24:  正在复制 13 个项目(79.4 MB)
+09:39:34:  Decode
+09:39:39:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:40:04:  DRB测试缺陷0406.xlsx - Excel
+09:40:24:  K64_BTCR-1100190802300005_20210406143140
+09:40:29:  Box_3__BTCR-1100190802300005_20210406143140.log - DRB2.tat* - TextAnalysisTool.NET
+09:40:39:  K64_BTCR-1100190802300005_20210406143429
+09:40:44:  Box_3__BTCR-1100190802300005_20210406143429.log - DRB2.tat* - TextAnalysisTool.NET
+09:40:49:  K64_BTCR-1100190802300005_20210406143140
+09:40:54:  K64-_BTCR-1100190802300005_20210406143140.log - DRB2.tat* - TextAnalysisTool.NET
+09:41:04:  K64_BTCR-1100190802300005_20210406143429
+09:41:09:  K64-_BTCR-1100190802300005_20210406143429.log - DRB2.tat* - TextAnalysisTool.NET
+09:41:14:  LOG
+09:41:19:  K64_BTCR-1100190802300005_20210406143555
+09:41:24:  K64-_BTCR-1100190802300005_20210406143555.log - DRB2.tat* - TextAnalysisTool.NET
+09:41:34:  K64_BTCR-1100190802300005_20210406143857
+09:41:44:  K64-_BTCR-1100190802300005_20210406143857.log - DRB2.tat* - TextAnalysisTool.NET
+09:42:19:  K64_BTCR-1100190802300005_20210406143857
+09:42:24:  K64-_BTCR-1100190802300005_20210406144532.log - DRB2.tat* - TextAnalysisTool.NET
+09:42:39:  K64_BTCR-1100190802300005_20210406144713
+09:42:49:  K64-_BTCR-1100190802300005_20210406144713.log - DRB2.tat* - TextAnalysisTool.NET
+09:43:14:  K64_BTCR-1100190802300005_20210406145028
+09:43:19:  K64-_BTCR-1100190802300005_20210406145028.log - DRB2.tat* - TextAnalysisTool.NET
+09:43:29:  K64_BTCR-1100190802300005_20210406145028
+09:43:34:  ID-2 100元上腔正向盘点第4张报142511.602 钞箱口 500ms纸币未进入 返回码0X085E0900
+09:43:44:  DRB测试缺陷0406.xlsx - Excel
+09:44:04:  00-分析
+09:44:09:  BNE-C52210122000006问题记录
+09:44:14:  副本整改后DRB测试缺陷3.26.xlsx - Excel
+09:44:19:  集成测试报告.xlsx - Excel
+09:44:24:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+09:44:39:  00-分析
+09:44:44:  问题
+09:44:49:  DRB测试缺陷0406.xlsx  [受保护的视图] - Excel
+09:44:09:  BNE-C52210122000006问题记录
+09:44:14:  副本整改后DRB测试缺陷3.26.xlsx - Excel
+09:44:19:  集成测试报告.xlsx - Excel
+09:44:24:  副本6.2.2.6 钞箱测试1T2 (2).xls  [兼容模式] - Excel
+09:44:39:  00-分析
+09:44:44:  问题
+09:44:49:  DRB测试缺陷0406.xlsx  [受保护的视图] - Excel
+09:45:24:  WinRAR
+09:45:34:  转发: DRB固件 - 写邮件
+09:46:24:  00-分析
+09:46:29:  计算机
+09:46:44:  G:
+09:46:54:  桌面整理
+09:46:59:  台电酷闪 (G:)
+09:47:09:  高级共享
+09:47:14:  运行
+09:47:19:  yf-zhangkaifa
+09:47:24:  G
+09:49:39:  Windows 资源管理器
+09:49:44:  BTCRTestTool 属性
+09:49:49:  BTCRTestTool V3.36
+09:49:54:  G
+09:51:44:  计算机
+09:51:49:  Foxmail
+09:52:04:  0-工作 - 张开发 - 印象笔记
+09:52:29:  新建文本文档.exe - 快捷方式
+09:52:44:  0-工作 - 张开发 - 印象笔记
+09:53:04:  Foxmail
+09:53:44:  桌面整理
+09:53:54:  印象笔记
+09:53:59:  0-工作 - 张开发 - 印象笔记
+09:54:09:  所有笔记本 - 张开发 - 印象笔记
+09:54:34:  本地磁盘 (D:)
+09:54:39:  fenxi
+09:54:44:  tetx
+09:54:59:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+09:55:19:  *Python 3.7.3 Shell*
+09:55:29:  Save Before Run or Check
+09:55:34:  *Python 3.7.3 Shell*
+09:55:44:  Save Before Run or Check
+09:55:49:  C:\Users\zhangkaifa\AppData\Local\Programs\Python\Python37\Scripts\chromedriver.exe
+09:55:54:  Python 3.7.3 Shell
+09:55:59:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+09:58:25:  *Python 3.7.3 Shell*
+09:58:30:  Python 3.7.3 Shell
+09:58:45:  自动播放
+09:58:55:  Python 3.7.3 Shell
+10:00:00:  *Python 3.7.3 Shell*
+09:58:25:  *Python 3.7.3 Shell*
+09:58:30:  Python 3.7.3 Shell
+09:58:45:  自动播放
+09:58:55:  Python 3.7.3 Shell
+10:00:00:  *Python 3.7.3 Shell*
+10:00:05:  Python 3.7.3 Shell
+10:00:15:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:00:20:  本地磁盘 (F:)
+10:00:25:  小程序
+10:00:30:  新建文件夹 (3)
+10:00:35:  库
+10:00:40:  计算机
+10:00:45:  本地磁盘 (D:)
+10:00:50:  新建文本文档.exe - 快捷方式
+10:00:55:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:01:00:  *Python 3.7.3 Shell*
+10:01:15:  Python 3.7.3 Shell
+10:01:20:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:01:25:  无标题 - Google Chrome
+10:01:30:  新标签页 - Google Chrome
+10:01:35:  设置 - Google Chrome
+10:01:40:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:02:45:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:03:00:  计算器
+10:03:05:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:12:20:  收取邮件 - 张开发
+10:12:35:  下腔5元大额存款698张报电机 在电机运转过程中检测到速度低于目标值（10） 返回码0X83280220
+10:12:55:  tetx
+10:13:05:  本地磁盘 (D:)
+10:13:10:  正在从 下腔5元大额存款698张报电机 在电机运转过程中检测到速度低于目标值（10） 返回码0X83280220.rar 中提取
+10:13:15:  00-分析
+10:13:25:  2
+10:13:30:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:13:35:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:13:55:  *Python 3.7.3 Shell*
+10:14:00:  无标题 - Google Chrome
+10:14:05:  Python 3.7.3 Shell
+10:14:20:  新标签页 - Google Chrome
+10:14:25:  百度一下，你就知道 - Google Chrome
+10:14:35:  https://www.baidu.com/link?url=g9jAOrHFk8iXORWgoFVCzfaKw8y1ULHfwRyNTi60OyZxrM_z3rd79DTyTXpsSMLd2Dvrn7qVH9j3KVybn-jEq_&wd=&eqid=a567a71c0007321900000002606d1593 - Google Chrome
+10:14:40:  chromedriver与chrome版本对应表及下载地址 - wuhl_89 - 博客园 - Google Chrome
+10:14:45:  chromedriver.storage.googleapis.com/index.html - Google Chrome
+10:14:50:  chromedriver.storage.googleapis.com/index.html?path=89.0.4389.23/ - Google Chrome
+10:14:55:  Windows 资源管理器
+10:15:00:  LOG
+10:14:05:  Python 3.7.3 Shell
+10:14:20:  新标签页 - Google Chrome
+10:14:25:  百度一下，你就知道 - Google Chrome
+10:14:35:  https://www.baidu.com/link?url=g9jAOrHFk8iXORWgoFVCzfaKw8y1ULHfwRyNTi60OyZxrM_z3rd79DTyTXpsSMLd2Dvrn7qVH9j3KVybn-jEq_&wd=&eqid=a567a71c0007321900000002606d1593 - Google Chrome
+10:14:40:  chromedriver与chrome版本对应表及下载地址 - wuhl_89 - 博客园 - Google Chrome
+10:14:45:  chromedriver.storage.googleapis.com/index.html - Google Chrome
+10:14:50:  chromedriver.storage.googleapis.com/index.html?path=89.0.4389.23/ - Google Chrome
+10:14:55:  Windows 资源管理器
+10:15:00:  LOG
+10:15:05:  Box_3__BTCR-1100190802300001_20210407094014.log - DRB2.tat* - TextAnalysisTool.NET
+10:17:00:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:17:10:  下载
+10:17:20:  chromedriver_win32 (3)
+10:17:25:  本地磁盘 (D:)
+10:17:30:  Python 3.7.3 Shell
+10:17:35:  *Python 3.7.3 Shell*
+10:17:40:  无标题 - Google Chrome
+10:17:45:  *Python 3.7.3 Shell*
+10:17:55:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:18:30:  *Python 3.7.3 Shell*
+10:18:35:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:18:40:  Kill?
+10:18:45:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:18:50:  *Python 3.7.3 Shell*
+10:19:00:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:19:10:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:19:20:  *Python 3.7.3 Shell*
+10:19:25:  无标题 - Google Chrome
+10:19:30:  data:, - Google Chrome
+10:19:35:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:19:40:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:19:45:  *Python 3.7.3 Shell*
+10:19:50:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:19:55:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:20:10:  *Python 3.7.3 Shell*
+10:20:15:  data:, - Google Chrome
+10:20:20:  *Python 3.7.3 Shell*
+10:20:25:  Kill?
+10:20:30:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:20:35:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:20:40:  *Python 3.7.3 Shell*
+10:20:50:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:20:55:  chrome driver 89_百度搜索 - Google Chrome
+10:21:00:  python 非阻塞线程_百度搜索 - Google Chrome
+10:21:05:  python中的阻塞线程和非阻塞线程_kerryqpw的博客-CSDN博客_python阻塞和非阻塞 - Google Chrome
+10:21:25:  非常抱歉，全站内容审核中... - 博客园团队 - 博客园 - Google Chrome
+10:21:30:  python 非阻塞线程_百度搜索 - Google Chrome
+10:21:40:  Python实现线程的高效非阻塞I/O调用 - 知乎 - Google Chrome
+10:21:50:  非常抱歉，全站内容审核中... - 博客园团队 - 博客园 - Google Chrome
+10:21:55:  Python,非阻塞线程 - 程序园 - Google Chrome
+10:22:15:  python 非阻塞线程_百度搜索 - Google Chrome
+10:22:25:  https://www.baidu.com/link?url=JjxbtVgZmqxOc3mEz6pTBCmUzrNdUcBns-xpvwBQiBJRpYlgLzMKPOoqRIni5I5Dh8et9caBVq2hlOauffcyu_&wd=&eqid=f744c90800047ab900000002606d176a - Google Chrome
+10:22:30:  python线程实现异步任务 - 一杯闪光喵 - 博客园 - Google Chrome
+10:23:45:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:23:55:  *Python 3.7.3 Shell*
+10:24:00:  D:\fenxi\tetx\chromedriver.exe
+10:24:05:  data:, - Google Chrome
+10:24:10:  tetx
+10:24:25:  python线程实现异步任务 - 一杯闪光喵 - 博客园 - Google Chrome
+10:24:30:  *新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)*
+10:24:35:  python线程实现异步任务 - 一杯闪光喵 - 博客园 - Google Chrome
+10:24:40:  *新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)*
+10:24:45:  Python 3.7.3 Shell
+10:24:50:  *Python 3.7.3 Shell*
+10:24:55:  新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)
+10:25:05:  Python 3.7.3 Shell
+10:25:10:  新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)
+10:25:15:  python 异步线程_百度搜索 - Google Chrome
+10:25:20:  python多线程实现异步 - 以赛亚 - 博客园 - Google Chrome
+10:25:45:  python异步多线程_百度搜索 - Google Chrome
+10:25:50:  Python数据抓取——多线程，异步_Young_618-CSDN博客_python requests 多线程 - Google Chrome
+10:26:30:  新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)
+10:26:45:  *新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)*
+10:27:55:  Save Before Run or Check
+10:28:00:  新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)
+10:28:10:  *Python 3.7.3 Shell*
+10:28:25:  新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)
+10:28:40:  Python数据抓取——多线程，异步_Young_618-CSDN博客_python requests 多线程 - Google Chrome
+10:28:45:  Save Before Run or Check
+10:28:50:  Python 3.7.3 Shell
+10:28:55:  新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)
+10:29:10:  *新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)*
+10:29:15:  *Python 3.7.3 Shell*
+10:29:20:  Python 3.7.3 Shell
+10:29:25:  新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)
+10:29:30:  *Python 3.7.3 Shell*
+10:29:35:  新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)
+10:29:45:  *Python 3.7.3 Shell*
+10:29:50:  新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)
+10:29:55:  Python 3.7.3 Shell
+10:30:00:  新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)
+10:28:10:  *Python 3.7.3 Shell*
+10:28:25:  新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)
+10:28:40:  Python数据抓取——多线程，异步_Young_618-CSDN博客_python requests 多线程 - Google Chrome
+10:28:45:  Save Before Run or Check
+10:28:50:  Python 3.7.3 Shell
+10:28:55:  新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)
+10:29:10:  *新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)*
+10:29:15:  *Python 3.7.3 Shell*
+10:29:20:  Python 3.7.3 Shell
+10:29:25:  新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)
+10:29:30:  *Python 3.7.3 Shell*
+10:29:35:  新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)
+10:29:45:  *Python 3.7.3 Shell*
+10:29:50:  新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)
+10:29:55:  Python 3.7.3 Shell
+10:30:00:  新建文本文档 (2).py - D:\fenxi\tetx\新建文本文档 (2).py (3.7.3)
+10:30:10:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:30:15:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:30:40:  *Python 3.7.3 Shell*
+10:30:50:  无标题 - Google Chrome
+10:30:55:  *Python 3.7.3 Shell*
+10:31:00:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:31:20:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:31:30:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:31:35:  *Python 3.7.3 Shell*
+10:32:10:  Kill?
+10:32:15:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:33:10:  *Python 3.7.3 Shell*
+10:33:15:  data:, - Google Chrome
+10:33:20:  D:\fenxi\tetx\chromedriver.exe
+10:33:25:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:34:20:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:34:25:  *Python 3.7.3 Shell*
+10:34:35:  data:, - Google Chrome
+10:34:40:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:34:50:  *Python 3.7.3 Shell*
+10:35:00:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:35:05:  Search Dialog
+10:35:20:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:35:25:  Python数据抓取——多线程，异步_Young_618-CSDN博客_python requests 多线程 - Google Chrome
+10:35:30:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:35:40:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:38:40:  锁屏状态
+10:38:45:  D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision
+10:38:50:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:38:55:  *Python 3.7.3 Shell*
+10:39:00:  Python 3.7.3 Shell
+10:39:05:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:39:15:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:39:45:  Python 3.7.3 Shell
+10:39:50:  *Python 3.7.3 Shell*
+10:40:00:  Python 3.7.3 Shell
+10:40:05:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:40:10:  Python 3.7.3 Shell
+10:40:15:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:40:25:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:40:30:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:40:40:  *Python 3.7.3 Shell*
+10:40:45:  Python 3.7.3 Shell
+10:40:50:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:40:55:  *Python 3.7.3 Shell*
+10:41:05:  无标题 - Google Chrome
+10:41:10:  data:, - Google Chrome
+10:41:15:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:42:00:  Box_3__BTCR-1100190802300001_20210407094014.log - DRB2.tat* - TextAnalysisTool.NET
+10:43:05:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:43:55:  tetx
+10:44:00:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:44:05:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:44:30:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:44:35:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:44:40:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:44:05:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:44:30:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:44:35:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:44:40:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:45:05:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:45:50:  Save Before Run or Check
+10:45:55:  *Python 3.7.3 Shell*
+10:46:00:  Save Before Run or Check
+10:46:05:  *Python 3.7.3 Shell*
+10:46:10:  data:, - Google Chrome
+10:46:15:  *Python 3.7.3 Shell*
+10:46:20:  注册 | Binance - Google Chrome
+10:46:30:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+10:46:35:  www.yopmail.com - Google Chrome
+10:46:40:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:46:55:  tetx
+10:47:00:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+10:47:15:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+10:47:25:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+10:47:35:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+10:48:05:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+10:48:10:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+10:48:40:  新北洋OA信息化平台 - Internet Explorer
+10:48:45:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+10:48:50:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+10:48:55:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+10:49:35:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+10:49:55:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+10:50:05:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+10:51:25:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+10:51:50:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+10:51:55:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+10:53:05:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+10:54:00:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+10:54:10:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:54:15:  *Python 3.7.3 Shell*
+10:54:20:  data:, - Google Chrome
+10:54:25:  www.yopmail.com - Google Chrome
+10:54:35:  注册 | Binance - Google Chrome
+10:54:40:  *Python 3.7.3 Shell*
+10:54:45:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+10:54:50:  www.yopmail.com - Google Chrome
+10:55:00:  www.google.com - Google Chrome
+10:55:15:  tetx
+10:55:20:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:55:25:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:55:30:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:56:05:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:56:40:  D:\fenxi\tetx\chromedriver.exe
+10:56:45:  data:, - Google Chrome
+10:56:50:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:57:00:  注册 | Binance - Google Chrome
+10:57:05:  *Python 3.7.3 Shell*
+10:57:35:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:58:30:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:58:45:  *Python 3.7.3 Shell*
+10:58:50:  D:\fenxi\tetx\chromedriver.exe
+10:58:55:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:59:10:  *Python 3.7.3 Shell*
+10:59:25:  Python 3.7.3 Shell
+10:59:45:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:59:55:  *Python 3.7.3 Shell*
+11:00:00:  data:, - Google Chrome
+10:58:30:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:58:45:  *Python 3.7.3 Shell*
+10:58:50:  D:\fenxi\tetx\chromedriver.exe
+10:58:55:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+10:59:10:  *Python 3.7.3 Shell*
+10:59:25:  Python 3.7.3 Shell
+10:59:45:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+10:59:55:  *Python 3.7.3 Shell*
+11:00:00:  data:, - Google Chrome
+11:00:05:  注册 | Binance - Google Chrome
+11:00:15:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+11:00:20:  *Python 3.7.3 Shell*
+11:00:25:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+11:00:30:  Kill?
+11:00:35:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+11:00:50:  *Python 3.7.3 Shell*
+11:00:55:  D:\fenxi\tetx\chromedriver.exe
+11:01:00:  data:, - Google Chrome
+11:01:05:  注册 | Binance - Google Chrome
+11:01:15:  *Python 3.7.3 Shell*
+11:01:20:  YOPmail - Google Chrome
+11:01:25:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+11:01:30:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+11:01:50:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+11:02:05:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+11:02:10:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+11:02:25:  *Python 3.7.3 Shell*
+11:02:30:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+11:02:40:  *Python 3.7.3 Shell*
+11:02:45:  无标题 - Google Chrome
+11:02:50:  注册 | Binance - Google Chrome
+11:03:10:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+11:03:20:  Kill?
+11:03:25:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+11:03:35:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+11:03:50:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:04:30:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:05:30:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:05:45:  tetx
+11:05:50:  *Python 3.7.3 Shell*
+11:05:55:  data:, - Google Chrome
+11:06:00:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+11:06:05:  注册 | Binance - Google Chrome
+11:06:15:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+11:06:25:  https://www.binancezh.co/zh-CN/my/welcome - Google Chrome
+11:06:30:  *Python 3.7.3 Shell*
+11:06:35:  D:\fenxi\tetx\chromedriver.exe
+11:06:40:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:07:15:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:07:50:  tetx
+11:08:00:  data:, - Google Chrome
+11:08:05:  注册 | Binance - Google Chrome
+11:08:20:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+11:08:35:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:08:45:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:08:50:  *Python 3.7.3 Shell*
+11:08:55:  无标题 - Google Chrome
+11:09:00:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+11:09:10:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+11:09:20:  YOPmail - Google Chrome
+11:09:25:  *Python 3.7.3 Shell*
+11:09:35:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+11:09:40:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:09:55:  注册.txt - 记事本
+11:10:00:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:11:36:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:11:51:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:12:26:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:13:16:  Python数据抓取——多线程，异步_Young_618-CSDN博客_python requests 多线程 - Google Chrome
+11:13:21:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:13:41:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+11:13:46:  YOPmail - Google Chrome
+11:14:01:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:14:06:  YOPmail - Google Chrome
+11:14:21:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:14:26:  YOPmail - Google Chrome
+11:14:51:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:14:56:  YOPmail - Google Chrome
+11:15:01:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:14:06:  YOPmail - Google Chrome
+11:14:21:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:14:26:  YOPmail - Google Chrome
+11:14:51:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:14:56:  YOPmail - Google Chrome
+11:15:01:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:15:06:  YOPmail - Google Chrome
+11:15:11:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:15:16:  chromedriver_win32 (3)
+11:15:21:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+11:15:26:  D:\fenxi\tetx\chromedriver.exe
+11:15:31:  data:, - Google Chrome
+11:15:36:  注册 | Binance - Google Chrome
+11:15:56:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+11:16:06:  YOPmail - Google Chrome
+11:16:11:  *Python 3.7.3 Shell*
+11:16:16:  Python 3.7.3 Shell
+11:17:16:  下腔5元rb4-rb3盘点576张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X834601B8.rar - WinRAR (非商业个人版)
+11:17:31:  tetx
+11:17:46:  YOPmail - Google Chrome
+11:17:51:  Python 3.7.3 Shell
+11:18:11:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:18:51:  tetx
+11:18:56:  *Python 3.7.3 Shell*
+11:19:01:  data:, - Google Chrome
+11:19:06:  注册 | Binance - Google Chrome
+11:19:16:  *Python 3.7.3 Shell*
+11:19:21:  注册 | Binance - Google Chrome
+11:19:31:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+11:19:36:  YOPmail - Google Chrome
+11:19:41:  锁屏状态
+11:19:46:  *Python 3.7.3 Shell*
+11:19:51:  锁屏状态
+11:19:56:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:20:16:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+11:20:21:  *Python 3.7.3 Shell*
+11:20:26:  注册 | Binance - Google Chrome
+11:20:36:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+11:20:46:  YOPmail - Google Chrome
+11:20:51:  *Python 3.7.3 Shell*
+11:21:01:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:21:16:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:22:06:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:22:16:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:22:21:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:22:36:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+11:22:41:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:22:56:  D:\00-06\DRB-vER\Middlewares\Selector\Selector.c (DRB-vER) - Sublime Text (UNREGISTERED)
+11:23:01:  tetx
+11:23:06:  D:\fenxi\tetx\chromedriver.exe
+11:23:11:  注册 | Binance - Google Chrome
+11:23:26:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+11:23:36:  YOPmail - Google Chrome
+11:23:41:  *Python 3.7.3 Shell*
+11:23:51:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:24:11:  00-分析
+11:24:46:  下腔5元rb4-rb3盘点576张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X834601B8
+11:24:51:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:25:21:  K64_BTCR-1100190802300001_20210407103531
+11:25:26:  Box_3__BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+11:25:36:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+11:26:31:  Add Filter
+11:26:36:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+11:27:56:  Box_3__BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+11:28:01:  LOG
+11:28:11:  回复: 下腔5元rb4-rb3盘点576张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X834601B8 - 写邮件
+11:28:26:  发送邮件
+11:28:36:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:28:11:  回复: 下腔5元rb4-rb3盘点576张报通道传输过程中卡钞 在预定的时间内未到达下一个传感器  返回码0X834601B8 - 写邮件
+11:28:26:  发送邮件
+11:28:36:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:32:41:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:32:56:  *Python 3.7.3 Shell*
+11:33:01:  data:, - Google Chrome
+11:33:06:  注册 | Binance - Google Chrome
+11:33:21:  YOPmail - Google Chrome
+11:33:31:  *Python 3.7.3 Shell*
+11:33:41:  D:\fenxi\tetx\chromedriver.exe
+11:33:46:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:33:51:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:34:11:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:34:56:  Python 3.7.3 Shell
+11:35:01:  D:\fenxi\tetx\chromedriver.exe
+11:35:06:  注册 | Binance - Google Chrome
+11:35:26:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+11:35:36:  *Python 3.7.3 Shell*
+11:35:41:  D:\fenxi\tetx\chromedriver.exe
+11:35:51:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:36:01:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:36:21:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:36:36:  *Python 3.7.3 Shell*
+11:36:41:  data:, - Google Chrome
+11:36:46:  注册 | Binance - Google Chrome
+11:36:56:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+11:37:06:  YOPmail - Google Chrome
+11:37:11:  *Python 3.7.3 Shell*
+11:37:26:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+11:37:31:  D:\fenxi\tetx\chromedriver.exe
+11:37:36:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:38:56:  所有笔记本 - 张开发 - 印象笔记
+11:39:26:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:39:46:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+11:39:51:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+11:39:56:  *Python 3.7.3 Shell*
+11:40:01:  D:\fenxi\tetx\chromedriver.exe
+11:40:06:  注册 | Binance - Google Chrome
+11:40:21:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+11:40:26:  *Python 3.7.3 Shell*
+11:40:31:  Kill?
+11:40:36:  锁屏状态
+13:11:32:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:18:12:  自动播放
+13:18:27:  无标题 - Google Chrome
+13:18:32:  注册 | Binance - Google Chrome
+13:18:53:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+13:18:58:  Kill?
+13:19:03:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:19:19:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+13:19:24:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:19:34:  *Python 3.7.3 Shell*
+13:19:39:  D:\fenxi\tetx\chromedriver.exe
+13:19:44:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+13:19:49:  注册 | Binance - Google Chrome
+13:19:55:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:20:05:  *Python 3.7.3 Shell*
+13:20:10:  Python 3.7.3 Shell
+13:20:15:  YOPmail - Google Chrome
+13:20:31:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:20:36:  *Python 3.7.3 Shell*
+13:20:41:  data:, - Google Chrome
+13:20:46:  注册 | Binance - Google Chrome
+13:21:07:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:21:12:  D:\fenxi\tetx\chromedriver.exe
+13:21:17:  注册 | Binance - Google Chrome
+13:21:27:  D:\fenxi\tetx\chromedriver.exe
+13:21:37:  Kill?
+13:21:42:  python异步多线程_百度搜索 - Google Chrome
+13:21:53:  selenium_百度搜索 - Google Chrome
+13:21:58:  selenium 怎样清除文本框中输入的内容 input_v791106444的博客-CSDN博客 - Google Chrome
+13:22:08:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:22:24:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+13:22:34:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:22:39:  *Python 3.7.3 Shell*
+13:22:54:  无标题 - Google Chrome
+13:23:00:  注册 | Binance - Google Chrome
+13:23:15:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:23:20:  D:\fenxi\tetx\chromedriver.exe
+13:23:25:  注册 | Binance - Google Chrome
+13:23:40:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:23:45:  *Python 3.7.3 Shell*
+13:24:00:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:24:10:  tetx
+13:24:51:  所有笔记本 - 张开发 - 印象笔记
+13:25:06:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+13:25:16:  所有笔记本 - 张开发 - 印象笔记
+13:25:21:  *新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)*
+13:25:31:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+13:25:36:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:26:02:  所有笔记本 - 张开发 - 印象笔记
+13:26:07:  Python 3.7.3 Shell
+13:26:12:  D:\fenxi\tetx\chromedriver.exe
+13:26:17:  data:, - Google Chrome
+13:26:27:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+13:26:37:  *Python 3.7.3 Shell*
+13:26:42:  D:\fenxi\tetx\chromedriver.exe
+13:26:47:  data:, - Google Chrome
+13:26:52:  *Python 3.7.3 Shell*
+13:26:57:  data:, - Google Chrome
+13:27:02:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+13:27:17:  *Python 3.7.3 Shell*
+13:27:22:  data:, - Google Chrome
+13:27:27:  注册 | Binance - Google Chrome
+13:27:38:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:27:48:  YOPmail - Google Chrome
+13:27:53:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:27:58:  YOPmail - Google Chrome
+13:28:03:  注册 | Binance - Google Chrome
+13:28:18:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:28:28:  YOPmail - Google Chrome
+13:28:33:  注册 | Binance - Google Chrome
+13:28:53:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:29:23:  YOPmail - Google Chrome
+13:29:28:  Kill?
+13:29:33:  *Python 3.7.3 Shell*
+13:29:38:  无标题 - Google Chrome
+13:29:43:  注册 | Binance - Google Chrome
+13:30:03:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:28:18:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:28:28:  YOPmail - Google Chrome
+13:28:33:  注册 | Binance - Google Chrome
+13:28:53:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:29:23:  YOPmail - Google Chrome
+13:29:28:  Kill?
+13:29:33:  *Python 3.7.3 Shell*
+13:29:38:  无标题 - Google Chrome
+13:29:43:  注册 | Binance - Google Chrome
+13:30:03:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:30:18:  data:, - Google Chrome
+13:30:24:  注册 | Binance - Google Chrome
+13:30:39:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:30:54:  无标题 - Google Chrome
+13:30:59:  注册 | Binance - Google Chrome
+13:31:09:  tetx
+13:31:19:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:31:59:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+13:32:29:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:32:39:  C:\Windows\py.exe
+13:32:44:  data:, - Google Chrome
+13:32:49:  注册 | Binance - Google Chrome
+13:33:09:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:33:14:  无标题 - Google Chrome
+13:33:19:  注册 | Binance - Google Chrome
+13:33:39:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:33:44:  C:\Windows\py.exe
+13:33:59:  tetx
+13:34:04:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:34:44:  *Python 3.7.3 Shell*
+13:34:49:  无标题 - Google Chrome
+13:34:54:  注册 | Binance - Google Chrome
+13:35:09:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:35:19:  D:\fenxi\tetx\chromedriver.exe
+13:35:24:  无标题 - Google Chrome
+13:35:29:  注册 | Binance - Google Chrome
+13:35:55:  *Python 3.7.3 Shell*
+13:36:00:  YOPmail - Google Chrome
+13:36:05:  *Python 3.7.3 Shell*
+13:36:35:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:36:40:  Windows 任务管理器
+13:36:50:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:37:05:  YOPmail - Google Chrome
+13:37:20:  *Python 3.7.3 Shell*
+13:37:50:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:37:55:  *Python 3.7.3 Shell*
+13:38:00:  data:, - Google Chrome
+13:38:05:  注册 | Binance - Google Chrome
+13:38:25:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:38:35:  data:, - Google Chrome
+13:38:40:  注册 | Binance - Google Chrome
+13:38:55:  *Python 3.7.3 Shell*
+13:39:00:  YOPmail - Google Chrome
+13:39:25:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:39:50:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:39:55:  YOPmail - Google Chrome
+13:40:30:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:40:55:  YOPmail - Google Chrome
+13:41:50:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:42:00:  YOPmail - Google Chrome
+13:42:05:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:42:10:  selenium删除输入框内容_百度搜索 - Google Chrome
+13:42:15:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:42:20:  selenium删除输入框内容_百度搜索 - Google Chrome
+13:42:30:  selenium switch_to_frame 怎么切回去_百度搜索 - Google Chrome
+13:42:35:  selenium之 定位以及切换frame（iframe）_灰蓝-CSDN博客_selenium切换frame - Google Chrome
+13:43:05:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:43:10:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+13:43:15:  锁屏状态
+13:43:20:  *Python 3.7.3 Shell*
+13:43:25:  tetx
+13:43:30:  *Python 3.7.3 Shell*
+13:43:35:  D:\fenxi\tetx\chromedriver.exe
+13:43:40:  data:, - Google Chrome
+13:43:45:  注册 | Binance - Google Chrome
+13:43:55:  *Python 3.7.3 Shell*
+13:44:00:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:44:10:  D:\fenxi\tetx\chromedriver.exe
+13:44:15:  注册 | Binance - Google Chrome
+13:44:35:  *Python 3.7.3 Shell*
+13:44:50:  data:, - Google Chrome
+13:44:55:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+13:45:00:  注册 | Binance - Google Chrome
+13:44:10:  D:\fenxi\tetx\chromedriver.exe
+13:44:15:  注册 | Binance - Google Chrome
+13:44:35:  *Python 3.7.3 Shell*
+13:44:50:  data:, - Google Chrome
+13:44:55:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+13:45:00:  注册 | Binance - Google Chrome
+13:45:15:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:45:35:  data:, - Google Chrome
+13:45:40:  注册 | Binance - Google Chrome
+13:45:55:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:46:05:  无标题 - Google Chrome
+13:46:10:  *Python 3.7.3 Shell*
+13:46:15:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:46:20:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+13:46:25:  D:\fenxi\tetx\chromedriver.exe
+13:46:30:  注册 | Binance - Google Chrome
+13:46:51:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:47:01:  data:, - Google Chrome
+13:47:06:  注册 | Binance - Google Chrome
+13:47:16:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:47:26:  无标题 - Google Chrome
+13:47:36:  注册 | Binance - Google Chrome
+13:47:46:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+13:47:51:  *Python 3.7.3 Shell*
+13:48:21:  D:\fenxi\tetx\chromedriver.exe
+13:48:26:  Windows 任务管理器
+13:48:51:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:49:46:  D:\fenxi\tetx\chromedriver.exe
+13:49:51:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+13:50:06:  Windows 任务管理器
+13:50:21:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+13:50:26:  D:\fenxi\tetx\chromedriver.exe
+13:50:41:  于斌1
+13:50:46:  D:\fenxi\tetx\chromedriver.exe
+13:50:51:  Windows 任务管理器
+13:51:36:  Visual Studio 实时调试器
+13:51:41:  Windows 任务管理器
+13:51:46:  Python 3.7.3 Shell
+13:51:51:  无标题 - Google Chrome
+13:51:56:  data:, - Google Chrome
+13:52:01:  *Python 3.7.3 Shell*
+13:57:21:  库
+13:57:46:  锁屏状态
+13:57:51:  本地磁盘 (D:)
+13:57:56:  PostWork.py - 快捷方式
+13:57:57:  锁屏状态
+13:58:07:  锁屏状态
+13:58:12:  新建文本文档.exe - 快捷方式
+13:58:17:  打开数据库
+13:58:22:  tetx
+13:58:52:  iTunes
+13:59:12:  锁屏状态
+13:59:17:  iTunes
+13:59:22:  20210407
+13:59:27:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+13:59:32:  *Python 3.7.3 Shell*
+13:59:57:  iTunes
+14:00:02:  00-分析
+13:58:07:  锁屏状态
+13:58:12:  新建文本文档.exe - 快捷方式
+13:58:17:  打开数据库
+13:58:22:  tetx
+13:58:52:  iTunes
+13:59:12:  锁屏状态
+13:59:17:  iTunes
+13:59:22:  20210407
+13:59:27:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+13:59:32:  *Python 3.7.3 Shell*
+13:59:57:  iTunes
+14:00:02:  00-分析
+14:00:07:  20210407
+14:00:17:  Decode
+14:00:22:  eSpace Login
+14:00:27:  eSpace
+14:00:32:  设置
+14:00:37:  eSpace
+14:00:47:  荆文波
+14:01:02:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+14:01:07:  Decode
+14:01:12:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+14:01:37:  *Python 3.7.3 Shell*
+14:01:42:  D:\fenxi\tetx\chromedriver.exe
+14:01:47:  无标题 - Google Chrome
+14:01:57:  data:, - Google Chrome
+14:02:02:  https://accounts.binancezh.co/zh-CN/register - Google Chrome
+14:02:07:  注册 | Binance - Google Chrome
+14:02:37:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+14:02:47:  data:, - Google Chrome
+14:03:02:  D:\fenxi\tetx\chromedriver.exe
+14:03:07:  跳转列表
+14:03:12:  Kill?
+14:03:17:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+14:03:27:  Update Available
+14:03:32:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+14:03:47:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+14:03:57:  D:\00-06\DRB-vER\Applications\MemoryConfig.h (DRB-vER) - Sublime Text (UNREGISTERED)
+14:04:07:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+14:04:37:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:04:42:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+14:05:02:  Save Changes?
+14:05:07:  D:\fenxi\tetx\新建文本文档.py • (DRB-vER) - Sublime Text (UNREGISTERED)
+14:05:27:  D:\fenxi\tetx\新建文本文档.py (DRB-vER) - Sublime Text (UNREGISTERED)
+14:05:47:  D:\00-06\DRB-vER\Applications\MotorCtrl\MotorCtrl.c (DRB-vER) - Sublime Text (UNREGISTERED)
+14:06:07:  新标签页 - Google Chrome
+14:06:12:  百度一下，你就知道 - Google Chrome
+14:06:17:  sublime text3_百度搜索 - Google Chrome
+14:06:22:  全网最详细的Sublime Text 3的设置字体及字体大小（图文详解） - 大数据和AI躺过的坑 - 博客园 - Google Chrome
+14:06:27:  Package Control Messages (DRB-vER) - Sublime Text (UNREGISTERED)
+14:06:32:  全网最详细的Sublime Text 3的设置字体及字体大小（图文详解） - 大数据和AI躺过的坑 - 博客园 - Google Chrome
+14:06:52:  Package Control Messages (DRB-vER) - Sublime Text (UNREGISTERED)
+14:06:57:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:08:07:  Package Control Messages - Sublime Text (UNREGISTERED)
+14:08:12:  D:\00-06\DRB-vER\Applications\MotorCtrl\MotorCtrl.c (DRB-vER) - Sublime Text (UNREGISTERED)
+14:08:52:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\C Improved.sublime-settings • - Sublime Text (UNREGISTERED)
+14:08:57:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\Default\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:09:07:  全网最详细的Sublime Text 3的设置字体及字体大小（图文详解） - 大数据和AI躺过的坑 - 博客园 - Google Chrome
+14:09:17:  D:\00-06\DRB-vER\Applications\MotorCtrl\MotorCtrl.c (DRB-vER) - Sublime Text (UNREGISTERED)
+14:09:22:  D:\00-KE64\11\Applications\FlowControl\TrackModule\CashGateModuleApp.c (11) - Sublime Text (UNREGISTERED)
+14:09:32:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:09:47:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:10:07:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:10:17:  Update Available
+14:10:22:  sublime text3 字体_百度搜索 - Google Chrome
+14:10:32:  sublime text3 变斜体了_百度搜索 - Google Chrome
+14:10:47:  (24 封私信 / 80 条消息) sublime text 现在下载的怎么都是 斜体啊？？ - 知乎 - Google Chrome
+14:10:52:  sublime text3 变斜体了_百度搜索 - Google Chrome
+14:10:57:  Sublime Text3中文字体歪歪扭扭的解决方案_、moddemod-CSDN博客 - Google Chrome
+14:11:12:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:11:17:  Sublime Text3中文字体歪歪扭扭的解决方案_、moddemod-CSDN博客 - Google Chrome
+14:11:22:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:11:37:  Decode
+14:11:42:  跳转列表
+14:11:52:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+14:11:57:  Box_3__BTCR-1100190802300001_20210407110956.log - [No filter file] - TextAnalysisTool.NET
+14:12:02:  打开
+14:12:07:  00-分析
+14:12:12:  ID-2 100元上腔正向盘点第4张报142511.602 钞箱口 500ms纸币未进入 返回码0X085E0900
+14:12:17:  IMG_20210406_142738.jpg - Windows 照片查看器
+14:12:22:  ID-2 100元上腔正向盘点第4张报142511.602 钞箱口 500ms纸币未进入 返回码0X085E0900
+14:12:27:  IMG_20210406_142738.jpg 属性
+14:12:32:  ID-2 100元上腔正向盘点第4张报142511.602 钞箱口 500ms纸币未进入 返回码0X085E0900
+14:12:52:  Decode
+14:12:57:  运行
+14:13:02:  00-分析
+14:13:07:  20210407
+14:13:12:  LOG
+14:13:17:  K18_BTCR-1100190802300001_20210407104311
+14:13:22:  K64_BTCR-1100190802300001_20210407103531
+14:13:27:  Box_3__BTCR-1100190802300001_20210407103531.log - DRB2.tat - TextAnalysisTool.NET
+14:13:57:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat - TextAnalysisTool.NET
+14:14:42:  K64_BTCR-1100190802300001_20210407104311
+14:14:47:  Box_3__BTCR-1100190802300001_20210407104311.log - DRB2.tat - TextAnalysisTool.NET
+14:14:52:  计算机
+14:14:57:  BNE-C52210122000003问题
+14:14:42:  K64_BTCR-1100190802300001_20210407104311
+14:14:47:  Box_3__BTCR-1100190802300001_20210407104311.log - DRB2.tat - TextAnalysisTool.NET
+14:14:52:  计算机
+14:14:57:  BNE-C52210122000003问题
+14:15:17:  荆文波
+14:15:57:  BNE-C52210122000003问题
+14:16:02:  00-分析
+14:16:17:  20210407
+14:16:27:  LOG
+14:16:57:  K64_BTCR-1100190802300001_20210407103531
+14:17:02:  Box_3__BTCR-1100190802300001_20210407103531.log - DRB2.tat - TextAnalysisTool.NET
+14:17:07:  LOG
+14:17:12:  Box_3__BTCR-1100190802300001_20210407104311.log - DRB2.tat - TextAnalysisTool.NET
+14:17:42:  LOG
+14:17:47:  Box_3__BTCR-1100190802300001_20210407104807.log - DRB2.tat - TextAnalysisTool.NET
+14:17:52:  Box_3__BTCR-1100190802300001_20210407104906.log - DRB2.tat - TextAnalysisTool.NET
+14:18:02:  LOG
+14:18:07:  K64_BTCR-1100190802300001_20210407105450
+14:18:12:  LOG
+14:18:17:  K64_BTCR-1100190802300001_20210407110203
+14:18:22:  Box_3__BTCR-1100190802300001_20210407110203.log - DRB2.tat - TextAnalysisTool.NET
+14:18:32:  LOG
+14:18:37:  Box_3__BTCR-1100190802300001_20210407110704.log - DRB2.tat - TextAnalysisTool.NET
+14:19:02:  Box_3__BTCR-1100190802300001_20210407110956.log - DRB2.tat - TextAnalysisTool.NET
+14:19:52:  LOG
+14:19:57:  K64_BTCR-1100190802300001_20210407103531
+14:20:02:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat - TextAnalysisTool.NET
+14:20:37:  Box_3__BTCR-1100190802300001_20210407103531.log - DRB2.tat - TextAnalysisTool.NET
+14:21:12:  Box_3__BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+14:21:17:  K64_BTCR-1100190802300001_20210407103531
+14:21:22:  Box_3__BTCR-1100190802300001_20210407104311.log - DRB2.tat* - TextAnalysisTool.NET
+14:22:57:  K64_BTCR-1100190802300001_20210407104311
+14:23:12:  K64_BTCR-1100190802300001_20210407104807
+14:23:17:  K64_BTCR-1100190802300001_20210407104906
+14:23:22:  Box_3__BTCR-1100190802300001_20210407104906.log - DRB2.tat* - TextAnalysisTool.NET
+14:23:57:  LOG
+14:24:07:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+14:24:57:  荆文波
+14:25:02:  计算器
+14:25:12:  「开始」菜单
+14:25:22:  sublime text3 变斜体了_百度搜索 - Google Chrome
+14:25:27:  计算器
+14:25:32:  sublime text3 变斜体了_百度搜索 - Google Chrome
+14:25:42:  新建文本文档.exe - 快捷方式
+14:25:53:  桌面整理
+14:26:03:  个性化
+14:26:13:  电脑字体变斜了_百度搜索 - Google Chrome
+14:26:23:  win7 电脑字体变斜了_百度搜索 - Google Chrome
+14:26:28:  窗口颜色和外观
+14:27:08:  计算器
+14:27:18:  win7 电脑字体变斜了_百度搜索 - Google Chrome
+14:27:23:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:27:33:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\ConvertToUTF8.sublime-settings (11) - Sublime Text (UNREGISTERED)
+14:27:38:  Update Available
+14:27:43:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:27:48:  Sublime Text
+14:27:53:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:28:03:  win7 电脑字体变斜了_百度搜索 - Google Chrome
+14:28:08:  计算器
+14:28:13:  无标题 - Google Chrome
+14:28:18:  win7 电脑字体变斜了_百度搜索 - Google Chrome
+14:28:23:  帮帮忙啊，WIN7系统字体变成这样了【显卡吧】_百度贴吧 - Google Chrome
+14:28:39:  桌面整理
+14:28:49:  个性化
+14:28:59:  个性化 (未响应)
+14:29:04:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:29:09:  「开始」菜单
+14:29:14:  计算器
+14:29:24:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:29:29:  个性化
+14:29:34:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:29:39:  win7 电脑字体变斜了_百度搜索 - Google Chrome
+14:29:49:  全网最详细的Sublime Text 3的设置字体及字体大小（图文详解） - 大数据和AI躺过的坑 - 博客园 - Google Chrome
+14:30:04:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:28:08:  计算器
+14:28:13:  无标题 - Google Chrome
+14:28:18:  win7 电脑字体变斜了_百度搜索 - Google Chrome
+14:28:23:  帮帮忙啊，WIN7系统字体变成这样了【显卡吧】_百度贴吧 - Google Chrome
+14:28:39:  桌面整理
+14:28:49:  个性化
+14:28:59:  个性化 (未响应)
+14:29:04:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:29:09:  「开始」菜单
+14:29:14:  计算器
+14:29:24:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:29:29:  个性化
+14:29:34:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:29:39:  win7 电脑字体变斜了_百度搜索 - Google Chrome
+14:29:49:  全网最详细的Sublime Text 3的设置字体及字体大小（图文详解） - 大数据和AI躺过的坑 - 博客园 - Google Chrome
+14:30:04:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:30:09:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Distraction Free.sublime-settings • - Sublime Text (UNREGISTERED)
+14:30:14:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\C Improved.sublime-settings - Sublime Text (UNREGISTERED)
+14:30:24:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\Default\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:30:39:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\C Improved.sublime-settings - Sublime Text (UNREGISTERED)
+14:30:44:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:30:54:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\C Improved.sublime-settings - Sublime Text (UNREGISTERED)
+14:30:59:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:31:04:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\C Improved.sublime-settings - Sublime Text (UNREGISTERED)
+14:31:09:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:31:19:  sublime 字体 设置_百度搜索 - Google Chrome
+14:31:24:  Sublime 字体设置_Fighting!-CSDN博客_sublime字体设置 - Google Chrome
+14:31:49:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:31:54:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings • - Sublime Text (UNREGISTERED)
+14:31:59:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:32:20:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:32:25:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:32:30:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:32:40:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:32:50:  sublime 字体 设置_百度搜索 - Google Chrome
+14:32:55:  sublime 斜体 设置_百度搜索 - Google Chrome
+14:33:00:  Sublime Text 3如何将var function等关键字设置成斜体？ - Google Chrome
+14:33:15:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:33:20:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c (11) - Sublime Text (UNREGISTERED)
+14:33:30:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (11) - Sublime Text (UNREGISTERED)
+14:35:30:  Sublime Text
+14:35:35:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (11) - Sublime Text (UNREGISTERED)
+14:37:55:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.h (11) - Sublime Text (UNREGISTERED)
+14:38:05:  sublime 斜体 设置_百度搜索 - Google Chrome
+14:38:15:  sublime 中文_百度搜索 - Google Chrome
+14:38:20:  https://www.baidu.com/link?url=T-QuZ8mmLbMV2JjLTtN0hQXmCBvjtEJWXLELVephhI5aCsw6prJ9lxg54GY0YbbWDcle0JmMRA95K2mg0R6ERzRY9mhJifCyV1upJDzUhfG&wd=&eqid=b0a192b9000789c800000002606d5359 - Google Chrome
+14:38:25:  Sublime Text3中文字体歪歪扭扭的解决方案_、moddemod-CSDN博客 - Google Chrome
+14:38:35:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:38:50:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings • - Sublime Text (UNREGISTERED)
+14:39:05:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:39:25:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED) (未响应)
+14:39:30:  Sublime Text3中文字体歪歪扭扭的解决方案_、moddemod-CSDN博客 - Google Chrome
+14:39:35:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED) (未响应)
+14:39:45:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.h (11) - Sublime Text (UNREGISTERED) (未响应)
+14:39:50:  Sublime Text3中文字体歪歪扭扭的解决方案_、moddemod-CSDN博客 - Google Chrome
+14:39:55:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:40:15:  跳转列表
+14:40:20:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (11) - Sublime Text (UNREGISTERED)
+14:40:30:  C:\Users\zhangkaifa\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings - Sublime Text (UNREGISTERED)
+14:40:35:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxComm.c (11) - Sublime Text (UNREGISTERED)
+14:40:55:  sublime 中文显示斜_百度搜索 - Google Chrome
+14:41:05:  Sublime Text3 修改默认的主题配色设置_jiuliuhu的博客-CSDN博客 - Google Chrome
+14:41:20:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxComm.c (11) - Sublime Text (UNREGISTERED)
+14:41:40:  sublime默认主题_百度搜索 - Google Chrome
+14:41:50:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxComm.c (11) - Sublime Text (UNREGISTERED)
+14:42:00:  D:\00-KE64\11\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (11) - Sublime Text (UNREGISTERED)
+14:42:05:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+14:42:10:  *Python 3.7.3 Shell*
+14:42:15:  无标题 - Google Chrome
+14:42:20:  data:, - Google Chrome
+14:42:25:  D:\00-KE64\11\Applications\FlowControl\TrackModule\CashGateModuleApp.c (11) - Sublime Text (UNREGISTERED)
+14:42:55:  TCR调测工具 V3.36
+14:44:15:  钞箱配置
+14:44:25:  TCR调测工具 V3.36
+14:44:35:  跳转列表
+14:44:15:  钞箱配置
+14:44:25:  TCR调测工具 V3.36
+14:44:35:  跳转列表
+14:45:10:  TCR调测工具 V3.36
+14:45:35:  取款
+14:45:40:  TCR调测工具 V3.36
+14:46:00:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+14:46:05:  *Python 3.7.3 Shell*
+14:46:10:  D:\fenxi\tetx\chromedriver.exe
+14:46:15:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+14:46:20:  注册 | Binance - Google Chrome
+14:46:45:  计算器
+14:47:05:  注册 | Binance - Google Chrome
+14:47:10:  计算器
+14:48:10:  桌面整理
+14:48:15:  个性化
+14:48:20:  窗口颜色和外观
+14:48:50:  sublime默认主题是哪个_百度搜索 - Google Chrome
+14:48:55:  Python 3.7.3 Shell
+14:49:00:  *Python 3.7.3 Shell*
+14:49:05:  K64_BTCR-1100190802300001_20210407103531
+14:49:10:  无标题 - Google Chrome
+14:49:15:  注册 | Binance - Google Chrome
+14:49:35:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+14:49:40:  D:\fenxi\tetx\chromedriver.exe
+14:49:45:  无标题 - Google Chrome
+14:49:50:  跳转列表
+14:50:00:  *Python 3.7.3 Shell*
+14:50:06:  tetx
+14:50:11:  *Python 3.7.3 Shell*
+14:50:16:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+14:51:11:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+14:51:16:  D:\fenxi\tetx\chromedriver.exe
+14:51:21:  data:, - Google Chrome
+14:51:26:  注册 | Binance - Google Chrome
+14:51:51:  *Python 3.7.3 Shell*
+14:51:56:  D:\fenxi\tetx\chromedriver.exe
+14:52:01:  data:, - Google Chrome
+14:52:06:  注册 | Binance - Google Chrome
+14:52:16:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+14:52:36:  *Python 3.7.3 Shell*
+14:52:41:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+14:52:51:  *Python 3.7.3 Shell*
+14:52:56:  data:, - Google Chrome
+14:53:01:  注册 | Binance - Google Chrome
+14:53:16:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+14:53:56:  D:\fenxi\tetx\chromedriver.exe
+14:54:06:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+14:55:31:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+14:55:36:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+14:55:41:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+14:56:01:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+14:56:21:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:00:56:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:01:11:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:01:51:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:02:21:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:04:26:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:04:31:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:05:41:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:05:46:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:06:01:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:06:06:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:06:36:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:06:51:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:06:56:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:07:31:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:07:36:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:08:11:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:08:21:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:08:56:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:09:36:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:09:41:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:09:46:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:09:51:  *Python 3.7.3 Shell*
+15:09:56:  data:, - Google Chrome
+15:10:01:  *Python 3.7.3 Shell*
+15:10:11:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:10:16:  *Python 3.7.3 Shell*
+15:10:21:  data:, - Google Chrome
+15:10:26:  注册 | Binance - Google Chrome
+15:11:06:  *Python 3.7.3 Shell*
+15:11:11:  无标题 - Google Chrome
+15:11:16:  注册 | Binance - Google Chrome
+15:11:36:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:11:51:  跳转列表
+15:11:56:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+15:12:01:  *Python 3.7.3 Shell*
+15:12:11:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+15:12:16:  *Python 3.7.3 Shell*
+15:12:21:  无标题 - Google Chrome
+15:12:26:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+15:12:36:  注册 | Binance - Google Chrome
+15:12:41:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:13:06:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+15:13:16:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:13:31:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+15:13:36:  D:\fenxi\tetx\chromedriver.exe
+15:13:41:  data:, - Google Chrome
+15:13:46:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+15:13:56:  注册 | Binance - Google Chrome
+15:14:06:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+15:14:11:  YOPmail - Google Chrome
+15:14:16:  *Python 3.7.3 Shell*
+15:14:21:  Python 3.7.3 Shell
+15:14:36:  YOPmail - Google Chrome
+15:15:01:  无标题 - Google Chrome
+15:14:06:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+15:14:11:  YOPmail - Google Chrome
+15:14:16:  *Python 3.7.3 Shell*
+15:14:21:  Python 3.7.3 Shell
+15:14:36:  YOPmail - Google Chrome
+15:15:01:  无标题 - Google Chrome
+15:15:06:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+15:15:11:  注册 | Binance - Google Chrome
+15:15:21:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:15:41:  无标题 - Google Chrome
+15:15:46:  注册 | Binance - Google Chrome
+15:16:01:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:16:06:  YOPmail - Google Chrome
+15:16:26:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:16:31:  *Python 3.7.3 Shell*
+15:16:36:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:17:21:  *Python 3.7.3 Shell*
+15:17:26:  无标题 - Google Chrome
+15:17:31:  注册 | Binance - Google Chrome
+15:17:41:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:17:46:  YOPmail - Google Chrome
+15:17:51:  D:\fenxi\tetx\chromedriver.exe
+15:17:56:  注册 | Binance - Google Chrome
+15:18:16:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:18:21:  YOPmail - Google Chrome
+15:18:26:  注册 | Binance - Google Chrome
+15:18:31:  Kill?
+15:18:36:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:18:51:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:19:26:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:19:31:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:20:11:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:20:21:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:20:36:  tetx
+15:20:41:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+15:20:46:  D:\fenxi\tetx\chromedriver.exe
+15:20:51:  注册 | Binance - Google Chrome
+15:21:06:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:21:21:  tetx
+15:21:26:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:21:31:  *Python 3.7.3 Shell*
+15:21:56:  data:, - Google Chrome
+15:22:01:  *Python 3.7.3 Shell*
+15:22:06:  accounts.binancezh.co - Google Chrome
+15:22:11:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+15:22:16:  *Python 3.7.3 Shell*
+15:22:21:  无标题 - Google Chrome
+15:22:26:  注册 | Binance - Google Chrome
+15:22:46:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:23:01:  无标题 - Google Chrome
+15:23:06:  注册 | Binance - Google Chrome
+15:23:21:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:23:46:  D:\fenxi\tetx\chromedriver.exe
+15:23:51:  注册 | Binance - Google Chrome
+15:24:01:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:24:21:  data:, - Google Chrome
+15:24:26:  YOPmail - Google Chrome
+15:24:31:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+15:24:36:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:24:46:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:25:21:  *Python 3.7.3 Shell*
+15:25:31:  Kill?
+15:25:36:  注册.txt - 记事本
+15:25:41:  sublime默认主题是哪个_百度搜索 - Google Chrome
+15:25:56:  https://www.baidu.com/link?url=GN3wAaOGlSzrni-jDHP1cBTHzQxxvrAAsSLQ3kF-2sYjfOpIK6-O1cJPurx8C7IqMjSBVG_7jHYTdBnxUMZgq_&wd=&eqid=f1812357000672e900000002606d5e80 - Google Chrome
+15:26:01:  Python 文件'行数'读取的三种方法 - 戒骄戒躁-沉淀积蓄 - 博客园 - Google Chrome
+15:26:06:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:26:16:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:28:06:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:28:11:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:28:26:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:28:31:  tetx
+15:28:41:  C:\Windows\py.exe
+15:28:46:  data:, - Google Chrome
+15:28:51:  注册 | Binance - Google Chrome
+15:28:56:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:29:06:  无标题 - Google Chrome
+15:29:11:  注册 | Binance - Google Chrome
+15:29:26:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:29:36:  data:, - Google Chrome
+15:29:41:  注册 | Binance - Google Chrome
+15:29:51:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:30:01:  data:, - Google Chrome
+15:28:06:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:28:11:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:28:26:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:28:31:  tetx
+15:28:41:  C:\Windows\py.exe
+15:28:46:  data:, - Google Chrome
+15:28:51:  注册 | Binance - Google Chrome
+15:28:56:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:29:06:  无标题 - Google Chrome
+15:29:11:  注册 | Binance - Google Chrome
+15:29:26:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:29:36:  data:, - Google Chrome
+15:29:41:  注册 | Binance - Google Chrome
+15:29:51:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:30:01:  data:, - Google Chrome
+15:30:06:  注册 | Binance - Google Chrome
+15:30:16:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:30:26:  data:, - Google Chrome
+15:30:31:  C:\Windows\py.exe
+15:30:36:  注册.txt - 记事本
+15:30:41:  tetx
+15:30:46:  注册.txt - 记事本
+15:31:06:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:31:11:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:31:16:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:31:21:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:31:26:  注册.txt - 记事本
+15:31:31:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:31:46:  Python 文件'行数'读取的三种方法 - 戒骄戒躁-沉淀积蓄 - 博客园 - Google Chrome
+15:31:51:  python获取txt文件行数_百度搜索 - Google Chrome
+15:32:01:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:32:11:  注册.txt - 记事本
+15:32:16:  tetx
+15:32:21:  python获取txt文件行数_百度搜索 - Google Chrome
+15:32:26:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:32:41:  tetx
+15:32:46:  C:\Windows\py.exe
+15:32:51:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:33:01:  C:\Windows\py.exe
+15:33:11:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:33:16:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:33:26:  C:\Windows\py.exe
+15:33:36:  无标题 - Google Chrome
+15:33:41:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+15:33:46:  注册 | Binance - Google Chrome
+15:33:51:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:34:01:  data:, - Google Chrome
+15:34:06:  注册 | Binance - Google Chrome
+15:34:21:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:34:26:  data:, - Google Chrome
+15:34:31:  注册 | Binance - Google Chrome
+15:34:46:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:34:56:  注册 | Binance - Google Chrome
+15:35:06:  注册.txt - 记事本
+15:35:11:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:35:46:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:35:51:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:36:06:  注册.txt - 记事本
+15:36:11:  C:\Windows\py.exe
+15:36:16:  data:, - Google Chrome
+15:36:21:  注册 | Binance - Google Chrome
+15:36:26:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:36:36:  无标题 - Google Chrome
+15:36:41:  注册 | Binance - Google Chrome
+15:36:56:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:37:01:  data:, - Google Chrome
+15:37:06:  注册 | Binance - Google Chrome
+15:37:11:  tetx
+15:37:16:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:37:36:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:38:16:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:38:36:  tetx
+15:38:41:  注册.txt - 记事本
+15:38:46:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+15:38:51:  注册 | Binance - Google Chrome
+15:39:01:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:39:11:  注册 | Binance - Google Chrome
+15:39:26:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:39:41:  注册 | Binance - Google Chrome
+15:39:51:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:40:06:  data:, - Google Chrome
+15:40:11:  注册 | Binance - Google Chrome
+15:40:26:  YOPmail - Google Chrome
+15:40:31:  注册.txt - 记事本
+15:40:36:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:42:16:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:42:26:  tetx
+15:42:31:  C:\Windows\py.exe
+15:42:36:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+15:42:41:  注册 | Binance - Google Chrome
+15:42:46:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:42:51:  C:\Windows\py.exe
+15:43:01:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+15:43:11:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+15:43:16:  YOPmail - Google Chrome
+15:43:26:  新建文本文档.py - D:\fenxi\tetx\新建文本文档.py (3.7.3)
+15:43:32:  C:\Windows\py.exe
+15:43:37:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+15:43:42:  注册 | Binance - Google Chrome
+15:43:47:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:44:02:  注册 | Binance - Google Chrome
+15:44:17:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:44:22:  data:, - Google Chrome
+15:44:27:  注册 | Binance - Google Chrome
+15:44:37:  C:\Windows\py.exe
+15:44:42:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:44:52:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:44:17:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:44:22:  data:, - Google Chrome
+15:44:27:  注册 | Binance - Google Chrome
+15:44:37:  C:\Windows\py.exe
+15:44:42:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:44:52:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:45:42:  C:\Windows\py.exe
+15:45:47:  data:, - Google Chrome
+15:45:52:  注册 | Binance - Google Chrome
+15:46:07:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:46:17:  注册 | Binance - Google Chrome
+15:46:27:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:46:52:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:47:02:  C:\Windows\py.exe
+15:47:07:  注册 | Binance - Google Chrome
+15:47:22:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:47:32:  data:, - Google Chrome
+15:47:37:  注册 | Binance - Google Chrome
+15:47:42:  tetx
+15:47:47:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:48:32:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:48:42:  tetx
+15:48:52:  跳转列表
+15:48:57:  data:, - Google Chrome
+15:49:02:  注册 | Binance - Google Chrome
+15:49:12:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:49:22:  data:, - Google Chrome
+15:49:27:  注册 | Binance - Google Chrome
+15:49:42:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:49:47:  data:, - Google Chrome
+15:49:52:  注册 | Binance - Google Chrome
+15:50:07:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:50:12:  data:, - Google Chrome
+15:50:17:  注册 | Binance - Google Chrome
+15:50:32:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:50:42:  注册 | Binance - Google Chrome
+15:50:47:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:52:07:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:52:12:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:52:37:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:52:47:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:52:52:  注册.txt - 记事本
+15:52:57:  C:\Windows\py.exe
+15:53:02:  data:, - Google Chrome
+15:53:07:  注册 | Binance - Google Chrome
+15:53:17:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:53:22:  YOPmail - Google Chrome
+15:53:27:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:53:32:  C:\Windows\py.exe
+15:53:37:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:53:42:  C:\Windows\py.exe
+15:53:47:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:53:52:  C:\Windows\py.exe
+15:53:57:  跳转列表
+15:54:02:  C:\Windows\py.exe
+15:54:12:  注册 | Binance - Google Chrome
+15:54:32:  C:\Windows\py.exe
+15:54:37:  data:, - Google Chrome
+15:54:42:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:55:02:  YOPmail - Google Chrome
+15:55:12:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:55:22:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+15:55:42:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:56:07:  C:\Windows\py.exe
+15:56:12:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+15:56:17:  注册 | Binance - Google Chrome
+15:56:27:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:56:32:  YOPmail - Google Chrome
+15:56:37:  无标题 - Google Chrome
+15:56:42:  注册 | Binance - Google Chrome
+15:56:57:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:57:07:  data:, - Google Chrome
+15:57:12:  注册 | Binance - Google Chrome
+15:57:27:  C:\Windows\py.exe
+15:57:37:  data:, - Google Chrome
+15:57:42:  注册 | Binance - Google Chrome
+15:57:52:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:58:02:  注册 | Binance - Google Chrome
+15:58:17:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:58:22:  C:\Windows\py.exe
+15:58:27:  YOPmail - Google Chrome
+15:58:42:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:58:57:  C:\Windows\py.exe
+15:59:07:  无标题 - Google Chrome
+15:59:12:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+15:59:22:  注册 | Binance - Google Chrome
+15:59:27:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:59:32:  C:\Windows\py.exe
+15:59:37:  https://www.binancezh.co/zh-CN/my/welcome - Google Chrome
+15:59:42:  注册 | Binance - Google Chrome
+15:59:52:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:00:02:  data:, - Google Chrome
+15:58:17:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:58:22:  C:\Windows\py.exe
+15:58:27:  YOPmail - Google Chrome
+15:58:42:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+15:58:57:  C:\Windows\py.exe
+15:59:07:  无标题 - Google Chrome
+15:59:12:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+15:59:22:  注册 | Binance - Google Chrome
+15:59:27:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+15:59:32:  C:\Windows\py.exe
+15:59:37:  https://www.binancezh.co/zh-CN/my/welcome - Google Chrome
+15:59:42:  注册 | Binance - Google Chrome
+15:59:52:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:00:02:  data:, - Google Chrome
+16:00:07:  注册 | Binance - Google Chrome
+16:00:17:  YOPmail - Google Chrome
+16:00:27:  data:, - Google Chrome
+16:00:32:  注册 | Binance - Google Chrome
+16:00:47:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:01:02:  注册 | Binance - Google Chrome
+16:01:17:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:01:27:  注册 | Binance - Google Chrome
+16:01:37:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:01:47:  无标题 - Google Chrome
+16:01:52:  注册 | Binance - Google Chrome
+16:02:07:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:02:12:  无标题 - Google Chrome
+16:02:22:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:02:42:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:02:52:  tetx
+16:03:02:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:03:07:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:03:12:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:03:32:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:03:37:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:03:57:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:04:02:  C:\Windows\py.exe
+16:04:07:  注册 | Binance - Google Chrome
+16:04:12:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+16:04:17:  注册 | Binance - Google Chrome
+16:04:22:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:04:27:  data:, - Google Chrome
+16:04:32:  注册 | Binance - Google Chrome
+16:04:47:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:04:52:  data:, - Google Chrome
+16:04:57:  注册 | Binance - Google Chrome
+16:05:02:  C:\Windows\py.exe
+16:05:07:  跳转列表
+16:05:12:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:05:22:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:06:17:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:06:22:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:06:27:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:06:32:  tetx
+16:06:37:  无标题 - Google Chrome
+16:06:42:  注册 | Binance - Google Chrome
+16:07:02:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+16:07:07:  C:\Windows\py.exe
+16:07:12:  data:, - Google Chrome
+16:07:17:  注册 | Binance - Google Chrome
+16:07:27:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:07:32:  注册 | Binance - Google Chrome
+16:07:57:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:08:12:  C:\Windows\py.exe
+16:08:17:  注册 | Binance - Google Chrome
+16:08:22:  YOPmail - Google Chrome
+16:08:27:  注册.txt - 记事本
+16:08:32:  C:\Windows\py.exe
+16:08:37:  注册 | Binance - Google Chrome
+16:08:57:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:09:07:  data:, - Google Chrome
+16:09:12:  注册 | Binance - Google Chrome
+16:09:27:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:09:37:  data:, - Google Chrome
+16:09:42:  注册 | Binance - Google Chrome
+16:09:57:  C:\Windows\py.exe
+16:10:07:  无标题 - Google Chrome
+16:10:12:  注册 | Binance - Google Chrome
+16:10:32:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:12:27:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:12:32:  C:\Windows\py.exe
+16:12:37:  无标题 - Google Chrome
+16:12:42:  data:, - Google Chrome
+16:12:47:  注册 | Binance - Google Chrome
+16:12:57:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:13:02:  注册 | Binance - Google Chrome
+16:13:12:  https://www.binancezh.co/zh-CN/my/welcome - Google Chrome
+16:13:17:  注册 | Binance - Google Chrome
+16:13:27:  跳转列表
+16:13:37:  C:\Windows\py.exe
+16:13:42:  注册 | Binance - Google Chrome
+16:14:02:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:14:07:  注册 | Binance - Google Chrome
+16:14:27:  data:, - Google Chrome
+16:14:32:  注册 | Binance - Google Chrome
+16:14:47:  C:\Windows\py.exe
+16:14:52:  注册 | Binance - Google Chrome
+16:14:57:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:14:07:  注册 | Binance - Google Chrome
+16:14:27:  data:, - Google Chrome
+16:14:32:  注册 | Binance - Google Chrome
+16:14:47:  C:\Windows\py.exe
+16:14:52:  注册 | Binance - Google Chrome
+16:14:57:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:15:32:  tetx
+16:15:37:  C:\Windows\py.exe
+16:15:42:  data:, - Google Chrome
+16:15:47:  注册 | Binance - Google Chrome
+16:16:02:  无标题 - Google Chrome
+16:16:07:  注册 | Binance - Google Chrome
+16:16:22:  YOPmail - Google Chrome
+16:16:27:  注册 | Binance - Google Chrome
+16:16:37:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:16:42:  注册 | Binance - Google Chrome
+16:16:52:  C:\Windows\py.exe
+16:17:12:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:17:32:  tetx
+16:17:42:  data:, - Google Chrome
+16:17:47:  注册 | Binance - Google Chrome
+16:18:07:  data:, - Google Chrome
+16:18:12:  注册 | Binance - Google Chrome
+16:18:32:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:18:37:  data:, - Google Chrome
+16:18:42:  D:\fenxi\tetx\chromedriver.exe
+16:18:47:  跳转列表
+16:18:52:  *Python 3.7.3 Shell*
+16:18:57:  Python 3.7.3 Shell
+16:19:02:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:19:12:  Python 3.7.3 Shell
+16:19:22:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:20:57:  D:\fenxi\tetx\chromedriver.exe
+16:21:02:  注册 | Binance - Google Chrome
+16:21:22:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:21:27:  data:, - Google Chrome
+16:21:32:  注册 | Binance - Google Chrome
+16:21:52:  YOPmail - Google Chrome
+16:22:02:  *Python 3.7.3 Shell*
+16:22:07:  data:, - Google Chrome
+16:22:12:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+16:22:17:  注册 | Binance - Google Chrome
+16:22:22:  data:, - Google Chrome
+16:22:27:  注册 | Binance - Google Chrome
+16:22:32:  D:\fenxi\tetx\chromedriver.exe
+16:22:37:  YOPmail - Google Chrome
+16:22:42:  *Python 3.7.3 Shell*
+16:22:47:  注册 | Binance - Google Chrome
+16:23:27:  *Python 3.7.3 Shell*
+16:23:32:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:24:12:  *Python 3.7.3 Shell*
+16:24:17:  注册 | Binance - Google Chrome
+16:24:32:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:24:37:  无标题 - Google Chrome
+16:24:42:  注册 | Binance - Google Chrome
+16:25:12:  无标题 - Google Chrome
+16:25:17:  data:, - Google Chrome
+16:25:22:  注册 | Binance - Google Chrome
+16:25:32:  *Python 3.7.3 Shell*
+16:25:37:  注册 | Binance - Google Chrome
+16:25:52:  *Python 3.7.3 Shell*
+16:25:57:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:26:27:  *Python 3.7.3 Shell*
+16:26:52:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:27:12:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:27:42:  *Python 3.7.3 Shell*
+16:27:47:  data:, - Google Chrome
+16:27:52:  注册 | Binance - Google Chrome
+16:28:07:  data:, - Google Chrome
+16:28:12:  注册 | Binance - Google Chrome
+16:28:37:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:29:02:  注册 | Binance - Google Chrome
+16:29:12:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:29:17:  注册 | Binance - Google Chrome
+16:29:37:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:29:42:  YOPmail - Google Chrome
+16:29:47:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:29:52:  锁屏状态
+16:29:57:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:30:02:  data:, - Google Chrome
+16:28:07:  data:, - Google Chrome
+16:28:12:  注册 | Binance - Google Chrome
+16:28:37:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:29:02:  注册 | Binance - Google Chrome
+16:29:12:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:29:17:  注册 | Binance - Google Chrome
+16:29:37:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:29:42:  YOPmail - Google Chrome
+16:29:47:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:29:52:  锁屏状态
+16:29:57:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:30:02:  data:, - Google Chrome
+16:30:07:  Kill?
+16:30:12:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:30:42:  *Python 3.7.3 Shell*
+16:30:47:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+16:30:57:  注册 | Binance - Google Chrome
+16:31:07:  *Python 3.7.3 Shell*
+16:31:12:  无标题 - Google Chrome
+16:31:17:  注册 | Binance - Google Chrome
+16:31:32:  D:\fenxi\tetx\chromedriver.exe
+16:31:37:  注册 | Binance - Google Chrome
+16:31:47:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:31:57:  无标题 - Google Chrome
+16:32:02:  data:, - Google Chrome
+16:32:13:  www.yopmail.com/zh/ - Google Chrome
+16:32:18:  跳转列表
+16:32:23:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:32:43:  tetx
+16:32:48:  D:\fenxi\tetx\chromedriver.exe
+16:32:53:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+16:32:58:  *Python 3.7.3 Shell*
+16:33:03:  注册 | Binance - Google Chrome
+16:33:13:  无标题 - Google Chrome
+16:33:18:  注册 | Binance - Google Chrome
+16:33:43:  无标题 - Google Chrome
+16:33:48:  YOPmail - Google Chrome
+16:33:53:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:33:58:  YOPmail - Google Chrome
+16:34:18:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:39:53:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:40:33:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:41:18:  00-分析
+16:41:28:  上腔5元RB4-RB31盘点112张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X834602B4
+16:41:33:  2
+16:41:38:  IMG_20210407_144324.jpg - Windows 照片查看器
+16:41:43:  2
+16:41:48:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:41:53:  K64-_BTCR-1100190802300001_20210407103531.log - DRB2.tat* - TextAnalysisTool.NET
+16:41:58:  Decode
+16:42:03:  Box_3__BTCR-1100190802300001_20210407144122.log - DRB2.tat* - TextAnalysisTool.NET
+16:42:33:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:43:28:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:43:48:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:43:53:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:43:58:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:44:03:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:44:18:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:44:28:  00-分析
+16:44:33:  20210324
+16:44:38:  CashBoxDareV3.0.py - D:\00-分析\ID-10、1元下腔盘点T10-T40钞长错误拒钞过多\CashBoxDareV3.0.py (3.7.3)
+16:44:18:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:44:28:  00-分析
+16:44:33:  20210324
+16:44:38:  CashBoxDareV3.0.py - D:\00-分析\ID-10、1元下腔盘点T10-T40钞长错误拒钞过多\CashBoxDareV3.0.py (3.7.3)
+16:45:23:  LogExpert
+16:45:28:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:45:58:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:46:03:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:46:23:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:46:33:  本地磁盘 (D:)
+16:46:43:  注册.txt - 记事本
+16:46:48:  C:\Windows\py.exe
+16:46:58:  data:, - Google Chrome
+16:47:03:  C:\Windows\py.exe
+16:47:23:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:47:28:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:48:13:  C:\Windows\py.exe
+16:48:33:  YOPmail : 临时、匿名的免费邮箱地址。 - Google Chrome
+16:48:38:  data:, - Google Chrome
+16:48:43:  C:\Windows\py.exe
+16:48:48:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:49:28:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:49:33:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:49:38:  C:\Windows\py.exe
+16:49:43:  data:, - Google Chrome
+16:49:48:  C:\Windows\py.exe
+16:49:53:  YOPmail - Google Chrome
+16:49:58:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:50:18:  D:\fenxi\tetx\新建文本文档.py • (11) - Sublime Text (UNREGISTERED)
+16:50:38:  C:\Windows\py.exe
+16:50:43:  注册 | Binance - Google Chrome
+16:50:58:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:51:03:  data:, - Google Chrome
+16:51:08:  注册 | Binance - Google Chrome
+16:51:23:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:51:28:  YOPmail - Google Chrome
+16:51:33:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:51:38:  YOPmail - Google Chrome
+16:51:48:  tetx
+16:51:58:  data:, - Google Chrome
+16:52:03:  注册 | Binance - Google Chrome
+16:52:23:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:52:33:  C:\Windows\py.exe
+16:52:38:  跳转列表
+16:52:43:  C:\Windows\py.exe
+16:52:48:  无标题 - Google Chrome
+16:52:53:  注册 | Binance - Google Chrome
+16:53:13:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:53:18:  无标题 - Google Chrome
+16:53:23:  注册 | Binance - Google Chrome
+16:53:38:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:53:43:  注册 | Binance - Google Chrome
+16:54:03:  data:, - Google Chrome
+16:54:08:  注册 | Binance - Google Chrome
+16:54:28:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:54:33:  注册 | Binance - Google Chrome
+16:54:53:  data:, - Google Chrome
+16:54:58:  注册 | Binance - Google Chrome
+16:55:18:  data:, - Google Chrome
+16:55:23:  注册 | Binance - Google Chrome
+16:55:38:  https://accounts.binancezh.co/zh-CN/verification-new-register/email? - Google Chrome
+16:55:43:  data:, - Google Chrome
+16:55:48:  注册 | Binance - Google Chrome
+16:56:03:  data:, - Google Chrome
+16:56:08:  注册 | Binance - Google Chrome
+16:56:23:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+16:57:13:  注册.txt - 记事本
+16:57:18:  tetx
+16:57:23:  印象笔记
+16:57:38:  所有笔记本 - 张开发 - 印象笔记
+16:57:53:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+17:00:13:  锁屏状态
+17:00:28:  D:\fenxi\tetx\新建文本文档.py (11) - Sublime Text (UNREGISTERED)
+17:01:58:  锁屏状态

@@ -1,0 +1,96 @@
+2020-10-20 23:45:04-- 00:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 00:00:00-- 00:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 00:15:00-- 00:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 00:30:00-- 00:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 00:45:00-- 01:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 01:00:00-- 01:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 01:15:01-- 01:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 01:30:01-- 01:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 01:45:01-- 02:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 02:00:01-- 02:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 02:15:01-- 02:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 02:30:02-- 02:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 02:45:02-- 03:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 03:00:02-- 03:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 03:15:02-- 03:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 03:30:02-- 03:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 03:45:03-- 04:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 04:00:03-- 04:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 04:15:03-- 04:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 04:30:03-- 04:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 04:45:04-- 05:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 05:00:04-- 05:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 05:15:04-- 05:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 05:30:00-- 05:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 05:45:00-- 06:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 06:00:00-- 06:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 06:15:00-- 06:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 06:30:01-- 06:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 06:45:01-- 07:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 07:00:01-- 07:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 07:15:01-- 07:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 07:30:02-- 07:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 07:45:02-- 08:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 08:00:02-- 08:15:02     :    一  ：（上海+邮储）DRB钞箱发货测试   98/8.16分钟       二  ：E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)   46/3.83分钟     三  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   26/2.16分钟
+2020-10-21 08:15:02-- 08:30:02     :    一  ：E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)   163/13.5分钟       二  ：戚晓东   13/1.08分钟     三  ：Re: 回复: 关于自研TCR机芯BV升级的业务联络【BV再次升级】   2/0.16分钟
+2020-10-21 08:30:02-- 08:45:01     :    一  ：E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)   91/7.58分钟       二  ：戚晓东   45/3.75分钟     三  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   33/2.75分钟
+2020-10-21 08:45:01-- 09:00:02     :    一  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   164/13.6分钟       二  ：CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]   16/1.33分钟     三  ：（上海+邮储）DRB钞箱发货测试   1/0.08分钟
+2020-10-21 09:00:02-- 09:15:02     :    一  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   113/9.41分钟       二  ：D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)   33/2.75分钟     三  ：D:\00-KE64\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.h (trunk) - Sublime Text (UNREGISTERED)   7/0.58分钟
+2020-10-21 09:15:02-- 09:30:03     :    一  ：D:\00-KE64\trunk\Project\k64_rtt.uvprojx - μVision   95/7.91分钟       二  ：发送指令到K06   79/6.58分钟     三  ：trunk   5/0.41分钟
+2020-10-21 09:30:03-- 09:45:04     :    一  ：20180613 TCR内部指令手册_V001.xlsx - Excel   156/13.0分钟       二  ：发送指令到K06   21/1.75分钟     三  ：锁屏状态   2/0.16分钟
+2020-10-21 09:45:04-- 10:00:04     :    一  ：20180613 TCR内部指令手册_V001.xlsx - Excel   47/3.91分钟       二  ：D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)   38/3.16分钟     三  ：D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision   22/1.83分钟
+2020-10-21 10:00:04-- 10:15:00     :    一  ：D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)   50/4.16分钟       二  ：D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)   35/2.91分钟     三  ：TCR调测工具 V3.36   24/2.0分钟
+2020-10-21 10:15:00-- 10:30:00     :    一  ：TCR调测工具 V3.36   70/5.83分钟       二  ：D:\00-KE64\10 - 日志信息 - TortoiseSVN   38/3.16分钟     三  ：D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision   27/2.25分钟
+2020-10-21 10:30:00-- 10:45:00     :    一  ：于斌1   88/7.33分钟       二  ：D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)   42/3.5分钟     三  ：中国邮政储蓄银行超级柜员机（STM）采购招标测试方案20201021.doc   15/1.25分钟
+2020-10-21 10:45:00-- 11:00:00     :    一  ：D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)   35/2.91分钟       二  ：D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)   31/2.58分钟     三  ：荆文波   26/2.16分钟
+2020-10-21 11:00:00-- 11:15:01     :    一  ：D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)   74/6.16分钟       二  ：D:\00-KE64\trunk\Applications\FlowControl\TrackMotor\MotorModuleIF.c (trunk) - Sublime Text (UNREGISTERED)   61/5.08分钟     三  ：D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)   26/2.16分钟
+2020-10-21 11:15:01-- 11:30:01     :    一  ：D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   48/4.0分钟       二  ：D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c • (trunk) - Sublime Text (UNREGISTERED)   30/2.5分钟     三  ：D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.h (trunk) - Sublime Text (UNREGISTERED)   20/1.66分钟
+2020-10-21 11:30:01-- 11:45:01     :    一  ：D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)   86/7.16分钟       二  ：D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)   74/6.16分钟     三  ：D:\00-KE64\trunk\Applications\InstrExp\InstrGSProcess.c • (trunk) - Sublime Text (UNREGISTERED)   5/0.41分钟
+2020-10-21 11:45:01-- 12:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 12:00:01-- 12:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 12:15:01-- 12:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 12:30:01-- 12:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 12:45:01-- 13:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 13:00:02-- 13:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 13:15:02-- 13:30:02     :    一  ：D:\00-KE64\trunk\Applications\FlowControl\TrackModule\GateModule.c (trunk) - Sublime Text (UNREGISTERED)   115/9.58分钟       二  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   38/3.16分钟     三  ：荆文波   9/0.75分钟
+2020-10-21 13:30:02-- 13:45:03     :    一  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   140/11.6分钟       二  ：CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]   36/3.0分钟     三  ：荆文波   3/0.25分钟
+2020-10-21 13:45:03-- 14:00:03     :    一  ：荆文波   53/4.41分钟       二  ：D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)   43/3.58分钟     三  ：D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c • (10) - Sublime Text (UNREGISTERED)   33/2.75分钟
+2020-10-21 14:00:03-- 14:15:03     :    一  ：D:\CRS\KE18-UP\Applications\LogHandle\LogSend.c (KE18-UP) - Sublime Text (UNREGISTERED)   55/4.58分钟       二  ：D:\00-KE64\10\Applications\InstrExp\InstrGSProcess.c (10) - Sublime Text (UNREGISTERED)   45/3.75分钟     三  ：荆文波   24/2.0分钟
+2020-10-21 14:15:03-- 14:30:04     :    一  ：D:\CRS\KE18-UP\FwLib\DebugLog\DebugLog.h (KE18-UP) - Sublime Text (UNREGISTERED)   71/5.91分钟       二  ：D:\CRS\KE18-UP\Applications\LogHandle\LogSend.c (KE18-UP) - Sublime Text (UNREGISTERED)   22/1.83分钟     三  ：C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (DRB--) - Sublime Text (UNREGISTERED)   11/0.91分钟
+2020-10-21 14:30:04-- 14:45:04     :    一  ：C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py • (10) - Sublime Text (UNREGISTERED)   50/4.16分钟       二  ：*ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*   21/1.75分钟     三  ：C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (10) - Sublime Text (UNREGISTERED)   19/1.58分钟
+2020-10-21 14:45:04-- 15:00:04     :    一  ：*ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*   67/5.58分钟       二  ：LogExpert - C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201010142710.log   22/1.83分钟     三  ：log0.txt - 记事本   21/1.75分钟
+2020-10-21 15:00:04-- 15:15:04     :    一  ：LogExpert - C:\Users\zhangkaifa\Desktop\新建文件夹\K18_0000_20201010142710.log   71/5.91分钟       二  ：TCR调测工具 V3.36   64/5.33分钟     三  ：ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)   39/3.25分钟
+2020-10-21 15:15:04-- 15:30:04     :    一  ：TCR调测工具 V3.36   160/13.3分钟       二  ：C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (10) - Sublime Text (UNREGISTERED)   6/0.5分钟     三  ：D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision   5/0.41分钟
+2020-10-21 15:30:04-- 15:45:04     :    一  ：E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision   105/8.75分钟       二  ：E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)   33/2.75分钟     三  ：E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)   12/1.0分钟
+2020-10-21 15:45:04-- 16:00:04     :    一  ：E:\深圳出差\44\Applications\LogHandle\LogHandle.c • (44) - Sublime Text (UNREGISTERED)   72/6.0分钟       二  ：D:\00-KE64\10\Applications\CanComm\CanComm.c (10) - Sublime Text (UNREGISTERED)   41/3.41分钟     三  ：E:\深圳出差\44\Applications\LogHandle\LogHandle.c (44) - Sublime Text (UNREGISTERED)   36/3.0分钟
+2020-10-21 16:00:04-- 16:15:00     :    一  ：E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision   149/12.4分钟       二  ：E:\深圳出差\6666\Project\k64_rtt.uvprojx - μVision   9/0.75分钟     三  ：TCR调测工具（研发版）V1.0.0.4   6/0.5分钟
+2020-10-21 16:15:00-- 16:30:00     :    一  ：E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision   112/9.33分钟       二  ：K18_0000_20201021161600.log - DRB.tat - TextAnalysisTool.NET   21/1.75分钟     三  ：Decode   9/0.75分钟
+2020-10-21 16:30:00-- 16:45:00     :    一  ：E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision   102/8.5分钟       二  ：20201021   7/0.58分钟     三  ：K18_0000_20201021161600.log - DRB.tat - TextAnalysisTool.NET   7/0.58分钟
+2020-10-21 16:45:00-- 17:00:00     :    一  ：E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision   156/13.0分钟       二  ：TCR调测工具（研发版）V1.0.0.4   10/0.83分钟     三  ：D:\00-KE64\10\Middlewares\DigitLed\DigitLed.c (10) - Sublime Text (UNREGISTERED)   3/0.25分钟
+2020-10-21 17:00:00-- 17:15:00     :    一  ：E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision   135/11.2分钟       二  ：K18_0000_20201021170003.log - DRB.tat - TextAnalysisTool.NET   13/1.08分钟     三  ：TCR调测工具（研发版）V1.0.0.4   12/1.0分钟
+2020-10-21 17:15:00-- 17:30:01     :    一  ：E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision   98/8.16分钟       二  ：D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision   35/2.91分钟     三  ：K18_0000_20201021170003.log - DRB.tat - TextAnalysisTool.NET   18/1.5分钟
+2020-10-21 17:30:01-- 17:45:01     :    一  ：E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision   105/8.75分钟       二  ：K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET   25/2.08分钟     三  ：*ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*   16/1.33分钟
+2020-10-21 17:45:01-- 18:00:01     :    一  ：E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision   116/9.66分钟       二  ：K18_0000_20201021170003.log - [No filter file] - TextAnalysisTool.NET   36/3.0分钟     三  ：D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision   16/1.33分钟
+2020-10-21 18:00:01-- 18:15:01     :    一  ：E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision   38/3.16分钟       二  ：ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)   21/1.75分钟     三  ：*ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*   16/1.33分钟
+2020-10-21 18:15:01-- 18:30:01     :    一  ：ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)   50/4.16分钟       二  ：*ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*   45/3.75分钟     三  ：*Python 3.7.3 Shell*   15/1.25分钟
+2020-10-21 18:30:01-- 18:45:01     :    一  ：*ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)*   85/7.08分钟       二  ：ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)   40/3.33分钟     三  ：Class-Log-C1.py - C:\Users\zhangkaifa\Documents\Class-Log-C1.py (3.7.3)   27/2.25分钟
+2020-10-21 18:45:01-- 19:00:01     :    一  ：ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)   81/6.75分钟       二  ：*Python 3.7.3 Shell*   38/3.16分钟     三  ：20201031固件团建报名表.xlsx  [受保护的视图] - Excel   12/1.0分钟
+2020-10-21 19:00:01-- 19:15:01     :    一  ：新建文件夹   35/2.91分钟       二  ：ClassLog.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog.py (3.7.3)   34/2.83分钟     三  ：ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)   22/1.83分钟
+2020-10-21 19:15:01-- 19:30:01     :    一  ：*Python 3.7.3 Shell*   43/3.58分钟       二  ：ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)   38/3.16分钟     三  ：新建文件夹   25/2.08分钟
+2020-10-21 19:30:01-- 19:45:02     :    一  ：锁屏状态   69/5.75分钟       二  ：*ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)*   41/3.41分钟     三  ：ClassLog333.py - C:\Users\zhangkaifa\Desktop\新建文件夹\ClassLog333.py (3.7.3)   25/2.08分钟
+2020-10-21 19:45:02-- 20:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 20:00:02-- 20:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 20:15:02-- 20:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 20:30:02-- 20:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 20:45:02-- 21:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 21:00:02-- 21:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 21:15:02-- 21:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 21:30:03-- 21:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 21:45:03-- 22:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 22:00:03-- 22:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 22:15:03-- 22:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 22:30:03-- 22:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 22:45:03-- 23:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 23:00:03-- 23:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 23:15:04-- 23:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-10-21 23:30:04-- 23:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

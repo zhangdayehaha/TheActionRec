@@ -1,0 +1,348 @@
+15:31:41:  TCR调测工具 V3.36
+15:31:46:  Dialog
+15:31:51:  TCR调测工具 V3.36
+15:32:01:  取款
+15:32:06:  
+15:32:11:  D:\00-06\DRB-Seclect-Respontime\Applications\Track\Track.c (DRB-Seclect-Respontime) - Sublime Text (UNREGISTERED)
+15:32:21:  D:\00-06\DRB-Seclect-Respontime\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-Seclect-Respontime) - Sublime Text (UNREGISTERED)
+15:32:41:  D:\00-06\DRB-Seclect-Respontime\Middlewares\Plate\LowerPlate.c (DRB-Seclect-Respontime) - Sublime Text (UNREGISTERED)
+15:32:46:  取款
+15:32:51:  D:\00-06\DRB-Seclect-Respontime\Middlewares\Plate\LowerPlate.c (DRB-Seclect-Respontime) - Sublime Text (UNREGISTERED)
+15:33:01:  TCR调测工具 V3.36
+15:33:06:  取款
+15:33:11:  D:\00-06\DRB-Seclect-Respontime\Middlewares\Plate\LowerPlate.c (DRB-Seclect-Respontime) - Sublime Text (UNREGISTERED)
+15:34:01:  D:\00-06\DRB-Seclect-Respontime\FwLib\StdSnbc\StdMacro.h (DRB-Seclect-Respontime) - Sublime Text (UNREGISTERED)
+15:34:06:  D:\00-06\DRB-Seclect-Respontime\Middlewares\Plate\LowerPlate.c (DRB-Seclect-Respontime) - Sublime Text (UNREGISTERED)
+15:34:11:  取款
+15:34:16:  TCR调测工具 V3.36
+15:34:31:  
+15:35:11:  Windows 资源管理器
+15:35:16:  TCRControlCmdDLL
+15:35:21:  删除多个项目
+15:35:26:  Decode
+15:35:31:  K64_0000_20200414153414
+15:35:36:  
+15:35:41:  Box_1__0000_20200414153414.log - [No filter file] - TextAnalysisTool.NET
+15:35:46:  Add Filter
+15:35:51:  Box_1__0000_20200414153414.log - [No filter file]* - TextAnalysisTool.NET
+15:38:26:  固件设计中心
+15:42:26:  
+15:42:36:  Box_1__0000_20200414153414.log - [No filter file]* - TextAnalysisTool.NET
+15:42:56:  
+15:43:01:  D:\00-06\DRB-Seclect-Respontime\Applications\Track\Track.c (DRB-Seclect-Respontime) - Sublime Text (UNREGISTERED)
+15:43:16:  「开始」菜单
+15:43:21:  New Project By Approach
+15:43:26:  StarUML - 3.uml
+15:45:56:  TCR调测工具 V3.36
+15:46:36:  Box_1__0000_20200414153414.log - [No filter file]* - TextAnalysisTool.NET
+15:47:06:  TCR调测工具 V3.36
+15:47:11:  取款
+15:47:16:  TCR调测工具 V3.36
+15:47:56:  取款
+15:48:01:  TCR调测工具 V3.36
+15:52:26:  
+15:53:11:  StarUML - 3.uml
+15:53:16:  TCR调测工具 V3.36
+15:53:21:  丛柏屹
+15:53:26:  TCR调测工具 V3.36
+15:54:16:  取款
+15:54:21:  TCR调测工具 V3.36
+15:54:41:  
+15:54:51:  BTCRTestTool V3.36
+15:54:56:  TCRControlCmdDLL
+15:55:01:  20200414
+15:55:11:  LOG
+15:55:16:  Box_2__0000_20200414155419.log - [No filter file]* - TextAnalysisTool.NET
+15:56:31:  TCR调测工具 V3.36
+15:59:41:  取款
+15:59:46:  TCR调测工具 V3.36
+15:59:41:  取款
+15:59:46:  TCR调测工具 V3.36
+16:00:56:  取款
+16:01:01:  TCR调测工具 V3.36
+16:01:11:  
+16:03:51:  D:\00-06\DRB-Seclect-New\Applications\Track\Track.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:04:11:  D:\00-06\DRB-Seclect-New\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:04:16:  D:\00-06\DRB-Seclect-New\Middlewares\Plate\LowerPlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:05:46:  D:\00-06\DRB-Seclect-New\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:07:16:  TCR调测工具 V3.36
+16:07:36:  D:\00-06\DRB-Seclect-New\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+16:07:56:  StarUML - 3.uml
+16:09:26:  Error
+16:09:31:  StarUML - 3.uml
+16:10:31:  YoudaoDictStrokeIcon
+16:10:36:  StarUML - 3.uml
+16:13:06:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:13:11:  D:\00-06\DRB-Seclect-Respontime\Middlewares\Plate\LowerPlate.c (trunk) - Sublime Text (UNREGISTERED)
+16:13:16:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:13:31:  StarUML - 3.uml
+16:13:36:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+16:13:46:  StarUML - 3.uml
+16:14:36:  eSpace
+16:36:51:  StarUML - 3.uml
+16:36:56:  于斌1
+16:37:16:  丛柏屹
+16:37:56:  于斌1
+16:38:21:  TCR调测工具 V3.36
+16:39:06:  
+16:39:21:  取款
+16:39:26:  TCR调测工具 V3.36
+16:39:31:  取款
+16:39:36:  TCR调测工具 V3.36
+16:40:16:  取款
+16:40:21:  TCR调测工具 V3.36
+16:41:06:  
+16:41:16:  新建文件夹
+16:41:21:  TCRControlCmdDLL
+16:41:26:  20200414
+16:41:31:  Decode
+16:41:36:  Box_1__BTCR-1100190900100002_20200414143732.log - [No filter file]* - TextAnalysisTool.NET
+16:41:41:  K64_BTCR-1100190900100002_20200414143732
+16:41:46:  取款
+16:41:51:  TCR调测工具 V3.36
+16:42:36:  eSpace
+16:42:41:  刘茂林
+16:42:51:  TCR调测工具 V3.36
+16:43:01:  取款
+16:43:06:  TCR调测工具 V3.36
+16:43:46:  取款
+16:43:51:  TCR调测工具 V3.36
+16:44:31:  取款
+16:44:36:  TCR调测工具 V3.36
+16:45:51:  取款
+16:45:56:  TCR调测工具 V3.36
+16:46:11:  
+16:49:46:  TCR调测工具 V3.36
+16:49:51:  BTCRTestTool
+16:49:56:  TCR调测工具 V3.36
+16:50:57:  取款
+16:51:02:  可接收
+16:51:07:  TCR调测工具 V3.36
+16:51:47:  取款
+16:51:52:  TCR调测工具 V3.36
+16:52:02:  取款
+16:52:07:  TCR调测工具 V3.36
+16:53:22:  取款
+16:53:27:  TCR调测工具 V3.36
+16:54:27:  取款
+16:54:32:  TCR调测工具 V3.36
+16:55:42:  
+16:55:47:  TCR调测工具 V3.36
+16:55:57:  LOG
+16:56:02:  K64_0000_20200414153414
+16:56:07:  LOG
+16:56:12:  K64_0000_20200414132000
+16:56:17:  LOG
+16:56:27:  取款
+16:56:32:  TCR调测工具 V3.36
+16:56:57:  K64_0000_20200414131547
+16:57:02:  
+16:59:07:  TCR调测工具 V3.36
+16:59:22:  读写ERROM
+16:59:27:  Box_2__0000_20200414132000.log - [No filter file]* - TextAnalysisTool.NET
+16:59:32:  K64_0000_20200414131124
+16:59:37:  Box_1__0000_20200414131124.log - [No filter file]* - TextAnalysisTool.NET
+16:59:42:  
+16:59:47:  K64_0000_20200414113859
+16:59:52:  K64_0000_20200414105422
+16:59:57:  LOG
+16:59:07:  TCR调测工具 V3.36
+16:59:22:  读写ERROM
+16:59:27:  Box_2__0000_20200414132000.log - [No filter file]* - TextAnalysisTool.NET
+16:59:32:  K64_0000_20200414131124
+16:59:37:  Box_1__0000_20200414131124.log - [No filter file]* - TextAnalysisTool.NET
+16:59:42:  
+16:59:47:  K64_0000_20200414113859
+16:59:52:  K64_0000_20200414105422
+16:59:57:  LOG
+17:00:07:  TCR调测工具 V3.36
+17:00:12:  K64_BTCR-1100190900100002_20200414143732
+17:00:22:  K64_BTCR-1100190900100002_20200414144251
+17:00:27:  
+17:00:32:  D:\00-06\DRB-Seclect-Respontime\Middlewares\Plate\LowerPlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:01:02:  「开始」菜单
+17:01:07:  计算器
+17:01:12:  
+17:01:17:  D:\00-06\DRB-Seclect-Respontime\Middlewares\Plate\LowerPlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:01:37:  Box_1__BTCR-1100190900100002_20200414144251.log - [No filter file]* - TextAnalysisTool.NET
+17:01:42:  D:\00-06\DRB-Seclect-Respontime\Applications\ErrCode\ErrCode.h (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:01:47:  D:\00-06\DRB-Seclect-Respontime\Middlewares\Plate\LowerPlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:01:57:  D:\00-06\DRB-Seclect-Respontime\Applications\ErrCode\ErrCode.h (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:02:02:  D:\00-06\DRB-Seclect-Respontime\Middlewares\Plate\LowerPlate.c (DRB-Seclect-New) - Sublime Text (UNREGISTERED)
+17:02:07:  Box_1__BTCR-1100190900100002_20200414144251.log - [No filter file]* - TextAnalysisTool.NET
+17:05:12:  TCR调测工具 V3.36
+17:05:22:  Box_1__BTCR-1100190900100002_20200414144251.log - [No filter file]* - TextAnalysisTool.NET
+17:05:27:  Add Filter
+17:05:32:  Box_1__BTCR-1100190900100002_20200414144251.log - [No filter file]* - TextAnalysisTool.NET
+17:06:02:  TCR调测工具 V3.36
+17:06:07:  取款
+17:06:12:  TCR调测工具 V3.36
+17:06:17:  Box_1__BTCR-1100190900100002_20200414144251.log - [No filter file]* - TextAnalysisTool.NET
+17:06:27:  TCR调测工具 V3.36
+17:06:52:  取款
+17:06:57:  TCR调测工具 V3.36
+17:07:07:  Box_1__BTCR-1100190900100002_20200414144251.log - [No filter file]* - TextAnalysisTool.NET
+17:07:37:  TCR调测工具 V3.36
+17:07:42:  取款
+17:07:47:  TCR调测工具 V3.36
+17:08:02:  
+17:08:47:  BTCRTestTool
+17:08:52:  TCR调测工具 V3.36
+17:08:57:  Box_1__BTCR-1100190900100002_20200414144251.log - [No filter file]* - TextAnalysisTool.NET
+17:09:32:  于斌1
+17:09:37:  跳转列表
+17:09:42:  于斌1
+17:09:52:  TCR调测工具 V3.36
+17:09:57:  取款
+17:10:07:  TCR调测工具 V3.36
+17:10:22:  于斌1
+17:10:32:  TCR调测工具 V3.36
+17:10:47:  取款
+17:10:52:  于斌1
+17:10:57:  TCR调测工具 V3.36
+17:11:32:  于斌1
+17:11:37:  TCR调测工具 V3.36
+17:11:42:  取款
+17:11:47:  于斌1
+17:11:52:  TCR调测工具 V3.36
+17:11:57:  Box_1__BTCR-1100190900100002_20200414144251.log - [No filter file]* - TextAnalysisTool.NET
+17:12:12:  LOG
+17:12:17:  K64_BTCR-1100190900100002_20200414144057
+17:12:22:  Box_1__BTCR-1100190900100002_20200414144057.log - [No filter file]* - TextAnalysisTool.NET
+17:12:37:  Add Filter
+17:12:42:  Box_1__BTCR-1100190900100002_20200414144057.log - [No filter file]* - TextAnalysisTool.NET
+17:12:57:  20200414
+17:13:02:  K64_BTCR-1100190900100002_20200414144251
+17:13:07:  Box_1__BTCR-1100190900100002_20200414144251.log - [No filter file]* - TextAnalysisTool.NET
+17:13:32:  TCR调测工具 V3.36
+17:13:42:  Box_1__BTCR-1100190900100002_20200414144251.log - [No filter file]* - TextAnalysisTool.NET
+17:14:12:  TCR调测工具 V3.36
+17:14:27:  Box_1__BTCR-1100190900100002_20200414144251.log - [No filter file]* - TextAnalysisTool.NET
+17:14:37:  TCR调测工具 V3.36
+17:14:47:  Box_1__BTCR-1100190900100002_20200414144251.log - [No filter file]* - TextAnalysisTool.NET
+17:15:07:  TCR调测工具 V3.36
+17:15:17:  Box_1__BTCR-1100190900100002_20200414144251.log - [No filter file]* - TextAnalysisTool.NET
+17:15:52:  取款
+17:15:57:  TCR调测工具 V3.36
+17:17:02:  
+17:17:17:  TCR调测工具 V3.36
+17:17:27:  
+17:17:32:  20200414
+17:18:02:  读写ERROM
+17:18:07:  TCR调测工具 V3.36
+17:18:17:  Decode
+17:18:22:  20200414
+17:18:27:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+17:18:37:  K64_0000_20200414171553
+17:18:42:  Box_2__0000_20200414171553.log - [No filter file]* - TextAnalysisTool.NET
+17:20:02:  K64-_0000_20200414171553.log - [No filter file]* - TextAnalysisTool.NET
+17:21:02:  K64-_0000_20200414171553.log - K64状态机分析2.tat - TextAnalysisTool.NET
+17:21:22:  K64-_0000_20200414171553.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+17:21:57:  Edit Filter
+17:22:07:  K64-_0000_20200414171553.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+17:22:37:  Add Filter
+17:22:42:  Edit Filter
+17:22:47:  K64-_0000_20200414171553.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+17:23:27:  TCR调测工具 V3.36
+17:23:37:  K64-_0000_20200414171553.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+17:23:52:  计算器
+17:25:32:  
+17:25:37:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+17:25:42:  D:\00-06\DRB-Seclect-Respontime\Middlewares\Plate\LowerPlate.c (trunk) - Sublime Text (UNREGISTERED)
+17:25:47:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+17:26:07:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c • (trunk) - Sublime Text (UNREGISTERED)
+17:28:32:  
+17:28:37:  本地磁盘 (D:)
+17:28:42:  Project
+17:28:47:  μVision
+17:28:52:  D:\00-KE64\6\trunk\Project\k64_rtt.uvprojx - μVision
+17:29:07:  Project
+17:29:12:  工作副本
+17:29:17:  CashGateModuleApp.c - TortoiseMerge
+17:29:22:  trunk
+17:29:27:  TCR调测工具 V3.36
+17:29:37:  打开
+17:29:42:  TCR调测工具 V3.36
+17:29:57:  BTCRTestTool
+17:30:02:  TCR调测工具 V3.36
+17:28:32:  
+17:28:37:  本地磁盘 (D:)
+17:28:42:  Project
+17:28:47:  μVision
+17:28:52:  D:\00-KE64\6\trunk\Project\k64_rtt.uvprojx - μVision
+17:29:07:  Project
+17:29:12:  工作副本
+17:29:17:  CashGateModuleApp.c - TortoiseMerge
+17:29:22:  trunk
+17:29:27:  TCR调测工具 V3.36
+17:29:37:  打开
+17:29:42:  TCR调测工具 V3.36
+17:29:57:  BTCRTestTool
+17:30:02:  TCR调测工具 V3.36
+17:30:12:  K64-_0000_20200414171553.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+17:30:17:  K64_0000_20200414171553
+17:30:22:  Box_2__0000_20200414171553.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+17:30:42:  TCR调测工具 V3.36
+17:32:07:  
+17:32:17:  TCR调测工具 V3.36
+17:32:22:  20200414
+17:32:47:  D:\00-KE64\6\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+17:33:02:  20200414
+17:33:12:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+17:33:17:  K64_0000_20200414173117
+17:33:22:  Box_2__0000_20200414173117.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+17:35:12:  TCR调测工具 V3.36
+17:36:17:  Box_2__0000_20200414173117.log - K64状态机分析2.tat* - TextAnalysisTool.NET
+17:36:47:  TCR调测工具 V3.36
+17:36:57:  StarUML - 3.uml
+17:37:07:  TCR调测工具 V3.36
+17:37:37:  取款
+17:37:42:  TCR调测工具 V3.36
+17:40:22:  取款
+17:40:27:  TCR调测工具 V3.36
+17:40:42:  
+17:52:12:  TextAnalysisTool.NET
+17:52:17:  
+17:52:27:  00-06
+17:52:32:  Project
+17:52:37:  跳转列表
+17:52:42:  D:\00-06\DRB-Seclect-Respontime\Project\CashBox_1T2.uvprojx - μVision
+17:53:32:  Tools
+17:53:37:  D:\00-06\DRB-Seclect-Respontime\Tools\CreateJK.exe
+17:53:42:  TCR调测工具 V3.36
+17:54:07:  打开
+17:54:17:  TCR调测工具 V3.36
+17:54:32:  钞箱配置
+17:54:42:  TCR调测工具 V3.36
+17:55:17:  可接收
+17:55:22:  BTCRTestTool
+17:55:27:  TCR调测工具 V3.36
+17:57:57:  取款
+17:58:02:  TCR调测工具 V3.36
+17:58:12:  
+17:58:17:  TCR调测工具 V3.36
+17:58:22:  取款
+17:58:27:  TCR调测工具 V3.36
+17:59:17:  
+17:59:22:  TCR调测工具 V3.36
+17:58:12:  
+17:58:17:  TCR调测工具 V3.36
+17:58:22:  取款
+17:58:27:  TCR调测工具 V3.36
+17:59:17:  
+17:59:22:  TCR调测工具 V3.36
+18:01:02:  取款
+18:01:07:  TCR调测工具 V3.36
+18:01:37:  取款
+18:01:42:  TCR调测工具 V3.36
+18:03:07:  取款
+18:03:12:  TCR调测工具 V3.36
+18:03:42:  取款
+18:03:47:  TCR调测工具 V3.36
+18:04:42:  桌面整理
+18:04:47:  Microsoft Excel
+18:04:52:  StarUML - 3.uml
+18:05:27:  DRB托板准备时间.xlsx - Excel
+18:06:27:  StarUML - 3.uml
+18:06:32:  D:\00-06\DRB-Seclect-Respontime\Project\CashBox_1T2.uvprojx - μVision
+18:06:37:  DRB托板准备时间 - 写邮件

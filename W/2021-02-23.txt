@@ -1,0 +1,956 @@
+08:01:22:  更新 完成！
+08:01:27:  TheDateInfo.xls  [兼容模式] - Excel
+08:02:07:  「开始」菜单
+08:03:12:  锁屏状态
+08:03:22:  TheDateInfo.xls  [兼容模式] - Excel
+08:04:17:  「开始」菜单
+08:06:22:  TheDateInfo.xls  [兼容模式] - Excel
+08:06:37:  10
+08:06:42:  D:\00-KE64\10 - 工作副本 - TortoiseSVN
+08:06:57:  自动播放
+08:11:02:  D:\00-KE64\10 - 工作副本 - TortoiseSVN
+08:15:47:  CashGateModuleApp.c - TortoiseMerge
+08:15:52:  eSpace
+08:15:57:  GateModule.c - TortoiseMerge
+08:16:02:  InstrGSProcess.c - TortoiseMerge
+08:16:07:  InstrSUBProcess.c - TortoiseMerge
+08:16:17:  CashGateModuleApp.c - TortoiseMerge
+08:19:27:  D:\00-KE64\10 - 工作副本 - TortoiseSVN
+08:19:42:  DRB
+08:19:47:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+08:19:52:  UpperPlate.c - TortoiseMerge
+08:20:47:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+08:21:02:  SensorDriver.c - TortoiseMerge
+08:21:22:  D:\00-06\DRB - 工作副本 - TortoiseSVN
+08:21:27:  D:\00-06\DRB - 提交 - TortoiseSVN
+08:21:32:  UpperPlateCtrl.c - TortoiseMerge
+08:21:42:  State.c - TortoiseMerge
+08:21:47:  TortoiseSVN
+08:21:52:  Update.c - TortoiseMerge
+08:21:57:  PublicDriver.c - TortoiseMerge
+08:22:17:  D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)
+08:22:22:  untitled (DRB) - Sublime Text (UNREGISTERED)
+08:22:37:  D:\00-06\DRB\Drivers\PublicDriver\PublicDriver.c (DRB) - Sublime Text (UNREGISTERED)
+08:23:02:  D:\00-06\DRB\Drivers\PeripheralDriver\FtmDriver\FtmConfig.h (DRB) - Sublime Text (UNREGISTERED)
+08:23:07:  D:\00-06\DRB\Drivers\PublicDriver\PublicDriver.c (DRB) - Sublime Text (UNREGISTERED)
+08:23:37:  D:\00-06\DRB\Middlewares\Lock\Lock.c (DRB) - Sublime Text (UNREGISTERED)
+08:23:52:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c (DRB) - Sublime Text (UNREGISTERED)
+08:23:57:  D:\00-06\DRB\Middlewares\Lock\Lock.c (DRB) - Sublime Text (UNREGISTERED)
+08:24:12:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c (DRB) - Sublime Text (UNREGISTERED)
+08:24:17:  D:\00-06\DRB\Middlewares\Lock\Lock.c (DRB) - Sublime Text (UNREGISTERED)
+08:24:32:  D:\00-06\DRB\Middlewares\Lock\Lock.h (DRB) - Sublime Text (UNREGISTERED)
+08:24:37:  D:\00-06\DRB\Drivers\PublicDriver\PublicDriver.c (DRB) - Sublime Text (UNREGISTERED)
+08:24:42:  D:\00-06\DRB\Middlewares\Lock\Lock.c (DRB) - Sublime Text (UNREGISTERED)
+08:24:52:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c (DRB) - Sublime Text (UNREGISTERED)
+08:25:47:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c • (DRB) - Sublime Text (UNREGISTERED)
+08:25:52:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c (DRB) - Sublime Text (UNREGISTERED)
+08:25:57:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.h (DRB) - Sublime Text (UNREGISTERED)
+08:26:02:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c (DRB) - Sublime Text (UNREGISTERED)
+08:26:12:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c • (DRB) - Sublime Text (UNREGISTERED)
+08:26:27:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c (DRB) - Sublime Text (UNREGISTERED)
+08:26:37:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c • (DRB) - Sublime Text (UNREGISTERED)
+08:26:52:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c (DRB) - Sublime Text (UNREGISTERED)
+08:26:57:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c • (DRB) - Sublime Text (UNREGISTERED)
+08:27:02:  μVision
+08:27:07:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:27:12:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c (DRB) - Sublime Text (UNREGISTERED)
+08:27:32:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c • (DRB) - Sublime Text (UNREGISTERED)
+08:27:37:  于斌1
+08:27:52:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c (DRB) - Sublime Text (UNREGISTERED)
+08:28:07:  于斌1
+08:28:17:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:28:22:  于斌1
+08:28:32:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c (DRB) - Sublime Text (UNREGISTERED)
+08:28:42:  This is an unregistered copy
+08:28:47:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:29:57:  于斌1
+08:28:07:  于斌1
+08:28:17:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:28:22:  于斌1
+08:28:32:  D:\00-06\DRB\Drivers\ElectroMagnetDriver\ElectroMagnetDriver.c (DRB) - Sublime Text (UNREGISTERED)
+08:28:42:  This is an unregistered copy
+08:28:47:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+08:29:57:  于斌1
+08:30:12:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:01:17:  于斌1
+09:01:32:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:01:37:  Build
+09:01:42:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+09:02:07:  D:\00-06\DRB\Drivers\PublicDriver\PublicDriver.c (DRB) - Sublime Text (UNREGISTERED)
+09:07:38:  TCR调测工具 V3.36
+09:07:53:  自动播放
+09:08:43:  钞箱配置
+09:08:48:  取款
+09:08:58:  TCR调测工具 V3.36
+09:09:43:  TCRControlCmdDLL
+09:09:48:  20210223
+09:10:03:  TCR调测工具 V3.36
+09:10:08:  20210223
+09:10:53:  Decode
+09:11:03:  K64_BTCR-1100190803000_20210223090855
+09:11:08:  Microsoft Excel
+09:11:13:  K64_BTCR-1100190803000_20210223090855
+09:11:18:  TheDateInfo.xls  [兼容模式] - Excel
+09:11:58:  TCR调测工具 V3.36
+09:12:08:  TheDateInfo.xls  [兼容模式] - Excel
+09:12:28:  TCR调测工具 V3.36
+09:13:33:  取款
+09:13:38:  TCR调测工具 V3.36
+09:14:28:  K64_BTCR-1100190803000_20210223090855
+09:14:33:  20210223
+09:14:53:  桌面整理
+09:14:58:  20210223
+09:14:28:  K64_BTCR-1100190803000_20210223090855
+09:14:33:  20210223
+09:14:53:  桌面整理
+09:14:58:  20210223
+09:15:23:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:15:28:  Decode
+09:15:33:  K64_BTCR-1100190803000_20210223091333
+09:15:38:  Microsoft Excel
+09:15:43:  TheDateInfo.xls  [兼容模式] - Excel
+09:16:58:  K64_BTCR-1100190803000_20210223091333
+09:17:03:  TheDateInfo - 写邮件
+09:17:23:  K64_BTCR-1100190803000_20210223091333
+09:17:43:  TheDateInfo - 写邮件
+09:17:48:  5元 - 写邮件
+09:17:53:  5元出钞 - 写邮件
+09:17:58:  接收密码错误-zhangkaifa@newbeiyang.com
+09:18:03:  TCR调测工具 V3.36
+09:18:13:  5元出钞 - 写邮件
+09:18:23:  TCR调测工具 V3.36
+09:22:08:  取款
+09:22:13:  TCR调测工具 V3.36
+09:25:28:  20210223
+09:25:38:  Decode
+09:25:43:  K64_BTCR-1100190803000_20210223092210
+09:25:48:  K64-_BTCR-1100190803000_20210223092210.log - DRB.tat* - TextAnalysisTool.NET
+09:25:58:  Decode
+09:26:03:  20210223
+09:26:13:  Decode
+09:26:18:  K64_BTCR-1100190803000_20210223092210.log - DRB.tat* - TextAnalysisTool.NET
+09:26:28:  发送指令到K06
+09:26:38:  TCR调测工具 V3.36
+09:31:58:  Decode
+09:32:03:  20210223
+09:32:53:  TCR调测工具 V3.36
+09:33:43:  取款
+09:33:48:  TCR调测工具 V3.36
+09:41:48:  CRS调测工具（研发版）V1.0.2.1
+09:42:48:  通道电机测试
+09:43:03:  TCR调测工具 V3.36
+09:43:13:  托板控制
+09:43:23:  TCR调测工具 V3.36
+09:43:28:  通道电机测试
+09:45:08:  TCR调测工具 V3.36
+09:48:08:  CRS调测工具（研发版）V1.0.2.1
+09:48:13:  通道电机测试
+09:48:18:  TCR调测工具 V3.36
+09:48:23:  通道电机测试
+09:50:13:  TCR调测工具 V3.36
+09:50:18:  CRS调测工具（研发版）V1.0.2.1
+09:50:23:  通道电机测试
+09:50:28:  V1.003
+09:50:33:  通道电机测试
+09:54:38:  TCR调测工具 V3.36
+09:57:23:  20210223
+09:57:28:  TCR调测工具 V3.36
+09:57:33:  托板控制
+09:57:38:  TCR调测工具 V3.36
+09:57:43:  通道电机测试
+09:57:58:  CRS调测工具（研发版）V1.0.2.1
+09:58:03:  通道电机测试
+09:58:23:  CRS调测工具（研发版）V1.0.2.1
+09:58:28:  TCR调测工具 V3.36
+09:58:38:  CRS调测工具（研发版）V1.0.2.1
+09:58:43:  通道电机测试
+09:58:58:  CRS调测工具（研发版）V1.0.2.1
+09:59:03:  通道电机测试
+09:59:08:  TCR调测工具 V3.36
+09:59:13:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:59:18:  发送指令到K06
+09:59:43:  TCR调测工具 V3.36
+10:00:03:  CRS调测工具（研发版）V1.0.2.1
+09:58:23:  CRS调测工具（研发版）V1.0.2.1
+09:58:28:  TCR调测工具 V3.36
+09:58:38:  CRS调测工具（研发版）V1.0.2.1
+09:58:43:  通道电机测试
+09:58:58:  CRS调测工具（研发版）V1.0.2.1
+09:59:03:  通道电机测试
+09:59:08:  TCR调测工具 V3.36
+09:59:13:  20180613 TCR内部指令手册_V001.xlsx - Excel
+09:59:18:  发送指令到K06
+09:59:43:  TCR调测工具 V3.36
+10:00:03:  CRS调测工具（研发版）V1.0.2.1
+10:00:08:  通道电机测试
+10:00:13:  CRS调测工具（研发版）V1.0.2.1
+10:00:18:  托板控制
+10:00:28:  通道电机测试
+10:00:48:  20210223
+10:00:53:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:01:03:  Decode
+10:01:08:  K64_BTCR-1100190803000_20210223100014
+10:01:13:  TCR调测工具 V3.36
+10:04:08:  托板控制
+10:04:23:  K64_BTCR-1100190803000_20210223100014
+10:04:28:  通道电机测试
+10:04:33:  CRS调测工具（研发版）V1.0.2.1
+10:04:38:  托板控制
+10:04:43:  TCR调测工具 V3.36
+10:04:48:  通道电机测试
+10:07:03:  TCR调测工具 V3.36
+10:08:33:  钞箱配置
+10:08:43:  可接收
+10:08:48:  TCR调测工具 V3.36
+10:11:13:  取款
+10:11:18:  TCR调测工具 V3.36
+10:11:53:  20210223
+10:12:33:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:12:38:  K64_BTCR-1100190803000_20210223101115
+10:12:53:  TheDateInfo.xls  [兼容模式] - Excel
+10:14:28:  TCR调测工具 V3.36
+10:14:28:  TCR调测工具 V3.36
+10:19:38:  BTCRTestTool 属性
+10:19:43:  20210223
+10:19:48:  Decode
+10:19:58:  K64_BTCR-1100190803000_20210223101846
+10:20:03:  Box_4__BTCR-1100190803000_20210223101846.log - DRB.tat* - TextAnalysisTool.NET
+10:20:13:  TCR调测工具 V3.36
+10:20:18:  取款
+10:20:28:  TCR调测工具 V3.36
+10:21:08:  取款
+10:21:13:  TCR调测工具 V3.36
+10:22:48:  20210223
+10:22:53:  文件夹正在使用
+10:22:58:  Decode
+10:23:03:  LOG
+10:23:08:  Box_4__BTCR-1100190803000_20210223102109.log - DRB.tat* - TextAnalysisTool.NET
+10:23:13:  LOG
+10:23:18:  20210223
+10:23:28:  LOG
+10:23:33:  Box_4__BTCR-1100190803000_20210223102109.log - DRB.tat* - TextAnalysisTool.NET
+10:23:48:  TCR调测工具 V3.36
+10:23:53:  发送指令到K06
+10:23:58:  TCR调测工具 V3.36
+10:24:03:  发送指令到K06
+10:24:28:  TCR调测工具 V3.36
+10:24:33:  Box_4__BTCR-1100190803000_20210223102109.log - DRB.tat* - TextAnalysisTool.NET
+10:24:43:  TCR调测工具 V3.36
+10:25:23:  BTCRTestTool
+10:25:28:  TCR调测工具 V3.36
+10:25:43:  20210223
+10:26:58:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:27:03:  Decode
+10:27:13:  Box_4__BTCR-1100190803000_20210223102521.log - DRB.tat* - TextAnalysisTool.NET
+10:27:18:  TCR调测工具 V3.36
+10:27:53:  20210223
+10:28:03:  TCR调测工具 V3.36
+10:28:08:  20210223
+10:28:18:  LOG
+10:28:23:  TheDateInfo.xls  [兼容模式] - Excel
+10:28:53:  TCR调测工具 V3.36
+10:28:58:  TheDateInfo.xls  [兼容模式] - Excel
+10:29:08:  取款
+10:29:13:  TCR调测工具 V3.36
+10:29:38:  K64_BTCR-1100190803000_20210223102722
+10:29:43:  20210223
+10:29:58:  TheDateInfo.xls  [兼容模式] - Excel
+10:30:03:  20210223
+10:28:08:  20210223
+10:28:18:  LOG
+10:28:23:  TheDateInfo.xls  [兼容模式] - Excel
+10:28:53:  TCR调测工具 V3.36
+10:28:58:  TheDateInfo.xls  [兼容模式] - Excel
+10:29:08:  取款
+10:29:13:  TCR调测工具 V3.36
+10:29:38:  K64_BTCR-1100190803000_20210223102722
+10:29:43:  20210223
+10:29:58:  TheDateInfo.xls  [兼容模式] - Excel
+10:30:03:  20210223
+10:30:08:  Decode
+10:30:13:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:30:18:  K64_BTCR-1100190803000_20210223102722
+10:30:23:  K64_BTCR-1100190803000_20210223102911
+10:30:28:  TheDateInfo.xls  [兼容模式] - Excel
+10:30:58:  K64_BTCR-1100190803000_20210223102911
+10:31:03:  取款
+10:31:08:  TCR调测工具 V3.36
+10:31:28:  Decode
+10:31:33:  20210223
+10:31:48:  Decode
+10:31:53:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:31:58:  Box_4__BTCR-1100190803000_20210223103105.log - DRB.tat* - TextAnalysisTool.NET
+10:32:03:  Microsoft Excel
+10:32:08:  K64_BTCR-1100190803000_20210223103105
+10:32:13:  TheDateInfo.xls  [兼容模式] - Excel
+10:32:18:  K64_BTCR-1100190803000_20210223103105
+10:33:58:  TCR调测工具 V3.36
+10:35:23:  20210223
+10:35:33:  TCR调测工具 V3.36
+10:36:09:  取款
+10:36:14:  TCR调测工具 V3.36
+10:36:34:  20210223
+10:36:39:  Decode
+10:36:44:  LOG
+10:36:49:  Box_4__BTCR-1100190803000_20210223103611.log - DRB.tat* - TextAnalysisTool.NET
+10:37:54:  TCR调测工具 V3.36
+10:38:04:  Box_4__BTCR-1100190803000_20210223103611.log - DRB.tat* - TextAnalysisTool.NET
+10:38:39:  TCR调测工具 V3.36
+10:38:44:  取款
+10:38:49:  TCR调测工具 V3.36
+10:39:34:  20210223
+10:40:39:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:40:44:  Decode
+10:40:49:  K64_BTCR-1100190803000_20210223103844
+10:40:54:  K64_BTCR-1100190803000_20210223103611
+10:40:59:  K64_BTCR-1100190803000_20210223103844
+10:41:09:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:41:14:  K64_BTCR-1100190803000_20210223103844
+10:41:19:  TheDateInfo.xls  [兼容模式] - Excel
+10:41:39:  EXTFEDU6V13.PDF
+10:41:49:  EXTFEDU6V13.PDF - Adobe Reader
+10:42:29:  TheDateInfo.xls  [兼容模式] - Excel
+10:46:39:  K64_BTCR-1100190803000_20210223103844
+10:46:44:  TheDateInfo - 写邮件
+10:46:49:  5 - 写邮件
+10:46:54:  5元上腔出钞 - 写邮件
+10:47:24:  TheDateInfo.xls  [兼容模式] - Excel
+10:52:39:  K64_BTCR-1100190803000_20210223103844
+10:52:44:  回复: 5元上腔出钞 - 写邮件
+10:52:54:  20180613 TCR内部指令手册_V001.xlsx - Excel
+10:55:44:  TheDateInfo.xls
+10:57:39:  TheDateInfo.xls  [兼容模式] - Excel
+11:00:29:  锁屏状态
+11:01:39:  0-工作 - 张开发 - 印象笔记
+11:01:44:  TheDateInfo.xls  [兼容模式] - Excel
+11:04:29:  TCR调测工具 V3.36
+11:05:44:  可接收
+11:05:49:  钞箱配置
+11:05:59:  TCR调测工具 V3.36
+11:06:59:  取款
+11:07:04:  TCR调测工具 V3.36
+11:07:49:  20210223
+11:10:19:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:10:24:  Decode
+11:10:29:  K64_BTCR-1100190803000_20210223103844
+11:10:34:  K64_BTCR-1100190803000_20210223110700
+11:10:39:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:10:44:  TheDateInfo.xls  [兼容模式] - Excel
+11:10:49:  K64_BTCR-1100190803000_20210223110700
+11:10:54:  Box_4__BTCR-1100190803000_20210223110700.log - DRB.tat* - TextAnalysisTool.NET
+11:11:14:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_BTCR-1100190803000_20210223110700\Box_4__BTCR-1100190803000_20210223110700.log (DRB) - Sublime Text (UNREGISTERED)
+11:11:24:  Box_4__BTCR-1100190803000_20210223110700.log - DRB.tat* - TextAnalysisTool.NET
+11:11:34:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_BTCR-1100190803000_20210223110700\Box_4__BTCR-1100190803000_20210223110700.log (DRB) - Sublime Text (UNREGISTERED)
+11:11:49:  K64_BTCR-1100190803000_20210223110700
+11:11:59:  CashBoxDareV2.3.py - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_BTCR-1100190803000_20210223110700\CashBoxDareV2.3.py (3.7.3)
+11:12:04:  httpbin.org/get - Google Chrome
+11:12:09:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_BTCR-1100190803000_20210223110700\Box_4__BTCR-1100190803000_20210223110700.log (DRB) - Sublime Text (UNREGISTERED)
+11:12:14:  K64_BTCR-1100190803000_20210223110700
+11:12:19:  TheDateInfo.xls  [兼容模式] - Excel
+11:12:24:  K64_BTCR-1100190803000_20210223110700
+11:12:29:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_BTCR-1100190803000_20210223110700\Box_4__BTCR-1100190803000_20210223110700.log (DRB) - Sublime Text (UNREGISTERED)
+11:12:39:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_BTCR-1100190803000_20210223110700\Box_4__BTCR-1100190803000_20210223110700.log • (DRB) - Sublime Text (UNREGISTERED)
+11:12:44:  K64_BTCR-1100190803000_20210223110700
+11:12:54:  TheDateInfo.xls  [兼容模式] - Excel
+11:14:59:  锁屏状态
+11:15:04:  TheDateInfo.xls  [兼容模式] - Excel
+11:14:59:  锁屏状态
+11:15:04:  TheDateInfo.xls  [兼容模式] - Excel
+11:15:09:  TCR调测工具 V3.36
+11:15:14:  Box_4__BTCR-1100190803000_20210223110700.log - DRB.tat* - TextAnalysisTool.NET
+11:15:24:  Add Filter
+11:15:29:  Box_4__BTCR-1100190803000_20210223110700.log - DRB.tat* - TextAnalysisTool.NET
+11:16:29:  Add Filter
+11:16:39:  Box_4__BTCR-1100190803000_20210223110700.log - DRB.tat* - TextAnalysisTool.NET
+11:16:49:  TCR调测工具 V3.36
+11:16:54:  TheDateInfo.xls  [兼容模式] - Excel
+11:17:09:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:17:14:  20210223
+11:17:29:  TCR调测工具 V3.36
+11:18:09:  20210223
+11:18:19:  TCR调测工具 V3.36
+11:18:49:  20210223
+11:18:54:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:18:59:  LOG
+11:19:04:  Box_4__BTCR-1100190803000_20210223111728.log - DRB.tat* - TextAnalysisTool.NET
+11:19:14:  取款
+11:19:19:  TCR调测工具 V3.36
+11:20:04:  20210223
+11:20:54:  Decode
+11:20:59:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:21:04:  Decode
+11:21:09:  K64_BTCR-1100190803000_20210223110700
+11:21:14:  K64_BTCR-1100190803000_20210223111917
+11:21:19:  TheDateInfo.xls  [兼容模式] - Excel
+11:21:44:  K64_BTCR-1100190803000_20210223111917
+11:21:49:  K64-_BTCR-1100190803000_20210223111917.log - DRB.tat* - TextAnalysisTool.NET
+11:23:04:  TCR调测工具 V3.36
+11:23:09:  K64-_BTCR-1100190803000_20210223111917.log - DRB.tat* - TextAnalysisTool.NET
+11:23:29:  TCR调测工具 V3.36
+11:23:44:  K64-_BTCR-1100190803000_20210223111917.log - DRB.tat* - TextAnalysisTool.NET
+11:23:54:  Add Filter
+11:23:59:  K64_BTCR-1100190803000_20210223111917
+11:24:04:  LogExpert #20 - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_BTCR-1100190803000_20210223111917\K64-_BTCR-1100190803000_20210223111917.log
+11:25:44:  TheDateInfo.xls  [兼容模式] - Excel
+11:26:09:  TCR调测工具 V3.36
+11:26:19:  TheDateInfo.xls  [兼容模式] - Excel
+11:27:34:  TCR调测工具 V3.36
+11:27:39:  TheDateInfo.xls  [兼容模式] - Excel
+11:30:19:  TCR调测工具 V3.36
+11:30:59:  BTCRTestTool
+11:31:09:  TCR调测工具 V3.36
+11:32:49:  锁屏状态
+11:32:54:  eSpace
+11:33:14:  TCR调测工具 V3.36
+11:34:39:  锁屏状态
+11:34:54:  TCR调测工具 V3.36
+11:34:59:  可接收
+11:35:04:  TCR调测工具 V3.36
+11:36:14:  锁屏状态
+11:36:54:  TCR调测工具 V3.36
+11:37:04:  取款
+11:37:14:  TCR调测工具 V3.36
+11:37:49:  TheDateInfo.xls  [只读]  [兼容模式] - Excel
+11:39:09:  TheDateInfo.xls
+11:39:14:  TCR调测工具 V3.36
+11:39:44:  TheDateInfo.xls
+11:39:54:  K64_BTCR-1100190803000_20210223111917
+11:39:59:  20210223
+11:40:04:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+11:40:09:  Decode
+11:40:14:  锁屏状态
+13:19:25:  Decode
+13:20:30:  TheDateInfo.xls  [只读]  [兼容模式] - Excel
+13:20:35:  Microsoft Excel
+13:20:40:  另存为
+13:20:45:  LOG
+13:20:50:  K64_BTCR-1100190803000_20210223111917
+13:20:55:  TheDateInfo.xls  [兼容模式] - Excel
+13:21:00:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:21:05:  Decode
+13:21:30:  本地磁盘 (E:)
+13:21:35:  新建文件夹
+13:21:45:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:21:55:  K64_BTCR-1100190803000_20210223111917
+13:22:00:  TheDateInfo.xls  [兼容模式] - Excel
+13:22:25:  Microsoft Excel
+13:22:35:  BTCRTestTool 属性
+13:22:40:  20210223
+13:22:45:  K64_BTCR-1100190803000_20210223110700
+13:22:50:  TheDateInfo.xls  [兼容模式] - Excel
+13:23:05:  K64_BTCR-1100190803000_20210223110700
+13:23:10:  TheDateInfo.xls  [兼容模式] - Excel
+13:23:15:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:23:20:  K64_BTCR-1100190803000_20210223111917
+13:23:55:  100元连张拒钞2张.xls  [兼容模式] - Excel
+13:24:05:  K64_BTCR-1100190803000_20210223111917
+13:24:10:  锁屏状态
+13:24:15:  文件正在使用
+13:24:20:  LOG
+13:24:25:  TheDateInfo.xls  [兼容模式] - Excel
+13:24:45:  LOG
+13:24:50:  爆仓问题(1)
+13:24:55:  20元大额取款第1018张报 钞箱口  返回码0X025E1A00，钞箱发送缓冲区过满。
+13:25:00:  fenxi
+13:25:05:  K64_BTCR-1100190803000_20210223111917
+13:25:20:  回复: 回复: 5元上腔出钞 - 写邮件
+13:25:25:  本地磁盘 (D:)
+13:25:30:  TCRControlCmdDLL
+13:25:35:  K64_BTCR-1100190803000_20210223111728
+13:25:40:  K64_BTCR-1100190803000_20210223111917
+13:25:45:  回复: 回复: 5元上腔出钞 - 写邮件
+13:25:50:  100元出钞 - 写邮件
+13:26:00:  100元出钞倾斜不高 - 写邮件
+13:26:05:  100元出钞倾斜不高， - 写邮件
+13:26:10:  100元出钞倾斜不高，连张拒钞较多 - 写邮件
+13:26:15:  100元出钞倾斜不，连张拒钞较多 - 写邮件
+13:26:20:  100元出钞倾斜，连张拒钞较多 - 写邮件   13:26:18 已保存
+13:26:25:  100元出钞，连张拒钞较多 - 写邮件   13:26:18 已保存
+13:26:30:  100元出钞无倾斜拒钞，连张拒钞较多 - 写邮件   13:26:18 已保存
+13:26:35:  100元连张拒钞2张.xls  [兼容模式] - Excel
+13:26:50:  100元出钞无倾斜拒钞，连张拒钞较多 - 写邮件   13:26:18 已保存
+13:26:55:  100元连张拒钞10张.xls  [兼容模式] - Excel
+13:27:05:  100元出钞无倾斜拒钞，连张拒钞较多 - 写邮件   13:26:18 已保存
+13:27:10:  100元连张拒钞2张.xls  [兼容模式] - Excel
+13:27:30:  本地磁盘 (D:)
+13:27:35:  K64_BTCR-1100190803000_20210223111917
+13:27:40:  100元连张拒钞2张.xls  [兼容模式] - Excel
+13:27:50:  K64_BTCR-1100190803000_20210223111917
+13:27:55:  20210223
+13:28:00:  D:\00-06\DRB - 提交 - TortoiseSVN
+13:28:05:  Decode
+13:28:10:  K64_0000_20210223113712
+13:28:15:  LOG
+13:28:20:  Decode
+13:28:25:  本地磁盘 (D:)
+13:28:30:  新建文件夹
+13:28:35:  TheDateInfo.xls  [兼容模式] - Excel
+13:28:40:  100元连张拒钞2张.xls  [兼容模式] - Excel
+13:28:45:  新建文件夹
+13:29:00:  K64_BTCR-1100190803000_20210223111917
+13:29:05:  TheDateInfo.xls  [兼容模式] - Excel
+13:29:20:  100元出钞无倾斜拒钞，连张拒钞较多 - 写邮件   13:27:18 已保存
+13:29:25:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_BTCR-1100190803000_20210223111917\100元连张拒钞10张.xls
+13:29:30:  100元出钞无倾斜拒钞，连张拒钞较多 - 写邮件   13:27:18 已保存
+13:29:35:  K64_BTCR-1100190803000_20210223111917
+13:29:45:  BTCRTestTool 属性
+13:29:50:  20210223
+13:29:55:  LOG
+13:28:05:  Decode
+13:28:10:  K64_0000_20210223113712
+13:28:15:  LOG
+13:28:20:  Decode
+13:28:25:  本地磁盘 (D:)
+13:28:30:  新建文件夹
+13:28:35:  TheDateInfo.xls  [兼容模式] - Excel
+13:28:40:  100元连张拒钞2张.xls  [兼容模式] - Excel
+13:28:45:  新建文件夹
+13:29:00:  K64_BTCR-1100190803000_20210223111917
+13:29:05:  TheDateInfo.xls  [兼容模式] - Excel
+13:29:20:  100元出钞无倾斜拒钞，连张拒钞较多 - 写邮件   13:27:18 已保存
+13:29:25:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_BTCR-1100190803000_20210223111917\100元连张拒钞10张.xls
+13:29:30:  100元出钞无倾斜拒钞，连张拒钞较多 - 写邮件   13:27:18 已保存
+13:29:35:  K64_BTCR-1100190803000_20210223111917
+13:29:45:  BTCRTestTool 属性
+13:29:50:  20210223
+13:29:55:  LOG
+13:30:06:  TheDateInfo.xls  [兼容模式] - Excel
+13:30:11:  K64_BTCR-1100190803000_20210223103844
+13:30:16:  TheDateInfo.xls  [兼容模式] - Excel
+13:30:21:  LOG
+13:30:26:  TheDateInfo.xls  [兼容模式] - Excel
+13:30:51:  K64_BTCR-1100190803000_20210223110700
+13:30:56:  LOG
+13:31:06:  C:\Windows\py.exe
+13:31:11:  TheDateInfo.xls  [兼容模式] - Excel
+13:31:21:  文件夹正在使用
+13:31:26:  回收站
+13:31:36:  移动文件
+13:31:46:  K64_BTCR-1100190803000_20210223102911
+13:31:51:  K64_BTCR-1100190803000_20210223111917
+13:31:56:  锁屏状态
+13:32:06:  K64_BTCR-1100190803000_20210223103844
+13:32:11:  TheDateInfo.xls  [兼容模式] - Excel
+13:32:16:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:32:21:  K64_BTCR-1100190803000_20210223110700
+13:32:31:  TheDateInfo.xls  [兼容模式] - Excel
+13:32:36:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:32:41:  K64_BTCR-1100190803000_20210223110700
+13:32:46:  TheDateInfo.xls  [兼容模式] - Excel
+13:32:56:  LOG
+13:33:11:  Decode
+13:33:16:  LOG
+13:33:26:  K64_BTCR-1100190803000_20210223110700
+13:33:31:  TheDateInfo.xls  [兼容模式] - Excel
+13:34:11:  LOG
+13:34:21:  Microsoft Excel
+13:34:26:  TheDateInfo.xls  [兼容模式] - Excel
+13:34:36:  LOG
+13:34:41:  K64_BTCR-1100190803000_20210223111917
+13:34:46:  TheDateInfo.xls  [兼容模式] - Excel
+13:35:01:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:35:06:  TheDateInfo.xls  [兼容模式] - Excel
+13:35:16:  回收站
+13:35:31:  开始
+13:35:36:  Decode
+13:35:46:  本地磁盘 (D:)
+13:35:56:  K64_BTCR-1100190803000_20210223111917
+13:36:01:  TheDateInfo.xls  [兼容模式] - Excel
+13:36:31:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:36:36:  K64_BTCR-1100190803000_20210223111917
+13:36:41:  【通知】考勤异常处理
+13:36:46:  20210223异常.xlsx
+13:37:01:  K64_BTCR-1100190803000_20210223111917
+13:37:06:  httpbin.org/get - Google Chrome
+13:37:11:  K64_BTCR-1100190803000_20210223111917
+13:37:36:  BTCRTestTool 属性
+13:37:41:  TheDateInfo.xls  [兼容模式] - Excel
+13:39:36:  K64_BTCR-1100190803000_20210223111917
+13:39:56:  BTCRTestTool 属性
+13:40:01:  log
+13:40:06:  K64_BTCR-1100190803000_20210223110700
+13:40:11:  TheDateInfo.xls  [兼容模式] - Excel
+13:40:41:  K64_BTCR-1100190803000_20210223110700
+13:41:21:  fenxi
+13:41:26:  K64_BTCR-1100190803000_20210223111917
+13:41:31:  K64_BTCR-1100190803000_20210223110700
+13:41:36:  100元出钞连张拒钞10张，倾斜2张.xls  [兼容模式] - Excel
+13:41:41:  100元出钞连张拒钞2张，倾斜0张.xls  [兼容模式] - Excel
+13:41:51:  K64_BTCR-1100190803000_20210223110700
+13:50:31:  K64-_BTCR-1100190803000_20210223111917.log - DRB.tat* - TextAnalysisTool.NET
+13:50:36:  K64_BTCR-1100190803000_20210223110700
+13:50:41:  100元出钞连张拒钞2张，倾斜0张.xls  [兼容模式] - Excel
+13:56:36:  TCR调测工具 V3.36
+13:59:16:  20210223
+13:59:56:  Decode
+14:00:01:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:59:16:  20210223
+13:59:56:  Decode
+14:00:01:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+14:00:06:  LOG
+14:00:11:  K64_BTCR-1100190803000_20210223103844
+14:00:16:  20210223
+14:00:21:  K64_0000_20210223135830
+14:00:26:  K64_0000_20210223113712
+14:00:31:  桌面整理
+14:00:36:  TCR调测工具 V3.36
+14:00:41:  20210223
+14:00:46:  TCR调测工具 V3.36
+14:01:36:  20210223
+14:02:06:  eSpace
+14:02:11:  程明昌
+14:02:16:  20210223
+14:02:21:  回收 
+14:02:26:  Decode
+14:02:31:  K64_0000_20210223140046
+14:02:36:  程明昌
+14:02:46:  K64_0000_20210223140046
+14:02:51:  TheDateInfo.xls  [兼容模式] - Excel
+14:04:51:  K64_0000_20210223140046
+14:05:11:  K64_BTCR-1100190803000_20210223110700
+14:05:21:  文件正在使用
+14:05:31:  K64_BTCR-1100190803000_20210223110700
+14:06:31:  TCR调测工具 V3.36
+14:06:36:  吉哲
+14:06:41:  eSpace
+14:06:46:  荆文波
+14:07:21:  TCR调测工具 V3.36
+14:07:31:  荆文波
+14:09:11:  姚世龙
+14:09:16:  eSpace
+14:09:21:  20210223
+14:09:31:  荆文波
+14:10:01:  eSpace
+14:10:06:  于振海
+14:10:16:  荆文波
+14:10:26:  于振海
+14:10:31:  荆文波
+14:10:46:  于振海
+14:10:51:  荆文波
+14:10:56:  eSpace
+14:11:01:  取款
+14:11:06:  TCR调测工具 V3.36
+14:11:31:  于振海
+14:11:36:  TCR调测工具 V3.36
+14:12:11:  于振海
+14:12:21:  TCR调测工具 V3.36
+14:12:46:  20210223
+14:13:21:  LOG
+14:13:36:  锁屏状态
+14:13:41:  TheDateInfo.xls  [兼容模式] - Excel
+14:13:46:  20210223
+14:13:51:  K64_0000_20210223141103
+14:13:56:  TheDateInfo.xls  [兼容模式] - Excel
+14:14:01:  TCR调测工具 V3.36
+14:14:06:  TheDateInfo.xls  [兼容模式] - Excel
+14:14:06:  TheDateInfo.xls  [兼容模式] - Excel
+14:18:31:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:18:36:  K64_0000_20210223141103
+14:19:01:  LOG
+14:19:06:  K64_BTCR-1100190803000_20210223110700
+14:19:21:  100元出钞无倾斜拒钞，连张拒钞较多 - 写邮件   14:19:19 已保存
+14:22:56:  ②100元出钞连张拒钞10张，倾斜2张.xls
+14:23:36:  ③100元0张拒钞.xls
+14:23:46:  ④100元拒钞0张.xls
+14:23:56:  ②100元出钞连张拒钞10张，倾斜2张.xls
+14:24:06:  K64_BTCR-1100190803000_20210223110700
+14:38:21:  吉哲
+14:38:36:  eSpace
+14:38:51:  吉哲
+14:38:56:  K64_BTCR-1100190803000_20210223110700
+14:45:21:  eSpace
+14:45:46:  D:\00-06\DRB\Drivers\PublicDriver\PublicDriver.c (DRB) - Sublime Text (UNREGISTERED)
+14:45:51:  本地磁盘 (D:)
+14:45:56:  提交
+14:46:01:  ElectroMagnetDriver.c - TortoiseMerge
+14:46:11:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:46:36:  DRB
+14:46:41:  D:\00-06\DRB - 提交 - TortoiseSVN
+14:46:51:  UpperPlateCtrl.c - TortoiseMerge
+14:46:56:  ElectroMagnetDriver.c - TortoiseMerge
+14:47:01:  PublicDriver.c - TortoiseMerge
+14:47:06:  D:\00-06\DRB - 提交 - TortoiseSVN
+14:47:11:  SensorDriver.c - TortoiseMerge
+14:48:01:  D:\00-06\DRB - 提交 - TortoiseSVN
+14:48:06:  Lock.c - TortoiseMerge
+14:48:11:  LowerPlate.c - TortoiseMerge
+14:48:16:  D:\00-06\DRB - 提交 - TortoiseSVN
+14:48:21:  DRB
+14:48:26:  D:\00-06\DRB - 提交 - TortoiseSVN
+14:48:31:  历史记录
+14:48:41:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+14:48:46:  D:\00-06\DRB - 提交 - TortoiseSVN
+14:49:16:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+14:49:21:  固件设计中心
+14:49:26:  D:\00-06\DRB - 提交 - TortoiseSVN
+14:50:01:  提交
+14:50:11:  提交 完成！
+14:50:21:  DRB
+14:50:26:  姚世龙
+14:52:21:  eSpace
+14:52:26:  姚世龙
+14:52:36:  DRB
+14:52:41:  D:\00-06\DRB\Drivers\PublicDriver\PublicDriver.c (DRB) - Sublime Text (UNREGISTERED)
+14:53:36:  DRB
+14:53:41:  编译失败通知
+14:53:46:  subproject0.txt - 记事本
+14:53:56:  KeilCompileInfo.zip - WinRAR (非商业个人版)
+14:54:01:  SensorDriver.c - TortoiseMerge
+14:54:06:  历史记录
+14:54:11:  D:\00-06\DRB - 提交 - TortoiseSVN
+14:54:26:  DRB
+14:54:36:  subproject0.txt - 记事本
+14:55:16:  D:\00-06\DRB\Drivers\PublicDriver\PublicDriver.c (DRB) - Sublime Text (UNREGISTERED)
+14:58:11:  subproject0.txt - 记事本
+14:58:16:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+14:58:21:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+14:58:11:  subproject0.txt - 记事本
+14:58:16:  D:\00-KE64\10\Project\k64_rtt.uvprojx - μVision
+14:58:21:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:02:47:  D:\00-06\DRB - 提交 - TortoiseSVN
+15:03:07:  D:\00-06\DRB\Project\CashBox_1T2.uvprojx - μVision
+15:03:32:  DRB
+15:03:37:  D:\00-06\DRB - 统计 - TortoiseSVN
+15:04:07:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+15:04:12:  DRB
+15:04:27:  程明昌
+15:04:32:  识别线人力统计202102.xlsx
+15:04:47:  PrintService.c - TortoiseMerge
+15:04:57:  DRB
+15:05:02:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+15:05:12:  LowerPlate.c Revision 4228 - TortoiseMerge
+15:05:17:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+15:06:27:  Sensor.c Revision 4196 - TortoiseMerge
+15:06:32:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+15:06:37:  ElectroMagnetDriver.c Revision 4228 - TortoiseMerge
+15:08:17:  00-KE64
+15:08:22:  10
+15:08:27:  CashGateModuleApp.c - TortoiseMerge
+15:08:37:  D:\00-KE64\10 - 提交 - TortoiseSVN
+15:08:42:  GateModule.c - TortoiseMerge
+15:08:47:  D:\00-KE64\10 - 提交 - TortoiseSVN
+15:08:57:  InstrSUBProcess.c - TortoiseMerge
+15:09:02:  SystemConfig.h - TortoiseMerge
+15:09:07:  D:\00-KE64\10 - 提交 - TortoiseSVN
+15:09:17:  10
+15:09:22:  提交 失败！
+15:09:27:  更新 失败！
+15:09:32:  10
+15:09:47:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+15:09:52:  10
+15:09:57:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+15:10:02:  milestone.txt Revision 4226 - TortoiseMerge
+15:10:07:  D:\00-KE64\10 - 提交 - TortoiseSVN
+15:10:12:  10
+15:10:17:  D:\00-KE64\10\milestone.txt (DRB) - Sublime Text (UNREGISTERED)
+15:10:22:  D:\00-KE64\10\milestone.txt • (DRB) - Sublime Text (UNREGISTERED)
+15:13:12:  D:\00-KE64\10\milestone.txt (DRB) - Sublime Text (UNREGISTERED)
+15:13:17:  10
+15:13:22:  CashGateModuleApp.c - TortoiseMerge
+15:13:27:  GateModule.h - TortoiseMerge
+15:13:32:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+15:13:37:  D:\00-KE64\10 - 提交 - TortoiseSVN
+15:13:42:  milestone.txt - TortoiseMerge
+15:13:52:  D:\00-KE64\10 - 提交 - TortoiseSVN
+15:14:02:  D:\00-KE64\10 - 日志信息 - TortoiseSVN
+15:14:07:  10
+15:14:07:  10
+15:15:52:  TCR调测工具 V3.36
+15:16:52:  取款
+15:16:57:  TCR调测工具 V3.36
+15:17:12:  BTCRTestTool 属性
+15:17:17:  20210223
+15:17:22:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:17:27:  Decode
+15:17:32:  20210223
+15:17:37:  回收
+15:17:42:  TCR调测工具 V3.36
+15:21:02:  取款
+15:21:07:  TCR调测工具 V3.36
+15:21:52:  TCRControlCmdDLL
+15:21:57:  TCR调测工具 V3.36
+15:22:12:  20210223
+15:22:17:  TCR调测工具 V3.36
+15:22:47:  Decode
+15:22:57:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:23:02:  LOG
+15:23:07:  锁屏状态
+15:23:12:  TheDateInfo.xls  [兼容模式] - Excel
+15:23:17:  20180613 TCR内部指令手册_V001.xlsx - Excel
+15:23:27:  TheDateInfo.xls  [兼容模式] - Excel
+15:25:22:  K64-_BTCR-1100190803000_20210223111917.log - DRB.tat* - TextAnalysisTool.NET
+15:25:27:  Box_4__0000_20210223152103.log - DRB.tat* - TextAnalysisTool.NET
+15:25:47:  K64_0000_20210223152103
+15:25:52:  TheDateInfo.xls  [兼容模式] - Excel
+15:26:32:  K64-_0000_20210223152103.log - DRB.tat* - TextAnalysisTool.NET
+15:27:47:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:27:57:  00-06
+15:28:02:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+15:28:07:  PaperManage.c - TortoiseMerge
+15:28:32:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+15:28:42:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:29:42:  TCR调测工具 V3.36
+15:28:07:  PaperManage.c - TortoiseMerge
+15:28:32:  D:\00-06\1T1-Stop-Length\trunk - 工作副本 - TortoiseSVN
+15:28:42:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+15:29:42:  TCR调测工具 V3.36
+15:30:42:  20210223
+15:30:52:  Decode
+15:30:57:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:31:02:  K64_0000_20210223152958
+15:31:07:  Box_4__0000_20210223152958.log - DRB.tat* - TextAnalysisTool.NET
+15:33:27:  TCR调测工具 V3.36
+15:34:27:  BTCRTestTool
+15:34:32:  TCR调测工具 V3.36
+15:36:02:  自动播放
+15:38:57:  TCR调测工具 V3.36
+15:39:42:  20210223
+15:39:47:  锁屏状态
+15:39:52:  Decode
+15:39:57:  K64_BTCR-1100190803000_20210223110700
+15:40:02:  Box_4__0000_20210223152958.log - DRB.tat* - TextAnalysisTool.NET
+15:40:07:  Box_4__0000_20210223153859.log - DRB.tat* - TextAnalysisTool.NET
+15:40:12:  TCR调测工具 V3.36
+15:41:17:  20210223
+15:41:22:  取款
+15:41:27:  TCR调测工具 V3.36
+15:42:27:  20210223
+15:42:42:  TCR调测工具 V3.36
+15:43:37:  Decode
+15:43:52:  K64_0000_20210223154125
+15:43:57:  C:\Windows\py.exe
+15:44:02:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_0000_20210223154125\Box_4__0000_20210223154125.log (trunk) - Sublime Text (UNREGISTERED)
+15:44:12:  K64_0000_20210223154125
+15:44:22:  Python 3.7.3 Shell
+15:44:27:  Box_4__0000_20210223153859.log - DRB.tat* - TextAnalysisTool.NET
+15:44:32:  Box_4__0000_20210223154125.log - DRB.tat* - TextAnalysisTool.NET
+15:44:42:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_0000_20210223154125\Box_4__0000_20210223154125.log (trunk) - Sublime Text (UNREGISTERED)
+15:44:52:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_0000_20210223154125\Box_4__0000_20210223154125.log • (trunk) - Sublime Text (UNREGISTERED)
+15:44:57:  CashBoxDareV2.3.py - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_0000_20210223154125\CashBoxDareV2.3.py (3.7.3)
+15:45:02:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_0000_20210223154125\Box_4__0000_20210223154125.log (trunk) - Sublime Text (UNREGISTERED)
+15:44:12:  K64_0000_20210223154125
+15:44:22:  Python 3.7.3 Shell
+15:44:27:  Box_4__0000_20210223153859.log - DRB.tat* - TextAnalysisTool.NET
+15:44:32:  Box_4__0000_20210223154125.log - DRB.tat* - TextAnalysisTool.NET
+15:44:42:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_0000_20210223154125\Box_4__0000_20210223154125.log (trunk) - Sublime Text (UNREGISTERED)
+15:44:52:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_0000_20210223154125\Box_4__0000_20210223154125.log • (trunk) - Sublime Text (UNREGISTERED)
+15:44:57:  CashBoxDareV2.3.py - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_0000_20210223154125\CashBoxDareV2.3.py (3.7.3)
+15:45:02:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_0000_20210223154125\Box_4__0000_20210223154125.log (trunk) - Sublime Text (UNREGISTERED)
+15:45:07:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_0000_20210223154125\Box_4__0000_20210223154125.log • (trunk) - Sublime Text (UNREGISTERED)
+15:45:12:  K64_0000_20210223154125
+15:45:17:  Microsoft Excel
+15:45:22:  TheDateInfo.xls  [兼容模式] - Excel
+15:45:47:  TCR调测工具 V3.36
+15:45:57:  TheDateInfo.xls  [兼容模式] - Excel
+15:46:47:  TCR调测工具 V3.36
+15:46:57:  TheDateInfo.xls  [兼容模式] - Excel
+15:47:27:  TCR调测工具 V3.36
+15:48:17:  K64_0000_20210223154125
+15:48:22:  20210223
+15:49:07:  Decode
+15:49:12:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:49:22:  K64_0000_20210223154730
+15:49:27:  取款
+15:49:32:  TCR调测工具 V3.36
+15:54:02:  取款
+15:54:07:  TCR调测工具 V3.36
+15:54:52:  取款
+15:54:57:  TCR调测工具 V3.36
+16:01:37:  钞箱配置
+16:01:42:  TCR调测工具 V3.36
+16:01:47:  钞箱配置
+16:01:52:  TCR调测工具 V3.36
+16:02:37:  可接收
+16:02:42:  BTCRTestTool V3.36
+16:02:47:  取款
+16:02:52:  TCR调测工具 V3.36
+16:04:07:  TCRControlCmdDLL
+16:04:17:  trunk
+16:04:22:  D:\00-06\DRB\Tools\CreateJK.exe
+16:04:27:  Tools
+16:04:32:  TCR调测工具 V3.36
+16:04:47:  20210223
+16:07:42:  TCR调测工具 V3.36
+16:08:07:  20210223
+16:08:12:  Decode
+16:08:17:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:08:27:  K64_0000_20210223160251
+16:08:32:  TheDateInfo.xls  [兼容模式] - Excel
+16:08:52:  TCR调测工具 V3.36
+16:09:12:  K64_0000_20210223160251
+16:09:17:  CashBoxDareV2.3.py - D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_0000_20210223160251\CashBoxDareV2.3.py (3.7.3)
+16:09:32:  K64_0000_20210223160251
+16:09:37:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_0000_20210223160251\CashBoxDareV2.3.py (DRB) - Sublime Text (UNREGISTERED)
+16:09:42:  TCR调测工具 V3.36
+16:10:22:  通道电机测试
+16:10:42:  TCR调测工具 V3.36
+16:11:12:  可接收
+16:11:17:  TCR调测工具 V3.36
+16:12:07:  取款
+16:12:12:  TCR调测工具 V3.36
+16:12:27:  20210223
+16:12:32:  TCR调测工具 V3.36
+16:12:52:  取款
+16:12:57:  TCR调测工具 V3.36
+16:14:27:  20210223
+16:14:42:  TCR调测工具 V3.36
+16:14:27:  20210223
+16:14:42:  TCR调测工具 V3.36
+16:16:17:  取款
+16:16:22:  TCR调测工具 V3.36
+16:19:27:  ②100元出钞连张拒钞10张，倾斜2张.xls
+16:19:32:  ②100元出钞连张拒钞10张，倾斜2张.xls  [只读]  [兼容模式] - Excel
+16:22:42:  K64_BTCR-1100190803000_20210223110700
+16:22:52:  Box_4__BTCR-1100190803000_20210223110700.log - DRB.tat* - TextAnalysisTool.NET
+16:24:12:  TCR调测工具 V3.36
+16:24:17:  Box_4__BTCR-1100190803000_20210223110700.log - DRB.tat* - TextAnalysisTool.NET
+16:25:12:  ②100元出钞连张拒钞10张，倾斜2张.xls  [只读]  [兼容模式] - Excel
+16:25:22:  Box_4__BTCR-1100190803000_20210223110700.log - DRB.tat* - TextAnalysisTool.NET
+16:28:02:  TCR调测工具 V3.36
+16:28:07:  Box_4__BTCR-1100190803000_20210223110700.log - DRB.tat* - TextAnalysisTool.NET
+16:28:07:  Box_4__BTCR-1100190803000_20210223110700.log - DRB.tat* - TextAnalysisTool.NET
+16:42:23:  eSpace
+16:42:28:  于斌1
+16:42:33:  K64_BTCR-1100190803000_20210223110700
+16:43:33:  eSpace
+16:43:38:  本地磁盘 (D:)
+16:43:43:  DRB
+16:43:53:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+16:43:58:  UpperPlate.c Revision 4230 - TortoiseMerge
+16:45:23:  D:\00-记录\记录\2019-12\2019-12-09 07-58-30\新建文件夹\BTCRTestTool V3.36\log\TCRControlCmdDLL\20210223\Decode\LOG\K64_0000_20210223160251\CashBoxDareV2.3.py (DRB) - Sublime Text (UNREGISTERED)
+16:47:03:  UpperPlate.c Revision 4230 - TortoiseMerge
+16:47:33:  eSpace
+16:47:38:  于斌1
+16:47:48:  eSpace
+16:47:58:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+16:48:08:  锁屏状态
+16:48:18:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+16:48:28:  ElectroMagnetDriver.c Revision 4228 - TortoiseMerge
+16:48:33:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+16:48:38:  于斌1
+16:49:28:  D:\00-06\DRB - 日志信息 - TortoiseSVN
+16:49:38:  DRB
+16:49:43:  D:\00-06\DRB\Tools\CreateJK.exe
+16:49:48:  ②100元出钞连张拒钞10张，倾斜2张.xls
+16:49:58:  D:\00-06\DRB\Drivers\PublicDriver\PublicDriver.c (DRB) - Sublime Text (UNREGISTERED)
+16:50:03:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+16:53:23:  计算器
+16:54:23:  0-工作 - 张开发 - 印象笔记
+16:54:33:  计算器
+16:59:33:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+16:59:33:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+17:00:58:  eSpace
+17:01:03:  吉哲
+17:01:08:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+17:04:08:  锁屏状态
+17:46:53:  D:\00-06\DRB\Applications\PaperManage\PaperManage.c (DRB) - Sublime Text (UNREGISTERED)
+17:50:53:  TCR调测工具 V3.36
+17:51:03:  BTCRTestTool
+17:51:08:  TCR调测工具 V3.36
+17:51:28:  BTCRTestTool
+17:51:33:  TCR调测工具 V3.36
+17:52:48:  钞箱配置
+17:52:53:  TCR调测工具 V3.36
+17:56:08:  模块使能
+17:56:13:  TCR调测工具 V3.36
+18:03:13:  锁屏状态

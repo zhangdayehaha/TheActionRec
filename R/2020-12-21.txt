@@ -1,0 +1,96 @@
+2020-12-20 23:45:00-- 00:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 00:00:00-- 00:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 00:15:00-- 00:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 00:30:00-- 00:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 00:45:00-- 01:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 01:00:00-- 01:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 01:15:00-- 01:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 01:30:00-- 01:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 01:45:00-- 02:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 02:00:01-- 02:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 02:15:01-- 02:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 02:30:01-- 02:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 02:45:01-- 03:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 03:00:01-- 03:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 03:15:01-- 03:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 03:30:01-- 03:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 03:45:01-- 04:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 04:00:01-- 04:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 04:15:01-- 04:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 04:30:01-- 04:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 04:45:01-- 05:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 05:00:01-- 05:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 05:15:01-- 05:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 05:30:01-- 05:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 05:45:01-- 06:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 06:00:02-- 06:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 06:15:02-- 06:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 06:30:02-- 06:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 06:45:02-- 07:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 07:00:02-- 07:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 07:15:02-- 07:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 07:30:02-- 07:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 07:45:02-- 08:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 08:00:02-- 08:15:00     :    一  ：锁屏状态   84/7.0分钟       二  ：收取邮件 - 张开发   44/3.66分钟     三  ：DRB传感器.txt - 记事本   14/1.16分钟
+2020-12-21 08:15:00-- 08:30:01     :    一  ：姜勇   79/6.58分钟       二  ：DRB传感器.txt - 记事本   45/3.75分钟     三  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   31/2.58分钟
+2020-12-21 08:30:01-- 08:45:01     :    一  ：● CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]   111/9.25分钟       二  ：CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]   55/4.58分钟     三  ：DRB连接线线序20201207.xlsx   4/0.33分钟
+2020-12-21 08:45:01-- 09:00:02     :    一  ：● CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]   72/6.0分钟       二  ：姜勇   51/4.25分钟     三  ：CheckTheBookTital.py - DRB-NearFull - Visual Studio Code [管理员]   39/3.25分钟
+2020-12-21 09:00:02-- 09:15:02     :    一  ：D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)   55/4.58分钟       二  ：LowerPlateCtrl.c - DRB-NearFull - Visual Studio Code [管理员]   42/3.5分钟     三  ：dist   16/1.33分钟
+2020-12-21 09:15:02-- 09:30:02     :    一  ：D:\00-06\DRB-NearFull\Drivers\SensorDriver\SensorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)   134/11.1分钟       二  ：D:\00-06\DRB-NearFull\Applications\State\State.c (DRB-NearFull) - Sublime Text (UNREGISTERED)   19/1.58分钟     三  ：eSpace   13/1.08分钟
+2020-12-21 09:30:02-- 09:45:02     :    一  ：D:\00-06\DRB-NearFull\Drivers\StepMotorDriver\StepMotorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)   84/7.0分钟       二  ：于斌1   17/1.41分钟     三  ：D:\00-06\DRB-NearFull\Drivers\SensorDriver\SensorDriver.c (DRB-NearFull) - Sublime Text (UNREGISTERED)   12/1.0分钟
+2020-12-21 09:45:02-- 10:00:02     :    一  ：D:\00-06\DRB-NearFull\Applications\Initial\Initial.c (DRB-NearFull) - Sublime Text (UNREGISTERED)   42/3.5分钟       二  ：D:\00-06\DRB--\Applications\Initial\Initial.c (DRB--) - Sublime Text (UNREGISTERED)   33/2.75分钟     三  ：D:\00-06\DRB--\Applications\LogHandle\LogHandle.c (DRB--) - Sublime Text (UNREGISTERED)   22/1.83分钟
+2020-12-21 10:00:02-- 10:15:03     :    一  ：D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)   98/8.16分钟       二  ：登录QQ邮箱 - Google Chrome   27/2.25分钟     三  ：2-财务分配 - 张开发 - 印象笔记   19/1.58分钟
+2020-12-21 10:15:03-- 10:30:03     :    一  ：D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)   86/7.16分钟       二  ：2-财务分配 - 张开发 - 印象笔记   48/4.0分钟     三  ：学习 - 张开发 - 印象笔记   10/0.83分钟
+2020-12-21 10:30:03-- 10:45:03     :    一  ：D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)   52/4.33分钟       二  ：D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)   50/4.16分钟     三  ：EXTFEDU6V1.3.PDF - Adobe Reader   20/1.66分钟
+2020-12-21 10:45:03-- 11:00:03     :    一  ：D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)   153/12.7分钟       二  ：D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c • (DRB--) - Sublime Text (UNREGISTERED)   17/1.41分钟     三  ：于斌1   3/0.25分钟
+2020-12-21 11:00:03-- 11:15:03     :    一  ：D:\00-06\DRB--\Drivers\PublicDriver\PublicDriver.c (DRB--) - Sublime Text (UNREGISTERED)   100/8.33分钟       二  ：D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)   37/3.08分钟     三  ：D:\00-06\DRB--\Middlewares\Plate\LowerPlate.c (DRB--) - Sublime Text (UNREGISTERED)   12/1.0分钟
+2020-12-21 11:15:03-- 11:30:03     :    一  ：D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)   128/10.6分钟       二  ：于斌1   52/4.33分钟     三  ：   0/0.0分钟
+2020-12-21 11:30:03-- 11:45:04     :    一  ：于斌1   94/7.83分钟       二  ：锁屏状态   58/4.83分钟     三  ：D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)   15/1.25分钟
+2020-12-21 11:45:04-- 12:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 12:00:04-- 12:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 12:15:04-- 12:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 12:30:04-- 12:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 12:45:00-- 13:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 13:00:00-- 13:15:00     :    一  ：锁屏状态   96/8.0分钟       二  ：PuTTY Configuration   39/3.25分钟     三  ：39nat-免费内网穿透工具 - Google Chrome   28/2.33分钟
+2020-12-21 13:15:00-- 13:30:00     :    一  ：D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)   44/3.66分钟       二  ：dan - 2 - WinSCP   23/1.91分钟     三  ：/home/pi/p12.py - 2 - 编辑器 - WinSCP   22/1.83分钟
+2020-12-21 13:30:00-- 13:45:00     :    一  ：/home/pi/p12.py - 2 - 编辑器 - WinSCP   46/3.83分钟       二  ：绩效申请 - Internet Explorer   27/2.25分钟     三  ：D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)   22/1.83分钟
+2020-12-21 13:45:00-- 14:00:00     :    一  ：D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)   56/4.66分钟       二  ：记账 - 随手记 - Google Chrome   18/1.5分钟     三  ：计算器   16/1.33分钟
+2020-12-21 14:00:00-- 14:15:00     :    一  ：系统登录 - Internet Explorer   68/5.66分钟       二  ：王亮杰   37/3.08分钟     三  ：绩效申请 - Internet Explorer   13/1.08分钟
+2020-12-21 14:15:00-- 14:30:00     :    一  ：Progress Telerik Fiddler Web Debugger   33/2.75分钟       二  ：Employee-facing registry content - Internet Explorer   31/2.58分钟     三  ：绩效申请 - Internet Explorer   25/2.08分钟
+2020-12-21 14:30:00-- 14:45:01     :    一  ：Progress Telerik Fiddler Web Debugger   52/4.33分钟       二  ：GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)   33/2.75分钟     三  ：*GetTheideal.py - F:\小程序\TheText\GetTheideal.py (3.7.3)*   29/2.41分钟
+2020-12-21 14:45:01-- 15:00:01     :    一  ：GET /psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS • (meger) - Sublime Text (UNREGISTERED)   99/8.25分钟       二  ：于斌1   22/1.83分钟     三  ：D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)   14/1.16分钟
+2020-12-21 15:00:01-- 15:15:01     :    一  ：于斌1   49/4.08分钟       二  ：CRS调测工具（研发版）V1.0.2.1   31/2.58分钟     三  ：K64_0000_20201217162006-300.log - DRB.tat* - TextAnalysisTool.NET   31/2.58分钟
+2020-12-21 15:15:01-- 15:30:01     :    一  ：CRS_ErrCode_list_excel_flg.txt - 记事本   67/5.58分钟       二  ：CRS调测工具（研发版）V1.0.2.1   21/1.75分钟     三  ：alipay_record_20201221_1223_1.csv - Excel   18/1.5分钟
+2020-12-21 15:30:01-- 15:45:01     :    一  ：于斌1   70/5.83分钟       二  ：D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)   59/4.91分钟     三  ：K64_0000_20201221152314.log - DRB.tat* - TextAnalysisTool.NET   23/1.91分钟
+2020-12-21 15:45:01-- 16:00:02     :    一  ：2-财务分配 - 张开发 - 印象笔记   129/10.7分钟       二  ：D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)   43/3.58分钟     三  ：拼多多口令怎么生成_百度搜索 - Google Chrome   2/0.16分钟
+2020-12-21 16:00:02-- 16:15:02     :    一  ：D:\00-06\meger\Drivers\PeripheralDriver\SpiDriver\SnbcSpiDriver.c (meger) - Sublime Text (UNREGISTERED)   60/5.0分钟       二  ：D:\00-06\meger\Drivers\PublicDriver\PublicDriver.c (meger) - Sublime Text (UNREGISTERED)   42/3.5分钟     三  ：EepHisApp.c - TortoiseMerge   26/2.16分钟
+2020-12-21 16:15:02-- 16:30:02     :    一  ：D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)   50/4.16分钟       二  ：D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)   36/3.0分钟     三  ：待分析- 2020 年四季度TD缺陷报表（11月-12月15日数据）-（）部门.xlsx  [共享] - Excel   30/2.5分钟
+2020-12-21 16:30:02-- 16:45:02     :    一  ：D:\00-06\meger\Middlewares\Plate\LowerPlate.c (meger) - Sublime Text (UNREGISTERED)   86/7.16分钟       二  ：D:\00-06\meger\Middlewares\Plate\LowerPlate.c • (meger) - Sublime Text (UNREGISTERED)   35/2.91分钟     三  ：待分析- 2020 年四季度TD缺陷报表（11月-12月15日数据）-（）部门.xlsx  [共享] - Excel   34/2.83分钟
+2020-12-21 16:45:02-- 17:00:03     :    一  ：D:\00-06\meger\Middlewares\Plate\LowerPlate.c • (meger) - Sublime Text (UNREGISTERED)   117/9.75分钟       二  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   44/3.66分钟     三  ：于斌1   9/0.75分钟
+2020-12-21 17:00:03-- 17:15:03     :    一  ：锁屏状态   87/7.25分钟       二  ：于斌1   65/5.41分钟     三  ：关于做好公司级困难职工申报工作的通知   10/0.83分钟
+2020-12-21 17:15:03-- 17:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 17:30:03-- 17:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 17:45:03-- 18:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 18:00:03-- 18:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 18:15:04-- 18:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 18:30:04-- 18:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 18:45:04-- 19:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 19:00:04-- 19:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 19:15:04-- 19:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 19:30:00-- 19:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 19:45:00-- 20:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 20:00:00-- 20:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 20:15:00-- 20:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 20:30:01-- 20:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 20:45:01-- 21:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 21:00:01-- 21:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 21:15:01-- 21:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 21:30:01-- 21:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 21:45:02-- 22:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 22:00:02-- 22:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 22:15:02-- 22:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 22:30:02-- 22:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 22:45:02-- 23:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 23:00:03-- 23:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 23:15:03-- 23:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-12-21 23:30:03-- 23:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

@@ -1,0 +1,944 @@
+08:09:50:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+08:13:20:  警告
+08:13:25:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:16:10:  K64-_BTCR-1100190802300005_20200709162544.log - DRB.tat* - TextAnalysisTool.NET
+08:16:15:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:16:20:  K64-_BTCR-1100190802300005_20200709162544.log - DRB.tat* - TextAnalysisTool.NET
+08:16:30:  GateModule.h - press2 - Visual Studio Code [管理员]
+08:16:35:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:18:20:  K64-_BTCR-1100190802300005_20200709162544.log - DRB.tat* - TextAnalysisTool.NET
+08:18:35:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:18:55:  K64-_BTCR-1100190802300005_20200709162544.log - DRB.tat* - TextAnalysisTool.NET
+08:19:05:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:19:35:  K64-_BTCR-1100190802300005_20200709162544.log - DRB.tat* - TextAnalysisTool.NET
+08:19:40:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:20:10:  K64-_BTCR-1100190802300005_20200709162544.log - DRB.tat* - TextAnalysisTool.NET
+08:20:15:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:20:45:  警告
+08:21:10:  便签管理器
+08:26:45:  锁屏状态
+08:26:50:  fenxi
+08:27:15:  问题日志
+08:27:35:  问题日志 (未响应)
+08:27:40:  fenxi
+08:27:45:  运行
+08:27:55:  问题日志
+08:28:35:  ID-4 反向盘点盘不完
+08:29:15:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+08:29:25:  ID-4 反向盘点盘不完
+08:29:30:  10#钞箱AD.txt - 记事本
+08:29:40:  fenxi
+08:29:45:  DRB传感器.txt - 记事本
+08:29:50:  10#钞箱AD.txt - 记事本
+08:30:00:  DRB传感器.txt - 记事本
+08:28:35:  ID-4 反向盘点盘不完
+08:29:15:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+08:29:25:  ID-4 反向盘点盘不完
+08:29:30:  10#钞箱AD.txt - 记事本
+08:29:40:  fenxi
+08:29:45:  DRB传感器.txt - 记事本
+08:29:50:  10#钞箱AD.txt - 记事本
+08:30:00:  DRB传感器.txt - 记事本
+08:30:20:  fenxi
+08:30:25:  新建文件夹 (3)
+08:30:55:  K64-_BTCR-1100190802300005_20200709162544.log - DRB.tat* - TextAnalysisTool.NET
+08:31:55:  新建文件夹 (3)
+08:32:00:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:32:10:  Decode
+08:32:25:  LOG
+08:32:40:  K64_BTCR-1100190803000001_20200709150714
+08:32:45:  Box_2__BTCR-1100190803000001_20200709150714.log - DRB.tat* - TextAnalysisTool.NET
+08:33:40:  Add Filter
+08:33:50:  Box_2__BTCR-1100190803000001_20200709150714.log - DRB.tat* - TextAnalysisTool.NET
+08:34:00:  Edit Filter
+08:34:05:  Box_2__BTCR-1100190803000001_20200709150714.log - DRB.tat* - TextAnalysisTool.NET
+08:34:10:  Edit Filter
+08:34:15:  Box_2__BTCR-1100190803000001_20200709150714.log - DRB.tat* - TextAnalysisTool.NET
+08:34:40:  K64_BTCR-1100190803000001_20200709150701
+08:34:45:  Box_2__BTCR-1100190803000001_20200709150701.log - DRB.tat* - TextAnalysisTool.NET
+08:34:50:  LOG
+08:34:55:  Box_2__BTCR-1100190803000001_20200709150701.log - DRB.tat* - TextAnalysisTool.NET
+08:35:00:  Box_2__BTCR-1100190803000001_20200709150130.log - DRB.tat* - TextAnalysisTool.NET
+08:38:35:  CashGateModuleApp.c - press2 - Visual Studio Code [管理员]
+08:38:45:  打开文件夹
+08:38:50:  Visual Studio Code
+08:38:55:  UpperPlate.c - DRB-PRESS - Visual Studio Code [管理员]
+08:41:20:  PlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:41:45:  LowerPlateCtrl.h - DRB-PRESS - Visual Studio Code [管理员]
+08:41:50:  PlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:41:55:  UpperPlateCtrl.h - DRB-PRESS - Visual Studio Code [管理员]
+08:42:00:  PlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:42:10:  UpperPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:42:20:  Box_2__BTCR-1100190803000001_20200709150130.log - DRB.tat* - TextAnalysisTool.NET
+08:43:20:  计算器
+08:43:35:  K64_BTCR-1100190803000001_20200709150130
+08:43:40:  Box_2__BTCR-1100190803000001_20200709150701.log - DRB.tat* - TextAnalysisTool.NET
+08:43:45:  K64_BTCR-1100190803000001_20200709150701
+08:43:50:  Box_2__BTCR-1100190803000001_20200709150714.log - DRB.tat* - TextAnalysisTool.NET
+08:44:00:  计算器
+08:44:05:  Box_2__BTCR-1100190803000001_20200709150714.log - DRB.tat* - TextAnalysisTool.NET
+08:44:15:  K64_BTCR-1100190803000001_20200709150714
+08:44:20:  LOG
+08:44:25:  VSCode 定义和实现间跳转|极客教程 - Google Chrome
+08:44:30:  Box_2__BTCR-1100190803000001_20200709150130.log - DRB.tat* - TextAnalysisTool.NET
+08:44:05:  Box_2__BTCR-1100190803000001_20200709150714.log - DRB.tat* - TextAnalysisTool.NET
+08:44:15:  K64_BTCR-1100190803000001_20200709150714
+08:44:20:  LOG
+08:44:25:  VSCode 定义和实现间跳转|极客教程 - Google Chrome
+08:44:30:  Box_2__BTCR-1100190803000001_20200709150130.log - DRB.tat* - TextAnalysisTool.NET
+08:45:05:  于斌1
+08:45:10:  eSpace
+08:45:20:  荆文波
+08:45:40:  ID-4 反向盘点盘不完
+08:45:45:  Box_2__BTCR-1100190803000001_20200709150130.log - DRB.tat* - TextAnalysisTool.NET
+08:46:15:  锁屏状态
+08:46:20:  Box_2__BTCR-1100190803000001_20200709150130.log - DRB.tat* - TextAnalysisTool.NET
+08:50:30:  荆文波
+08:50:35:  Box_2__BTCR-1100190803000001_20200709150130.log - DRB.tat* - TextAnalysisTool.NET
+08:53:10:  UpperPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:02:35:  本地磁盘 (F:)
+09:02:40:  DRB-PRESS
+09:02:45:  检查更新
+09:02:50:  DRB-PRESS
+09:02:55:  D:\00-06\DRB-PRESS - 日志信息 - TortoiseSVN
+09:03:00:  UpperPlateCtrl.c Revision 3931 - TortoiseMerge
+09:03:20:  D:\00-06\DRB-PRESS - 日志信息 - TortoiseSVN
+09:03:30:  UpperPlate.c Revision 3931 - TortoiseMerge
+09:03:45:  D:\00-06\DRB-PRESS - 日志信息 - TortoiseSVN
+09:03:50:  UpperPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:04:40:  远程邮箱管理
+09:04:45:  执行远程管理命令
+09:04:50:  Box_2__BTCR-1100190803000001_20200709150130.log - DRB.tat* - TextAnalysisTool.NET
+09:05:35:  DRB-PRESS
+09:05:40:  K64_BTCR-1100190803000001_20200709150701
+09:05:45:  Box_2__BTCR-1100190803000001_20200709150701.log - DRB.tat* - TextAnalysisTool.NET
+09:05:55:  Box_2__BTCR-1100190803000001_20200709150714.log - DRB.tat* - TextAnalysisTool.NET
+09:07:46:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:08:21:  本地磁盘 (D:)
+09:08:26:  DRB-PRESS
+09:08:31:  D:\00-06\DRB-PRESS - 日志信息 - TortoiseSVN
+09:08:41:  UpperPlateCtrl.c Revision 3926 - TortoiseMerge
+09:08:56:  D:\00-06\DRB-PRESS - 日志信息 - TortoiseSVN
+09:09:01:  UpperPlateCtrl.c Revision 3931 - TortoiseMerge
+09:09:11:  D:\00-06\DRB-PRESS - 日志信息 - TortoiseSVN
+09:09:21:  UpperPlateCtrl.c Revision 3931 - TortoiseMerge
+09:09:36:  UpperPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:09:41:  UpperPlate.c - DRB-PRESS - Visual Studio Code [管理员]
+09:09:51:  UpperPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:09:56:  ● UpperPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:10:06:  UpperPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:10:26:  ● UpperPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:10:46:  UpperPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:11:16:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:11:31:  计算器
+09:11:41:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:12:51:  TCRControlCmdDLL
+09:12:56:  20200709
+09:13:01:  TCRControlCmdDLL
+09:13:06:  ID-4 反向盘点盘不完
+09:13:16:  存款确认后，钞箱存在异响
+09:13:26:  fenxi
+09:13:31:  问题日志
+09:13:36:  20200709
+09:13:41:  本地磁盘 (D:)
+09:13:46:  20200709
+09:13:51:  LOG
+09:14:21:  Decode
+09:14:26:  fenxi
+09:14:31:  7.9问题
+09:14:36:  20200709
+09:14:46:  LOG
+09:14:51:  Box_2__BTCR-1100190803000001_20200709150714.log - DRB.tat* - TextAnalysisTool.NET
+09:14:56:  Box_1__BTCR-1100190802300005_20200709160913.log - DRB.tat* - TextAnalysisTool.NET
+09:14:21:  Decode
+09:14:26:  fenxi
+09:14:31:  7.9问题
+09:14:36:  20200709
+09:14:46:  LOG
+09:14:51:  Box_2__BTCR-1100190803000001_20200709150714.log - DRB.tat* - TextAnalysisTool.NET
+09:14:56:  Box_1__BTCR-1100190802300005_20200709160913.log - DRB.tat* - TextAnalysisTool.NET
+09:15:06:  LOG
+09:15:11:  Box_1__BTCR-1100190802300005_20200709162112.log - DRB.tat* - TextAnalysisTool.NET
+09:15:36:  K64_BTCR-1100190802300005_20200709160913
+09:15:41:  Box_1__BTCR-1100190802300005_20200709160913.log - DRB.tat* - TextAnalysisTool.NET
+09:15:51:  K64_BTCR-1100190802300005_20200709162112
+09:15:56:  K64_BTCR-1100190802300005_20200709162117
+09:16:01:  Box_1__BTCR-1100190802300005_20200709162117.log - DRB.tat* - TextAnalysisTool.NET
+09:16:31:  K64_BTCR-1100190802300005_20200709162328
+09:16:41:  K64_BTCR-1100190802300005_20200709162400
+09:16:46:  Box_1__BTCR-1100190802300005_20200709162400.log - DRB.tat* - TextAnalysisTool.NET
+09:17:06:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:17:46:  自动播放
+09:17:51:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+09:18:01:  Tools
+09:18:16:  未命名 - 写邮件
+09:19:16:  未命名 - 写邮件   09:19:13 已保存
+09:20:16:  未命名 - 写邮件   09:20:13 已保存
+09:21:16:  未命名 - 写邮件   09:21:13 已保存
+09:21:31:  计算器
+09:21:41:  未命名 - 写邮件   09:21:13 已保存
+09:22:16:  未命名 - 写邮件   09:22:13 已保存
+09:22:31:  Tools
+09:22:36:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V11_MAIN_T11 - 写邮件   09:22:13 已保存
+09:22:41:  DRB - 写邮件   09:22:13 已保存
+09:22:46:  DRB 压板结构 - 写邮件   09:22:13 已保存
+09:22:51:  DRB 压板结构固件 - 写邮件   09:22:13 已保存
+09:23:16:  锁屏状态
+09:23:21:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+09:24:31:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+09:24:36:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+09:24:51:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+09:25:01:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:35:28:  新建文本文档.exe - 快捷方式
+09:35:33:  新北洋OA信息化平台 - Internet Explorer
+09:35:43:  登陆到CoPlan - Internet Explorer
+09:36:48:  fenxi
+09:36:53:  登陆到CoPlan - Internet Explorer
+09:36:58:  新标签页 - Google Chrome
+09:37:08:  Oracle | PeopleSoft Enterprise 登录 - Google Chrome
+09:37:23:  登陆到CoPlan - Internet Explorer
+09:37:38:  http://snbcproject.byintra.com/Login.aspx - Internet Explorer
+09:37:43:  员工自助 - Google Chrome
+09:37:48:  考勤异常 - Google Chrome
+09:40:03:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:40:08:  eSpace
+09:40:13:  考勤异常 - Google Chrome
+09:41:23:  新北洋OA信息化平台 - Internet Explorer
+09:41:43:  0_发起流程_补签卡流程 - Internet Explorer
+09:41:53:  登陆到CoPlan - Internet Explorer
+09:41:58:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:42:03:  DRB传感器.txt - 记事本
+09:42:28:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:42:33:  打开文件夹
+09:42:48:  Track.c - trunk - Visual Studio Code
+09:42:53:  Track.c - trunk - Visual Studio Code [管理员]
+09:43:23:  Plate.c - trunk - Visual Studio Code [管理员]
+09:43:28:  DRB传感器.txt - 记事本
+09:43:58:  Plate.c - trunk - Visual Studio Code [管理员]
+09:44:03:  DRB传感器.txt - 记事本
+09:46:28:  Track.c - trunk - Visual Studio Code [管理员]
+09:46:43:  TrackCtrl.c - trunk - Visual Studio Code [管理员]
+09:46:58:  Track.c - trunk - Visual Studio Code [管理员]
+09:47:08:  DRB传感器.txt - 记事本
+09:47:28:  SensorDriver.h - trunk - Visual Studio Code [管理员]
+09:47:33:  DRB传感器.txt - 记事本
+09:47:38:  SensorDriver.h - trunk - Visual Studio Code [管理员]
+09:47:48:  DRB传感器.txt - 记事本
+09:47:53:  SensorDriver.h - trunk - Visual Studio Code [管理员]
+09:47:58:  Track.c - trunk - Visual Studio Code [管理员]
+09:48:23:  DRB传感器.txt - 记事本
+09:48:43:  SensorDriver.h - trunk - Visual Studio Code [管理员]
+09:48:53:  DRB传感器.txt - 记事本
+09:49:18:  SensorDriver.h - trunk - Visual Studio Code [管理员]
+09:49:38:  Sensor.c - trunk - Visual Studio Code [管理员]
+09:50:18:  SensorDriver.c - trunk - Visual Studio Code [管理员]
+09:50:33:  桌面整理
+09:50:43:  钞箱 - Everything
+09:50:48:  锁屏状态
+09:50:53:  钞箱资料
+09:50:58:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+09:51:03:  阅读未加标签文档
+09:51:08:  EXTFEDUV21_1t1.PDF - Adobe Reader
+09:51:38:  DRB传感器.txt - 记事本
+09:52:28:  SensorDriver.c - trunk - Visual Studio Code [管理员]
+09:53:18:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+09:53:23:  SensorDriver.c - trunk - Visual Studio Code [管理员]
+09:53:38:  PublicDriver.c - trunk - Visual Studio Code [管理员]
+09:54:23:  EXTFEDUV21_1t1.PDF - Adobe Reader
+09:54:48:  PublicDriver.c - trunk - Visual Studio Code [管理员]
+09:55:33:  PwmDriver.h - trunk - Visual Studio Code [管理员]
+09:55:43:  PublicDriver.c - trunk - Visual Studio Code [管理员]
+09:55:48:  DRB传感器.txt - 记事本
+09:56:33:  log
+09:56:38:  EXTFEDUV21_1t1.PDF - Adobe Reader
+09:56:53:  log
+09:56:58:  PublicDriver.c - trunk - Visual Studio Code [管理员]
+09:57:03:  PwmDriver.h - trunk - Visual Studio Code [管理员]
+09:57:18:  PublicDriver.c - trunk - Visual Studio Code [管理员]
+09:57:23:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\StepMotor\StepMotor.c (trunk) - Sublime Text (UNREGISTERED)
+09:57:33:  D:\00-06\1T1-Stop-Length\trunk\Drivers\PublicDriver\PublicDriver.c (trunk) - Sublime Text (UNREGISTERED)
+09:57:48:  D:\00-06\1T1-Stop-Length\trunk\Drivers\PeripheralDriver\FtmDriver\PwmDriver\PwmDriver.c (trunk) - Sublime Text (UNREGISTERED)
+09:57:53:  D:\00-06\1T1-Stop-Length\trunk\Drivers\PublicDriver\PublicDriver.c (trunk) - Sublime Text (UNREGISTERED)
+09:58:13:  D:\00-06\1T1-Stop-Length\trunk\Drivers\BldcDriver\BldcDriver.c (trunk) - Sublime Text (UNREGISTERED)
+09:58:28:  PublicDriver.c - trunk - Visual Studio Code [管理员]
+09:58:43:  BldcDriver.c - trunk - Visual Studio Code [管理员]
+09:58:58:  网易有道词典
+09:59:03:  EXTFEDUV21_1t1.PDF - Adobe Reader
+09:59:08:  BldcDriver.c - trunk - Visual Studio Code [管理员]
+09:59:53:  EXTFEDUV21_1t1.PDF - Adobe Reader
+09:59:58:  DRB传感器.txt - 记事本
+09:58:13:  D:\00-06\1T1-Stop-Length\trunk\Drivers\BldcDriver\BldcDriver.c (trunk) - Sublime Text (UNREGISTERED)
+09:58:28:  PublicDriver.c - trunk - Visual Studio Code [管理员]
+09:58:43:  BldcDriver.c - trunk - Visual Studio Code [管理员]
+09:58:58:  网易有道词典
+09:59:03:  EXTFEDUV21_1t1.PDF - Adobe Reader
+09:59:08:  BldcDriver.c - trunk - Visual Studio Code [管理员]
+09:59:53:  EXTFEDUV21_1t1.PDF - Adobe Reader
+09:59:58:  DRB传感器.txt - 记事本
+10:00:18:  EXTFEDUV21_1t1.PDF - Adobe Reader
+10:00:28:  BldcDriver.c - trunk - Visual Studio Code [管理员]
+10:00:43:  SensorDriver.c - trunk - Visual Studio Code [管理员]
+10:01:03:  EXTFEDUV21_1t1.PDF - Adobe Reader
+10:01:08:  SensorDriver.c - trunk - Visual Studio Code [管理员]
+10:01:18:  DRB传感器.txt - 记事本
+10:02:23:  「开始」菜单
+10:02:38:  1T2集成测试 - OneNote
+10:02:43:  无标题页 - OneNote
+10:02:53:  0  通道传感器           RSC01 - OneNote
+10:02:58:  新建文本文档.exe - 快捷方式
+10:03:03:  PaperManage.c - trunk - Visual Studio Code [管理员]
+10:03:08:  跳转列表
+10:03:13:  网易有道词典
+10:03:18:  跳转列表
+10:03:28:  主页 - Internet Explorer
+10:03:33:  新标签页 - Google Chrome
+10:03:38:  员工自助 - Google Chrome
+10:03:43:  考勤匹配查询 - Google Chrome
+10:04:18:  员工自助 - Google Chrome
+10:04:23:  我的薪酬 - Google Chrome
+10:06:28:  PaperManage.c - trunk - Visual Studio Code [管理员]
+10:06:33:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+10:06:38:  本地磁盘 (F:)
+10:06:43:  小程序
+10:06:53:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+10:07:23:  小程序
+10:07:28:  GetTheideal.py - F:\小程序\GetTheideal.py (3.7.3)
+10:07:43:  小程序
+10:07:58:  GetTheCoPlan.py - F:\小程序\GetTheCoPlan.py (3.7.3)
+10:08:18:  我的薪酬 - Google Chrome
+10:08:38:  小程序
+10:08:43:  本地磁盘 (E:)
+10:08:48:  3232.py - trunk - Visual Studio Code [管理员]
+10:09:08:  ● 3232.py - trunk - Visual Studio Code [管理员]
+10:09:13:  我的薪酬 - Google Chrome
+10:09:18:  3232.py - trunk - Visual Studio Code [管理员]
+10:09:23:  ● 3232.py - trunk - Visual Studio Code [管理员]
+10:09:28:  我的薪酬 - Google Chrome
+10:09:38:  ● 3232.py - trunk - Visual Studio Code [管理员]
+10:09:58:  3232.py - trunk - Visual Studio Code [管理员]
+10:10:18:  ● 3232.py - trunk - Visual Studio Code [管理员]
+10:10:23:  3232.py - trunk - Visual Studio Code [管理员]
+10:10:33:  ● 3232.py - trunk - Visual Studio Code [管理员]
+10:10:43:  CheckTheBookTital.py - trunk - Visual Studio Code [管理员]
+10:10:53:  ● 3232.py - trunk - Visual Studio Code [管理员]
+10:11:23:  3232.py - trunk - Visual Studio Code [管理员]
+10:11:53:  Python 3.7.3 Shell
+10:11:58:  3232.py - E:\3232.py (3.7.3)
+10:12:03:  *Python 3.7.3 Shell*
+10:12:08:  Python 3.7.3 Shell
+10:12:58:  3232.py - E:\3232.py (3.7.3)
+10:13:08:  *3232.py - E:\3232.py (3.7.3)*
+10:13:13:  3232.py - trunk - Visual Studio Code [管理员]
+10:13:23:  ● 3232.py - trunk - Visual Studio Code [管理员]
+10:13:28:  Python 3.7.3 Shell
+10:13:43:  我的薪酬 - Google Chrome
+10:13:53:  Python 3.7.3 Shell
+10:13:58:  员工自助 - Google Chrome
+10:14:03:  我的薪酬 - Google Chrome
+10:14:08:  Python 3.7.3 Shell
+10:14:13:  3232.py - trunk - Visual Studio Code [管理员]
+10:14:28:  锁屏状态
+10:14:33:  3232.py - trunk - Visual Studio Code [管理员]
+10:14:53:  ● 3232.py - trunk - Visual Studio Code [管理员]
+10:14:08:  Python 3.7.3 Shell
+10:14:13:  3232.py - trunk - Visual Studio Code [管理员]
+10:14:28:  锁屏状态
+10:14:33:  3232.py - trunk - Visual Studio Code [管理员]
+10:14:53:  ● 3232.py - trunk - Visual Studio Code [管理员]
+10:15:13:  3232.py - trunk - Visual Studio Code [管理员]
+10:15:18:  3232.py - E:\3232.py (3.7.3)
+10:15:28:  Python 3.7.3 Shell
+10:15:38:  3232.py - E:\3232.py (3.7.3)
+10:15:43:  Python 3.7.3 Shell
+10:15:58:  我的薪酬 - Google Chrome
+10:16:08:  Employee-facing registry content - Google Chrome
+10:16:13:  新标签页 - Google Chrome
+10:16:18:  员工自助 - Google Chrome
+10:16:28:  Python 3.7.3 Shell
+10:16:33:  我的薪酬 - Google Chrome
+10:16:38:  Python 3.7.3 Shell
+10:16:53:  我的薪酬 - Google Chrome
+10:16:58:  基本导航页面 - Google Chrome
+10:17:03:  我的薪酬 - Google Chrome
+10:17:13:  Python 3.7.3 Shell
+10:17:38:  我的薪酬 - Google Chrome
+10:19:18:  hrms.byintra.com:8800/cs/HCMPRD/cache/PT_HNAV_TEMPLATE_JS_ZHS_1.js - Google Chrome
+10:19:43:  Python 3.7.3 Shell
+10:19:58:  hrms.byintra.com:8800/cs/HCMPRD/cache/PT_HNAV_TEMPLATE_JS_ZHS_1.js - Google Chrome
+10:20:03:  Python 3.7.3 Shell
+10:20:18:  PTAL_ARROW_LEFT_ZHS_1.gif (7×23) - Google Chrome
+10:20:23:  Python 3.7.3 Shell
+10:20:38:  员工自助 - Google Chrome
+10:20:43:  我的薪酬 - Google Chrome
+10:24:38:  3232.py - trunk - Visual Studio Code [管理员]
+10:24:48:  ● 3232.py - trunk - Visual Studio Code [管理员]
+10:25:18:  *Python 3.7.3 Shell*
+10:25:23:  Python 3.7.3 Shell
+10:25:38:  3232.py - E:\3232.py (3.7.3)
+10:25:43:  我的薪酬 - Google Chrome
+10:25:58:  *Python 3.7.3 Shell*
+10:26:03:  Python 3.7.3 Shell
+10:26:18:  3232.py - E:\3232.py (3.7.3)
+10:26:23:  3232.py - trunk - Visual Studio Code [管理员]
+10:26:28:  ● 3232.py - trunk - Visual Studio Code [管理员]
+10:26:33:  Python 3.7.3 Shell
+10:26:58:  3232.py - E:\3232.py (3.7.3)
+10:27:18:  Python 3.7.3 Shell
+10:27:33:  3232.py - trunk - Visual Studio Code [管理员]
+10:28:23:  Python 3.7.3 Shell
+10:28:28:  *Python 3.7.3 Shell*
+10:28:33:  Python 3.7.3 Shell
+10:29:08:  3232.py - E:\3232.py (3.7.3)
+10:29:13:  *Python 3.7.3 Shell*
+10:29:18:  *3232.py - E:\3232.py (3.7.3)*
+10:29:28:  Save Before Run or Check
+10:29:33:  Python 3.7.3 Shell
+10:29:48:  ● 3232.py - trunk - Visual Studio Code [管理员]
+10:28:23:  Python 3.7.3 Shell
+10:28:28:  *Python 3.7.3 Shell*
+10:28:33:  Python 3.7.3 Shell
+10:29:08:  3232.py - E:\3232.py (3.7.3)
+10:29:13:  *Python 3.7.3 Shell*
+10:29:18:  *3232.py - E:\3232.py (3.7.3)*
+10:29:28:  Save Before Run or Check
+10:29:33:  Python 3.7.3 Shell
+10:29:48:  ● 3232.py - trunk - Visual Studio Code [管理员]
+10:30:43:  员工自助 - Google Chrome
+10:30:48:  我的薪酬 - Google Chrome
+10:32:03:  我的信息 - Google Chrome
+10:32:13:  新标签页 - Google Chrome
+10:32:18:  3232.py - trunk - Visual Studio Code [管理员]
+10:32:58:  ● 3232.py - trunk - Visual Studio Code [管理员]
+10:33:03:  本地磁盘 (E:)
+10:33:08:  Python 3.7.3 Shell
+10:33:18:  3232.py - E:\3232.py (3.7.3)
+10:33:23:  3232.py - trunk - Visual Studio Code [管理员]
+10:34:33:  ● 3232.py - trunk - Visual Studio Code [管理员]
+10:34:38:  3232.py - E:\3232.py (3.7.3)
+10:34:43:  Python 3.7.3 Shell
+10:34:48:  3232.py - trunk - Visual Studio Code [管理员]
+10:34:53:  *Python 3.7.3 Shell*
+10:34:58:  Python 3.7.3 Shell
+10:35:08:  3232.py - trunk - Visual Studio Code [管理员]
+10:35:23:  *Python 3.7.3 Shell*
+10:35:28:  Python 3.7.3 Shell
+10:35:38:  3232.py - trunk - Visual Studio Code [管理员]
+10:35:48:  新标签页 - Google Chrome
+10:35:53:  员工自助 - Google Chrome
+10:38:48:  考勤匹配查询 - Google Chrome
+10:38:53:  考勤异常 - Google Chrome
+10:39:13:  员工自助 - Google Chrome
+10:39:53:  考勤异常 - Google Chrome
+10:39:58:  新标签页 - Google Chrome
+10:40:03:  员工自助 - Google Chrome
+10:40:08:  锁屏状态
+10:40:13:  新标签页 - Google Chrome
+10:40:18:  Oracle | PeopleSoft Enterprise 登录 - Google Chrome
+10:40:48:  员工自助 - Google Chrome
+10:41:58:  3232.py - trunk - Visual Studio Code [管理员]
+10:44:48:  PaperManage.c - trunk - Visual Studio Code [管理员]
+10:44:48:  PaperManage.c - trunk - Visual Studio Code [管理员]
+10:47:33:  新标签页 - Google Chrome
+10:47:38:  员工自助 - Google Chrome
+10:48:13:  我的薪酬 - Google Chrome
+10:48:58:  本地磁盘 (E:)
+10:49:03:  3232.py - E:\3232.py (3.7.3)
+10:49:18:  *Python 3.7.3 Shell*
+10:49:23:  Python 3.7.3 Shell
+10:49:58:  3232.py - E:\3232.py (3.7.3)
+10:50:28:  Oracle | PeopleSoft Enterprise 登录 - Google Chrome
+10:50:33:  我的薪酬 - Google Chrome
+10:52:43:  3232.py - trunk - Visual Studio Code [管理员]
+10:53:28:  本地磁盘 (E:)
+10:53:33:  *Python 3.7.3 Shell*
+10:53:38:  Python 3.7.3 Shell
+10:54:13:  新标签页 - Google Chrome
+10:54:18:  3232.py - trunk - Visual Studio Code [管理员]
+10:54:23:  Oracle | PeopleSoft Enterprise 登录 - Google Chrome
+10:54:28:  我的薪酬 - Google Chrome
+10:55:58:  3232.py - trunk - Visual Studio Code [管理员]
+10:56:08:  ● 3232.py - trunk - Visual Studio Code [管理员]
+10:56:18:  *Python 3.7.3 Shell*
+10:56:23:  Search Dialog
+10:56:33:  3232.py - trunk - Visual Studio Code [管理员]
+10:56:58:  锁屏状态
+10:57:08:  跳转列表
+10:57:13:  Windows 任务管理器
+10:57:23:  锁屏状态
+10:57:33:  Windows 任务管理器
+10:57:38:  3232.py - trunk - Visual Studio Code [管理员]
+10:57:43:  PaperManage.c - trunk - Visual Studio Code [管理员]
+10:57:48:  Windows 任务管理器
+10:58:19:  launch.json - trunk - Visual Studio Code [管理员]
+10:58:24:  Windows 任务管理器
+10:58:44:  Visual Studio Code
+10:58:49:  launch.json - trunk - Visual Studio Code [管理员]
+10:58:54:  PaperManage.c - trunk - Visual Studio Code [管理员]
+10:58:59:  新标签页 - Google Chrome
+10:59:09:  Oracle | PeopleSoft Enterprise 登录 - Google Chrome
+10:59:19:  员工自助 - Google Chrome
+10:59:59:  本地磁盘 (E:)
+11:00:04:  3232.py - trunk - Visual Studio Code [管理员]
+10:58:19:  launch.json - trunk - Visual Studio Code [管理员]
+10:58:24:  Windows 任务管理器
+10:58:44:  Visual Studio Code
+10:58:49:  launch.json - trunk - Visual Studio Code [管理员]
+10:58:54:  PaperManage.c - trunk - Visual Studio Code [管理员]
+10:58:59:  新标签页 - Google Chrome
+10:59:09:  Oracle | PeopleSoft Enterprise 登录 - Google Chrome
+10:59:19:  员工自助 - Google Chrome
+10:59:59:  本地磁盘 (E:)
+11:00:04:  3232.py - trunk - Visual Studio Code [管理员]
+11:00:09:  ● 3232.py - trunk - Visual Studio Code [管理员]
+11:00:14:  3232.py - trunk - Visual Studio Code [管理员]
+11:00:19:  员工自助 - Google Chrome
+11:03:29:  3232.py - trunk - Visual Studio Code [管理员]
+11:03:39:  本地磁盘 (E:)
+11:03:44:  *Python 3.7.3 Shell*
+11:03:54:  Python 3.7.3 Shell
+11:03:59:  3232.py - trunk - Visual Studio Code [管理员]
+11:04:04:  3232.py - E:\3232.py (3.7.3)
+11:04:09:  Python 3.7.3 Shell
+11:04:24:  3232.py - E:\3232.py (3.7.3)
+11:04:29:  员工自助 - Google Chrome
+11:04:39:  3232.py - trunk - Visual Studio Code [管理员]
+11:04:44:  *Python 3.7.3 Shell*
+11:04:49:  Python 3.7.3 Shell
+11:04:59:  3232.py - E:\3232.py (3.7.3)
+11:05:04:  锁屏状态
+11:05:09:  员工自助 - Google Chrome
+11:05:34:  3232.py - trunk - Visual Studio Code [管理员]
+11:05:39:  员工自助 - Google Chrome
+11:05:49:  ● 3232.py - trunk - Visual Studio Code [管理员]
+11:05:59:  Python 3.7.3 Shell
+11:06:14:  员工自助 - Google Chrome
+11:07:39:  PaperManage.c - trunk - Visual Studio Code [管理员]
+11:12:14:  eSpace
+11:12:49:  PaperManage.c - trunk - Visual Studio Code [管理员]
+11:13:34:  新标签页 - Google Chrome
+11:13:59:  指令集
+11:14:04:  Excel
+11:14:09:  20200708_CRS内部指令手册_V0.1.xlsx  [受保护的视图] - Excel
+11:14:19:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:14:39:  PaperManage.c - trunk - Visual Studio Code [管理员]
+11:14:44:  打开文件夹
+11:14:49:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+11:15:04:  InstrExe.h - CRS - Visual Studio Code [管理员]
+11:14:09:  20200708_CRS内部指令手册_V0.1.xlsx  [受保护的视图] - Excel
+11:14:19:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:14:39:  PaperManage.c - trunk - Visual Studio Code [管理员]
+11:14:44:  打开文件夹
+11:14:49:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+11:15:04:  InstrExe.h - CRS - Visual Studio Code [管理员]
+11:15:09:  InstrExe.c - CRS - Visual Studio Code [管理员]
+11:15:24:  InstrExp.c - CRS - Visual Studio Code [管理员]
+11:15:44:  InstrExe.c - CRS - Visual Studio Code [管理员]
+11:15:54:  锁屏状态
+11:15:59:  InstrExe.c - CRS - Visual Studio Code [管理员]
+11:16:04:  SeparatorCtrl.h - CRS - Visual Studio Code [管理员]
+11:16:14:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:16:19:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:17:19:  InstrExe.c - CRS - Visual Studio Code [管理员]
+11:17:29:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:17:44:  InstrExe.c - CRS - Visual Studio Code [管理员]
+11:17:49:  InstrExp.c - CRS - Visual Studio Code [管理员]
+11:17:59:  InstrExp.h - CRS - Visual Studio Code [管理员]
+11:18:04:  InstrExp.c - CRS - Visual Studio Code [管理员]
+11:18:09:  InstrExp.h - CRS - Visual Studio Code [管理员]
+11:18:19:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:18:24:  InstrExp.c - CRS - Visual Studio Code [管理员]
+11:18:29:  InstrExe.c - CRS - Visual Studio Code [管理员]
+11:21:54:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+11:22:09:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:22:24:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+11:22:29:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:22:44:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+11:22:54:  SeparatorCtrl.h - CRS - Visual Studio Code [管理员]
+11:22:59:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:23:39:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+11:23:44:  InstrExe.c - CRS - Visual Studio Code [管理员]
+11:24:04:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+11:24:29:  SeparatorCtrl.h - CRS - Visual Studio Code [管理员]
+11:24:44:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:26:29:  SeparatorCtrl.h - CRS - Visual Studio Code [管理员]
+11:26:34:  InstrExe.c - CRS - Visual Studio Code [管理员]
+11:27:19:  LifterCtrl.c - CRS - Visual Studio Code [管理员]
+11:27:24:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+11:27:34:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:27:54:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+11:28:04:  ImpellerCtrl.h - CRS - Visual Studio Code [管理员]
+11:28:14:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:28:14:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:30:54:  20180613 TCR内部指令手册_V001.xlsx - Excel
+11:30:59:  日积月累
+11:31:04:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+11:32:09:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:32:14:  锁屏状态
+11:32:19:  ImpellerCtrl.h - CRS - Visual Studio Code [管理员]
+11:32:29:  SeparatorCtrl.h - CRS - Visual Studio Code [管理员]
+11:32:54:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+11:33:29:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:33:34:  SeparatorCtrl.c - CRS - Visual Studio Code [管理员]
+11:34:04:  SeparatorCtrl.h - CRS - Visual Studio Code [管理员]
+11:34:34:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:35:04:  SeparatorCtrl.h - CRS - Visual Studio Code [管理员]
+11:35:09:  ImpellerCtrl.h - CRS - Visual Studio Code [管理员]
+11:35:24:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+11:36:59:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:37:44:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+11:37:59:  ImpellerCtrl.h - CRS - Visual Studio Code [管理员]
+11:38:04:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:38:54:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+11:39:14:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:40:54:  ImpellerCtrl.c - CRS - Visual Studio Code [管理员]
+11:41:04:  Component.h - CRS - Visual Studio Code [管理员]
+11:41:19:  20200708_CRS内部指令手册_V0.1.xlsx - Excel
+11:44:34:  Component.h - CRS - Visual Studio Code [管理员]
+11:44:49:  打开文件夹
+11:44:54:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+11:45:04:  计算机
+11:44:34:  Component.h - CRS - Visual Studio Code [管理员]
+11:44:49:  打开文件夹
+11:44:54:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+11:45:04:  计算机
+11:45:14:  Internet Explorer
+11:45:19:  主页 - Internet Explorer
+11:45:24:  新北洋OA信息化平台 - Internet Explorer
+11:45:34:  Excel
+11:45:39:  2020年新北洋张村食堂7.6-7.12日菜谱.xlsx  [受保护的视图] - Excel
+11:45:49:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:06:30:  Excel 帮助
+13:11:25:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:15:30:  新北洋OA信息化平台 - Internet Explorer
+13:15:45:  20180613 TCR内部指令手册_V001.xlsx - Excel
+13:16:15:  新标签页 - Google Chrome
+13:16:20:  百度一下，你就知道 - Google Chrome
+13:16:35:  Excel 帮助
+13:16:40:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+13:17:05:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+13:17:10:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+13:17:30:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+13:18:05:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+13:18:10:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+13:22:05:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+13:25:10:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+13:30:41:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+13:48:21:  桌面整理
+13:49:21:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+13:50:41:  新标签页 - Google Chrome
+13:50:51:  本地磁盘 (D:)
+13:50:56:  Subversion
+13:51:26:  《毛泽东选集》湖南农民运动考察报告,毛泽东.html - DRB-PRESS - Visual Studio Code [管理员]
+13:52:21:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+13:52:31:  桌面整理
+13:52:36:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+14:05:26:  EXTFEDU6V12.PDF
+14:05:41:  EXTFEDU6V12.PDF - Adobe Reader
+14:06:56:  Windows Installer
+14:07:01:  5.12 直流电机测试.pptx - PowerPoint
+14:07:11:  EXTFEDU6V12.PDF - Adobe Reader
+14:08:36:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+14:08:51:  桌面整理
+14:08:56:  DRB传感器.txt - 记事本
+14:09:11:  EXTFEDU6V12.PDF - Adobe Reader
+14:09:26:  Adobe Reader
+14:09:31:  EXTFEDU6V12.PDF - Adobe Reader
+14:15:56:  新北洋OA信息化平台 - Internet Explorer
+14:16:01:  2020年新北洋张村食堂7.6-7.12日菜谱.xlsx  [受保护的视图] - Excel
+14:16:11:  20180613 TCR内部指令手册_V001.xlsx - Excel
+14:17:21:  EXTFEDU6V12.PDF - Adobe Reader
+14:18:16:  5.12 直流电机测试.pptx - PowerPoint
+14:18:21:  锁屏状态
+14:18:26:  EXTFEDU6V12.PDF - Adobe Reader
+14:18:31:  5.12 直流电机测试.pptx - PowerPoint
+14:19:01:  EXTFEDU6V12.PDF - Adobe Reader
+14:19:11:  DRB传感器.txt - 记事本
+14:20:36:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:20:41:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:20:51:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:21:01:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:21:21:  D:\00-06\DRB-PRESS\Middlewares\Bldc\Bldc.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:21:31:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:21:36:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:22:11:  D:\00-06\DRB-PRESS\Applications\Separate\Separate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:22:16:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:22:41:  5.12 直流电机测试.pptx - PowerPoint
+14:22:56:  EXTFEDU6V12.PDF - Adobe Reader
+14:29:06:  5.12 直流电机测试.pptx - PowerPoint
+14:29:11:  EXTFEDU6V12.PDF - Adobe Reader
+14:29:06:  5.12 直流电机测试.pptx - PowerPoint
+14:29:11:  EXTFEDU6V12.PDF - Adobe Reader
+14:32:26:  5.12 直流电机测试.pptx - PowerPoint
+14:32:31:  EXTFEDU6V12.PDF - Adobe Reader
+14:36:26:  Subversion
+14:43:26:  6月出差统计   紧急！重要！
+14:45:36:  Subversion
+14:46:36:  6月出差统计   紧急！重要！
+14:46:46:  EXTFEDU6V12.PDF
+14:46:51:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+14:48:06:  EXTFEDU6V12.PDF - Adobe Reader
+14:48:31:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+14:48:36:  EXTFEDU6V12.PDF - Adobe Reader
+14:48:41:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+14:50:01:  5.12 直流电机测试.pptx - PowerPoint
+14:50:21:  EXTFEDU6V12.PDF - Adobe Reader
+14:51:41:  固件集成测试方案
+14:51:46:  Excel
+14:51:56:  锁屏状态
+14:52:06:  5.6 步进电机测试V1.1.xls  [受保护的视图] - Excel
+14:52:31:  钞箱1T2集成测试方案
+14:52:36:  5.6 步进电机测试.pptx [受保护的视图] - PowerPoint
+14:52:51:  D:\00-06\DRB-PRESS\Applications\MotorCtrl\MotorCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:52:56:  D:\00-06\DRB-PRESS\Applications\PlateCtrl\LowerPlateCtrl.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:53:01:  D:\00-06\DRB-PRESS\Middlewares\Plate\PlateCommon.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:53:11:  EXTFEDU6V12.PDF - Adobe Reader
+15:07:46:  「开始」菜单
+15:07:56:  EXTFEDU6V12.PDF - Adobe Reader
+15:12:11:  5.6 步进电机测试.pptx [受保护的视图] - PowerPoint
+15:12:16:  EXTFEDU6V12.PDF - Adobe Reader
+15:24:07:  5.6 步进电机测试.pptx [受保护的视图] - PowerPoint
+15:25:57:  EXTFEDU6V12.PDF - Adobe Reader
+15:33:12:  吉哲
+15:33:27:  新北洋OA信息化平台 - Internet Explorer
+15:33:32:  2020年新北洋张村食堂7.6-7.12日菜谱.xlsx  [受保护的视图] - Excel
+15:33:47:  吉哲
+15:36:17:  新建Microsoft Excel 工作表 (2).xlsx - Excel
+15:36:27:  新北洋OA信息化平台 - Internet Explorer
+15:36:32:  5.6 步进电机测试.pptx [受保护的视图] - PowerPoint
+15:38:22:  吉哲
+15:38:37:  5.6 步进电机测试.pptx [受保护的视图] - PowerPoint
+15:38:42:  EXTFEDU6V12.PDF - Adobe Reader
+15:38:52:  5.6 步进电机测试.pptx [受保护的视图] - PowerPoint
+15:41:07:  锁屏状态
+15:41:12:  钞箱1T2集成测试方案
+15:41:17:  百度一下，你就知道 - Google Chrome
+15:41:22:  支付宝 知托付！ - Google Chrome
+15:41:42:  我的支付宝 － 支付宝 - Google Chrome
+15:41:47:  我的账单 - 支付宝 - Google Chrome
+15:42:12:  Subversion
+15:42:17:  alipay_record_20200710_1542_1.csv - Excel
+15:43:12:  跳转列表
+15:43:17:  BTCRTestTool V3.36
+15:43:22:  BTCRTestTool V3.36 (未响应)
+15:43:32:  alipay_record_20200710_1542_1.csv - Excel
+15:44:32:  TCRControlCmdDLL
+15:44:47:  20200704
+15:44:52:  20200706
+15:45:02:  20200703
+15:44:32:  TCRControlCmdDLL
+15:44:47:  20200704
+15:44:52:  20200706
+15:45:02:  20200703
+15:45:32:  压缩文件名和参数
+15:45:42:  TCRControlCmdDLL
+15:45:47:  压缩文件名和参数
+15:45:57:  20200704
+15:46:02:  周天 - 写邮件
+15:46:17:  发送邮件
+15:46:22:  Foxmail
+15:46:32:  周天 - 写邮件
+15:46:47:  20200703
+15:46:52:  周六 - 写邮件
+15:47:02:  BTCRTestTool 属性
+15:47:07:  5.6 步进电机测试.pptx [受保护的视图] - PowerPoint
+15:47:12:  桌面整理
+15:47:17:  MindMaster
+15:47:22:  MindMaster Pro
+15:48:32:  alipay_record_20200710_1542_1.csv - Excel
+15:50:57:  MindMaster Pro
+15:51:27:  alipay_record_20200710_1542_1.csv - Excel
+15:51:32:  MindMaster Pro
+15:51:42:  EXTFEDU6V12.PDF
+15:51:47:  alipay_record_20200710_1542_1.csv - Excel
+15:51:52:  MindMaster Pro
+15:51:57:  alipay_record_20200710_1542_1.csv - Excel
+15:52:02:  MindMaster Pro
+15:52:32:  alipay_record_20200710_1542_1.csv - Excel
+15:52:37:  锁屏状态
+15:52:42:  MindMaster Pro
+15:52:47:  alipay_record_20200710_1542_1.csv - Excel
+15:52:57:  MindMaster Pro
+15:53:12:  alipay_record_20200710_1542_1.csv - Excel
+15:53:17:  MindMaster Pro
+15:53:22:  计算器
+15:53:57:  MindMaster Pro
+15:54:02:  计算器
+15:54:27:  MindMaster Pro
+15:54:32:  计算器
+15:54:47:  MindMaster Pro
+15:54:52:  计算器
+15:55:02:  MindMaster Pro
+15:55:07:  计算器
+15:55:32:  MindMaster Pro
+15:55:42:  计算器
+15:56:07:  MindMaster Pro
+15:57:37:  计算器
+15:58:17:  MindMaster Pro
+15:58:57:  TCR调测工具 V3.36
+15:58:17:  MindMaster Pro
+15:58:57:  TCR调测工具 V3.36
+16:00:07:  钞箱配置
+16:00:12:  TCR调测工具 V3.36
+16:00:22:  打开
+16:00:32:  TCR调测工具 V3.36
+16:00:37:  BTCRTestTool
+16:00:42:  TCR调测工具 V3.36
+16:03:42:  取款
+16:03:47:  TCR调测工具 V3.36
+16:11:02:  取款
+16:11:07:  TCR调测工具 V3.36
+16:14:42:  取款
+16:14:47:  可接收
+16:14:52:  TCR调测工具 V3.36
+16:14:42:  取款
+16:14:47:  可接收
+16:14:52:  TCR调测工具 V3.36
+16:20:22:  alipay_record_20200710_1542_1.csv - Excel
+16:21:27:  计算器
+16:21:42:  MindMaster
+16:21:47:  MindMaster Pro
+16:22:02:  计算器
+16:24:57:  alipay_record_20200710_1542_1.csv - Excel
+16:25:02:  MindMaster.exe
+16:25:22:  alipay_record_20200710_1542_1.csv - Excel
+16:25:32:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:26:17:  桌面整理
+16:26:22:  MindMaster Pro
+16:26:42:  alipay_record_20200710_1542_1.csv - Excel
+16:27:57:  桌面整理
+16:28:02:  MindMaster Pro
+16:28:12:  计算器
+16:28:42:  MindMaster Pro
+16:28:47:  固件设计中心
+16:28:57:  跳转列表
+16:29:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:29:07:  新建Microsoft Excel 工作表 (2).xlsx - Excel
+16:28:12:  计算器
+16:28:42:  MindMaster Pro
+16:28:47:  固件设计中心
+16:28:57:  跳转列表
+16:29:02:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:29:07:  新建Microsoft Excel 工作表 (2).xlsx - Excel
+16:30:32:  计算器
+16:32:02:  固件设计中心
+16:32:07:  EXTFEDU6V12.PDF - Adobe Reader
+16:32:12:  Subversion
+16:32:17:  本地磁盘 (D:)
+16:32:22:  新北洋OA信息化平台 - Internet Explorer
+16:32:37:  EXTFEDU6V12.PDF - Adobe Reader
+16:32:42:  5.6 步进电机测试.pptx [受保护的视图] - PowerPoint
+16:35:07:  新标签页 - Google Chrome
+16:35:12:  登录页面 - 数据抓取工具 - Google Chrome
+16:35:17:  数据抓取工具 - Google Chrome
+16:35:27:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:35:32:  数据抓取工具 - Google Chrome
+16:35:47:  个人周报-张开发 (41).xlsx  [受保护的视图] - Excel
+16:36:02:  个人周报-张开发 (41).xlsx - Excel
+16:38:12:  数据抓取工具 - Google Chrome
+16:38:17:  打开
+16:38:22:  数据抓取工具 - Google Chrome
+16:38:32:  「开始」菜单
+16:38:47:  计算机管理
+16:39:07:  创建任务
+16:39:17:  创建任务 (未响应)
+16:39:22:  创建任务
+16:40:17:  新建触发器
+16:40:22:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:49:43:  TCR调测工具 V3.36
+16:49:48:  新标签页 - Google Chrome
+16:50:13:  数据抓取工具 - Google Chrome
+16:51:03:  新标签页 - Google Chrome
+16:51:08:  数据抓取工具 - Google Chrome
+16:51:33:  新标签页 - Google Chrome
+16:51:38:  登录页面 - 数据抓取工具 - Google Chrome
+16:52:18:  数据抓取工具 - Google Chrome
+16:52:28:  登录页面 - 数据抓取工具 - Google Chrome
+16:52:33:  新标签页 - Google Chrome
+16:52:38:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:52:43:  本地磁盘 (E:)
+16:52:53:  3232.py - DRB-PRESS - Visual Studio Code [管理员]
+16:53:13:  ● 3232.py - DRB-PRESS - Visual Studio Code [管理员]
+16:53:18:  本地磁盘 (E:)
+16:53:28:  Python 3.7.3 Shell
+16:53:38:  *3232.py - E:\3232.py (3.7.3)*
+16:53:48:  Python 3.7.3 Shell
+16:54:08:  Search Dialog
+16:54:18:  3232.py - E:\3232.py (3.7.3)
+16:54:28:  数据抓取工具 - Google Chrome
+16:54:38:  3232.py - E:\3232.py (3.7.3)
+16:54:48:  Python 3.7.3 Shell
+16:54:53:  *3232.py - E:\3232.py (3.7.3)*
+16:55:03:  登录页面 - 数据抓取工具 - Google Chrome
+16:55:08:  数据抓取工具 - Google Chrome
+16:55:23:  *3232.py - E:\3232.py (3.7.3)*
+16:55:28:  3232.py - E:\3232.py (3.7.3)
+16:55:33:  *3232.py - E:\3232.py (3.7.3)*
+16:55:38:  3232.py - E:\3232.py (3.7.3)
+16:55:43:  *Python 3.7.3 Shell*
+16:55:48:  3232.py - E:\3232.py (3.7.3)
+16:56:08:  Python 3.7.3 Shell
+16:56:18:  锁屏状态
+16:56:23:  数据抓取工具 - Google Chrome
+16:56:38:  3232.py - E:\3232.py (3.7.3)
+16:56:43:  Python 3.7.3 Shell
+16:56:48:  数据抓取工具 - Google Chrome
+16:57:13:  新标签页 - Google Chrome
+16:57:18:  登录页面 - 数据抓取工具 - Google Chrome
+16:57:23:  数据抓取工具 - Google Chrome
+16:58:13:  Apache Tomcat/7.0.81 - Error report - Google Chrome
+16:58:18:  数据抓取工具 - Google Chrome
+16:58:28:  3232.py - E:\3232.py (3.7.3)
+16:58:33:  数据抓取工具 - Google Chrome
+16:58:13:  Apache Tomcat/7.0.81 - Error report - Google Chrome
+16:58:18:  数据抓取工具 - Google Chrome
+16:58:28:  3232.py - E:\3232.py (3.7.3)
+16:58:33:  数据抓取工具 - Google Chrome
+17:01:33:  *3232.py - E:\3232.py (3.7.3)*
+17:01:38:  Python 3.7.3 Shell
+17:02:03:  数据抓取工具 - Google Chrome
+17:02:13:  Search Dialog
+17:02:18:  Python 3.7.3 Shell
+17:02:23:  数据抓取工具 - Google Chrome
+17:02:48:  Python 3.7.3 Shell
+17:02:53:  数据抓取工具 - Google Chrome
+17:03:03:  Python 3.7.3 Shell
+17:03:08:  Save Before Run or Check
+17:03:13:  3232.py - E:\3232.py (3.7.3)
+17:03:18:  数据抓取工具 - Google Chrome
+17:03:23:  Python 3.7.3 Shell
+17:03:28:  数据抓取工具 - Google Chrome
+17:03:38:  *3232.py - E:\3232.py (3.7.3)*
+17:04:03:  Save Before Run or Check
+17:04:08:  3232.py - E:\3232.py (3.7.3)
+17:04:28:  数据抓取工具 - Google Chrome
+17:06:33:  3232.py - E:\3232.py (3.7.3)
+17:06:38:  Python 3.7.3 Shell
+17:06:43:  数据抓取工具 - Google Chrome
+17:06:48:  Python 3.7.3 Shell
+17:07:03:  数据抓取工具 - Google Chrome
+17:08:23:  新标签页 - Google Chrome
+17:08:38:  www.baidu.com - Google Chrome
+17:08:48:  自动播放
+17:08:58:  www.baidu.com - Google Chrome
+17:09:28:  百度一下，你就知道 - Google Chrome
+17:09:33:  独孤乐天_百度搜索 - Google Chrome
+17:09:43:  https://www.baidu.com/link?url=GnzL4myrhoS0w41Adzyv_2TYvW-UvOZI3qR-7ftKqF8GRMaSObCo7EnvLDPDY24S&wd=&eqid=dc5e23a900012d26000000025f08304c - Google Chrome
+17:09:48:  独孤乐天 - Google Chrome
+17:10:38:  「开始」菜单
+17:10:43:  计算器
+17:10:53:  独孤乐天 - Google Chrome
+17:11:23:  本地磁盘 (E:)
+17:11:28:  新标签页 - Google Chrome
+17:11:33:  github_百度搜索 - Google Chrome
+17:11:38:  https://www.baidu.com/link?url=MWsBZ-NJyM6A_2nn43WyR7gFB_njglgB-TaxncGN1iy&wd=&eqid=ef541bd50000c852000000025f0830c4 - Google Chrome
+17:11:58:  github_百度搜索 - Google Chrome
+17:12:03:  GitHub首页、文档和下载 - 代码托管服务平台 - OSCHINA - Google Chrome
+17:12:08:  https://www.baidu.com/link?url=kzGN9LGUl1rvREeeB_6o2fad8UbO24wpV1QLIrorQKm&ck=3946.3.86.333.169.338.283.589&shh=www.baidu.com&sht=baiduhome_pg&wd=&eqid=ff517bde00013e85000000025f0830dd - Google Chrome
+17:12:23:  3232.py - DRB-PRESS - Visual Studio Code [管理员]
+17:12:33:  扩展: Settings Sync - DRB-PRESS - Visual Studio Code [管理员]
+17:12:48:  GitHub - Google Chrome
+17:12:53:  Search · lanlern - Google Chrome
+17:13:03:  Search · lantern - Google Chrome
+17:13:08:  getlantern/lantern: Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator - Google Chrome
+17:13:23:  扩展: Settings Sync - DRB-PRESS - Visual Studio Code [管理员]
+17:13:28:  锁屏状态

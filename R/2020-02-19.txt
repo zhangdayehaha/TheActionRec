@@ -1,0 +1,12 @@
+2020-02-19 08:09:31-- 08:09:44     :    频繁  ：   0共停留 0.0分钟
+2020-02-19 08:09:44-- 08:40:46     :    频繁  ：D:\00-06\Thespace\trunk\Applications\TrackCtrl\TrackCtrl.c (trunk) - Sublime Text (UNREGISTERED)   12共停留 6.0分钟
+2020-02-19 08:40:46-- 09:00:29     :    频繁  ：K64_CSZJ-190300200006_20200219085001.log - [No filter file]* - TextAnalysisTool.NET   9共停留 4.5分钟
+2020-02-19 09:00:29-- 09:35:07     :    频繁  ：D:\00-06\8\branches\BR-1-CashBox1T2\Middlewares\Selector\Selector.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   28共停留 14.0分钟
+2020-02-19 09:35:07-- 10:00:09     :    频繁  ：物料规格书,1720-0000045,驱动芯片AT8812.pdf - Adobe Reader   10共停留 5.0分钟
+2020-02-19 10:00:09-- 10:40:57     :    频繁  ：D:\00-06\1T111\trunk\Applications\MemoryConfig.h (trunk) - Sublime Text (UNREGISTERED)   15共停留 7.5分钟
+2020-02-19 10:40:57-- 11:00:40     :    频繁  ：D:\00-06\1T111\trunk\Applications\State\State.c (trunk) - Sublime Text (UNREGISTERED)   9共停留 4.5分钟
+2020-02-19 11:00:40-- 13:18:28     :    频繁  ：固件设计中心   5共停留 2.5分钟
+2020-02-19 13:18:28-- 13:30:29     :    频繁  ：(33 封私信 / 80 条消息) hiit对心脏 - 搜索结果 - 知乎 - Google Chrome   4共停留 2.0分钟
+2020-02-19 13:30:29-- 14:00:32     :    频繁  ：绘图1.vsd - Microsoft Visio   23共停留 11.5分钟
+2020-02-19 14:00:32-- 14:30:07     :    频繁  ：Microsoft Visio   18共停留 9.0分钟
+2020-02-19 14:30:07-- 15:00:08     :    频繁  ：Microsoft Visio   18共停留 9.0分钟

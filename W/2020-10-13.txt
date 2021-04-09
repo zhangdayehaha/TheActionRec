@@ -1,0 +1,833 @@
+08:02:18:  117.73.253.239 - Google Chrome
+08:03:43:  锁屏状态
+08:03:48:  招标DRB样机（4台）发货测试~2020.10.12
+08:23:03:  iTunes
+08:31:38:  招标DRB样机（4台）发货测试~2020.10.12
+08:31:53:  （上海+邮储）DRB钞箱发货测试
+08:32:03:  缺陷问题
+08:32:18:  ID-5 钞箱上腔存在异常钣金，损伤限位板。
+08:32:23:  IMG_20201005_151805.jpg - Windows 照片查看器
+08:32:28:  缺陷问题
+08:32:33:  IMG_20201005_151646.jpg - Windows 照片查看器
+08:32:38:  缺陷问题
+08:32:48:  ID-10 上腔普通取款报500ms纸币未进入
+08:33:18:  iTunes
+08:33:23:  ID-10 上腔普通取款报500ms纸币未进入
+08:37:38:  K64_0000_20201012141832.log - DRB.tat* - TextAnalysisTool.NET
+08:48:53:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+08:50:08:  00-KE64
+08:50:18:  trunk
+08:50:23:  00-KE64
+08:50:43:  CRS-64
+08:50:48:  D:\00-KE64\CRS-64 - 日志信息 - TortoiseSVN
+08:50:58:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+08:51:08:  D:\00-KE64\CRS-64 - 工作副本 - TortoiseSVN
+08:51:13:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+08:52:53:  回复: 回复: 风险提示：招标用DRB钞箱提供存在延期风险
+08:53:23:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+08:53:28:  密码锁
+08:53:33:  所有笔记本 - 张开发 - 印象笔记
+08:53:58:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+08:55:18:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+08:56:18:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+08:56:23:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+08:56:28:  本地磁盘 (E:)
+08:56:33:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+08:56:38:  44
+08:56:43:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+08:56:48:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+08:57:54:  eSpace
+08:57:59:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+08:58:04:  从控板集成测试方案-报告
+08:58:09:  本地磁盘 (F:)
+08:58:19:  新建文件夹 (2)
+08:58:34:  IMG_2553.JPG - Windows 照片查看器
+08:58:39:  新建文件夹 (2)
+08:58:44:  本地磁盘 (E:)
+08:58:49:  117.73.253.239 - Google Chrome
+08:59:04:  本地磁盘 (E:)
+08:59:14:  TheBo.txt - 记事本
+08:59:24:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+09:00:04:  于斌1
+08:58:09:  本地磁盘 (F:)
+08:58:19:  新建文件夹 (2)
+08:58:34:  IMG_2553.JPG - Windows 照片查看器
+08:58:39:  新建文件夹 (2)
+08:58:44:  本地磁盘 (E:)
+08:58:49:  117.73.253.239 - Google Chrome
+08:59:04:  本地磁盘 (E:)
+08:59:14:  TheBo.txt - 记事本
+08:59:24:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+09:00:04:  于斌1
+09:00:19:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+09:00:34:  eSpace
+09:00:39:  于斌1
+09:00:44:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+09:01:59:  回复: 回复: 风险提示：招标用DRB钞箱提供存在延期风险
+09:02:14:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+09:02:59:  44
+09:03:04:  锁屏状态
+09:03:14:  更新 完成！
+09:03:19:  44
+09:03:24:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:03:39:  Applications
+09:03:44:  FlowControl
+09:03:49:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:03:54:  Applications
+09:03:59:  CashBoxCmd.c - TortoiseMerge
+09:04:09:  CashBoxCmd.h - TortoiseMerge
+09:04:34:  E:\深圳出差\44\Applications - 提交 - TortoiseSVN
+09:04:39:  CashBoxComm.c - TortoiseMerge
+09:04:49:  CashBoxComm.h - TortoiseMerge
+09:04:59:  文件补丁  
+09:05:04:  CSBoardCmd.c - TortoiseMerge
+09:05:14:  E:\深圳出差\44\Applications - 提交 - TortoiseSVN
+09:05:24:  EscBoardCmd.c - TortoiseMerge
+09:05:49:  CSBoardCmd.c - TortoiseMerge
+09:05:54:  E:\深圳出差\44\Applications - 提交 - TortoiseSVN
+09:06:09:  EscBoardCmd.h - TortoiseMerge
+09:06:14:  CashBoxPlateCtrl.c - TortoiseMerge
+09:06:39:  E:\深圳出差\44\Applications - 提交 - TortoiseSVN
+09:06:44:  ComponentCtrl.c - TortoiseMerge
+09:06:49:  ComponentCtrl.h - TortoiseMerge
+09:06:54:  E:\深圳出差\44\Applications - 提交 - TortoiseSVN
+09:06:59:  PageManage.c - TortoiseMerge
+09:07:14:  PageManageIn.c - TortoiseMerge
+09:07:19:  CashBoxModuleApp.c - TortoiseMerge
+09:07:29:  GateModule.h - TortoiseMerge
+09:07:34:  E:\深圳出差\44\Applications - 提交 - TortoiseSVN
+09:07:39:  PageManageIn.c Revision 565 - TortoiseMerge
+09:07:49:  E:\深圳出差\44\Applications - 提交 - TortoiseSVN
+09:07:59:  Applications
+09:08:04:  E:\深圳出差\44\Applications - 日志信息 - TortoiseSVN
+09:08:09:  PageManageIn.c Revision 565 - TortoiseMerge
+09:08:14:  E:\深圳出差\44\Applications\MemoryConfig.h (44) - Sublime Text (UNREGISTERED)
+09:08:19:  E:\深圳出差\44\Applications\FlowControl\PageManage\PageManageIn.c (44) - Sublime Text (UNREGISTERED)
+09:08:34:  锁屏状态
+09:08:39:  PageManageIn.c Revision 565 - TortoiseMerge
+09:08:44:  E:\深圳出差\44\Applications\FlowControl\PageManage\PageManageIn.c (44) - Sublime Text (UNREGISTERED)
+09:08:54:  Applications
+09:08:59:  E:\深圳出差\44\Applications - 提交 - TortoiseSVN
+09:09:09:  TortoiseSVN
+09:09:14:  CashBoxModuleApp.h - TortoiseMerge
+09:09:29:  GateModule.h - TortoiseMerge
+09:09:39:  Applications
+09:10:24:  计算器
+09:10:29:  Applications
+09:13:34:  44
+09:13:39:  深圳出差
+09:13:44:  44
+09:13:49:  E:\深圳出差\44\SystemConfig.h (44) - Sublime Text (UNREGISTERED)
+09:13:54:  44
+09:14:04:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+09:14:14:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+09:14:29:  PageManageIn.c Revision 561 - TortoiseMerge
+09:14:34:  44
+09:14:39:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+09:14:44:  CashPress - TortoiseMerge
+09:14:49:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+09:14:54:  E:\深圳出差\44 - 提交 - TortoiseSVN
+09:15:04:  44
+09:14:14:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+09:14:29:  PageManageIn.c Revision 561 - TortoiseMerge
+09:14:34:  44
+09:14:39:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+09:14:44:  CashPress - TortoiseMerge
+09:14:49:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+09:14:54:  E:\深圳出差\44 - 提交 - TortoiseSVN
+09:15:04:  44
+09:15:09:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+09:15:14:  FlowControl
+09:15:19:  E:\深圳出差\44\Applications\FlowControl - 日志信息 - TortoiseSVN
+09:16:09:  FlowControl
+09:16:14:  Applications
+09:16:19:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+09:16:24:  E:\深圳出差\44 - 提交 - TortoiseSVN
+09:16:39:  FlowControl
+09:16:44:  Applications
+09:16:49:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:19:39:  eSpace
+09:19:44:  程明昌
+09:19:54:  吉哲
+09:19:59:  eSpace
+09:20:04:  于斌1
+09:20:09:  程明昌
+09:20:14:  eSpace
+09:20:19:  吉哲
+09:20:29:  于斌1
+09:20:39:  eSpace
+09:20:44:  于斌1
+09:21:04:  吉哲
+09:21:49:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+09:21:54:  ID-10 上腔普通取款报500ms纸币未进入
+09:22:39:  于斌1
+09:23:44:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+09:26:34:  117.73.253.239 - Google Chrome
+09:26:39:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+09:27:04:  于斌1
+09:27:19:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+09:27:24:  eSpace
+09:27:29:  荆文波
+09:27:39:  于斌1
+09:28:24:  荆文波
+09:28:29:  eSpace
+09:28:39:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+09:29:04:  锁屏状态
+09:29:09:  主页 - Internet Explorer
+09:29:14:  系统登录 - Internet Explorer
+09:29:19:  新北洋OA信息化平台 - Internet Explorer
+09:29:34:  http://oa.byintra.com/iBPM/BPM/DecryptUlt.aspx?Mode=Apply&TASKID=0923149e6214d9a6465dc9f9217262 - Internet Explorer
+09:29:39:  费用报销流程_新北洋 - Internet Explorer
+09:29:54:  计算器
+09:28:24:  荆文波
+09:28:29:  eSpace
+09:28:39:  PaperManage.c - DRB-- - Visual Studio Code [管理员]
+09:29:04:  锁屏状态
+09:29:09:  主页 - Internet Explorer
+09:29:14:  系统登录 - Internet Explorer
+09:29:19:  新北洋OA信息化平台 - Internet Explorer
+09:29:34:  http://oa.byintra.com/iBPM/BPM/DecryptUlt.aspx?Mode=Apply&TASKID=0923149e6214d9a6465dc9f9217262 - Internet Explorer
+09:29:39:  费用报销流程_新北洋 - Internet Explorer
+09:29:54:  计算器
+09:30:34:  新北洋OA信息化平台 - Internet Explorer
+09:30:44:  1_需求申请人_支款申请 - Internet Explorer
+09:30:49:  荆文波
+09:30:54:  新北洋OA信息化平台 - Internet Explorer
+09:31:29:  eSpace
+09:32:44:  117.73.253.239 - Google Chrome
+09:32:49:  eSpace
+09:32:59:  主页 - Internet Explorer
+09:33:04:  系统登录 - Internet Explorer
+09:33:09:  新北洋OA信息化平台 - Internet Explorer
+09:33:14:  考勤异常 - Internet Explorer
+09:33:19:  员工自助 - Internet Explorer
+09:33:24:  我的假期 - Internet Explorer
+09:33:54:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_AM_MENU.C_VACATION_E.GBL?FolderPath=P - Internet Explorer
+09:33:59:  请假查询 - Internet Explorer
+09:34:04:  我的假期 - Internet Explorer
+09:34:09:  员工自助 - Internet Explorer
+09:34:24:  赖伟光
+09:34:34:  员工自助 - Internet Explorer
+09:34:39:  查找
+09:34:44:  赖伟光
+09:35:44:  荆文波
+09:35:49:  赖伟光
+09:36:14:  D:\CRS\KE18-UP\Applications\InstrExp\InstrExp.h (KE18-UP) - Sublime Text (UNREGISTERED)
+09:36:19:  选择文件夹
+09:36:24:  untitled (trunk) - Sublime Text (UNREGISTERED)
+09:36:29:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+09:36:34:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:36:44:  计算器
+09:36:54:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+09:42:50:  荆文波
+09:45:30:  赖伟光
+09:46:10:  DRB传感器.txt - 记事本
+09:46:25:  桌面整理
+09:46:30:  Program Manager
+09:46:35:  未命名 - 写邮件
+09:46:40:  ErrCode_list_txt_flg - 写邮件
+09:46:50:  赖伟光
+09:47:50:  运行
+09:47:55:  主控板集成测试方案-报告
+09:48:00:  TCR
+09:48:05:  错误码
+09:48:10:  赖伟光
+09:48:55:  DRB传感器.txt
+09:49:20:  赖伟光
+09:49:45:  ErrCode_list_txt_flg.txt
+09:49:55:  赖伟光
+09:50:15:  查找
+09:50:20:  赖伟光
+09:52:00:  TCR调测工具（研发版）V1.0.0.4
+09:52:20:  44
+09:52:25:  E:\深圳出差\44\Tools\CreateJK.exe
+09:52:30:  TCR调测工具（研发版）V1.0.0.4
+09:54:00:  钞箱传感器
+09:54:05:  TCR调测工具（研发版）V1.0.0.4
+10:03:55:  跳转列表
+10:04:00:  TCR调测工具（研发版）V1.0.0.4
+10:04:40:  Tools
+10:04:45:  TCR调测工具（研发版）V1.0.0.4
+10:06:00:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+10:06:15:  E:\深圳出差\44\Applications\FlowControl\FlowCtrl.c (44) - Sublime Text (UNREGISTERED)
+10:06:20:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+10:06:45:  BTCRTestTool (2) 属性
+10:06:50:  20201013
+10:06:55:  Decode
+10:07:00:  K64_0000_20201013100544.log - DRB.tat* - TextAnalysisTool.NET
+10:07:30:  20201013
+10:07:35:  K64_0000_20201013100441.log - DRB.tat* - TextAnalysisTool.NET
+10:07:40:  Decode
+10:07:45:  Add Filter
+10:07:55:  查找
+10:08:05:  Add Filter
+10:08:15:  K64_0000_20201013100544.log - DRB.tat* - TextAnalysisTool.NET
+10:08:40:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+10:08:45:  K64_0000_20201013100544.log - DRB.tat* - TextAnalysisTool.NET
+10:08:55:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+10:09:05:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+10:09:10:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+10:09:15:  K64_0000_20201013100544.log - DRB.tat* - TextAnalysisTool.NET
+10:09:40:  E:\深圳出差\44\Applications\Common\AppCommon.h (44) - Sublime Text (UNREGISTERED)
+10:09:45:  E:\深圳出差\44\Rtos\Rtthread\kernel\include\rtdebug.h (44) - Sublime Text (UNREGISTERED)
+10:09:50:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+10:09:55:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+10:10:15:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+10:10:20:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+10:10:30:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+10:10:40:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+10:10:45:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+10:10:55:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+10:11:00:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+10:11:40:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+10:12:10:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+10:12:30:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+10:12:35:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+10:12:40:  E:\深圳出差\44\Applications\Common\AppCommon.h (44) - Sublime Text (UNREGISTERED)
+10:13:05:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+10:13:10:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+10:13:25:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+10:13:30:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+10:13:40:  E:\深圳出差\44\Applications\Common\AppCommon.h (44) - Sublime Text (UNREGISTERED)
+10:13:55:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+10:14:10:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (44) - Sublime Text (UNREGISTERED)
+10:14:25:  E:\深圳出差\44\Applications\Common\AppCommon.h (44) - Sublime Text (UNREGISTERED)
+10:14:35:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (44) - Sublime Text (UNREGISTERED)
+10:14:45:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+10:14:50:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+10:14:10:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (44) - Sublime Text (UNREGISTERED)
+10:14:25:  E:\深圳出差\44\Applications\Common\AppCommon.h (44) - Sublime Text (UNREGISTERED)
+10:14:35:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (44) - Sublime Text (UNREGISTERED)
+10:14:45:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+10:14:50:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+10:15:05:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+10:15:15:  本地磁盘 (D:)
+10:15:20:  Tools
+10:15:30:  TCR调测工具（研发版）V1.0.0.4
+10:17:10:  本地磁盘 (D:)
+10:17:15:  Decode
+10:17:20:  K64_0000_20201013101700.log - DRB.tat* - TextAnalysisTool.NET
+10:17:35:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+10:17:45:  E:\深圳出差\44\Applications\Common\AppCommon.h (44) - Sublime Text (UNREGISTERED)
+10:17:55:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+10:18:05:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+10:18:10:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+10:18:20:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+10:18:25:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+10:18:40:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+10:18:50:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+10:18:55:  E:\深圳出差\44\Applications\Common\AppCommon.h (44) - Sublime Text (UNREGISTERED)
+10:19:10:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+10:19:15:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (44) - Sublime Text (UNREGISTERED)
+10:19:30:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+10:19:35:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+10:19:40:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+10:19:45:  Find In Files
+10:19:50:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+10:20:40:  本地磁盘 (D:)
+10:20:45:  深圳出差
+10:20:50:  E:\深圳出差\44\Tools\CreateJK.exe
+10:20:55:  打开
+10:21:00:  TCR调测工具（研发版）V1.0.0.4
+10:22:00:  BTCRTestTool (2) 属性
+10:22:05:  TCRControlCmdDLL
+10:22:10:  20201013
+10:22:20:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:22:25:  K64_0000_20201013102132
+10:22:30:  Box_5__0000_20201013102132.log - DRB.tat* - TextAnalysisTool.NET
+10:22:35:  K64_0000_20201013102132
+10:22:40:  跳转列表
+10:22:45:  TCR调测工具（研发版）V1.0.0.4
+10:23:00:  通道电机测试
+10:23:15:  TCR调测工具（研发版）V1.0.0.4
+10:24:00:  20201013
+10:24:05:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:24:15:  K64_0000_20201013102132
+10:24:20:  Box_5__0000_20201013102132.log - DRB.tat* - TextAnalysisTool.NET
+10:24:35:  TCR调测工具（研发版）V1.0.0.4
+10:27:00:  发送指令到K06
+10:27:15:  TCR调测工具（研发版）V1.0.0.4
+10:28:35:  跳转列表
+10:28:40:  20201013
+10:28:45:  LOG
+10:28:55:  锁屏状态
+10:29:00:  Box_5__0000_20201013102752.log - DRB.tat* - TextAnalysisTool.NET
+10:29:35:  K64_0000_20201013102752
+10:29:40:  K64-_0000_20201013102752.log - DRB.tat* - TextAnalysisTool.NET
+10:28:35:  跳转列表
+10:28:40:  20201013
+10:28:45:  LOG
+10:28:55:  锁屏状态
+10:29:00:  Box_5__0000_20201013102752.log - DRB.tat* - TextAnalysisTool.NET
+10:29:35:  K64_0000_20201013102752
+10:29:40:  K64-_0000_20201013102752.log - DRB.tat* - TextAnalysisTool.NET
+10:30:30:  Add Filter
+10:30:35:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+10:30:50:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+10:31:15:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (44) - Sublime Text (UNREGISTERED)
+10:31:25:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+10:31:50:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+10:32:00:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (44) - Sublime Text (UNREGISTERED)
+10:32:05:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+10:32:25:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (44) - Sublime Text (UNREGISTERED)
+10:32:30:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (44) - Sublime Text (UNREGISTERED)
+10:32:50:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (44) - Sublime Text (UNREGISTERED)
+10:32:55:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+10:33:45:  Tools
+10:33:50:  E:\深圳出差\44\Tools\CreateJK.exe
+10:34:05:  TCR调测工具（研发版）V1.0.0.4
+10:34:10:  打开
+10:34:15:  TCR调测工具（研发版）V1.0.0.4
+10:36:15:  Decode
+10:36:20:  LOG
+10:36:25:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:36:30:  K64_0000_20201013103522
+10:36:35:  Box_5__0000_20201013103522.log - DRB.tat* - TextAnalysisTool.NET
+10:37:10:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+10:37:20:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (44) - Sublime Text (UNREGISTERED)
+10:37:25:  E:\深圳出差\44\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (44) - Sublime Text (UNREGISTERED)
+10:37:30:  Box_5__0000_20201013103522.log - DRB.tat* - TextAnalysisTool.NET
+10:37:40:  K64-_0000_20201013103522.log - DRB.tat* - TextAnalysisTool.NET
+10:38:15:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+10:38:45:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (44) - Sublime Text (UNREGISTERED)
+10:39:00:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+10:39:05:  选择文件夹
+10:39:20:  untitled (trunk) - Sublime Text (UNREGISTERED)
+10:39:25:  D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:39:40:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+10:39:50:  D:\00-KE64\trunk\Applications\FlowControl\CashPress\PressModuleIF.c (trunk) - Sublime Text (UNREGISTERED)
+10:40:00:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:40:05:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+10:40:10:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:40:20:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+10:40:30:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h • (trunk) - Sublime Text (UNREGISTERED)
+10:41:05:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+10:41:10:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h • (trunk) - Sublime Text (UNREGISTERED)
+10:41:15:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+10:41:25:  This is an unregistered copy
+10:41:30:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+10:41:45:  Tools
+10:41:50:  E:\深圳出差\44\Tools\CreateJK.exe
+10:41:55:  Tools
+10:42:15:  打开
+10:42:20:  TCR调测工具（研发版）V1.0.0.4
+10:44:50:  44
+10:45:00:  CashBoxCmd.c - TortoiseMerge
+10:44:50:  44
+10:45:00:  CashBoxCmd.c - TortoiseMerge
+10:45:05:  CashBoxCmd.h - TortoiseMerge
+10:45:35:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+10:45:40:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (44) - Sublime Text (UNREGISTERED)
+10:45:50:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h • (44) - Sublime Text (UNREGISTERED)
+10:45:55:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (44) - Sublime Text (UNREGISTERED)
+10:46:00:  CashBoxCmd.h - TortoiseMerge
+10:46:15:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+10:46:25:  CSBoardCmd.h - TortoiseMerge
+10:46:30:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+10:46:35:  CashBoxPlateCtrl.c - TortoiseMerge
+10:46:40:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+10:46:45:  ComponentCtrl.h - TortoiseMerge
+10:46:50:  CashBoxModuleApp.c - TortoiseMerge
+10:47:35:  程明昌
+10:48:15:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+10:48:25:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:48:40:  D:\00-06\1T1-Stop-Length\trunk\FwLib\OpticalSensor\OpticalSensor.c (trunk) - Sublime Text (UNREGISTERED)
+10:48:50:  D:\00-06\1T1-Stop-Length\trunk\FwLib\OpticalSensor\OpticalSensor.h (trunk) - Sublime Text (UNREGISTERED)
+10:48:55:  程明昌
+10:50:00:  CashBoxModuleApp.c - TortoiseMerge
+10:50:10:  CashBoxModuleApp.h - TortoiseMerge
+10:50:25:  程明昌
+10:53:45:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (44) - Sublime Text (UNREGISTERED)
+10:53:55:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (trunk) - Sublime Text (UNREGISTERED)
+10:54:00:  untitled (trunk) - Sublime Text (UNREGISTERED)
+10:54:05:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.c (trunk) - Sublime Text (UNREGISTERED)
+10:54:20:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Sensor\Sensor.c (trunk) - Sublime Text (UNREGISTERED)
+10:54:25:  D:\00-06\1T1-Stop-Length\trunk\FwLib\OpticalSensor\OpticalSensor.h (trunk) - Sublime Text (UNREGISTERED)
+10:54:30:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Sensor\Sensor.c (trunk) - Sublime Text (UNREGISTERED)
+10:54:40:  D:\00-06\1T1-Stop-Length\trunk\FwLib\OpticalSensor\OpticalSensor.h (trunk) - Sublime Text (UNREGISTERED)
+10:54:45:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Sensor\Sensor.c (trunk) - Sublime Text (UNREGISTERED)
+10:54:50:  程明昌
+10:55:00:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Sensor\Sensor.c (trunk) - Sublime Text (UNREGISTERED)
+10:55:15:  D:\00-06\1T1-Stop-Length\trunk\FwLib\OpticalSensor\OpticalSensor.h (trunk) - Sublime Text (UNREGISTERED)
+10:55:25:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Sensor\Sensor.c (trunk) - Sublime Text (UNREGISTERED)
+10:55:30:  D:\00-06\1T1-Stop-Length\trunk\Drivers\SensorDriver\SensorDriver.c (trunk) - Sublime Text (UNREGISTERED)
+10:55:35:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Sensor\Sensor.c (trunk) - Sublime Text (UNREGISTERED)
+10:55:40:  D:\00-06\1T1-Stop-Length\trunk\FwLib\OpticalSensor\OpticalSensor.h (trunk) - Sublime Text (UNREGISTERED)
+10:55:45:  程明昌
+10:55:55:  D:\00-06\1T1-Stop-Length\trunk\FwLib\OpticalSensor\OpticalSensor.h (trunk) - Sublime Text (UNREGISTERED)
+10:56:00:  程明昌
+11:00:15:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+11:00:50:  程明昌
+11:01:10:  员工自助 - Internet Explorer
+11:01:30:  我的信息 - Internet Explorer
+11:02:15:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+11:02:55:  锁屏状态
+11:03:00:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+11:03:05:  桌面整理
+11:03:15:  「开始」菜单
+11:03:35:  J-Link Commander V6.32h
+11:03:50:  桌面整理
+11:03:55:  J-Link Commander V6.32h
+11:04:40:  00-06
+11:04:45:  Project
+11:04:50:  DRB--
+11:04:55:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:05:20:  J-Link Commander V6.32h
+11:06:40:  SEGGER J-Link V6.32h - Target device settings
+11:06:50:  J-Link Commander V6.32h
+11:06:55:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:07:00:  Program Manager
+11:07:20:  运行
+11:07:25:  「开始」菜单
+11:07:30:  J-Link Commander V6.32h
+11:08:55:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:09:15:  D:\00-06\DRB--\Tools\CreateJK.exe
+11:09:20:  Tools
+11:09:25:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V11_MAIN_T99 - 写邮件
+11:09:50:  eSpace
+11:09:55:  荆文波
+11:10:05:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:10:45:  Options for Target 'CashBox_1T2_Debug'
+11:10:50:  Cortex JLink/JTrace Target Driver Setup
+11:11:05:  荆文波
+11:11:10:  J-Link Commander V6.32h
+11:11:15:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:11:40:  Options for Target 'CashBox_1T2_Debug'
+11:11:50:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:12:00:  新建文本文档.exe - 快捷方式
+11:12:05:  eSpace
+11:12:10:  荆文波
+11:12:20:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:12:25:  μVision
+11:12:30:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:12:41:  μVision
+11:12:46:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+11:13:11:  荆文波
+11:13:21:  Tools
+11:13:26:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V11_MAIN_T99 - 写邮件
+11:13:31:  荆文波
+11:14:16:  于斌1
+11:14:46:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (44) - Sublime Text (UNREGISTERED)
+11:14:51:  E:\深圳出差\44\Drivers\FtmDriver\FtmConfig.c (44) - Sublime Text (UNREGISTERED)
+11:14:56:  E:\深圳出差\44\Drivers\FtmDriver\FtmDriver.c (44) - Sublime Text (UNREGISTERED)
+11:14:16:  于斌1
+11:14:46:  E:\深圳出差\44\Applications\CanComm\CashBoxComm\CashBoxCmd.h (44) - Sublime Text (UNREGISTERED)
+11:14:51:  E:\深圳出差\44\Drivers\FtmDriver\FtmConfig.c (44) - Sublime Text (UNREGISTERED)
+11:14:56:  E:\深圳出差\44\Drivers\FtmDriver\FtmDriver.c (44) - Sublime Text (UNREGISTERED)
+11:15:06:  E:\深圳出差\44\Drivers\FtmDriver\CapDriver.c (44) - Sublime Text (UNREGISTERED)
+11:15:16:  于斌1
+11:15:56:  荆文波
+11:16:06:  E:\深圳出差\44\Drivers\FtmDriver\PwmDriver.c (44) - Sublime Text (UNREGISTERED)
+11:16:11:  选择文件夹
+11:16:16:  untitled (DRB--) - Sublime Text (UNREGISTERED)
+11:16:21:  于斌1
+11:18:26:  荆文波
+11:19:06:  于斌1
+11:19:36:  D:\00-06\DRB--\Middlewares\Selector\Selector.c (DRB--) - Sublime Text (UNREGISTERED)
+11:20:47:  TCR调测工具（研发版）V1.0.0.4
+11:21:37:  钞箱传感器
+11:21:42:  TCR调测工具（研发版）V1.0.0.4
+11:22:27:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+11:33:27:  钞箱传感器
+11:33:32:  TCR调测工具（研发版）V1.0.0.4
+11:35:22:  钞箱传感器
+11:35:27:  TCR调测工具（研发版）V1.0.0.4
+11:38:52:  CRS调试工具
+11:38:57:  20201013
+11:39:02:  Decode
+11:39:07:  K64_0000_20201013113810
+11:39:12:  Box_5__0000_20201013113810.log - DRB.tat* - TextAnalysisTool.NET
+11:39:27:  K64_0000_20201013113810
+11:39:32:  TCR调测工具（研发版）V1.0.0.4
+11:39:42:  Box_5__0000_20201013113810.log - DRB.tat* - TextAnalysisTool.NET
+11:39:52:  锁屏状态
+13:23:38:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:24:18:  荆文波
+13:24:23:  Toolbox
+13:24:28:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:24:43:  荆文波
+13:24:58:  eSpace
+13:25:03:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:25:23:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+13:27:48:  自动播放
+13:27:53:  iTunes
+13:28:53:  荆文波
+13:28:58:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+13:29:03:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:28:53:  荆文波
+13:28:58:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+13:29:03:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:30:23:  Tools
+13:30:28:  正在打开 - Excel
+13:30:33:  锁屏状态
+13:30:38:  Box_5__0000_20201013113810.log - DRB.tat* - TextAnalysisTool.NET
+13:31:33:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:32:13:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010131331.log
+13:32:23:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:32:58:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010131331.log
+13:33:18:  TCR调测工具（研发版）V1.0.0.4
+13:33:23:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:35:09:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010131331.log
+13:35:34:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+13:36:14:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+13:41:49:  程明昌
+13:41:59:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+13:43:04:  程明昌
+13:49:44:  Tools
+13:49:49:  钞箱1T2集成测试方案
+13:49:54:  Microsoft Visual Studio Team System 2008 Team Suite - CHS
+13:50:04:  5.12 直流电机测试.pptx - PowerPoint
+14:09:24:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+14:18:44:  5.12 直流电机测试.pptx - PowerPoint
+14:19:09:  5.1 BOOTLOADER测试V1.0.xls  [受保护的视图] - Excel
+14:19:14:  5.1 BOOTLOADER测试V1.0.xls  [兼容模式] - Excel
+14:21:49:  Microsoft Excel
+14:22:29:  Box_5__0000_20201013113810.log - DRB.tat* - TextAnalysisTool.NET
+14:22:44:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202010131331.log
+14:30:19:  Box_5__0000_20201013113810.log - DRB.tat* - TextAnalysisTool.NET
+14:42:54:  5.12 直流电机测试.pptx - PowerPoint
+14:42:59:  荆文波
+14:43:04:  eSpace
+14:47:30:  新建文本文档.exe - 快捷方式
+14:47:35:  锁屏状态
+14:47:40:  新标签页 - Google Chrome
+14:47:54:  山东人事人才互联网服务系统 - Google Chrome
+14:48:04:  山东省人事人才管理信息系统 - Google Chrome
+14:48:09:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+14:48:14:  山东省人事人才管理信息系统 - Google Chrome
+14:49:24:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+14:49:49:  山东省人事人才管理信息系统 - Google Chrome
+14:50:24:  山东人事人才互联网服务系统 - Google Chrome
+14:51:09:  山东省人事人才管理信息系统 - Google Chrome
+14:51:14:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+14:51:19:  山东省人事人才管理信息系统 - Google Chrome
+14:51:29:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+14:51:39:  锁屏状态
+14:51:44:  山东省人事人才管理信息系统 - Google Chrome
+14:51:54:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+14:51:59:  山东省人事人才管理信息系统 - Google Chrome
+14:52:09:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+14:52:24:  山东省人事人才管理信息系统 - Google Chrome
+14:52:39:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+14:52:44:  山东省人事人才管理信息系统 - Google Chrome
+14:52:49:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+14:52:54:  山东省人事人才管理信息系统 - Google Chrome
+14:53:19:  D:\00-06\DRB--\Middlewares\Selector\Selector.c (DRB--) - Sublime Text (UNREGISTERED)
+14:53:24:  D:\00-06\DRB--\Middlewares\StepMotor\StepMotorConfig.c (DRB--) - Sublime Text (UNREGISTERED)
+14:53:29:  计算器
+14:53:59:  山东省人事人才管理信息系统 - Google Chrome
+14:54:49:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+14:54:54:  山东省人事人才管理信息系统 - Google Chrome
+14:57:04:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+14:57:24:  山东省人事人才管理信息系统 - Google Chrome
+14:57:29:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+14:57:59:  山东省人事人才管理信息系统 - Google Chrome
+14:58:04:  新标签页 - Google Chrome
+14:58:09:  百度一下，你就知道 - Google Chrome
+14:58:19:  山东省人事人才管理信息系统 - Google Chrome
+14:58:09:  百度一下，你就知道 - Google Chrome
+14:58:19:  山东省人事人才管理信息系统 - Google Chrome
+15:01:09:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+15:01:14:  山东省人事人才管理信息系统 - Google Chrome
+15:01:54:  TestDirector 8.0
+15:02:19:  Defect Details
+15:02:39:  TestDirector 8.0
+15:02:49:  Defect Details
+15:02:54:  TestDirector 8.0
+15:03:09:  荆文波
+15:03:39:  开始
+15:04:04:  员工自助 - Internet Explorer
+15:04:09:  荆文波
+15:04:14:  员工自助 - Internet Explorer
+15:04:19:  荆文波
+15:04:29:  员工自助 - Internet Explorer
+15:04:54:  荆文波
+15:06:04:  IMG_20200829_142622.jpg - Windows 照片查看器
+15:06:09:  ID-32 使用300张1元纸币执行流程2（大额存款-盘点-大额取款，上腔设置接受金额1元，下腔设置接受金额为2元，流程结束后发现1张1元纸币进入下腔。
+15:06:14:  荆文波
+15:06:44:  Decode
+15:06:49:  K64_BTCR-1100200600510420_20200829141129
+15:06:54:  荆文波
+15:07:04:  K64-_BTCR-1100200600510420_20200829141129.log - DRB.tat* - TextAnalysisTool.NET
+15:07:09:  Box_3__BTCR-1100200600510420_20200829141129.log - DRB.tat* - TextAnalysisTool.NET
+15:09:04:  K64_BTCR-1100200600510420_20200829141039
+15:09:09:  Box_3__BTCR-1100200600510420_20200829141039.log - DRB.tat* - TextAnalysisTool.NET
+15:09:24:  K64-_BTCR-1100200600510420_20200829141039.log - DRB.tat* - TextAnalysisTool.NET
+15:09:34:  K64_BTCR-1100200600510420_20200829140846
+15:09:39:  K64-_BTCR-1100200600510420_20200829140846.log - DRB.tat* - TextAnalysisTool.NET
+15:09:49:  K64_BTCR-1100200600510420_20200829141039
+15:09:59:  K64-_BTCR-1100200600510420_20200829141129.log - DRB.tat* - TextAnalysisTool.NET
+15:10:09:  K64_BTCR-1100200600510420_20200829141129
+15:10:14:  K64-_BTCR-1100200600510420_20200829141129.log - DRB.tat* - TextAnalysisTool.NET
+15:10:24:  K64_BTCR-1100200600510420_20200829140751
+15:10:29:  K64-_BTCR-1100200600510420_20200829140751.log - DRB.tat* - TextAnalysisTool.NET
+15:11:24:  K64_BTCR-1100200600510420_20200829140751
+15:11:29:  LogExpert - \\192.168.28.47\08tcr测试过程记录\系统测试记录\模具2.0系统测试过程数据\系统测试过程数据\DRB测试\DRB工程样机系统测试\问题日志\ID-32 使用300张1元纸币执行流程2（大额存款-盘点-大额取款，上腔设置接受金额1元，下腔设置接受金额为2元，流程结束后发现1张1元纸币进入下腔。\Decode\LOG\K64_BTCR-1100200600510420_20200829140751\K64-_BTCR-1100200600510420_20200829140751.log
+15:14:09:  K64_BTCR-1100200600510420_20200829140751
+15:14:14:  K64-_BTCR-1100200600510420_20200829140751 - 写邮件
+15:14:09:  K64_BTCR-1100200600510420_20200829140751
+15:14:14:  K64-_BTCR-1100200600510420_20200829140751 - 写邮件
+15:19:29:  于斌1
+15:20:09:  荆文波
+15:20:14:  历史记录管理器
+15:20:59:  荆文波
+15:21:19:  历史记录管理器
+15:21:24:  荆文波
+15:23:04:  于斌1
+15:23:09:  荆文波
+15:23:14:  于斌1
+15:23:34:  荆文波
+15:23:59:  TestDirector 8.0
+15:24:04:  于斌1
+15:24:24:  荆文波
+15:29:59:  打开
+15:29:59:  打开
+15:30:09:  BTCRTestTool
+15:30:19:  TCR调测工具（研发版）V1.0.0.4
+15:30:34:  BTCRTestTool
+15:30:44:  TCR调测工具（研发版）V1.0.0.4
+15:31:04:  BTCRTestTool
+15:31:09:  TCR调测工具（研发版）V1.0.0.4
+15:31:19:  BTCRTestTool
+15:31:24:  TCR调测工具（研发版）V1.0.0.4
+15:32:29:  BTCRTestTool
+15:32:34:  TCR调测工具（研发版）V1.0.0.4
+15:32:49:  打开
+15:33:09:  BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V11_MAIN_T99 - 写邮件
+15:33:19:  TCR调测工具（研发版）V1.0.0.4
+15:52:39:  于斌1
+15:53:39:  TCR调测工具（研发版）V1.0.0.4
+15:55:09:  钞箱配置
+15:55:19:  TCR调测工具（研发版）V1.0.0.4
+15:55:24:  钞箱配置
+15:55:39:  TCR调测工具（研发版）V1.0.0.4
+15:55:49:  可接收
+15:55:54:  TCR调测工具（研发版）V1.0.0.4
+15:56:30:  跳转列表
+15:56:35:  CRS调试工具
+15:56:40:  20201013
+15:56:45:  Decode
+15:56:55:  K64_0000_20201013155551
+15:57:00:  K64-_0000_20201013155551.log - DRB.tat* - TextAnalysisTool.NET
+15:57:20:  Add Filter
+15:57:30:  ErrCode_list_txt_flg.txt - 记事本
+15:58:15:  D:\00-06\DRB--\Middlewares\StepMotor\StepMotorConfig.c (DRB--) - Sublime Text (UNREGISTERED)
+15:58:25:  D:\00-06\DRB--\Applications\PaperManage\PaperManage.c (DRB--) - Sublime Text (UNREGISTERED)
+15:58:35:  D:\00-06\DRB--\Applications\Instruction\InstrHandle.c (DRB--) - Sublime Text (UNREGISTERED)
+15:58:40:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+15:58:45:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+15:58:15:  D:\00-06\DRB--\Middlewares\StepMotor\StepMotorConfig.c (DRB--) - Sublime Text (UNREGISTERED)
+15:58:25:  D:\00-06\DRB--\Applications\PaperManage\PaperManage.c (DRB--) - Sublime Text (UNREGISTERED)
+15:58:35:  D:\00-06\DRB--\Applications\Instruction\InstrHandle.c (DRB--) - Sublime Text (UNREGISTERED)
+15:58:40:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (DRB--) - Sublime Text (UNREGISTERED)
+15:58:45:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+16:04:15:  查找
+16:04:20:  ErrCode_list_txt_flg.txt - 记事本
+16:04:25:  Go To
+16:04:30:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+16:05:55:  D:\00-06\DRB--\Applications\Instruction\InstrExecute.c (44) - Sublime Text (UNREGISTERED)
+16:06:00:  E:\深圳出差\44\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (44) - Sublime Text (UNREGISTERED)
+16:06:05:  K64-_0000_20201013155551.log - DRB.tat* - TextAnalysisTool.NET
+16:06:10:  TCR调测工具（研发版）V1.0.0.4
+16:06:35:  LogExpert - \\192.168.28.47\08tcr测试过程记录\系统测试记录\模具2.0系统测试过程数据\系统测试过程数据\DRB测试\DRB工程样机系统测试\问题日志\ID-32 使用300张1元纸币执行流程2（大额存款-盘点-大额取款，上腔设置接受金额1元，下腔设置接受金额为2元，流程结束后发现1张1元纸币进入下腔。\Decode\LOG\K64_BTCR-1100200600510420_20200829140751\K64-_BTCR-1100200600510420_20200829140751.log
+16:06:40:  20201013
+16:07:05:  Decode
+16:07:10:  K64_0000_20201013160609
+16:07:15:  Box_5__0000_20201013160609.log - DRB.tat* - TextAnalysisTool.NET
+16:07:20:  K64-_0000_20201013160609.log - DRB.tat* - TextAnalysisTool.NET
+16:08:15:  TCR调测工具（研发版）V1.0.0.4
+16:09:05:  K64_0000_20201013160609
+16:09:10:  20201013
+16:09:15:  Decode
+16:09:20:  K64_0000_20201013160816
+16:09:25:  K64-_0000_20201013160816.log - DRB.tat* - TextAnalysisTool.NET
+16:09:35:  K64_0000_20201013160816
+16:09:45:  本地磁盘 (E:)
+16:09:50:  44
+16:10:00:  更新 完成！
+16:10:05:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:12:15:  μVision
+16:12:20:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:13:10:  44
+16:13:15:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+16:13:25:  PageManage.c Revision 566 - TortoiseMerge
+16:13:40:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+16:13:45:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:14:55:  TCR调测工具（研发版）V1.0.0.4
+16:15:00:  log
+16:14:55:  TCR调测工具（研发版）V1.0.0.4
+16:15:00:  log
+16:15:05:  20201013
+16:15:30:  TCR调测工具（研发版）V1.0.0.4
+16:15:40:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:16:35:  锁屏状态
+16:16:40:  20201013
+16:16:45:  K64-_0000_20201013160816.log - DRB.tat* - TextAnalysisTool.NET
+16:16:50:  K64_0000_20201013161455.log - DRB.tat* - TextAnalysisTool.NET
+16:17:00:  本地磁盘 (D:)
+16:17:05:  CRS
+16:17:10:  检出
+16:17:20:  http://192.168.10.9:82/svn/BNE-R1200M/FW_BNE-R1200M_K64_MAIN/trunk - 日志信息 - TortoiseSVN
+16:17:25:  trunk - 检出 - TortoiseSVN
+16:17:45:  KE64
+16:17:50:  SECSplashWnd
+16:17:55:  D:\CRS\KE64\Project\k64_rtt.uvprojx - μVision
+16:18:06:  KE64
+16:23:51:  K64_0000_20201013161455.log - DRB.tat* - TextAnalysisTool.NET
+16:23:56:  TCR调测工具（研发版）V1.0.0.4
+16:24:01:  打开
+16:24:11:  TCR调测工具（研发版）V1.0.0.4
+16:26:46:  Tools
+16:26:56:  log
+16:27:01:  Decode
+16:27:06:  LOG
+16:27:11:  K64-_0000_20201013162609.log - DRB.tat* - TextAnalysisTool.NET
+16:27:16:  CRS调试工具
+16:27:21:  E:\深圳出差\44 - 提交 - TortoiseSVN
+16:29:36:  CashBoxModuleApp.c - TortoiseMerge
+16:29:36:  CashBoxModuleApp.c - TortoiseMerge
+16:32:56:  E:\深圳出差\44 - 提交 - TortoiseSVN
+16:33:06:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:34:02:  E:\深圳出差\44 - 提交 - TortoiseSVN
+16:34:12:  EscBoardCmd.c - TortoiseMerge
+16:34:17:  CSBoardCmd.c - TortoiseMerge
+16:34:22:  ComponentCtrl.c - TortoiseMerge
+16:34:32:  E:\深圳出差\44 - 提交 - TortoiseSVN
+16:34:42:  SystemConfig.h - TortoiseMerge
+16:34:52:  44
+16:34:57:  CashBoxCmd.c - TortoiseMerge
+16:35:02:  CashBoxComm.c - TortoiseMerge
+16:35:07:  CSBoardCmd.c - TortoiseMerge
+16:35:12:  CashBoxPlateCtrl.c - TortoiseMerge
+16:35:17:  ComponentCtrl.c - TortoiseMerge
+16:35:32:  E:\深圳出差\44 - 工作副本 - TortoiseSVN
+16:35:37:  GateModule.h - TortoiseMerge
+16:35:42:  提交
+16:35:47:  GateModule.h - TortoiseMerge
+16:35:52:  E:\深圳出差\44 - 提交 - TortoiseSVN
+16:36:02:  提交
+16:36:07:  44
+16:36:12:  E:\深圳出差\44 - 日志信息 - TortoiseSVN
+16:36:27:  TCR调测工具（研发版）V1.0.0.4
+16:36:37:  打开
+16:36:47:  TCR调测工具（研发版）V1.0.0.4
+16:38:07:  44
+16:38:12:  E:\深圳出差\44 - 更新 - TortoiseSVN
+16:38:17:  44
+16:39:27:  E:\深圳出差\44\Project\k64_rtt.uvprojx - μVision
+16:40:02:  E:\深圳出差\44\Tools\CreateJK.exe
+16:42:22:  Tools
+16:47:37:  最高院审理商业秘密案件若干规定之解读.docx
+16:48:22:  附件5：山东省职称申报系统（山东省专业技术人员管理服务平台）的操作指南-更新.docx [只读] [兼容模式] - Word
+16:54:02:  员工自助 - Internet Explorer
+17:02:17:  选择文件夹
+17:02:22:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+17:03:07:  D:\00-06\1T1-Stop-Length\trunk\Middlewares\Plate\Plate.h (trunk) - Sublime Text (UNREGISTERED)
+17:03:12:  D:\00-06\1T1-Stop-Length\trunk\Applications\PlateCtrl\PlateCtrl.c (trunk) - Sublime Text (UNREGISTERED)
+17:03:17:  eSpace
+17:03:27:  运行
+17:03:32:  固件版本
+17:03:37:  K06
+17:03:47:  \\192.168.28.47\08tcr测试过程记录\样机配置履历表\固件版本\最新固件\K06\BTCR-1100_BOX1T1_KE06_FV1000_EXTFEDUV21_V100_CASHBOX1T1_AB-弹性摆块.EEP (trunk) - Sublime Text (UNREGISTERED)
+17:03:52:  eSpace
+17:04:07:  锁屏状态

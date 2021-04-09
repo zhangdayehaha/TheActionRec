@@ -1,0 +1,827 @@
+08:03:02:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+08:06:52:  Windows 任务管理器
+08:06:57:  「开始」菜单
+08:07:07:  计算机
+08:07:37:  自动播放
+08:07:42:  DCIM
+08:07:47:  102APPLE
+08:07:57:  Windows 任务管理器
+08:08:07:  自动播放
+08:11:07:  Windows 任务管理器
+08:11:12:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+08:11:17:  自动播放
+08:11:22:  Internal Storage
+08:11:27:  102APPLE
+08:11:47:  本地磁盘 (E:)
+08:12:02:  正在复制...
+08:15:27:  新建文件夹 (2)
+08:18:22:  本地磁盘 (E:)
+08:18:27:  正在创建压缩文件 新建文件夹 (2).rar
+08:21:17:  本地磁盘 (E:)
+08:21:22:  计算机
+08:21:27:  02固件设计中心
+08:21:32:  06- 刘建生
+08:21:42:  本地磁盘 (E:)
+08:21:47:  正在复制 1 个项目(1.75 GB)
+08:21:57:  剩余 2 分钟 30 秒
+08:22:12:  剩余 2 分钟 15 秒
+08:22:27:  剩余 2 分钟
+08:22:47:  剩余 60 秒
+08:23:52:  剩余 45 秒
+08:24:02:  剩余 30 秒
+08:24:07:  剩余 20 秒
+08:24:12:  剩余 15 秒
+08:24:17:  剩余 10 秒
+08:24:27:  资料共享
+08:28:12:  自动播放
+08:28:17:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:28:57:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:29:22:  设置 - CRS-64-1 - Visual Studio Code [管理员]
+08:29:27:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:29:32:  设置 - CRS-64-1 - Visual Studio Code [管理员]
+08:29:37:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:29:42:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:29:47:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:28:12:  自动播放
+08:28:17:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:28:57:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:29:22:  设置 - CRS-64-1 - Visual Studio Code [管理员]
+08:29:27:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:29:32:  设置 - CRS-64-1 - Visual Studio Code [管理员]
+08:29:37:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:29:42:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:29:47:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:35:13:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:35:18:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:40:49:  设置 - CRS-64-1 - Visual Studio Code [管理员]
+08:40:54:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:42:14:  ● CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:42:19:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:42:39:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:50:24:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:50:29:  ● CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+08:50:34:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:52:04:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:58:39:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+08:58:39:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:01:44:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+09:02:04:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:04:39:  CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]
+09:04:44:  设置 - CRS-64-1 - Visual Studio Code [管理员]
+09:04:49:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:10:04:  ● CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:10:39:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:10:44:  MSN 中国 - Internet Explorer
+09:10:54:  Internet Explorer
+09:10:59:  未连接到网络 - Internet Explorer
+09:11:04:  系统登录 - Internet Explorer
+09:11:09:  http://hrms.byintra.com:8800/psc/HCMPRD/EMPLOYEE/HRMS/s/WEBLIB_PORTAL1.ICRIPTPORTAL.FieldFormul - Internet Explorer
+09:11:14:  http://hrms.byintra.com:8800/psp/HCMPRD/EMPLOYEE/HRMS/c/C_HR_MENU.C_ASSESS_SEL_COM.GBL?FolderPa - Internet Explorer
+09:11:19:  Employee-facing registry content - Internet Explorer
+09:11:24:  绩效评价 - Internet Explorer
+09:11:29:  绩效申请 - Internet Explorer
+09:12:54:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:18:10:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:20:35:  绩效申请 - Internet Explorer
+09:21:50:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+09:46:40:  本地磁盘 (E:)
+09:46:55:  3232.py - E:\3232.py (3.7.3)
+09:47:00:  删除文件
+09:47:05:  新建文件夹 (2)
+09:47:10:  本地磁盘 (E:)
+09:48:10:  密码锁
+09:48:15:  0-工作 - 张开发 - 印象笔记
+09:48:25:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+09:48:50:  MindMaster
+09:49:00:  MindMaster Pro
+09:49:55:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+09:50:00:  绩效申请 - Internet Explorer
+09:50:05:  Internet Explorer
+09:50:10:  锁屏状态
+09:50:15:  新标签页 - Google Chrome
+09:50:20:  百度一下，你就知道 - Google Chrome
+09:50:25:  支付宝 知托付！ - Google Chrome
+09:50:40:  我的账单 - 支付宝 - Google Chrome
+09:51:25:  下载
+09:51:30:  下载 (未响应)
+09:51:45:  新建文本文档.exe - 快捷方式
+09:51:50:  下载
+09:51:55:  Subversion
+09:52:00:  本地磁盘 (D:)
+09:52:05:  alipay_record_20200921_0902
+09:52:10:  alipay_record_20200923_0951
+09:52:15:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200923_0951\TheOneForExcel - 副本.py (3.7.3)
+09:52:20:  alipay_record_20200923_0951
+09:52:30:  TheDateInfo.xls  [兼容模式] - Excel
+09:54:40:  MindMaster 发现新版本。
+09:54:45:  MindMaster Pro
+09:54:50:  TheDateInfo.xls  [兼容模式] - Excel
+09:54:55:  MindMaster Pro
+09:55:00:  TheDateInfo.xls  [兼容模式] - Excel
+09:55:10:  MindMaster Pro
+09:55:15:  TheDateInfo.xls  [兼容模式] - Excel
+09:56:00:  锁屏状态
+09:56:05:  MindMaster Pro
+09:56:20:  MindMaster
+09:56:25:  alipay_record_20200923_0951
+09:56:50:  TheDateInfo.xls  [兼容模式] - Excel
+09:56:55:  9.8-9.23.xls  [兼容模式] - Excel
+09:57:00:  alipay_record_20200923_0951
+09:57:05:  新建文本文档.exe - 快捷方式
+09:57:10:  我的账单 - 支付宝 - Google Chrome
+09:57:15:  支付宝_百度搜索 - Google Chrome
+09:57:30:  记账 money pro_百度搜索 - Google Chrome
+09:57:40:  蚂蚁花呗消费，money pro应该如何记账？ - 知乎 - Google Chrome
+09:57:45:  (97 封私信 / 80 条消息) 蚂蚁花呗消费，money pro应该如何记账？ - 知乎 - Google Chrome
+09:58:00:  记账 money pro_百度搜索 - Google Chrome
+09:58:10:  记账 money pro windows_百度搜索 - Google Chrome
+09:58:15:  Money Pro - 可同步账单、预算和账户 - Windows - Google Chrome
+09:58:40:  Buy Money Pro - Personal Finance & Expense Tracker - Microsoft Store - Google Chrome
+09:58:45:  购买 Money Pro：家庭及个人理财、账单、预算 - Microsoft Store zh-CN - Google Chrome
+09:58:55:  记账 money pro windows_百度搜索 - Google Chrome
+09:59:00:  alipay_record_20200923_0951
+09:58:10:  记账 money pro windows_百度搜索 - Google Chrome
+09:58:15:  Money Pro - 可同步账单、预算和账户 - Windows - Google Chrome
+09:58:40:  Buy Money Pro - Personal Finance & Expense Tracker - Microsoft Store - Google Chrome
+09:58:45:  购买 Money Pro：家庭及个人理财、账单、预算 - Microsoft Store zh-CN - Google Chrome
+09:58:55:  记账 money pro windows_百度搜索 - Google Chrome
+09:59:00:  alipay_record_20200923_0951
+10:02:30:  锁屏状态
+10:02:35:  新标签页 - Google Chrome
+10:02:40:  (97 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:02:45:  记账app - 搜索结果 - 知乎 - Google Chrome
+10:02:50:  (97 封私信 / 80 条消息) 记账ios - 搜索结果 - 知乎 - Google Chrome
+10:03:20:  记账ios - 搜索结果 - 知乎 - Google Chrome
+10:03:25:  (97 封私信 / 80 条消息) 记账ios - 搜索结果 - 知乎 - Google Chrome
+10:04:21:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:04:26:  (97 封私信 / 80 条消息) 记账ios - 搜索结果 - 知乎 - Google Chrome
+10:04:51:  (97 封私信 / 80 条消息) 记账 ios - 搜索结果 - 知乎 - Google Chrome
+10:06:11:  money ios - 搜索结果 - 知乎 - Google Chrome
+10:06:16:  (97 封私信 / 80 条消息) money ios - 搜索结果 - 知乎 - Google Chrome
+10:06:31:  (97 封私信 / 80 条消息) 请问现在ios平台最好的自动记账app是什么？ - 知乎 - Google Chrome
+10:06:56:  (97 封私信 / 80 条消息) money ios - 搜索结果 - 知乎 - Google Chrome
+10:07:16:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:07:26:  本地磁盘 (E:)
+10:07:31:  CRS-64-1
+10:07:36:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+10:07:41:  CashBoxModuleApp.c - TortoiseMerge
+10:07:46:  (97 封私信 / 80 条消息) money ios - 搜索结果 - 知乎 - Google Chrome
+10:07:51:  money记账 - 搜索结果 - 知乎 - Google Chrome
+10:07:56:  (97 封私信 / 80 条消息) money记账 - 搜索结果 - 知乎 - Google Chrome
+10:09:21:  知乎 - 安全中心 - Google Chrome
+10:09:26:  Error - Google Chrome
+10:09:31:  知乎 - 安全中心 - Google Chrome
+10:09:36:  (97 封私信 / 80 条消息) money记账 - 搜索结果 - 知乎 - Google Chrome
+10:10:51:  CashBoxModuleApp.c - TortoiseMerge
+10:15:41:  首页 - 知乎 - Google Chrome
+10:15:46:  (97 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+10:15:51:  (97 封私信 / 80 条消息) 张开发 - 知乎 - Google Chrome
+10:17:41:  (97 封私信 / 99+ 条消息) 张开发 - 知乎 - Google Chrome
+10:17:46:  (97 封私信 / 80 条消息) IOS 记账 - 搜索结果 - 知乎 - Google Chrome
+10:18:46:  (97 封私信 / 80 条消息) excel记账 - 搜索结果 - 知乎 - Google Chrome
+10:19:21:  百度网盘 请输入提取码 - Google Chrome
+10:19:26:  收支表.xlsx_免费高速下载|百度网盘-分享无限制 - Google Chrome
+10:19:36:  (97 封私信 / 80 条消息) excel记账 - 搜索结果 - 知乎 - Google Chrome
+10:19:56:  锁屏状态
+10:20:01:  Subversion
+10:20:06:  收支表.xlsx  [受保护的视图] - Excel
+10:20:21:  Subversion
+10:20:31:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+10:20:36:  CashBoxModuleApp.c - TortoiseMerge
+10:26:11:  (97 封私信 / 80 条消息) excel记账 - 搜索结果 - 知乎 - Google Chrome
+10:26:21:  CashBoxModuleApp.c - TortoiseMerge
+10:26:46:  (97 封私信 / 80 条消息) 记账APP - 搜索结果 - 知乎 - Google Chrome
+10:26:56:  新建文本文档.exe - 快捷方式
+10:27:01:  (97 封私信 / 80 条消息) 记账APP - 搜索结果 - 知乎 - Google Chrome
+10:28:41:  CashBoxModuleApp.c - TortoiseMerge
+10:29:36:  新标签页 - Google Chrome
+10:29:41:  新建文本文档.exe - 快捷方式
+10:29:46:  CashBoxModuleApp.c - TortoiseMerge
+10:28:41:  CashBoxModuleApp.c - TortoiseMerge
+10:29:36:  新标签页 - Google Chrome
+10:29:41:  新建文本文档.exe - 快捷方式
+10:29:46:  CashBoxModuleApp.c - TortoiseMerge
+10:30:21:  www.baidu.com - Google Chrome
+10:30:26:  百度一下，你就知道 - Google Chrome
+10:30:31:  网易有钱-专业记账管钱软件 - Google Chrome
+10:30:56:  网易有钱(常见问题) - Google Chrome
+10:31:16:  (97 封私信 / 80 条消息) 记账APP - 搜索结果 - 知乎 - Google Chrome
+10:31:36:  网易有钱_百度搜索 - Google Chrome
+10:31:41:  网易有钱 windows_百度搜索 - Google Chrome
+10:31:46:  网易有钱-专业记账管钱软件 - Google Chrome
+10:31:51:  CashBoxModuleApp.c - TortoiseMerge
+10:31:56:  锁屏状态
+11:13:31:  CashBoxModuleApp.c - TortoiseMerge
+11:13:36:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:13:46:  Subversion
+11:13:51:  CashBoxModuleApp.c - TortoiseMerge
+11:13:56:  锁屏状态
+11:14:01:  CashBoxModuleApp.c - TortoiseMerge
+11:14:06:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:14:11:  网易有钱 windows_百度搜索 - Google Chrome
+11:14:16:  (97 封私信 / 80 条消息) 记账APP - 搜索结果 - 知乎 - Google Chrome
+11:14:06:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:14:11:  网易有钱 windows_百度搜索 - Google Chrome
+11:14:16:  (97 封私信 / 80 条消息) 记账APP - 搜索结果 - 知乎 - Google Chrome
+11:15:16:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:15:46:  (97 封私信 / 80 条消息) 记账APP - 搜索结果 - 知乎 - Google Chrome
+11:15:51:  百度一下，你就知道 - Google Chrome
+11:15:56:  shop.superdata.com.cn/?WebShieldSessionVerify=aBCeWmErrhNUijWxYOIB - Google Chrome
+11:16:01:  松鼠记账_百度搜索 - Google Chrome
+11:16:06:  松鼠记账--轻生活，简记账。3秒快速记账理财APP，功能简洁，终身免费。 - Google Chrome
+11:16:26:  松鼠记账_百度搜索 - Google Chrome
+11:16:31:  (97 封私信 / 80 条消息) 记账APP - 搜索结果 - 知乎 - Google Chrome
+11:16:56:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+11:18:11:  (97 封私信 / 80 条消息) 记账APP - 搜索结果 - 知乎 - Google Chrome
+11:23:26:  github_百度搜索 - Google Chrome
+11:23:31:  GitHub - Google Chrome
+11:23:41:  Search · 记账 - Google Chrome
+11:24:01:  Search · 支付宝账单 - Google Chrome
+11:24:21:  JLRainbow/billDownload: 微信支付宝对账单下载 - Google Chrome
+11:24:26:  Issues · JLRainbow/billDownload - Google Chrome
+11:24:31:  JLRainbow/billDownload: 微信支付宝对账单下载 - Google Chrome
+11:24:36:  Search · 支付宝账单 - Google Chrome
+11:27:06:  Search · 支付宝账单 整理 - Google Chrome
+11:27:11:  Search · 账单 整理 - Google Chrome
+11:27:21:  Search · 支付宝账单分析 - Google Chrome
+11:27:26:  dajavu/yourbill: 支持支付宝，微信Excel账单导入分析的工具 - Google Chrome
+11:27:56:  Issues · dajavu/yourbill - Google Chrome
+11:28:01:  Pull requests · dajavu/yourbill - Google Chrome
+11:28:06:  下载
+11:28:16:  Subversion
+11:28:21:  yourbill-master
+11:28:26:  public
+11:28:31:  yourbill-master
+11:28:41:  Typora
+11:28:46:  README.md - Typora
+11:29:11:  Pull requests · dajavu/yourbill - Google Chrome
+11:29:21:  dajavu/yourbill: 支持支付宝，微信Excel账单导入分析的工具 - Google Chrome
+11:29:31:  chuneryi/AlipayBillAnalysis - Google Chrome
+11:29:41:  Search · 支付宝账单 - Google Chrome
+11:28:06:  下载
+11:28:16:  Subversion
+11:28:21:  yourbill-master
+11:28:26:  public
+11:28:31:  yourbill-master
+11:28:41:  Typora
+11:28:46:  README.md - Typora
+11:29:11:  Pull requests · dajavu/yourbill - Google Chrome
+11:29:21:  dajavu/yourbill: 支持支付宝，微信Excel账单导入分析的工具 - Google Chrome
+11:29:31:  chuneryi/AlipayBillAnalysis - Google Chrome
+11:29:41:  Search · 支付宝账单 - Google Chrome
+11:30:11:  JLRainbow/billDownload: 微信支付宝对账单下载 - Google Chrome
+11:30:26:  Search · 支付宝账单 - Google Chrome
+11:30:41:  dajavu/yourbill: 支持支付宝，微信Excel账单导入分析的工具 - Google Chrome
+11:30:47:  新标签页 - Google Chrome
+11:30:52:  yarn install_百度搜索 - Google Chrome
+11:30:57:  https://www.baidu.com/link?url=t6VwlfLdEEaU8x5xz10pCFj8x19PfEaRv5HsyFtT68CEBOkGvG_Bb5ROfwXD9w37gBY3wTtaBjalEReNgxoVOnxh7HUnrsGJf3pntfa3Y-i&wd=&eqid=85b171a80000b01a000000025f6ac16a - Google Chrome
+11:31:02:  (3条消息) Yarn 安装与使用详细介绍_NeverYu-CSDN博客 - Google Chrome
+11:31:22:  dajavu/yourbill: 支持支付宝，微信Excel账单导入分析的工具 - Google Chrome
+11:31:42:  下载
+11:31:52:  Subversion
+11:31:57:  billDownload-master
+11:32:02:  src
+11:32:07:  bill
+11:32:27:  dajavu/yourbill: 支持支付宝，微信Excel账单导入分析的工具 - Google Chrome
+11:32:52:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:32:57:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+11:33:07:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.h (trunk) - Sublime Text (UNREGISTERED)
+11:33:12:  D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)
+11:33:17:  D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:33:32:  跳转列表
+11:33:37:  CRS调试工具
+11:33:42:  20200922
+11:33:47:  Box_2__BTCR-1100190803000008_20200909160858.log - DRB.tat* - TextAnalysisTool.NET
+11:33:52:  Decode
+11:33:57:  K64_0000_20200922140221.log - DRB.tat* - TextAnalysisTool.NET
+11:34:02:  未命名 - 写邮件
+11:34:07:  K64_0000_20200922140221 - 写邮件
+11:34:12:  未命名 - 写邮件
+11:34:17:  发送邮件
+11:34:27:  K64_0000_20200922140221.log - DRB.tat* - TextAnalysisTool.NET
+11:35:02:  Decode
+11:35:07:  K64_0000_20200922140221.log - DRB.tat* - TextAnalysisTool.NET
+11:35:12:  Decode
+11:35:22:  dajavu/yourbill: 支持支付宝，微信Excel账单导入分析的工具 - Google Chrome
+11:35:32:  github.com - Google Chrome
+11:35:37:  Search · 支付宝账单 - Google Chrome
+11:35:57:  Search · 支付宝账单 python - Google Chrome
+11:36:07:  SongKaixiang/Python-Combine-WeChat-and-AliPay-Billing-Details: 使用Python语言快速合并微信和支付宝账单csv文件，用到pandas扩展包。 - Google Chrome
+11:36:32:  如何下载微信支付账单-百度经验 - Google Chrome
+11:36:57:  下载
+11:37:07:  Subversion
+11:37:12:  Python-Combine-WeChat-and-AliPay-Billing-Details-master
+11:37:17:  bill.jpg - Windows 照片查看器
+11:37:22:  merge
+11:37:27:  helper.py - C:\Users\zhangkaifa\Downloads\Python-Combine-WeChat-and-AliPay-Billing-Details-master\Python-Combine-WeChat-and-AliPay-Billing-Details-master\merge\helper.py (3.7.3)
+11:37:32:  merge_wx_zfb.py - C:\Users\zhangkaifa\Downloads\Python-Combine-WeChat-and-AliPay-Billing-Details-master\Python-Combine-WeChat-and-AliPay-Billing-Details-master\merge\merge_wx_zfb.py (3.7.3)
+11:38:02:  如何下载微信支付账单-百度经验 - Google Chrome
+11:38:12:  K64_0000_20200922140221.log - DRB.tat* - TextAnalysisTool.NET
+11:38:37:  Python-Combine-WeChat-and-AliPay-Billing-Details-master
+11:38:42:  CashBoxModuleApp.c - TortoiseMerge
+11:39:42:  eSpace
+11:39:47:  吉哲
+11:39:57:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:07:48:  自动播放
+13:07:53:  锁屏状态
+13:07:58:  新建文本文档.exe - 快捷方式
+13:08:03:  新标签页 - Google Chrome
+13:08:08:  百度一下，你就知道 - Google Chrome
+13:08:18:  微记账_百度搜索 - Google Chrome
+13:08:28:  微记账-智能语音记账软件,记账APP,记账工具,随手记账 - Google Chrome
+13:08:53:  微记账_百度搜索 - Google Chrome
+13:09:13:  windows 记账_百度搜索 - Google Chrome
+13:09:18:  windows电脑上有没有好用的记账软件？ - 敬业签 - Google Chrome
+13:09:28:  windows 记账_百度搜索 - Google Chrome
+13:09:38:  记账 - 小众软件 - Google Chrome
+13:09:48:  今日记账 - 只需 0.3 秒记账，可导入微信、支付宝账单[iPhone/Android] - 小众软件 - Google Chrome
+13:10:23:  今日记账 - Google Chrome
+13:10:28:  今日记账 - 只需 0.3 秒记账，可导入微信、支付宝账单[iPhone/Android] - 小众软件 - Google Chrome
+13:10:48:  windows 记账_百度搜索 - Google Chrome
+13:10:53:  首页 - 知乎 - Google Chrome
+13:10:58:  (97 封私信 / 80 条消息) 首页 - 知乎 - Google Chrome
+13:11:03:  (97 封私信 / 80 条消息) 电脑 记账软件 - 搜索结果 - 知乎 - Google Chrome
+13:11:23:  记账 跨平台 - 搜索结果 - 知乎 - Google Chrome
+13:11:28:  (97 封私信 / 80 条消息) 记账 跨平台 - 搜索结果 - 知乎 - Google Chrome
+13:11:53:  知乎 - 安全中心 - Google Chrome
+13:11:58:  (97 封私信 / 80 条消息) 记账 跨平台 - 搜索结果 - 知乎 - Google Chrome
+13:12:08:  百度一下，你就知道 - Google Chrome
+13:12:23:  钱迹 - 记账小能手 - Google Chrome
+13:12:43:  钱迹_百度搜索 - Google Chrome
+13:13:28:  百度一下，你就知道 - Google Chrome
+13:13:33:  随手记——记账就要随手记！随手记免费为您提供：网上账本，预算控制，在线理财，网上记账，账单同步等服务 - Google Chrome
+13:13:48:  随手记_百度搜索 - Google Chrome
+13:14:13:  鲨鱼记账_百度搜索 - Google Chrome
+13:14:18:  鲨鱼记账 - Google Chrome
+13:14:28:  鲨鱼记账_百度搜索 - Google Chrome
+13:14:43:  无标题 - Google Chrome
+13:14:48:  https://www.baidu.com/baidu.php?sc.K60000avpXkFvm7205YhGd8-Cp6yZr1gRpJXmemzReNG8wrvY0FEADmlv8v0H8-eLztyXjva-LPn6mfkxGxq4TTcHsEiT9BtK0hOQIfVVfTUv4a_7xLu6yHmctpEgmMlTICkOg6ZkO4yhJDxoYmzK0Hh1czj1sSbfAu4M0rrghhwgUbxsApnMbbjOxPlZbwo_qNz3WkDsy0Np39PaV66yIaeptan.Db_NR2Ar5Od66uWWxZfuBCXy9varGMnBaJ9GCsnss8swRFblCAmmxLrenPKOYFS7dzyQQ2OZW8zUr_PHnRip5s88ikOv5vOUugugdsRP5QAeKPa-BqM76l32AM-YG8x6Y_mx5u9qX1jeThZ1LmIMVsSvEj4qhZdSZjEq8Z1vmxU43xUgdsRP5Qa1Gk_Edwnmx5u9qX1jeThZ1LmIMVsSvEj4e_r1I9vxQj4en5ovmxgxdsRP5QfHPGmsSX1jex5
+13:14:53:  圈子记账_百度搜索 - Google Chrome
+13:14:58:  圈子记账 | 知晓程序 - Google Chrome
+13:15:03:  圈子记账_百度搜索 - Google Chrome
+13:14:13:  鲨鱼记账_百度搜索 - Google Chrome
+13:14:18:  鲨鱼记账 - Google Chrome
+13:14:28:  鲨鱼记账_百度搜索 - Google Chrome
+13:14:43:  无标题 - Google Chrome
+13:14:48:  https://www.baidu.com/baidu.php?sc.K60000avpXkFvm7205YhGd8-Cp6yZr1gRpJXmemzReNG8wrvY0FEADmlv8v0H8-eLztyXjva-LPn6mfkxGxq4TTcHsEiT9BtK0hOQIfVVfTUv4a_7xLu6yHmctpEgmMlTICkOg6ZkO4yhJDxoYmzK0Hh1czj1sSbfAu4M0rrghhwgUbxsApnMbbjOxPlZbwo_qNz3WkDsy0Np39PaV66yIaeptan.Db_NR2Ar5Od66uWWxZfuBCXy9varGMnBaJ9GCsnss8swRFblCAmmxLrenPKOYFS7dzyQQ2OZW8zUr_PHnRip5s88ikOv5vOUugugdsRP5QAeKPa-BqM76l32AM-YG8x6Y_mx5u9qX1jeThZ1LmIMVsSvEj4qhZdSZjEq8Z1vmxU43xUgdsRP5Qa1Gk_Edwnmx5u9qX1jeThZ1LmIMVsSvEj4e_r1I9vxQj4en5ovmxgxdsRP5QfHPGmsSX1jex5
+13:14:53:  圈子记账_百度搜索 - Google Chrome
+13:14:58:  圈子记账 | 知晓程序 - Google Chrome
+13:15:03:  圈子记账_百度搜索 - Google Chrome
+13:15:13:  圈子账本官网 - Google Chrome
+13:15:28:  圈子记账官网_百度搜索 - Google Chrome
+13:15:58:  松鼠记账--轻生活，简记账。3秒快速记账理财APP，功能简洁，终身免费。 - Google Chrome
+13:16:03:  松鼠记账_百度搜索 - Google Chrome
+13:16:08:  (97 封私信 / 80 条消息) 记账 跨平台 - 搜索结果 - 知乎 - Google Chrome
+13:16:13:  记账 跨平台 win - 搜索结果 - 知乎 - Google Chrome
+13:16:18:  (97 封私信 / 80 条消息) 记账 跨平台 win - 搜索结果 - 知乎 - Google Chrome
+13:19:58:  (97 封私信 / 80 条消息) 记账软件推荐 - 搜索结果 - 知乎 - Google Chrome
+13:21:08:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:25:33:  (97 封私信 / 80 条消息) 记账软件推荐 - 搜索结果 - 知乎 - Google Chrome
+13:25:43:  (97 封私信) 随手记导入支付宝 - 搜索结果 - 知乎 - Google Chrome
+13:26:58:  新标签页 - Google Chrome
+13:27:03:  百度一下，你就知道 - Google Chrome
+13:27:08:  随手记如何导入支付宝账单和微信账单 - 简书 - Google Chrome
+13:27:28:  (97 封私信) 随手记导入支付宝 - 搜索结果 - 知乎 - Google Chrome
+13:27:33:  百度一下，你就知道 - Google Chrome
+13:27:38:  随手记——记账就要随手记！随手记免费为您提供：网上账本，预算控制，在线理财，网上记账，账单同步等服务 - Google Chrome
+13:27:43:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:28:03:  随手记——记账就要随手记！随手记免费为您提供：网上账本，预算控制，在线理财，网上记账，账单同步等服务 - Google Chrome
+13:28:08:  https://login.sui.com/auth.do - Google Chrome
+13:28:13:  随手记 - Google Chrome
+13:28:18:  支付宝消费数据导入 - 随手记 - Google Chrome
+13:28:23:  打开
+13:28:33:  支付宝消费数据导入 - 随手记 - Google Chrome
+13:29:08:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:29:48:  支付宝消费数据导入 - 随手记 - Google Chrome
+13:29:58:  账户 - 随手记 - Google Chrome
+13:28:08:  https://login.sui.com/auth.do - Google Chrome
+13:28:13:  随手记 - Google Chrome
+13:28:18:  支付宝消费数据导入 - 随手记 - Google Chrome
+13:28:23:  打开
+13:28:33:  支付宝消费数据导入 - 随手记 - Google Chrome
+13:29:08:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+13:29:48:  支付宝消费数据导入 - 随手记 - Google Chrome
+13:29:58:  账户 - 随手记 - Google Chrome
+13:32:38:  随手记 - Google Chrome
+13:32:53:  同步动态 - 新功能 - 随手记 - Google Chrome
+13:35:43:  账户 - 随手记 - Google Chrome
+13:36:03:  随手记 - Google Chrome
+13:36:23:  随手记导入支付宝_百度搜索 - Google Chrome
+13:36:28:  https://www.baidu.com/link?url=XJm6cT0jfbqFQWPF9aKR1dDrhqU1efCwijp2LMPocS3QXreblbTqtQFFcT38ewJc&wd=&eqid=ccd021a80005b8e6000000025f6adeda - Google Chrome
+13:36:33:  支付宝 知托付！ - Google Chrome
+13:36:48:  我的支付宝 － 支付宝 - Google Chrome
+13:36:53:  我的账单 - 支付宝 - Google Chrome
+13:37:18:  下载
+13:37:23:  随手记 - Google Chrome
+13:37:33:  下载
+13:37:38:  随手记 - Google Chrome
+13:37:43:  数据导入 - 随手记 - Google Chrome
+13:37:53:  支付宝消费数据导入 - 随手记 - Google Chrome
+13:37:58:  打开
+13:38:08:  支付宝消费数据导入 - 随手记 - Google Chrome
+13:38:33:  账户 - 随手记 - Google Chrome
+13:38:43:  对账报表 - 随手记 - Google Chrome
+13:38:53:  收支预算表 - 随手记 - Google Chrome
+13:38:58:  现金流动表 - 随手记 - Google Chrome
+13:39:03:  对账报表 - 随手记 - Google Chrome
+13:39:23:  账户 - 随手记 - Google Chrome
+13:39:43:  合并重复账单 - 随手记 - Google Chrome
+13:39:53:  随手记 - Google Chrome
+13:40:03:  账户 - 随手记 - Google Chrome
+13:40:13:  随手记-个人中心 - Google Chrome
+13:40:18:  随手记-支出分类 - Google Chrome
+13:40:23:  预算设置 - 随手记 - Google Chrome
+13:41:13:  随手记-支出分类 - Google Chrome
+13:41:48:  账户 - 随手记 - Google Chrome
+13:42:08:  随手记-个人中心 - Google Chrome
+13:42:13:  随手记-支出分类 - Google Chrome
+13:42:23:  随手记-收入分类 - Google Chrome
+13:43:03:  随手记-商家分类 - Google Chrome
+13:43:08:  随手记-项目分类 - Google Chrome
+13:43:18:  随手记-账单模板 - Google Chrome
+13:43:23:  随手记-支出分类 - Google Chrome
+13:43:48:  随手记-个人中心 - Google Chrome
+13:43:58:  随手记 - Google Chrome
+13:44:03:  随手记——记账就要随手记！随手记免费为您提供：网上账本，预算控制，在线理财，网上记账，账单同步等服务 - Google Chrome
+13:44:08:  下载
+13:44:08:  下载
+13:48:14:  新标签页 - Google Chrome
+13:48:24:  随手记_百度搜索 - Google Chrome
+13:48:29:  随手记——记账就要随手记！随手记免费为您提供：网上账本，预算控制，在线理财，网上记账，账单同步等服务 - Google Chrome
+13:48:34:  随手记 - Google Chrome
+13:48:39:  账户 - 随手记 - Google Chrome
+13:49:49:  合并重复账单 - 随手记 - Google Chrome
+13:50:09:  账户 - 随手记 - Google Chrome
+13:52:59:  支付宝消费数据导入 - 随手记 - Google Chrome
+14:00:04:  alipay_record_20200923_1337_1.csv - Excel
+14:00:04:  alipay_record_20200923_1337_1.csv - Excel
+14:00:19:  alipay_record_20200923_1337
+14:00:24:  支付宝消费数据导入 - 随手记 - Google Chrome
+14:02:49:  数据导入 - 随手记 - Google Chrome
+14:02:59:  随手记客户端版数据导入 - 随手记 - Google Chrome
+14:03:04:  数据导入 - 随手记 - Google Chrome
+14:03:14:  新标签页 - Google Chrome
+14:03:19:  百度一下，你就知道 - Google Chrome
+14:03:29:  随手记客户端版_百度搜索 - Google Chrome
+14:03:34:  随手记——记账就要随手记！随手记客户端下载中心 - Google Chrome
+14:03:44:  数据导入 - 随手记 - Google Chrome
+14:03:49:  随手记 - Google Chrome
+14:03:59:  alipay_record_20200923_1337
+14:04:04:  随手记 - Google Chrome
+14:04:19:  随手记-个人中心 - Google Chrome
+14:04:24:  预算设置 - 随手记 - Google Chrome
+14:04:34:  随手记 - Google Chrome
+14:04:59:  日常收支表 - 随手记 - Google Chrome
+14:05:04:  随手记 - Google Chrome
+14:05:09:  账户 - 随手记 - Google Chrome
+14:05:44:  日常收支表 - 随手记 - Google Chrome
+14:05:49:  收支趋势图 - 随手记 - Google Chrome
+14:06:19:  基金优选 - 随手记 - Google Chrome
+14:06:34:  收支趋势图 - 随手记 - Google Chrome
+14:06:39:  收支预算表 - 随手记 - Google Chrome
+14:06:49:  账户 - 随手记 - Google Chrome
+14:07:59:  随手记 - Google Chrome
+14:08:29:  日常收支表 - 随手记 - Google Chrome
+14:08:49:  现金流动表 - 随手记 - Google Chrome
+14:08:54:  日常收支表 - 随手记 - Google Chrome
+14:08:59:  随手记-个人中心 - Google Chrome
+14:09:04:  随手记-安全中心 - Google Chrome
+14:09:14:  随手记-高级设置 - Google Chrome
+14:09:29:  随手记-支出分类 - Google Chrome
+14:09:34:  随手记-收入分类 - Google Chrome
+14:09:39:  随手记-支出分类 - Google Chrome
+14:09:49:  记账 - 随手记 - Google Chrome
+14:10:09:  账户 - 随手记 - Google Chrome
+14:10:19:  随手记 - Google Chrome
+14:10:24:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:11:09:  随手记 - Google Chrome
+14:11:14:  数据导入 - 随手记 - Google Chrome
+14:11:19:  支付宝消费数据导入 - 随手记 - Google Chrome
+14:13:09:  随手记 - Google Chrome
+14:13:14:  账户 - 随手记 - Google Chrome
+14:14:04:  alipay_record_20200923_0951
+14:14:09:  alipay_record_20200923_1337
+14:14:14:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200923_1337\TheOneForExcel - 副本.py (3.7.3)
+14:14:19:  C:\Windows\py.exe
+14:14:24:  TheDateInfo.xls  [兼容模式] - Excel
+14:14:44:  账户 - 随手记 - Google Chrome
+14:14:49:  alipay_record_20200923_1337
+14:14:54:  TheDateInfo.xls  [兼容模式] - Excel
+14:14:09:  alipay_record_20200923_1337
+14:14:14:  TheOneForExcel - 副本.py - C:\Users\zhangkaifa\Downloads\alipay_record_20200923_1337\TheOneForExcel - 副本.py (3.7.3)
+14:14:19:  C:\Windows\py.exe
+14:14:24:  TheDateInfo.xls  [兼容模式] - Excel
+14:14:44:  账户 - 随手记 - Google Chrome
+14:14:49:  alipay_record_20200923_1337
+14:14:54:  TheDateInfo.xls  [兼容模式] - Excel
+14:15:14:  账户 - 随手记 - Google Chrome
+14:15:39:  TheDateInfo.xls  [兼容模式] - Excel
+14:16:59:  账户 - 随手记 - Google Chrome
+14:17:04:  TheDateInfo.xls  [兼容模式] - Excel
+14:17:14:  账户 - 随手记 - Google Chrome
+14:18:29:  TheDateInfo.xls  [兼容模式] - Excel
+14:20:14:  账户 - 随手记 - Google Chrome
+14:20:29:  TheDateInfo.xls  [兼容模式] - Excel
+14:22:44:  新北洋OA信息化平台 - Internet Explorer
+14:23:04:  费用报销流程_新北洋 - Internet Explorer
+14:23:09:  eSpace
+14:23:14:  于斌1
+14:23:19:  eSpace
+14:23:24:  费用报销流程_新北洋 - Internet Explorer
+14:23:34:  TheDateInfo.xls  [兼容模式] - Excel
+14:24:19:  账户 - 随手记 - Google Chrome
+14:24:24:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:24:44:  TheDateInfo.xls  [兼容模式] - Excel
+14:30:14:  吉哲
+14:30:19:  TheDateInfo.xls  [兼容模式] - Excel
+14:31:24:  eSpace
+14:31:29:  程明昌
+14:31:49:  TheDateInfo.xls  [兼容模式] - Excel
+14:32:49:  锁屏状态
+14:32:54:  程明昌
+14:32:59:  TheDateInfo.xls  [兼容模式] - Excel
+14:35:09:  于斌1
+14:35:14:  TheDateInfo.xls  [兼容模式] - Excel
+14:43:55:  账户 - 随手记 - Google Chrome
+14:48:35:  随手记-支出分类 - Google Chrome
+14:48:45:  预算设置 - 随手记 - Google Chrome
+14:49:10:  TheDateInfo.xls  [兼容模式] - Excel
+14:54:00:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:54:15:  eSpace
+14:54:25:  程明昌
+14:54:40:  新建文本文档.exe - 快捷方式
+14:54:45:  程明昌
+14:55:05:  CashBoxModuleApp.c - TortoiseMerge
+14:55:10:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+14:55:15:  本地磁盘 (D:)
+14:55:20:  00-06
+14:56:00:  程明昌
+14:59:10:  00-06
+14:59:15:  预算设置 - 随手记 - Google Chrome
+14:59:25:  费用报销流程_新北洋 - Internet Explorer
+14:59:50:  PeopleSoft 会话已过期 - Internet Explorer
+14:59:55:  新北洋OA信息化平台 - Internet Explorer
+15:00:00:  PeopleSoft 会话已过期 - Internet Explorer
+14:59:10:  00-06
+14:59:15:  预算设置 - 随手记 - Google Chrome
+14:59:25:  费用报销流程_新北洋 - Internet Explorer
+14:59:50:  PeopleSoft 会话已过期 - Internet Explorer
+14:59:55:  新北洋OA信息化平台 - Internet Explorer
+15:00:00:  PeopleSoft 会话已过期 - Internet Explorer
+15:00:05:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:01:45:  fenxi
+15:02:00:  新建文件夹 (4)
+15:02:05:  20200908
+15:02:15:  小大面额居左大额存款第99张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X884602B4
+15:02:20:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+15:03:05:  LOG
+15:03:10:  Box_3__BTCR-1100190802300005_20200923133418.log - DRB.tat* - TextAnalysisTool.NET
+15:05:05:  小大面额居左大额存款第99张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X884602B4
+15:05:10:  20200908
+15:05:15:  TCRControlCmdDLL
+15:05:30:  Decode
+15:08:10:  Box_3__BTCR-1100190802300005_20200923133418.log - DRB.tat* - TextAnalysisTool.NET
+15:09:55:  Decode
+15:10:00:  K64_BTCR-1100190802300005_20200923135528
+15:10:05:  Box_3__BTCR-1100190802300005_20200923135528.log - DRB.tat* - TextAnalysisTool.NET
+15:10:20:  回复: 混合面额入DRB上腔卡钞问题 - 写邮件
+15:10:50:  回复: 混合面额入DRB上腔卡钞问题 - 写邮件   15:10:46 已保存
+15:11:50:  回复: 混合面额入DRB上腔卡钞问题 - 写邮件   15:11:46 已保存
+15:12:50:  回复: 混合面额入DRB上腔卡钞问题 - 写邮件   15:12:47 已保存
+15:13:20:  Box_3__BTCR-1100190802300005_20200923135528.log - DRB.tat* - TextAnalysisTool.NET
+15:13:40:  回复: 混合面额入DRB上腔卡钞问题 - 写邮件   15:12:47 已保存
+15:13:50:  Decode
+15:13:55:  小大面额混合第74张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X884602B5
+15:14:00:  TCRControlCmdDLL
+15:14:05:  20200923
+15:14:10:  Decode
+15:14:15:  K64_BTCR-1100190802300005_20200923133418
+15:14:20:  Box_3__BTCR-1100190802300005_20200923133418.log - DRB.tat* - TextAnalysisTool.NET
+15:14:30:  回复: 混合面额入DRB上腔卡钞问题 - 写邮件   15:13:47 已保存
+15:14:50:  回复: 混合面额入DRB上腔卡钞问题 - 写邮件   15:14:47 已保存
+15:14:05:  20200923
+15:14:10:  Decode
+15:14:15:  K64_BTCR-1100190802300005_20200923133418
+15:14:20:  Box_3__BTCR-1100190802300005_20200923133418.log - DRB.tat* - TextAnalysisTool.NET
+15:14:30:  回复: 混合面额入DRB上腔卡钞问题 - 写邮件   15:13:47 已保存
+15:14:50:  回复: 混合面额入DRB上腔卡钞问题 - 写邮件   15:14:47 已保存
+15:15:30:  Box_3__BTCR-1100190802300005_20200923133418.log - DRB.tat* - TextAnalysisTool.NET
+15:15:35:  eSpace
+15:15:50:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:15:55:  eSpace
+15:16:25:  Box_3__BTCR-1100190802300005_20200923133418.log - DRB.tat* - TextAnalysisTool.NET
+15:18:45:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:18:50:  CashBoxModuleApp.c - TortoiseMerge
+15:18:55:  E:\深圳出差\CRS-64-1 - 工作副本 - TortoiseSVN
+15:19:00:  CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]
+15:23:30:  TCR调测工具（研发版）V1.0.0.4
+15:23:50:  本地磁盘 (E:)
+15:23:55:  深圳出差
+15:24:00:  E:\深圳出差\CRS-64-1\Tools\CreateJK.exe
+15:24:05:  E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision
+15:24:10:  TCR调测工具（研发版）V1.0.0.4
+15:24:15:  打开
+15:24:25:  TCR调测工具（研发版）V1.0.0.4
+15:29:40:  发送指令到K18
+15:29:55:  于斌1
+15:29:40:  发送指令到K18
+15:29:55:  于斌1
+15:30:10:  TCR调测工具（研发版）V1.0.0.4
+15:30:40:  发送指令到K18
+15:30:45:  TCR调测工具（研发版）V1.0.0.4
+15:30:55:  发送指令到K18
+15:31:05:  TCR调测工具（研发版）V1.0.0.4
+15:31:45:  传感器AD值测试
+15:31:55:  TCR调测工具（研发版）V1.0.0.4
+15:32:00:  发送指令到K18
+15:32:30:  TCR调测工具（研发版）V1.0.0.4
+15:32:35:  发送指令到K18
+15:32:50:  TCR调测工具（研发版）V1.0.0.4
+15:32:55:  发送指令到K18
+15:33:15:  TCR调测工具（研发版）V1.0.0.4
+15:33:50:  运行
+15:33:55:  06- 刘建生
+15:34:00:  06 固件日报
+15:34:05:  CRS
+15:34:10:  无标题 - 记事本
+15:34:15:  查找
+15:34:20:  TCR调测工具（研发版）V1.0.0.4
+15:34:25:  发送指令到K18
+15:34:35:  传感器AD值测试
+15:37:40:  错误码表
+15:37:50:  传感器AD值测试
+15:38:40:  TCR调测工具（研发版）V1.0.0.4
+15:39:25:  CRS_ErrCode_list_excel_flg.txt - 记事本
+15:39:30:  查找
+15:40:05:  TCR调测工具（研发版）V1.0.0.4
+15:40:15:  发送指令到K18
+15:40:30:  TCR调测工具（研发版）V1.0.0.4
+15:40:35:  发送指令到K18
+15:40:45:  TCR调测工具（研发版）V1.0.0.4
+15:40:55:  发送指令到K18
+15:41:10:  TCR调测工具（研发版）V1.0.0.4
+15:41:15:  传感器AD值测试
+15:41:20:  TCR调测工具（研发版）V1.0.0.4
+15:41:30:  跳转列表
+15:41:35:  log
+15:41:40:  20200923
+15:41:45:  Decode
+15:41:50:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+15:41:55:  Decode
+15:42:00:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+15:42:05:  K18_0000_20200923153838.log - [No filter file] - TextAnalysisTool.NET
+15:43:30:  本地磁盘 (D:)
+15:44:00:  KE18-ESS
+15:44:15:  D:\CRS\KE18-ESS - 日志信息 - TortoiseSVN
+15:44:20:  KE18-UP
+15:44:25:  D:\CRS\KE18-UP - 日志信息 - TortoiseSVN
+15:44:45:  KE18-UP
+15:44:50:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+15:44:55:  KE18-UP
+15:45:00:  D:\CRS\KE18-UP - 日志信息 - TortoiseSVN
+15:44:15:  D:\CRS\KE18-ESS - 日志信息 - TortoiseSVN
+15:44:20:  KE18-UP
+15:44:25:  D:\CRS\KE18-UP - 日志信息 - TortoiseSVN
+15:44:45:  KE18-UP
+15:44:50:  D:\CRS\KE18-UP - 工作副本 - TortoiseSVN
+15:44:55:  KE18-UP
+15:45:00:  D:\CRS\KE18-UP - 日志信息 - TortoiseSVN
+15:45:05:  CRS
+15:45:30:  5555
+15:45:35:   - 版本库浏览器 - TortoiseSVN
+15:45:50:  trunk - 检出 - TortoiseSVN
+15:46:05:  检出 完成！
+15:47:25:  Project
+15:47:30:  μVision
+15:47:35:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+15:53:40:  μVision
+15:53:45:  Options for Target 'Escrow'
+15:53:55:  D:\CRS\5555\Project\ke18_rtt.uvprojx - μVision
+15:54:05:  TCR调测工具（研发版）V1.0.0.4
+15:55:40:  新建文件夹 (4)
+15:55:45:  删除文件夹
+15:55:50:  TCR调测工具（研发版）V1.0.0.4
+15:56:05:  大小面额第130张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X884602B4
+15:56:10:  TCR调测工具（研发版）V1.0.0.4
+15:56:20:  大小面额第130张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X884602B4
+15:56:25:  20200923
+15:56:30:  Decode
+15:58:10:  TCR调测工具（研发版）V1.0.0.4
+15:59:35:  发送指令到K18
+15:59:45:  TCR调测工具（研发版）V1.0.0.4
+15:59:50:  发送指令到K18
+15:58:10:  TCR调测工具（研发版）V1.0.0.4
+15:59:35:  发送指令到K18
+15:59:45:  TCR调测工具（研发版）V1.0.0.4
+15:59:50:  发送指令到K18
+16:00:20:  TCR调测工具（研发版）V1.0.0.4
+16:00:25:  Decode
+16:00:35:  LOG
+16:00:40:  TCRControlCmdDLL
+16:00:45:  20200923
+16:00:50:  Decode
+16:00:55:  K18_0000_20200923155813.log - [No filter file] - TextAnalysisTool.NET
+16:01:50:  Decode
+16:01:55:  20200923
+16:02:00:  发送指令到K18
+16:02:05:  20200923
+16:02:15:  K18_0000_20200923155813.log - [No filter file] - TextAnalysisTool.NET
+16:02:25:  发送指令到K18
+16:02:30:  Decode
+16:02:40:  K18_0000_20200923155813.log - [No filter file] - TextAnalysisTool.NET
+16:03:20:  发送指令到K18
+16:03:25:  Decode
+16:03:35:  K18_0000_20200923155813.log - [No filter file] - TextAnalysisTool.NET
+16:03:40:  Decode
+16:03:45:  发送指令到K18
+16:03:55:  20200923
+16:04:00:  K18_0000_20200923155813.log - [No filter file] - TextAnalysisTool.NET
+16:04:35:  发送指令到K18
+16:04:40:  20200923
+16:04:45:  K18_0000_20200923155813.log - [No filter file] - TextAnalysisTool.NET
+16:05:50:  20200923
+16:05:55:  本地磁盘 (D:)
+16:06:11:  DRB--
+16:06:16:  μVision
+16:07:46:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+16:09:01:  于斌1
+16:09:11:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+16:09:21:  Watch 1
+16:09:26:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+16:09:31:  于斌1
+16:09:36:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+16:12:31:  于斌1
+16:15:56:  KE06LOG.bat - 快捷方式 (2)
+16:16:01:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+16:17:46:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+16:22:41:  Project
+16:22:46:  跳转列表
+16:22:51:  CRS_ErrCode_list_excel_flg.txt - 记事本
+16:25:46:  新北洋OA信息化平台 - Internet Explorer
+16:25:51:  http://hrms.byintra.com:8800/psc/HCMPRD/EMPLOYEE/HRMS/s/WEBLIB_PORTAL1.ICRIPTPORTAL.FieldFormul - Internet Explorer
+16:25:56:  Employee-facing registry content - Internet Explorer
+16:26:01:  绩效申请 - Internet Explorer
+16:26:46:  Employee-facing registry content - Internet Explorer
+16:26:51:  绩效申请 - Internet Explorer
+16:28:56:  计算器
+16:29:06:  绩效申请 - Internet Explorer
+16:29:26:  计算器
+16:29:36:  绩效申请 - Internet Explorer
+16:28:56:  计算器
+16:29:06:  绩效申请 - Internet Explorer
+16:29:26:  计算器
+16:29:36:  绩效申请 - Internet Explorer
+16:31:01:  ps系统绩效考核操作手册-被考核人部分V1.1.docx
+16:31:06:  绩效申请 - Internet Explorer
+16:37:16:  6月-7月 员工能力提升双月测评计划表--固件一室--张开发.xlsx
+16:37:21:  6月-7月 员工能力提升双月测评计划表--固件一室--张开发.xlsx  [只读] - Excel
+16:37:26:  绩效申请 - Internet Explorer
+16:39:21:  新北洋OA信息化平台 - Internet Explorer
+16:39:26:  Internet Explorer
+16:39:31:  CRS_ErrCode_list_excel_flg.txt - 记事本
+16:49:16:  转发: 请确认，无问题请传达至员工了解
+16:50:46:  主页 - Internet Explorer
+16:50:51:  新北洋OA信息化平台 - Internet Explorer
+16:50:56:  http://hrms.byintra.com:8800/psc/HCMPRD/EMPLOYEE/HRMS/s/WEBLIB_PORTAL1.ICRIPTPORTAL.FieldFormul - Internet Explorer
+16:51:01:  Employee-facing registry content - Internet Explorer
+16:51:06:  绩效申请 - Internet Explorer
+16:51:31:  员工自助 - Internet Explorer
+16:51:36:  转发: 请确认，无问题请传达至员工了解
+16:52:56:  CRS_ErrCode_list_excel_flg.txt - 记事本
+16:54:36:  锁屏状态
+16:54:41:  系统登录 - Internet Explorer
+16:54:46:  员工自助 - Internet Explorer
+16:54:51:  Employee-facing registry content - Internet Explorer
+16:55:01:  绩效申请 - Internet Explorer
+16:55:11:  员工自助 - Internet Explorer
+16:57:21:  于斌1
+16:57:46:  员工自助 - Internet Explorer
+16:58:31:  登录页面 - 数据抓取工具 - Google Chrome
+16:58:36:  :: - Google Chrome
+16:58:41:  班车管理系统 - Google Chrome
+16:58:46:  班车管理系统 [新北洋集团] - Google Chrome
+16:59:21:  员工自助 - Internet Explorer
+16:59:46:  考勤异常 - Internet Explorer
+16:58:31:  登录页面 - 数据抓取工具 - Google Chrome
+16:58:36:  :: - Google Chrome
+16:58:41:  班车管理系统 - Google Chrome
+16:58:46:  班车管理系统 [新北洋集团] - Google Chrome
+16:59:21:  员工自助 - Internet Explorer
+16:59:46:  考勤异常 - Internet Explorer
+17:04:21:  郑磊
+17:16:22:  Internet Explorer
+17:16:27:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+17:16:32:  JLink - Cortex-M Error
+17:16:37:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+17:16:42:  JLink - Cortex-M Error
+17:16:47:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+17:17:27:  Options for Target 'CashBox_1T2_Debug'
+17:17:32:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+17:18:12:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009231609.log
+17:18:17:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202009231718.log
+17:18:22:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+17:19:57:  Toolbox
+17:20:02:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+17:21:27:  Toolbox
+17:21:32:  D:\00-06\DRB--\Project\CashBox_1T2.uvprojx - μVision
+17:22:52:  锁屏状态

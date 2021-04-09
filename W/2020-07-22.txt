@@ -1,0 +1,995 @@
+08:03:40:  D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision
+08:06:05:  自动播放
+08:06:15:  姚世龙
+08:06:40:  本地磁盘 (D:)
+08:07:15:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:07:20:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:07:40:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+08:07:50:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:08:00:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:08:15:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:08:20:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:10:55:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:11:00:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:15:46:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:16:46:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+08:16:51:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:17:01:  ● CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:17:06:  CheckTheBookTital.py - DRB-PRESS - Visual Studio Code [管理员]
+08:17:11:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:20:16:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+08:20:21:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:21:01:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:23:46:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+08:23:51:  威海新北洋 (G:)
+08:24:01:  scope_191.png - Windows 照片查看器
+08:24:06:  威海新北洋 (G:)
+08:24:11:  本地磁盘 (D:)
+08:24:16:  DRB集成测试
+08:24:21:  新建文件夹 (2)
+08:24:31:  Spiflash
+08:24:36:  scope_192.png - Windows 照片查看器
+08:24:41:  scope_196.png - Windows 照片查看器
+08:24:46:  scope_198.png - Windows 照片查看器
+08:24:51:  scope_200.png - Windows 照片查看器
+08:24:56:  scope_202.png - Windows 照片查看器
+08:25:01:  scope_204.png - Windows 照片查看器
+08:25:11:  Spiflash
+08:25:16:  计算机
+08:25:21:  钞箱集成测试方案-报告
+08:25:26:  从控制板集成测试方案-报告
+08:25:31:  主控板集成测试方案-报告
+08:25:51:  正在打开 - 
+08:25:56:  PowerPoint
+08:26:01:  5.2 EEPROM信号测试v1.0.pptx - PowerPoint
+08:26:51:  scope_195.png - Windows 照片查看器
+08:26:56:  Spiflash
+08:27:01:  插入图片
+08:27:21:  5.2 EEPROM信号测试v1.0.pptx - PowerPoint
+08:27:46:  插入图片
+08:27:51:  5.2 EEPROM信号测试v1.0.pptx - PowerPoint
+08:29:06:  插入图片
+08:29:11:  5.2 EEPROM信号测试v1.0.pptx - PowerPoint
+08:29:46:  插入图片
+08:29:51:  5.2 EEPROM信号测试v1.0.pptx - PowerPoint
+08:29:06:  插入图片
+08:29:11:  5.2 EEPROM信号测试v1.0.pptx - PowerPoint
+08:29:46:  插入图片
+08:29:51:  5.2 EEPROM信号测试v1.0.pptx - PowerPoint
+08:30:22:  插入图片
+08:30:32:  5.2 EEPROM信号测试v1.0.pptx - PowerPoint
+08:31:27:  Spiflash
+08:31:37:  本地磁盘 (D:)
+08:31:42:  钞箱1T2集成测试方案
+08:32:37:  5.4 日志功能测试.xls  [兼容模式] - Excel
+08:33:37:  钞箱1T2集成测试方案
+08:33:42:  Excel
+08:33:47:  新建文件夹 (2)
+08:33:52:  6.4.1 钞箱中断及线程资源测试V1.0.xlsx - Excel
+08:34:22:  新建文件夹 (2)
+08:34:27:  复制文件
+08:34:32:  D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)
+08:34:42:  警告
+08:34:47:  桌面整理
+08:34:52:  主控板集成测试方案-报告
+08:34:57:  问题日志
+08:35:07:  正在打开 - DRB钞箱工程样机系统测试问题列表.xlsx
+08:35:12:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+08:35:22:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+08:37:02:  问题日志
+08:37:07:  IMG_20200711_154902.jpg - Windows 照片查看器
+08:37:12:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+08:37:17:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+08:37:32:  Decode
+08:39:07:  LOG
+08:39:12:  K64_BTCR-1100190803000001_20200711154238
+08:39:17:  Box_2__BTCR-1100190803000001_20200711154238.log - DRB.tat* - TextAnalysisTool.NET
+08:39:22:  打开
+08:39:27:  Box_2__BTCR-1100190803000001_20200711154238.log - DRB.tat - TextAnalysisTool.NET
+08:39:32:  Edit Filter
+08:39:37:  Box_2__BTCR-1100190803000001_20200711154238.log - DRB.tat* - TextAnalysisTool.NET
+08:49:17:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+08:51:22:  于斌1
+09:03:42:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+09:04:32:  于斌1
+09:04:47:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+09:06:02:  于斌1
+09:06:12:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+09:06:37:  问题日志
+09:06:42:  IMG_20200714_091035.jpg - Windows 照片查看器
+09:06:47:  IMG_20200714_091011.jpg - Windows 照片查看器
+09:06:52:  ID-15 6#居右上腔50元大额取款197张报通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS09 返回码0X80460210
+09:06:57:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:07:07:  Decode
+09:09:27:  于斌1
+09:09:42:  Decode
+09:09:47:  Box_2__BTCR-1100190803000001_20200711154238.log - DRB.tat* - TextAnalysisTool.NET
+09:09:52:  Box_1__BTCR-1100190802300005_20200714090443.log - DRB.tat* - TextAnalysisTool.NET
+09:10:12:  LOG
+09:10:17:  Box_1__BTCR-1100190802300005_20200714090346.log - DRB.tat* - TextAnalysisTool.NET
+09:10:22:  K64_BTCR-1100190802300005_20200714090346
+09:10:27:  K64_BTCR-1100190802300005_20200714090443
+09:10:32:  Box_1__BTCR-1100190802300005_20200714090443.log - DRB.tat* - TextAnalysisTool.NET
+09:10:52:  K64-_BTCR-1100190802300005_20200714090443.log - DRB.tat* - TextAnalysisTool.NET
+09:10:57:  Decode
+09:11:12:  于斌1
+09:15:37:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+09:15:42:  ● settings.json - DRB-PRESS - Visual Studio Code [管理员]
+09:25:37:  settings.json - DRB-PRESS - Visual Studio Code [管理员]
+09:25:42:  胡蕊
+09:26:47:  本地磁盘 (D:)
+09:26:52:  DRB-New
+09:27:02:  本地磁盘 (D:)
+09:27:07:  00-KE64
+09:27:12:  trunk
+09:27:17:  D:\00-KE64\trunk - 版本库浏览器 - TortoiseSVN
+09:27:32:  胡蕊
+09:27:57:  D:\00-KE64\trunk - 版本库浏览器 - TortoiseSVN
+09:28:02:  胡蕊
+09:28:52:  trunk
+09:28:57:  DRB-PRESS
+09:29:12:  胡蕊
+09:29:27:  00-KE64
+09:29:32:  胡蕊
+09:29:42:  trunk
+09:29:52:  本地磁盘 (D:)
+09:29:57:  BR-1-CashBox1T2-Press.txt - 记事本
+09:28:52:  trunk
+09:28:57:  DRB-PRESS
+09:29:12:  胡蕊
+09:29:27:  00-KE64
+09:29:32:  胡蕊
+09:29:42:  trunk
+09:29:52:  本地磁盘 (D:)
+09:29:57:  BR-1-CashBox1T2-Press.txt - 记事本
+09:30:07:  胡蕊
+09:30:22:  BR-1-CashBox1T2-Press.txt - 记事本
+09:30:27:  DRB-PRESS
+09:30:32:  ID-15 6#居右上腔50元大额取款197张报通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS09 返回码0X80460210
+09:30:37:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+09:31:22:  胡蕊
+09:31:37:  DRB-New
+09:31:42:  D:\00-06\DRB-New\branches\BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+09:32:02:  BR-1-CashBox1T2
+09:32:07:  新标签页 - Google Chrome
+09:32:12:  SonarQube - Google Chrome
+09:32:37:  项目 - Google Chrome
+09:33:12:  BR-1-CashBox1T2
+09:33:17:  D:\00-06\DRB-New\branches\BR-1-CashBox1T2 - 日志信息 - TortoiseSVN
+09:33:27:  DRB-PRESS
+09:33:32:  提交
+09:33:37:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+09:34:12:  Initial.c - TortoiseMerge
+09:34:22:  Update.c - TortoiseMerge
+09:34:27:  D:\00-06\DRB-PRESS - 日志信息 - TortoiseSVN
+09:34:37:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+09:35:07:  DRB-PRESS
+09:35:12:  BR-1-CashBox1T2-Press.txt - 记事本
+09:35:27:  D:\00-06\DRB-PRESS - 提交 - TortoiseSVN
+09:35:47:  项目 - Google Chrome
+09:36:02:  settings.json - DRB-PRESS - Visual Studio Code [管理员]
+09:36:07:  问题日志
+09:36:12:  IMG_20200714_102900.jpg - Windows 照片查看器
+09:36:17:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+09:36:22:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+09:36:57:  Decode
+09:38:22:  K64-_BTCR-1100190802300005_20200714090443.log - DRB.tat* - TextAnalysisTool.NET
+09:38:27:  Box_2__BTCR-1100190802300005_20200714102442.log - DRB.tat* - TextAnalysisTool.NET
+09:38:32:  K64-_BTCR-1100190802300005_20200714102442.log - DRB.tat* - TextAnalysisTool.NET
+09:38:47:  Box_2__BTCR-1100190802300005_20200714102442.log - DRB.tat* - TextAnalysisTool.NET
+09:41:47:  ID-16 6#居左上腔20元RB21-RB4盘点272张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+09:41:52:  捕获.PNG - Windows 照片查看器
+09:41:57:  IMG_20200714_102803.jpg - Windows 照片查看器
+09:42:02:  锁屏状态
+09:42:07:  Box_2__BTCR-1100190802300005_20200714102442.log - DRB.tat* - TextAnalysisTool.NET
+10:02:32:  ID-16 6#居左上腔20元RB21-RB4盘点272张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+10:02:42:  IMG_20200714_102900.jpg - Windows 照片查看器
+10:02:47:  Box_2__BTCR-1100190802300005_20200714102442.log - DRB.tat* - TextAnalysisTool.NET
+10:02:57:  于斌1
+10:05:07:  Box_2__BTCR-1100190802300005_20200714102442.log - DRB.tat* - TextAnalysisTool.NET
+10:05:12:  项目 - Google Chrome
+10:05:22:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:05:27:  Undeclared identifier 'Image' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:05:32:  Type mismatch (arg. no. 1) (enum/enum) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:05:57:  Undeclared identifier 'IMPORT' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:06:02:  Type mismatch (arg. no. 1) (enum/enum) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:06:07:  网易有道词典
+10:06:17:  Type mismatch (arg. no. 1) (enum/enum) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:06:22:  D:\00-06\DRB-PRESS\Drivers\PeripheralDriver\SpiDriver\SnbcSpiDriver.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:06:27:  D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:06:32:  D:\00-06\DRB-PRESS\Middlewares\Lock\Lock.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:06:37:  Type mismatch (arg. no. 1) (enum/enum) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:06:52:  D:\00-06\DRB-PRESS\Applications\LogHandle\LogHandle.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:06:57:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrHandle.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:07:02:  D:\00-06\DRB-PRESS\Middlewares\Lock\Lock.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:07:17:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:07:22:  Type mismatch (arg. no. 1) (enum/enum) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:07:47:  Undeclared identifier 'IMPORT' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:07:52:  Possible access of out-of-bounds pointer (1 beyond end of data) by operator '[' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\PeripheralDriver\Ke06bsp\ftm.c: lines 192, 219] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:08:17:  Symbol '_psp_subtract_ticks_int32(struct psp_tick_struct *, struct psp_tick_struct *, unsigned long *)' redeclared (Arg. no. 1: origin, Arg. no. 2: origin) conflicts with line 139, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Rtos\MQXLITE\psp\cortex_m\psp_ticks.h - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:08:22:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+10:08:27:  Box_2__BTCR-1100190802300005_20200714102442.log - DRB.tat* - TextAnalysisTool.NET
+10:10:33:  eSpace
+10:10:38:  Box_2__BTCR-1100190802300005_20200714102442.log - DRB.tat* - TextAnalysisTool.NET
+10:12:58:  程明昌
+10:13:18:  吉哲
+10:13:28:  Box_2__BTCR-1100190802300005_20200714102442.log - DRB.tat* - TextAnalysisTool.NET
+10:18:43:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+10:19:23:  Box_2__BTCR-1100190802300005_20200714102442.log - DRB.tat* - TextAnalysisTool.NET
+10:19:28:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+10:21:03:  Box_2__BTCR-1100190802300005_20200714102442.log - DRB.tat* - TextAnalysisTool.NET
+10:21:58:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+10:23:33:  eSpace
+10:30:58:  ID-16 6#居左上腔20元RB21-RB4盘点272张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X874602B8
+10:31:03:  问题日志
+10:31:13:  IMG_20200717_100620.jpg - Windows 照片查看器
+10:31:18:  Windows 照片查看器
+10:31:23:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+10:31:28:  ID-18-2 5元C面向居右盘点T20-T40第454张报 通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS12 返回码0X8046020F
+10:31:38:  自动播放
+10:33:08:  ID-18-2 5元C面向居右盘点T20-T40第454张报 通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS12 返回码0X8046020F
+10:33:13:  Decode
+10:33:28:  正在复制 3 个项目(23.8 MB)
+10:33:33:  fenxi
+10:33:38:  新建文件夹 (3)
+10:33:43:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+10:34:48:  于斌1
+10:35:33:  eSpace
+10:35:38:  K64_BTCR-1100190803000001_20200717095610
+10:35:43:  Box_2__BTCR-1100190803000001_20200717095610.log - DRB.tat* - TextAnalysisTool.NET
+10:37:18:  主页 - Internet Explorer
+10:37:23:  系统登录 - Internet Explorer
+10:37:28:  新北洋OA信息化平台 - Internet Explorer
+10:37:33:  新北洋2020年节假日列表.xlsx  [受保护的视图] - Excel
+10:37:58:  新北洋OA信息化平台 - Internet Explorer
+10:38:08:  2020年新北洋张村食堂7.20-7.26菜谱.xlsx  [受保护的视图] - Excel
+10:38:13:  新北洋OA信息化平台 - Internet Explorer
+10:38:18:  2020年新北洋张村食堂7.20-7.26菜谱.xlsx  [受保护的视图] - Excel
+10:38:48:  于斌1
+10:38:58:  eSpace
+10:39:03:  Box_2__BTCR-1100190803000001_20200717095610.log - DRB.tat* - TextAnalysisTool.NET
+10:39:48:  Starting Fiddler...
+10:39:53:  Progress Telerik Fiddler Web Debugger
+10:39:58:  锁屏状态
+10:40:03:  主页 - Internet Explorer
+10:40:08:  Progress Telerik Fiddler Web Debugger
+10:40:13:  新北洋OA信息化平台 - Internet Explorer
+10:40:23:  Progress Telerik Fiddler Web Debugger
+10:42:33:  Fiddler_10-42-23.htm - 记事本
+10:42:38:  Progress Telerik Fiddler Web Debugger
+10:43:18:  新北洋OA信息化平台 - Internet Explorer
+10:43:23:  系统登录 - Internet Explorer
+10:43:38:  新北洋OA信息化平台 - Internet Explorer
+10:43:43:  Progress Telerik Fiddler Web Debugger
+10:44:18:  本地磁盘 (F:)
+10:44:23:  小程序
+10:44:33:  GetTheideal.py - F:\小程序\GetTheideal.py (3.7.3)
+10:44:38:  *Python 3.7.3 Shell*
+10:44:48:  GetTheideal.py - F:\小程序\GetTheideal.py (3.7.3)
+10:44:18:  本地磁盘 (F:)
+10:44:23:  小程序
+10:44:33:  GetTheideal.py - F:\小程序\GetTheideal.py (3.7.3)
+10:44:38:  *Python 3.7.3 Shell*
+10:44:48:  GetTheideal.py - F:\小程序\GetTheideal.py (3.7.3)
+10:45:33:  *Python 3.7.3 Shell*
+10:45:58:  GetTheideal.py - F:\小程序\GetTheideal.py (3.7.3)
+10:46:08:  新北洋OA信息化平台 - Internet Explorer
+10:46:13:  Progress Telerik Fiddler Web Debugger
+10:46:28:  GetTheideal.py - F:\小程序\GetTheideal.py (3.7.3)
+10:46:48:  *Python 3.7.3 Shell*
+10:46:53:  GetTheideal.py - F:\小程序\GetTheideal.py (3.7.3)
+10:46:58:  Progress Telerik Fiddler Web Debugger
+10:47:23:  GetTheideal.py - F:\小程序\GetTheideal.py (3.7.3)
+10:47:28:  Progress Telerik Fiddler Web Debugger
+10:47:38:  *GetTheideal.py - F:\小程序\GetTheideal.py (3.7.3)*
+10:47:43:  Python 3.7.3 Shell
+10:47:48:  GetTheideal.py - F:\小程序\GetTheideal.py (3.7.3)
+10:47:53:  *Python 3.7.3 Shell*
+10:47:58:  Python 3.7.3 Shell
+10:48:03:  GetTheideal.py - F:\小程序\GetTheideal.py (3.7.3)
+10:48:18:  *Python 3.7.3 Shell*
+10:48:23:  *GetTheideal.py - F:\小程序\GetTheideal.py (3.7.3)*
+10:48:53:  新北洋OA信息化平台 - Internet Explorer
+10:48:58:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+10:49:38:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+10:49:48:  Progress Telerik Fiddler Web Debugger
+10:49:58:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+10:50:03:  Progress Telerik Fiddler Web Debugger
+10:50:18:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+10:51:48:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+10:51:53:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+10:51:58:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+10:52:23:  Progress Telerik Fiddler Web Debugger
+10:52:38:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+10:52:43:  Progress Telerik Fiddler Web Debugger
+10:53:08:  新北洋OA信息化平台 - Internet Explorer
+10:53:13:  Progress Telerik Fiddler Web Debugger
+10:53:23:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+10:57:58:  Progress Telerik Fiddler Web Debugger
+10:58:03:  系统登录 - Internet Explorer
+10:58:13:  Progress Telerik Fiddler Web Debugger
+11:00:03:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+10:58:13:  Progress Telerik Fiddler Web Debugger
+11:00:03:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+11:00:08:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:00:33:  小程序
+11:00:38:  GetTheideal.py - F:\小程序\GetTheideal.py (3.7.3)
+11:00:43:  *Python 3.7.3 Shell*
+11:00:53:  Progress Telerik Fiddler Web Debugger
+11:01:18:  新北洋OA信息化平台 - Internet Explorer
+11:01:23:  Progress Telerik Fiddler Web Debugger
+11:01:28:  新北洋OA信息化平台 - Internet Explorer
+11:01:33:  Progress Telerik Fiddler Web Debugger
+11:02:03:  新北洋OA信息化平台 - Internet Explorer
+11:02:08:  Progress Telerik Fiddler Web Debugger
+11:02:53:  新北洋OA信息化平台 - Internet Explorer
+11:03:03:  荆文波
+11:04:18:  新北洋OA信息化平台 - Internet Explorer
+11:04:23:  Progress Telerik Fiddler Web Debugger
+11:05:38:  新北洋OA信息化平台 - Internet Explorer
+11:05:43:  404 - 找不到文件或目录。 - Internet Explorer
+11:05:48:  Progress Telerik Fiddler Web Debugger
+11:06:08:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:06:18:  Progress Telerik Fiddler Web Debugger
+11:07:08:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:07:23:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:07:33:  Progress Telerik Fiddler Web Debugger
+11:07:43:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:07:53:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:08:13:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:09:13:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:09:18:  Progress Telerik Fiddler Web Debugger
+11:10:08:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:10:18:  Progress Telerik Fiddler Web Debugger
+11:10:28:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:10:33:  Progress Telerik Fiddler Web Debugger
+11:10:38:  新北洋OA信息化平台 - Internet Explorer
+11:10:48:  Progress Telerik Fiddler Web Debugger
+11:11:08:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:11:13:  Progress Telerik Fiddler Web Debugger
+11:11:28:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:11:43:  GetTheideal.py - F:\小程序\GetTheideal.py (3.7.3)
+11:11:48:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:12:08:  锁屏状态
+11:12:13:  Progress Telerik Fiddler Web Debugger
+11:12:33:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:12:38:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:12:48:  Progress Telerik Fiddler Web Debugger
+11:12:53:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:12:58:  Progress Telerik Fiddler Web Debugger
+11:13:03:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:15:23:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:15:28:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:15:33:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:15:43:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:15:53:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:16:03:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:16:13:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:16:18:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:16:33:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:16:43:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:16:48:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:17:08:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:17:13:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:17:23:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:17:28:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:17:53:  Progress Telerik Fiddler Web Debugger
+11:19:18:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:19:33:  Progress Telerik Fiddler Web Debugger
+11:21:03:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:21:08:  Progress Telerik Fiddler Web Debugger
+11:21:53:  锁屏状态
+11:21:58:  Progress Telerik Fiddler Web Debugger
+11:22:03:  新北洋OA信息化平台 - Internet Explorer
+11:22:08:  Progress Telerik Fiddler Web Debugger
+11:22:23:  新北洋OA信息化平台 - Internet Explorer
+11:22:28:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:22:38:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:22:43:  Progress Telerik Fiddler Web Debugger
+11:23:03:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:23:08:  Progress Telerik Fiddler Web Debugger
+11:23:13:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:23:23:  Progress Telerik Fiddler Web Debugger
+11:23:53:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:23:58:  Progress Telerik Fiddler Web Debugger
+11:24:03:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:24:08:  Progress Telerik Fiddler Web Debugger
+11:24:38:  http://oa.byintra.com/iPortal/publish/Default.aspx - Internet Explorer
+11:24:43:  Progress Telerik Fiddler Web Debugger
+11:26:33:  「开始」菜单
+11:26:38:  收取邮件 - 张开发
+11:27:28:  新北洋OA信息化平台 - Internet Explorer
+11:27:33:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:27:43:  Progress Telerik Fiddler Web Debugger
+11:27:53:  新北洋OA信息化平台 - Internet Explorer
+11:27:58:  Progress Telerik Fiddler Web Debugger
+11:28:03:  新北洋OA信息化平台 - Internet Explorer
+11:28:08:  Progress Telerik Fiddler Web Debugger
+11:28:08:  Progress Telerik Fiddler Web Debugger
+11:30:13:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:30:23:  Progress Telerik Fiddler Web Debugger
+11:30:28:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:30:33:  Progress Telerik Fiddler Web Debugger
+11:30:38:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:30:43:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:30:48:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:30:53:  Progress Telerik Fiddler Web Debugger
+11:32:08:  新北洋OA信息化平台 - Internet Explorer
+11:32:13:  Progress Telerik Fiddler Web Debugger
+11:32:28:  主页 - Internet Explorer
+11:32:33:  系统登录 - Internet Explorer
+11:32:38:  Progress Telerik Fiddler Web Debugger
+11:33:03:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:33:08:  Progress Telerik Fiddler Web Debugger
+11:35:08:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:35:23:  Progress Telerik Fiddler Web Debugger
+11:35:33:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:35:38:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:35:48:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:35:53:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:35:58:  Progress Telerik Fiddler Web Debugger
+11:36:18:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:36:23:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:36:33:  Progress Telerik Fiddler Web Debugger
+11:36:38:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:36:43:  ● GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:36:48:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:36:53:  Fw: 识别线资源部门人力统计----今天下班前回复
+11:36:58:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:37:08:  Progress Telerik Fiddler Web Debugger
+11:37:28:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:37:33:  Progress Telerik Fiddler Web Debugger
+11:38:13:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:38:28:  Progress Telerik Fiddler Web Debugger
+11:38:33:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:38:53:  Progress Telerik Fiddler Web Debugger
+11:39:03:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:40:53:  Progress Telerik Fiddler Web Debugger
+11:41:33:  GetTheideal.py - DRB-PRESS - Visual Studio Code [管理员]
+11:43:03:  Progress Telerik Fiddler Web Debugger
+11:44:08:  新北洋OA信息化平台 - Internet Explorer
+11:44:13:  Progress Telerik Fiddler Web Debugger
+11:44:48:  新北洋OA信息化平台 - Internet Explorer
+11:44:53:  Progress Telerik Fiddler Web Debugger
+11:44:08:  新北洋OA信息化平台 - Internet Explorer
+11:44:13:  Progress Telerik Fiddler Web Debugger
+11:44:48:  新北洋OA信息化平台 - Internet Explorer
+11:44:53:  Progress Telerik Fiddler Web Debugger
+11:45:33:  于斌1
+11:45:38:  Progress Telerik Fiddler Web Debugger
+11:45:58:  锁屏状态
+13:14:29:  Progress Telerik Fiddler Web Debugger
+13:14:29:  Progress Telerik Fiddler Web Debugger
+13:19:59:  新北洋OA信息化平台 - Internet Explorer
+13:20:04:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+13:20:19:  识别线资源部门人力统计202007.xlsx
+13:22:19:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+13:22:34:  192.168.28.2
+13:22:39:  BTCR-1100出厂测试程序V4.00(Beta 01)（有暂存）
+13:22:44:  eSpace
+13:22:54:  于斌1
+13:23:09:  tongzhou3.txt - 记事本
+13:23:14:  丛工收
+13:23:19:  饿了么
+13:23:24:  于斌1
+13:23:34:  Box_2__BTCR-1100190803000001_20200717095610.log - DRB.tat* - TextAnalysisTool.NET
+13:23:39:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+13:23:44:  Box_2__BTCR-1100190803000001_20200717095610.log - DRB.tat* - TextAnalysisTool.NET
+13:26:14:  Add Filter
+13:26:19:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrExecute.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:26:29:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:24:  D:\00-06\DRB-PRESS\Applications\Track\Track.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:34:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:39:  计算器
+13:28:49:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:54:  Box_2__BTCR-1100190803000001_20200717095610.log - DRB.tat* - TextAnalysisTool.NET
+13:28:59:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:04:  Box_2__BTCR-1100190803000001_20200717095610.log - DRB.tat* - TextAnalysisTool.NET
+13:29:09:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:39:  Box_2__BTCR-1100190803000001_20200717095610.log - DRB.tat* - TextAnalysisTool.NET
+13:29:44:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:24:  D:\00-06\DRB-PRESS\Applications\Track\Track.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:34:  D:\00-06\DRB-PRESS\Drivers\BldcDriver\BldcDriver.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:39:  计算器
+13:28:49:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:28:54:  Box_2__BTCR-1100190803000001_20200717095610.log - DRB.tat* - TextAnalysisTool.NET
+13:28:59:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:04:  Box_2__BTCR-1100190803000001_20200717095610.log - DRB.tat* - TextAnalysisTool.NET
+13:29:09:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:29:39:  Box_2__BTCR-1100190803000001_20200717095610.log - DRB.tat* - TextAnalysisTool.NET
+13:29:44:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:30:24:  计算器
+13:30:39:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:32:24:  Box_2__BTCR-1100190803000001_20200717095610.log - DRB.tat* - TextAnalysisTool.NET
+13:32:29:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:38:49:  Box_2__BTCR-1100190803000001_20200717095610.log - DRB.tat* - TextAnalysisTool.NET
+13:38:59:  运行
+13:39:04:  问题日志
+13:39:19:  1.PNG - Windows 照片查看器
+13:39:24:  IMG_20200717_101008.jpg - Windows 照片查看器
+13:39:39:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:44:  荆文波
+13:44:59:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:44:44:  荆文波
+13:44:59:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:45:19:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:45:24:  荆文波
+13:45:34:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:45:44:  ID-5 6#钞箱上腔5元流通出钞间距过大（200以上间距占比90%以上），出超钞速度过慢。
+13:45:49:  log
+13:45:54:  ID-8 6#上腔大额取款完打开回收箱发现多张纸币异常折角
+13:45:59:  ID-8-3 6#下腔大额取款完打开回收箱发现4张纸币异常折角（槽位2）
+13:46:04:  ID-11 6#钞箱上腔限位板与入钞口的宽度不一致，导致纸币进入位置在支板的上方，上腔出钞时卡钞
+13:46:09:  ID-11-1 上腔5元大额存款159张报通道传输过程中卡钞 超过最大长度持续有钞  返回码0X824602B6
+13:46:14:  问题日志
+13:46:24:  荆文波
+13:47:09:  锁屏状态
+13:47:14:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:47:19:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:48:09:  荆文波
+13:48:19:  锁屏状态
+13:48:24:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+13:49:54:  Box_2__BTCR-1100190803000001_20200717095610.log - DRB.tat* - TextAnalysisTool.NET
+13:49:59:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+13:51:14:  问题日志
+13:51:24:  Decode
+13:51:29:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+13:51:44:  问题日志
+13:51:49:  C:\Users\zhangkaifa\Documents\TcrFirmwareLogDecode.exe
+13:51:54:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:52:04:  荆文波
+13:52:29:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:52:34:  D:\00-06\DRB-PRESS\Applications\Separate\Separate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+13:52:54:  跳转列表
+13:52:59:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+13:53:24:  荆文波
+13:53:34:  Decode
+13:53:39:  K64_BTCR-1100190803000001_20200717110156
+13:53:44:  Box_2__BTCR-1100190803000001_20200717110156.log - DRB.tat* - TextAnalysisTool.NET
+13:53:54:  K64_BTCR-1100190803000001_20200717104842
+13:53:59:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+13:54:54:  ID-18-1 5元D面向居中盘点T20-T40第85张报 通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS10 返回码0X80460211
+13:54:59:  IMG_20200717_110032.jpg - Windows 照片查看器
+13:55:04:  IMG_20200717_111440.jpg - Windows 照片查看器
+13:55:09:  捕获.PNG - Windows 照片查看器
+13:55:14:  1.PNG - Windows 照片查看器
+13:55:19:  ID-18-1 5元D面向居中盘点T20-T40第85张报 通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS10 返回码0X80460211
+13:55:24:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+13:55:44:  (无主题)
+13:55:59:  回复: - 写邮件
+13:56:09:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+13:58:29:  于斌1
+13:59:34:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+13:58:29:  于斌1
+13:59:34:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:01:24:  D:\00-06\DRB-PRESS\Applications\Separate\Separate.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:01:29:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:01:34:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:01:44:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:02:44:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:03:19:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:03:54:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:04:09:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:04:49:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:04:59:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:05:09:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:05:29:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:05:54:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:06:54:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:07:14:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:07:29:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:10:39:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:11:14:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:11:19:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:11:24:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:11:34:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:11:44:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:13:14:  Add Filter
+14:13:19:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:14:24:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:14:24:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:15:25:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:15:55:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:16:05:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:16:15:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:16:20:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:17:00:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:17:05:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:17:10:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:18:55:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:19:05:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:19:10:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:19:25:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:21:25:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:21:30:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:21:55:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:22:05:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:23:30:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:25:05:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:25:30:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:25:35:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:25:45:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:26:10:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:26:50:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:05:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:28:30:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:45:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:28:50:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:29:10:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:28:05:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:28:30:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:28:45:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:28:50:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:29:10:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:30:15:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:30:20:  D:\00-06\DRB-PRESS\Applications\Track\Track.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:30:35:  计算器
+14:30:55:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:32:20:  D:\00-06\DRB-PRESS\Applications\Track\Track.h (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:32:35:  Add Filter
+14:32:40:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:33:25:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:34:20:  Add Filter
+14:34:25:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:35:40:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:36:00:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:36:40:  D:\00-06\DRB-PRESS\Applications\Track\Track.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:36:50:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:37:10:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:37:45:  于斌1
+14:37:50:  黄-改
+14:37:55:  于斌1
+14:38:10:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+14:39:45:  本地磁盘 (D:)
+14:39:50:  于斌1
+14:40:00:  本地磁盘 (D:)
+14:40:05:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:40:15:  fenxi
+14:40:20:  黄-改
+14:40:25:  1png10.png - Windows 照片查看器
+14:40:30:  于斌1
+14:40:35:  黄-改
+14:40:40:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:41:30:  桌面整理
+14:41:35:  Adobe Photoshop CS3 Extended
+14:41:50:  Adobe Photoshop CS3 Extended - [1png1.png @ 5% (图层 0, RGB/8)]
+14:41:55:  IMG_20200717_101008.jpg - Windows 照片查看器
+14:42:00:  Adobe Photoshop CS3 Extended - [1png1.png @ 22.8% (图层 0, RGB/8)]
+14:42:30:  存储为
+14:42:45:  Adobe Photoshop CS3 Extended - [1png1.png @ 22.8% (图层 0, RGB/8)]
+14:42:50:  存储为
+14:43:00:  Adobe Photoshop CS3 Extended - [1png1.png @ 22.8% (图层 0, RGB/8)]
+14:43:15:  浏览文件夹
+14:43:20:  批处理
+14:43:35:  Adobe Photoshop CS3 Extended - [1png1png1 @ 22.8% (图层 0, RGB/8)]
+14:43:40:  Adobe Photoshop CS3 Extended - [1png11png3 @ 16.7% (图层 0, RGB/8)]
+14:43:45:  Adobe Photoshop CS3 Extended - [1png12png4 @ 16.7% (图层 0, RGB/8)]
+14:43:50:  Adobe Photoshop CS3 Extended
+14:43:55:  Adobe Photoshop CS3 Extended - [1png15png7 @ 16.7% (图层 0, RGB/8)]
+14:44:00:  Adobe Photoshop CS3 Extended - [1png2png8 @ 16.7% (图层 0, RGB/8)]
+14:44:05:  Adobe Photoshop CS3 Extended - [1png4png10 @ 16.7% (图层 0, RGB/8)]
+14:44:10:  ID-18-1 5元D面向居中盘点T20-T40第85张报 通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS10 返回码0X80460211
+14:44:15:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:44:20:  Decode
+14:44:25:  IMG_20200717_110052.jpg - Windows 照片查看器
+14:44:30:  IMG_20200717_111440.jpg - Windows 照片查看器
+14:44:05:  Adobe Photoshop CS3 Extended - [1png4png10 @ 16.7% (图层 0, RGB/8)]
+14:44:10:  ID-18-1 5元D面向居中盘点T20-T40第85张报 通道传输过程中卡钞超过最大长度持续遮挡SENSOR_UCS10 返回码0X80460211
+14:44:15:  Box_2__BTCR-1100190803000001_20200717104842.log - DRB.tat* - TextAnalysisTool.NET
+14:44:20:  Decode
+14:44:25:  IMG_20200717_110052.jpg - Windows 照片查看器
+14:44:30:  IMG_20200717_111440.jpg - Windows 照片查看器
+14:45:55:  桌面
+14:46:00:  新建文件夹 (3)
+14:46:10:  Adobe Photoshop CS3 Extended
+14:46:15:  打开
+14:46:25:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0, RGB/8)]
+14:46:35:  新建文件夹 (3)
+14:46:40:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0, RGB/8)]
+14:46:45:  存储为
+14:46:55:  新建文件夹 (3)
+14:47:00:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0, RGB/8)]
+14:47:05:  存储为
+14:47:10:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0, RGB/8)]
+14:47:20:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, RGB/8)]
+14:47:30:  存储为
+14:48:20:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, RGB/8)]
+14:48:25:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, 红/8)]
+14:48:35:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本 2, RGB/8)]
+14:48:40:  新建文本文档.exe - 快捷方式
+14:48:45:  网络错误
+14:48:50:  iTunes
+14:48:55:  锁屏状态
+14:49:00:  新标签页 - Google Chrome
+14:49:05:  www.baidu.com - Google Chrome
+14:49:15:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本 2, RGB/8)]
+14:49:20:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:49:30:  D:\00-06\DRB-PRESS\Applications\Instruction\InstrHandle.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:49:35:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+14:50:55:  www.baidu.com - Google Chrome
+14:51:00:  百度一下，你就知道 - Google Chrome
+14:51:10:  ps 修改通道 保存_百度搜索 - Google Chrome
+14:51:20:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本 2, RGB/8)]
+14:51:30:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本 2, 专色 1/8)]
+14:51:35:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本 2, 绿/8)]
+14:51:45:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本 2, RGB/8)]
+14:51:50:  ps 修改通道 保存_百度搜索 - Google Chrome
+14:51:55:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本 2, 蓝/8)]
+14:52:10:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本 2, 绿/8...)]
+14:52:15:  无标题 - Google Chrome
+14:52:20:  photoshop如何将更改通道后的图片另存为jpg_百度知道 - Google Chrome
+14:52:30:  存储为
+14:52:45:  JPEG 选项
+14:52:50:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本 2, 绿/8...)]
+14:52:55:  photoshop如何将更改通道后的图片另存为jpg_百度知道 - Google Chrome
+14:53:00:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本 2, 绿/8...)]
+14:53:05:  新建通道
+14:53:10:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本 2, 绿/8...)]
+14:53:15:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本 2, 绿 副本/8)]
+14:53:25:  百度一下，你就知道 - Google Chrome
+14:53:30:  ps 修改通道 保存_百度搜索 - Google Chrome
+14:53:40:  photoshop如何将更改通道后的图片另存为jpg_百度知道 - Google Chrome
+14:53:45:  百度一下，你就知道 - Google Chrome
+14:53:50:  ps 修改通道 保存_百度搜索 - Google Chrome
+14:53:55:  ps 保存 修改通道_百度搜索 - Google Chrome
+14:54:05:  怎么将PS中的通道图像保存下来？_百度知道 - Google Chrome
+14:54:10:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本 2, 绿 副本/8)]
+14:54:20:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本 2, RGB/8)]
+14:54:25:  怎么将PS中的通道图像保存下来？_百度知道 - Google Chrome
+14:54:30:  Adobe Photoshop CS3 Extended
+14:55:10:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0, RGB/8)]
+14:55:20:  怎么将PS中的通道图像保存下来？_百度知道 - Google Chrome
+14:55:25:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0, RGB/8)]
+14:55:30:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, RGB/8)]
+14:55:35:  通道调板选项
+14:55:40:  新建专色通道
+14:55:45:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, RGB/8)]
+14:56:00:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, 绿/8)]
+14:56:05:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, 绿/8...)]
+14:56:10:  怎么将PS中的通道图像保存下来？_百度知道 - Google Chrome
+14:56:20:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, 绿/8...)]
+14:56:25:  存储为
+14:56:50:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, 绿/8...)]
+14:56:55:  新建文件夹 (3)
+14:57:00:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, 绿/8...)]
+14:57:10:  存储为
+14:57:30:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, 绿/8...)]
+14:57:35:  存储为
+14:57:40:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, 绿/8...)]
+14:57:45:  怎么将PS中的通道图像保存下来？_百度知道 - Google Chrome
+14:57:50:  怎样把在ps中把通道图片保存为jpg格式、、_百度知道 - Google Chrome
+14:58:00:  无标题 - Google Chrome
+14:58:05:  菜鸟求教 ps里 如何保存通道里的图片！_百度知道 - Google Chrome
+14:58:15:  ps 保存 修改通道_百度搜索 - Google Chrome
+14:58:25:  ps 黄色换成绿色_百度搜索 - Google Chrome
+14:58:35:  桌面整理
+14:58:40:  Adobe Photoshop CS3 Extended
+14:58:50:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0, RGB/8)]
+14:59:00:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, RGB/8)]
+14:59:05:  色彩范围
+14:59:20:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, RGB/8)]
+14:59:25:  拾色器（前景色）
+14:59:30:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, RGB/8)]
+14:59:45:  Adobe Photoshop CS3 Extended
+14:59:50:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, RGB/8)]
+14:59:55:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0, RGB/8)]
+14:58:05:  菜鸟求教 ps里 如何保存通道里的图片！_百度知道 - Google Chrome
+14:58:15:  ps 保存 修改通道_百度搜索 - Google Chrome
+14:58:25:  ps 黄色换成绿色_百度搜索 - Google Chrome
+14:58:35:  桌面整理
+14:58:40:  Adobe Photoshop CS3 Extended
+14:58:50:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0, RGB/8)]
+14:59:00:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, RGB/8)]
+14:59:05:  色彩范围
+14:59:20:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, RGB/8)]
+14:59:25:  拾色器（前景色）
+14:59:30:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, RGB/8)]
+14:59:45:  Adobe Photoshop CS3 Extended
+14:59:50:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, RGB/8)]
+14:59:55:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0, RGB/8)]
+15:00:06:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, RGB/8)]
+15:00:11:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0, RGB/8)]
+15:00:21:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, RGB/8)]
+15:00:26:  替换颜色
+15:00:31:  选择目标颜色:
+15:00:36:  替换颜色
+15:00:56:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, RGB/8)]
+15:01:01:  存储为
+15:01:11:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0 副本, RGB/8)]
+15:01:21:  批处理
+15:01:26:  Adobe Photoshop CS3 Extended - [1png1png1 @ 16.7% (图层 0 副本 2, RGB/8)]
+15:01:31:  Adobe Photoshop CS3 Extended
+15:01:36:  新建文件夹 (3)
+15:02:01:  1png1.png - Windows 照片查看器
+15:02:06:  Adobe Photoshop CS3 Extended - [1png4png10 @ 16.7% (图层 0 副本, RGB/8)]
+15:02:11:  锁屏状态
+15:02:26:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+15:02:56:  新建文件夹 (3)
+15:03:16:  新建文件夹 (3) - 写邮件
+15:03:21:  新建文件夹 (3)
+15:03:26:  特殊软件统计-固件设计中心.xlsx
+15:03:31:  特殊软件统计-固件设计中心.xlsx  [只读] - Excel
+15:03:41:  桌面整理
+15:03:46:  特殊软件统计-固件设计中心.xlsx  [只读] - Excel
+15:04:11:  桌面整理
+15:04:21:  特殊软件统计-固件设计中心.xlsx  [只读] - Excel
+15:04:41:  桌面整理
+15:04:51:  「开始」菜单
+15:05:06:  特殊软件统计-固件设计中心.xlsx  [只读] - Excel
+15:10:46:  Microsoft Excel
+15:10:51:  另存为
+15:10:56:  EXTFEDU6V12-压钞电机.PDF - Adobe Reader
+15:12:26:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+15:17:01:  K64_BTCR-1100190803000001_20200717095610
+15:17:06:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:17:16:  LogExpert - F:\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_202007211132.log
+15:17:26:  本地磁盘 (D:)
+15:17:36:  DRB集成测试
+15:17:41:  钞箱1T2集成测试方案
+15:17:46:  新建文件夹 (3)
+15:17:56:  钞箱1T2集成测试方案
+15:18:01:  新建文件夹 (2)
+15:18:06:  5.21 压钞托板测试模版_V1.0.xls  [兼容模式] - Excel
+15:18:46:  新建文件夹 (2)
+15:18:51:  本地磁盘 (E:)
+15:18:56:  钞箱1T2集成测试方案
+15:19:36:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:22:06:  扩展: SonarLint For PClint - DRB-PRESS - Visual Studio Code [管理员]
+15:22:11:  本地磁盘 (D:)
+15:22:16:  DRB-PRESS
+15:22:21:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+15:22:26:  Initial.c - TortoiseMerge
+15:22:31:  MemoryConfig.h - TortoiseMerge
+15:22:41:  MotorCtrl.c - TortoiseMerge
+15:23:26:  TortoiseSVN
+15:23:31:  PaperManage.c - TortoiseMerge
+15:23:56:  PlateCtrl.c - TortoiseMerge
+15:24:01:  TortoiseMerge
+15:24:06:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+15:24:11:  UpperPlateCtrl.c - TortoiseMerge
+15:24:36:  D:\00-06\DRB-PRESS - 工作副本 - TortoiseSVN
+15:24:41:  Separate.c - TortoiseMerge
+15:24:56:  Track.c - TortoiseMerge
+15:55:01:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:55:06:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:55:36:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:55:46:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:55:56:  settings.json - DRB-PRESS - Visual Studio Code [管理员]
+15:56:21:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+15:56:26:  settings.json - DRB-PRESS - Visual Studio Code [管理员]
+15:56:41:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:56:46:  打开文件夹
+15:56:51:  欢迎使用 - Rtos - Visual Studio Code [管理员]
+15:57:01:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:57:11:  Visual Studio Code
+15:57:16:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+15:57:51:  settings.json - DRB-PRESS - Visual Studio Code [管理员]
+15:58:06:  ● settings.json - DRB-PRESS - Visual Studio Code [管理员]
+15:58:36:  settings.json - DRB-PRESS - Visual Studio Code [管理员]
+15:58:56:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:59:06:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:59:26:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:59:56:  PressurePlateCtrl.h - DRB-PRESS - Visual Studio Code [管理员]
+16:00:01:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:58:06:  ● settings.json - DRB-PRESS - Visual Studio Code [管理员]
+15:58:36:  settings.json - DRB-PRESS - Visual Studio Code [管理员]
+15:58:56:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:59:06:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:59:26:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+15:59:56:  PressurePlateCtrl.h - DRB-PRESS - Visual Studio Code [管理员]
+16:00:01:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:00:06:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:00:11:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:00:21:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+16:01:11:  荆文波
+16:02:31:  于斌1
+16:02:51:  荆文波
+16:11:31:  于斌1
+16:11:56:  Adobe Photoshop CS3 Extended
+16:12:11:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0, RGB/8)]
+16:12:16:  Adobe Photoshop CS3 Extended - [1png1.png @ 22.2% (图层 0, RGB/8)]
+16:12:26:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0, RGB/8)]
+16:12:56:  新建组
+16:13:01:  Adobe Photoshop CS3 Extended - [1png1.png @ 16.7% (图层 0, RGB/8)]
+16:13:16:  Adobe Photoshop CS3 Extended
+16:13:26:  新建动作
+16:13:31:  Adobe Photoshop CS3 Extended
+16:13:41:  于斌1
+16:14:16:  Adobe Photoshop CS3 Extended
+16:14:21:  存储为
+16:14:26:  PNG 选项
+16:14:31:  Adobe Photoshop CS3 Extended
+16:14:41:  浏览文件夹
+16:14:46:  批处理
+16:14:51:  浏览文件夹
+16:14:56:  Adobe Photoshop CS3 Extended
+16:14:16:  Adobe Photoshop CS3 Extended
+16:14:21:  存储为
+16:14:26:  PNG 选项
+16:14:31:  Adobe Photoshop CS3 Extended
+16:14:41:  浏览文件夹
+16:14:46:  批处理
+16:14:51:  浏览文件夹
+16:14:56:  Adobe Photoshop CS3 Extended
+16:15:06:  于斌1
+16:15:41:  新建文件夹 (3)
+16:15:46:  新建文件夹
+16:49:07:  戚晓东
+16:49:47:  荆文波
+16:50:27:  于斌1
+16:51:22:  荆文波
+16:52:17:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+16:52:27:  于斌1
+16:52:47:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+16:52:52:  于斌1
+16:53:07:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+16:53:12:  荆文波
+16:53:17:  戚晓东
+16:53:32:  转发: DRB钞箱容量测试 - 写邮件
+16:53:42:  戚晓东
+16:54:07:  DRB钞箱容量测试.xlsx
+16:54:22:  eSpace
+16:54:32:  D:\00-06\DRB-PRESS\Applications\PaperManage\PaperManage.c (DRB-PRESS) - Sublime Text (UNREGISTERED)
+16:54:37:  LowerPlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:54:42:  扩展: SonarLint For PClint - DRB-PRESS - Visual Studio Code [管理员]
+16:54:47:  设置 - DRB-PRESS - Visual Studio Code [管理员]
+16:55:02:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:56:07:  「开始」菜单
+16:56:12:  网易有道词典
+16:56:17:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:56:42:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:56:57:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:57:02:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:57:07:  于斌1
+16:58:07:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:58:12:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:58:17:  于斌1
+16:58:27:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:58:32:  于斌1
+16:59:07:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:59:22:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:59:32:  钞箱1T2集成测试方案
+16:59:47:  固件集成测试方案
+16:59:52:  钞箱1T2集成测试方案
+16:59:57:  于斌1
+16:58:07:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:58:12:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:58:17:  于斌1
+16:58:27:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:58:32:  于斌1
+16:59:07:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:59:22:  ● PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+16:59:32:  钞箱1T2集成测试方案
+16:59:47:  固件集成测试方案
+16:59:52:  钞箱1T2集成测试方案
+16:59:57:  于斌1
+17:00:17:  钞箱1T2集成测试方案
+17:00:22:  固件集成测试方案
+17:00:27:  eSpace
+17:00:32:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+17:00:37:  PressurePlate.h - DRB-PRESS - Visual Studio Code [管理员]
+17:00:42:  于斌1
+17:00:52:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+17:00:57:  转发: 回复: 6.1 液晶测试模板V1.0
+17:01:02:  6.1 液晶测试模板V1.0.xls
+17:01:22:  于斌1
+17:01:32:  6.1 液晶测试模板V1.0.xls
+17:01:37:  于斌1
+17:02:37:  6.1 液晶测试模板V1.0.xls
+17:03:12:  于斌1
+17:03:27:  6.1 液晶测试模板V1.0.xls
+17:03:32:  于斌1
+17:04:02:  PressurePlateCtrl.c - DRB-PRESS - Visual Studio Code [管理员]
+17:04:07:  锁屏状态
+17:04:17:  eSpace
+17:04:32:  钞箱1T2集成测试方案
+17:05:02:  锁屏状态
+17:05:12:  自动播放
+17:05:17:  问题日志
+17:05:22:  正在打开 - Excel
+17:05:27:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+17:05:32:  Microsoft Excel
+17:05:37:  DRB钞箱工程样机系统测试问题列表.xlsx  [受保护的视图] - Excel
+17:05:42:  DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+17:05:57:  固件-DRB钞箱工程样机系统测试问题列表.xlsx - Excel
+17:06:07:  锁屏状态

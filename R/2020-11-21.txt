@@ -1,0 +1,96 @@
+2020-11-20 23:45:02-- 00:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 00:00:02-- 00:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 00:15:02-- 00:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 00:30:02-- 00:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 00:45:02-- 01:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 01:00:02-- 01:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 01:15:02-- 01:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 01:30:02-- 01:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 01:45:02-- 02:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 02:00:02-- 02:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 02:15:02-- 02:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 02:30:02-- 02:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 02:45:03-- 03:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 03:00:03-- 03:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 03:15:03-- 03:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 03:30:03-- 03:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 03:45:03-- 04:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 04:00:03-- 04:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 04:15:03-- 04:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 04:30:03-- 04:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 04:45:03-- 05:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 05:00:03-- 05:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 05:15:03-- 05:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 05:30:03-- 05:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 05:45:04-- 06:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 06:00:04-- 06:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 06:15:04-- 06:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 06:30:04-- 06:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 06:45:04-- 07:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 07:00:04-- 07:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 07:15:04-- 07:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 07:30:04-- 07:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 07:45:04-- 08:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 08:00:04-- 08:15:04     :    一  ：锁屏状态   109/9.08分钟       二  ：InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   67/5.58分钟     三  ：自动播放   1/0.08分钟
+2020-11-21 08:15:04-- 08:30:01     :    一  ：InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   108/9.0分钟       二  ：● InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   48/4.0分钟     三  ：CheckTheBookTital.py - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   8/0.66分钟
+2020-11-21 08:30:01-- 08:45:01     :    一  ：InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   61/5.08分钟       二  ：InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   39/3.25分钟     三  ：InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   20/1.66分钟
+2020-11-21 08:45:01-- 09:00:02     :    一  ：InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   57/4.75分钟       二  ：HistoryRecord.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   40/3.33分钟     三  ：币安群_百度搜索 - Google Chrome   12/1.0分钟
+2020-11-21 09:00:02-- 09:15:02     :    一  ：InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   46/3.83分钟       二  ：LogHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   46/3.83分钟     三  ：新标签页 - Google Chrome   25/2.08分钟
+2020-11-21 09:15:02-- 09:30:02     :    一  ：InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   31/2.58分钟       二  ：Pointer parameter 'Parameter' (line 69) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   21/1.75分钟     三  ：Type mismatch (arg. no. 1) (enum/enum) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   13/1.08分钟
+2020-11-21 09:30:02-- 09:45:02     :    一  ：CS_0000_20201120104940.log - [No filter file]* - TextAnalysisTool.NET   78/6.5分钟       二  ：InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   23/1.91分钟     三  ：Pointer parameter 'SendBuffer' (line 155) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   15/1.25分钟
+2020-11-21 09:45:02-- 10:00:02     :    一  ：InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   176/14.6分钟       二  ：● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   3/0.25分钟     三  ：3-日常 - 张开发 - 印象笔记   1/0.08分钟
+2020-11-21 10:00:02-- 10:15:03     :    一  ：InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   64/5.33分钟       二  ：MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   56/4.66分钟     三  ：external 'MotorStart(MOTOR_ID, unsigned char, unsigned short)' (line 251, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\MotorCtrl\MotorCtrl.c) could be made static - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   13/1.08分钟
+2020-11-21 10:15:03-- 10:30:03     :    一  ：PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   121/10.0分钟       二  ：计算器   50/4.16分钟     三  ：● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   4/0.33分钟
+2020-11-21 10:30:03-- 10:45:03     :    一  ：PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   125/10.4分钟       二  ：程明昌   18/1.5分钟     三  ：Loss of precision (assignment) (22 bits to 16 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   11/0.91分钟
+2020-11-21 10:45:03-- 11:00:03     :    一  ：PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   61/5.08分钟       二  ：● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   19/1.58分钟     三  ：Expression-like macro 'MERGE_MARGIN' not parenthesized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   17/1.41分钟
+2020-11-21 11:00:03-- 11:15:03     :    一  ：PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   102/8.5分钟       二  ：Expected unsigned type - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   59/4.91分钟     三  ：● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   9/0.75分钟
+2020-11-21 11:15:03-- 11:30:04     :    一  ：Suspicious pointer-to-pointer conversion (area too small) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   56/4.66分钟       二  ：Likely use of null pointer 'unknown-name' in left argument to operator '->' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PaperManage\PaperManage.c: line 1344] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   37/3.08分钟     三  ：吉哲   22/1.83分钟
+2020-11-21 11:30:04-- 11:45:04     :    一  ：锁屏状态   51/4.25分钟       二  ：1-记录 - 张开发 - 印象笔记   48/4.0分钟     三  ：Loss of precision (arg. no. 2) (32 bits to 16 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   19/1.58分钟
+2020-11-21 11:45:04-- 12:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 12:00:04-- 12:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 12:15:04-- 12:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 12:30:00-- 12:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 12:45:00-- 13:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 13:00:00-- 13:15:00     :    一  ：锁屏状态   179/14.9分钟       二  ：PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   1/0.08分钟     三  ：   0/0.0分钟
+2020-11-21 13:15:00-- 13:30:00     :    一  ：Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   65/5.41分钟       二  ：PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   35/2.91分钟     三  ：Loss of precision (arg. no. 2) (double to unsigned int) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   23/1.91分钟
+2020-11-21 13:30:00-- 13:45:00     :    一  ：Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   100/8.33分钟       二  ：Loss of precision (initialization) (float to unsigned short) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   25/2.08分钟     三  ：所有笔记本 - 张开发 - 印象笔记   10/0.83分钟
+2020-11-21 13:45:00-- 14:00:04     :    一  ：Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   59/4.91分钟       二  ：于斌1   25/2.08分钟     三  ：Too few initializers for aggregate 'unknown-name' of type 'unsigned short [2]' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   20/1.66分钟
+2020-11-21 14:00:04-- 14:15:00     :    一  ：Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   125/10.4分钟       二  ：● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   15/1.25分钟     三  ：Too few initializers for aggregate 'unknown-name' of type 'unsigned short [2]' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   10/0.83分钟
+2020-11-21 14:15:00-- 14:30:00     :    一  ：Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   128/10.6分钟       二  ：Pointer parameter 'Paper' (line 825) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   9/0.75分钟     三  ：张开发银行流水.jpg - Windows 照片查看器   8/0.66分钟
+2020-11-21 14:30:00-- 14:45:00     :    一  ：D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision   79/6.58分钟       二  ：local enumeration constant 'UPDATE_PROGRAM_FLAG_BOOT' (line 38, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   54/4.5分钟     三  ：Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   25/2.08分钟
+2020-11-21 14:45:00-- 15:00:00     :    一  ：D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)   54/4.5分钟       二  ：TCR调测工具（研发版）V1.0.0.4   33/2.75分钟     三  ：local enumeration constant 'UPDATE_PROGRAM_FLAG_BOOT' (line 38, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   25/2.08分钟
+2020-11-21 15:00:00-- 15:15:00     :    一  ：TCR调测工具（研发版）V1.0.0.4   94/7.83分钟       二  ：D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)   74/6.16分钟     三  ：发送指令到K18   12/1.0分钟
+2020-11-21 15:15:00-- 15:30:01     :    一  ：D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)   68/5.66分钟       二  ：local enumeration constant 'UPDATE_PROGRAM_FLAG_BOOT' (line 38, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   28/2.33分钟     三  ：PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   18/1.5分钟
+2020-11-21 15:30:01-- 15:45:01     :    一  ：于斌1   76/6.33分钟       二  ：BldcDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   43/3.58分钟     三  ：local enumeration constant 'UPDATE_IN_MAIN' (line 47, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   9/0.75分钟
+2020-11-21 15:45:01-- 16:00:01     :    一  ：local macro 'FRAM_COMM_BAUDRATE' (line 17, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\FramDriver\FramDriver.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   85/7.08分钟       二  ：于斌1   16/1.33分钟     三  ：附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word   10/0.83分钟
+2020-11-21 16:00:01-- 16:15:01     :    一  ：附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word   59/4.91分钟       二  ：程明昌   13/1.08分钟     三  ：附件6：2019高区：万名大学生聚集计划生活津贴申请名单.xlsx - Excel   12/1.0分钟
+2020-11-21 16:15:01-- 16:30:01     :    一  ：InstrExecute.c - TortoiseMerge   99/8.25分钟       二  ：BR-1-CashBox1T2-Press   14/1.16分钟     三  ：币安资讯｜Streamr (DATA) 交易赛，赢 6 万美元大奖 - Binance/币安 - ChainNode 链节点 - Google Chrome   8/0.66分钟
+2020-11-21 16:30:01-- 16:45:02     :    一  ：BR-1-CashBox1T2-Press   20/1.66分钟       二  ：FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   19/1.58分钟     三  ：D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 提交 - TortoiseSVN   13/1.08分钟
+2020-11-21 16:45:02-- 17:00:02     :    一  ：PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   56/4.66分钟       二  ：Reliability Rating - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   43/3.58分钟     三  ：Possible use of null pointer 'PaperPos' in left argument to operator '->' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PaperManage\PaperManage.c: line 454] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   15/1.25分钟
+2020-11-21 17:00:02-- 17:15:02     :    一  ：锁屏状态   135/11.2分钟       二  ：PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]   20/1.66分钟     三  ：问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome   6/0.5分钟
+2020-11-21 17:15:02-- 17:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 17:30:02-- 17:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 17:45:02-- 18:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 18:00:02-- 18:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 18:15:03-- 18:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 18:30:03-- 18:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 18:45:03-- 19:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 19:00:03-- 19:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 19:15:03-- 19:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 19:30:03-- 19:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 19:45:04-- 20:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 20:00:04-- 20:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 20:15:04-- 20:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 20:30:04-- 20:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 20:45:04-- 21:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 21:00:04-- 21:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 21:15:00-- 21:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 21:30:00-- 21:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 21:45:00-- 22:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 22:00:00-- 22:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 22:15:00-- 22:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 22:30:00-- 22:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 22:45:01-- 23:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 23:00:01-- 23:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 23:15:01-- 23:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-11-21 23:30:01-- 23:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

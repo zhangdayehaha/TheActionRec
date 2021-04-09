@@ -1,0 +1,471 @@
+08:04:54:  网易有道词典
+08:05:49:  eSpace Login
+08:11:14:  便签条
+08:11:19:  桌面整理
+08:13:29:  D:\00-KE64\7\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+08:14:49:  eSpace
+08:14:54:  程明昌
+08:18:54:  eSpace
+08:18:59:  刘雅
+08:21:14:  eSpace
+08:21:19:  
+08:21:24:  eSpace
+08:24:59:  D:\00-KE64\7\trunk\Applications\InstrExp\InstrGSProcess.c (trunk) - Sublime Text (UNREGISTERED)
+08:25:04:  本地磁盘 (D:)
+08:25:09:  8
+08:25:14:  正在创建压缩文件 branches.rar
+08:25:19:  
+08:25:29:  eSpace
+08:25:44:  姜泽鹏
+08:26:29:  8
+08:26:34:  高级共享
+08:26:39:  G
+08:26:49:  文档
+08:26:59:  
+08:27:04:  文档
+08:27:14:  G
+08:30:09:  本地磁盘 (D:)
+08:30:14:  branches
+08:30:19:  Everything
+08:30:24:  core - Everything
+08:30:29:  core_ - Everything
+08:30:39:  core_cm - Everything
+08:30:44:  core_cmin - Everything
+08:30:59:  Include
+08:31:04:  00-KE64
+08:31:09:  SDK_2.1_MK64FX512xxx12
+08:31:14:  core_cmin - Everything
+08:31:44:  Include
+08:32:19:  老毛桃U盘 (G:)
+08:32:24:  G
+08:32:29:  正在复制 1 个项目(3.55 KB)
+08:32:34:  G
+08:33:29:  SDK_2.1_MK64FX512xxx12
+08:33:34:  core_cmin - Everything
+08:33:39:  Include
+08:34:09:  core_cmin - Everything
+08:36:09:  SDK_2.1_MK64FX512xxx12
+08:38:19:  core_cmin - Everything
+08:40:49:  SDK_2.1_MK64FX512xxx12
+08:42:44:  00-KE64
+08:42:49:  Project
+08:42:54:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:44:04:  姜泽鹏
+08:44:19:  eSpace
+08:44:24:  ecs
+08:44:34:  
+08:44:39:  eSpace
+08:44:44:  姜泽鹏
+08:44:49:  
+08:44:59:  姜泽鹏
+08:45:09:  eSpace
+08:45:14:  姜泽鹏
+08:45:29:  TrayIcon
+08:45:39:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:45:44:  姜泽鹏
+08:47:49:  
+08:49:09:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:49:14:  姜泽鹏
+08:50:24:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+08:52:34:  
+08:52:39:  BTCRTestTool V3.36
+08:52:49:  G
+08:52:54:  正在复制 
+08:52:59:  G
+08:56:29:  计算机
+08:56:39:  ji - Everything
+08:56:44:  机芯驱动
+08:56:49:  老毛桃U盘 (G:)
+08:56:54:  运行
+08:56:59:  正在复制 
+08:57:04:  G
+09:01:49:  计算机
+09:01:54:  BV - Everything
+09:02:14:  BV工具
+09:02:19:  BV模块测试程序
+09:02:24:  维护
+09:02:29:  于斌1
+09:02:44:  BV - Everything
+09:02:49:  多币 - Everything
+09:02:54:  TCR测试程序
+09:02:59:  BTCR自测工具 V1.2.0.1
+09:03:09:  
+09:03:19:  于斌1
+09:03:24:  BTCR自测工具 V1.2.0.1
+09:03:29:  本地磁盘 (C:)
+09:03:34:  删除多个项目
+09:03:39:  选择文件夹
+09:03:49:  BTCR自测工具 V1.2.0.1
+09:03:54:  BTCR自测工具 V1.2.0.1 (未响应)
+09:03:59:  无标题 - 画图
+09:04:14:  BTCR自测工具 V1.2.0.1
+09:04:19:  选择文件夹
+09:04:29:  BTCR自测工具 V1.2.0.1
+09:05:29:  于斌1
+09:05:39:  BTCR自测工具 V1.2.0.1
+09:06:54:  本地磁盘 (D:)
+09:06:59:  TCRTransDLL
+09:07:04:  跳转列表
+09:07:09:  BTCRTransDemo.exe 属性
+09:07:24:  Everything
+09:07:29:  20191212_TCR支持多币种混点版本
+09:07:34:  TCR测试程序
+09:07:44:  IniFile
+09:07:49:  TCRTransDLL.ini - 记事本
+09:08:09:  
+09:08:19:  本地磁盘 (D:)
+09:08:24:  文件夹正在使用
+09:08:29:  
+09:08:34:  BTCR自测工具 V1.2.0.1
+09:08:39:  钞票类型设置
+09:08:44:  BTCR自测工具 V1.2.0.1
+09:08:54:  选择文件夹
+09:08:59:  
+09:09:04:  TCRTransDLL
+09:09:09:  打开方式
+09:09:14:  D:\TCRLog\TCRTransDLL\TCRTransDLL_20200403_000.log (trunk) - Sublime Text (UNREGISTERED)
+09:09:49:  TCRTransDLL
+09:09:54:  新建文件夹
+09:10:04:  BNE-V710_00000001_fwApp V1.008.13.JK 属性
+09:10:09:  新建文件夹
+09:10:19:  BNE-V710_00000001_fwApp V1.008.13.JK 属性
+09:10:29:  BNE-V710_00000001_ocrApp V1.000.03.JK 属性
+09:10:39:  新建文件夹
+09:10:44:  
+09:10:49:  D:\TCRLog\TCRTransDLL\TCRTransDLL_20200403_000.log (trunk) - Sublime Text (UNREGISTERED)
+09:11:24:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:11:29:  
+09:11:44:  跳转列表
+09:11:49:  20191212_TCR支持多币种混点版本
+09:11:59:  
+09:12:19:  姜泽鹏
+09:13:24:  
+09:13:34:  计算机
+09:13:49:  可移动磁盘 (G:)
+09:13:54:  
+09:13:59:  桌面整理
+09:14:04:  可移动磁盘 (G:)
+09:14:09:  桌面整理
+09:14:14:  选择文件夹
+09:14:19:  BTCR自测工具 V1.2.0.1
+09:14:24:  BTCR自测工具 V1.2.0.1 (未响应)
+09:14:39:  新建文件夹
+09:14:49:  BNE-V710_00000001_ocrAppV1.000.03.JK 属性
+09:14:54:  新建文件夹
+09:15:14:  BNE-V710_00000001_ocrApp V1.000.03.JK 属性
+09:15:19:  BTCR自测工具 V1.2.0.1 (未响应)
+09:15:24:  
+09:15:29:  新建文件夹
+09:15:34:  BNE-V710_00000001_fwApp V1.008.13.JK 属性
+09:15:44:  BNE-V710_00000001_fwApp V1.008.13.JK • (trunk) - Sublime Text (UNREGISTERED)
+09:15:59:  新建文本文档 (3).txt - 记事本
+09:16:04:  记事本
+09:16:19:  新建文本文档 (3).txt - 记事本
+09:16:24:  BNE-V710_00000001_fwApp V1.008.13.JK • (trunk) - Sublime Text (UNREGISTERED)
+09:16:29:  记事本
+09:16:39:  新建文本文档 (3).txt - 记事本
+09:16:44:  「开始」菜单
+09:16:59:  HxD
+09:17:04:  HxD - [Untitled1]
+09:17:09:  HxD
+09:17:14:  HxD - [Untitled2]
+09:17:24:  新建文件夹
+09:17:39:  
+09:17:44:  姜泽鹏
+09:17:49:  BTCR自测工具 V1.2.0.1
+09:18:09:  TCR调测工具 V3.36
+09:18:24:  于斌1
+09:18:29:  TCR调测工具 V3.36
+09:19:24:  BTCRTestTool
+09:19:29:  TCR调测工具 V3.36
+09:19:59:  BTCRTestTool
+09:20:34:  TCR调测工具 V3.36
+09:21:54:  
+09:21:59:  新建文件夹
+09:22:04:  导航已取消 - Internet Explorer
+09:22:09:  Internet Explorer
+09:22:19:  
+09:22:24:  eSpace
+09:22:29:  TCR测试程序
+09:22:34:  钞票类型设置
+09:22:39:  BTCR自测工具 V1.2.0.1
+09:22:54:  「开始」菜单
+09:22:59:  计算机
+09:23:09:  导航已取消 - Internet Explorer
+09:23:29:  任务切换
+09:23:34:  导航已取消 - Internet Explorer
+09:23:39:  桌面整理
+09:23:44:  任务切换
+09:23:49:  thief-book
+09:23:54:  BTCR自测工具 V1.2.0.1
+09:23:59:  
+09:24:04:  BTCR自测工具 V1.2.0.1
+09:24:14:  thief-book
+09:24:19:  桌面整理
+09:24:24:  BTCR自测工具 V1.2.0.1
+09:25:39:  开始
+09:25:44:  TCR调测工具 V3.36
+09:25:54:  模块使能
+09:26:04:  读写ERROM
+09:26:09:  TCR调测工具 V3.36
+09:26:44:  桌面整理
+09:26:49:  BTCR自测工具 V1.2.0.1
+09:26:54:  TCR调测工具 V3.36
+09:26:59:  读写ERROM
+09:27:04:  TCR测试程序
+09:27:09:  钞票类型设置
+09:27:14:  BTCR自测工具 V1.2.0.1
+09:28:34:  
+09:28:44:  TCRTransDLL
+09:28:49:  D:\TCRLog\TCRTransDLL\TCRTransDLL_20200403_000.log (trunk) - Sublime Text (UNREGISTERED)
+09:29:14:  BNE-V710_00000001_fwApp V1.008.13.JK • (trunk) - Sublime Text (UNREGISTERED)
+09:29:19:  BTCR自测工具 V1.2.0.1
+09:29:34:  新建文件夹
+09:29:39:  IniFile
+09:29:49:  TCRTransDLL
+09:29:54:  
+09:29:59:  TCRTransDLL
+09:30:04:  D:\TCRLog\TCRTransDLL\TCRTransDLL_20200403_000.log (trunk) - Sublime Text (UNREGISTERED)
+09:28:34:  
+09:28:44:  TCRTransDLL
+09:28:49:  D:\TCRLog\TCRTransDLL\TCRTransDLL_20200403_000.log (trunk) - Sublime Text (UNREGISTERED)
+09:29:14:  BNE-V710_00000001_fwApp V1.008.13.JK • (trunk) - Sublime Text (UNREGISTERED)
+09:29:19:  BTCR自测工具 V1.2.0.1
+09:29:34:  新建文件夹
+09:29:39:  IniFile
+09:29:49:  TCRTransDLL
+09:29:54:  
+09:29:59:  TCRTransDLL
+09:30:04:  D:\TCRLog\TCRTransDLL\TCRTransDLL_20200403_000.log (trunk) - Sublime Text (UNREGISTERED)
+09:30:34:  BTCR自测工具 V1.2.0.1
+09:30:54:  TCRTransDLL
+09:30:59:  D:\TCRLog\TCRTransDLL\TCRTransDLL_20200403_000.log (trunk) - Sublime Text (UNREGISTERED)
+09:31:29:  BTCR自测工具 V1.2.0.1
+09:32:14:  D:\TCRLog\TCRTransDLL\TCRTransDLL_20200403_000.log (trunk) - Sublime Text (UNREGISTERED)
+09:33:04:  
+09:33:09:  可移动磁盘 (G:)
+09:33:59:  
+09:34:04:  TCR测试程序
+09:34:19:  BTCR自测工具 V1.2.0.1
+09:34:29:  钞票类型设置
+09:34:49:  BTCR自测工具 V1.2.0.1
+09:35:04:  桌面整理
+09:35:14:  TCRTestTool_20190510-002
+09:35:19:  桌面整理
+09:35:34:  Dialog
+09:35:39:  
+09:35:49:  eSpace
+09:35:59:  于斌1
+09:36:14:  eSpace
+09:36:19:  BTCR自测工具 V1.2.0.1
+09:41:19:  桌面整理
+09:41:24:  新建文件夹
+09:41:29:  TCR测试程序
+09:41:34:  Microsoft Windows
+09:41:44:  可移动磁盘 (G:)
+09:41:59:  新建文件夹 (2)
+09:42:04:  运行
+09:42:09:  G
+09:42:14:  新建文件夹 (2)
+09:42:24:  新建文件夹
+09:45:09:  TCR调测工具 V3.36
+09:49:44:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T84
+09:49:49:  桌面整理
+09:49:54:  新建文本文档.txt - 记事本
+09:50:04:  BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T84
+09:50:09:  TCR调测工具 V3.36
+09:50:19:  J-Link RTT Viewer V6.32h | Configuration
+09:50:24:  J-Link RTT Viewer V6.32h Error
+09:50:29:  TCR调测工具 V3.36
+09:50:34:  SEGGER J-Link V6.32h - Emulator selection
+09:50:39:  J-Link RTT Viewer V6.32h Error
+09:50:44:  J-Link RTT Viewer V6.32h | Configuration
+09:51:29:  J-Link RTT Viewer V6.32h
+09:51:34:  「开始」菜单
+09:51:49:  Welcome to J-Flash
+09:51:59:  SEGGER J-Flash V6.32h - [C:\Users\zhangkaifa\Desktop\jflash\K64.jflash]
+09:52:09:   J-Flash
+09:52:14:  SEGGER J-Flash V6.32h - [C:\Users\zhangkaifa\Desktop\jflash\K64.jflash]
+09:52:44:  Save data file as
+09:53:24:  TCR调测工具 V3.36
+09:53:29:  SEGGER J-Flash V6.32h - [C:\Users\zhangkaifa\Desktop\jflash\K64.jflash *]
+09:53:34:  2
+09:53:39:  SEGGER J-Flash V6.32h - [C:\Users\zhangkaifa\Desktop\jflash\K64.jflash *]
+09:53:59:  桌面整理
+09:54:04:  SEGGER J-Flash V6.32h - [C:\Users\zhangkaifa\Desktop\jflash\K64.jflash *]
+09:54:09:  J-Flash
+09:54:14:  J-Flash V6.32h
+09:54:19:  SEGGER J-Flash V6.32h - [C:\Users\zhangkaifa\Desktop\jflash\K64.jflash *]
+09:54:29:  TCR调测工具 V3.36
+09:54:34:  CommonManageTool
+09:54:39:  新建文件夹 (1)
+09:54:49:  SEGGER J-Flash V6.32h - [C:\Users\zhangkaifa\Desktop\jflash\K64.jflash *]
+09:55:14:  桌面整理
+09:55:19:  回复: BTCR-1100_MASTER_K64_FV1020_FEDUV22_MAIN_T84 - 写邮件
+09:55:24:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:55:29:  TCR调测工具 V3.36
+09:57:19:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:57:39:  eSpace
+09:57:44:  于斌1
+09:58:04:  eSpace
+09:58:09:  于斌1
+09:58:19:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:58:24:  TCR调测工具 V3.36
+09:58:34:  姜泽鹏
+09:58:39:  eSpace
+09:58:09:  于斌1
+09:58:19:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+09:58:24:  TCR调测工具 V3.36
+09:58:34:  姜泽鹏
+09:58:39:  eSpace
+10:01:44:  于斌1
+10:01:54:  「开始」菜单
+10:01:59:  于斌1
+10:02:10:  「开始」菜单
+10:02:15:  于斌1
+10:02:20:  「开始」菜单
+10:02:25:  计算器
+10:02:55:  于斌1
+10:03:00:  TCR调测工具 V3.36
+10:03:10:  于斌1
+10:04:20:  TCR调测工具 V3.36
+10:04:40:  计算器
+10:05:15:  TCR调测工具 V3.36
+10:08:55:  回复: 回复: 关于DRB测试问题沟通会会议资料
+10:10:00:  BTCR-1100-DRB工程样机试制验证问题汇总-20200403郑磊回复.xlsx  [只读] - Excel
+10:10:55:  Microsoft Excel
+10:11:00:  BTCR-1100-DRB工程样机试制验证问题汇总-20200403郑磊回复.xlsx
+10:12:15:  回复: 回复: 关于DRB测试问题沟通会会议资料
+10:12:20:  TCR调测工具 V3.36
+10:12:35:  BTCRTestTool V3.36
+10:12:40:  TCRControlCmdDLL
+10:12:45:  删除多个项目
+10:12:50:  Decode
+10:12:55:  
+10:13:00:  打开
+10:13:05:  K64_0000_20200403095530.log - K64状态机分析2.tat - TextAnalysisTool.NET
+10:13:50:  首台TRB已经装配完成，请固件协助提供程序调试。
+10:14:15:  eSpace
+10:14:20:  
+10:14:25:  K64_0000_20200403095530.log - K64状态机分析2.tat - TextAnalysisTool.NET
+10:14:35:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+10:15:10:  K64_0000_20200403095530.log - K64状态机分析2.tat - TextAnalysisTool.NET
+10:15:20:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+10:16:35:  TCR调测工具 V3.36
+10:20:25:  20200403
+10:20:50:  回复: 首台TRB已经装配完成，请固件协助提供程序调试。
+10:21:15:  TCRControlCmdDLL
+10:21:20:  
+10:21:25:  eSpace
+10:21:30:  20200403
+10:21:35:  
+10:21:40:  20200403
+10:21:45:  TCR调测工具 V3.36
+10:22:20:  20200403
+10:22:30:  K64_0000_20200403102147.log - K64状态机分析2.tat - TextAnalysisTool.NET
+10:22:50:  取款
+10:22:55:  TCR调测工具 V3.36
+10:23:50:  K64_0000_20200403102147.log - K64状态机分析2.tat - TextAnalysisTool.NET
+10:31:35:  
+10:31:40:  TCR调测工具 V3.36
+10:34:00:  新北洋食堂清明节假期安排
+10:34:15:  TCR调测工具 V3.36
+10:39:55:  自动播放
+10:40:00:  TCR调测工具 V3.36
+10:40:20:  钞箱配置
+10:40:25:  TCR调测工具 V3.36
+10:41:20:  D:\00-KE64\7\trunk\Project\k64_rtt.uvprojx - μVision
+10:41:25:  TCR调测工具 V3.36
+10:43:35:  
+10:44:00:  TCR调测工具 V3.36
+10:44:55:  取款
+10:45:00:  TCR调测工具 V3.36
+10:45:55:  取款
+10:46:00:  TCR调测工具 V3.36
+10:47:05:  20200403
+10:47:15:  删除多个项目
+10:47:20:  读写ERROM
+10:47:30:  TCR调测工具 V3.36
+10:48:15:  20200403
+10:48:30:  K64_0000_20200403102147.log - K64状态机分析2.tat - TextAnalysisTool.NET
+10:48:35:  K64_0000_20200403104739.log - K64状态机分析2.tat - TextAnalysisTool.NET
+10:48:50:  计算器
+10:49:00:  
+10:49:10:  TCR调测工具 V3.36
+10:49:15:  读写ERROM
+10:49:20:  TCR调测工具 V3.36
+10:49:30:  
+10:50:40:  Decode
+10:50:45:  20200403
+10:50:50:  Decode
+10:51:40:  TCR调测工具 V3.36
+10:52:10:  取款
+10:52:15:  Decode
+10:52:20:  K64_0000_20200403104925.log - K64状态机分析2.tat - TextAnalysisTool.NET
+10:52:25:  计算器
+10:52:35:  取款
+10:52:40:  TCR调测工具 V3.36
+10:53:10:  20200403
+10:53:15:  Decode
+10:53:20:  K64_0000_20200403105238.log - K64状态机分析2.tat - TextAnalysisTool.NET
+10:53:45:  D:\00-06\8\branches\BR-1-CashBox1T2\Applications\Instruction\InstrExecute.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)
+10:53:50:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:55:00:  K64_0000_20200403105238.log - K64状态机分析2.tat - TextAnalysisTool.NET
+10:55:05:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:56:30:  K64_0000_20200403105238.log - K64状态机分析2.tat - TextAnalysisTool.NET
+10:56:35:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+10:57:30:  TCR调测工具 V3.36
+10:57:35:  取款
+10:57:55:  TCR调测工具 V3.36
+10:59:10:  取款
+10:59:15:  
+10:59:50:  取款
+10:59:55:  TCR调测工具 V3.36
+10:59:10:  取款
+10:59:15:  
+10:59:50:  取款
+10:59:55:  TCR调测工具 V3.36
+11:00:40:  eSpace
+11:00:45:  姜泽鹏
+11:00:50:  TCR调测工具 V3.36
+11:00:55:  
+11:01:00:  eSpace
+11:01:05:  
+11:01:10:  远程邮箱管理
+11:01:25:  
+11:01:30:  Decode
+11:01:35:  20200403
+11:06:10:  K64_0000_20200403105238.log - K64状态机分析2.tat - TextAnalysisTool.NET
+11:06:15:  Decode
+11:06:25:  BTCRTestTool V3.36
+11:06:30:  TCRControlCmdDLL
+11:06:35:  本地磁盘 (D:)
+11:06:40:  VS
+11:06:45:  Python_shutil
+11:06:50:  本地磁盘 (D:)
+11:06:55:  C:\Windows\system32\cmd.exe
+11:07:25:  本地磁盘 (D:)
+11:07:35:  C:\Windows\system32\cmd.exe
+11:07:40:  本地磁盘 (D:)
+11:08:40:  
+11:08:45:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:09:05:  
+11:09:10:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:09:15:  
+11:09:25:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:09:35:  TCRTransDLL
+11:09:45:  本地磁盘 (D:)
+11:09:55:  TCR调测工具 V3.36
+11:10:05:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:10:15:  
+11:10:55:  C:\Windows\system32\cmd.exe
+11:11:05:  
+11:31:20:  D:\00-KE64\7\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)
+11:31:25:  
+11:31:30:  本地磁盘 (D:)
+11:31:40:  3
+11:31:45:  
+11:31:55:  TCR检验工具_无暂存版本
+11:32:00:  钞箱1T2
+11:34:25:  V1.003
+11:34:30:  TCR调测工具 V3.36

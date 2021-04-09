@@ -1,0 +1,96 @@
+2020-09-21 23:45:00-- 00:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 00:00:00-- 00:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 00:15:01-- 00:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 00:30:01-- 00:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 00:45:01-- 01:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 01:00:01-- 01:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 01:15:01-- 01:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 01:30:01-- 01:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 01:45:01-- 02:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 02:00:01-- 02:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 02:15:01-- 02:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 02:30:01-- 02:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 02:45:01-- 03:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 03:00:01-- 03:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 03:15:02-- 03:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 03:30:02-- 03:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 03:45:02-- 04:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 04:00:02-- 04:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 04:15:02-- 04:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 04:30:02-- 04:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 04:45:02-- 05:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 05:00:02-- 05:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 05:15:03-- 05:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 05:30:03-- 05:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 05:45:03-- 06:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 06:00:03-- 06:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 06:15:03-- 06:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 06:30:03-- 06:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 06:45:03-- 07:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 07:00:04-- 07:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 07:15:04-- 07:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 07:30:04-- 07:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 07:45:04-- 08:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 08:00:04-- 08:15:04     :    一  ：CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]   165/13.7分钟       二  ：锁屏状态   5/0.41分钟     三  ：E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision   3/0.25分钟
+2020-09-22 08:15:04-- 08:30:04     :    一  ：TCR调测工具（研发版）V1.0.0.4   52/4.33分钟       二  ：CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]   46/3.83分钟     三  ：通道电机测试   33/2.75分钟
+2020-09-22 08:30:04-- 08:45:00     :    一  ：CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]   49/4.08分钟       二  ：CashGateModuleApp.c - trunk - Visual Studio Code [管理员]   36/3.0分钟     三  ：K64_0000_20200922082809.log - DRB.tat* - TextAnalysisTool.NET   33/2.75分钟
+2020-09-22 08:45:00-- 09:00:00     :    一  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)   25/2.08分钟       二  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\CashPress\PressModuleIF.c • (CRS-64-1) - Sublime Text (UNREGISTERED)   23/1.91分钟     三  ：ComponentCtrl.h - CRS-64-1 - Visual Studio Code [管理员]   22/1.83分钟
+2020-09-22 09:00:00-- 09:15:00     :    一  ：E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)   154/12.8分钟       二  ：E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)   7/0.58分钟     三  ：D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxCmd.c (trunk) - Sublime Text (UNREGISTERED)   6/0.5分钟
+2020-09-22 09:15:00-- 09:30:01     :    一  ：E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)   75/6.25分钟       二  ：DRB通道传感器布局.pptx [只读] - PowerPoint   69/5.75分钟     三  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)   14/1.16分钟
+2020-09-22 09:30:01-- 09:45:01     :    一  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\CashBox\CashBoxPlateCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)   60/5.0分钟       二  ：E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)   31/2.58分钟     三  ：E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c • (CRS-64-1) - Sublime Text (UNREGISTERED)   16/1.33分钟
+2020-09-22 09:45:01-- 10:00:01     :    一  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)   79/6.58分钟       二  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h (CRS-64-1) - Sublime Text (UNREGISTERED)   36/3.0分钟     三  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c • (CRS-64-1) - Sublime Text (UNREGISTERED)   31/2.58分钟
+2020-09-22 10:00:01-- 10:15:01     :    一  ：D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.c (trunk) - Sublime Text (UNREGISTERED)   45/3.75分钟       二  ：E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)   32/2.66分钟     三  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)   28/2.33分钟
+2020-09-22 10:15:01-- 10:30:01     :    一  ：D:\00-KE64\新建文件夹\trunk\Applications\CanComm\CashBoxComm\CashBoxComm.c (trunk) - Sublime Text (UNREGISTERED)   104/8.66分钟       二  ：E:\深圳出差\CRS-64-1\Applications\CanComm\CashBoxComm\CashBoxComm.c • (CRS-64-1) - Sublime Text (UNREGISTERED)   38/3.16分钟     三  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.h • (CRS-64-1) - Sublime Text (UNREGISTERED)   9/0.75分钟
+2020-09-22 10:30:01-- 10:45:02     :    一  ：E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision   46/3.83分钟       二  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentCtrl.c (CRS-64-1) - Sublime Text (UNREGISTERED)   36/3.0分钟     三  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.c (CRS-64-1) - Sublime Text (UNREGISTERED)   14/1.16分钟
+2020-09-22 10:45:02-- 11:00:02     :    一  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)   47/3.91分钟       二  ：E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision   26/2.16分钟     三  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\ComponentCtrl\ComponentStatus.h (CRS-64-1) - Sublime Text (UNREGISTERED)   20/1.66分钟
+2020-09-22 11:00:02-- 11:15:02     :    一  ：荆文波   50/4.16分钟       二  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)   32/2.66分钟     三  ：于转龙   22/1.83分钟
+2020-09-22 11:15:02-- 11:30:02     :    一  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)   38/3.16分钟       二  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)   25/2.08分钟     三  ：刘茂林   14/1.16分钟
+2020-09-22 11:30:02-- 11:45:03     :    一  ：E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision   95/7.91分钟       二  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)   47/3.91分钟     三  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c • (CRS-64-1) - Sublime Text (UNREGISTERED)   17/1.41分钟
+2020-09-22 11:45:03-- 12:00:03     :    一  ：锁屏状态   177/14.7分钟       二  ：E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision   3/0.25分钟     三  ：   0/0.0分钟
+2020-09-22 12:00:03-- 12:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 12:15:03-- 12:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 12:30:04-- 12:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 12:45:04-- 13:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 13:00:04-- 13:15:00     :    一  ：锁屏状态   150/12.5分钟       二  ：E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision   29/2.41分钟     三  ：   0/0.0分钟
+2020-09-22 13:15:00-- 13:30:02     :    一  ：E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision   43/3.58分钟       二  ：CashGateModuleApp.c - trunk - Visual Studio Code [管理员]   36/3.0分钟     三  ：CheckTheBookTital.py - trunk - Visual Studio Code [管理员]   18/1.5分钟
+2020-09-22 13:30:02-- 13:45:02     :    一  ：CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]   94/7.83分钟       二  ：CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [Administrator]   21/1.75分钟     三  ：CheckTheBookTital.py - CRS-64-1 - Visual Studio Code [管理员]   14/1.16分钟
+2020-09-22 13:45:02-- 14:00:03     :    一  ：TCR调测工具（研发版）V1.0.0.4   87/7.25分钟       二  ：CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]   54/4.5分钟     三  ：K64_0000_20200922134659.log - DRB.tat* - TextAnalysisTool.NET   16/1.33分钟
+2020-09-22 14:00:03-- 14:15:03     :    一  ：K64_0000_20200922140221.log - DRB.tat* - TextAnalysisTool.NET   101/8.41分钟       二  ：CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]   27/2.25分钟     三  ：TCR调测工具（研发版）V1.0.0.4   25/2.08分钟
+2020-09-22 14:15:03-- 14:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 14:30:03-- 14:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 14:45:03-- 15:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 15:00:03-- 15:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 15:15:03-- 15:30:01     :    一  ：胡蕊,张开发   109/9.08分钟       二  ：K64_0000_20200922140221.log - DRB.tat* - TextAnalysisTool.NET   38/3.16分钟     三  ：GateModule.c - CRS-64-1 - Visual Studio Code [管理员]   12/1.0分钟
+2020-09-22 15:30:01-- 15:45:01     :    一  ：锁屏状态   174/14.5分钟       二  ：E:\深圳出差\CRS-64-1\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64-1) - Sublime Text (UNREGISTERED)   5/0.41分钟     三  ：Sublime Text   1/0.08分钟
+2020-09-22 15:45:01-- 16:00:01     :    一  ：锁屏状态   116/9.66分钟       二  ：TCR调测工具（研发版）V1.0.0.4   15/1.25分钟     三  ：D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision   10/0.83分钟
+2020-09-22 16:00:01-- 16:15:01     :    一  ：D:\CRS\KE18-UP\Project\ke18_rtt.uvprojx - μVision   32/2.66分钟       二  ：CRS调试工具   31/2.58分钟     三  ：戚晓东   23/1.91分钟
+2020-09-22 16:15:01-- 16:30:01     :    一  ：TCR调测工具（研发版）V1.0.0.4   44/3.66分钟       二  ：戚晓东   31/2.58分钟     三  ：D:\CRS\KE18-BOOT\Project\ke18_boot.uvprojx - μVision   24/2.0分钟
+2020-09-22 16:30:01-- 16:45:02     :    一  ：Box_2__BTCR-1100190803000008_20200909160858.log - DRB.tat* - TextAnalysisTool.NET   90/7.5分钟       二  ：eSpace   26/2.16分钟     三  ：CashBoxModuleApp.c - CRS-64-1 - Visual Studio Code [管理员]   23/1.91分钟
+2020-09-22 16:45:02-- 17:00:02     :    一  ：E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision   41/3.41分钟       二  ：Box_2__BTCR-1100190803000008_20200909160858.log - DRB.tat* - TextAnalysisTool.NET   22/1.83分钟     三  ：E:\深圳出差\CRS-64-1\Applications\CanComm\SlaveBoardComm\CSBoardCmd.c (CRS-64-1) - Sublime Text (UNREGISTERED)   15/1.25分钟
+2020-09-22 17:00:02-- 17:15:02     :    一  ：E:\深圳出差\CRS-64-1\Project\k64_rtt.uvprojx - μVision   113/9.41分钟       二  ：锁屏状态   59/4.91分钟     三  ：D:\00-KE64\新建文件夹\trunk\Applications\FlowControl\Plate\PlateModuleIF.c (trunk) - Sublime Text (UNREGISTERED)   3/0.25分钟
+2020-09-22 17:15:02-- 17:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 17:30:02-- 17:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 17:45:03-- 18:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 18:00:03-- 18:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 18:15:03-- 18:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 18:30:03-- 18:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 18:45:03-- 19:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 19:00:03-- 19:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 19:15:04-- 19:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 19:30:04-- 19:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 19:45:04-- 20:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 20:00:04-- 20:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 20:15:00-- 20:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 20:30:00-- 20:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 20:45:00-- 21:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 21:00:00-- 21:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 21:15:00-- 21:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 21:30:00-- 21:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 21:45:01-- 22:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 22:00:01-- 22:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 22:15:01-- 22:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 22:30:01-- 22:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 22:45:01-- 23:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 23:00:02-- 23:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 23:15:02-- 23:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-09-22 23:30:02-- 23:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

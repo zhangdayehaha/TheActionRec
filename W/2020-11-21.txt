@@ -1,0 +1,1379 @@
+08:09:14:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:13:29:  自动播放
+08:13:34:  iTunes
+08:13:39:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:13:49:  0-工作 - 张开发 - 印象笔记
+08:13:54:  所有笔记本 - 张开发 - 印象笔记
+08:13:59:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:15:34:  打开文件夹
+08:15:50:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:17:05:  日报
+08:17:10:  CheckTheBookTital.py - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:17:15:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:17:20:  Python - Get Started - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:17:35:  CheckTheBookTital.py - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:17:50:  设置 - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:18:00:  HistoryRecord.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:18:05:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:18:15:  CheckTheBookTital.py - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:18:30:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:19:05:  安全警报
+08:19:10:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:23:51:  CheckTheBookTital.py - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:23:56:  设置 - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:24:16:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:26:06:  ● InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:30:26:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:30:51:  ● InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:30:56:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:31:01:  ● InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:31:26:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:32:36:  InstrExecute.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:32:41:  InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:32:51:  ● InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:33:01:  InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:33:31:  ● InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:33:36:  InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:33:56:  RingBufferModule.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:34:01:  InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:34:06:  ● InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:34:11:  InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:34:26:  ● InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:34:31:  InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:35:01:  ● InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:35:16:  InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:35:26:  ● InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:35:41:  InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:35:51:  ● InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:35:56:  InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:36:16:  ● InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:36:36:  InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:36:46:  ● InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:36:51:  InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:36:56:  ● InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:37:01:  InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:37:16:  ● InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:37:21:  InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:37:36:  InstrHandle.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:37:41:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:38:01:  OSLib.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:38:06:  ● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:38:16:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:38:36:  数据抓取工具 - Google Chrome
+08:38:41:  Unusual (nonportable) anonymous struct or union_百度搜索 - Google Chrome
+08:39:06:  币安社区_百度搜索 - Google Chrome
+08:39:16:  币乎 - 好文有好报！ - Google Chrome
+08:39:21:  币安_币乎 - 好文有好报! - Google Chrome
+08:39:26:  币乎 - 好文有好报! - Google Chrome
+08:39:31:  锁屏状态
+08:39:41:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:40:26:  币安社区_百度搜索 - Google Chrome
+08:40:36:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:41:56:  币安社区_百度搜索 - Google Chrome
+08:42:26:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:42:31:  币安社区_百度搜索 - Google Chrome
+08:42:41:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:42:51:  币安社区_百度搜索 - Google Chrome
+08:42:56:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:44:11:  币安社区_百度搜索 - Google Chrome
+08:44:16:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:44:11:  币安社区_百度搜索 - Google Chrome
+08:44:16:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:49:51:  锁屏状态
+08:49:56:  新标签页 - Google Chrome
+08:50:01:  SonarQube - Google Chrome
+08:50:06:  Possible access of out-of-bounds pointer (1 beyond end of data) by operator '[' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\PeripheralDriver\Ke06bsp\ftm.c: lines 302, 323] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+08:50:16:  锁屏状态
+08:50:21:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+08:50:41:  Pointer parameter 'Parameter' (line 32) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+08:50:56:  local structure member 'mStackUsageTotal' (line 52, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\HistoryRecord\HistoryRecord.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+08:51:06:  Unusual (nonportable) anonymous struct or union - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+08:51:11:  external 'AppHistoryOutput(void)' (line 75, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\HistoryRecord\HistoryRecord.c) could be made static - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+08:51:16:  Unusual (nonportable) anonymous struct or union - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+08:51:21:  external 'AppHistoryOutput(void)' (line 75, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\HistoryRecord\HistoryRecord.c) could be made static - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+08:51:31:  HistoryRecord.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:51:46:  ● HistoryRecord.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+08:51:51:  external 'AppHistoryOutput(void)' (line 75, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\HistoryRecord\HistoryRecord.c) could be made static - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+08:51:56:  Unusual pointer cast (incompatible indirect types) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+08:52:06:  Boolean within 'if' always evaluates to False [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\HistoryRecord\HistoryRecord.c: line 108] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+08:52:11:  Illegal character (0x24) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+08:52:21:  锁屏状态
+08:52:26:  新标签页 - Google Chrome
+08:52:31:  百度一下，你就知道 - Google Chrome
+08:52:41:  币安社区5U_百度搜索 - Google Chrome
+08:53:21:  币安将调整BTC/TUSD、AUD/USDT、BTC/AUD交易对K线 金色财经 - Google Chrome
+08:53:31:  百度一下，你就知道 - Google Chrome
+08:53:36:  币安社区_百度搜索 - Google Chrome
+08:53:46:  币安群_百度搜索 - Google Chrome
+08:54:01:  派币安全圈 | Pi Network_Pi币社区 - Google Chrome
+08:54:26:  币安群_百度搜索 - Google Chrome
+08:55:11:  新标签页 - Google Chrome
+08:55:41:  192.168.19.5 - Google Chrome
+08:55:57:  新标签页 - Google Chrome
+08:56:02:  百度一下，你就知道 - Google Chrome
+08:56:07:  币安社区_百度搜索 - Google Chrome
+08:56:12:  【币安社区11月交易节，10,000 美元FLM大赠送！】 - Binance/币安 - ChainNode 链节点 - Google Chrome
+08:56:22:  Binance/币安社区 - 如何购买比特币 - ChainNode 链节点 - Google Chrome
+08:56:32:  币安杠杆 & DeFi 大狂欢，5万美元等值BNB等你拿！ - Binance/币安 - ChainNode 链节点 - Google Chrome
+08:56:52:  所有笔记本 - 张开发 - 印象笔记
+08:56:57:  印象笔记
+08:57:02:  HistoryRecord.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:01:27:  锁屏状态
+09:01:32:  HistoryRecord.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:01:37:  新标签页 - Google Chrome
+09:01:42:  币安杠杆 & DeFi 大狂欢，5万美元等值BNB等你拿！ - Binance/币安 - ChainNode 链节点 - Google Chrome
+09:02:42:  新标签页 - Google Chrome
+09:02:47:  币安杠杆 & DeFi 大狂欢，5万美元等值BNB等你拿！ - Binance/币安 - ChainNode 链节点 - Google Chrome
+09:02:52:  Binance/币安社区 - 如何购买比特币 - ChainNode 链节点 - Google Chrome
+09:03:12:  【币安社区11月交易节，10,000 美元FLM大赠送！】 - Binance/币安 - ChainNode 链节点 - Google Chrome
+09:03:22:  https://docs.qq.com/form/page/DYkR0S0ltdXlQTkxY?_w_tencentdocx_form=1 - Google Chrome
+09:03:27:  币安社区11月交易节，10,000 美元FLM大赠送！ - Google Chrome
+09:03:32:  【币安社区11月交易节，10,000 美元FLM大赠送！】 - Binance/币安 - ChainNode 链节点 - Google Chrome
+09:03:47:  Binance/币安社区 - 如何购买比特币 - ChainNode 链节点 - Google Chrome
+09:03:52:  【币安币本位合约流动性升级，20万美元BNB奖励来袭】 - Binance/币安 - ChainNode 链节点 - Google Chrome
+09:04:07:  HistoryRecord.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:04:27:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:04:32:  InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:04:37:  InstrHandle.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:04:42:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:04:57:  ● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:05:02:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:05:17:  LogHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:06:07:  ● LogHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:06:17:  LogHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:06:27:  ● LogHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:06:32:  LogHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:09:07:  iTunes
+09:09:17:  新标签页 - Google Chrome
+09:11:12:  LogHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:11:27:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:14:37:  程明昌
+09:14:52:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:14:57:  ● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:15:02:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:14:37:  程明昌
+09:14:52:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:14:57:  ● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:15:02:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:15:07:  ● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:15:12:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:15:52:  ● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:15:57:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:16:12:  程明昌
+09:16:37:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:16:42:  ● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:16:47:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:17:07:  新标签页 - Google Chrome
+09:17:12:  Possible access of out-of-bounds pointer (1 beyond end of data) by operator '[' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\PeripheralDriver\Ke06bsp\ftm.c: lines 302, 323] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:17:17:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:17:27:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:17:32:  Possible access of out-of-bounds pointer (1 beyond end of data) by operator '[' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\PeripheralDriver\Ke06bsp\ftm.c: lines 192, 219] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:17:37:  Possible access of out-of-bounds pointer (1 beyond end of data) by operator '[' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\PeripheralDriver\Ke06bsp\ftm.c: lines 250, 274] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:17:42:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:17:47:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:18:02:  Illegal character (0x24) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:18:07:  Symbol '_pc' previously defined (line 59, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Rtos\MQXLITE\psp\cortex_m\compiler\rv\comp.h, module E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Rtos\MQXLITE\kernel\idletask.c) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:18:12:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:18:17:  Variable 'PaperPosAnother' (line 348) may not have been initialized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:18:27:  Symbol 'Image' (location unknown) not subsequently referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:18:52:  「开始」菜单
+09:18:57:  网易有道词典
+09:19:02:  Symbol 'Image' (location unknown) not subsequently referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:19:17:  Symbol 'DebugLogBufCtrl' (line 25, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\LogHandle\LogHandle.c) not defined - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:19:37:  Declaration of symbol 'Count' hides symbol 'Count' (line 172) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:19:47:  网易有道词典
+09:19:52:  Declaration of symbol 'Count' hides symbol 'Count' (line 172) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:20:22:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:21:12:  Declaration of symbol 'Count' hides symbol 'Count' (line 172) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:21:17:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:21:22:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:21:27:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:21:37:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:21:42:  Pointer parameter 'sInstrRingBuffer' (line 172) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:21:52:  Too few initializers for aggregate 'sInstrStruct' of type 'const INSTR_STRUCT [98]' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:22:02:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:22:07:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:22:22:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:22:27:  Extraneous comma ignored - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:22:42:  local typedef 'SYSTEM_TIME' (line 272, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Instruction\InstrExecute.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:22:52:  Type mismatch (arg. no. 1) (enum/enum) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:23:22:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:23:27:  网易有道词典
+09:23:32:  Type mismatch (arg. no. 1) (enum/enum) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:23:37:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:23:47:  Lock.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:23:52:  Type mismatch (arg. no. 1) (enum/enum) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:24:07:  网易有道词典
+09:24:12:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:24:17:  Lock.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:24:27:  Type mismatch (arg. no. 1) (enum/enum) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:24:42:  local typedef 'SYSTEM_TIME' (line 272, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Instruction\InstrExecute.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:24:52:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:25:12:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:25:17:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:25:22:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:25:27:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:25:37:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:25:42:  锁屏状态
+09:25:47:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:25:52:  Extraneous comma ignored - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:26:07:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:26:12:  ● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:26:17:  Extraneous comma ignored - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:26:22:  Loss of precision (assignment) (32 bits to 8 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:26:32:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:26:47:  ● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:26:52:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:27:12:  Loss of precision (assignment) (32 bits to 8 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:27:17:  Pointer parameter 'Parameter' (line 69) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:27:52:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:28:22:  Pointer parameter 'Parameter' (line 69) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:29:32:  警告
+09:30:02:  锁屏状态
+09:28:22:  Pointer parameter 'Parameter' (line 69) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:29:32:  警告
+09:30:02:  锁屏状态
+09:30:07:  运行
+09:30:12:  06- 刘建生
+09:30:22:  01 CRS项目
+09:30:27:  01 结构集成测试
+09:30:52:  网络错误
+09:30:57:  警告
+09:31:02:  01 结构集成测试
+09:31:07:  警告
+09:31:17:  桌面整理
+09:31:32:  20201113
+09:31:37:  测试记录及日志
+09:31:42:  01 结构集成测试
+09:31:47:  CRS K18异常汇总.xlsx  [受保护的视图] - Excel
+09:31:57:  测试记录及日志
+09:32:02:  04 CRS结构工作
+09:32:07:  01 结构集成测试
+09:32:12:  测试记录及日志
+09:32:17:  运行
+09:32:22:  08tcr测试过程记录
+09:32:27:  系统测试记录
+09:32:37:  正在打开 - Excel
+09:32:42:  CRS缺陷列表1120.xlsx  [受保护的视图] - Excel
+09:33:02:  测试过程日志照片
+09:33:07:  log
+09:33:12:  Decode
+09:33:27:  [No file loaded] - [No filter file] - TextAnalysisTool.NET
+09:33:32:  CS_0000_20201120105950.log - [No filter file] - TextAnalysisTool.NET
+09:33:37:  Add Filter
+09:33:42:  CS_0000_20201120105950.log - [No filter file]* - TextAnalysisTool.NET
+09:33:52:  Decode
+09:33:57:  CS_0000_20201120104940.log - [No filter file]* - TextAnalysisTool.NET
+09:34:22:  Add Filter
+09:34:32:  CS_0000_20201120104940.log - [No filter file]* - TextAnalysisTool.NET
+09:40:32:  Pointer parameter 'Parameter' (line 69) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:40:37:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:40:47:  Pointer parameter 'Parameter' (line 69) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:40:52:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:41:02:  CS_0000_20201120104940.log - [No filter file]* - TextAnalysisTool.NET
+09:41:07:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:41:12:  锁屏状态
+09:41:17:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:41:22:  Pointer parameter 'Parameter' (line 69) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:41:27:  Pointer parameter 'SendBuffer' (line 155) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:41:47:  dsdsf
+09:41:52:  Pointer parameter 'SendBuffer' (line 155) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:42:17:  2020年春节福利发放通知.pdf
+09:42:52:  Pointer parameter 'SendBuffer' (line 155) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:43:17:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:43:27:  ● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:43:32:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:43:37:  Pointer parameter 'SendBuffer' (line 155) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:43:42:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:43:47:  锁屏状态
+09:43:52:  Loss of precision (assignment) (16 bits to 8 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+09:43:57:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:44:07:  ● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:44:12:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:44:07:  ● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:44:12:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:47:32:  ● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:47:37:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:47:47:  ● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:47:52:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:48:02:  3-日常 - 张开发 - 印象笔记
+09:48:07:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:50:22:  ● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+09:50:27:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:05:12:  锁屏状态
+10:05:22:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:05:32:  Loss of precision (assignment) (16 bits to 8 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:05:47:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:05:52:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:06:02:  Symbol 'DebugLogBufCtrl' (line 25, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\LogHandle\LogHandle.c) not defined - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:06:07:  Pointer parameter 'Parameter' (line 33) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:06:22:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:06:27:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:06:32:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:06:37:  Variable 'sMotorSelfTestSteps' (line 121, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\MotorCtrl\MotorCtrl.c) could be declared as const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:06:42:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:06:47:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:07:02:  ● MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:07:13:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:07:23:  Variable 'sMotorSelfTestSteps' (line 121, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\MotorCtrl\MotorCtrl.c) could be declared as const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:07:53:  external 'MotorStart(MOTOR_ID, unsigned char, unsigned short)' (line 251, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\MotorCtrl\MotorCtrl.c) could be made static - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:07:58:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:08:28:  external 'MotorStart(MOTOR_ID, unsigned char, unsigned short)' (line 251, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\MotorCtrl\MotorCtrl.c) could be made static - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:08:38:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:08:43:  CS_0000_20201120104940.log - [No filter file]* - TextAnalysisTool.NET
+10:08:48:  ● MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:09:03:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:09:18:  external 'MotorStart(MOTOR_ID, unsigned char, unsigned short)' (line 251, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\MotorCtrl\MotorCtrl.c) could be made static - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:09:23:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:09:43:  external 'MotorStart(MOTOR_ID, unsigned char, unsigned short)' (line 251, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\MotorCtrl\MotorCtrl.c) could be made static - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:09:58:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:10:03:  external 'MotorStart(MOTOR_ID, unsigned char, unsigned short)' (line 251, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\MotorCtrl\MotorCtrl.c) could be made static - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:10:08:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:10:18:  external 'MotorStart(MOTOR_ID, unsigned char, unsigned short)' (line 251, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\MotorCtrl\MotorCtrl.c) could be made static - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:10:23:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:10:53:  external 'MotorStart(MOTOR_ID, unsigned char, unsigned short)' (line 251, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\MotorCtrl\MotorCtrl.c) could be made static - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:10:58:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:11:08:  ● MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:11:13:  external 'MotorStart(MOTOR_ID, unsigned char, unsigned short)' (line 251, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\MotorCtrl\MotorCtrl.c) could be made static - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:11:18:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:11:48:  ● MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:11:58:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:12:23:  ● MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:12:28:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:12:38:  ● MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:12:43:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:12:53:  ● MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:13:03:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:13:08:  external 'MotorStart(MOTOR_ID, unsigned char, unsigned short)' (line 251, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\MotorCtrl\MotorCtrl.c) could be made static - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:13:13:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:13:38:  external 'MotorStart(MOTOR_ID, unsigned char, unsigned short)' (line 251, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\MotorCtrl\MotorCtrl.c) could be made static - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:13:43:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:14:03:  于斌1
+10:14:08:  Loss of precision (initialization) (32 bits to 16 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:14:28:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:14:33:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:14:38:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:14:43:  Loss of precision (assignment) (22 bits to 16 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:14:53:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:14:58:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:15:03:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:14:08:  Loss of precision (initialization) (32 bits to 16 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:14:28:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:14:33:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:14:38:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:14:43:  Loss of precision (assignment) (22 bits to 16 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:14:53:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:14:58:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:15:03:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:15:13:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:15:18:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:15:33:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:19:43:  「开始」菜单
+10:19:48:  计算器
+10:20:58:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:24:53:  于斌1
+10:25:03:  eSpace
+10:25:08:  于斌1
+10:25:13:  计算器
+10:28:13:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:28:13:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:32:08:  于斌1
+10:32:13:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:32:23:  Loss of precision (assignment) (22 bits to 16 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:32:33:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:32:43:  Loss of precision (assignment) (22 bits to 16 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:32:48:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:37:43:  程明昌
+10:37:53:  eSpace
+10:37:58:  程明昌
+10:38:08:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:38:18:  网易有道词典
+10:38:23:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:38:28:  网易有道词典
+10:39:03:  程明昌
+10:39:28:  PaperManage.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:39:33:  程明昌
+10:39:48:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:39:58:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:40:03:  程明昌
+10:40:13:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:40:48:  程明昌
+10:40:58:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:41:28:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:41:33:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:41:58:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:42:08:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:42:23:  Loss of precision (assignment) (22 bits to 16 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:43:03:  网易有道词典
+10:43:08:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:43:38:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:44:03:  程明昌
+10:44:13:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:44:38:  Declaration of symbol 'Count' hides symbol 'Count' (line 172) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:44:43:  Pointer parameter 'Paper' (line 276) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:44:53:  锁屏状态
+10:44:58:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:45:03:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:44:13:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:44:38:  Declaration of symbol 'Count' hides symbol 'Count' (line 172) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:44:43:  Pointer parameter 'Paper' (line 276) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:44:53:  锁屏状态
+10:44:58:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:45:03:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:45:08:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:45:13:  Pointer parameter 'Paper' (line 276) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:45:18:  Variable 'PaperPos' (line 347) may not have been initialized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:45:38:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:45:43:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:46:03:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:46:08:  网易有道词典
+10:46:18:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:46:43:  Variable 'PaperPos' (line 347) may not have been initialized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:46:58:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:47:03:  Sensor.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:47:08:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:47:13:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:47:18:  程明昌
+10:47:23:  Variable 'PaperPos' (line 347) may not have been initialized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:47:43:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:47:58:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:48:18:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:48:23:  Sensor.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:48:28:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:48:53:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:49:08:  Variable 'PaperPos' (line 347) may not have been initialized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:49:18:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:50:38:  eSpace
+10:50:43:  于斌1
+10:51:58:  Variable 'PaperPos' (line 454) may not have been initialized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:52:03:  eSpace
+10:52:38:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:52:43:  eSpace
+10:52:53:  数据抓取工具 - Google Chrome
+10:52:58:  班车管理系统 - Google Chrome
+10:53:08:  班车管理系统 [新北洋集团] - Google Chrome
+10:53:38:  文档
+10:53:48:  2020-11-21.txt - 记事本
+10:53:58:  W
+10:55:08:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:56:23:  新标签页 - Google Chrome
+10:56:28:  Possible access of out-of-bounds pointer (1 beyond end of data) by operator '[' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\PeripheralDriver\Ke06bsp\ftm.c: lines 302, 323] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:56:33:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:56:48:  Variable 'SensorState' (line 452) may not have been initialized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:56:58:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:57:13:  Variable 'SensorState' (line 452) may not have been initialized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:57:28:  Expression-like macro 'MERGE_MARGIN' not parenthesized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:57:33:  网易有道词典
+10:57:38:  Expression-like macro 'MERGE_MARGIN' not parenthesized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:57:43:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:57:48:  Expression-like macro 'MERGE_MARGIN' not parenthesized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:58:13:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:58:18:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:58:28:  Expression-like macro 'MERGE_MARGIN' not parenthesized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:58:38:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:58:53:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:58:58:  Expression-like macro 'MERGE_MARGIN' not parenthesized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:59:18:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:59:23:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:59:28:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:59:33:  Expression-like macro 'MERGE_MARGIN' not parenthesized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:59:53:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:58:13:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:58:18:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:58:28:  Expression-like macro 'MERGE_MARGIN' not parenthesized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:58:38:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:58:53:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:58:58:  Expression-like macro 'MERGE_MARGIN' not parenthesized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:59:18:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:59:23:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:59:28:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+10:59:33:  Expression-like macro 'MERGE_MARGIN' not parenthesized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+10:59:53:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:03:13:  计算器
+11:03:33:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:05:08:  Expression-like macro 'MERGE_MARGIN' not parenthesized - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:05:13:  Expected unsigned type - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:05:23:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:05:33:  Expected unsigned type - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:05:38:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:06:13:  Expected unsigned type - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:06:33:  于斌1
+11:06:38:  程明昌
+11:06:43:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:06:48:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:06:58:  Expected unsigned type - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:07:03:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:07:13:  PaperManage.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:07:18:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:07:38:  Expected unsigned type - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:07:53:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:08:03:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:08:13:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:08:23:  Expected unsigned type - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:08:48:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:09:38:  Expected unsigned type - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:09:48:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:09:53:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:10:03:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:10:13:  Expected unsigned type - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:10:28:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:10:33:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:10:38:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:10:53:  Expected unsigned type - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:10:58:  程明昌
+11:11:03:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:11:08:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:11:18:  Expected unsigned type - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:11:33:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:11:43:  Expected unsigned type - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:12:23:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:12:28:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:12:33:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:12:38:  锁屏状态
+11:12:43:  Expected unsigned type - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:12:53:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:13:08:  Expected unsigned type - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:15:18:  Likely use of null pointer 'unknown-name' in left argument to operator '->' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PaperManage\PaperManage.c: line 1344] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:17:39:  eSpace
+11:17:44:  吉哲
+11:18:04:  Likely use of null pointer 'unknown-name' in left argument to operator '->' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PaperManage\PaperManage.c: line 1344] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:18:09:  吉哲
+11:18:24:  3-日常 - 张开发 - 印象笔记
+11:18:29:  所有笔记本 - 张开发 - 印象笔记
+11:18:34:  3-日常 - 张开发 - 印象笔记
+11:19:14:  所有笔记本 - 张开发 - 印象笔记
+11:19:19:  1-记录 - 张开发 - 印象笔记
+11:20:04:  Likely use of null pointer 'unknown-name' in left argument to operator '->' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PaperManage\PaperManage.c: line 1344] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:20:29:  于斌1
+11:20:39:  Likely use of null pointer 'unknown-name' in left argument to operator '->' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PaperManage\PaperManage.c: line 1344] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:20:44:  于斌1
+11:21:09:  吉哲
+11:21:14:  于斌1
+11:22:19:  吉哲
+11:22:44:  于斌1
+11:22:54:  吉哲
+11:23:39:  Likely use of null pointer 'unknown-name' in left argument to operator '->' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PaperManage\PaperManage.c: line 1344] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:23:49:  网易有道词典
+11:23:54:  Suspicious pointer-to-pointer conversion (area too small) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:25:04:  所有笔记本 - 张开发 - 印象笔记
+11:25:09:  Suspicious pointer-to-pointer conversion (area too small) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:28:24:  W
+11:28:39:  Suspicious pointer-to-pointer conversion (area too small) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:28:54:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:29:04:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:29:09:  local macro 'DISTANCE_STACK' (line 48, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PlateCtrl\LowerPlateCtrl.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:29:14:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:29:19:  LowerPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:29:29:  ● LowerPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:29:34:  local macro 'DISTANCE_STACK' (line 48, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PlateCtrl\LowerPlateCtrl.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:30:04:  LowerPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:28:24:  W
+11:28:39:  Suspicious pointer-to-pointer conversion (area too small) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:28:54:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:29:04:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:29:09:  local macro 'DISTANCE_STACK' (line 48, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PlateCtrl\LowerPlateCtrl.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:29:14:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:29:19:  LowerPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:29:29:  ● LowerPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:29:34:  local macro 'DISTANCE_STACK' (line 48, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PlateCtrl\LowerPlateCtrl.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:30:04:  LowerPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:30:39:  ● LowerPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:30:44:  local macro 'DISTANCE_STACK' (line 48, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PlateCtrl\LowerPlateCtrl.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:30:54:  ● LowerPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:30:59:  Decode
+11:31:04:  local macro 'DISTANCE_STACK' (line 48, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PlateCtrl\LowerPlateCtrl.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:31:14:  LowerPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:31:29:  local macro 'DISTANCE_STACK' (line 48, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PlateCtrl\LowerPlateCtrl.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:31:49:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:31:59:  所有笔记本 - 张开发 - 印象笔记
+11:32:09:  1-记录 - 张开发 - 印象笔记
+11:32:14:  所有笔记本 - 张开发 - 印象笔记
+11:32:19:  1-记录 - 张开发 - 印象笔记
+11:36:14:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:36:24:  Too few initializers for aggregate 'PlateMoveStackFlow' of type 'void (*const [3])(void)' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:36:44:  网易有道词典
+11:36:49:  Too few initializers for aggregate 'PlateMoveStackFlow' of type 'void (*const [3])(void)' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:37:19:  Unusual use of 'SYM' in argument to sizeof - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:37:24:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:37:29:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:37:39:  Loss of precision (arg. no. 2) (32 bits to 16 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:37:49:  LowerPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:37:54:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:37:59:  ● PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:38:14:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:38:19:  Loss of precision (arg. no. 2) (32 bits to 16 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:39:44:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:39:49:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:39:54:  Loss of precision (arg. no. 2) (double to unsigned int) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+11:39:59:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:40:14:  ● PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:40:24:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:40:29:  ● PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:40:39:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+11:40:54:  锁屏状态
+13:15:00:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:15:00:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:15:50:  吉哲
+13:16:55:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:17:00:  iTunes
+13:17:05:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:17:10:  吉哲
+13:17:35:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:17:40:  吉哲
+13:17:45:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:18:25:  程明昌
+13:18:30:  所有笔记本 - 张开发 - 印象笔记
+13:18:40:  0-工作 - 张开发 - 印象笔记
+13:18:45:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:19:10:  所有笔记本 - 张开发 - 印象笔记
+13:19:15:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:19:35:  锁屏状态
+13:19:40:  Loss of precision (arg. no. 2) (double to unsigned int) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:20:35:  下载
+13:20:40:  URCP_001_ECPS_ZXLS_fc5459e24d2a4d9e8be2b89c3f827161_20201118.pdf
+13:20:45:  URCP_001_ECPS_ZXLS_fc5459e24d2a4d9e8be2b89c3f827161_20201118.pdf - Adobe Reader
+13:20:55:  Loss of precision (arg. no. 2) (double to unsigned int) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:21:50:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:21:55:  ● PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:22:05:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:22:20:  Loss of precision (arg. no. 2) (double to unsigned int) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:22:25:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:23:05:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:23:15:  UpperPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:23:20:  ● UpperPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:23:25:  UpperPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:23:30:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:23:45:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:23:50:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:24:05:  Loss of precision (initialization) (float to unsigned short) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:24:20:  UpperPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:24:25:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:24:30:  ● Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:24:45:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:33:30:  吉哲
+13:33:40:  eSpace
+13:33:45:  程明昌
+13:34:06:  所有笔记本 - 张开发 - 印象笔记
+13:34:21:  警告
+13:34:31:  20201113
+13:34:36:  警告
+13:34:51:  桌面整理
+13:34:56:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:35:01:  开始
+13:35:06:  Loss of precision (initialization) (float to unsigned short) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:36:26:  计算器
+13:36:46:  程明昌
+13:37:06:  计算器
+13:37:11:  Loss of precision (initialization) (float to unsigned short) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:37:21:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:40:46:  所有笔记本 - 张开发 - 印象笔记
+13:40:56:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:41:26:  ● Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:41:56:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:42:01:  ● Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:42:06:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:42:21:  网易有道词典
+13:42:26:  所有笔记本 - 张开发 - 印象笔记
+13:42:41:  印象笔记
+13:42:46:  所有笔记本 - 张开发 - 印象笔记
+13:42:56:  01 结构集成测试
+13:43:01:  Loss of precision (initialization) (float to unsigned short) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:43:25:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:43:30:  ● Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:43:35:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:43:55:  Loss of precision (initialization) (float to unsigned short) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:44:00:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:44:05:  Loss of precision (initialization) (float to unsigned short) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:44:10:  Type mismatch (arg. no. 1) (enum/enum) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:44:20:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:44:25:  Lock.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:44:35:  Type mismatch (arg. no. 1) (enum/enum) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:44:45:  网易有道词典
+13:44:55:  桌面整理
+13:44:05:  Loss of precision (initialization) (float to unsigned short) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:44:10:  Type mismatch (arg. no. 1) (enum/enum) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:44:20:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:44:25:  Lock.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:44:35:  Type mismatch (arg. no. 1) (enum/enum) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:44:45:  网易有道词典
+13:44:55:  桌面整理
+13:45:40:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:46:40:  Lock.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:46:45:  Type mismatch (arg. no. 1) (enum/enum) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:46:55:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:47:05:  Type mismatch (arg. no. 1) (enum/enum) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:47:40:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:47:45:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:47:50:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:48:00:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:48:05:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:48:10:  Potentially confusing initializer - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:48:20:  「开始」菜单
+13:48:25:  网易有道词典
+13:48:30:  Potentially confusing initializer - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:49:15:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:49:20:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:49:40:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:49:45:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:51:00:  PaperManage.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:51:05:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:51:10:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:51:15:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:51:20:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:51:25:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:51:30:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:51:35:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:54:10:  未命名 - 写邮件
+13:54:15:  发送邮件
+13:54:49:  eSpace
+13:54:59:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:55:19:  日积月累
+13:55:24:  C:\Users\zhangkaifa\Desktop\BNE-R1200M_出入钞口方案20200511.exb - CAXA电子图板2005(企业版)
+13:55:34:  eSpace
+13:55:39:  于斌1
+13:55:54:  Potentially confusing initializer - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:55:59:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+13:56:09:  Potentially confusing initializer - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:56:29:  网易有道词典
+13:56:39:  Too few initializers for aggregate 'unknown-name' of type 'unsigned short [2]' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:56:49:  于斌1
+13:57:14:  Too few initializers for aggregate 'unknown-name' of type 'unsigned short [2]' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:57:24:  于斌1
+13:58:09:  Too few initializers for aggregate 'unknown-name' of type 'unsigned short [2]' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:58:19:  于斌1
+13:58:59:  Too few initializers for aggregate 'unknown-name' of type 'unsigned short [2]' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:58:09:  Too few initializers for aggregate 'unknown-name' of type 'unsigned short [2]' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+13:58:19:  于斌1
+13:58:59:  Too few initializers for aggregate 'unknown-name' of type 'unsigned short [2]' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:00:44:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:01:04:  Too few initializers for aggregate 'unknown-name' of type 'unsigned short [2]' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:01:19:  Extraneous comma ignored - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:01:34:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:01:59:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:02:14:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:02:39:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:02:49:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:02:59:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:03:09:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:03:14:  Extraneous comma ignored - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:03:24:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:03:39:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:03:44:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:03:49:  Extraneous comma ignored - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:03:59:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:04:15:  Pointer parameter 'Sensor' (line 344) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:04:25:  Pointer parameter 'CashMsg' (line 420) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:04:30:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:04:35:  Pointer parameter 'CashMsg' (line 420) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:04:45:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:05:00:  Pointer parameter 'CashMsg' (line 420) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:05:15:  Operator '/' followed by operator '*' is confusing. Use parentheses. - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:05:20:  网易有道词典
+14:05:25:  Operator '/' followed by operator '*' is confusing. Use parentheses. - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:05:30:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:05:35:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:05:40:  Operator '/' followed by operator '*' is confusing. Use parentheses. - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:05:50:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:06:15:  锁屏状态
+14:06:20:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:06:25:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:06:30:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:11:05:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:11:15:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:11:20:  Operator '/' followed by operator '*' is confusing. Use parentheses. - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:11:30:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:11:45:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:11:50:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:11:55:  Pointer parameter 'Paper' (line 628) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:12:10:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:13:20:  Pointer parameter 'Paper' (line 628) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:13:25:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:13:45:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:13:55:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:14:00:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:14:05:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:14:05:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:15:40:  本地磁盘 (E:)
+14:15:55:  Everything
+14:16:05:  张开发 - Everything
+14:16:15:  张开发银行流水.jpg - Windows 照片查看器
+14:16:55:  新北洋 张开发
+14:17:10:  新建文件夹 (2)
+14:17:15:  Excel
+14:17:20:  附件1：万名大学生聚集计划生活津贴企业名单.xlsx - Excel
+14:17:40:  Pointer parameter 'Paper' (line 628) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:17:50:  Pointer parameter 'Paper' (line 645) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:18:05:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:19:40:  Pointer parameter 'Paper' (line 645) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:19:45:  Pointer parameter 'Paper' (line 704) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:19:50:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:20:00:  Pointer parameter 'Paper' (line 704) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:20:05:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:21:40:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:21:45:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:22:30:  Pointer parameter 'Paper' (line 704) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:22:40:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:22:45:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:22:55:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:25:40:  锁屏状态
+14:25:45:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:27:10:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:27:15:  Pointer parameter 'Paper' (line 704) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:27:25:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:27:30:  Pointer parameter 'Paper' (line 704) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:27:35:  Pointer parameter 'Paper' (line 825) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:27:45:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:27:50:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:27:55:  Pointer parameter 'Paper' (line 825) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:28:05:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:29:30:  Pointer parameter 'Paper' (line 825) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:29:35:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:29:40:  Pointer parameter 'Paper' (line 825) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:30:00:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:28:05:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:29:30:  Pointer parameter 'Paper' (line 825) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:29:35:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:29:40:  Pointer parameter 'Paper' (line 825) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:30:00:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:30:05:  ● Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:30:10:  Pointer parameter 'Paper' (line 825) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:30:15:  Suspicious use of ; - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:30:25:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:32:20:  Suspicious use of ; - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:33:05:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:33:10:  新建文件夹 (2)
+14:33:15:  00-06
+14:33:25:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+14:33:35:  trunk
+14:33:40:  Project
+14:33:45:  μVision
+14:33:50:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision
+14:40:25:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:40:30:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:40:35:  local enumeration constant 'UPDATE_PROGRAM_FLAG_BOOT' (line 38, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+14:47:10:  D:\00-06\DRB-NearFull\Middlewares\Plate\LowerPlate.c (DRB-NearFull) - Sublime Text (UNREGISTERED)
+14:47:15:  untitled (666) - Sublime Text (UNREGISTERED)
+14:47:20:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+14:47:50:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.h (666) - Sublime Text (UNREGISTERED)
+14:47:55:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+14:48:00:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c • (666) - Sublime Text (UNREGISTERED)
+14:48:05:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+14:48:15:  04 CRS结构工作
+14:48:20:  CRS
+14:48:30:  D:\CRS\666 - 日志信息 - TortoiseSVN
+14:48:50:  ImpellerCtrl.c Revision 680 - TortoiseMerge
+14:48:55:  D:\CRS\666 - 日志信息 - TortoiseSVN
+14:49:00:  ImpellerCtrl.c Revision 680 - TortoiseMerge
+14:49:05:  666
+14:49:10:  D:\CRS\666 - 工作副本 - TortoiseSVN
+14:49:15:  ImpellerCtrl.c - TortoiseMerge
+14:49:20:  D:\CRS\666 - 工作副本 - TortoiseSVN
+14:49:30:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+14:49:35:  D:\CRS\666\Middlewares\StepMotor\StepMotorConfig.c (666) - Sublime Text (UNREGISTERED)
+14:49:45:  666
+14:49:55:  CRS
+14:50:00:  SECSplashWnd
+14:50:05:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+14:50:40:  Tools
+14:50:50:  BNE-R1200M_CS_KE18_FV1000_EXTFEDAD1V10_MAIN_T06 - 写邮件
+14:51:00:  D:\CRS\666\Middlewares\StepMotor\StepMotorConfig.c (666) - Sublime Text (UNREGISTERED)
+14:51:05:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+14:54:00:  TCR调测工具（研发版）V1.0.0.4
+14:54:05:  打开
+14:54:20:  TCR调测工具（研发版）V1.0.0.4
+14:54:30:  发送指令到K18
+14:54:45:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+14:54:55:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.h (666) - Sublime Text (UNREGISTERED)
+14:55:05:  发送指令到K18
+14:55:25:  TCR调测工具（研发版）V1.0.0.4
+14:55:40:  发送指令到K18
+14:55:50:  TCR调测工具（研发版）V1.0.0.4
+14:56:00:  发送指令到K18
+14:56:05:  TCR调测工具（研发版）V1.0.0.4
+14:56:10:  发送指令到K18
+14:56:15:  TCR调测工具（研发版）V1.0.0.4
+14:56:40:  发送指令到K18
+14:56:50:  TCR调测工具（研发版）V1.0.0.4
+14:57:10:  发送指令到K18
+14:57:15:  TCR调测工具（研发版）V1.0.0.4
+14:58:00:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.h (666) - Sublime Text (UNREGISTERED)
+14:58:05:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+14:58:35:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+14:58:40:  D:\CRS\666\Tools\CreateJK.exe
+14:58:45:  打开
+14:58:50:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+14:58:55:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.h (666) - Sublime Text (UNREGISTERED)
+14:59:00:  发送指令到K18
+14:59:05:  TCR调测工具（研发版）V1.0.0.4
+14:59:35:  发送指令到K18
+14:58:05:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+14:58:35:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+14:58:40:  D:\CRS\666\Tools\CreateJK.exe
+14:58:45:  打开
+14:58:50:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+14:58:55:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.h (666) - Sublime Text (UNREGISTERED)
+14:59:00:  发送指令到K18
+14:59:05:  TCR调测工具（研发版）V1.0.0.4
+14:59:35:  发送指令到K18
+15:00:05:  TCR调测工具（研发版）V1.0.0.4
+15:00:15:  发送指令到K18
+15:00:20:  TCR调测工具（研发版）V1.0.0.4
+15:00:50:  发送指令到K18
+15:00:55:  TCR调测工具（研发版）V1.0.0.4
+15:01:15:  发送指令到K18
+15:01:20:  TCR调测工具（研发版）V1.0.0.4
+15:01:35:  发送指令到K18
+15:01:40:  TCR调测工具（研发版）V1.0.0.4
+15:01:50:  发送指令到K18
+15:02:00:  TCR调测工具（研发版）V1.0.0.4
+15:02:10:  发送指令到K18
+15:02:15:  TCR调测工具（研发版）V1.0.0.4
+15:02:20:  发送指令到K18
+15:02:25:  TCR调测工具（研发版）V1.0.0.4
+15:02:45:  发送指令到K18
+15:03:05:  TCR调测工具（研发版）V1.0.0.4
+15:08:55:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+15:20:25:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:20:40:  local enumeration constant 'UPDATE_PROGRAM_FLAG_BOOT' (line 38, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:22:30:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:22:35:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+15:22:55:  Track.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:23:15:  LowerPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:23:25:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:23:30:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:24:25:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:24:30:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:24:40:  StdMacro.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:24:50:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:25:10:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:25:30:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:25:35:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:25:40:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:25:45:  LowerPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:25:50:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:25:55:  Suspicious use of ; - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:26:06:  LowerPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:26:11:  UpperPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:26:16:  Pointer parameter 'ErrCode' (line 1037) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:26:21:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:26:31:  local enumeration constant 'UPDATE_PROGRAM_FLAG_BOOT' (line 38, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:26:41:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision
+15:27:46:  C:\Keil_v5\ARM\ARMCC\Bin\fromelf.exe
+15:27:51:  local enumeration constant 'UPDATE_PROGRAM_FLAG_BOOT' (line 38, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:28:01:  UpperPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:28:06:  Update.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:28:36:  local enumeration constant 'UPDATE_PROGRAM_FLAG_BOOT' (line 38, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:28:46:  网易有道词典
+15:28:51:  local enumeration constant 'UPDATE_IN_MAIN' (line 47, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:29:01:  网易有道词典
+15:29:06:  local enumeration constant 'UPDATE_IN_MAIN' (line 47, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:29:16:  于斌1
+15:28:06:  Update.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:28:36:  local enumeration constant 'UPDATE_PROGRAM_FLAG_BOOT' (line 38, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:28:46:  网易有道词典
+15:28:51:  local enumeration constant 'UPDATE_IN_MAIN' (line 47, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:29:01:  网易有道词典
+15:29:06:  local enumeration constant 'UPDATE_IN_MAIN' (line 47, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:29:16:  于斌1
+15:30:06:  local enumeration constant 'UPDATE_IN_MAIN' (line 47, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:30:16:  Update.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:30:26:  ● Update.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:30:31:  Update.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:30:36:  于斌1
+15:30:46:  Update.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:30:56:  local enumeration constant 'UPDATE_IN_MAIN' (line 47, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:31:11:  Update.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:31:21:  local enumeration constant 'UPDATE_IN_MAIN' (line 47, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:31:26:  于斌1
+15:32:26:  local enumeration constant 'UPDATE_IN_MAIN' (line 47, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:32:36:  程明昌
+15:33:06:  local enumeration constant 'UPDATE_IN_MAIN' (line 47, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\Update\Update.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:33:11:  Update.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:33:16:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:33:21:  于斌1
+15:34:46:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:34:56:  于斌1
+15:36:26:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:36:31:  Update.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:36:36:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:36:46:  local macro 'FTM_PWM_FREQ' (line 20, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\BldcDriver\BldcDriver.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:36:51:  锁屏状态
+15:36:56:  BldcDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:37:21:  local macro 'FTM_PWM_FREQ' (line 20, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\BldcDriver\BldcDriver.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:37:31:  Unusual pointer cast (incompatible indirect types) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:37:46:  BldcDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:40:36:  于斌1
+15:41:56:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+15:42:01:  BldcDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:42:16:  于斌1
+15:42:26:  BldcDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:42:31:  Unusual pointer cast (incompatible indirect types) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:42:36:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:42:41:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:42:46:  于斌1
+15:42:51:  D:\CRS\666\Applications\SeparatorCtrl\SeparatorCtrl.c (666) - Sublime Text (UNREGISTERED)
+15:42:56:  D:\CRS\666\Applications\ImpellerCtrl\ImpellerCtrl.c (666) - Sublime Text (UNREGISTERED)
+15:43:16:  于斌1
+15:43:51:  D:\CRS\666\Applications\ImpellerCtrl\ImpellerCtrl.c (666) - Sublime Text (UNREGISTERED)
+15:43:56:  Loss of precision (assignment) (16 bits to 8 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:44:06:  于斌1
+15:44:11:  EepromAreaDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:44:51:  Loss of precision (assignment) (16 bits to 8 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:44:56:  ● EepromAreaDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:45:01:  EepromAreaDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:44:06:  于斌1
+15:44:11:  EepromAreaDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:44:51:  Loss of precision (assignment) (16 bits to 8 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:44:56:  ● EepromAreaDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:45:01:  EepromAreaDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:45:06:  Loss of precision (assignment) (16 bits to 8 bits) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:45:11:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:45:16:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:45:21:  Pointer parameter 'WriteBuffer' (line 76) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:45:26:  程明昌
+15:45:31:  于斌1
+15:45:51:  Pointer parameter 'WriteBuffer' (line 76) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:45:56:  EepromDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:46:11:  Pointer parameter 'WriteBuffer' (line 76) could be declared as pointing to const - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:46:16:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:46:36:  于斌1
+15:47:36:  local macro 'FRAM_COMM_BAUDRATE' (line 17, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\FramDriver\FramDriver.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:47:51:  EepromDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:47:56:  FramDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:48:11:  ● FramDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:48:16:  local macro 'FRAM_COMM_BAUDRATE' (line 17, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\FramDriver\FramDriver.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:48:26:  FramDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:48:36:  I2cDriver.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:48:41:  EepromDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:48:46:  I2cDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:48:56:  FramDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:49:01:  EepromDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+15:49:06:  local macro 'FRAM_COMM_BAUDRATE' (line 17, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\FramDriver\FramDriver.c) not referenced - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+15:55:46:  网易有道词典
+15:55:51:  Program Manager
+15:55:56:  yfsm
+15:56:01:  img-Y21160014-0001.jpg - Windows 照片查看器
+15:56:16:  桌面整理
+15:56:21:  img-Y20142321
+15:56:26:  img-Y21160014
+15:56:36:  新北洋 张开发
+15:56:41:  fenxi
+15:56:46:  程明昌
+15:56:56:  fenxi
+15:57:01:  zhangkaifa
+15:57:16:  张开发 银行流水.jpg - Windows 照片查看器
+15:57:31:  zhangkaifa
+15:57:36:  张开发 劳务合同 5.jpg - Windows 照片查看器
+15:57:51:  zhangkaifa
+15:57:56:  程
+15:58:11:  关于申报“2020年万名大学生聚集计划生活津贴”和“博士硕士住房补助”的说明.docx
+15:58:21:  老政策：关于申报2019年万名大学生聚集计划生活津贴和博士硕士住房补助的公告.docx
+15:58:26:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx
+15:58:31:  程
+15:58:46:  新建文件夹 (2)
+15:58:51:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+15:59:26:  搜狗工具箱
+15:59:31:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+15:59:46:  符号大全
+15:58:11:  关于申报“2020年万名大学生聚集计划生活津贴”和“博士硕士住房补助”的说明.docx
+15:58:21:  老政策：关于申报2019年万名大学生聚集计划生活津贴和博士硕士住房补助的公告.docx
+15:58:26:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx
+15:58:31:  程
+15:58:46:  新建文件夹 (2)
+15:58:51:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+15:59:26:  搜狗工具箱
+15:59:31:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+15:59:46:  符号大全
+16:00:21:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+16:00:36:  表格属性
+16:00:46:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+16:01:01:  带圈字符
+16:01:06:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+16:01:26:  新标签页 - Google Chrome
+16:01:46:  程明昌
+16:01:51:  iTunes
+16:01:56:  程明昌
+16:02:01:  www.baidu.com - Google Chrome
+16:02:06:  新建文本文档.exe - 快捷方式
+16:02:11:  www.baidu.com - Google Chrome
+16:02:16:  百度一下，你就知道 - Google Chrome
+16:02:31:  方框对号怎么打_百度搜索 - Google Chrome
+16:02:36:  https://www.baidu.com/link?url=5YtbXBCgV0hs3r40CxM-KLzk6qSOprV8DiB8yP8HoapvwR40qSqW-79QWmhI6DAFvPYeLPd9S5mznPFMsRH746gomyqkYPfIe7bIzTDmd37&wd=&eqid=bd65775000112936000000025fb8c997 - Google Chrome
+16:02:41:  word方框（□）中打钩（√）的3种方法-百度经验 - Google Chrome
+16:02:56:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+16:03:21:  符号
+16:03:41:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+16:03:51:  符号
+16:04:01:  word方框（□）中打钩（√）的3种方法-百度经验 - Google Chrome
+16:04:21:  方框对勾_百度搜索 - Google Chrome
+16:04:26:  符号□√, 请问怎样才能将对勾打到方框里？_百度知道 - Google Chrome
+16:04:41:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+16:04:46:  符号
+16:05:06:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+16:05:11:  程明昌
+16:05:31:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+16:05:36:  程明昌
+16:06:06:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+16:06:11:  程明昌
+16:06:16:  eSpace
+16:06:21:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+16:09:01:  字体
+16:09:21:  附件2：威海市万名大学生聚集计划生活津贴申请表.docx [兼容模式] - Word
+16:09:51:  fenxi
+16:09:56:  zhangkaifa
+16:10:16:  桌面
+16:10:21:  关于申报“2020年万名大学生聚集计划生活津贴”和“博士硕士住房补助”的说明.docx - Word
+16:10:56:  附件6：2019高区：万名大学生聚集计划生活津贴申请名单.xlsx - Excel
+16:11:56:  新建文件夹 (2)
+16:12:21:  zhangkaifa
+16:12:31:  程
+16:12:46:  所有笔记本 - 张开发 - 印象笔记
+16:12:51:  印象笔记
+16:13:01:  0-工作 - 张开发 - 印象笔记
+16:13:06:  锁屏状态
+16:13:11:  新标签页 - Google Chrome
+16:13:21:  Binance/币安社区 - 如何购买比特币 - ChainNode 链节点 - Google Chrome
+16:13:31:  币安2020年度大奖 – 币安Launchpad年度最佳项目 - Binance/币安 - ChainNode 链节点 - Google Chrome
+16:13:56:  Binance/币安社区 - 如何购买比特币 - ChainNode 链节点 - Google Chrome
+16:14:01:  【币安社区11月交易节，10,000 美元FLM大赠送！】 - Binance/币安 - ChainNode 链节点 - Google Chrome
+16:14:06:  Binance/币安社区 - 如何购买比特币 - ChainNode 链节点 - Google Chrome
+16:14:26:  【币安上线第7期新币挖矿，使用BNB、BUSD、KAVA挖矿HARD】 - Binance/币安 - ChainNode 链节点 - Google Chrome
+16:14:41:  Binance/币安社区 - 如何购买比特币 - ChainNode 链节点 - Google Chrome
+16:14:06:  Binance/币安社区 - 如何购买比特币 - ChainNode 链节点 - Google Chrome
+16:14:26:  【币安上线第7期新币挖矿，使用BNB、BUSD、KAVA挖矿HARD】 - Binance/币安 - ChainNode 链节点 - Google Chrome
+16:14:41:  Binance/币安社区 - 如何购买比特币 - ChainNode 链节点 - Google Chrome
+16:15:06:  第2页 - Binance/币安社区 - 如何购买比特币 - ChainNode 链节点 - Google Chrome
+16:15:21:  币安资讯｜Streamr (DATA) 交易赛，赢 6 万美元大奖 - Binance/币安 - ChainNode 链节点 - Google Chrome
+16:16:01:  EepromDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:16:26:  新标签页 - Google Chrome
+16:16:31:  Possible access of out-of-bounds pointer (1 beyond end of data) by operator '[' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\PeripheralDriver\Ke06bsp\ftm.c: lines 302, 323] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:16:36:  Lines of Code - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:16:46:  Use of goto is deprecated - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:17:01:  本地磁盘 (D:)
+16:17:06:  dsdsf
+16:17:11:  BR-1-CashBox1T2-Press
+16:17:21:  branches
+16:17:26:  TortoiseSVN
+16:17:31:  branches
+16:17:36:  BR-1-CashBox1T2-Press
+16:17:46:  BR-1-CashBox1T2
+16:17:51:  trunk
+16:17:56:  00-06
+16:18:01:  EepromDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:18:06:  00-06
+16:18:11:  BR-1-CashBox1T2-Press
+16:18:16:  00-06
+16:18:26:  正在复制 513 个项目(17.7 MB)
+16:18:31:  BR-1-CashBox1T2-Press
+16:18:36:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+16:18:41:  BR-1-CashBox1T2-Press
+16:18:46:  CashBoxInfo.c - TortoiseMerge
+16:18:51:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 工作副本 - TortoiseSVN
+16:19:01:  PaperManage.c - TortoiseMerge
+16:19:11:  EepromDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:19:16:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:19:31:  BR-1-CashBox1T2-Press
+16:19:51:  BR-1-CashBox1T2-NearFull
+16:20:01:  BR-1-CashBox1T2-Press
+16:20:06:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 工作副本 - TortoiseSVN
+16:20:11:  EepromDriver.c - TortoiseMerge
+16:20:16:  BR-1-CashBox1T2-Press
+16:20:21:  InstrExecute.c - TortoiseMerge
+16:28:36:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision
+16:29:16:  BR-1-CashBox1T2-Press
+16:29:21:  CashBoxInfo.c - TortoiseMerge
+16:29:41:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 提交 - TortoiseSVN
+16:29:46:  ErrCode.h - TortoiseMerge
+16:29:51:  HistoryRecord.c - TortoiseMerge
+16:29:56:  Initial.c - TortoiseMerge
+16:28:36:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision
+16:29:16:  BR-1-CashBox1T2-Press
+16:29:21:  CashBoxInfo.c - TortoiseMerge
+16:29:41:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 提交 - TortoiseSVN
+16:29:46:  ErrCode.h - TortoiseMerge
+16:29:51:  HistoryRecord.c - TortoiseMerge
+16:29:56:  Initial.c - TortoiseMerge
+16:30:06:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 提交 - TortoiseSVN
+16:30:11:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 工作副本 - TortoiseSVN
+16:30:16:  HistoryRecord.c - TortoiseMerge
+16:30:26:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 工作副本 - TortoiseSVN
+16:30:41:  InstrHandle.c - TortoiseMerge
+16:31:11:  InstrReturn.c - TortoiseMerge
+16:31:36:  LogHandle.c - TortoiseMerge
+16:31:41:  MotorCtrl.c - TortoiseMerge
+16:31:46:  TortoiseMerge
+16:31:51:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 工作副本 - TortoiseSVN
+16:31:56:  BR-1-CashBox1T2-Press.txt - 记事本
+16:32:26:  提交
+16:32:31:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 提交 - TortoiseSVN
+16:32:36:  EepromAreaDriver.c - TortoiseMerge
+16:32:41:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+16:32:46:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 提交 - TortoiseSVN
+16:33:01:  BR-1-CashBox1T2-Press.txt - 记事本
+16:33:11:  BR-1-CashBox1T2-Press
+16:33:16:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 提交 - TortoiseSVN
+16:33:21:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 日志信息 - TortoiseSVN
+16:33:26:  BR-1-CashBox1T2-Press
+16:33:31:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 提交 - TortoiseSVN
+16:33:46:  提交 失败！
+16:33:56:  更新 完成！
+16:34:01:  BR-1-CashBox1T2-Press.txt.mine - TortoiseMerge
+16:34:06:  BR-1-CashBox1T2-Press
+16:34:16:  更新 完成！
+16:34:21:  清理
+16:34:26:  更新 完成！
+16:34:31:  BR-1-CashBox1T2-Press
+16:34:51:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 还原 - TortoiseSVN
+16:34:56:  BR-1-CashBox1T2-Press
+16:35:01:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 更新 - TortoiseSVN
+16:35:06:  更新 完成！
+16:35:11:  BR-1-CashBox1T2-Press
+16:35:16:  D:\CRS\666\Project\ke18_rtt.uvprojx - μVision
+16:35:26:  BR-1-CashBox1T2-Press
+16:35:31:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 锁定文件 - TortoiseSVN
+16:35:36:  BR-1-CashBox1T2-Press
+16:35:46:  清理
+16:35:56:  BR-1-CashBox1T2-Press
+16:36:06:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 提交 - TortoiseSVN
+16:36:16:  BR-1-CashBox1T2-Press
+16:36:21:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:36:26:  LowerPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:36:31:  Update.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:36:36:  ● EepromAreaDriver.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:36:41:  BR-1-CashBox1T2-Press
+16:36:51:  CashBoxInfo.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:37:11:  ErrCode.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:37:21:  ● HistoryRecord.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:37:36:  HistoryRecord.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:37:41:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:37:46:  InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:37:51:  LogHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:38:01:  ● LogHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:38:06:  LogHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:38:11:  ● InstrReturn.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:38:16:  InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:38:26:  ● InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:38:31:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:38:36:  ● InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:38:41:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:38:46:  MotorCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:38:56:  LogHandle.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:39:01:  MotorCtrl.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:39:06:  ● LowerPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:39:11:  LowerPlateCtrl.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:39:16:  PlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:39:36:  ● PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:39:41:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:39:46:  μVision
+16:39:51:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision
+16:40:17:  PressurePlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:40:22:  UpperPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:40:27:  ● UpperPlateCtrl.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:40:32:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:40:37:  ● Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:40:52:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:40:57:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press\Project\CashBox_1T2.uvprojx - μVision
+16:41:02:  BR-1-CashBox1T2-Press
+16:41:07:  历史记录
+16:41:12:  D:\00-06\dsdsf\branches\BR-1-CashBox1T2-Press - 提交 - TortoiseSVN
+16:41:22:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:41:32:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:41:37:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:41:42:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:41:47:  OWASP前10位 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:41:52:  代码 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:41:57:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:42:12:  BR-1-CashBox1T2-Press
+16:42:17:  新建文件夹 (2)
+16:42:22:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:42:27:  项目 - Google Chrome
+16:42:42:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:42:52:  eSpace
+16:42:57:  于斌1
+16:43:17:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:43:27:  于斌1
+16:43:42:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:43:47:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:43:52:  Separate.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:44:12:  Update.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:44:17:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:44:27:  锁屏状态
+16:44:32:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:44:47:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:44:57:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:44:12:  Update.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:44:17:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:44:27:  锁屏状态
+16:44:32:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:44:47:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:44:57:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:45:07:  活动 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:45:27:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:45:52:  Reliability Rating - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:46:27:  Update.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:46:37:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:46:42:  Reliability Rating - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:46:47:  新建文件夹 (2)
+16:46:52:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:46:57:  Reliability Rating - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:47:02:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:47:27:  Reliability Rating - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:48:17:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:48:22:  InstrHandle.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:48:27:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:48:37:  ● InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:48:47:  Reliability Rating - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:49:27:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:49:32:  Lock.h - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:49:37:  Reliability Rating - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:50:07:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:50:17:  Reliability Rating - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:50:27:  网易有道词典
+16:50:32:  Reliability Rating - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:50:37:  跳转列表
+16:50:42:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:50:52:  ● InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:50:57:  InstrExecute.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:51:02:  Reliability Rating - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:51:32:  eSpace
+16:51:42:  于斌1
+16:51:52:  Reliability Rating - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:51:57:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:52:17:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:52:22:  Expecting ';' - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:52:32:  Declaration of symbol 'Count' hides symbol 'Count' (line 172) - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:52:37:  Possible use of null pointer 'PaperPos' in left argument to operator '->' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PaperManage\PaperManage.c: line 454] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:53:07:  网易有道词典
+16:53:12:  Possible use of null pointer 'PaperPos' in left argument to operator '->' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PaperManage\PaperManage.c: line 454] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:53:52:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:54:42:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:54:47:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:55:07:  Possible use of null pointer 'PaperPos' in left argument to operator '->' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PaperManage\PaperManage.c: line 454] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+16:55:12:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:55:57:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:56:02:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+16:58:47:  新建文本文档.exe - 快捷方式
+16:58:52:  新标签页 - Google Chrome
+16:58:57:  币安杠杆 & DeFi 大狂欢，5万美元等值BNB等你拿！ - Binance/币安 - ChainNode 链节点 - Google Chrome
+16:59:02:  Binance/币安社区 - 如何购买比特币 - ChainNode 链节点 - Google Chrome
+16:58:47:  新建文本文档.exe - 快捷方式
+16:58:52:  新标签页 - Google Chrome
+16:58:57:  币安杠杆 & DeFi 大狂欢，5万美元等值BNB等你拿！ - Binance/币安 - ChainNode 链节点 - Google Chrome
+16:59:02:  Binance/币安社区 - 如何购买比特币 - ChainNode 链节点 - Google Chrome
+17:00:17:  【币安社区11月交易节，10,000 美元FLM大赠送！】 - Binance/币安 - ChainNode 链节点 - Google Chrome
+17:00:22:  百度一下，你就知道 - Google Chrome
+17:00:27:  11月交易节,10,000 美元FLM_百度搜索 - Google Chrome
+17:00:42:  新建文本文档.exe - 快捷方式
+17:00:47:  Possible use of null pointer 'PaperPos' in left argument to operator '->' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Applications\PaperManage\PaperManage.c: line 454] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+17:00:52:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+17:01:32:  ● PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+17:01:37:  PaperManage.c - BR-1-CashBox1T2-Press - Visual Studio Code [管理员]
+17:02:37:  FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+17:02:42:  BR-1-CashBox1T2-Press
+17:02:47:  历史记录
+17:02:52:  BR-1-CashBox1T2-Press
+17:02:57:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+17:03:12:  Possible access of out-of-bounds pointer (1 beyond end of data) by operator '[' [Reference: file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Drivers\PeripheralDriver\Ke06bsp\ftm.c: lines 192, 219] - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+17:03:17:  问题 - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+17:03:32:  Symbol 'LockInit(enum {...})' redeclared (Arg. no. 1: enum/enum) conflicts with line 42, file E:\gujian-2_share\checkout\Project\BTCR-1100\FW_BTCR-1100_K06_MAIN\branches\BR-1-CashBox1T2-Press\Middlewares\Lock\Lock.h - FW_BTCR-1100_K06_MAIN%branches%BR-1-CashBox1T2-Press - Google Chrome
+17:03:52:  锁屏状态

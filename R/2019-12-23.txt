@@ -1,0 +1,17 @@
+2019-12-23 08:06:32-- 08:06:50     :上午上班    频繁  ：   0
+2019-12-23 08:06:50-- 08:30:29     :电机异常测试    频繁  ：11.xlsx - Excel   9
+2019-12-23 08:30:29-- 09:00:31     :电机异常测试    频繁  ：11.xlsx - Excel   30
+2019-12-23 09:00:31-- 09:30:03     :电机异常测试    频繁  ：D:\00-06\2\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   8
+2019-12-23 09:30:03-- 10:00:05     :电机异常测试    频繁  ：D:\00-06\2\branches\BR-1-CashBox1T2\Applications\MotorCtrl\MotorCtrl.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   10
+2019-12-23 10:00:05-- 10:30:08     :电机异常测试    频繁  ：D:\00-06\2\branches\BR-1-CashBox1T2\Applications\Separate\Separate.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   9
+2019-12-23 10:30:08-- 11:00:10     :电机异常测试    频繁  ：D:\00-06\2\branches\BR-1-CashBox1T2\Applications\Separate\Separate.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   33
+2019-12-23 11:00:10-- 11:30:13     :电机异常测试    频繁  ：11.xlsx - Excel   12
+2019-12-23 11:30:13-- 13:20:16     :下午上班    频繁  ：5.22 钞箱托板功能测试V1.0.xls  [兼容模式] - Excel   24
+2019-12-23 13:20:16-- 13:30:59     :下午上班    频繁  ：11.xlsx - Excel   10
+2019-12-23 13:30:59-- 14:00:35     :电机集成测试    频繁  ：D:\00-06\2\branches\BR-1-CashBox1T2\Project\CashBox_1T2.uvprojx - μVision   25
+2019-12-23 14:00:35-- 14:30:10     :电机集成测试    频繁  ：LogExpert - E:\新建文件夹(4)\CODE-INFORMATION\00-TCR-information\日志相关\日志软件\接收\RTT_SeggerLog_201912231400.log   12
+2019-12-23 14:30:10-- 15:00:14     :电机集成测试    频繁  ：RTT_SeggerLog_201912231435.log - K06状态机分析222.tat* - TextAnalysisTool.NET   15
+2019-12-23 15:00:14-- 15:30:17     :电机集成测试    频繁  ：D:\00-06\2\branches\BR-1-CashBox1T2\Applications\Track\Track.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   20
+2019-12-23 15:30:17-- 16:00:20     :电机集成测试    频繁  ：D:\00-06\2\branches\BR-1-CashBox1T2\Applications\Track\Track.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   11
+2019-12-23 16:00:20-- 16:30:21     :电机集成测试    频繁  ：D:\00-06\2\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   24
+2019-12-23 16:30:21-- 17:00:26     :下班    频繁  ：D:\00-06\2\branches\BR-1-CashBox1T2\Applications\PaperManage\PaperManage.c (BR-1-CashBox1T2) - Sublime Text (UNREGISTERED)   37

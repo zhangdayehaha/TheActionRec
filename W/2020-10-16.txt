@@ -1,0 +1,94 @@
+16:31:05:  ComponentCtrl.c - 44 - Visual Studio Code [管理员]
+16:31:10:  回复: 回复: 关于自研TCR机芯BV升级的业务联络【BV再次升级】
+16:31:15:  邮箱容量将满/Your mailbox is nearly full
+16:32:25:  窦志远
+16:32:30:  BNE-R1200M固件集成测试方案评审会议纪要V1.00.xlsx
+16:33:15:  删除多个项目
+16:33:20:  爆仓问题(1)
+16:33:30:  Decode
+16:33:35:  C:\Users\zhangkaifa\Documents\Class-Log-C1.exe
+16:34:10:  Box_3__BTCR-1100191200700045_20201016103914.log - DRB.tat* - TextAnalysisTool.NET
+16:34:55:  LOG
+16:35:00:  K64_BTCR-1100191200700045_20201016102906
+16:35:15:  Box_2__BTCR-1100191200700045_20201016103914.log - DRB.tat* - TextAnalysisTool.NET
+16:35:20:  K64_BTCR-1100191200700045_20201016103914
+16:35:25:  K64-_BTCR-1100191200700045_20201016103914.log - DRB.tat* - TextAnalysisTool.NET
+16:35:35:  锁屏状态
+16:35:40:  K64_BTCR-1100191200700045_20201016102906
+16:35:50:  K64-_BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:36:35:  锁屏状态
+16:36:40:  于斌1
+16:36:45:  20180613 TCR内部指令手册_V001.xlsx - Excel
+16:37:20:  K64-_BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:37:35:  D:\00-06\DRB--\Applications\Track\Track.c (DRB--) - Sublime Text (UNREGISTERED)
+16:37:40:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:38:00:  D:\00-06\DRB--\Applications\Instruction\InstrReturn.c (DRB--) - Sublime Text (UNREGISTERED)
+16:38:05:  K64-_BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:38:35:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:39:25:  Add Filter
+16:39:30:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:40:40:  K64-_BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:42:40:  K64_BTCR-1100191200700045_20201016102906
+16:42:45:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:44:40:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:44:40:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:45:30:  锁屏状态
+16:45:35:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:46:00:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:46:15:  Add Filter
+16:46:25:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:46:30:  Add Filter
+16:46:35:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:46:40:  Edit Filter
+16:46:50:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:47:15:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:47:25:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:47:35:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:47:40:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:47:45:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:48:06:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+16:49:16:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:49:41:  于斌1
+16:49:46:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:50:36:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+16:50:56:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:51:01:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:51:21:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:51:31:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:52:31:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:52:36:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+16:52:46:  于斌1
+16:52:51:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+16:54:16:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:54:46:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+16:54:51:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:55:11:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+16:55:46:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:56:06:  K64-_BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:56:51:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+16:57:01:  D:\00-06\DRB--\Applications\MotorCtrl\MotorCtrl.c (DRB--) - Sublime Text (UNREGISTERED)
+16:57:36:  D:\00-06\DRB--\Applications\Separate\Separate.c (DRB--) - Sublime Text (UNREGISTERED)
+16:57:51:  K64-_BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:58:06:  K64_BTCR-1100191200700045_20201016102906
+16:58:11:  Box_3__BTCR-1100191200700045_20201016102550.log - DRB.tat* - TextAnalysisTool.NET
+16:58:46:  程明昌
+16:58:51:  Box_3__BTCR-1100191200700045_20201016102550.log - DRB.tat* - TextAnalysisTool.NET
+16:59:06:  回复: 转发: 邮储银行招标样机测试问题 - 写邮件
+16:59:11:  K64_BTCR-1100191200700045_20201016102906
+16:59:16:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:59:26:  回复: 转发: 邮储银行招标样机测试问题 - 写邮件
+16:59:41:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:59:46:  K64_BTCR-1100191200700045_20201016102906
+16:59:51:  K64-_BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:58:06:  K64_BTCR-1100191200700045_20201016102906
+16:58:11:  Box_3__BTCR-1100191200700045_20201016102550.log - DRB.tat* - TextAnalysisTool.NET
+16:58:46:  程明昌
+16:58:51:  Box_3__BTCR-1100191200700045_20201016102550.log - DRB.tat* - TextAnalysisTool.NET
+16:59:06:  回复: 转发: 邮储银行招标样机测试问题 - 写邮件
+16:59:11:  K64_BTCR-1100191200700045_20201016102906
+16:59:16:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:59:26:  回复: 转发: 邮储银行招标样机测试问题 - 写邮件
+16:59:41:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+16:59:46:  K64_BTCR-1100191200700045_20201016102906
+16:59:51:  K64-_BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET
+17:00:11:  Box_3__BTCR-1100191200700045_20201016102906.log - DRB.tat* - TextAnalysisTool.NET

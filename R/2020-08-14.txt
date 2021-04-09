@@ -1,0 +1,96 @@
+2020-08-13 23:45:04-- 00:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 00:00:04-- 00:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 00:15:04-- 00:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 00:30:00-- 00:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 00:45:00-- 01:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 01:00:00-- 01:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 01:15:00-- 01:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 01:30:00-- 01:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 01:45:00-- 02:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 02:00:00-- 02:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 02:15:00-- 02:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 02:30:00-- 02:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 02:45:00-- 03:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 03:00:01-- 03:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 03:15:01-- 03:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 03:30:01-- 03:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 03:45:01-- 04:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 04:00:01-- 04:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 04:15:01-- 04:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 04:30:01-- 04:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 04:45:01-- 05:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 05:00:02-- 05:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 05:15:02-- 05:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 05:30:02-- 05:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 05:45:02-- 06:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 06:00:02-- 06:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 06:15:02-- 06:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 06:30:02-- 06:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 06:45:02-- 07:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 07:00:03-- 07:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 07:15:03-- 07:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 07:30:03-- 07:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 07:45:03-- 08:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 08:00:03-- 08:15:03     :    一  ：D:\00-18\CRS-MiddleContral\0-MiddleContral.txt (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   73/6.08分钟       二  ：锁屏状态   46/3.83分钟     三  ：D:\00-18\CRS-MiddleContral\Drivers\StepMotorDriver\StepMotorDriver.h (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   24/2.0分钟
+2020-08-14 08:15:03-- 08:30:04     :    一  ：D:\00-18\CRS-MiddleContral\Project\ke18_rtt.uvprojx - μVision   55/4.58分钟       二  ：PlateCtrl.c - CRS-MiddleContral - Visual Studio Code [管理员]   35/2.91分钟     三  ：SeparatorCtrl.c - CRS-MiddleContral - Visual Studio Code [管理员]   29/2.41分钟
+2020-08-14 08:30:04-- 08:45:04     :    一  ：SeparatorCtrl.c - CRS-MiddleContral - Visual Studio Code [管理员]   144/12.0分钟       二  ：● SeparatorCtrl.c - CRS-MiddleContral - Visual Studio Code [管理员]   34/2.83分钟     三  ：BNE-R1200M固件模块方案设计-出入钞口分隔板模块v1.00.doc [只读] [兼容模式] - Word   1/0.08分钟
+2020-08-14 08:45:04-- 09:00:04     :    一  ：024 二级评审会议纪要;评V1.01.xlsx  [只读] - Excel   110/9.16分钟       二  ：D:\00-18\CRS-MiddleContral\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   20/1.66分钟     三  ：D:\00-18\CRS-MiddleContral\Applications\ImpellerCtrl\ImpellerCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   18/1.5分钟
+2020-08-14 09:00:04-- 09:15:04     :    一  ：D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision   74/6.16分钟       二  ：024 二级评审会议纪要;评V1.01.xlsx  [只读] - Excel   44/3.66分钟     三  ：D:\00-18\CRS-MiddleContral\Applications\BarCtrl\BarCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   16/1.33分钟
+2020-08-14 09:15:04-- 09:30:01     :    一  ：D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision   66/5.5分钟       二  ：D:\00-18\CRS-MiddleContral\Project\ke18_rtt.uvprojx - μVision   46/3.83分钟     三  ：024 二级评审会议纪要;评V1.01.xlsx  [只读] - Excel   40/3.33分钟
+2020-08-14 09:30:01-- 09:45:02     :    一  ：SeparatorCtrl.c - CRS-MiddleContral - Visual Studio Code [管理员]   111/9.25分钟       二  ：D:\00-18\CRS-MiddleContral\Project\ke18_rtt.uvprojx - μVision   52/4.33分钟     三  ：CheckTheBookTital.py - CRS-MiddleContral - Visual Studio Code [管理员]   7/0.58分钟
+2020-08-14 09:45:02-- 10:00:03     :    一  ：SeparatorCtrl.c - CRS-MiddleContral - Visual Studio Code [管理员]   97/8.08分钟       二  ：CheckTheBookTital.py - CRS-MiddleContral - Visual Studio Code [管理员]   21/1.75分钟     三  ：于斌1   21/1.75分钟
+2020-08-14 10:00:03-- 10:15:04     :    一  ：D:\00-KE64\CRS-64\Applications\FlowControl\TrackModule\CashBoxModuleApp.c (CRS-64) - Sublime Text (UNREGISTERED)   113/9.41分钟       二  ：CashGateModuleApp.c - TortoiseMerge   7/0.58分钟     三  ：D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   7/0.58分钟
+2020-08-14 10:15:04-- 10:30:04     :    一  ：20200717_CRS内部指令手册_V0.1.xlsx  [受保护的视图] - Excel   67/5.58分钟       二  ：024 二级评审会议纪要评V1.01.xlsx   50/4.16分钟     三  ：D:\00-KE64\trunk\Applications\FlowControl\TrackModule\CashGateModuleApp.c (trunk) - Sublime Text (UNREGISTERED)   27/2.25分钟
+2020-08-14 10:30:04-- 10:45:04     :    一  ：于斌1   58/4.83分钟       二  ：D:\00-18\CRS-MiddleContral\Applications\ImpellerCtrl\ImpellerCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   36/3.0分钟     三  ：D:\00-18\CRS-MiddleContral\Applications\ImpellerCtrl\ImpellerCtrl.c • (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   35/2.91分钟
+2020-08-14 10:45:04-- 11:00:04     :    一  ：D:\00-18\CRS-MiddleContral\Applications\ImpellerCtrl\ImpellerCtrl.c • (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   54/4.5分钟       二  ：发送邮件   53/4.41分钟     三  ：D:\00-18\CRS-MiddleContral\Applications\ImpellerCtrl\ImpellerCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   35/2.91分钟
+2020-08-14 11:00:04-- 11:15:04     :    一  ：发送邮件   136/11.3分钟       二  ：D:\00-18\CRS-MiddleContral\Applications\ImpellerCtrl\ImpellerCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   24/2.0分钟     三  ：于斌1   17/1.41分钟
+2020-08-14 11:15:04-- 11:30:00     :    一  ：于斌1   50/4.16分钟       二  ：D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)   36/3.0分钟     三  ：D:\00-18\CRS-MiddleContral\Applications\ImpellerCtrl\ImpellerCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   30/2.5分钟
+2020-08-14 11:30:00-- 11:45:00     :    一  ：于斌1   48/4.0分钟       二  ：Tools   39/3.25分钟     三  ：D:\00-06\DRB-PRESS\Applications\State\State.c • (DRB-PRESS) - Sublime Text (UNREGISTERED)   30/2.5分钟
+2020-08-14 11:45:00-- 12:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 12:00:00-- 12:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 12:15:00-- 12:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 12:30:00-- 12:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 12:45:01-- 13:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 13:00:01-- 13:15:01     :    一  ：Tools   104/8.66分钟       二  ：eSpace   48/4.0分钟     三  ：锁屏状态   25/2.08分钟
+2020-08-14 13:15:01-- 13:30:01     :    一  ：20180613 TCR内部指令手册_V001.xlsx - Excel   60/5.0分钟       二  ：eSpace   42/3.5分钟     三  ：D:\00-06\DRB-PRESS\Applications\State\State.c (DRB-PRESS) - Sublime Text (UNREGISTERED)   31/2.58分钟
+2020-08-14 13:30:01-- 13:45:02     :    一  ：BTCR-1100_BOX1T2_KE06_FV1001_EXTFEDU6V11_MAIN_T12 - 写邮件   57/4.75分钟       二  ：D:\00-18\CRS-MiddleContral\Applications\ImpellerCtrl\ImpellerCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   45/3.75分钟     三  ：D:\00-18\CRS-MiddleContral\Applications\ImpellerCtrl\ImpellerCtrl.c • (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   24/2.0分钟
+2020-08-14 13:45:02-- 14:00:02     :    一  ：D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision   54/4.5分钟       二  ：Tools   20/1.66分钟     三  ：D:\00-18\CRS-MiddleContral\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   19/1.58分钟
+2020-08-14 14:00:02-- 14:15:02     :    一  ：D:\00-06\DRB-PRESS\Project\CashBox_1T2.uvprojx - μVision   48/4.0分钟       二  ：Tools   29/2.41分钟     三  ：D:\00-18\CRS-MiddleContral\Applications\SeparatorCtrl\SeparatorCtrl.h • (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   20/1.66分钟
+2020-08-14 14:15:02-- 14:30:03     :    一  ：D:\00-18\CRS-MiddleContral\Applications\SeparatorCtrl\SeparatorCtrl.c (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   50/4.16分钟       二  ：D:\00-18\CRS-MiddleContral\Applications\SeparatorCtrl\SeparatorCtrl.h • (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   29/2.41分钟     三  ：D:\00-18\CRS-MiddleContral\Applications\SeparatorCtrl\SeparatorCtrl.c • (CRS-MiddleContral) - Sublime Text (UNREGISTERED)   28/2.33分钟
+2020-08-14 14:30:03-- 14:45:03     :    一  ：D:\00-18\CRS-MiddleContral\Project\ke18_rtt.uvprojx - μVision   75/6.25分钟       二  ：于斌1   32/2.66分钟     三  ：计算器   7/0.58分钟
+2020-08-14 14:45:03-- 15:00:03     :    一  ：合并   36/3.0分钟       二  ：CRS-M   17/1.41分钟     三  ：(3条消息)svn合并分支到主干,工具操作_神在异乡-CSDN博客_svn合并分支到主干 - Google Chrome   16/1.33分钟
+2020-08-14 15:00:03-- 15:15:03     :    一  ：于斌1   41/3.41分钟       二  ：文件夹访问被拒绝   37/3.08分钟     三  ：CheckTheBookTital.py - CRS-MiddleContral - Visual Studio Code [管理员]   28/2.33分钟
+2020-08-14 15:15:03-- 15:30:03     :    一  ：CheckTheBookTital.py - CRS-MiddleContral - Visual Studio Code [管理员]   36/3.0分钟       二  ：D:\00-18\CRS-MiddleContral\Applications\PlateCtrl\PlateCtrl.c (CRS-64) - Sublime Text (UNREGISTERED)   33/2.75分钟     三  ：C:\Windows\system32\cmd.exe   33/2.75分钟
+2020-08-14 15:30:03-- 15:45:03     :    一  ：CheckTheBookTital.py - CRS-MiddleContral - Visual Studio Code [管理员]   100/8.33分钟       二  ：W   19/1.58分钟     三  ：锁屏状态   17/1.41分钟
+2020-08-14 15:45:03-- 16:00:03     :    一  ：D:\00-18\CRS-MiddleContral\Applications\PlateCtrl\PlateCtrl.c (CRS-64) - Sublime Text (UNREGISTERED)   50/4.16分钟       二  ：(3条消息)小乌龟SVN合并分支到主干、合并主干到分支,工具操作_干货小抽屉-CSDN博客_git小乌龟合并分支到主干 - Google Chrome   38/3.16分钟     三  ：W   28/2.33分钟
+2020-08-14 16:00:03-- 16:15:03     :    一  ：D:\00-18\CRS-MiddleContral\Applications\PlateCtrl\PlateCtrl.c (CRS-64) - Sublime Text (UNREGISTERED)   111/9.25分钟       二  ：计算器   37/3.08分钟     三  ：员工自助 - Google Chrome   15/1.25分钟
+2020-08-14 16:15:03-- 16:30:03     :    一  ：SVN版本控制——SVN 合并的六种方式 - 星畔 - 博客园 - Google Chrome   28/2.33分钟       二  ：(3条消息)Eclipse SVN Merge（合并）的两种方式+TortoiseSVN（小乌龟）合并代码_清露草木的博客-CSDN博客_svn合并代码 - Google Chrome   27/2.25分钟     三  ：D:\00-18\CRS-MiddleContral\Applications\SeparatorCtrl\SeparatorCtrl.c (trunk) - Sublime Text (UNREGISTERED)   25/2.08分钟
+2020-08-14 16:30:03-- 16:45:04     :    一  ：SeparatorCtrl.c - CRS-MiddleContral - Visual Studio Code [管理员]   168/14.0分钟       二  ：20170415074136494   3/0.25分钟     三  ：C:\Users\zhangkaifa\Downloads\20170415074136494\22222.txt (trunk) - Sublime Text (UNREGISTERED)   3/0.25分钟
+2020-08-14 16:45:04-- 17:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 17:00:04-- 17:15:04     :    一  ：SeparatorCtrl.c - CRS-MiddleContral - Visual Studio Code [管理员]   175/14.5分钟       二  ：ImpellerCtrl.c - CRS-MiddleContral - Visual Studio Code [管理员]   5/0.41分钟     三  ：   0/0.0分钟
+2020-08-14 17:15:04-- 17:30:04     :    一  ：赖伟光   91/7.58分钟       二  ：ImpellerCtrl.c - CRS-MiddleContral - Visual Studio Code [管理员]   48/4.0分钟     三  ：EXTFEDUV21_1t1.PDF - Adobe Reader   23/1.91分钟
+2020-08-14 17:30:04-- 17:45:04     :    一  ：锁屏状态   105/8.75分钟       二  ：ImpellerCtrl.c - CRS-MiddleContral - Visual Studio Code [管理员]   51/4.25分钟     三  ：EXTFEDUV21_1t1.PDF - Adobe Reader   21/1.75分钟
+2020-08-14 17:45:04-- 18:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 18:00:04-- 18:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 18:15:04-- 18:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 18:30:04-- 18:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 18:45:04-- 19:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 19:00:04-- 19:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 19:15:00-- 19:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 19:30:00-- 19:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 19:45:00-- 20:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 20:00:00-- 20:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 20:15:00-- 20:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 20:30:00-- 20:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 20:45:00-- 21:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 21:00:00-- 21:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 21:15:00-- 21:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 21:30:00-- 21:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 21:45:00-- 22:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 22:00:00-- 22:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 22:15:00-- 22:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 22:30:00-- 22:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 22:45:01-- 23:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 23:00:01-- 23:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 23:15:01-- 23:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2020-08-14 23:30:01-- 23:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟

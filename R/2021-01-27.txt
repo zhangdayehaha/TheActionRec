@@ -1,0 +1,96 @@
+2021-01-26 23:45:00-- 00:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 00:00:00-- 00:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 00:15:00-- 00:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 00:30:00-- 00:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 00:45:00-- 01:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 01:00:00-- 01:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 01:15:00-- 01:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 01:30:01-- 01:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 01:45:01-- 02:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 02:00:01-- 02:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 02:15:01-- 02:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 02:30:01-- 02:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 02:45:01-- 03:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 03:00:01-- 03:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 03:15:02-- 03:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 03:30:02-- 03:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 03:45:02-- 04:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 04:00:02-- 04:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 04:15:02-- 04:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 04:30:02-- 04:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 04:45:02-- 05:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 05:00:02-- 05:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 05:15:03-- 05:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 05:30:03-- 05:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 05:45:03-- 06:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 06:00:03-- 06:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 06:15:03-- 06:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 06:30:03-- 06:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 06:45:03-- 07:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 07:00:04-- 07:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 07:15:04-- 07:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 07:30:04-- 07:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 07:45:04-- 08:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 08:00:04-- 08:15:00     :    一  ：锁屏状态   75/6.25分钟       二  ：于斌1   54/4.5分钟     三  ：计算器   49/4.08分钟
+2021-01-27 08:15:00-- 08:30:00     :    一  ：PaperManage.c - trunk - Visual Studio Code [管理员]   42/3.5分钟       二  ：新北洋OA信息化平台 - Internet Explorer   27/2.25分钟     三  ：费用报销流程_新北洋 - Internet Explorer   16/1.33分钟
+2021-01-27 08:30:00-- 08:45:00     :    一  ：D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)   51/4.25分钟       二  ：D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c (meger) - Sublime Text (UNREGISTERED)   20/1.66分钟     三  ：DRB传感器.txt - 记事本   20/1.66分钟
+2021-01-27 08:45:00-- 09:00:00     :    一  ：DRB传感器.txt - 记事本   59/4.91分钟       二  ：D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)   40/3.33分钟     三  ：回复: 照片收集 - 写邮件   20/1.66分钟
+2021-01-27 09:00:00-- 09:15:00     :    一  ：http://oa.byintra.com/?id=d15c0d1b-54f1-4a2c-81ad-aafe008db4b3&N_TITLE=关于申报“2019年万名大学生聚集计划生活津贴” - Internet Explorer   56/4.66分钟       二  ：D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)   29/2.41分钟     三  ：新北洋OA信息化平台 - Internet Explorer   26/2.16分钟
+2021-01-27 09:15:00-- 09:30:00     :    一  ：D:\00-06\meger\Drivers\SensorDriver\SensorDriver.c • (meger) - Sublime Text (UNREGISTERED)   46/3.83分钟       二  ：D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)   43/3.58分钟     三  ：0-工作 - 张开发 - 印象笔记   32/2.66分钟
+2021-01-27 09:30:00-- 09:45:00     :    一  ：D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)   135/11.2分钟       二  ：E:\深圳出差\gfgd - 日志信息 - TortoiseSVN   12/1.0分钟     三  ：CashSlot.c Revision 876 - TortoiseMerge   10/0.83分钟
+2021-01-27 09:45:00-- 10:00:01     :    一  ：D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)   76/6.33分钟       二  ：D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)   42/3.5分钟     三  ：DRB传感器.txt - 记事本   26/2.16分钟
+2021-01-27 10:00:01-- 10:15:01     :    一  ：D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)   170/14.1分钟       二  ：于斌1   8/0.66分钟     三  ：网易有道词典   2/0.16分钟
+2021-01-27 10:15:01-- 10:30:01     :    一  ：D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)   97/8.08分钟       二  ：荆文波   72/6.0分钟     三  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   5/0.41分钟
+2021-01-27 10:30:01-- 10:45:01     :    一  ：D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)   126/10.5分钟       二  ：Class-Log-C1.py - F:\小程序\Class-Log-C1.py (3.7.3)   11/0.91分钟     三  ：PaperManage.c - trunk - Visual Studio Code [管理员]   8/0.66分钟
+2021-01-27 10:45:01-- 11:00:01     :    一  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)   75/6.25分钟       二  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)   37/3.08分钟     三  ：SeparatorCtrl.c - TortoiseMerge   14/1.16分钟
+2021-01-27 11:00:01-- 11:15:01     :    一  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)   104/8.66分钟       二  ：【通知】1月考勤异常处理   16/1.33分钟     三  ：D:\CRS\KE18-VERSION1\Project\ke18_rtt.uvprojx - μVision   13/1.08分钟
+2021-01-27 11:15:01-- 11:30:02     :    一  ：补签卡流程 - Internet Explorer   52/4.33分钟       二  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c (KE18-VERSION1) - Sublime Text (UNREGISTERED)   37/3.08分钟     三  ：20210127异常.xlsx   33/2.75分钟
+2021-01-27 11:30:02-- 11:45:02     :    一  ：D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)   53/4.41分钟       二  ：锁屏状态   53/4.41分钟     三  ：TD回复格式.docx [兼容模式] - Word   42/3.5分钟
+2021-01-27 11:45:02-- 12:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 12:00:02-- 12:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 12:15:02-- 12:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 12:30:02-- 12:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 12:45:02-- 13:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 13:00:03-- 13:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 13:15:03-- 13:30:03     :    一  ：D:\00-06\meger\Middlewares\Plate\UpperPlate.c • (meger) - Sublime Text (UNREGISTERED)   133/11.0分钟       二  ：补签卡流程 - Internet Explorer   30/2.5分钟     三  ：锁屏状态   11/0.91分钟
+2021-01-27 13:30:03-- 13:45:03     :    一  ：计算器   66/5.5分钟       二  ：TD回复格式.docx [兼容模式] - Word   48/4.0分钟     三  ：网易有道词典   35/2.91分钟
+2021-01-27 13:45:03-- 14:00:03     :    一  ：计算器   72/6.0分钟       二  ：D:\00-06\meger\Middlewares\Plate\UpperPlate.c (meger) - Sublime Text (UNREGISTERED)   21/1.75分钟     三  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)   17/1.41分钟
+2021-01-27 14:00:03-- 14:15:04     :    一  ：D:\CRS\KE18-VERSION1\Applications\SeparatorCtrl\SeparatorCtrl.c • (KE18-VERSION1) - Sublime Text (UNREGISTERED)   66/5.5分钟       二  ：UpperPlate.c - TortoiseMerge   62/5.16分钟     三  ：计算器   46/3.83分钟
+2021-01-27 14:15:04-- 14:30:04     :    一  ：计算器   171/14.2分钟       二  ：UpperPlate.c - TortoiseMerge   9/0.75分钟     三  ：   0/0.0分钟
+2021-01-27 14:30:04-- 14:45:04     :    一  ：UpperPlate.c - TortoiseMerge   69/5.75分钟       二  ：D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c (meger) - Sublime Text (UNREGISTERED)   54/4.5分钟     三  ：D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c • (meger) - Sublime Text (UNREGISTERED)   20/1.66分钟
+2021-01-27 14:45:04-- 15:00:02     :    一  ：D:\00-06\meger\Applications\PlateCtrl\UpperPlateCtrl.c (meger) - Sublime Text (UNREGISTERED)   86/7.16分钟       二  ：D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)   56/4.66分钟     三  ：随手记 - Google Chrome   15/1.25分钟
+2021-01-27 15:00:02-- 15:15:02     :    一  ：D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)   70/5.83分钟       二  ：D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)   56/4.66分钟     三  ：D:\00-06\1T1-Stop-Length\trunk\Applications\TrackCtrl\PaperManage\PaperManage.c (trunk) - Sublime Text (UNREGISTERED)   23/1.91分钟
+2021-01-27 15:15:02-- 15:30:02     :    一  ：D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)   86/7.16分钟       二  ：于斌1   80/6.66分钟     三  ：D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)   12/1.0分钟
+2021-01-27 15:30:02-- 15:45:02     :    一  ：D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)   129/10.7分钟       二  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   22/1.83分钟     三  ：Oracle | PeopleSoft Enterprise 登入 - Internet Explorer   8/0.66分钟
+2021-01-27 15:45:02-- 16:00:03     :    一  ：D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)   139/11.5分钟       二  ：D:\00-06\meger\Project\CashBox_1T2.uvprojx - μVision   16/1.33分钟     三  ：D:\00-06\meger\Applications\Track\Track.c (meger) - Sublime Text (UNREGISTERED)   9/0.75分钟
+2021-01-27 16:00:03-- 16:15:03     :    一  ：附件1：员工违纪处理办法.pdf - Adobe Reader   106/8.83分钟       二  ：D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)   46/3.83分钟     三  ：阎晓文   23/1.91分钟
+2021-01-27 16:15:03-- 16:30:03     :    一  ：附件1：员工违纪处理办法.pdf - Adobe Reader   59/4.91分钟       二  ：于斌1   55/4.58分钟     三  ：D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)   43/3.58分钟
+2021-01-27 16:30:03-- 16:45:03     :    一  ：于斌1   90/7.5分钟       二  ：火炬高技术产业开发区 公示公告 - Google Chrome   19/1.58分钟     三  ：历史记录 - Google Chrome   11/0.91分钟
+2021-01-27 16:45:03-- 17:00:03     :    一  ：D:\00-06\meger\Applications\PaperManage\PaperManage.c (meger) - Sublime Text (UNREGISTERED)   76/6.33分钟       二  ：D:\00-06\meger\Applications\PaperManage\PaperManage.c • (meger) - Sublime Text (UNREGISTERED)   60/5.0分钟     三  ：于斌1   9/0.75分钟
+2021-01-27 17:00:03-- 17:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 17:15:03-- 17:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 17:30:03-- 17:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 17:45:04-- 18:00:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 18:00:04-- 18:15:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 18:15:04-- 18:30:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 18:30:04-- 18:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 18:45:04-- 19:00:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 19:00:00-- 19:15:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 19:15:00-- 19:30:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 19:30:00-- 19:45:00     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 19:45:00-- 20:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 20:00:01-- 20:15:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 20:15:01-- 20:30:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 20:30:01-- 20:45:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 20:45:01-- 21:00:01     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 21:00:01-- 21:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 21:15:02-- 21:30:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 21:30:02-- 21:45:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 21:45:02-- 22:00:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 22:00:02-- 22:15:02     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 22:15:02-- 22:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 22:30:03-- 22:45:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 22:45:03-- 23:00:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 23:00:03-- 23:15:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 23:15:03-- 23:30:03     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
+2021-01-27 23:30:03-- 23:45:04     :    一  ：   0/0.0分钟       二  ：   0/0.0分钟     三  ：   0/0.0分钟
